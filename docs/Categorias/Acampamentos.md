@@ -1,5 +1,10 @@
 # Acampamentos
 
+<figure markdown="span" class="wk-page-banner">
+[![Fotografia do acampamento Gaivota (2005): animadores e participantes vestidos de beduínos, com o logótipo dos Campinácios no canto superior direito](../assets/imagens/Acampamentos_banner.webp)](../Acampamentos/2005/Gaivota.md)
+<figcaption>[Gaivota](../Acampamentos/2005/Gaivota.md) · 2005</figcaption>
+</figure>
+
 ## Acampamentos
 
 A principal actividade dos Campinácios, embora nem de perto a única são os Acampamentos no Verão. Estes começaram a realizar-se em 1989 ainda sem a denominação Campinácios e sem sequer o movimento estar estruturado.
