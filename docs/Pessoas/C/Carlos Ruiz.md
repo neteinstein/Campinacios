@@ -22,6 +22,7 @@
 - [Caldas de S.Paulo](../../Acampamentos/1990/Caldas%20de%20S.Paulo.md)
 - [Campinácios](../../Movimento/Campin%C3%A1cios.md)
 - [Campo Ibérico](../../Acampamentos/1995/Campo%20Ib%C3%A9rico.md)
+- [Manual de Funções](../../Movimento/Manual%20de%20Fun%C3%A7%C3%B5es.md)
 - [Pedreira](../../Acampamentos/1989/Pedreira.md)
 - [Rebordosa](../../Acampamentos/1993/Rebordosa.md)
 - [Wally](../../Acampamentos/1994/Wally.md)

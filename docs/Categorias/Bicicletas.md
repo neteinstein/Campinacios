@@ -85,6 +85,7 @@ Acampamentos do escalão Bicicletas - Alunos do 9º e 10º anos de escolaridade
 - [Bicicletas II](../Acampamentos/1996/Bicicletas%20II.md)
 - [CAmpIC 91](../Acampamentos/1991/CAmpIC%2091.md)
 - [CRUZZ](../Acampamentos/2023/CRUZZ.md)
+- [Caderno da Mamã](../Movimento/Caderno%20da%20Mam%C3%A3.md)
 - [Caldas de S.Paulo](../Acampamentos/1990/Caldas%20de%20S.Paulo.md)
 - [Caldorado](../Acampamentos/2024/Caldorado.md)
 - [Chama de Novo](../Acampamentos/2019/Chama%20de%20Novo.md)

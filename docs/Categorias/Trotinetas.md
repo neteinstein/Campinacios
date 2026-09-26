@@ -93,6 +93,7 @@ Acampamentos do escalão Trotinetas - Alunos do 7º e 8º anos de escolaridade
 - [Incrível](../Acampamentos/2009/Incr%C3%ADvel.md)
 - [Liberata](../Acampamentos/2000/Liberata.md)
 - [Limpo Pó](../Acampamentos/2022/Limpo%20P%C3%B3.md)
+- [Manual do Director](../Movimento/Manual%20do%20Director.md)
 - [OPA](../Acampamentos/2007/OPA.md)
 - [Origami](../Acampamentos/2006/Origami.md)
 - [Passaportas](../Acampamentos/2010/Passaportas.md)

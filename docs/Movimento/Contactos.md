@@ -47,8 +47,6 @@ Telef.: 239 940 030
 
 Fax: 239 940 037
 
-URL: http://caic.loyola.pt
-
 ## Colégio São João de Brito
 
 Colégio - geral@csjb.pt

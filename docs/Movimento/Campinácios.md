@@ -8,8 +8,27 @@
 - Logótipo Oficial do Movimento a partir de Janeiro de 1995 - por Joana Horta Botelho e Castro (CSJB)
 - Proposta de logótipo do Movimento em 1998 - Nunca se terminou ou tornou oficial
 - Logótipo Oficial do Movimento em 2003
-- Logótipo não oficial - Feito por Pedro Pinheiro para a comemoração do natal de 2006
-- Logótipo Oficial do Movimento a partir de Janeiro de 2010 (embora tenha sido usado desde 2006, foi criado para os 20 anos do Movimento) - por João David a pedido de Pedro Vicente
+- Logótipo não oficial - Feito por [Pedro Pinheiro](../Pessoas/P/Pedro%20Pinheiro.md) para a comemoração do natal de 2006
+- Logótipo Oficial do Movimento a partir de Janeiro de 2010 (embora tenha sido usado desde 2006, foi criado para os 20 anos do Movimento) - por João David a pedido de [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)
+
+<div class="wk-logos" markdown>
+<figure markdown="span">
+[![Logótipo de 1994: desenho a preto e branco de uma tenda, uma árvore, o IHS e «Campinácios 94», com a legenda «Campos de férias dos Colégios S.J.»](../assets/imagens/Campin%C3%A1cios_1994.jpg)](../assets/imagens/Campin%C3%A1cios_1994.jpg)
+<figcaption>1994 · oficial</figcaption>
+</figure>
+<figure markdown="span">
+[![Logótipo de 2003: círculo vermelho com uma tenda verde, o IHS e «Campinácios»](../assets/imagens/Campin%C3%A1cios_2004.jpg)](../assets/imagens/Campin%C3%A1cios_2004.jpg)
+<figcaption>2003 · oficial</figcaption>
+</figure>
+<figure markdown="span">
+[![Logótipo do Natal de 2006: o presépio dentro de uma tenda, num círculo azul com a estrela, o IHS e «Campinácios»](../assets/imagens/Campin%C3%A1cios_Natal.jpg)](../assets/imagens/Campin%C3%A1cios_Natal.jpg)
+<figcaption>Natal de 2006 · não oficial</figcaption>
+</figure>
+<figure markdown="span">
+[![Logótipo de 2010: tenda verde e sol num círculo vermelho, com o IHS e «Campinácios» por baixo](../assets/imagens/Campin%C3%A1cios_.jpg)](../assets/imagens/Campin%C3%A1cios_.jpg)
+<figcaption>2010 · oficial</figcaption>
+</figure>
+</div>
 
 Os CAMPINÁCIOS são um movimento de acampamentos de férias estreitamente ligado à Companhia de Jesus mas, especificamente integrado na vida pastoral dos seus três colégios existentes em Portugal: Colégio das Caldinhas ([CC](CC.md))*, Colégio S. João de Brito ([CSJB](CSJB.md)) e Colégio da Imaculada Conceição ([CAIC](CAIC.md)).
 
@@ -27,6 +46,10 @@ Neste contexto, no Verão de 1988 o [CSJB](CSJB.md), em Lisboa, oferece ao [CAMT
 Podemos considerar este facto como uma tentativa de estender a experiência do [CAMTIL](Camtil.md) aos colégios. Neste acampamento realizado em Julho na casa das Mimosas, estiveram envolvidas as seguintes pessoas: [Carlos Azevedo Mendes](../Pessoas/C/Carlos%20Azevedo%20Mendes.md) ([Director](../Cargos/Director.md)), João Muñoz sj e Sofia Coelho ([Mamã](../Cargos/Mam%C3%A3.md)). Ainda como animadores estiveram presentes alguns alunos mais velhos (curso secundário) do [CSJB](CSJB.md): [Rodrigo Queiroz e Melo](../Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md), [Concha Líbano Monteiro](../Pessoas/C/Concha%20L%C3%ADbano%20Monteiro.md), [Cristina Cabeça](../Pessoas/C/Cristina%20Cabe%C3%A7a.md), Filipa Vicente, Gil D’Orey (este não era aluno do colégio) e [Carlos Ruiz](../Pessoas/C/Carlos%20Ruiz.md) (educador do colégio).
 
 Em Agosto de 1988 no tradicional encontro de [Jesuítas](../Categorias/Jesu%C3%ADtas.md) da Província, em Soutelo, houve uma reunião entre os intervenientes nos acampamentos de férias e o Provincial. Deste encontro resultou a decisão de começar com uma organização de acampamentos de férias para os três colégios, dado que o [CAMTIL](Camtil.md) por excesso de inscrições não tinha a possibilidade de integrar nos seus acampamentos os alunos dos colégios.
+
+### A escolha do nome dos escalões
+
+Foi na noite de sábado para domingo. Tinham chegado sexta e os trabalhos tinham corrido bem, ficou definida a estrutura, como se organizavam os campos, a distribuição dos animadores e claro, tal como no [CAMTIL](Camtil.md) era preciso arranjar nomes. Estava muito frio, e depois do jantar à volta da aguardente de abrunho, lá se sentaram a conferenciar… a proposta inicial era óbvia: mini, fino, caneca, girafa. Seguiu-se a gradação de berlindes: berlinde, atirador, abafador. Quem finalmente propôs os actuais escalões foi o Zé Murteira, estava a liderar a conversa até que se lembrou dos nomes actuais… e foi o sucesso que se viu!
 
 ### Os primeiros acampamentos
 
@@ -61,6 +84,8 @@ Após este encontro, os CAMPINÁCIOS como movimento foi ganhando alguma estabili
 - [Jambo 99](../Acampamentos/1999/Jambo%2099.md)
 - [José Manuel Lopes](../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md)
 - [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
+- [Manual de Funções](Manual%20de%20Fun%C3%A7%C3%B5es.md)
+- [Manual do Director](Manual%20do%20Director.md)
 - [Sobre](../Wikin%C3%A1cios/Sobre.md)
 
 ---

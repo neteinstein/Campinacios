@@ -3,7 +3,7 @@
 <div class="wk-top" markdown="span">[Boas-vindas](Movimento/Boas-vindas.md) | [Ajuda](Wikin%C3%A1cios/Ajuda/Conte%C3%BAdos.md) | [Perguntas Frequentes](Movimento/FAQ.md) | [Contactos](Movimento/Contactos.md)</div>
 
 <div class="wk-banner" markdown>
-<div class="wk-count" markdown="span">**[951 artigos](Todos%20os%20artigos.md)**</div>
+<div class="wk-count" markdown="span">**[953 artigos](Todos%20os%20artigos.md)**</div>
 <div class="wk-welcome" markdown="span">[Bem-vindo(a)](Movimento/Boas-vindas.md) à **Wikinacios**,</div>
 <div class="wk-tagline" markdown="span">a enciclopédia livre sobre Campinácios que [(quase) todos podem editar](Wikin%C3%A1cios/Ajuda/Conte%C3%BAdos.md).</div>
 </div>
@@ -46,8 +46,7 @@ Ainda neste ano de 1989, no mês de Setembro, realizou-se o [Pedreira](Acampamen
 <div class="wk-box wk-green" markdown>
 <div class="wk-head" markdown="span">[Eventos recentes](Wikin%C3%A1cios/Predefini%C3%A7%C3%B5es/Eventos%20actuais.md)</div>
 
-- **6 de Janeiro de 2009**<br>Página dos [Campinácios](Movimento/Campin%C3%A1cios.md) muda-se para um novo servidor, iniciando-se a [Revolução Campinácios v2.0](Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)!
-- **31 de Janeiro de 2009**<br>Bate-se a margem dos 300 artigos publicados com a Wiki ainda não divulgada oficialmente.
+- **6 de Janeiro de 2009**<br>Inicia-se a [Revolução Campinácios v2.0](Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md) com nova página e o início da Wikinácios!
 - **25 de Novembro de 2009**<br>É oficialmente divulgada a Wikinácios com 630 artigos, sendo a primeira das grandes mudanças da Revolução a ser divulgada!
 - **26 de Setembro de 2026**<br>Wikinácios é [recuperada de um backup](Wikin%C3%A1cios/Sobre%20este%20arquivo.md) depois de ter sido "perdida" em 2010.
 
@@ -64,7 +63,7 @@ Ainda neste ano de 1989, no mês de Setembro, realizou-se o [Pedreira](Acampamen
 <div class="wk-section" markdown="span">**[Vocabulário](Movimento/Vocabul%C3%A1rio.md)**<br>[Animador](Movimento/Animador.md) &middot; [Jesuíta](Movimento/Jesu%C3%ADta.md) &middot; [Participante](Movimento/Participante.md) &middot; [Cantinácio](Movimento/Cantin%C3%A1cio.md) &middot; [Culinácio](Movimento/Culin%C3%A1cio.md) &middot; [mais...](Movimento/Vocabul%C3%A1rio.md)</div>
 <div class="wk-section" markdown="span">**[Contactos](Movimento/Contactos.md)**<br>[Direcção Nacional](Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) &middot; [Direcção Local do CAIC](Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) &middot; [Direcção Local do CC](Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) &middot; [Direcção Local do CSJB](Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) &middot; [Contactos dos Animadores](Movimento/Contactos.md)</div>
 <div class="wk-section" markdown="span">**[Legislação](Movimento/Legisla%C3%A7%C3%A3o.md)**<br>[Legislação de Acampamentos Ocasionais](Movimento/Legisla%C3%A7%C3%A3o.md)</div>
-<div class="wk-section" markdown="span">**Staff**<br>[Pedro Vicente](Pessoas/P/Pedro%20Vicente.md) &middot; [Tiago Bahia](Pessoas/T/Tiago%20Bahia.md)</div>
+<div class="wk-section" markdown="span">**[Contribuidores](Wikin%C3%A1cios/Contribuidores.md)**<br>[António Queiroz Martins](Pessoas/A/Ant%C3%B3nio%20Queiroz%20Martins.md) &middot; [Filipe Barroso](Pessoas/F/Filipe%20Barroso.md) &middot; [Joaquim Abreu](Pessoas/J/Joaquim%20Abreu.md) &middot; [Pedro Vicente](Pessoas/P/Pedro%20Vicente.md) &middot; [Sílvia Lobo](Pessoas/S/S%C3%ADlvia%20Lobo.md) &middot; [Tiago Bahia](Pessoas/T/Tiago%20Bahia.md)</div>
 <div class="wk-section" markdown="span">**[Todos os artigos](Todos%20os%20artigos.md)**</div>
 </div>
 

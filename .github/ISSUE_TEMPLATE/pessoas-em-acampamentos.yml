@@ -1,0 +1,36 @@
+name: 🔗 Pessoas em Acampamentos
+description: Dizer que uma pessoa (já com página) esteve num acampamento (já com página), como animador, na formação ou como participante.
+title: "[Pessoas em Acampamentos] "
+labels: ["pessoas-em-acampamentos"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use este formulário quando a pessoa e o acampamento já têm página na Wikinácios e só falta ligar os dois. Para uma pessoa nova ou um acampamento novo, use os formulários "🙋 Pessoa" ou "🏕️ Acampamento".
+
+        **Este pedido fica público.**
+  - type: textarea
+    id: ligacoes
+    attributes:
+      label: Pessoas e acampamentos
+      description: Um por linha, "Ano - Acampamento - Pessoa - Papel". O papel é um cargo (Director, Mamã, Director-Adjunto, Capelão, Capelinho, Tio/Tia, Animador de Equipa, Animador Livre), "Formação" ou "Participante". Escreva os nomes exactamente como aparecem no título das páginas.
+      placeholder: |
+        2008 - OrienTu - Maria Cortês Ferreira - Mamã
+        2008 - Êxodo - Camila Martins - Formação
+        2011 - Esperança - João Eiró - Participante
+    validations:
+      required: true
+  - type: textarea
+    id: fontes
+    attributes:
+      label: De onde vem esta informação?
+      description: Esteve lá? Tem documentos, fotografias, o caderno da Mamã…? Ajuda a confirmar.
+  - type: checkboxes
+    id: privacidade
+    attributes:
+      label: Antes de enviar
+      options:
+        - label: Confirmei que os nomes das pessoas e dos acampamentos estão escritos como nas páginas da Wikinácios (ou como devem ficar, se ainda não existirem).
+          required: true
+        - label: Não incluí nomes de participantes menores de idade fora dos Calhambeques e da Formação de Animadores.
+          required: true
