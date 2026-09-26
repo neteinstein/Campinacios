@@ -8,13 +8,13 @@ José Luís Martins Fernandes, nascido a 1 de Dezembro de 1979, é animador do C
 
 ### Acampamentos
 
-        - Participante**
+- **Participante:**
     - 1992 [Fornelos](../../Acampamentos/1992/Fornelos.md)
     - 1993 [Tabuadelas II](../../Acampamentos/1993/Tabuadelas%20II.md)
     - 1994 [Vila do Bispo II/94](../../Acampamentos/1994/Vila%20do%20Bispo%20II-94.md)
     - 1995 [Parada](../../Acampamentos/1995/Parada.md)
     - 1997 [GANZA](../../Acampamentos/1997/GANZA.md)
-        - Animador**
+- **Animador:**
     - 1996 Santa Margarida - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 1998 Porto da Balsa - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 1999 Vila Verde - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)

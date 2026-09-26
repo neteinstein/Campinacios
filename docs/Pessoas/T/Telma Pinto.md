@@ -4,12 +4,12 @@ Telma Alexandra Machado Pinto, nascida 18 de Agosto de 1980, é animadora do CC.
 
 ### Acampamentos
 
-        - Participante**
+- **Participante:**
     - 1993 [Tabuadelas II](../../Acampamentos/1993/Tabuadelas%20II.md)
     - 1994
     - 1995
     - 1996
-        - Animadora**
+- **Animadora:**
     - 1997 [Poucha](../../Acampamentos/1997/Poucha.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 1998 [Além](../../Acampamentos/1998/Al%C3%A9m.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 1999 [Caroço](../../Acampamentos/1999/Caro%C3%A7o.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)

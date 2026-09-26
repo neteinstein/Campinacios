@@ -2,10 +2,10 @@
 
 ### Acampamentos
 
-        - Participante**
+- **Participante:**
     - 1995 [Benfeita 95](../../Acampamentos/1995/Benfeita%2095.md)
     - 1996 [Alvoco 96](../../Acampamentos/1996/Alvoco%2096.md)
-        - Animador**
+- **Animador:**
     - 2002 [Piripetroporco](../../Acampamentos/2002/Piripetroporco.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
 ## Páginas que ligam para aqui
