@@ -39,11 +39,11 @@ A iniciativa teve o apoio directo da [Direcção Nacional](../Categorias/Direc%C
 - **Loja Online** (Working on it...)
     - [Filipe Barroso](../Pessoas/F/Filipe%20Barroso.md)
 
-- **[Facebook](http://www.facebook.com/profile.php?id=100000329494734&ref=ts)**
+- **Facebook**
     - [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) e [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md)
 - **[YouTube](http://youtube.com/campinacios)**
     - [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) e [Filipe Barroso](../Pessoas/F/Filipe%20Barroso.md)
-- **[Twitter](http://twitter.com/campinacios)**
+- **Twitter**
     - [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)
 
 ## Páginas que ligam para aqui
