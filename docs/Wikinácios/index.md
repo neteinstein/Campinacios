@@ -4,9 +4,7 @@ Wiki @ Campinácios faz parte do Movimento [Campinácios](../Movimento/Campin%C3
 
 É um dos sítios que foi criado na [Revolução Campinácios v2.0](../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)!
 
-Páginas sobre a própria wiki: ajuda, políticas e predefinições. Ver também [Sobre este arquivo](Sobre%20este%20arquivo.md).
-
-- [Predefinições](Predefini%C3%A7%C3%B5es/index.md) (1)
+Páginas sobre a própria wiki: ajuda e políticas. Ver também [Sobre este arquivo](Sobre%20este%20arquivo.md).
 
 - [Apoio](Apoio.md)
 - [Conteúdos](Conte%C3%BAdos.md)
