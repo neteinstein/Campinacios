@@ -8,7 +8,7 @@ Diana Pinto Quintela, nascida a 22 de Maio de 1978, é animadora do CC.
 
 ### Acampamentos
 
-        - Animadora**
+- **Animadora:**
     - 1998 [Tiw-y-moy](../../Acampamentos/1998/Tiw-y-moy.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 1999 [Caroço](../../Acampamentos/1999/Caro%C3%A7o.md) - [Tia](../../Cargos/Tio.md)
     - 2000 [Tranquilo](../../Acampamentos/2000/Tranquilo.md) - [Mamã](../../Cargos/Mam%C3%A3.md)

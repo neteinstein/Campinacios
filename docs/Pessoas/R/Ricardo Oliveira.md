@@ -4,10 +4,10 @@ Ricardo Henrique Ferreira de Oliveira, nascido a 2 de Janeiro de 1983 é animado
 
 ### Acampamentos
 
-        - Participante**
+- **Participante:**
     - 2000 [Pavio](../../Acampamentos/2000/Pavio.md)
     - 2001 [Shampum de Pessêgo](../../Acampamentos/2001/Shampum%20de%20Pess%C3%AAgo.md)
-        - Animador**
+- **Animador:**
     - 2002 [Jangada](../../Acampamentos/2002/Jangada.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2003 [Farol](../../Acampamentos/2003/Farol.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2004 [Ídolo](../../Acampamentos/2004/%C3%8Ddolo.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
