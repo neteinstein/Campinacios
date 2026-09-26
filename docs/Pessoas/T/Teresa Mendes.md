@@ -1,15 +1,3 @@
----
-title: "Teresa Mendes"
-aliases:
-  - "Nini"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 842
-last_edited: "2009-06-08T00:47:55Z"
-last_editor: "Neteinstein"
----
-
 # Teresa Mendes
 
 Teresa Mendes mais conhecida por Nini.
@@ -36,4 +24,9 @@ Teresa Mendes mais conhecida por Nini.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+**Outros nomes:** Nini
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

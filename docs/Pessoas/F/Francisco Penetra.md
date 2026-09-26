@@ -1,13 +1,3 @@
----
-title: "Francisco Penetra"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 808
-last_edited: "2009-06-09T13:39:02Z"
-last_editor: "Neteinstein"
----
-
 # Francisco Penetra
 
 ### Acampamentos
@@ -28,4 +18,7 @@ last_editor: "Neteinstein"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

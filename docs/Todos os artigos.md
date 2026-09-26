@@ -1,7 +1,3 @@
----
-title: "Todos os artigos"
----
-
 # Todos os artigos
 
 656 artigos e, em itálico, os 111 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.

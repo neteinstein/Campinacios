@@ -1,14 +1,3 @@
----
-title: "Em Busca da CaraBela"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2006"
-  - "Triciclos"
-wiki_id: 93
-last_edited: "2009-02-15T00:26:20Z"
-last_editor: "Neteinstein"
----
-
 # Em Busca da CaraBela
 
 Este acampamento decorreu de 25 de Julho a 3 de Agosto de 2006 em [Vila da Ponte](../../Restrito/Locais%20de%20Acampamento/Vila%20da%20Ponte%20%28Montalegre%29.md) (Montalegre).
@@ -42,4 +31,8 @@ Este acampamento decorreu de 25 de Julho a 3 de Agosto de 2006 em [Vila da Ponte
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2006](../../Categorias/Acampamentos%20de%202006.md) · [Triciclos](../../Categorias/Triciclos.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2006](../../Categorias/Acampamentos%20de%202006.md) |
+| [Triciclos](../../Categorias/Triciclos.md) |

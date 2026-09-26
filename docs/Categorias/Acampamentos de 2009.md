@@ -1,12 +1,3 @@
----
-title: "Acampamentos de 2009"
-categories:
-  - "Acampamentos"
-wiki_id: 895
-last_edited: "2009-08-08T11:55:24Z"
-last_editor: "Neteinstein"
----
-
 # Acampamentos de 2009
 
 ## Páginas nesta categoria (9)
@@ -23,4 +14,6 @@ last_editor: "Neteinstein"
 
 ---
 
-**Categorias:** [Acampamentos](Acampamentos.md)
+| Categorias |
+| --- |
+| [Acampamentos](Acampamentos.md) |

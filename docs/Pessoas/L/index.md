@@ -1,7 +1,3 @@
----
-title: "L"
----
-
 # L
 
 - [Lara Fernandes](Lara%20Fernandes.md)

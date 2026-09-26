@@ -1,13 +1,3 @@
----
-title: "Artur Correia"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 854
-last_edited: "2009-08-20T22:28:50Z"
-last_editor: "Tnbahia"
----
-
 # Artur Correia
 
 ### Acampamentos
@@ -28,4 +18,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

@@ -1,10 +1,3 @@
----
-title: "Campinácios Natal.jpg"
-wiki_id: 407
-last_edited: "2009-01-25T03:13:25Z"
-last_editor: "Neteinstein"
----
-
 # Campinácios Natal.jpg
 
 Logótipo não oficial, comemorativo do natal

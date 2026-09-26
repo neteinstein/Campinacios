@@ -1,10 +1,3 @@
----
-title: "Jesuíta"
-wiki_id: 433
-last_edited: "2009-01-25T19:38:29Z"
-last_editor: "Neteinstein"
----
-
 # Jesuíta
 
 A Companhia de Jesus (em latim: Societas Iesu, S. J.), cujos membros são conhecidos como jesuítas, é uma ordem religiosa fundada em 1534 por um grupo de estudantes da Universidade de Paris, liderados pelo basco ”ñigo López de Loyola, conhecido posteriormente como Inácio de Loyola. É hoje conhecida principalmente por seu trabalho missionário e educacional.

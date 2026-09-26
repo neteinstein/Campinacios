@@ -1,14 +1,3 @@
----
-title: "Bublix"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2009"
-  - "Triciclos"
-wiki_id: 898
-last_edited: "2009-12-06T18:51:58Z"
-last_editor: "Tnbahia"
----
-
 # Bublix
 
 O Bublix decorreu entre os dias 29 de Julho e 7 de Agosto de 2009 em [Digueifel (Arganil)](../../Restrito/Locais%20de%20Acampamento/Digueifel%20%28Arganil%29.md), sendo um acampamento de [Triciclos](../../Categorias/Triciclos.md).
@@ -43,4 +32,8 @@ O Bublix decorreu entre os dias 29 de Julho e 7 de Agosto de 2009 em [Digueifel 
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2009](../../Categorias/Acampamentos%20de%202009.md) · [Triciclos](../../Categorias/Triciclos.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2009](../../Categorias/Acampamentos%20de%202009.md) |
+| [Triciclos](../../Categorias/Triciclos.md) |

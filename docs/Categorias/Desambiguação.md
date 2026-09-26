@@ -1,10 +1,3 @@
----
-title: "Desambiguação"
-wiki_id: 892
-last_edited: "2009-06-08T17:42:43Z"
-last_editor: "Neteinstein"
----
-
 # Desambiguação
 
 Páginas de desambiguação

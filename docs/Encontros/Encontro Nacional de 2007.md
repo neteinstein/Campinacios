@@ -1,12 +1,3 @@
----
-title: "Encontro Nacional de 2007"
-categories:
-  - "Encontros Nacionais"
-wiki_id: 11
-last_edited: "2009-02-09T00:17:25Z"
-last_editor: "Tnbahia"
----
-
 # Encontro Nacional de 2007
 
 O Encontro Nacional de 2007 realizou-se no CAIC tendo como Imaginarium a Gália de Astérix e Obélix.
@@ -22,4 +13,6 @@ Todos os animadores do CAIC no activo.
 
 ---
 
-**Categorias:** [Encontros Nacionais](../Categorias/Encontros%20Nacionais.md)
+| Categorias |
+| --- |
+| [Encontros Nacionais](../Categorias/Encontros%20Nacionais.md) |

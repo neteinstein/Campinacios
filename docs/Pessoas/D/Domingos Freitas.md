@@ -1,14 +1,3 @@
----
-title: "Domingos Freitas"
-categories:
-  - "Jesuítas"
-  - "Assistentes Nacionais"
-  - "Direcção Nacional"
-wiki_id: 623
-last_edited: "2009-02-11T22:50:03Z"
-last_editor: "Tnbahia"
----
-
 # Domingos Freitas
 
 Domingos Freitas sj foi um dos fundadores do movimento. Esteve presente nos primeiros campos em 1989.
@@ -45,4 +34,8 @@ Domingos Freitas sj foi um dos fundadores do movimento. Esteve presente nos prim
 
 ---
 
-**Categorias:** [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) · [Assistentes Nacionais](../../Categorias/Assistentes%20Nacionais.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
+| Categorias |
+| --- |
+| [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |
+| [Assistentes Nacionais](../../Categorias/Assistentes%20Nacionais.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |

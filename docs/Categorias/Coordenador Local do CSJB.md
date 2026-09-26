@@ -1,7 +1,3 @@
----
-title: "Coordenador Local do CSJB"
----
-
 # Coordenador Local do CSJB
 
 ## Páginas nesta categoria (1)

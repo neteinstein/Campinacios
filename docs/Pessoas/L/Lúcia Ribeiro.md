@@ -1,13 +1,3 @@
----
-title: "Lúcia Ribeiro"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 867
-last_edited: "2010-08-22T23:41:56Z"
-last_editor: "ABarroso"
----
-
 # Lúcia Ribeiro
 
 ### Acampamentos
@@ -34,4 +24,7 @@ last_editor: "ABarroso"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

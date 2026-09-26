@@ -1,14 +1,3 @@
----
-title: "Caldiclos"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1994"
-  - "Triciclos"
-wiki_id: 368
-last_edited: "2009-02-15T00:10:06Z"
-last_editor: "Neteinstein"
----
-
 # Caldiclos
 
 Este acampamento de [Triciclos](../../Categorias/Triciclos.md) decorreu de 12 a 21 de Agosto de 1994 em [Fonte de Nena](../../Restrito/Locais%20de%20Acampamento/Fonte%20de%20Nena%20%28Caldelas%29.md) (Caldelas).
@@ -29,4 +18,8 @@ Este acampamento de [Triciclos](../../Categorias/Triciclos.md) decorreu de 12 a 
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1994](../../Categorias/Acampamentos%20de%201994.md) · [Triciclos](../../Categorias/Triciclos.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1994](../../Categorias/Acampamentos%20de%201994.md) |
+| [Triciclos](../../Categorias/Triciclos.md) |

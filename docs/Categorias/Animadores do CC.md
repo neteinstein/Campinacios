@@ -1,12 +1,3 @@
----
-title: "Animadores do CC"
-categories:
-  - "Animadores"
-wiki_id: 10
-last_edited: "2009-01-19T00:59:52Z"
-last_editor: "Admin"
----
-
 # Animadores do CC
 
 Animadores do Colégio das Caldinhas
@@ -157,4 +148,6 @@ Animadores do Colégio das Caldinhas
 
 ---
 
-**Categorias:** [Animadores](Animadores.md)
+| Categorias |
+| --- |
+| [Animadores](Animadores.md) |

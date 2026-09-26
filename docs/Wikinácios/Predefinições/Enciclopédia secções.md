@@ -1,10 +1,3 @@
----
-title: "Enciclopédia secções"
-wiki_id: 353
-last_edited: "2010-04-26T15:55:31Z"
-last_editor: "Neteinstein"
----
-
 # Enciclopédia secções
 
 ```text

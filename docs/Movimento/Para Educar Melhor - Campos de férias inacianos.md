@@ -1,13 +1,3 @@
----
-title: "\"Para Educar Melhor - Campos de férias inacianos\""
-categories:
-  - "Livros"
-  - "Jesuítas"
-wiki_id: 974
-last_edited: "2010-04-12T20:40:14Z"
-last_editor: "ABarroso"
----
-
 # "Para Educar Melhor - Campos de férias inacianos"
 
 ### Apresentação do livro
@@ -41,4 +31,7 @@ Secretariado Nacional do Apostolado da Oração
 
 ---
 
-**Categorias:** [Livros](../Categorias/Livros.md) · [Jesuítas](../Categorias/Jesu%C3%ADtas.md)
+| Categorias |
+| --- |
+| [Livros](../Categorias/Livros.md) |
+| [Jesuítas](../Categorias/Jesu%C3%ADtas.md) |

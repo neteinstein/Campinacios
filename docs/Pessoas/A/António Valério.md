@@ -1,13 +1,3 @@
----
-title: "António Valério"
-categories:
-  - "Direcção Local do CC"
-  - "Jesuítas"
-wiki_id: 214
-last_edited: "2009-01-23T04:52:22Z"
-last_editor: "Neteinstein"
----
-
 # António Valério
 
 ### Acampamentos
@@ -33,4 +23,7 @@ last_editor: "Neteinstein"
 
 ---
 
-**Categorias:** [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) · [Jesuítas](../../Categorias/Jesu%C3%ADtas.md)
+| Categorias |
+| --- |
+| [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) |
+| [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |

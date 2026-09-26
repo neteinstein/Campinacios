@@ -1,14 +1,3 @@
----
-title: "Camtil"
-aliases:
-  - "CAMTIL"
-categories:
-  - "História"
-wiki_id: 387
-last_edited: "2009-11-26T14:37:24Z"
-last_editor: "Neteinstein"
----
-
 # Camtil
 
 O CAMTIL como movimento nasce devido a uma divisão interna do MOCAMFE.
@@ -51,4 +40,8 @@ Cfr. José da Silva ALMEIDA SJ, Para Educar Melhor - Campos de Férias Inacianos
 
 ---
 
-**Categorias:** [História](../Categorias/Hist%C3%B3ria.md)
+**Outros nomes:** CAMTIL
+
+| Categorias |
+| --- |
+| [História](../Categorias/Hist%C3%B3ria.md) |

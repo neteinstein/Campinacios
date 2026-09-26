@@ -1,13 +1,3 @@
----
-title: "Catarina Fonseca"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 835
-last_edited: "2010-08-19T17:29:25Z"
-last_editor: "Tnbahia"
----
-
 # Catarina Fonseca
 
 ### Acampamentos
@@ -35,4 +25,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

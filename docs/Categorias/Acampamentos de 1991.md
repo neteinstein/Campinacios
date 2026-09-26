@@ -1,12 +1,3 @@
----
-title: "Acampamentos de 1991"
-categories:
-  - "Acampamentos"
-wiki_id: 317
-last_edited: "2009-01-24T02:55:52Z"
-last_editor: "Neteinstein"
----
-
 # Acampamentos de 1991
 
 Acampamentos realizados em 1991
@@ -19,4 +10,6 @@ Acampamentos realizados em 1991
 
 ---
 
-**Categorias:** [Acampamentos](Acampamentos.md)
+| Categorias |
+| --- |
+| [Acampamentos](Acampamentos.md) |

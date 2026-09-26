@@ -1,12 +1,3 @@
----
-title: "José Ferreira"
-categories:
-  - "Desambiguação"
-wiki_id: 879
-last_edited: "2009-06-02T16:15:32Z"
-last_editor: "Tnbahia"
----
-
 # José Ferreira
 
 ---
@@ -30,4 +21,6 @@ Se uma [ligação interna](Jos%C3%A9%20Ferreira.md#páginas-que-ligam-para-aqui)
 
 ---
 
-**Categorias:** [Desambiguação](../../Categorias/Desambigua%C3%A7%C3%A3o.md)
+| Categorias |
+| --- |
+| [Desambiguação](../../Categorias/Desambigua%C3%A7%C3%A3o.md) |

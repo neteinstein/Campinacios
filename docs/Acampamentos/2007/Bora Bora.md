@@ -1,14 +1,3 @@
----
-title: "Bora Bora"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2007"
-  - "Triciclos"
-wiki_id: 103
-last_edited: "2009-02-15T15:07:03Z"
-last_editor: "Neteinstein"
----
-
 # Bora Bora
 
 Bora Bora foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que se realizou de 27 de Julho a 5 de Agosto na [Murtinheira](../../Restrito/Locais%20de%20Acampamento/Murtinheira%20%28Vila%20Nova%20do%20Ceira%29.md).
@@ -43,4 +32,8 @@ Bora Bora foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que s
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2007](../../Categorias/Acampamentos%20de%202007.md) · [Triciclos](../../Categorias/Triciclos.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2007](../../Categorias/Acampamentos%20de%202007.md) |
+| [Triciclos](../../Categorias/Triciclos.md) |

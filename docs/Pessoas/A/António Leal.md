@@ -1,13 +1,3 @@
----
-title: "António Leal"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 964
-last_edited: "2009-12-09T17:05:20Z"
-last_editor: "Tnbahia"
----
-
 # António Leal
 
 ### Acampamentos
@@ -26,4 +16,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

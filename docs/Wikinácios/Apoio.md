@@ -1,10 +1,3 @@
----
-title: "Apoio"
-wiki_id: 376
-last_edited: "2009-01-24T17:58:49Z"
-last_editor: "Neteinstein"
----
-
 # Apoio
 
 Exmos. Senhores:

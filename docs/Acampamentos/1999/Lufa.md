@@ -1,14 +1,3 @@
----
-title: "Lufa"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1999"
-  - "Triciclos"
-wiki_id: 225
-last_edited: "2009-02-15T14:57:48Z"
-last_editor: "Neteinstein"
----
-
 # Lufa
 
 O Lufa decorreu em [Alvoco das Várzeas](../../Restrito/Locais%20de%20Acampamento/Alvoco%20das%20V%C3%A1rzeas%20%28Oliveira%20do%20Hospital%29.md). Este acampamento decorreu em simultâneo com o outro campo de triciclos desse ano, no mesmo local.
@@ -29,4 +18,8 @@ O Lufa decorreu em [Alvoco das Várzeas](../../Restrito/Locais%20de%20Acampament
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1999](../../Categorias/Acampamentos%20de%201999.md) · [Triciclos](../../Categorias/Triciclos.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1999](../../Categorias/Acampamentos%20de%201999.md) |
+| [Triciclos](../../Categorias/Triciclos.md) |

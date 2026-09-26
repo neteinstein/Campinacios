@@ -1,13 +1,3 @@
----
-title: "Joana Cardim"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 843
-last_edited: "2009-09-25T18:42:11Z"
-last_editor: "Silvinha"
----
-
 # Joana Cardim
 
 ### Acampamentos
@@ -27,4 +17,7 @@ last_editor: "Silvinha"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

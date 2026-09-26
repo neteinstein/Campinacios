@@ -1,16 +1,3 @@
----
-title: "Tio"
-aliases:
-  - "Tia"
-  - "Tias"
-  - "Tios"
-categories:
-  - "Cargos"
-wiki_id: 88
-last_edited: "2009-01-25T21:21:28Z"
-last_editor: "Neteinstein"
----
-
 # Tio
 
 - A função principal é dividir as tarefas com a mamã e permitir que esta esteja mais activa e atenta ao acampamento.
@@ -187,4 +174,8 @@ last_editor: "Neteinstein"
 
 ---
 
-**Categorias:** [Cargos](../Categorias/Cargos.md)
+**Outros nomes:** Tia · Tias · Tios
+
+| Categorias |
+| --- |
+| [Cargos](../Categorias/Cargos.md) |

@@ -1,13 +1,3 @@
----
-title: "Joana Cardoso"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 492
-last_edited: "2009-06-05T18:07:14Z"
-last_editor: "Carvalho.francisco3"
----
-
 # Joana Cardoso
 
 ### Acampamentos
@@ -38,4 +28,7 @@ last_editor: "Carvalho.francisco3"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

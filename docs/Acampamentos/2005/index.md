@@ -1,7 +1,3 @@
----
-title: "2005"
----
-
 # 2005
 
 - [Academia](Academia.md) — Triciclos

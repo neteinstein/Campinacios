@@ -1,7 +1,3 @@
----
-title: "T"
----
-
 # T
 
 - [Telma Pinto](Telma%20Pinto.md)

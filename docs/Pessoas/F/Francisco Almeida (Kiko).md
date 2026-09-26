@@ -1,13 +1,3 @@
----
-title: "Francisco Almeida (Kiko)"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 958
-last_edited: "2009-12-06T18:34:36Z"
-last_editor: "Tnbahia"
----
-
 # Francisco Almeida (Kiko)
 
 ### Acampamentos
@@ -26,4 +16,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

@@ -1,7 +1,3 @@
----
-title: "Livros"
----
-
 # Livros
 
 ## Páginas nesta categoria (1)

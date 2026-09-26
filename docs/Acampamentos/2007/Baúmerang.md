@@ -1,14 +1,3 @@
----
-title: "Baúmerang"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2007"
-  - "Bicicletas"
-wiki_id: 99
-last_edited: "2009-02-01T01:37:11Z"
-last_editor: "Neteinstein"
----
-
 # Baúmerang
 
 Baúmerang foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) realizado de 16 a 25 de Agosto em [Serpins](../../Restrito/Locais%20de%20Acampamento/Ribeira%20do%20Conde%20%28Serpins%29.md).
@@ -46,4 +35,8 @@ Baúmerang foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) re
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2007](../../Categorias/Acampamentos%20de%202007.md) · [Bicicletas](../../Categorias/Bicicletas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2007](../../Categorias/Acampamentos%20de%202007.md) |
+| [Bicicletas](../../Categorias/Bicicletas.md) |

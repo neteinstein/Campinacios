@@ -1,14 +1,3 @@
----
-title: "M&M"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2007"
-  - "Triciclos"
-wiki_id: 94
-last_edited: "2009-02-15T15:07:37Z"
-last_editor: "Neteinstein"
----
-
 # M&M
 
 M&M foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que se realizou de 23 de Julho a 1 de Agosto na [Quinta da Mata (Ponte da Barca)](../../Restrito/Locais%20de%20Acampamento/Quinta%20da%20Mata%20%28Ponte%20da%20Barca%29.md)
@@ -43,4 +32,8 @@ M&M foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que se real
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2007](../../Categorias/Acampamentos%20de%202007.md) · [Triciclos](../../Categorias/Triciclos.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2007](../../Categorias/Acampamentos%20de%202007.md) |
+| [Triciclos](../../Categorias/Triciclos.md) |

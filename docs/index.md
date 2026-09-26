@@ -1,13 +1,3 @@
----
-title: "Wikinácios"
-hide:
-  - "navigation"
-  - "toc"
-wiki_id: 2
-last_edited: "2009-11-27T10:50:19Z"
-last_editor: "Neteinstein"
----
-
 <h1 class="wk-title">Wikinácios</h1>
 
 <div class="wk-top" markdown="span">[Boas-vindas](Movimento/Boas-vindas.md) | [Ajuda](Wikin%C3%A1cios/Ajuda/Conte%C3%BAdos.md) | [Perguntas Frequentes](Movimento/FAQ.md) | [Contactos](Movimento/Contactos.md)</div>

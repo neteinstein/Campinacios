@@ -1,15 +1,3 @@
----
-title: "Francisco Rodrigues (CAIC)"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-  - "Direcção Local do CAIC"
-  - "Direcção Nacional"
-wiki_id: 580
-last_edited: "2009-02-13T14:53:47Z"
-last_editor: "Neteinstein"
----
-
 # Francisco Rodrigues (CAIC)
 
 Francisco Rodrigues foi um dos animadores do Colégio da Imaculada Conceição.
@@ -35,4 +23,9 @@ Francisco Rodrigues foi um dos animadores do Colégio da Imaculada Conceição.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) · [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |
+| [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |

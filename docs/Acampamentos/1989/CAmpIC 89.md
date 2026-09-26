@@ -1,13 +1,3 @@
----
-title: "CAmpIC 89"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1989"
-wiki_id: 650
-last_edited: "2009-12-04T17:47:26Z"
-last_editor: "Tnbahia"
----
-
 # CAmpIC 89
 
 Este acampamento organizado pelo CAIC na casa da Serra da Estrela, para os seus alunos, foi na prática o primeiro acampamento a ter participantes dos 3 Colégios a partir da sugestão do Padre [Manuel Paiva](../../Pessoas/M/Manuel%20Paiva.md) sj. Só a partir do [Ferrugenta](Ferrugenta.md), os acampamentos foram organizados a nível inter-colegial.
@@ -33,4 +23,7 @@ Este acampamento organizado pelo CAIC na casa da Serra da Estrela, para os seus 
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1989](../../Categorias/Acampamentos%20de%201989.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1989](../../Categorias/Acampamentos%20de%201989.md) |

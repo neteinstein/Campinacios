@@ -1,14 +1,3 @@
----
-title: "Agroal"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1992"
-  - "Trotinetas"
-wiki_id: 299
-last_edited: "2009-02-15T14:44:16Z"
-last_editor: "Neteinstein"
----
-
 # Agroal
 
 Este acampamento de [Trotinetas](../../Categorias/Trotinetas.md) decorreu no [Agroal (Tomar)](../../Restrito/Locais%20de%20Acampamento/Agroal%20%28Tomar%29.md), entre os dias 20 e 29 de Julho de 1992.
@@ -34,4 +23,8 @@ Este acampamento de [Trotinetas](../../Categorias/Trotinetas.md) decorreu no [Ag
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1992](../../Categorias/Acampamentos%20de%201992.md) · [Trotinetas](../../Categorias/Trotinetas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1992](../../Categorias/Acampamentos%20de%201992.md) |
+| [Trotinetas](../../Categorias/Trotinetas.md) |

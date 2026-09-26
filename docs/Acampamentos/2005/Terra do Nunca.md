@@ -1,14 +1,3 @@
----
-title: "Terra do Nunca"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2005"
-  - "Triciclos"
-wiki_id: 115
-last_edited: "2009-12-06T18:06:46Z"
-last_editor: "Tnbahia"
----
-
 # Terra do Nunca
 
 O Terra do Nunca foi um acampamento de Triciclos que decorreu de 21 a 30 de Julho de 2005 em [Digueifel](../../Restrito/Locais%20de%20Acampamento/Digueifel%20%28Arganil%29.md).
@@ -34,4 +23,8 @@ O Terra do Nunca foi um acampamento de Triciclos que decorreu de 21 a 30 de Julh
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2005](../../Categorias/Acampamentos%20de%202005.md) · [Triciclos](../../Categorias/Triciclos.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2005](../../Categorias/Acampamentos%20de%202005.md) |
+| [Triciclos](../../Categorias/Triciclos.md) |

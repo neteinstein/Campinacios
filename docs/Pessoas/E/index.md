@@ -1,7 +1,3 @@
----
-title: "E"
----
-
 # E
 
 - [Eduardo Almeida](Eduardo%20Almeida.md)

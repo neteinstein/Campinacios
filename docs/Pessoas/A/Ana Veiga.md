@@ -1,13 +1,3 @@
----
-title: "Ana Veiga"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 852
-last_edited: "2009-09-25T18:40:00Z"
-last_editor: "Silvinha"
----
-
 # Ana Veiga
 
 ### Acampamentos
@@ -25,4 +15,7 @@ last_editor: "Silvinha"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

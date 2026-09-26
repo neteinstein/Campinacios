@@ -1,13 +1,3 @@
----
-title: "Sílvio Gonçalves"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 233
-last_edited: "2009-01-23T03:29:28Z"
-last_editor: "Tnbahia"
----
-
 # Sílvio Gonçalves
 
 ### Acampamentos
@@ -22,4 +12,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

@@ -1,10 +1,3 @@
----
-title: "Desambiguação"
-wiki_id: 285
-last_edited: "2009-01-23T21:31:24Z"
-last_editor: "Neteinstein"
----
-
 # Desambiguação
 
 ```text

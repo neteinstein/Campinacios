@@ -1,10 +1,3 @@
----
-title: "CC"
-wiki_id: 411
-last_edited: "2009-01-25T14:31:40Z"
-last_editor: "Neteinstein"
----
-
 # CC
 
 O Colégio das Caldinhas é o complexo educativo constituído pelo conjunto das várias escolas que o integram: INA - Instituto Nun'Alvres, Jardim de Infância, OFICINA - Escola Profissional, CCM - Conservatório de Música e ARTAVE - Escola Profissional.

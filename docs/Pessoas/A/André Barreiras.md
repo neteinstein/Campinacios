@@ -1,13 +1,3 @@
----
-title: "André Barreiras"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 853
-last_edited: "2009-09-25T16:17:36Z"
-last_editor: "Silvinha"
----
-
 # André Barreiras
 
 ### Acampamentos
@@ -29,4 +19,7 @@ last_editor: "Silvinha"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

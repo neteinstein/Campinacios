@@ -1,13 +1,3 @@
----
-title: "Pedro Pena"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 253
-last_edited: "2009-01-23T18:48:41Z"
-last_editor: "Neteinstein"
----
-
 # Pedro Pena
 
 Pedro Pena é um dos animadores do Colégio da Imaculada Conceição.
@@ -31,4 +21,7 @@ Pedro Pena é um dos animadores do Colégio da Imaculada Conceição.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

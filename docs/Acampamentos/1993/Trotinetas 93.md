@@ -1,14 +1,3 @@
----
-title: "Trotinetas 93"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1993"
-  - "Trotinetas"
-wiki_id: 308
-last_edited: "2010-04-12T11:41:49Z"
-last_editor: "Neteinstein"
----
-
 # Trotinetas 93
 
 Este acampamento de [Trotinetas](../../Categorias/Trotinetas.md) decorreu de 20 a 29 de Julho de 1993 na [Barragem de Santa Clara](../../Restrito/Locais%20de%20Acampamento/Barragem%20de%20Santa%20Clara.md).
@@ -25,4 +14,8 @@ Este acampamento de [Trotinetas](../../Categorias/Trotinetas.md) decorreu de 20 
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1993](../../Categorias/Acampamentos%20de%201993.md) · [Trotinetas](../../Categorias/Trotinetas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1993](../../Categorias/Acampamentos%20de%201993.md) |
+| [Trotinetas](../../Categorias/Trotinetas.md) |

@@ -1,14 +1,3 @@
----
-title: "Graal II"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2003"
-  - "Formação de Animadores"
-wiki_id: 119
-last_edited: "2009-02-15T00:21:49Z"
-last_editor: "Neteinstein"
----
-
 # Graal II
 
 O Graal II foi um acampamento de [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) que decorreu de 9 a 18 de Agosto de 2003  no [Lugar do Barco](../../Restrito/Locais%20de%20Acampamento/Lugar%20do%20Barco%20%28Ref%C3%B3ios%20do%20Lima%29.md) (Refóios do Lima).
@@ -55,4 +44,8 @@ O Graal II foi um acampamento de [Formação de Animadores](../../Categorias/For
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2003](../../Categorias/Acampamentos%20de%202003.md) · [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2003](../../Categorias/Acampamentos%20de%202003.md) |
+| [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) |

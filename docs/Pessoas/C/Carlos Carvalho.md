@@ -1,14 +1,3 @@
----
-title: "Carlos Carvalho"
-categories:
-  - "Jesuítas"
-  - "Direcção Local do CSJB"
-  - "Direcção Nacional"
-wiki_id: 644
-last_edited: "2010-08-22T23:41:33Z"
-last_editor: "ABarroso"
----
-
 # Carlos Carvalho
 
 ### Cargos
@@ -33,4 +22,8 @@ last_editor: "ABarroso"
 
 ---
 
-**Categorias:** [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) · [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
+| Categorias |
+| --- |
+| [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |
+| [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |

@@ -1,12 +1,3 @@
----
-title: "Edu"
-categories:
-  - "Desambiguação"
-wiki_id: 827
-last_edited: "2009-04-27T21:43:23Z"
-last_editor: "Neteinstein"
----
-
 # Edu
 
 ---
@@ -26,4 +17,6 @@ Se uma ligação interna o conduziu até aqui, sugerimos que a corrija para apon
 
 ---
 
-**Categorias:** [Desambiguação](../../Categorias/Desambigua%C3%A7%C3%A3o.md)
+| Categorias |
+| --- |
+| [Desambiguação](../../Categorias/Desambigua%C3%A7%C3%A3o.md) |

@@ -1,14 +1,3 @@
----
-title: "Projecto Canguru"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2002"
-  - "Lambretas"
-wiki_id: 601
-last_edited: "2010-08-24T18:28:21Z"
-last_editor: "Neteinstein"
----
-
 # Projecto Canguru
 
 A ideia deste campo era ser um campo volante. Começou em [Fonte de Nena](../../Restrito/Locais%20de%20Acampamento/Fonte%20de%20Nena%20%28Caldelas%29.md) (Caldelas) em 17 de Agosto e terminou na Herdade da [Machoqueira do Grou](../../Restrito/Locais%20de%20Acampamento/Machoqueira%20do%20Grou%20%28Santar%C3%A9m%29.md) a 26 de Agosto.
@@ -33,4 +22,8 @@ Foi o primeiro campo volante da história dos Campinácios.
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2002](../../Categorias/Acampamentos%20de%202002.md) · [Lambretas](../../Categorias/Lambretas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2002](../../Categorias/Acampamentos%20de%202002.md) |
+| [Lambretas](../../Categorias/Lambretas.md) |

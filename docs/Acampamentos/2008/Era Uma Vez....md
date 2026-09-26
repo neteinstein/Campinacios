@@ -1,16 +1,3 @@
----
-title: "Era Uma Vez..."
-aliases:
-  - "Era Uma Vez"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2008"
-  - "Lambretas"
-wiki_id: 60
-last_edited: "2009-02-15T15:09:19Z"
-last_editor: "Neteinstein"
----
-
 # Era Uma Vez...
 
 O Era Uma Vez... foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) que surgiu da necessidade de dar resposta à enorme quantidade de suplentes que se verificaram com a existência de um único acampamento de [Lambretas](../../Categorias/Lambretas.md). Assim, a [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) decidiu-se pela realização de um acampamento extraordinário no ano de 2008, que se realizou de 3 a 11 de Setembro.
@@ -57,4 +44,10 @@ Realizou-se na [Quinta da Mata (Ponte da Barca)](../../Restrito/Locais%20de%20Ac
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2008](../../Categorias/Acampamentos%20de%202008.md) · [Lambretas](../../Categorias/Lambretas.md)
+**Outros nomes:** Era Uma Vez
+
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2008](../../Categorias/Acampamentos%20de%202008.md) |
+| [Lambretas](../../Categorias/Lambretas.md) |

@@ -1,7 +1,3 @@
----
-title: "G"
----
-
 # G
 
 - [Gonçalo Belo](Gon%C3%A7alo%20Belo.md)

@@ -1,14 +1,3 @@
----
-title: "Caldas de S.Paulo"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1990"
-  - "Bicicletas"
-wiki_id: 303
-last_edited: "2009-02-15T14:37:24Z"
-last_editor: "Neteinstein"
----
-
 # Caldas de S.Paulo
 
 Acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que decorreu de 8 a 17 de Julho de 1990 em [Caldas de S. Paulo](../../Restrito/Locais%20de%20Acampamento/Caldas%20de%20S.%20Paulo%20%28Oliveira%20do%20Hospital%29.md) (Oliveira do Hospital).
@@ -33,4 +22,8 @@ Acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que decorreu de 8 a 
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1990](../../Categorias/Acampamentos%20de%201990.md) · [Bicicletas](../../Categorias/Bicicletas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1990](../../Categorias/Acampamentos%20de%201990.md) |
+| [Bicicletas](../../Categorias/Bicicletas.md) |

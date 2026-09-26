@@ -1,13 +1,3 @@
----
-title: "Filipe Matos"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 807
-last_edited: "2009-06-10T11:35:09Z"
-last_editor: "Carvalho.francisco3"
----
-
 # Filipe Matos
 
 Filipe Matos mais conhecido por Beja
@@ -23,4 +13,7 @@ Filipe Matos mais conhecido por Beja
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

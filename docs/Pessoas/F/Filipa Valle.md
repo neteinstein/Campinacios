@@ -1,13 +1,3 @@
----
-title: "Filipa Valle"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 767
-last_edited: "2009-12-06T18:17:25Z"
-last_editor: "Tnbahia"
----
-
 # Filipa Valle
 
 ### Acampamentos
@@ -27,4 +17,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

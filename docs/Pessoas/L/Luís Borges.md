@@ -1,13 +1,3 @@
----
-title: "Luís Borges"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 868
-last_edited: "2009-09-25T16:22:40Z"
-last_editor: "Silvinha"
----
-
 # Luís Borges
 
 ### Acampamentos
@@ -32,4 +22,7 @@ last_editor: "Silvinha"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

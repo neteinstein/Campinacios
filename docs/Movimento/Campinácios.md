@@ -1,14 +1,3 @@
----
-title: "Campinácios"
-aliases:
-  - "Campinacios"
-categories:
-  - "História"
-wiki_id: 29
-last_edited: "2009-12-14T12:12:16Z"
-last_editor: "Neteinstein"
----
-
 # Campinácios
 
 ## O que são os Campinácios?
@@ -76,4 +65,8 @@ Após este encontro, os CAMPINÁCIOS como movimento foi ganhando alguma estabili
 
 ---
 
-**Categorias:** [História](../Categorias/Hist%C3%B3ria.md)
+**Outros nomes:** Campinacios
+
+| Categorias |
+| --- |
+| [História](../Categorias/Hist%C3%B3ria.md) |

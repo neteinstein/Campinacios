@@ -1,7 +1,3 @@
----
-title: "M"
----
-
 # M
 
 - [Madalena Mariz](Madalena%20Mariz.md)

@@ -1,7 +1,3 @@
----
-title: "Acampamentos"
----
-
 # Acampamentos
 
 Acampamentos dos Campinácios, organizados por ano.

@@ -1,10 +1,3 @@
----
-title: "Encontros Nacionais"
-wiki_id: 12
-last_edited: "2009-01-13T21:04:01Z"
-last_editor: "Admin"
----
-
 # Encontros Nacionais
 
 Encontros Nacionais

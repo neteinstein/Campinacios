@@ -1,15 +1,3 @@
----
-title: "Ana Carolina Bardi"
-aliases:
-  - "Carolina Bardi"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 849
-last_edited: "2009-08-24T19:37:27Z"
-last_editor: "Tnbahia"
----
-
 # Ana Carolina Bardi
 
 ### Acampamentos
@@ -29,4 +17,9 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+**Outros nomes:** Carolina Bardi
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

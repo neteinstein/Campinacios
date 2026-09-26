@@ -1,13 +1,3 @@
----
-title: "Ricardo Oliveira"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 592
-last_edited: "2009-02-01T18:40:37Z"
-last_editor: "Tnbahia"
----
-
 # Ricardo Oliveira
 
 Ricardo Henrique Ferreira de Oliveira, nascido a 2 de Janeiro de 1983 é animador do CC.
@@ -30,4 +20,7 @@ Ricardo Henrique Ferreira de Oliveira, nascido a 2 de Janeiro de 1983 é animado
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

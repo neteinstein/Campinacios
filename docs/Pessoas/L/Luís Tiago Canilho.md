@@ -1,16 +1,3 @@
----
-title: "Luís Tiago Canilho"
-aliases:
-  - "Luís Canilho"
-  - "Tiago Canilho"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 251
-last_edited: "2010-07-11T14:27:59Z"
-last_editor: "Neteinstein"
----
-
 # Luís Tiago Canilho
 
 Luís Tiago Canilho é desde 2001 um dos animadores do Colégio da Imaculada Conceição.
@@ -41,4 +28,9 @@ Luís Tiago Canilho é desde 2001 um dos animadores do Colégio da Imaculada Con
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+**Outros nomes:** Luís Canilho · Tiago Canilho
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

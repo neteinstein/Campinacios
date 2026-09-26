@@ -1,7 +1,3 @@
----
-title: "Acampamentos de 2010"
----
-
 # Acampamentos de 2010
 
 ## Páginas nesta categoria (5)

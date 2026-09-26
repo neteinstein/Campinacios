@@ -1,7 +1,3 @@
----
-title: "Wikinácios"
----
-
 # Wikinácios
 
 Páginas sobre a própria wiki: ajuda, políticas, predefinições, imagens e discussões. Ver também [Sobre este arquivo](Sobre%20este%20arquivo.md).

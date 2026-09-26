@@ -1,13 +1,3 @@
----
-title: "Tiago Monteiro"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 615
-last_edited: "2009-02-11T00:25:20Z"
-last_editor: "Tnbahia"
----
-
 # Tiago Monteiro
 
 ### Acampamentos
@@ -24,4 +14,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

@@ -1,3 +1,19 @@
+/* The graph page has no table of contents: give its width to the graph.
+   Nor do the restricted pages (their headings are encrypted), and the home
+   page, like the wiki's, also uses the navigation's width (pages carry no
+   front matter to say so). */
+.md-main__inner:has(.wiki-graph) > .md-sidebar--secondary,
+.md-main__inner:has(.wiki-restrito) > .md-sidebar--secondary,
+.md-main__inner:has(.wk-grid) > .md-sidebar--secondary {
+  display: none;
+}
+
+@media screen and (min-width: 76.25em) {
+  .md-main__inner:has(.wk-grid) > .md-sidebar--primary {
+    display: none;
+  }
+}
+
 .wiki-graph {
   position: relative;
   height: 75vh;

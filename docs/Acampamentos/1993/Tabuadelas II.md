@@ -1,14 +1,3 @@
----
-title: "Tabuadelas II"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1993"
-  - "Trotinetas"
-wiki_id: 314
-last_edited: "2009-02-15T14:49:02Z"
-last_editor: "Neteinstein"
----
-
 # Tabuadelas II
 
 O Tabuadelas II foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que decorreu de 2 a 8 de Setembro na povoação de [Tabuadelas (Vieira do Minho)](../../Restrito/Locais%20de%20Acampamento/Tabuadelas%20%28Vieira%20do%20Minho%29.md). Terminou mais cedo do que o previsto (11 de Setembro) devido à chuva.
@@ -39,4 +28,8 @@ O Tabuadelas II foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.m
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1993](../../Categorias/Acampamentos%20de%201993.md) · [Trotinetas](../../Categorias/Trotinetas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1993](../../Categorias/Acampamentos%20de%201993.md) |
+| [Trotinetas](../../Categorias/Trotinetas.md) |

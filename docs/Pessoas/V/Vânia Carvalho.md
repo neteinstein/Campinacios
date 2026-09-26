@@ -1,13 +1,3 @@
----
-title: "Vânia Carvalho"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 888
-last_edited: "2009-06-03T11:16:57Z"
-last_editor: "Tnbahia"
----
-
 # Vânia Carvalho
 
 ### Acampamentos
@@ -24,4 +14,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

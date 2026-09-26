@@ -1,13 +1,3 @@
----
-title: "Joana Fonseca"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 724
-last_edited: "2010-08-09T22:04:20Z"
-last_editor: "ABarroso"
----
-
 # Joana Fonseca
 
 - **Participante:**
@@ -30,4 +20,7 @@ last_editor: "ABarroso"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

@@ -1,13 +1,3 @@
----
-title: "Tânia Rodrigues"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 209
-last_edited: "2009-01-22T17:15:34Z"
-last_editor: "Tnbahia"
----
-
 # Tânia Rodrigues
 
 ### Acampamentos
@@ -27,4 +17,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

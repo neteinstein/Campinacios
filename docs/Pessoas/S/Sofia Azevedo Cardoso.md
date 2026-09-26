@@ -1,13 +1,3 @@
----
-title: "Sofia Azevedo Cardoso"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 795
-last_edited: "2009-12-06T23:01:45Z"
-last_editor: "Tnbahia"
----
-
 # Sofia Azevedo Cardoso
 
 ### Acampamentos
@@ -24,4 +14,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

@@ -1,14 +1,3 @@
----
-title: "Parada"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1995"
-  - "Bicicletas"
-wiki_id: 457
-last_edited: "2009-01-28T18:49:14Z"
-last_editor: "Tnbahia"
----
-
 # Parada
 
 O Parada decorreu de 16 a 25 de Agosto de 1995.
@@ -27,4 +16,8 @@ O Parada decorreu de 16 a 25 de Agosto de 1995.
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1995](../../Categorias/Acampamentos%20de%201995.md) · [Bicicletas](../../Categorias/Bicicletas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1995](../../Categorias/Acampamentos%20de%201995.md) |
+| [Bicicletas](../../Categorias/Bicicletas.md) |

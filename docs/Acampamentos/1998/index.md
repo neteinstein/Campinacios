@@ -1,7 +1,3 @@
----
-title: "1998"
----
-
 # 1998
 
 - [98 Covas](98%20Covas.md) — Calhambeques

@@ -1,13 +1,3 @@
----
-title: "Hugo Ferreira"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 208
-last_edited: "2010-08-10T12:43:37Z"
-last_editor: "ABarroso"
----
-
 # Hugo Ferreira
 
 ### Acampamentos
@@ -30,4 +20,7 @@ last_editor: "ABarroso"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

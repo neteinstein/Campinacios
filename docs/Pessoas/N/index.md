@@ -1,7 +1,3 @@
----
-title: "N"
----
-
 # N
 
 - [Natacha Soares](Natacha%20Soares.md)

@@ -1,13 +1,3 @@
----
-title: "Ferrugenta"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1989"
-wiki_id: 649
-last_edited: "2009-02-15T14:31:33Z"
-last_editor: "Neteinstein"
----
-
 # Ferrugenta
 
 Este foi o primeiro acampamento inter-colegial, mas ainda sem a denominação "Campinácios" que só surgiria numa reunião em 6 de Janeiro de 1990. Este acampamento decorreu de 21 a 29 de Julho de 1989 no [Casal Dom António](../../Restrito/Locais%20de%20Acampamento/Casal%20Dom%20Ant%C3%B3nio%20%28Abrantes%29.md) (Abrantes). Foi dirigido a alunos com idades entre os 10-12 anos.
@@ -34,4 +24,7 @@ Este foi o primeiro acampamento inter-colegial, mas ainda sem a denominação "C
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1989](../../Categorias/Acampamentos%20de%201989.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1989](../../Categorias/Acampamentos%20de%201989.md) |

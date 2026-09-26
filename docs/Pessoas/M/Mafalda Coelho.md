@@ -1,13 +1,3 @@
----
-title: "Mafalda Coelho"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 468
-last_edited: "2009-09-25T15:43:01Z"
-last_editor: "Silvinha"
----
-
 # Mafalda Coelho
 
 ### Acampamentos
@@ -38,4 +28,7 @@ last_editor: "Silvinha"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

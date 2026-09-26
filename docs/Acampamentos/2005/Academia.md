@@ -1,14 +1,3 @@
----
-title: "Academia"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2005"
-  - "Triciclos"
-wiki_id: 116
-last_edited: "2009-12-06T19:11:04Z"
-last_editor: "Tnbahia"
----
-
 # Academia
 
 Academia foi um acampamento de Triciclos que se realizou em [Digueifel](../../Restrito/Locais%20de%20Acampamento/Digueifel%20%28Arganil%29.md)
@@ -37,4 +26,8 @@ Academia foi um acampamento de Triciclos que se realizou em [Digueifel](../../Re
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2005](../../Categorias/Acampamentos%20de%202005.md) · [Triciclos](../../Categorias/Triciclos.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2005](../../Categorias/Acampamentos%20de%202005.md) |
+| [Triciclos](../../Categorias/Triciclos.md) |

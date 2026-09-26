@@ -1,13 +1,3 @@
----
-title: "João Regueiras"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 610
-last_edited: "2009-02-03T15:21:52Z"
-last_editor: "Tnbahia"
----
-
 # João Regueiras
 
 João Regueiras é animador do CC.
@@ -33,4 +23,7 @@ João Regueiras é animador do CC.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

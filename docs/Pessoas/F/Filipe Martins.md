@@ -1,12 +1,3 @@
----
-title: "Filipe Martins"
-categories:
-  - "Jesuítas"
-wiki_id: 474
-last_edited: "2009-08-24T19:33:45Z"
-last_editor: "Tnbahia"
----
-
 # Filipe Martins
 
 ### Acampamentos
@@ -22,4 +13,6 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Jesuítas](../../Categorias/Jesu%C3%ADtas.md)
+| Categorias |
+| --- |
+| [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |

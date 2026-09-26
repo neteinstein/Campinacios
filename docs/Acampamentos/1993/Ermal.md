@@ -1,14 +1,3 @@
----
-title: "Ermal"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1993"
-  - "Bicicletas"
-wiki_id: 400
-last_edited: "2009-01-24T23:30:45Z"
-last_editor: "Tnbahia"
----
-
 # Ermal
 
 ### Animadores
@@ -25,4 +14,8 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1993](../../Categorias/Acampamentos%20de%201993.md) · [Bicicletas](../../Categorias/Bicicletas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1993](../../Categorias/Acampamentos%20de%201993.md) |
+| [Bicicletas](../../Categorias/Bicicletas.md) |

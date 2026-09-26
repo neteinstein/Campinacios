@@ -1,7 +1,3 @@
----
-title: "A"
----
-
 # A
 
 - [Alexandra Silva](Alexandra%20Silva.md)

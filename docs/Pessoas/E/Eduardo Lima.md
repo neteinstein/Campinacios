@@ -1,13 +1,3 @@
----
-title: "Eduardo Lima"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 235
-last_edited: "2009-02-01T19:34:05Z"
-last_editor: "Tnbahia"
----
-
 # Eduardo Lima
 
 Eduardo Daniel Martins Lima, nascido a 12 de Abril de 1984 é animador do CC.
@@ -28,4 +18,7 @@ Eduardo Daniel Martins Lima, nascido a 12 de Abril de 1984 é animador do CC.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

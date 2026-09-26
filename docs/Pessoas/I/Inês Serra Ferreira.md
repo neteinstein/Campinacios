@@ -1,13 +1,3 @@
----
-title: "Inês Serra Ferreira"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 771
-last_edited: "2009-12-06T23:36:21Z"
-last_editor: "Tnbahia"
----
-
 # Inês Serra Ferreira
 
 ### Acampamentos
@@ -26,4 +16,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

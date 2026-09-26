@@ -1,13 +1,3 @@
----
-title: "Cecília Mendonça"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 508
-last_edited: "2009-12-04T19:10:53Z"
-last_editor: "Tnbahia"
----
-
 # Cecília Mendonça
 
 ### Acampamentos
@@ -34,4 +24,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

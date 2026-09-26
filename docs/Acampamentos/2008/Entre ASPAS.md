@@ -1,14 +1,3 @@
----
-title: "Entre ASPAS"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2008"
-  - "Triciclos"
-wiki_id: 20
-last_edited: "2009-02-15T15:08:19Z"
-last_editor: "Neteinstein"
----
-
 # Entre ASPAS
 
 Entre ASPAS significa: Entre Amigos Sempre Prontos a Amar e Servir.
@@ -44,4 +33,8 @@ O Entre ASPAS decorreu entre os dias 5 a 14 de Agosto de 2008 na [Quinta da Mata
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2008](../../Categorias/Acampamentos%20de%202008.md) · [Triciclos](../../Categorias/Triciclos.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2008](../../Categorias/Acampamentos%20de%202008.md) |
+| [Triciclos](../../Categorias/Triciclos.md) |

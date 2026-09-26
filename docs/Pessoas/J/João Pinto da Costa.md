@@ -1,13 +1,3 @@
----
-title: "João Pinto da Costa"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 218
-last_edited: "2009-09-25T18:36:46Z"
-last_editor: "Silvinha"
----
-
 # João Pinto da Costa
 
 ### Acampamentos
@@ -32,4 +22,7 @@ last_editor: "Silvinha"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

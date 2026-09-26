@@ -1,14 +1,3 @@
----
-title: "Pavio"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2000"
-  - "Lambretas"
-wiki_id: 402
-last_edited: "2009-12-06T23:03:56Z"
-last_editor: "Tnbahia"
----
-
 # Pavio
 
 O Pavio foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) que decorreu de 26 de Agosto a 4 de Setembro de 2000 em [Várzea da Ovelha](../../Restrito/Locais%20de%20Acampamento/V%C3%A1rzea%20da%20Ovelha%20e%20Aliviada%20%28Marco%20de%20Canaveses%29.md).
@@ -34,4 +23,8 @@ O Pavio foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) que dec
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2000](../../Categorias/Acampamentos%20de%202000.md) · [Lambretas](../../Categorias/Lambretas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2000](../../Categorias/Acampamentos%20de%202000.md) |
+| [Lambretas](../../Categorias/Lambretas.md) |

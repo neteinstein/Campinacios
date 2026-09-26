@@ -1,13 +1,3 @@
----
-title: "Filipe Barroso"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 18
-last_edited: "2010-08-09T22:02:01Z"
-last_editor: "ABarroso"
----
-
 # Filipe Barroso
 
 Filipe Emanuel dos Santos Albuquerque Barroso, um dos animadores do Colégio São João de Brito.
@@ -51,4 +41,7 @@ smith_4u@hotmail.com
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

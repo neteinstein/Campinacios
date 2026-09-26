@@ -1,13 +1,3 @@
----
-title: "Diogo José Oliveira Cerejeira Carneiro"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 576
-last_edited: "2009-02-07T15:45:23Z"
-last_editor: "Neteinstein"
----
-
 # Diogo José Oliveira Cerejeira Carneiro
 
 Diogo José Oliveira Cerejeira Carneiro, nasceu a 23 de Outubro de 1984 e é animador do CC.
@@ -33,4 +23,7 @@ Diogo José Oliveira Cerejeira Carneiro, nasceu a 23 de Outubro de 1984 e é ani
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

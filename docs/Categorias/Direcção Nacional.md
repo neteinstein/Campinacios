@@ -1,10 +1,3 @@
----
-title: "Direcção Nacional"
-wiki_id: 342
-last_edited: "2009-12-06T18:50:21Z"
-last_editor: "Tnbahia"
----
-
 # Direcção Nacional
 
 É o órgão responsável pelo Movimento. É um órgão colectivo presidido pelo [Assistente Nacional](Assistentes%20Nacionais.md), o qual, no desempenho das suas funções, é assistido pelos outros membros da DN que transmitem o sentir e as propostas provenientes de cada uma das DL’s. É constituída por 3 elementos de cada DL (o respectivo coordenador, o jesuíta e outro elemento), pelo Coordenador Nacional e pelo Assistente Nacional, que a preside; mantém funções pelo período de dois anos.
