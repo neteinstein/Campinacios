@@ -45,6 +45,7 @@
 - [José da Silva Almeida](Jos%C3%A9%20da%20Silva%20Almeida.md)
 - [José Emanuel Ferreira](Jos%C3%A9%20Emanuel%20Ferreira.md)
 - [José Eugénio Lopes](Jos%C3%A9%20Eug%C3%A9nio%20Lopes.md)
+- [José Lima](Jos%C3%A9%20Lima.md)
 - [José Luís Canêlhas](Jos%C3%A9%20Lu%C3%ADs%20Can%C3%AAlhas.md)
 - [José Luís Fernandes](Jos%C3%A9%20Lu%C3%ADs%20Fernandes.md)
 - [José Luís Silva](Jos%C3%A9%20Lu%C3%ADs%20Silva.md)
