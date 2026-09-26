@@ -22,6 +22,7 @@ Sara Fernandes mais conhecida por Duda é desde 2008, uma das animadoras do Col�
 
 ## Páginas que ligam para aqui
 
+- [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
 - [Talithá Kum](../../Acampamentos/2009/Talith%C3%A1%20Kum.md)
 - [Walkabout](../../Acampamentos/2010/Walkabout.md)
 

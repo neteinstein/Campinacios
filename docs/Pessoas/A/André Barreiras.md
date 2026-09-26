@@ -14,6 +14,7 @@
 
 ## Páginas que ligam para aqui
 
+- [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
 - [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
 - [Tira as rodinhas](../../Acampamentos/2009/Tira%20as%20rodinhas.md)
 

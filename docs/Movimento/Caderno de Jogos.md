@@ -71,7 +71,7 @@ podendo ser um só sítio para os dois grupos.
 
 ## Cluedo
 
-*Por: Maria Ferreira*
+*Por: [Maria Ferreira](../Pessoas/M/Maria%20Cort%C3%AAs%20Ferreira.md)*
 
 **Duração:** 2 horas.
 
@@ -297,7 +297,7 @@ Ver também [Generais](#generais), mais abaixo.
 
 ## Jogo das Personagens
 
-*Por: Madalena Mariz e Sara Póvoa*
+*Por: [Madalena Mariz](../Pessoas/M/Madalena%20Mariz.md) e [Sara Póvoa](../Pessoas/S/Sara%20P%C3%B3voa.md)*
 
 **Duração:** 2 horas.
 
@@ -761,7 +761,7 @@ ir controlando as batotices.
 
 ## Buzz
 
-*Por: Paulo Cardoso e Rita Martins*
+*Por: [Paulo Cardoso](../Pessoas/P/Paulo%20Cardoso.md) e [Rita Martins](../Pessoas/R/Rita%20Martins.md)*
 
 **Duração:** cerca de 1h30.
 
@@ -850,7 +850,7 @@ durante o jogo; alguns espalhados pelo campo, para irem arbitrando a validade do
 
 ## Pastores
 
-*Por: Pedro Pinto e Sofia Pinelas*
+*Por: [Pedro Pinto](../Pessoas/P/Pedro%20Pinto.md) e [Sofia Pinelas](../Pessoas/A/Ana%20Sofia%20Pinelas.md)*
 
 **Duração:** 1h30 (máximo). **Divisão:** por equipas.
 
@@ -872,6 +872,8 @@ onde é suposto o pastor levar as ovelhas. **Animadores:** aconselhável um anim
 cada pastor, por isso 6 ou 7 serão suficientes.
 
 ## Praxe
+
+*Por: [Diogo Belo](../Pessoas/D/Diogo%20Belo.md) e Prof. Pardal*
 
 *Morto, Apito, Tartaruga Genial (antigo Ugabuga), Mé.*
 
@@ -917,7 +919,7 @@ fácil para correr. **Material:** esponjas, alguidares, fita-cola, capacetes e j
 
 ## Spa
 
-*Por: Vânia Carvalho, Carla Ferreira e Raquel Querido*
+*Por: [Vânia Carvalho](../Pessoas/V/V%C3%A2nia%20Carvalho.md), [Carla Ferreira](../Pessoas/C/Carla%20Ferreira.md) e Raquel Querido*
 
 **Material:** colchões insufláveis e coisas para fazer massagens.
 
@@ -954,7 +956,7 @@ branca, sapatilhas.
 
 ## Super Boi
 
-*Por: Juliana Fernandes e André Barreiras*
+*Por: [Juliana Fernandes](../Pessoas/J/Juliana%20Fernandes.md) e [André Barreiras](../Pessoas/A/Andr%C3%A9%20Barreiras.md)*
 
 **Duração:** 1h30. **Divisão:** equipas.
 
@@ -993,7 +995,7 @@ regras do jogo (por dois animadores), as vacas invadem a roda e faz-se todos uma
 
 ## Torre de Controlo
 
-*Por: Vânia Carvalho, Bolachão e Paulo Cardoso*
+*Por: [Vânia Carvalho](../Pessoas/V/V%C3%A2nia%20Carvalho.md), Bolachão e [Paulo Cardoso](../Pessoas/P/Paulo%20Cardoso.md)*
 
 **Material:** balões de água, 2 por participante; cada equipa tem uma cor que a representa
 (lenços de equipa); vendas para tapar os olhos; corda para delimitar a área de jogo (cada
@@ -1070,7 +1072,7 @@ jogos, próximo do rio. **Animadores:** 2 ou mais.
 
 ## Caça ao Tesouro
 
-*Por: Joana Fonseca e Lília Santos*
+*Por: [Joana Fonseca](../Pessoas/J/Joana%20Fonseca.md) e [Lília Santos](../Pessoas/L/L%C3%ADlia%20Santos.md)*
 
 **Animadores:** 1 na roda e 6, um em cada posto, para apanhar e evitar batotas; se for
 possível, mais animadores a apanhar, espalhados pelo campo (total: no mínimo 7).
@@ -1105,7 +1107,7 @@ O animador que está na roda apita quando a primeira equipa chegar com as seis p
 
 ## Capinaci
 
-*Por: Sara Fernandes (Duda)*
+*Por: [Sara Fernandes](../Pessoas/S/Sara%20Fernandes.md) (Duda)*
 
 **Prefácio:** nos tempos áureos de 2000-e-qualquer-coisa, Campinaci era uma cidade pacífica.
 Aqui viviam 3 irmãos: Siam, que possuía uma grande capacidade de discernimento; Eses, com uma
@@ -1249,8 +1251,8 @@ gigante.
 
 ## Compilação e agradecimentos
 
-Compilação por [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md), com contribuições de Mário
-Pedro e Joana Fonseca. Agradecimentos aos diversos animadores que ajudaram na elaboração,
+Compilação por [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md), com contribuições de
+[Mário Pedro](../Pessoas/M/M%C3%A1rio%20Carvalho.md) e [Joana Fonseca](../Pessoas/J/Joana%20Fonseca.md). Agradecimentos aos diversos animadores que ajudaram na elaboração,
 reescrita e reorganização deste livro e do que lhe deu origem, as fichas de jogo.
 
 ## Páginas que ligam para aqui

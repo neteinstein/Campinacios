@@ -15,10 +15,13 @@
 ## Páginas que ligam para aqui
 
 - [Arethë](../../Acampamentos/2008/Areth%C3%AB.md)
+- [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
 - [OPA](../../Acampamentos/2007/OPA.md)
 - [Vi-O](../../Acampamentos/2009/Vi-O.md)
 
 ---
+
+**Outros nomes:** Mário Pedro
 
 | Categorias |
 | --- |

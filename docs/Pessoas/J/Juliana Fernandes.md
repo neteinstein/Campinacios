@@ -17,6 +17,7 @@ Juliana Fernandes, nascida a 22 de Junho de 1987, é animadora do CC desde 2005.
 ## Páginas que ligam para aqui
 
 - [Bora Bora](../../Acampamentos/2007/Bora%20Bora.md)
+- [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
 - [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
 - [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md)
 - [Nómada](../../Acampamentos/2006/N%C3%B3mada.md)
