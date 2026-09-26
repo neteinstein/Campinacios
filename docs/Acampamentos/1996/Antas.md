@@ -1,14 +1,3 @@
----
-title: "Antas"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1996"
-  - "Trotinetas"
-wiki_id: 455
-last_edited: "2009-01-25T23:08:56Z"
-last_editor: "Tnbahia"
----
-
 # Antas
 
 ### Animadores
@@ -28,4 +17,8 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1996](../../Categorias/Acampamentos%20de%201996.md) · [Trotinetas](../../Categorias/Trotinetas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1996](../../Categorias/Acampamentos%20de%201996.md) |
+| [Trotinetas](../../Categorias/Trotinetas.md) |

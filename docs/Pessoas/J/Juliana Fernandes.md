@@ -1,13 +1,3 @@
----
-title: "Juliana Fernandes"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 143
-last_edited: "2010-08-22T23:38:13Z"
-last_editor: "ABarroso"
----
-
 # Juliana Fernandes
 
 Juliana Fernandes, nascida a 22 de Junho de 1987, é animadora do CC desde 2005.
@@ -34,4 +24,7 @@ Juliana Fernandes, nascida a 22 de Junho de 1987, é animadora do CC desde 2005.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

@@ -1,14 +1,3 @@
----
-title: "Diogo José Nunes Carneiro"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-  - "Direcção Local do CC"
-wiki_id: 575
-last_edited: "2010-08-09T22:02:50Z"
-last_editor: "ABarroso"
----
-
 # Diogo José Nunes Carneiro
 
 Diogo José Nunes Carneiro é um animador do Colégio das Caldinhas.
@@ -38,4 +27,8 @@ Diogo José Nunes Carneiro é um animador do Colégio das Caldinhas.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) · [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |
+| [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) |

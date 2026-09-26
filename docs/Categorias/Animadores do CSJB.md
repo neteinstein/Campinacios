@@ -1,12 +1,3 @@
----
-title: "Animadores do CSJB"
-categories:
-  - "Animadores"
-wiki_id: 31
-last_edited: "2009-04-21T23:24:16Z"
-last_editor: "Edu"
----
-
 # Animadores do CSJB
 
 Animadores do Colégio do Colégio São João de Brito
@@ -182,4 +173,6 @@ Animadores do Colégio do Colégio São João de Brito
 
 ---
 
-**Categorias:** [Animadores](Animadores.md)
+| Categorias |
+| --- |
+| [Animadores](Animadores.md) |

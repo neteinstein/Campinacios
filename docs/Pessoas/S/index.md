@@ -1,7 +1,3 @@
----
-title: "S"
----
-
 # S
 
 - [Sandra Branco](Sandra%20Branco.md)

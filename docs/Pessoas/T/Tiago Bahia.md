@@ -1,16 +1,3 @@
----
-title: "Tiago Bahia"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-  - "Direcção Local do CC"
-  - "Direcção Nacional"
-  - "Coordenadores Nacionais"
-wiki_id: 14
-last_edited: "2010-08-19T17:21:24Z"
-last_editor: "Tnbahia"
----
-
 # Tiago Bahia
 
 Tiago Neves Bahia, nascido a 6 de Março de 1987, é animador do CC desde 2005.
@@ -60,4 +47,10 @@ E-mail: Coordenador@Campinacios.org
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) · [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) · [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |
+| [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |
+| [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md) |

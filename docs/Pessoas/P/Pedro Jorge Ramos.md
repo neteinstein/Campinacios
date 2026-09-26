@@ -1,13 +1,3 @@
----
-title: "Pedro Jorge Ramos"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 877
-last_edited: "2009-06-02T16:07:54Z"
-last_editor: "Tnbahia"
----
-
 # Pedro Jorge Ramos
 
 ### Acampamentos
@@ -24,4 +14,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

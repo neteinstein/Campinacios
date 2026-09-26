@@ -1,7 +1,3 @@
----
-title: "Desambiguação"
----
-
 # Desambiguação
 
 - [Diogo Carneiro](Diogo%20Carneiro.md)

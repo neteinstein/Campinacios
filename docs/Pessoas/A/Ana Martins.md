@@ -1,13 +1,3 @@
----
-title: "Ana Martins"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 470
-last_edited: "2010-09-08T14:42:41Z"
-last_editor: "Anaimmartins"
----
-
 # Ana Martins
 
 Ana Martins, é desde 2005 uma das animadoras do Colégio São João de Brito.
@@ -41,4 +31,7 @@ Ana Martins, é desde 2005 uma das animadoras do Colégio São João de Brito.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

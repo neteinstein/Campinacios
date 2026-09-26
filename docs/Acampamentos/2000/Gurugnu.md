@@ -1,14 +1,3 @@
----
-title: "Gurugnu"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2000"
-  - "Triciclos"
-wiki_id: 860
-last_edited: "2009-06-02T14:50:05Z"
-last_editor: "Tnbahia"
----
-
 # Gurugnu
 
 ### Animadores
@@ -27,4 +16,8 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2000](../../Categorias/Acampamentos%20de%202000.md) · [Triciclos](../../Categorias/Triciclos.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2000](../../Categorias/Acampamentos%20de%202000.md) |
+| [Triciclos](../../Categorias/Triciclos.md) |

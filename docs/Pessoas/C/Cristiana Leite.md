@@ -1,13 +1,3 @@
----
-title: "Cristiana Leite"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 858
-last_edited: "2009-08-07T16:33:53Z"
-last_editor: "Edu"
----
-
 # Cristiana Leite
 
 ### Acampamentos
@@ -30,4 +20,7 @@ last_editor: "Edu"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

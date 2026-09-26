@@ -1,14 +1,3 @@
----
-title: "José Luís Fernandes"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-  - "Direcção Local do CC"
-wiki_id: 586
-last_edited: "2009-02-11T01:41:52Z"
-last_editor: "Tnbahia"
----
-
 # José Luís Fernandes
 
 José Luís Martins Fernandes, nascido a 1 de Dezembro de 1979, é animador do CC.
@@ -46,4 +35,8 @@ José Luís Martins Fernandes, nascido a 1 de Dezembro de 1979, é animador do C
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) · [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |
+| [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) |

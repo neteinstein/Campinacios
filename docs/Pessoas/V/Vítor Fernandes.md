@@ -1,16 +1,3 @@
----
-title: "Vítor Fernandes"
-aliases:
-  - "Vitor Fernandes"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-  - "Direcção Local do CC"
-wiki_id: 193
-last_edited: "2009-09-25T16:26:33Z"
-last_editor: "Neteinstein"
----
-
 # Vítor Fernandes
 
 Vítor Rafael Machado Fernandes, nascido a 2 de Setembro de 1982 é animador do CC.
@@ -51,4 +38,10 @@ Vítor Rafael Machado Fernandes, nascido a 2 de Setembro de 1982 é animador do 
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) · [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
+**Outros nomes:** Vitor Fernandes
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |
+| [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) |

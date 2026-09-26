@@ -1,10 +1,3 @@
----
-title: "Grupo Fundador Campinacios.jpg"
-wiki_id: 933
-last_edited: "2009-11-25T19:08:53Z"
-last_editor: "Neteinstein"
----
-
 # Grupo Fundador Campinacios.jpg
 
 Grupo Fundador dos Campinácios

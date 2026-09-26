@@ -1,12 +1,3 @@
----
-title: "Formação de Animadores"
-categories:
-  - "Acampamentos"
-wiki_id: 65
-last_edited: "2009-01-19T22:06:35Z"
-last_editor: "Neteinstein"
----
-
 # Formação de Animadores
 
 Acampamentos de Formação de Animadores - Destinados a antigos alunos dos colégios da Companhia de Jesus em Portugal com vista a formar novos animadores para o movimento.
@@ -39,4 +30,6 @@ Acampamentos de Formação de Animadores - Destinados a antigos alunos dos colé
 
 ---
 
-**Categorias:** [Acampamentos](Acampamentos.md)
+| Categorias |
+| --- |
+| [Acampamentos](Acampamentos.md) |

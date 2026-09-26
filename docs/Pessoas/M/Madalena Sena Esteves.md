@@ -1,13 +1,3 @@
----
-title: "Madalena Sena Esteves"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 922
-last_edited: "2009-12-06T21:14:47Z"
-last_editor: "Edu"
----
-
 # Madalena Sena Esteves
 
 Madalena Sena Esteves é antiga aluna do Colégio S. João de Brito, é animadora dos Campinácios, tendo começado este ano a formção para animador(2009).
@@ -23,4 +13,7 @@ Madalena Sena Esteves é antiga aluna do Colégio S. João de Brito, é animador
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

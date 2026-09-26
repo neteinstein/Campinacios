@@ -1,10 +1,3 @@
----
-title: "Sobre"
-wiki_id: 384
-last_edited: "2009-11-26T11:13:35Z"
-last_editor: "Neteinstein"
----
-
 # Sobre
 
 Wiki @ Campinácios faz parte do Movimento [Campinácios](../Movimento/Campin%C3%A1cios.md).

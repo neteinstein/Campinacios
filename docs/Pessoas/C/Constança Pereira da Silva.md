@@ -1,18 +1,3 @@
----
-title: "Constança Pereira da Silva"
-aliases:
-  - "Constança Cordeiro Ferreira"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-  - "Direcção Local do CSJB"
-  - "Direcção Nacional"
-  - "Coordenadores Nacionais"
-wiki_id: 763
-last_edited: "2009-12-06T17:28:51Z"
-last_editor: "Tnbahia"
----
-
 # Constança Pereira da Silva
 
 ### Cargos
@@ -47,4 +32,12 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) · [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) · [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md)
+**Outros nomes:** Constança Cordeiro Ferreira
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |
+| [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |
+| [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md) |

@@ -1,15 +1,3 @@
----
-title: "Sílvia Alexandra"
-aliases:
-  - "Sílvia Ferreira"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 593
-last_edited: "2009-02-01T19:01:57Z"
-last_editor: "Tnbahia"
----
-
 # Sílvia Alexandra
 
 Sílvia Alexandra Rodrigues Mendes Ferreira, nascida a 16 de Novembro de 1983, é animadora do CC.
@@ -33,4 +21,9 @@ Sílvia Alexandra Rodrigues Mendes Ferreira, nascida a 16 de Novembro de 1983, �
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+**Outros nomes:** Sílvia Ferreira
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

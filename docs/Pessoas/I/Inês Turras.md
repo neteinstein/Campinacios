@@ -1,13 +1,3 @@
----
-title: "Inês Turras"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 848
-last_edited: "2010-04-12T11:38:03Z"
-last_editor: "Neteinstein"
----
-
 # Inês Turras
 
 ### Acampamentos
@@ -38,4 +28,7 @@ A Inês é irmã do [Pedro Turras](../P/Pedro%20Turras.md), da [Rita Turras](../
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

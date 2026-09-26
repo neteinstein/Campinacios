@@ -1,7 +1,3 @@
----
-title: "1993"
----
-
 # 1993
 
 - [Ermal](Ermal.md) — Bicicletas

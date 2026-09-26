@@ -1,13 +1,3 @@
----
-title: "Rita Roxo"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 264
-last_edited: "2009-08-24T20:39:16Z"
-last_editor: "Tnbahia"
----
-
 # Rita Roxo
 
 Rita Roxo é desde 2002 um das animadoras do Colégio da Imaculada Conceição.
@@ -46,4 +36,7 @@ Rita Roxo é desde 2002 um das animadoras do Colégio da Imaculada Conceição.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

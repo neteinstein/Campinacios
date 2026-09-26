@@ -1,13 +1,3 @@
----
-title: "Eduardo Almeida"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 229
-last_edited: "2009-02-01T16:53:30Z"
-last_editor: "Tnbahia"
----
-
 # Eduardo Almeida
 
 Eduardo Manuel Ferreira de Castro Almeida, mais conhecido por Edu, nascido a 2 de Fevereiro de 1982, é animador do CC.
@@ -41,4 +31,7 @@ Eduardo Manuel Ferreira de Castro Almeida, mais conhecido por Edu, nascido a 2 d
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

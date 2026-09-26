@@ -1,13 +1,3 @@
----
-title: "Sofia Amaral"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 332
-last_edited: "2009-01-24T03:33:57Z"
-last_editor: "Neteinstein"
----
-
 # Sofia Amaral
 
 Sofia Amaral foi de 2005 a 2006 uma das animadoras do Colégio da Imaculada Conceição.
@@ -28,4 +18,7 @@ Sofia Amaral foi de 2005 a 2006 uma das animadoras do Colégio da Imaculada Conc
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

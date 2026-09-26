@@ -1,13 +1,3 @@
----
-title: "Gonçalo Fonseca"
-categories:
-  - "Animadores"
-  - "Jesuítas"
-wiki_id: 902
-last_edited: "2009-08-23T16:43:54Z"
-last_editor: "Tnbahia"
----
-
 # Gonçalo Fonseca
 
 ### Acampamentos
@@ -21,4 +11,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Jesuítas](../../Categorias/Jesu%C3%ADtas.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |

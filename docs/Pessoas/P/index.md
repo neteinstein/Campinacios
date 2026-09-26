@@ -1,7 +1,3 @@
----
-title: "P"
----
-
 # P
 
 - [Patrícia Cabaço](Patr%C3%ADcia%20Caba%C3%A7o.md)

@@ -1,14 +1,3 @@
----
-title: "Metrópole"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2004"
-  - "Bicicletas"
-wiki_id: 125
-last_edited: "2009-01-31T19:40:23Z"
-last_editor: "Neteinstein"
----
-
 # Metrópole
 
 O Metrópole decorreu na Sibana de 24 de Julho a 2 de Agosto de 2004 e foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md).
@@ -51,4 +40,8 @@ O Metrópole decorreu na Sibana de 24 de Julho a 2 de Agosto de 2004 e foi um ac
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2004](../../Categorias/Acampamentos%20de%202004.md) · [Bicicletas](../../Categorias/Bicicletas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2004](../../Categorias/Acampamentos%20de%202004.md) |
+| [Bicicletas](../../Categorias/Bicicletas.md) |

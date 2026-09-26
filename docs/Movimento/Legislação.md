@@ -1,10 +1,3 @@
----
-title: "Legislação"
-wiki_id: 658
-last_edited: "2009-02-15T01:08:01Z"
-last_editor: "Neteinstein"
----
-
 # Legislação
 
 O Decreto-Lei nº 310/2002 de 18 de Dezembro de 2002 (DR 292 - SÉRIE I-A) emitido pelo Ministério das Cidades, Ordenamento do Território e Ambiente, regula o regime jurídico do licenciamento e fiscalização pelas câmaras municipais de actividades diversas anteriormente cometidas aos governos civis, nomeadamente no que toca aos designados Acampamentos Ocasionais, que afecta os nossos acampamentos

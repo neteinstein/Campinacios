@@ -1,18 +1,3 @@
----
-title: "Bernardo Narciso"
-aliases:
-  - "CIzo"
-  - "Ciso"
-  - "Cizo"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-  - "Direcção Local do CSJB"
-wiki_id: 510
-last_edited: "2009-12-06T21:52:17Z"
-last_editor: "Tnbahia"
----
-
 # Bernardo Narciso
 
 ## História dentro do movimento
@@ -41,4 +26,10 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) · [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
+**Outros nomes:** CIzo · Ciso · Cizo
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |
+| [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) |

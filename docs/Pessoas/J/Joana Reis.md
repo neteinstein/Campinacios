@@ -1,13 +1,3 @@
----
-title: "Joana Reis"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 204
-last_edited: "2009-08-23T16:18:01Z"
-last_editor: "Tnbahia"
----
-
 # Joana Reis
 
 ### Acampamentos
@@ -31,4 +21,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

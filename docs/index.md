@@ -1,10 +1,3 @@
----
-title: "Wikinácios"
-wiki_id: 2
-last_edited: "2009-11-27T10:50:19Z"
-last_editor: "Neteinstein"
----
-
 Bem-vindo(a) à **Wikinácios**, a enciclopédia livre sobre [Campinácios](Movimento/Campin%C3%A1cios.md) que [(quase) todos podem editar](Wikin%C3%A1cios/Ajuda/Conte%C3%BAdos.md).
 
 [Boas-vindas](Movimento/Boas-vindas.md) &middot; [Ajuda](Wikin%C3%A1cios/Ajuda/Conte%C3%BAdos.md) &middot; [Perguntas Frequentes](Movimento/FAQ.md) &middot; [Contactos](Movimento/Contactos.md)

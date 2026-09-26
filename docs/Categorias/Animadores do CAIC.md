@@ -1,12 +1,3 @@
----
-title: "Animadores do CAIC"
-categories:
-  - "Animadores"
-wiki_id: 8
-last_edited: "2009-01-19T00:59:43Z"
-last_editor: "Admin"
----
-
 # Animadores do CAIC
 
 Animadores do Colégio da Imaculada Conceição
@@ -119,4 +110,6 @@ Animadores do Colégio da Imaculada Conceição
 
 ---
 
-**Categorias:** [Animadores](Animadores.md)
+| Categorias |
+| --- |
+| [Animadores](Animadores.md) |

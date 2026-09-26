@@ -1,13 +1,3 @@
----
-title: "Diana Pereira"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 205
-last_edited: "2009-08-24T19:47:47Z"
-last_editor: "Tnbahia"
----
-
 # Diana Pereira
 
 ### Acampamentos
@@ -35,4 +25,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

@@ -1,13 +1,3 @@
----
-title: "Pedro Turras"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 813
-last_edited: "2010-04-08T01:55:32Z"
-last_editor: "Mosca"
----
-
 # Pedro Turras
 
 ### Acampamentos
@@ -31,4 +21,7 @@ last_editor: "Mosca"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

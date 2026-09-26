@@ -1,13 +1,3 @@
----
-title: "Catarina Pinto"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 940
-last_edited: "2009-11-30T14:36:05Z"
-last_editor: "Tnbahia"
----
-
 # Catarina Pinto
 
 ### Acampamentos
@@ -26,4 +16,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

@@ -1,10 +1,3 @@
----
-title: "Coordenador Local do CAIC"
-wiki_id: 527
-last_edited: "2009-01-31T19:09:38Z"
-last_editor: "Neteinstein"
----
-
 # Coordenador Local do CAIC
 
 Animadores que ocuparam o cargo de Coordenador Local do CAIC.

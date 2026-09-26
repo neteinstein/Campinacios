@@ -1,13 +1,3 @@
----
-title: "Sílvia Lobo"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 871
-last_edited: "2009-09-25T16:37:28Z"
-last_editor: "Silvinha"
----
-
 # Sílvia Lobo
 
 Sílvia Lobo nasceu a 3 de Dezembro de 1990.
@@ -37,4 +27,7 @@ Frequentou o [CC](../../Movimento/CC.md) de 1994 a 2008. Animadora desde 2008 at
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

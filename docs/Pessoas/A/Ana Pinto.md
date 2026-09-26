@@ -1,13 +1,3 @@
----
-title: "Ana Pinto"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 967
-last_edited: "2009-12-16T18:51:42Z"
-last_editor: "Neteinstein"
----
-
 # Ana Pinto
 
 Ana Isabel Pinto, também conhecida por Ni, estudou no Colégio das Caldinhas de 1986 a 2002 sendo animadora até 2005.
@@ -32,4 +22,7 @@ Ana Isabel Pinto, também conhecida por Ni, estudou no Colégio das Caldinhas de
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

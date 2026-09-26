@@ -1,17 +1,3 @@
----
-title: "Pedro Rocha Mendes"
-aliases:
-  - "Perru"
-  - "Perrú"
-categories:
-  - "Animadores"
-  - "Jesuítas"
-  - "Animadores do CSJB"
-wiki_id: 824
-last_edited: "2009-06-08T00:58:49Z"
-last_editor: "Neteinstein"
----
-
 # Pedro Rocha Mendes
 
 ## Páginas que ligam para aqui
@@ -28,4 +14,10 @@ last_editor: "Neteinstein"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+**Outros nomes:** Perru · Perrú
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

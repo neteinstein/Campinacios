@@ -1,13 +1,3 @@
----
-title: "Madalena Saraiva"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 722
-last_edited: "2010-08-19T17:29:05Z"
-last_editor: "Tnbahia"
----
-
 # Madalena Saraiva
 
 Madalena Merca Saraiva, conhecida por Lelé, antiga aluna do Colégio S. João de Brito, é animadora dos Campinácios desde 2008.
@@ -34,4 +24,7 @@ Madalena Merca Saraiva, conhecida por Lelé, antiga aluna do Colégio S. João d
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

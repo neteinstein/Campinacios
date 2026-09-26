@@ -1,16 +1,3 @@
----
-title: "Maria Cortês Ferreira"
-aliases:
-  - "Maria Ferreira"
-  - "Maria bolacha"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 9
-last_edited: "2009-08-07T16:28:40Z"
-last_editor: "Edu"
----
-
 # Maria Cortês Ferreira
 
 Maria Mendes Cortês Ferreira, nascida a 6 de Março de 1985, é desde 2003 animadora do Colégio das Caldinhas.
@@ -50,4 +37,9 @@ Maria Mendes Cortês Ferreira, nascida a 6 de Março de 1985, é desde 2003 anim
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+**Outros nomes:** Maria Ferreira · Maria bolacha
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

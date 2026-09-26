@@ -1,14 +1,3 @@
----
-title: "Tábeeeim"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2010"
-  - "Bicicletas"
-wiki_id: 991
-last_edited: "2010-08-19T17:19:14Z"
-last_editor: "Tnbahia"
----
-
 # Tábeeeim
 
 O Tábeeeim foi um campo de Bicicletas que decorreu entre os dias 9 e 18 de Agosto de 2010 em Vila da Ponte (Montalegre).
@@ -43,4 +32,8 @@ O Tábeeeim foi um campo de Bicicletas que decorreu entre os dias 9 e 18 de Agos
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2010](../../Categorias/Acampamentos%20de%202010.md) · [Bicicletas](../../Categorias/Bicicletas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2010](../../Categorias/Acampamentos%20de%202010.md) |
+| [Bicicletas](../../Categorias/Bicicletas.md) |

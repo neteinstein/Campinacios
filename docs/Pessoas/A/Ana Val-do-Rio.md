@@ -1,13 +1,3 @@
----
-title: "Ana Val-do-Rio"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 600
-last_edited: "2009-02-07T15:25:51Z"
-last_editor: "Neteinstein"
----
-
 # Ana Val-do-Rio
 
 Ana Val-do-Rio foi uma das animadoras do Colégio da Imaculada Conceição.
@@ -36,4 +26,7 @@ Ana Val-do-Rio foi uma das animadoras do Colégio da Imaculada Conceição.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

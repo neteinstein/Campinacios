@@ -1,14 +1,3 @@
----
-title: "Liberata"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2000"
-  - "Trotinetas"
-wiki_id: 629
-last_edited: "2009-02-14T23:55:43Z"
-last_editor: "Neteinstein"
----
-
 # Liberata
 
 O Liberata foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que decorreu em Poço de Corga (Castanheira de Pêra)
@@ -32,4 +21,8 @@ O Liberata foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) qu
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2000](../../Categorias/Acampamentos%20de%202000.md) · [Trotinetas](../../Categorias/Trotinetas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2000](../../Categorias/Acampamentos%20de%202000.md) |
+| [Trotinetas](../../Categorias/Trotinetas.md) |

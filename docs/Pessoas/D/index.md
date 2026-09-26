@@ -1,7 +1,3 @@
----
-title: "D"
----
-
 # D
 
 - [Daniela Machado](Daniela%20Machado.md)

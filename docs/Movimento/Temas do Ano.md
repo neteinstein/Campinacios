@@ -1,12 +1,3 @@
----
-title: "Temas do Ano"
-aliases:
-  - "Tema do ano"
-wiki_id: 68
-last_edited: "2010-04-27T07:30:47Z"
-last_editor: "ABarroso"
----
-
 # Temas do Ano
 
 ## Temas do Ano
@@ -148,3 +139,7 @@ last_editor: "ABarroso"
 ## Páginas que ligam para aqui
 
 - [Wikinácios](../index.md)
+
+---
+
+**Outros nomes:** Tema do ano

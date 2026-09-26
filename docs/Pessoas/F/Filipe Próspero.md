@@ -1,16 +1,3 @@
----
-title: "Filipe Próspero"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-  - "Direcção Local do CSJB"
-  - "Coordenador Local do CSJB"
-  - "Direcção Nacional"
-wiki_id: 181
-last_edited: "2009-08-24T19:31:07Z"
-last_editor: "Tnbahia"
----
-
 # Filipe Próspero
 
 Filipe Próspero, é desde 2005 um dos animadores do Colégio São João de Brito.
@@ -59,4 +46,10 @@ Foi um dos gestores da página dos Campinácios de 2007 a 2009.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) · [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) · [Coordenador Local do CSJB](../../Categorias/Coordenador%20Local%20do%20CSJB.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |
+| [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) |
+| [Coordenador Local do CSJB](../../Categorias/Coordenador%20Local%20do%20CSJB.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |

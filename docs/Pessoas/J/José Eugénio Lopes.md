@@ -1,16 +1,3 @@
----
-title: "José Eugénio Lopes"
-aliases:
-  - "Genito"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-  - "Direcção Local do CAIC"
-wiki_id: 331
-last_edited: "2009-02-11T00:24:36Z"
-last_editor: "Tnbahia"
----
-
 # José Eugénio Lopes
 
 José Eugénio Lopes mais conhecido por Genito foi de 2001 a 2006 um dos animadores do Colégio da Imaculada Conceição.
@@ -41,4 +28,10 @@ José Eugénio Lopes mais conhecido por Genito foi de 2001 a 2006 um dos animado
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) · [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md)
+**Outros nomes:** Genito
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |
+| [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) |

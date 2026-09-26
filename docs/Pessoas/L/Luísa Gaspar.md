@@ -1,13 +1,3 @@
----
-title: "Luísa Gaspar"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 271
-last_edited: "2009-01-23T19:41:58Z"
-last_editor: "Neteinstein"
----
-
 # Luísa Gaspar
 
 Luísa Gaspar é desde 2003, um das animadoras do Colégio da Imaculada Conceição.
@@ -31,4 +21,7 @@ Luísa Gaspar é desde 2003, um das animadoras do Colégio da Imaculada Conceiç
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

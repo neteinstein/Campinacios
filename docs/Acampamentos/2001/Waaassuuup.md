@@ -1,14 +1,3 @@
----
-title: "Waaassuuup"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2001"
-  - "Bicicletas"
-wiki_id: 295
-last_edited: "2009-02-15T14:59:19Z"
-last_editor: "Neteinstein"
----
-
 # Waaassuuup
 
 O Waaassuuup foi um acampamento de Bicicletas que decorreu de 4 a 13 de Agosto de 2001 na Herdade da Machoqueira do Grou.
@@ -41,4 +30,8 @@ O Waaassuuup foi um acampamento de Bicicletas que decorreu de 4 a 13 de Agosto d
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2001](../../Categorias/Acampamentos%20de%202001.md) · [Bicicletas](../../Categorias/Bicicletas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2001](../../Categorias/Acampamentos%20de%202001.md) |
+| [Bicicletas](../../Categorias/Bicicletas.md) |

@@ -1,14 +1,3 @@
----
-title: "GANZA"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1997"
-  - "Lambretas"
-wiki_id: 157
-last_edited: "2009-11-27T18:28:42Z"
-last_editor: "Neteinstein"
----
-
 # GANZA
 
 O nome deste acampamento é acrónimo de: **G**rupo de **A**nimadores **N**a **Z**ona de **A**lferrarede.
@@ -32,4 +21,8 @@ O encontro chamou-se ERVA, acrónimo de Encontro ReViver o Alferrarede.
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1997](../../Categorias/Acampamentos%20de%201997.md) · [Lambretas](../../Categorias/Lambretas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1997](../../Categorias/Acampamentos%20de%201997.md) |
+| [Lambretas](../../Categorias/Lambretas.md) |

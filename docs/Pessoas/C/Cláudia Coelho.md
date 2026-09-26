@@ -1,13 +1,3 @@
----
-title: "Cláudia Coelho"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 324
-last_edited: "2009-01-24T03:05:02Z"
-last_editor: "Neteinstein"
----
-
 # Cláudia Coelho
 
 Cláudia Coelho foi de 2002 a 2005 um das animadoras do Colégio da Imaculada Conceição.
@@ -29,4 +19,7 @@ Cláudia Coelho foi de 2002 a 2005 um das animadoras do Colégio da Imaculada Co
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

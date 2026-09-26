@@ -1,12 +1,3 @@
----
-title: "Acampamentos de 1999"
-categories:
-  - "Acampamentos"
-wiki_id: 169
-last_edited: "2009-01-21T21:50:35Z"
-last_editor: "Neteinstein"
----
-
 # Acampamentos de 1999
 
 Acampamentos realizados em 1999
@@ -24,4 +15,6 @@ Acampamentos realizados em 1999
 
 ---
 
-**Categorias:** [Acampamentos](Acampamentos.md)
+| Categorias |
+| --- |
+| [Acampamentos](Acampamentos.md) |

@@ -1,13 +1,3 @@
----
-title: "Telmo Teixeira"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 234
-last_edited: "2009-02-02T15:45:15Z"
-last_editor: "Tnbahia"
----
-
 # Telmo Teixeira
 
 ### Acampamentos
@@ -28,4 +18,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

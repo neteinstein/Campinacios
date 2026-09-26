@@ -1,14 +1,3 @@
----
-title: "Jangada"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2002"
-  - "Triciclos"
-wiki_id: 293
-last_edited: "2009-02-15T00:21:40Z"
-last_editor: "Neteinstein"
----
-
 # Jangada
 
 O Jangada foi um acampamento de Triciclos que decorreu de 1 a 10 de Agosto de 2002 no Lugar do Barco (Refóios do Lima).
@@ -48,4 +37,8 @@ O Jangada foi um acampamento de Triciclos que decorreu de 1 a 10 de Agosto de 20
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2002](../../Categorias/Acampamentos%20de%202002.md) · [Triciclos](../../Categorias/Triciclos.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2002](../../Categorias/Acampamentos%20de%202002.md) |
+| [Triciclos](../../Categorias/Triciclos.md) |

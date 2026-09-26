@@ -1,17 +1,3 @@
----
-title: "José Manuel Lopes"
-aliases:
-  - "Zé Lopes"
-categories:
-  - "Jesuítas"
-  - "Animadores"
-  - "Direcção Nacional"
-  - "Assistentes Nacionais"
-wiki_id: 935
-last_edited: "2009-12-04T17:39:13Z"
-last_editor: "Tnbahia"
----
-
 # José Manuel Lopes
 
 José Manuel Lopes foi um dos fundadores dos [Campinácios](../../Movimento/Campin%C3%A1cios.md) e é actualmente director do [CAIC](../../Movimento/CAIC.md).
@@ -49,4 +35,11 @@ José Manuel Lopes foi um dos fundadores dos [Campinácios](../../Movimento/Camp
 
 ---
 
-**Categorias:** [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) · [Animadores](../../Categorias/Animadores.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) · [Assistentes Nacionais](../../Categorias/Assistentes%20Nacionais.md)
+**Outros nomes:** Zé Lopes
+
+| Categorias |
+| --- |
+| [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |
+| [Assistentes Nacionais](../../Categorias/Assistentes%20Nacionais.md) |

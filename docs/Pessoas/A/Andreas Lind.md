@@ -1,13 +1,3 @@
----
-title: "Andreas Lind"
-categories:
-  - "Animadores"
-  - "Jesuítas"
-wiki_id: 901
-last_edited: "2009-08-23T16:33:21Z"
-last_editor: "Tnbahia"
----
-
 # Andreas Lind
 
 ### Acampamentos
@@ -21,4 +11,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Jesuítas](../../Categorias/Jesu%C3%ADtas.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |

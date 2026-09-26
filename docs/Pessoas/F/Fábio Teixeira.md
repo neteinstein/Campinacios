@@ -1,13 +1,3 @@
----
-title: "Fábio Teixeira"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 886
-last_edited: "2009-06-03T11:10:43Z"
-last_editor: "Tnbahia"
----
-
 # Fábio Teixeira
 
 ### Acampamentos
@@ -33,4 +23,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

@@ -1,12 +1,3 @@
----
-title: "Bicicletas"
-categories:
-  - "Acampamentos"
-wiki_id: 63
-last_edited: "2009-01-19T22:03:35Z"
-last_editor: "Neteinstein"
----
-
 # Bicicletas
 
 Acampamentos do escalão Bicicletas - Alunos do 9º e 10º anos de escolaridade
@@ -71,4 +62,6 @@ Acampamentos do escalão Bicicletas - Alunos do 9º e 10º anos de escolaridade
 
 ---
 
-**Categorias:** [Acampamentos](Acampamentos.md)
+| Categorias |
+| --- |
+| [Acampamentos](Acampamentos.md) |

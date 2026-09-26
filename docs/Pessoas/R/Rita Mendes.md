@@ -1,13 +1,3 @@
----
-title: "Rita Mendes"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 493
-last_edited: "2009-02-07T15:31:38Z"
-last_editor: "Neteinstein"
----
-
 # Rita Mendes
 
 ### Acampamentos
@@ -29,4 +19,7 @@ last_editor: "Neteinstein"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

@@ -1,14 +1,3 @@
----
-title: "Verim"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1992"
-  - "Lambretas"
-wiki_id: 302
-last_edited: "2009-02-15T14:47:20Z"
-last_editor: "Neteinstein"
----
-
 # Verim
 
 Acampamento de [Lambretas](../../Categorias/Lambretas.md) que decorreu em Verim (Braga) de 20 a 29 de Julho de 1992.
@@ -28,4 +17,8 @@ Acampamento de [Lambretas](../../Categorias/Lambretas.md) que decorreu em Verim 
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1992](../../Categorias/Acampamentos%20de%201992.md) · [Lambretas](../../Categorias/Lambretas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1992](../../Categorias/Acampamentos%20de%201992.md) |
+| [Lambretas](../../Categorias/Lambretas.md) |

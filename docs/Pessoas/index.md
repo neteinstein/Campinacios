@@ -1,7 +1,3 @@
----
-title: "Pessoas"
----
-
 # Pessoas
 
 Animadores, jesuítas e outras pessoas do movimento, por ordem alfabética.

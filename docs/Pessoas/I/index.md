@@ -1,7 +1,3 @@
----
-title: "I"
----
-
 # I
 
 - [Inês Amorim](In%C3%AAs%20Amorim.md)

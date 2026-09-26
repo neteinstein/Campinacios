@@ -1,14 +1,3 @@
----
-title: "Calinadas"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1998"
-  - "Lambretas"
-wiki_id: 158
-last_edited: "2009-11-27T18:25:21Z"
-last_editor: "Neteinstein"
----
-
 # Calinadas
 
 ### Animadores
@@ -32,4 +21,8 @@ last_editor: "Neteinstein"
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1998](../../Categorias/Acampamentos%20de%201998.md) · [Lambretas](../../Categorias/Lambretas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1998](../../Categorias/Acampamentos%20de%201998.md) |
+| [Lambretas](../../Categorias/Lambretas.md) |

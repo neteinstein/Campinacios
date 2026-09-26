@@ -1,7 +1,3 @@
----
-title: "1990"
----
-
 # 1990
 
 - [Alfa](Alfa.md) — Trotinetas

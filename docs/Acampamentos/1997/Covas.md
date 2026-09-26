@@ -1,14 +1,3 @@
----
-title: "Covas"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1997"
-  - "Calhambeques"
-wiki_id: 977
-last_edited: "2010-04-12T18:21:38Z"
-last_editor: "Neteinstein"
----
-
 # Covas
 
 ## Páginas que ligam para aqui
@@ -22,4 +11,8 @@ last_editor: "Neteinstein"
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1997](../../Categorias/Acampamentos%20de%201997.md) · [Calhambeques](../../Categorias/Calhambeques.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1997](../../Categorias/Acampamentos%20de%201997.md) |
+| [Calhambeques](../../Categorias/Calhambeques.md) |

@@ -1,14 +1,3 @@
----
-title: "Rita Simões"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-  - "Direcção Local do CAIC"
-wiki_id: 278
-last_edited: "2009-09-25T17:24:43Z"
-last_editor: "Neteinstein"
----
-
 # Rita Simões
 
 Rita Simões é desde 2002, uma das animadoras do Colégio da Imaculada Conceição.
@@ -48,4 +37,8 @@ Rita Simões é desde 2002, uma das animadoras do Colégio da Imaculada Conceiç
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) · [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |
+| [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) |

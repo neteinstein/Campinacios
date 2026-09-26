@@ -1,15 +1,3 @@
----
-title: "Analisa Lucas"
-aliases:
-  - "Isa"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 265
-last_edited: "2009-12-02T14:17:10Z"
-last_editor: "Tnbahia"
----
-
 # Analisa Lucas
 
 Analisa Lucas mais conhecida por Isa, é desde 2005 uma das animadoras do Colégio da Imaculada Conceição.
@@ -37,4 +25,9 @@ Analisa Lucas mais conhecida por Isa, é desde 2005 uma das animadoras do Colég
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+**Outros nomes:** Isa
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

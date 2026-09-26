@@ -1,13 +1,3 @@
----
-title: "Mariana Franco"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 183
-last_edited: "2009-09-25T18:27:40Z"
-last_editor: "Silvinha"
----
-
 # Mariana Franco
 
 Mariana Franco é desde 2005, uma das animadoras do Colégio da Imaculada Conceição.
@@ -32,4 +22,7 @@ Mariana Franco é desde 2005, uma das animadoras do Colégio da Imaculada Concei
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

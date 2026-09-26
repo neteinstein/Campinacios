@@ -1,13 +1,3 @@
----
-title: "Maria Cristina Sousa Costa"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 781
-last_edited: "2009-12-06T22:59:38Z"
-last_editor: "Tnbahia"
----
-
 # Maria Cristina Sousa Costa
 
 ### Acampamentos
@@ -24,4 +14,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

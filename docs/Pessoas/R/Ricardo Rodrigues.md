@@ -1,15 +1,3 @@
----
-title: "Ricardo Rodrigues"
-aliases:
-  - "Kaká"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 711
-last_edited: "2009-12-06T22:23:56Z"
-last_editor: "Tnbahia"
----
-
 # Ricardo Rodrigues
 
 ### Acampamentos
@@ -45,4 +33,9 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+**Outros nomes:** Kaká
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

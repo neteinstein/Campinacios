@@ -1,13 +1,3 @@
----
-title: "João Salgueiro"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 245
-last_edited: "2009-01-23T18:36:44Z"
-last_editor: "Neteinstein"
----
-
 # João Salgueiro
 
 João Salgueiro, é um dos animadores do Colégio da Imaculada Conceição.
@@ -26,4 +16,7 @@ João Salgueiro, é um dos animadores do Colégio da Imaculada Conceição.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

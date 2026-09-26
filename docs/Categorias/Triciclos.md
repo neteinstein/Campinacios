@@ -1,12 +1,3 @@
----
-title: "Triciclos"
-categories:
-  - "Acampamentos"
-wiki_id: 62
-last_edited: "2009-01-19T22:07:18Z"
-last_editor: "Neteinstein"
----
-
 # Triciclos
 
 Acampamentos do escalão Triciclos - Alunos do 5º e 6º anos de escolaridade
@@ -63,4 +54,6 @@ Acampamentos do escalão Triciclos - Alunos do 5º e 6º anos de escolaridade
 
 ---
 
-**Categorias:** [Acampamentos](Acampamentos.md)
+| Categorias |
+| --- |
+| [Acampamentos](Acampamentos.md) |

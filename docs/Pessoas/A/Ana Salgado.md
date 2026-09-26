@@ -1,13 +1,3 @@
----
-title: "Ana Salgado"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 195
-last_edited: "2009-12-04T17:22:20Z"
-last_editor: "Tnbahia"
----
-
 # Ana Salgado
 
 ### Acampamentos
@@ -43,4 +33,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |
