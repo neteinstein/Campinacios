@@ -4,10 +4,10 @@ Marta Vilela, nascida a 17 de Junho de 1974, é animadora do CC
 
 ### Acampamentos
 
-        - Participante**
+- **Participante:**
     - 1989
     - 1991
-        - Animadora**
+- **Animadora:**
     - 1992 [Fornelos](../../Acampamentos/1992/Fornelos.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 1993 - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 1995 [Serrote](../../Acampamentos/1995/Serrote.md) - [Tia](../../Cargos/Tio.md)
