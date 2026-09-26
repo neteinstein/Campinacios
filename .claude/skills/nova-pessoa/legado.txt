@@ -1,0 +1,24 @@
+# Pares de pessoas com nomes parecidos que a wiki original já tinha, sem
+# nada que as distinga. pessoas.py verificar --todos ignora-os; pessoas
+# novas não entram aqui. Suspeitos de serem a mesma pessoa: Luis/Luís
+# Pereira e Miguel Martins Monteiro/Miguel Monteiro Martins.
+docs/Pessoas/A/Ana Carolina Santos.md | docs/Pessoas/A/Ana Luísa Santos.md
+docs/Pessoas/A/Ana Pinto da Costa.md | docs/Pessoas/A/Ana Pinto.md
+docs/Pessoas/D/Diogo José Nunes Carneiro.md | docs/Pessoas/D/Diogo José Oliveira Cerejeira Carneiro.md
+docs/Pessoas/F/Francisco Silva Rodrigues.md | docs/Pessoas/F/Francisco Silva.md
+docs/Pessoas/G/Gonçalo Fonseca Carvalho.md | docs/Pessoas/G/Gonçalo Fonseca.md
+docs/Pessoas/G/Gonçalo Fonseca Carvalho.md | docs/Pessoas/G/Gonçalo Luís Carvalho.md
+docs/Pessoas/H/Hugo Ferreira.md | docs/Pessoas/H/Hugo Rafael Ferreira.md
+docs/Pessoas/J/Joana Ferreira da Silva.md | docs/Pessoas/J/Joana Ferreira.md
+docs/Pessoas/J/Jorge Ramos.md | docs/Pessoas/P/Pedro Jorge Ramos.md
+docs/Pessoas/J/José Emanuel Ferreira.md | docs/Pessoas/J/José Pedro Ferreira.md
+docs/Pessoas/J/José Eugénio Lopes.md | docs/Pessoas/J/José Manuel Lopes.md
+docs/Pessoas/J/José Luís Fernandes.md | docs/Pessoas/J/José Miguel Fernandes.md
+docs/Pessoas/J/José Maria Fragoso de Almeida.md | docs/Pessoas/J/José da Silva Almeida.md
+docs/Pessoas/L/Luis Pereira.md | docs/Pessoas/L/Luís Pereira.md
+docs/Pessoas/M/Maria Fernandes.md | docs/Pessoas/R/Rita Maria Fernandes.md
+docs/Pessoas/M/Miguel Leite Martins.md | docs/Pessoas/M/Miguel Monteiro Martins.md
+docs/Pessoas/M/Miguel Martins Monteiro.md | docs/Pessoas/M/Miguel Monteiro Martins.md
+docs/Pessoas/M/Miguel Martins Monteiro.md | docs/Pessoas/M/Miguel Monteiro.md
+docs/Pessoas/M/Miguel Monteiro Martins.md | docs/Pessoas/M/Miguel Monteiro.md
+docs/Pessoas/P/Pedro Miguel Pereira.md | docs/Pessoas/P/Pedro Pereira.md

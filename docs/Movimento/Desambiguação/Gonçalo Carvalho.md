@@ -1,14 +1,6 @@
 # Gonçalo Carvalho
 
----
-
-| [🖼️ Disambig.svg.png](../../Wikin%C3%A1cios/Imagens/Disambig.svg.png.md) | ''Esta é uma página de desambiguação, a qual lista artigos associados a um mesmo título. <br>
-
-Se uma ligação interna o conduziu até aqui, sugerimos que a corrija para apontá-la directamente ao artigo adequado.''
-
-|
-
-| --- | --- |
+*Esta é uma página de desambiguação, a qual lista artigos associados a um mesmo título. Se uma ligação interna o conduziu até aqui, sugerimos que a corrija para apontá-la directamente ao artigo adequado.*
 
 **Gonçalo Carvalho** pode ser:
 
