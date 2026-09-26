@@ -20,6 +20,8 @@ Para efeitos de coerência apresentamos aqui como Direcção Nacional todos os e
 - Anualmente, aprovar a lista de animadores proposta por cada uma das DL's, tendo parecer vinculativo acerca da manutenção dos animadores nas listas ou acerca da admissão de novos animadores
 - Apreciar e aprovar o plano de actividades de cada DL no início de cada ano lectivo
 
+As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Deliberações](../Movimento/Manual%20de%20Delibera%C3%A7%C3%B5es.md), que reúne as orientações e excepções já discutidas para não voltarem a sê-lo.
+
 ## Direcção Nacional 2009/2010
 
 - **Assistente Nacional**:[Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj
