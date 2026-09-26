@@ -543,7 +543,7 @@ Animadores dos Campinácios
 - [Alfa](../Acampamentos/1990/Alfa.md)
 - [Animador](../Movimento/Animador.md)
 - [Caldiclos](../Acampamentos/1994/Caldiclos.md)
-- [Conteúdos](../Wikin%C3%A1cios/Ajuda/Conte%C3%BAdos.md)
+- [Conteúdos](../Wikin%C3%A1cios/Conte%C3%BAdos.md)
 - [Ed mais 10](../Acampamentos/2010/Ed%20mais%2010.md)
 - [Ferrugenta](../Acampamentos/1989/Ferrugenta.md)
 - [Florinhas](../Acampamentos/1994/Florinhas.md)

@@ -1,8 +1,8 @@
 # Conteúdos
 
-**Bem-vindo à Wiki dos [Campinácios](../../Movimento/Campin%C3%A1cios.md)!**
+**Bem-vindo à Wiki dos [Campinácios](../Movimento/Campin%C3%A1cios.md)!**
 
-*Este sitio faz parte da [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)!*
+*Este sitio faz parte da [Revolução Campinácios v2.0](../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)!*
 
 Funciona da mesma maneira que a famosa Wikipédia, com o mesmo "motor", e com uma filosofia semelhante...reunir o conhecimento e história dos Campinácios num sítio, aberto ao público.
 
@@ -15,7 +15,7 @@ A ideia é guardar a máxima informação sobre cada acampamento/encontro, como 
 ## Regras
 
 Antes de mais é necessário ter a noção que para escrever um artigo aqui devemos seguir algumas regras. E porque?
-Primeiro que tudo porque quando andamos a navegar por uma categoria, por exemplo [Animadores](../../Categorias/Animadores.md) estamos à espera que cada um dos animadores tenha a mesma organização para ser mais fácil de ler... isto aplica-se a tudo o resto.
+Primeiro que tudo porque quando andamos a navegar por uma categoria, por exemplo [Animadores](../Categorias/Animadores.md) estamos à espera que cada um dos animadores tenha a mesma organização para ser mais fácil de ler... isto aplica-se a tudo o resto.
 
 ### As 5 Regras
 
@@ -25,7 +25,7 @@ As categorias tem o nome no plural.
 **2. Artigos**<br>
 Os artigos sobre animadores, acampamentos, tema do ano, CIFAs, ou qualquer outro tema devem seguir o esquema dos artigos anteriores, ou seja, para escreverem algo abram outro artigo do mesmo tema, vão a editar, copiem, colem e alterem OS DADOS e não o esquema.
 
-Os artigos pretendem descrever um tema, ou assunto singular, que não contém vários eventos. Por exemplo [OrienTu](../../Acampamentos/2008/OrienTu.md) é um acampamento único, faz sentido que seja posto num artigo e não seja uma categoria.
+Os artigos pretendem descrever um tema, ou assunto singular, que não contém vários eventos. Por exemplo [OrienTu](../Acampamentos/2008/OrienTu.md) é um acampamento único, faz sentido que seja posto num artigo e não seja uma categoria.
 
 Acampamentos, fizemos já centenas... dai faz sentido que seja uma categoria onde apareça a explicar o que é um acampamento e os vários que já fizemos.
 
@@ -36,11 +36,11 @@ Não se toleram alterações persistentes de 2 utilizadores no mesmo artigo, ima
 Estamos numa ditadura, as imposições feitas pelos administradores deste sítio são lei.
 
 **5. Quem manda?**<br>
-Os [Contribuidores](../Contribuidores.md): [Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md) e [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md).
+Os [Contribuidores](Contribuidores.md): [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) e [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md).
 
 ## Como adicionar conteúdo?
 
-Não tem conta no GitHub, ou prefere não mexer nos ficheiros? Veja como [enviar a informação](#enviar-informacao) por um formulário ou por um modelo de texto, e os [Contribuidores](../Contribuidores.md) põem-na no site.
+Não tem conta no GitHub, ou prefere não mexer nos ficheiros? Veja como [enviar a informação](#enviar-informacao) por um formulário ou por um modelo de texto, e os [Contribuidores](Contribuidores.md) põem-na no site.
 
 A Wikinácios já não corre em MediaWiki: é um site feito a partir dos
 ficheiros do repositório
@@ -51,7 +51,7 @@ dentro da pasta `docs/`, e o site actualiza-se sozinho um ou dois minutos
 depois de cada alteração entrar no ramo `main`.
 
 Para editar é preciso uma conta no GitHub, que é gratuita. Quem tem
-permissão de escrita no repositório (os [Contribuidores](../Contribuidores.md): [Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md) e [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md))
+permissão de escrita no repositório (os [Contribuidores](Contribuidores.md): [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) e [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md))
 grava as alterações directamente. Os outros fazem uma proposta de alteração
 (*pull request*) que os Contribuidores revêem e aceitam: as regras acima continuam a
 valer.
@@ -69,7 +69,7 @@ valer.
 ### Como se adiciona um artigo?
 
 Antes de mais é preciso saber se o artigo já existe: use a caixa
-**Buscar** no topo do site ou [Todos os artigos](../../Todos%20os%20artigos.md),
+**Buscar** no topo do site ou [Todos os artigos](../Todos%20os%20artigos.md),
 que também lista as alcunhas e os nomes alternativos.
 
 Se não existir, entre no GitHub na pasta certa dentro de `docs/`:
@@ -107,7 +107,7 @@ não se actualizam sozinhas, mas a pesquisa do site encontra-o logo.
 | `''itálico''` | `*itálico*` |
 | `== Secção ==` | `## Secção` |
 | `* item` | `- item` |
-| `[[Pedro Vicente]]` | `[Pedro Vicente](<../../Pessoas/P/Pedro Vicente.md>)` |
+| `[[Pedro Vicente]]` | `[Pedro Vicente](<../Pessoas/P/Pedro Vicente.md>)` |
 | `[http://exemplo.pt texto]` | `[texto](http://exemplo.pt)` |
 
 As ligações entre artigos levam o caminho do ficheiro a partir da pasta do
@@ -118,13 +118,13 @@ que não existe, a publicação falha (o GitHub mostra um ✗ vermelho no
 
 Para uma imagem, carregue o ficheiro com **Add file → Upload files** para
 `docs/assets/imagens/` e escreva
-`![legenda](<../../assets/imagens/foto.jpg>)`, com o caminho a partir do
+`![legenda](<../assets/imagens/foto.jpg>)`, com o caminho a partir do
 artigo.
 
 ### Como se cria uma categoria?
 
 Uma categoria é uma página em `docs/Categorias/` com a lista dos seus
-artigos, como [Animadores](../../Categorias/Animadores.md). Crie o ficheiro
+artigos, como [Animadores](../Categorias/Animadores.md). Crie o ficheiro
 com essa lista e, no fim de cada artigo da categoria, acrescente-a à linha
 **Categorias:**.
 
@@ -136,13 +136,13 @@ Na página da categoria-mãe, acrescente a subcategoria à secção
 ### E as páginas restritas?
 
 Estão cifradas e não se editam no GitHub. Ver
-[Sobre este arquivo](../Sobre%20este%20arquivo.md#páginas-restritas).
+[Sobre este arquivo](Sobre%20este%20arquivo.md#páginas-restritas).
 
 ### Enviar informação sem editar {#enviar-informacao}
 
 Sabe alguma coisa sobre um acampamento ou uma pessoa que falta na
 Wikinácios, ou que está errada? Envie-a por um destes modelos e os
-[Contribuidores](../Contribuidores.md) põem-na no site. Preencha só o que souber.
+[Contribuidores](Contribuidores.md) põem-na no site. Preencha só o que souber.
 
 #### Com conta no GitHub
 
@@ -171,9 +171,9 @@ privado aos Contribuidores, nunca num destes pedidos.
 
 #### Sem conta no GitHub
 
-Copie o modelo, preencha o que souber e envie-o a alguém dos [Contribuidores](../Contribuidores.md):
-[Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md) ou
-[Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md).
+Copie o modelo, preencha o que souber e envie-o a alguém dos [Contribuidores](Contribuidores.md):
+[Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) ou
+[Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md).
 
 ##### Acampamento
 
@@ -257,7 +257,7 @@ Sem conta no GitHub? Reúna a mesma informação e
 
 !!! warning "Antes de escrever"
 
-    - **Procure primeiro.** Veja em [Todos os artigos](../../Todos%20os%20artigos.md),
+    - **Procure primeiro.** Veja em [Todos os artigos](../Todos%20os%20artigos.md),
       que também lista as alcunhas, ou na caixa **Buscar**, se a pessoa, o
       acampamento ou o local já existe. Se existir, acrescente ao artigo que
       lá está em vez de criar outro.
@@ -269,19 +269,19 @@ Sem conta no GitHub? Reúna a mesma informação e
       nome escrito de outra maneira cria uma pessoa a mais (um duplicado) ou
       uma ligação partida. O texto da ligação pode ser a alcunha, mas a
       ligação aponta sempre para o artigo que já existe:
-      `[Jonifa](<../../Pessoas/J/João Freire de Andrade.md>)`.
+      `[Jonifa](<../Pessoas/J/João Freire de Andrade.md>)`.
     - **Nome igual não quer dizer mesma pessoa.** Há dois Gonçalo Carvalho e
       três Miguel Martins. Se já há um artigo com o nome e é outra pessoa,
       não crie outro com o mesmo nome: use o nome completo (mais um nome ou
       apelido) e fale com os Contribuidores.
     - **Cargos sempre com o nome completo**, um destes e com a ligação para
-      a página do cargo: [Director](../../Cargos/Director.md) (ou
-      Directora), [Director-Adjunto](../../Cargos/Director-Adjunto.md) (ou
-      Directora-Adjunta), [Mamã](../../Cargos/Mam%C3%A3.md),
-      [Tio](../../Cargos/Tio.md) (ou Tia), [Capelão](../../Cargos/Capel%C3%A3o.md),
-      [Capelinho](../../Cargos/Capelinho.md),
-      [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) e
-      [Animador Livre](../../Cargos/Animador%20Livre.md). Nunca abreviados:
+      a página do cargo: [Director](../Cargos/Director.md) (ou
+      Directora), [Director-Adjunto](../Cargos/Director-Adjunto.md) (ou
+      Directora-Adjunta), [Mamã](../Cargos/Mam%C3%A3.md),
+      [Tio](../Cargos/Tio.md) (ou Tia), [Capelão](../Cargos/Capel%C3%A3o.md),
+      [Capelinho](../Cargos/Capelinho.md),
+      [Animador de Equipa](../Cargos/Animador%20de%20Equipa.md) e
+      [Animador Livre](../Cargos/Animador%20Livre.md). Nunca abreviados:
       "Director-Adjunto", com hífen, e não "Adjunto", "Director Adjunto",
       "Sub-director" ou "DA"; "Animador Livre" e não "Livre"; "Animador de
       Equipa" e não "Animador" ou "AE". Quando são vários, o cargo vai no
@@ -290,7 +290,7 @@ Sem conta no GitHub? Reúna a mesma informação e
     - **Escalões com o nome exacto:** Triciclos, Trotinetas, Bicicletas,
       Lambretas, Calhambeques ou Formação de Animadores.
     - **Jesuítas** levam "sj" a seguir ao nome, fora da ligação:
-      `[Luís Onofre](<../../Pessoas/L/Luís Onofre.md>) sj`.
+      `[Luís Onofre](<../Pessoas/L/Luís Onofre.md>) sj`.
     - **Português de Portugal, com a ortografia da wiki:** Director,
       Direcção, actualizar, contacto, e os meses com maiúscula ("de 5 a 14
       de Agosto").
@@ -309,8 +309,8 @@ Sem conta no GitHub? Reúna a mesma informação e
 
 Ficheiro: `docs/Acampamentos/«ano»/«Nome do acampamento».md` (sem ano
 conhecido, em `docs/Acampamentos/Sem data/`). Exemplos:
-[Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md) e
-[OrienTu](../../Acampamentos/2008/OrienTu.md).
+[Esperança](../Acampamentos/2011/Esperan%C3%A7a.md) e
+[OrienTu](../Acampamentos/2008/OrienTu.md).
 
 | Informação | Obrigatória? | Como se escreve |
 | --- | --- | --- |
@@ -327,18 +327,18 @@ conhecido, em `docs/Acampamentos/Sem data/`). Exemplos:
 ```markdown
 # «Nome do acampamento»
 
-O «Nome do acampamento» foi um acampamento de [«Escalão»](<../../Categorias/«Escalão».md>) que decorreu de «dia» a «dia» de «Mês» de «ano» em [«Lugar»](<../../Restrito/Locais de Acampamento/«Lugar» («Concelho»).md>).
+O «Nome do acampamento» foi um acampamento de [«Escalão»](<../Categorias/«Escalão».md>) que decorreu de «dia» a «dia» de «Mês» de «ano» em [«Lugar»](<../Restrito/Locais de Acampamento/«Lugar» («Concelho»).md>).
 
 ### Animadores
 
-- [Director](<../../Cargos/Director.md>) - [«Nome»](<../../Pessoas/«Inicial»/«Nome».md>)
-- [Mamã](<../../Cargos/Mamã.md>) - [«Nome»](<../../Pessoas/«Inicial»/«Nome».md>)
-- [Director-Adjunto](<../../Cargos/Director-Adjunto.md>) - [«Nome»](<../../Pessoas/«Inicial»/«Nome».md>)
-- [Capelão](<../../Cargos/Capelão.md>) - [«Nome»](<../../Pessoas/«Inicial»/«Nome».md>) sj
-- [Capelinho](<../../Cargos/Capelinho.md>) - [«Nome»](<../../Pessoas/«Inicial»/«Nome».md>) sj
-- [Tios](<../../Cargos/Tio.md>) - [«Nome»](<../../Pessoas/«Inicial»/«Nome».md>) e [«Nome»](<../../Pessoas/«Inicial»/«Nome».md>)
-- [Animadores Livres](<../../Cargos/Animador Livre.md>) - [«Nome»](<../../Pessoas/«Inicial»/«Nome».md>) e [«Nome»](<../../Pessoas/«Inicial»/«Nome».md>)
-- [Animadores de Equipa](<../../Cargos/Animador de Equipa.md>) - [«Nome»](<../../Pessoas/«Inicial»/«Nome».md>), [«Nome»](<../../Pessoas/«Inicial»/«Nome».md>) e [«Nome»](<../../Pessoas/«Inicial»/«Nome».md>)
+- [Director](<../Cargos/Director.md>) - [«Nome»](<../Pessoas/«Inicial»/«Nome».md>)
+- [Mamã](<../Cargos/Mamã.md>) - [«Nome»](<../Pessoas/«Inicial»/«Nome».md>)
+- [Director-Adjunto](<../Cargos/Director-Adjunto.md>) - [«Nome»](<../Pessoas/«Inicial»/«Nome».md>)
+- [Capelão](<../Cargos/Capelão.md>) - [«Nome»](<../Pessoas/«Inicial»/«Nome».md>) sj
+- [Capelinho](<../Cargos/Capelinho.md>) - [«Nome»](<../Pessoas/«Inicial»/«Nome».md>) sj
+- [Tios](<../Cargos/Tio.md>) - [«Nome»](<../Pessoas/«Inicial»/«Nome».md>) e [«Nome»](<../Pessoas/«Inicial»/«Nome».md>)
+- [Animadores Livres](<../Cargos/Animador Livre.md>) - [«Nome»](<../Pessoas/«Inicial»/«Nome».md>) e [«Nome»](<../Pessoas/«Inicial»/«Nome».md>)
+- [Animadores de Equipa](<../Cargos/Animador de Equipa.md>) - [«Nome»](<../Pessoas/«Inicial»/«Nome».md>), [«Nome»](<../Pessoas/«Inicial»/«Nome».md>) e [«Nome»](<../Pessoas/«Inicial»/«Nome».md>)
 
 ## Música
 
@@ -352,15 +352,15 @@ O «Nome do acampamento» foi um acampamento de [«Escalão»](<../../Categorias
 
 ## Páginas que ligam para aqui
 
-- [«Nome»](<../../Pessoas/«Inicial»/«Nome».md>)
+- [«Nome»](<../Pessoas/«Inicial»/«Nome».md>)
 
 ---
 
 | Categorias |
 | --- |
-| [Acampamentos](<../../Categorias/Acampamentos.md>) |
-| [Acampamentos de «ano»](<../../Categorias/Acampamentos de «ano».md>) |
-| [«Escalão»](<../../Categorias/«Escalão».md>) |
+| [Acampamentos](<../Categorias/Acampamentos.md>) |
+| [Acampamentos de «ano»](<../Categorias/Acampamentos de «ano».md>) |
+| [«Escalão»](<../Categorias/«Escalão».md>) |
 ```
 
 !!! warning "Cuidados"
@@ -397,8 +397,8 @@ Depois de gravar, acrescente o acampamento também em:
 
 Ficheiro: `docs/Pessoas/«Inicial»/«Nome completo».md`, com a inicial sem
 acento (Álvaro vai para `A`). Exemplos:
-[Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md) e
-[João Eiró](../../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md).
+[Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) e
+[João Eiró](../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md).
 
 | Informação | Obrigatória? | Como se escreve |
 | --- | --- | --- |
@@ -414,7 +414,7 @@ acento (Álvaro vai para `A`). Exemplos:
 ```markdown
 # «Nome completo»
 
-«Nome» frequentou o [«Colégio»](<../../Movimento/«Colégio».md>) de «ano» a «ano». Animador desde «ano».
+«Nome» frequentou o [«Colégio»](<../Movimento/«Colégio».md>) de «ano» a «ano». Animador desde «ano».
 
 ## História dentro do movimento
 
@@ -428,15 +428,15 @@ acento (Álvaro vai para `A`). Exemplos:
 ### Acampamentos
 
 - **Participante:**
-    - «ano» [«Acampamento»](<../../Acampamentos/«ano»/«Acampamento».md>)
+    - «ano» [«Acampamento»](<../Acampamentos/«ano»/«Acampamento».md>)
 - **Formação:**
-    - «ano» [«Acampamento»](<../../Acampamentos/«ano»/«Acampamento».md>)
+    - «ano» [«Acampamento»](<../Acampamentos/«ano»/«Acampamento».md>)
 - **Animador:**
-    - «ano» [«Acampamento»](<../../Acampamentos/«ano»/«Acampamento».md>) - [«Cargo»](<../../Cargos/«Cargo».md>)
+    - «ano» [«Acampamento»](<../Acampamentos/«ano»/«Acampamento».md>) - [«Cargo»](<../Cargos/«Cargo».md>)
 
 ## Páginas que ligam para aqui
 
-- [«Acampamento»](<../../Acampamentos/«ano»/«Acampamento».md>)
+- [«Acampamento»](<../Acampamentos/«ano»/«Acampamento».md>)
 
 ---
 
@@ -444,8 +444,8 @@ acento (Álvaro vai para `A`). Exemplos:
 
 | Categorias |
 | --- |
-| [Animadores](<../../Categorias/Animadores.md>) |
-| [Animadores do «Colégio»](<../../Categorias/Animadores do «Colégio».md>) |
+| [Animadores](<../Categorias/Animadores.md>) |
+| [Animadores do «Colégio»](<../Categorias/Animadores do «Colégio».md>) |
 ```
 
 !!! warning "Cuidados"
@@ -463,7 +463,7 @@ acento (Álvaro vai para `A`). Exemplos:
       **Outros nomes**, não para o título.
     - Para uma animadora, a lista chama-se **Animadora:**.
     - Nos jesuítas, "sj" não entra no título nem no nome do ficheiro, e a
-      categoria é [Jesuítas](../../Categorias/Jesu%C3%ADtas.md).
+      categoria é [Jesuítas](../Categorias/Jesu%C3%ADtas.md).
     - Sem contactos, moradas nem datas de nascimento, a não ser que a
       própria pessoa os queira lá.
 
@@ -499,15 +499,15 @@ No artigo do acampamento (`docs/Acampamentos/«ano»/«Acampamento».md`):
 ```markdown
 ### Animadores
 
-- [«Cargo»](<../../Cargos/«Cargo».md>) - [«Nome»](<../../Pessoas/«Inicial»/«Nome».md>)
+- [«Cargo»](<../Cargos/«Cargo».md>) - [«Nome»](<../Pessoas/«Inicial»/«Nome».md>)
 
 ### Participantes
 
-- [«Nome»](<../../Pessoas/«Inicial»/«Nome».md>)
+- [«Nome»](<../Pessoas/«Inicial»/«Nome».md>)
 
 ## Páginas que ligam para aqui
 
-- [«Nome»](<../../Pessoas/«Inicial»/«Nome».md>)
+- [«Nome»](<../Pessoas/«Inicial»/«Nome».md>)
 ```
 
 No artigo da pessoa (`docs/Pessoas/«Inicial»/«Nome».md`):
@@ -516,15 +516,15 @@ No artigo da pessoa (`docs/Pessoas/«Inicial»/«Nome».md`):
 ### Acampamentos
 
 - **Participante:**
-    - «ano» [«Acampamento»](<../../Acampamentos/«ano»/«Acampamento».md>)
+    - «ano» [«Acampamento»](<../Acampamentos/«ano»/«Acampamento».md>)
 - **Formação:**
-    - «ano» [«Acampamento»](<../../Acampamentos/«ano»/«Acampamento».md>)
+    - «ano» [«Acampamento»](<../Acampamentos/«ano»/«Acampamento».md>)
 - **Animador:**
-    - «ano» [«Acampamento»](<../../Acampamentos/«ano»/«Acampamento».md>) - [«Cargo»](<../../Cargos/«Cargo».md>)
+    - «ano» [«Acampamento»](<../Acampamentos/«ano»/«Acampamento».md>) - [«Cargo»](<../Cargos/«Cargo».md>)
 
 ## Páginas que ligam para aqui
 
-- [«Acampamento»](<../../Acampamentos/«ano»/«Acampamento».md>)
+- [«Acampamento»](<../Acampamentos/«ano»/«Acampamento».md>)
 ```
 
 !!! warning "Cuidados"
@@ -548,7 +548,7 @@ No artigo da pessoa (`docs/Pessoas/«Inicial»/«Nome».md`):
 ### Local de acampamento {#local-de-acampamento}
 
 As fichas dos locais de acampamento, com as indicações, os contactos e o
-mapa, são [páginas restritas](../Sobre%20este%20arquivo.md#páginas-restritas):
+mapa, são [páginas restritas](Sobre%20este%20arquivo.md#páginas-restritas):
 estão cifradas e só os Contribuidores as editam, com a palavra-passe. Quem
 não é dos Contribuidores envia a informação **em privado** a alguém dos
 Contribuidores, nunca num pedido (*issue*) do GitHub, que é público.
@@ -563,7 +563,7 @@ criado cifrado (ver abaixo).
 | Como chegar | não | Indicações a partir da estrada principal |
 | Contactos | não | Proprietário ou responsável, e o telefone |
 | Condições | não | Água, electricidade, casas de banho, sombra, rio, quantas tendas cabem |
-| Autorizações | não | Quem é preciso avisar e com que antecedência: ver [Legislação](../../Movimento/Legisla%C3%A7%C3%A3o.md) |
+| Autorizações | não | Quem é preciso avisar e com que antecedência: ver [Legislação](../Movimento/Legisla%C3%A7%C3%A3o.md) |
 | Serviços perto | não | Centro de saúde ou hospital, GNR, bombeiros, farmácia, supermercado |
 | Acampamentos que lá se fizeram | não | *2008 - OrienTu* |
 | Observações | não | O que correu bem ou mal, o que levar |
@@ -603,7 +603,7 @@ ficheiro):
 
 ## Acampamentos
 
-- «ano» [«Acampamento»](<../../Acampamentos/«ano»/«Acampamento».md>)
+- «ano» [«Acampamento»](<../Acampamentos/«ano»/«Acampamento».md>)
 
 ## Observações
 
@@ -611,14 +611,14 @@ ficheiro):
 
 ## Páginas que ligam para aqui
 
-- [«Acampamento»](<../../Acampamentos/«ano»/«Acampamento».md>)
+- [«Acampamento»](<../Acampamentos/«ano»/«Acampamento».md>)
 
 ---
 
 | Categorias |
 | --- |
-| [Locais de Acampamento](<../../Categorias/Locais de Acampamento.md>) |
-| [Restrita](<../../Categorias/Restrita.md>) |
+| [Locais de Acampamento](<../Categorias/Locais de Acampamento.md>) |
+| [Restrita](<../Categorias/Restrita.md>) |
 ```
 
 Para a criar, com a palavra-passe:
@@ -647,7 +647,7 @@ pasta `restrito-aberto/`.
       que existe.
     - O nome do ficheiro é o título, com os parênteses e os acentos, e é
       igual em todas as ligações:
-      `[Murtinheira](<../../Restrito/Locais de Acampamento/Murtinheira (Vila Nova do Ceira).md>)`.
+      `[Murtinheira](<../Restrito/Locais de Acampamento/Murtinheira (Vila Nova do Ceira).md>)`.
     - As fichas que já existem são o modelo (regra 2): se alguma coisa
       acima for diferente delas, siga as fichas.
 
@@ -667,7 +667,7 @@ Depois de gravar, acrescente o local também em:
 Os participantes vão no artigo do acampamento, na secção `### Participantes`,
 a seguir aos animadores; quem tem artigo ganha também a linha no seu artigo
 (ver [Pessoas em acampamentos](#pessoas-em-acampamentos)). Exemplo:
-[Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md).
+[Esperança](../Acampamentos/2011/Esperan%C3%A7a.md).
 
 | Informação | Obrigatória? | Como se escreve |
 | --- | --- | --- |
@@ -678,7 +678,7 @@ a seguir aos animadores; quem tem artigo ganha também a linha no seu artigo
 ```markdown
 ### Participantes
 
-- [«Nome»](<../../Pessoas/«Inicial»/«Nome».md>)
+- [«Nome»](<../Pessoas/«Inicial»/«Nome».md>)
 - «Nome de quem não tem artigo»
 ```
 

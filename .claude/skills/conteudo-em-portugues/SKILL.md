@@ -9,7 +9,7 @@ The Wikinácios is a Portuguese-language archive: every page, category,
 issue form and help text a visitor reads is written in European Portuguese,
 in the pre-1990 spelling the original wiki used — Direcção, Director,
 actualizar, contacto, equipa, Agosto with a capital — as
-`docs/Wikinácios/Ajuda/Conteúdos.md` already asks of anyone editing. This
+`docs/Wikinácios/Conteúdos.md` already asks of anyone editing. This
 skill is about catching the exceptions before they get
 committed: a paragraph pasted from an English source, a submission answered
 in English by mistake, a machine translation that lands in Brazilian
@@ -27,7 +27,7 @@ against every other skill in this repo.
 - Write new prose directly in Portuguese; don't draft in English and plan
   to translate later — a step that's easy to forget.
 - Keep the orthography of the page you're editing or copying (regra 2 of
-  `docs/Wikinácios/Ajuda/Conteúdos.md`): Director, Direcção, actualizar,
+  `docs/Wikinácios/Conteúdos.md`): Director, Direcção, actualizar,
   contacto, equipa — not Diretor, Direção, atualizar, contato, equipe,
   which are the Brazilian spellings and don't belong here even though
   they're also Portuguese.

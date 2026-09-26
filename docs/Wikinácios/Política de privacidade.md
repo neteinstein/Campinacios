@@ -25,7 +25,7 @@ guardada só no `sessionStorage` (até fechar o separador) ou, escolhendo
 ## Editar ou enviar informação
 
 Editar uma página, abrir uma *pull request* ou preencher um dos
-[formulários de contributo](Ajuda/Conte%C3%BAdos.md#enviar-informacao) exige
+[formulários de contributo](Conte%C3%BAdos.md#enviar-informacao) exige
 uma conta no GitHub. O que fizer com essa conta no GitHub — comentários,
 *commits*, *pull requests*, endereço IP das suas ligações — é gerido pelo
 GitHub e está sujeito à política de privacidade do GitHub, não a esta. O
@@ -35,7 +35,7 @@ versões, mesmo depois de uma alteração ou remoção posterior.
 
 Quem prefere não usar o GitHub pode enviar a informação em privado a um dos
 [Contribuidores](Contribuidores.md), por um dos
-[modelos de texto](Ajuda/Conte%C3%BAdos.md#enviar-informacao); são os
+[modelos de texto](Conte%C3%BAdos.md#enviar-informacao); são os
 Contribuidores que a publicam depois, com o mesmo efeito.
 
 ## Dados pessoais nas páginas
@@ -44,7 +44,7 @@ As páginas públicas não devem ter contactos (telefones, e-mails, moradas),
 indicações para chegar aos locais de acampamento, nem nomes de participantes
 menores de idade; informação sobre outra pessoa só se publica com o acordo
 dela — ver os cuidados em
-[Conteúdos](Ajuda/Conte%C3%BAdos.md#cuidados). As fichas dos locais de
+[Conteúdos](Conte%C3%BAdos.md#cuidados). As fichas dos locais de
 acampamento, que têm essas indicações, ficam cifradas nas
 [páginas restritas](Sobre%20este%20arquivo.md#páginas-restritas).
 

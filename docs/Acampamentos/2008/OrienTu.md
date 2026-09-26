@@ -120,7 +120,7 @@ O nome veio da junção de "Oriente" e do tema do ano, ou parte dele "Tu"... Ori
 ## Páginas que ligam para aqui
 
 - [Ana Luísa Reis](../../Pessoas/A/Ana%20Lu%C3%ADsa%20Reis.md)
-- [Conteúdos](../../Wikin%C3%A1cios/Ajuda/Conte%C3%BAdos.md)
+- [Conteúdos](../../Wikin%C3%A1cios/Conte%C3%BAdos.md)
 - [Diogo José Nunes Carneiro](../../Pessoas/D/Diogo%20Jos%C3%A9%20Nunes%20Carneiro.md)
 - [Elias Oliveira](../../Pessoas/E/Elias%20Oliveira.md)
 - [Filipe Próspero](../../Pessoas/F/Filipe%20Pr%C3%B3spero.md)

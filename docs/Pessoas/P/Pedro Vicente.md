@@ -83,7 +83,7 @@ Respondendo à pergunta inicial… ganhei tudo… o que é importante pelo menos
 - [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
 - [Caminho](../../Acampamentos/2009/Caminho.md)
 - [Campinácios](../../Movimento/Campin%C3%A1cios.md)
-- [Conteúdos](../../Wikin%C3%A1cios/Ajuda/Conte%C3%BAdos.md)
+- [Conteúdos](../../Wikin%C3%A1cios/Conte%C3%BAdos.md)
 - [Contribuidores](../../Wikin%C3%A1cios/Contribuidores.md)
 - [Encontro Nacional de 2007](../../Encontros/Encontro%20Nacional%20de%202007.md)
 - [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md)
@@ -96,7 +96,6 @@ Respondendo à pergunta inicial… ganhei tudo… o que é importante pelo menos
 - [OrienTu](../../Acampamentos/2008/OrienTu.md)
 - [Patos](../../Acampamentos/2004/Patos.md)
 - [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
-- [Tnbahia](../../Wikin%C3%A1cios/Discuss%C3%A3o/Utilizador%20Tnbahia.md)
 - [Walkabout](../../Acampamentos/2010/Walkabout.md)
 
 ---

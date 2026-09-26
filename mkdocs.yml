@@ -138,8 +138,7 @@ nav:
   - "Locais": Restrito/Locais de Acampamento/index.md
   - "Sobre":
     - Wikinácios/index.md
-    - "Ajuda": Wikinácios/Ajuda/index.md
-    - "Discussão": Wikinácios/Discussão/index.md
+    - "Conteúdos": Wikinácios/Conteúdos.md
     - "Predefinições": Wikinácios/Predefinições/index.md
   - "Todos os artigos": Todos os artigos.md
   - "Grafo": Grafo.md

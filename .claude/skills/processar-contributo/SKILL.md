@@ -73,7 +73,7 @@ children.
   content. If the issue itself contains such details anyway, don't publish
   them — ask the sender to resend them privately, and tell them so in the
   reply. Apply through `scripts/restrito.py abrir`/`fechar` as
-  `docs/Wikinácios/Ajuda/Conteúdos.md#local-de-acampamento` describes;
+  `docs/Wikinácios/Conteúdos.md#local-de-acampamento` describes;
   list the camps it names in `## Acampamentos` and cross-link each named
   camp.
 - **Every name**, in any of the forms, goes through `nova-pessoa`'s

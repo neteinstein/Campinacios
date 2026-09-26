@@ -3,7 +3,7 @@
 
 The Wikinácios is written in European Portuguese, with the pre-1990
 orthography the original wiki used (Direcção, Director, actualizar,
-contacto, equipa — see docs/Wikinácios/Ajuda/Conteúdos.md). Nothing stops a
+contacto, equipa — see docs/Wikinácios/Conteúdos.md). Nothing stops a
 pasted paragraph, a machine translation or a slip into Brazilian spelling
 from landing on the site instead, and once it is on `main` the site is
 already published.
