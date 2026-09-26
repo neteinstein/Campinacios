@@ -32,4 +32,5 @@ E como em tudo num campo de férias o animador tem que dar o exemplo. Nos escal�
 
 ## Páginas que ligam para aqui
 
+- [Manual do Director](Manual%20do%20Director.md)
 - [Vocabulário](Vocabul%C3%A1rio.md)
