@@ -8,8 +8,27 @@
 - Logótipo Oficial do Movimento a partir de Janeiro de 1995 - por Joana Horta Botelho e Castro (CSJB)
 - Proposta de logótipo do Movimento em 1998 - Nunca se terminou ou tornou oficial
 - Logótipo Oficial do Movimento em 2003
-- Logótipo não oficial - Feito por Pedro Pinheiro para a comemoração do natal de 2006
-- Logótipo Oficial do Movimento a partir de Janeiro de 2010 (embora tenha sido usado desde 2006, foi criado para os 20 anos do Movimento) - por João David a pedido de Pedro Vicente
+- Logótipo não oficial - Feito por [Pedro Pinheiro](../Pessoas/P/Pedro%20Pinheiro.md) para a comemoração do natal de 2006
+- Logótipo Oficial do Movimento a partir de Janeiro de 2010 (embora tenha sido usado desde 2006, foi criado para os 20 anos do Movimento) - por João David a pedido de [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)
+
+<div class="wk-logos" markdown>
+<figure markdown="span">
+[![Logótipo de 1994: desenho a preto e branco de uma tenda, uma árvore, o IHS e «Campinácios 94», com a legenda «Campos de férias dos Colégios S.J.»](../assets/imagens/Campin%C3%A1cios_1994.jpg)](../assets/imagens/Campin%C3%A1cios_1994.jpg)
+<figcaption>1994 · oficial</figcaption>
+</figure>
+<figure markdown="span">
+[![Logótipo de 2003: círculo vermelho com uma tenda verde, o IHS e «Campinácios»](../assets/imagens/Campin%C3%A1cios_2004.jpg)](../assets/imagens/Campin%C3%A1cios_2004.jpg)
+<figcaption>2003 · oficial</figcaption>
+</figure>
+<figure markdown="span">
+[![Logótipo do Natal de 2006: o presépio dentro de uma tenda, num círculo azul com a estrela, o IHS e «Campinácios»](../assets/imagens/Campin%C3%A1cios_Natal.jpg)](../assets/imagens/Campin%C3%A1cios_Natal.jpg)
+<figcaption>Natal de 2006 · não oficial</figcaption>
+</figure>
+<figure markdown="span">
+[![Logótipo de 2010: tenda verde e sol num círculo vermelho, com o IHS e «Campinácios» por baixo](../assets/imagens/Campin%C3%A1cios_.jpg)](../assets/imagens/Campin%C3%A1cios_.jpg)
+<figcaption>2010 · oficial</figcaption>
+</figure>
+</div>
 
 Os CAMPINÁCIOS são um movimento de acampamentos de férias estreitamente ligado à Companhia de Jesus mas, especificamente integrado na vida pastoral dos seus três colégios existentes em Portugal: Colégio das Caldinhas ([CC](CC.md))*, Colégio S. João de Brito ([CSJB](CSJB.md)) e Colégio da Imaculada Conceição ([CAIC](CAIC.md)).
 
