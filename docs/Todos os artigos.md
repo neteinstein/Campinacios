@@ -1,6 +1,6 @@
 # Todos os artigos
 
-654 artigos e, em itálico, os 112 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+657 artigos e, em itálico, os 112 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -399,6 +399,7 @@
 - [João Cortês Ferreira](Pessoas/J/Jo%C3%A3o%20Cort%C3%AAs%20Ferreira.md)
 - [João Currais](Pessoas/J/Jo%C3%A3o%20Currais.md)
 - [João de Almeida Graça](Pessoas/J/Jo%C3%A3o%20de%20Almeida%20Gra%C3%A7a.md)
+- [João Eiró](Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md)
 - [João Freire de Andrade](Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md)
 - [João Goulão](Pessoas/J/Jo%C3%A3o%20Goul%C3%A3o.md)
 - [João Monteiro](Pessoas/J/Jo%C3%A3o%20Monteiro.md)
@@ -718,6 +719,7 @@
 - [Sara Fernandes](Pessoas/S/Sara%20Fernandes.md)
 - [Sara Micaela Pinto](Pessoas/S/Sara%20Micaela%20Pinto.md)
 - [Sara Moinhos](Pessoas/S/Sara%20Moinhos.md)
+- [Sara Oom](Pessoas/S/Sara%20Oom.md)
 - [Sara Póvoa](Pessoas/S/Sara%20P%C3%B3voa.md)
 - [Sara Ramalho](Pessoas/S/Sara%20Ramalho.md)
 - [Sara Rita Sampaio](Pessoas/S/Sara%20Rita%20Sampaio.md)
@@ -768,6 +770,7 @@
 - *Tema do ano* → [Temas do Ano](Movimento/Temas%20do%20Ano.md)
 - [Temas do Ano](Movimento/Temas%20do%20Ano.md)
 - [Teresa Aguiar](Pessoas/T/Teresa%20Aguiar.md)
+- [Teresa Cortês Ferreira](Pessoas/T/Teresa%20Cort%C3%AAs%20Ferreira.md)
 - [Teresa Fonseca](Pessoas/T/Teresa%20Fonseca.md)
 - [Teresa Martinho](Pessoas/T/Teresa%20Martinho.md)
 - [Teresa Mendes](Pessoas/T/Teresa%20Mendes.md)

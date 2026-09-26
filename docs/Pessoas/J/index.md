@@ -52,6 +52,7 @@
 - [João Cortês Ferreira](Jo%C3%A3o%20Cort%C3%AAs%20Ferreira.md)
 - [João Currais](Jo%C3%A3o%20Currais.md)
 - [João de Almeida Graça](Jo%C3%A3o%20de%20Almeida%20Gra%C3%A7a.md)
+- [João Eiró](Jo%C3%A3o%20Eir%C3%B3.md)
 - [João Freire de Andrade](Jo%C3%A3o%20Freire%20de%20Andrade.md)
 - [João Goulão](Jo%C3%A3o%20Goul%C3%A3o.md)
 - [João Monteiro](Jo%C3%A3o%20Monteiro.md)

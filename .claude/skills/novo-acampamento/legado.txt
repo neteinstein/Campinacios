@@ -1,0 +1,13 @@
+# Falhas que a wiki original já tinha: acções de formação de fim-de-semana e
+# um pré-acampamento que nunca estiveram na tabela nem na categoria
+# Acampamentos. validar.py --todos ignora-as; acampamentos novos não entram aqui.
+docs/Acampamentos/1999/FINO 99.md: a linha de 1999 da tabela de docs/Categorias/Acampamentos.md não o inclui
+docs/Acampamentos/1999/FINO 99.md: não está em "Páginas nesta categoria" de docs/Categorias/Acampamentos.md
+docs/Acampamentos/1999/Jambo 99.md: a linha de 1999 da tabela de docs/Categorias/Acampamentos.md não o inclui
+docs/Acampamentos/1999/Jambo 99.md: não está em "Páginas nesta categoria" de docs/Categorias/Acampamentos.md
+docs/Acampamentos/Sem data/CACAINA.md: não está em "Páginas nesta categoria" de docs/Categorias/Acampamentos.md
+docs/Acampamentos/Sem data/CIFA I.md: não está em "Páginas nesta categoria" de docs/Categorias/Acampamentos.md
+docs/Acampamentos/Sem data/CIFA II.md: não está em "Páginas nesta categoria" de docs/Categorias/Acampamentos.md
+docs/Acampamentos/Sem data/CRAC.md: não está em "Páginas nesta categoria" de docs/Categorias/Acampamentos.md
+docs/Acampamentos/Sem data/Cagácios.md: não está em "Páginas nesta categoria" de docs/Categorias/Acampamentos.md
+docs/Acampamentos/Sem data/CampINA.md: não está em "Páginas nesta categoria" de docs/Categorias/Acampamentos.md

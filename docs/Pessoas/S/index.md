@@ -7,6 +7,7 @@
 - [Sara Fernandes](Sara%20Fernandes.md)
 - [Sara Micaela Pinto](Sara%20Micaela%20Pinto.md)
 - [Sara Moinhos](Sara%20Moinhos.md)
+- [Sara Oom](Sara%20Oom.md)
 - [Sara Póvoa](Sara%20P%C3%B3voa.md)
 - [Sara Ramalho](Sara%20Ramalho.md)
 - [Sara Rita Sampaio](Sara%20Rita%20Sampaio.md)

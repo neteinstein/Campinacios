@@ -3,7 +3,7 @@
 <div class="wk-top" markdown="span">[Boas-vindas](Movimento/Boas-vindas.md) | [Ajuda](Wikin%C3%A1cios/Ajuda/Conte%C3%BAdos.md) | [Perguntas Frequentes](Movimento/FAQ.md) | [Contactos](Movimento/Contactos.md)</div>
 
 <div class="wk-banner" markdown>
-<div class="wk-count" markdown="span">**[655 artigos](Todos%20os%20artigos.md)**</div>
+<div class="wk-count" markdown="span">**[658 artigos](Todos%20os%20artigos.md)**</div>
 <div class="wk-welcome" markdown="span">[Bem-vindo(a)](Movimento/Boas-vindas.md) à **Wikinacios**,</div>
 <div class="wk-tagline" markdown="span">a enciclopédia livre sobre Campinácios que [(quase) todos podem editar](Wikin%C3%A1cios/Ajuda/Conte%C3%BAdos.md).</div>
 </div>
@@ -49,6 +49,7 @@ Ainda neste ano de 1989, no mês de Setembro, realizou-se o [Pedreira](Acampamen
 - **6 de Janeiro de 2009**<br>Página dos [Campinácios](Movimento/Campin%C3%A1cios.md) muda-se para um novo servidor, iniciando-se a [Revolução Campinácios v2.0](Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)!
 - **31 de Janeiro de 2009**<br>Bate-se a margem dos 300 artigos publicados com a Wiki ainda não divulgada oficialmente.
 - **25 de Novembro de 2009**<br>É oficialmente divulgada a Wikinácios com 630 artigos, sendo a primeira das grandes mudanças da Revolução a ser divulgada!
+- **26 de Setembro de 2026**<br>Wikinácios é [recuperada de um backup](Wikin%C3%A1cios/Sobre%20este%20arquivo.md) depois de ter sido "perdida" em 2010.
 
 </div>
 

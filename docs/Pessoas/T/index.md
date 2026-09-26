@@ -3,6 +3,7 @@
 - [Telma Pinto](Telma%20Pinto.md)
 - [Telmo Teixeira](Telmo%20Teixeira.md)
 - [Teresa Aguiar](Teresa%20Aguiar.md)
+- [Teresa Cortês Ferreira](Teresa%20Cort%C3%AAs%20Ferreira.md)
 - [Teresa Fonseca](Teresa%20Fonseca.md)
 - [Teresa Martinho](Teresa%20Martinho.md)
 - [Teresa Mendes](Teresa%20Mendes.md)
