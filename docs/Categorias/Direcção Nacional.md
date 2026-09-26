@@ -247,6 +247,7 @@ Para efeitos de coerência apresentamos aqui como Direcção Nacional todos os e
 - [João Paulo Moinhos](../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md)
 - [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
 - [Manual de Deliberações](../Movimento/Manual%20de%20Delibera%C3%A7%C3%B5es.md)
+- [Manual do Director](../Movimento/Manual%20do%20Director.md)
 - [Manuel Cordeiro Ferreira](../Pessoas/M/Manuel%20Cordeiro%20Ferreira.md)
 - [Manuel Paiva](../Pessoas/M/Manuel%20Paiva.md)
 - [Manuel Vilhena](../Pessoas/M/Manuel%20Vilhena.md)
