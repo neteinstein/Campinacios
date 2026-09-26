@@ -316,3 +316,22 @@
   max-width: none;
   font-size: 0.8em;
 }
+
+/* Full-width page banner photo (e.g. Categorias/Acampamentos.md) */
+.md-typeset .wk-page-banner {
+  margin: 0 0 1.5em;
+}
+
+.md-typeset .wk-page-banner img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  display: block;
+}
+
+.md-typeset .wk-page-banner figcaption {
+  margin: 0.4em 0 0;
+  max-width: none;
+  font-size: 0.8em;
+  text-align: right;
+}

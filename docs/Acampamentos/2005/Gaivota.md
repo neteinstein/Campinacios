@@ -14,6 +14,7 @@ Este acampamento de [Bicicletas](../../Categorias/Bicicletas.md) realizou de 12 
 
 ## Páginas que ligam para aqui
 
+- [Acampamentos](../../Categorias/Acampamentos.md)
 - [Ana Salgado](../../Pessoas/A/Ana%20Salgado.md)
 - [Ana Simões](../../Pessoas/A/Ana%20Sim%C3%B5es.md)
 - [Ana Veiga](../../Pessoas/A/Ana%20Veiga.md)
