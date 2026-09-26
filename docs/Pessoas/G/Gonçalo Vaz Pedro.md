@@ -24,6 +24,10 @@ Gonçalo Vaz Pedro, é desde 2006, um dos animadores do Colégio da Imaculada Co
     - 2008 [Êxodo](../../Acampamentos/2008/%C3%8Axodo.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2009 [Vi-O](../../Acampamentos/2009/Vi-O.md) - [Director](../../Cargos/Director.md)
     - 2010 Baba Yetu - [Director Adjunto](../../Cargos/Director-Adjunto.md)
+    - 2011 Pedra Sobre Pedra - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2012 Raio Part'ós Ninjas - [Director](../../Cargos/Director.md)
+    - 2014 Fiat'ársea - [Director](../../Cargos/Director.md)
+    - 2017 Supérate - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
 ### Família
 
