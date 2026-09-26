@@ -30,6 +30,7 @@ A partir dai até hoje muito mudou... mas para o veres, o melhor é explorares!
 | 2008 | <ul><li>**Triciclos**<ul><li>[TSI](../Acampamentos/2008/TSI.md)</li><li>[Entre ASPAS](../Acampamentos/2008/Entre%20ASPAS.md)</li></ul></li><li>**Trotinetas**<ul><li>[Arethë](../Acampamentos/2008/Areth%C3%AB.md)</li><li>[Eureka](../Acampamentos/2008/Eureka.md)</li></ul></li><li>**Bicicletas**<ul><li>[OrienTu](../Acampamentos/2008/OrienTu.md)</li><li>[Bike Just Do It](../Acampamentos/2008/Bike%20Just%20Do%20It.md)</li></ul></li><li>**Lambretas**<ul><li>[TufarfarAway](../Acampamentos/2008/TufarfarAway.md)</li><li>[Era Uma Vez...](../Acampamentos/2008/Era%20Uma%20Vez....md)</li></ul></li><li>**Formação**<ul><li>[Êxodo](../Acampamentos/2008/%C3%8Axodo.md)</li></ul></li></ul> | *O essencial és Tu!* | <ul><li>[Murtinheira (Vila Nova do Ceira)](../Restrito/Locais%20de%20Acampamento/Murtinheira%20%28Vila%20Nova%20do%20Ceira%29.md)</li><li>[Quinta da Mata (Ponte da Barca)](../Restrito/Locais%20de%20Acampamento/Quinta%20da%20Mata%20%28Ponte%20da%20Barca%29.md)</li><li>[Ribeira do Conde (Serpins)](../Restrito/Locais%20de%20Acampamento/Ribeira%20do%20Conde%20%28Serpins%29.md)</li></ul> |
 | 2009 | <ul><li>**Triciclos**<ul><li>[Bublix](../Acampamentos/2009/Bublix.md)</li><li>[Vi-O](../Acampamentos/2009/Vi-O.md)</li></ul></li><li>**Trotinetas**<ul><li>[Talithá Kum](../Acampamentos/2009/Talith%C3%A1%20Kum.md)</li><li>[Incrível](../Acampamentos/2009/Incr%C3%ADvel.md)</li></ul></li><li>**Bicicletas**<ul><li>[Survivor](../Acampamentos/2009/Survivor.md)</li><li>[Tira as rodinhas](../Acampamentos/2009/Tira%20as%20rodinhas.md)</li></ul></li><li>**Lambretas**<ul><li>[Lembras-te?](../Acampamentos/2009/Lembras-te.md)</li><li>[Iháquesermais](../Acampamentos/2009/Ih%C3%A1quesermais.md)</li></ul></li><li>**Formação**<ul><li>[Caminho](../Acampamentos/2009/Caminho.md)</li></ul></li></ul> | *Quem és Tu Senhor?* | <ul><li>[Cornicovo (Penacova)](../Restrito/Locais%20de%20Acampamento/Cornicovo%20%28Penacova%29.md)</li><li>[Digueifel (Arganil)](../Restrito/Locais%20de%20Acampamento/Digueifel%20%28Arganil%29.md)</li><li>[Lugar do Vau (Celorico de Basto)](../Restrito/Locais%20de%20Acampamento/Lugar%20do%20Vau%20%28Celorico%20de%20Basto%29.md)</li><li>[Quinta da Mata (Ponte da Barca)](../Restrito/Locais%20de%20Acampamento/Quinta%20da%20Mata%20%28Ponte%20da%20Barca%29.md)</li></ul> |
 | 2010 | <ul><li>**Triciclos**<ul><li>[Ed mais 10](../Acampamentos/2010/Ed%20mais%2010.md)</li><li>Baba Yetu</li></ul></li><li>**Trotinetas**<ul><li>Passaportas</li></ul></li><li>**Bicicletas**<ul><li>[Tábeeeim](../Acampamentos/2010/T%C3%A1beeeim.md)</li><li>4º Dto</li></ul></li><li>**Lambretas**<ul><li>[Walkabout](../Acampamentos/2010/Walkabout.md)</li><li>[PaKasaDele](../Acampamentos/2010/PaKasaDele.md)</li></ul></li><li>**Formação**<ul><li>[Obra Prima](../Acampamentos/2010/Obra%20Prima.md)</li></ul></li></ul> | *Quero ficar em Tua casa* | <ul><li>[Nossa Senhora da Graça (Sabugal, Guarda)](../Restrito/Locais%20de%20Acampamento/Nossa%20Senhora%20da%20Gra%C3%A7a%20%28Sabugal%2C%20Guarda%29.md)</li><li>[Vila da Ponte (Montalegre)](../Restrito/Locais%20de%20Acampamento/Vila%20da%20Ponte%20%28Montalegre%29.md)</li><li>Quinta da Adaúfa (Silgueiros,Viseu)</li></ul> |
+| 2011 | <ul><li>**Calhambeques**<ul><li>[Esperança](../Acampamentos/2011/Esperan%C3%A7a.md)</li></ul></li></ul> |  |  |
 
 ## Subcategorias
 
@@ -54,6 +55,7 @@ A partir dai até hoje muito mudou... mas para o veres, o melhor é explorares!
 - [Acampamentos de 2007](Acampamentos%20de%202007.md)
 - [Acampamentos de 2008](Acampamentos%20de%202008.md)
 - [Acampamentos de 2009](Acampamentos%20de%202009.md)
+- [Acampamentos de 2011](Acampamentos%20de%202011.md)
 - [Bicicletas](Bicicletas.md)
 - [Calhambeques](Calhambeques.md)
 - [Formação de Animadores](Forma%C3%A7%C3%A3o%20de%20Animadores.md)
@@ -61,7 +63,7 @@ A partir dai até hoje muito mudou... mas para o veres, o melhor é explorares!
 - [Triciclos](Triciclos.md)
 - [Trotinetas](Trotinetas.md)
 
-## Páginas nesta categoria (133)
+## Páginas nesta categoria (134)
 
 - [98 Covas](../Acampamentos/1998/98%20Covas.md)
 - [Academia](../Acampamentos/2005/Academia.md)
@@ -104,6 +106,7 @@ A partir dai até hoje muito mudou... mas para o veres, o melhor é explorares!
 - [Entre ASPAS](../Acampamentos/2008/Entre%20ASPAS.md)
 - [Era Uma Vez...](../Acampamentos/2008/Era%20Uma%20Vez....md)
 - [Ermal](../Acampamentos/1993/Ermal.md)
+- [Esperança](../Acampamentos/2011/Esperan%C3%A7a.md)
 - [Eureka](../Acampamentos/2008/Eureka.md)
 - [Falésia](../Acampamentos/2005/Fal%C3%A9sia.md)
 - [Farol](../Acampamentos/2003/Farol.md)

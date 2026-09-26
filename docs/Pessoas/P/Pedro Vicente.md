@@ -32,6 +32,7 @@ Frequentou o [CAIC](../../Movimento/CAIC.md) de 1995 a 2003. Animador desde 2003
     - 2008 [OrienTu](../../Acampamentos/2008/OrienTu.md) - [Director](../../Cargos/Director.md)
     - 2009 [Caminho](../../Acampamentos/2009/Caminho.md)  - [Director](../../Cargos/Director.md)
     - 2010 [Walkabout](../../Acampamentos/2010/Walkabout.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
+    - 2011 [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md) - [Director](../../Cargos/Director.md)
 
 ### Campinacios.org
 
@@ -87,6 +88,7 @@ E-mail: Pedro@Campinacios.org
 
 - [Caminho](../../Acampamentos/2009/Caminho.md)
 - [Encontro Nacional de 2007](../../Encontros/Encontro%20Nacional%20de%202007.md)
+- [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md)
 - [Filipe Barroso](../F/Filipe%20Barroso.md)
 - [Gaivota](../../Acampamentos/2005/Gaivota.md)
 - [Long Tao](../../Acampamentos/2006/Long%20Tao.md)

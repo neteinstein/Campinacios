@@ -24,4 +24,5 @@ Acampamentos dos Campinácios, organizados por ano.
 - [2008](2008/index.md) (9)
 - [2009](2009/index.md) (9)
 - [2010](2010/index.md) (5)
+- [2011](2011/index.md) (1)
 - [Sem data](Sem%20data/index.md) (6)

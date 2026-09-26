@@ -1,6 +1,6 @@
 # Todos os artigos
 
-653 artigos e, em itálico, os 111 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+654 artigos e, em itálico, os 112 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -243,6 +243,7 @@
 - *Era Uma Vez* → [Era Uma Vez...](Acampamentos/2008/Era%20Uma%20Vez....md)
 - [Era Uma Vez...](Acampamentos/2008/Era%20Uma%20Vez....md)
 - [Ermal](Acampamentos/1993/Ermal.md)
+- [Esperança](Acampamentos/2011/Esperan%C3%A7a.md)
 - [Eureka](Acampamentos/2008/Eureka.md)
 - [Êxodo](Acampamentos/2008/%C3%8Axodo.md)
 
@@ -479,6 +480,7 @@
 - [Luís Godinho](Pessoas/L/Lu%C3%ADs%20Godinho.md)
 - [Luís Macedo](Pessoas/L/Lu%C3%ADs%20Macedo.md)
 - [Luís Onofre](Pessoas/L/Lu%C3%ADs%20Onofre.md)
+- *Luís Onofre Pinto* → [Luís Onofre](Pessoas/L/Lu%C3%ADs%20Onofre.md)
 - [Luís Pereira](Pessoas/L/Lu%C3%ADs%20Pereira.md)
 - [Luís Tiago Canilho](Pessoas/L/Lu%C3%ADs%20Tiago%20Canilho.md)
 - [Luísa Gaspar](Pessoas/L/Lu%C3%ADsa%20Gaspar.md)
