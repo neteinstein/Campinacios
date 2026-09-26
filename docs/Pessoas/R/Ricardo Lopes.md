@@ -4,10 +4,10 @@ Ricardo Machado Couto Sousa Lopes, nascido a 10 de Setembro de 1980 é animador 
 
 ### Acampamentos
 
-        - Participante**
+- **Participante:**
     - 1994 Caldelas
     - 1997 [GANZA](../../Acampamentos/1997/GANZA.md)
-        - Animador**
+- **Animador:**
     - 1999 [Paim](../../Acampamentos/1999/Paim.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2000 [Tranquilo](../../Acampamentos/2000/Tranquilo.md) - [Tio](../../Cargos/Tio.md)
     - 2001 [Waaassuuup](../../Acampamentos/2001/Waaassuuup.md) - [Tio](../../Cargos/Tio.md)

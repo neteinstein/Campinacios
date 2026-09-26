@@ -4,11 +4,11 @@ Ana Luísa de Oliveira Pinto da Costa, nascida a 17 de Agosto de 1981 é animado
 
 ### Acampamentos
 
-        - Participante**
+- **Participante:**
     - 1993
     - 1995
     - 1997
-        - Animadora**
+- **Animadora:**
     - 1998 [Regresso a Alvoco II](../../Acampamentos/1998/Regresso%20a%20Alvoco%20II.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2001 [Surpresa](../../Acampamentos/2001/Surpresa.md) - [Tia](../../Cargos/Tio.md)
     - 2003 [Cabala](../../Acampamentos/2003/Cabala.md) - [Tia](../../Cargos/Tio.md)
