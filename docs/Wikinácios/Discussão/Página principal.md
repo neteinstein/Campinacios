@@ -7,7 +7,7 @@ last_editor: "Neteinstein"
 
 # Página principal
 
-ToDo
+[ToDo](../../Restrito/ToDo.md)
 
 Done:
 

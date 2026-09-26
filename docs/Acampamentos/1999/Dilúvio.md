@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Dilúvio
 
-O Dilúvio foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) que decorreu de 5 a 14 de Agosto de 1999 na Serra de Arga (Paredes de Coura).
+O Dilúvio foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) que decorreu de 5 a 14 de Agosto de 1999 na [Serra de Arga](../../Restrito/Locais%20de%20Acampamento/Serra%20de%20Arga%20%28Paredes%20de%20Coura%29.md) (Paredes de Coura).
 
 ### Animadores
 

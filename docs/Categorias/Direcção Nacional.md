@@ -270,4 +270,4 @@ Para efeitos de coerência apresentamos aqui como Direcção Nacional todos os e
 - [Sérgio Carvalho](../Pessoas/S/S%C3%A9rgio%20Carvalho.md)
 - [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md)
 - [Vítor Fernandes](../Pessoas/V/V%C3%ADtor%20Fernandes.md)
-- [Wikinácios](../index.md)
+- [Áreas Restrictas](../Restrito/%C3%81reas%20Restrictas.md)

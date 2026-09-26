@@ -11,7 +11,7 @@ last_editor: "Silvinha"
 
 # Talithá Kum
 
-O Talithá Kum decorreu entre os dias 10 e 19 de Agosto de 2009 em Cornicovo (Penacova), sendo um acampamento de [Trotinetas](../../Categorias/Trotinetas.md).
+O Talithá Kum decorreu entre os dias 10 e 19 de Agosto de 2009 em [Cornicovo (Penacova)](../../Restrito/Locais%20de%20Acampamento/Cornicovo%20%28Penacova%29.md), sendo um acampamento de [Trotinetas](../../Categorias/Trotinetas.md).
 
 ### Animadores
 

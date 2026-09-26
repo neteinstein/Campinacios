@@ -34,7 +34,6 @@ Acampamentos de Formação de Animadores - Destinados a antigos alunos dos colé
 - [Graal I](../Acampamentos/2002/Graal%20I.md)
 - [Graal II](../Acampamentos/2003/Graal%20II.md)
 - [Graal III](../Acampamentos/2007/Graal%20III.md)
-- [Wikinácios](../index.md)
 - [Êxodo](../Acampamentos/2008/%C3%8Axodo.md)
 
 ---

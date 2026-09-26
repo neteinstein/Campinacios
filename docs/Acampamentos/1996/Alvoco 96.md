@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Alvoco 96
 
-Este acampamento de [Triciclos](../../Categorias/Triciclos.md) decorreu de 20 a 29 de Julho de 1996 em Alvoco das Várzeas.
+Este acampamento de [Triciclos](../../Categorias/Triciclos.md) decorreu de 20 a 29 de Julho de 1996 em [Alvoco das Várzeas](../../Restrito/Locais%20de%20Acampamento/Alvoco%20das%20V%C3%A1rzeas%20%28Oliveira%20do%20Hospital%29.md).
 
 ### Animadores
 

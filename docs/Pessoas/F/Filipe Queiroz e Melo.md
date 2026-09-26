@@ -36,7 +36,6 @@ last_editor: "Tnbahia"
 - [Ferrugenta](../../Acampamentos/1989/Ferrugenta.md)
 - [Pedreira](../../Acampamentos/1989/Pedreira.md)
 - [Tabuadelas II](../../Acampamentos/1993/Tabuadelas%20II.md)
-- [Wikinácios](../../index.md)
 
 ---
 

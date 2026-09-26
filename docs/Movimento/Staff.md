@@ -18,10 +18,10 @@ Tal como na Wikipédia, que nos inspirou, toda a gente pode modificar este síti
 
 ## Área Restrita
 
-ToDo
+[ToDo](../Restrito/ToDo.md)
 
 ## Páginas que ligam para aqui
 
 - [Conteúdos](../Wikin%C3%A1cios/Ajuda/Conte%C3%BAdos.md)
 - [Protected page guidelines](../Wikin%C3%A1cios/Protected%20page%20guidelines.md)
-- [Wikinácios](../index.md)
+- [Áreas Restrictas](../Restrito/%C3%81reas%20Restrictas.md)

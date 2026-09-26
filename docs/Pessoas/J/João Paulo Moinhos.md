@@ -36,7 +36,6 @@ João Paulo Moinhos, nascido a 6 de Maio de 1963, é o elemento há mais tempo n
 - [Graal I](../../Acampamentos/2002/Graal%20I.md)
 - [Sara Moinhos](../S/Sara%20Moinhos.md)
 - [Surpresa](../../Acampamentos/2001/Surpresa.md)
-- [Wikinácios](../../index.md)
 
 ---
 

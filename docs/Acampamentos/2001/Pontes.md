@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Pontes
 
-O Pontes foi um acampamento de Trotinetas que decorreu de 2 a 11 de Agosto de 2001 em Poço de Corga (Castanheira de Pêra).
+O Pontes foi um acampamento de Trotinetas que decorreu de 2 a 11 de Agosto de 2001 em [Poço de Corga](../../Restrito/Locais%20de%20Acampamento/Po%C3%A7o%20de%20Corga%20%28Castanheira%20de%20P%C3%AAra%29.md) (Castanheira de Pêra).
 
 ### Animadores
 

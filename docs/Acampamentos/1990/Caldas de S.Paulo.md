@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Caldas de S.Paulo
 
-Acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que decorreu de 8 a 17 de Julho de 1990 em Caldas de S. Paulo (Oliveira do Hospital).
+Acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que decorreu de 8 a 17 de Julho de 1990 em [Caldas de S. Paulo](../../Restrito/Locais%20de%20Acampamento/Caldas%20de%20S.%20Paulo%20%28Oliveira%20do%20Hospital%29.md) (Oliveira do Hospital).
 
 ### Animadores
 

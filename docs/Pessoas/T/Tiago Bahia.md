@@ -56,7 +56,6 @@ E-mail: Coordenador@Campinacios.org
 - [Staff](../../Movimento/Staff.md)
 - [Survivor](../../Acampamentos/2009/Survivor.md)
 - [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md)
-- [Wikinácios](../../index.md)
 
 ---
 

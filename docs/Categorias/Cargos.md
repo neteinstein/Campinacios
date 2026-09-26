@@ -23,4 +23,3 @@ Cargos existentes num acampamento de Campinácios
 ## Páginas que ligam para aqui
 
 - [Vocabulário](../Movimento/Vocabul%C3%A1rio.md)
-- [Wikinácios](../index.md)

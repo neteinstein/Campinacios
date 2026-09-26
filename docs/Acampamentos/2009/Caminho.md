@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Caminho
 
-O Caminho foi o acampamento de [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) do ano 2009 realizado em Cornicovo (Penacova). Por ser acampamento de formação de animadores só teve 7 dias.
+O Caminho foi o acampamento de [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) do ano 2009 realizado em [Cornicovo (Penacova)](../../Restrito/Locais%20de%20Acampamento/Cornicovo%20%28Penacova%29.md). Por ser acampamento de formação de animadores só teve 7 dias.
 
 Foi o primeiro acampamento de formação a ter um director leigo.
 

@@ -67,7 +67,6 @@ Acampamentos do escalão Bicicletas - Alunos do 9º e 10º anos de escolaridade
 - [Tira as rodinhas](../Acampamentos/2009/Tira%20as%20rodinhas.md)
 - [Tranquilo](../Acampamentos/2000/Tranquilo.md)
 - [Vila do Bispo II/94](../Acampamentos/1994/Vila%20do%20Bispo%20II-94.md)
-- [Wikinácios](../index.md)
 
 ---
 

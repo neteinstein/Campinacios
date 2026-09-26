@@ -181,7 +181,6 @@ last_editor: "Neteinstein"
 - [Vila do Bispo II/94](../Acampamentos/1994/Vila%20do%20Bispo%20II-94.md)
 - [Waaassuuup](../Acampamentos/2001/Waaassuuup.md)
 - [Wally](../Acampamentos/1994/Wally.md)
-- [Wikinácios](../index.md)
 - [XS](../Acampamentos/2006/XS.md)
 - [Xii Tava Kuase Lá...!](../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md)
 - [Ídolo](../Acampamentos/2004/%C3%8Ddolo.md)

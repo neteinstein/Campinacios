@@ -176,10 +176,6 @@ Animadores do Colégio do Colégio São João de Brito
 - [Tomás Silva](../Pessoas/T/Tom%C3%A1s%20Silva.md)
 - [Vasco Romão](../Pessoas/V/Vasco%20Rom%C3%A3o.md)
 
-## Páginas que ligam para aqui
-
-- [Wikinácios](../index.md)
-
 ---
 
 **Categorias:** [Animadores](Animadores.md)

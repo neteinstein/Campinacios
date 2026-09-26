@@ -15,7 +15,7 @@ Diana Gapo foi uma das animadoras do Colégio da Imaculada Conceição.
 ### Acampamentos
 
 - **Participante**
-    - 1992 Porto da Balsa
+    - 1992 [Porto da Balsa](../../Restrito/Locais%20de%20Acampamento/Porto%20da%20Balsa.md)
     - 1993 [Rebordosa](../../Acampamentos/1993/Rebordosa.md)
     - 1994 [Wally](../../Acampamentos/1994/Wally.md)
     - 1995 [Hakuna Matata](../../Acampamentos/1995/Hakuna%20Matata.md)

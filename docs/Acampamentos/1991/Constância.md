@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Constância
 
-O Constância foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que decorreu de 3 a 13 de Setembro de 1991 em Santa Margarida.
+O Constância foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que decorreu de 3 a 13 de Setembro de 1991 em [Santa Margarida](../../Restrito/Locais%20de%20Acampamento/Santa%20Margarida%20%28Const%C3%A2ncia%29.md).
 
 ### Animadores
 

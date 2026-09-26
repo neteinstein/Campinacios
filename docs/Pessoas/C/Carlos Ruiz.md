@@ -37,7 +37,6 @@ last_editor: "Tnbahia"
 - [Pedreira](../../Acampamentos/1989/Pedreira.md)
 - [Rebordosa](../../Acampamentos/1993/Rebordosa.md)
 - [Wally](../../Acampamentos/1994/Wally.md)
-- [Wikinácios](../../index.md)
 
 ---
 

@@ -48,7 +48,6 @@ Cfr. José da Silva ALMEIDA SJ, Para Educar Melhor - Campos de Férias Inacianos
 - [Campinácios](Campin%C3%A1cios.md)
 - [Gambozinos](Gambozinos.md)
 - [Jambo 99](../Acampamentos/1999/Jambo%2099.md)
-- [Wikinácios](../index.md)
 
 ---
 

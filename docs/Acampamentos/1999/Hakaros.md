@@ -11,7 +11,7 @@ last_editor: "Tnbahia"
 
 # Hakaros
 
-O Hakaros foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que decorreu em Tabuadelas (Vieira do Minho) de 1 a 10 de Agosto de 1999.
+O Hakaros foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que decorreu em [Tabuadelas (Vieira do Minho)](../../Restrito/Locais%20de%20Acampamento/Tabuadelas%20%28Vieira%20do%20Minho%29.md) de 1 a 10 de Agosto de 1999.
 
 ### Animadores
 

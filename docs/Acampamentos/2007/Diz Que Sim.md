@@ -13,7 +13,7 @@ last_editor: "Neteinstein"
 
 # Diz Que Sim
 
-Diz Que Sim foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) feito em Digueifel de 8 a 17 de Agosto de 2007.
+Diz Que Sim foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) feito em [Digueifel](../../Restrito/Locais%20de%20Acampamento/Digueifel%20%28Arganil%29.md) de 8 a 17 de Agosto de 2007.
 
 ### Animadores
 

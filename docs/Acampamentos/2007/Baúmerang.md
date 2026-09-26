@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Baúmerang
 
-Baúmerang foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) realizado de 16 a 25 de Agosto em Serpins.
+Baúmerang foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) realizado de 16 a 25 de Agosto em [Serpins](../../Restrito/Locais%20de%20Acampamento/Ribeira%20do%20Conde%20%28Serpins%29.md).
 
 ### Animadores
 

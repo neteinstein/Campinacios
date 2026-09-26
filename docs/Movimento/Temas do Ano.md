@@ -13,138 +13,25 @@ last_editor: "ABarroso"
 
 | Ano | Tema |
 | --- | --- |
-| 1989 |
-
-- Pelo frutos se conhece a árvore
-
-|
-
-| 1990 |
-
-- O sol só peca quando em vez de criar, seca
-
-|
-
-| 1991 |
-
-- Voa mais alto e chegarás mais longe
-
-|
-
-| 1992 |
-
-- Só se levanta vôo contra o vento
-
-|
-
-| 1993 |
-
-- Só perde quem não arrisca
-
-|
-
-| 1994 |
-
-- Da família nasce a paz
-
-|
-
-| 1995 |
-
-- Sóis há muitos
-
-|
-
-| 1996 |
-
-- Ousar a diferença
-
-|
-
-| 1997 |
-
-- Não tenhas medo, estou contigo
-
-|
-
-| 1998 |
-
-- Partir à descoberta
-
-|
-
-| 1999 |
-
-- Tal Pai... Tal filho
-
-|
-
-| 2000 |
-
-- Tenho uma Luz dentro de mim
-
-|
-
-| 2001 |
-
-- E o outro aqui tão perto
-
-|
-
-| 2002 |
-
-- Ainda bem que vieste
-
-|
-
-| 2003 |
-
-- Pára e Repara
-
-|
-
-| 2004 |
-
-- Luzes, Câmara, Acção
-
-|
-
-| 2005 |
-
-- O dia em que aprendi a voar!
-
-|
-
-| 2006 |
-
-- Até Onde Xavier...
-
-|
-
-| 2007 |
-
-- Para fora, aqui e agora!
-
-|
-
-| 2008 |
-
-- O Essencial és Tu!
-
-|
-
-| 2009 |
-
-- Quem és Tu Senhor?
-
-|
-
-| 2010 |
-
-- Quero ficar em Tua casa.
-
-|
-
-## Páginas que ligam para aqui
-
-- [Wikinácios](../index.md)
+| 1989 | <ul> <li>Pelo frutos se conhece a árvore </li> </ul> |
+| 1990 | <ul><li>O sol só peca quando em vez de criar, seca</li></ul> |
+| 1991 | <ul> <li>Voa mais alto e chegarás mais longe</li> </ul> |
+| 1992 | <ul> <li>Só se levanta vôo contra o vento</li> </ul> |
+| 1993 | <ul><li>Só perde quem não arrisca</li></ul> |
+| 1994 | <ul><li>Da família nasce a paz</li></ul> |
+| 1995 | <ul><li>Sóis há muitos</li></ul> |
+| 1996 | <ul><li>Ousar a diferença</li></ul> |
+| 1997 | <ul><li>Não tenhas medo, estou contigo</li></ul> |
+| 1998 | <ul> <li>Partir à descoberta</li> </ul> |
+| 1999 | <ul> <li>Tal Pai... Tal filho</li> </ul> |
+| 2000 | <ul> <li>Tenho uma Luz dentro de mim</li> </ul> |
+| 2001 | <ul> <li>E o outro aqui tão perto</li> </ul> |
+| 2002 | <ul> <li>Ainda bem que vieste</li> </ul> |
+| 2003 | <ul> <li>Pára e Repara</li> </ul> |
+| 2004 | <ul> <li>Luzes, Câmara, Acção </li> </ul> |
+| 2005 | <ul> <li>O dia em que aprendi a voar!</li> </ul> |
+| 2006 | <ul> <li>Até Onde Xavier...</li> </ul> |
+| 2007 | <ul> <li>Para fora, aqui e agora!</li> </ul> |
+| 2008 | <ul><li>O Essencial és Tu!</li></ul> |
+| 2009 | <ul> <li>Quem és Tu Senhor?</li> </ul> |
+| 2010 | <ul> <li>Quero ficar em Tua casa.</li></ul> |

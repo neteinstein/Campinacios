@@ -59,7 +59,6 @@ Conceição Martinho, mais conhecida por São Martinho foi uma das animadoras do
 - [Rebordosa](../../Acampamentos/1993/Rebordosa.md)
 - [Regresso a Alvoco I](../../Acampamentos/1998/Regresso%20a%20Alvoco%20I.md)
 - [Teresa Martinho](../T/Teresa%20Martinho.md)
-- [Wikinácios](../../index.md)
 
 ---
 

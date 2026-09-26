@@ -11,7 +11,7 @@ last_editor: "Tnbahia"
 
 # Iháquesermais
 
-O Iháquesermais decorreu entre os dias 10 e 19 de Agosto de 2009 em Digueifel (Arganil), sendo um acampamento de [Lambretas](../../Categorias/Lambretas.md).
+O Iháquesermais decorreu entre os dias 10 e 19 de Agosto de 2009 em [Digueifel (Arganil)](../../Restrito/Locais%20de%20Acampamento/Digueifel%20%28Arganil%29.md), sendo um acampamento de [Lambretas](../../Categorias/Lambretas.md).
 
 ### Animadores
 

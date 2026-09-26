@@ -10,7 +10,7 @@ last_editor: "Neteinstein"
 
 # Pedreira
 
-Este acampamento realizou-se na Quinta da família da [Concha Líbano Monteiro](../../Pessoas/C/Concha%20L%C3%ADbano%20Monteiro.md), chamada "Casal da Pedreira" de 9 a 17 de Setembro de 1989. Nesta altura o movimento ainda não tinha a denominação de Campinácios, nem se tinha definido os nomes dos escalões, daí que não se atribua a este acampamento o escalão de Triciclos apesar da idade ser correspondente (10-12 anos).
+Este acampamento realizou-se na Quinta da família da [Concha Líbano Monteiro](../../Pessoas/C/Concha%20L%C3%ADbano%20Monteiro.md), chamada "[Casal da Pedreira](../../Restrito/Locais%20de%20Acampamento/Casal%20da%20Pedreira.md)" de 9 a 17 de Setembro de 1989. Nesta altura o movimento ainda não tinha a denominação de Campinácios, nem se tinha definido os nomes dos escalões, daí que não se atribua a este acampamento o escalão de Triciclos apesar da idade ser correspondente (10-12 anos).
 
 ### Animadores
 
@@ -29,7 +29,6 @@ Este acampamento realizou-se na Quinta da família da [Concha Líbano Monteiro](
 - [Filipe Queiroz e Melo](../../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md)
 - [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
 - [Ricardo Rodrigues](../../Pessoas/R/Ricardo%20Rodrigues.md)
-- [Wikinácios](../../index.md)
 
 ---
 

@@ -31,7 +31,6 @@ Foi também professor de Educação Física do CAIC.
 - [CAmpIC 91](../../Acampamentos/1991/CAmpIC%2091.md)
 - [Caldas de S.Paulo](../../Acampamentos/1990/Caldas%20de%20S.Paulo.md)
 - [Campinácios](../../Movimento/Campin%C3%A1cios.md)
-- [Wikinácios](../../index.md)
 
 ---
 

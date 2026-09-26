@@ -41,7 +41,6 @@ António Eduardo Coutinho Lopes de Queiroz Martins, conhecido por Edu, antigo al
 - [Incrível](../../Acampamentos/2009/Incr%C3%ADvel.md)
 - [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
 - [Walkabout](../../Acampamentos/2010/Walkabout.md)
-- [Wikinácios](../../index.md)
 
 ---
 

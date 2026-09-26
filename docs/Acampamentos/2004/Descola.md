@@ -11,7 +11,7 @@ last_editor: "Ritags"
 
 # Descola
 
-Descola foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que se realizou em Arouca.
+Descola foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que se realizou em [Arouca](../../Restrito/Locais%20de%20Acampamento/Arouca%20%28Aveiro%29.md).
 
 ### Animadores
 

@@ -42,7 +42,6 @@ Domingos Freitas sj foi um dos fundadores do movimento. Esteve presente nos prim
 - [Hakaros](../../Acampamentos/1999/Hakaros.md)
 - [Loyola](../../Acampamentos/1991/Loyola.md)
 - [Pedreira](../../Acampamentos/1989/Pedreira.md)
-- [Wikinácios](../../index.md)
 
 ---
 

@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Wally
 
-Este acampamento de [Trotinetas](../../Categorias/Trotinetas.md) decorreu de 20 a 29 de Julho de 1994 em Fonte de Nena (Caldelas).
+Este acampamento de [Trotinetas](../../Categorias/Trotinetas.md) decorreu de 20 a 29 de Julho de 1994 em [Fonte de Nena](../../Restrito/Locais%20de%20Acampamento/Fonte%20de%20Nena%20%28Caldelas%29.md) (Caldelas).
 
 ### Animadores
 

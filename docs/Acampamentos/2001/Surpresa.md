@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Surpresa
 
-O Surpresa foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que decorreu de 24 de Julho a 2 de Agosto de 2001 em Fonte de Nena.
+O Surpresa foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que decorreu de 24 de Julho a 2 de Agosto de 2001 em [Fonte de Nena](../../Restrito/Locais%20de%20Acampamento/Fonte%20de%20Nena%20%28Caldelas%29.md).
 
 ### Animadores
 

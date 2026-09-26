@@ -19,7 +19,6 @@ last_editor: "Tnbahia"
 
 - [CAmpIC 89](../../Acampamentos/1989/CAmpIC%2089.md)
 - [Campinácios](../../Movimento/Campin%C3%A1cios.md)
-- [Wikinácios](../../index.md)
 
 ---
 

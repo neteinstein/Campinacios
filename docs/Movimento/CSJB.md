@@ -22,4 +22,3 @@ Sendo um Colégio da Companhia de Jesus reconhece como fonte essencial da sua in
 - [Campinácios](Campin%C3%A1cios.md)
 - [Camtil](Camtil.md)
 - [Inês Próspero](../Pessoas/I/In%C3%AAs%20Pr%C3%B3spero.md)
-- [Wikinácios](../index.md)

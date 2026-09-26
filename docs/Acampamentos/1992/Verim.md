@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Verim
 
-Acampamento de [Lambretas](../../Categorias/Lambretas.md) que decorreu em Verim (Braga) de 20 a 29 de Julho de 1992.
+Acampamento de [Lambretas](../../Categorias/Lambretas.md) que decorreu em [Verim (Braga)](../../Restrito/Locais%20de%20Acampamento/Verim%20%28Braga%29.md) de 20 a 29 de Julho de 1992.
 
 ### Animadores
 

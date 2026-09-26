@@ -11,7 +11,7 @@ last_editor: "Tnbahia"
 
 # Benfeita 95
 
-Este acampamento de [Triciclos](../../Categorias/Triciclos.md) decorreu em Benfeita de 19 a 29 de Julho de 1995.
+Este acampamento de [Triciclos](../../Categorias/Triciclos.md) decorreu em [Benfeita](../../Restrito/Locais%20de%20Acampamento/Benfeita%20%28Arganil%29.md) de 19 a 29 de Julho de 1995.
 
 ### Animadores
 

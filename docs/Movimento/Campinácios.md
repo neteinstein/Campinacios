@@ -73,7 +73,6 @@ Após este encontro, os CAMPINÁCIOS como movimento foi ganhando alguma estabili
 - [José Manuel Lopes](../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md)
 - [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
 - [Sobre](../Wikin%C3%A1cios/Sobre.md)
-- [Wikinácios](../index.md)
 
 ---
 

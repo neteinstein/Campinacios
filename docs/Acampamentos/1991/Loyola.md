@@ -10,7 +10,7 @@ last_editor: "Neteinstein"
 
 # Loyola
 
-O Loyola decorreu de 21 a 30 de Julho de 1991 em Fonte de Nena (Caldelas).
+O Loyola decorreu de 21 a 30 de Julho de 1991 em [Fonte de Nena](../../Restrito/Locais%20de%20Acampamento/Fonte%20de%20Nena%20%28Caldelas%29.md) (Caldelas).
 
 ### Animadores
 

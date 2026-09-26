@@ -20,7 +20,7 @@ Numa sociedade de órfãos, onde Deus parece não ter lugar, o autor mostra-nos 
 
 Este livro oferece-nos de forma sistematizada e generosa a compilação e a reflexão de uma longa tradição desta actividade educativa que são os Campos de Férias Inacianos.
 
-*[José  Silva Almeida](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md), SJ *
+*[José  Silva Almeida](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md), SJ*
 
 ## José da Silva ALMEIDA SJ, Para Educar Melhor - Campos de Férias Inacianos, AO, Braga, 2004.
 

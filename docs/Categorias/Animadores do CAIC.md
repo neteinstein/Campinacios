@@ -113,10 +113,6 @@ Animadores do Colégio da Imaculada Conceição
 - [Vasco Vasconcelos](../Pessoas/V/Vasco%20Vasconcelos.md)
 - [Zélia Ferreira](../Pessoas/Z/Z%C3%A9lia%20Ferreira.md)
 
-## Páginas que ligam para aqui
-
-- [Wikinácios](../index.md)
-
 ---
 
 **Categorias:** [Animadores](Animadores.md)

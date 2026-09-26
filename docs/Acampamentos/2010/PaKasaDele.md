@@ -11,7 +11,7 @@ last_editor: "Bpimentan"
 
 # PaKasaDele
 
-'PaKasaDele ou Vais tu Vou eu Vai Ele Vamos todos para Casa Dele foi o Segundo Campo de [Lambretas](../../Categorias/Lambretas.md) realizado entre os dias 20 e 29 de Agosto de 2010 em Vila da Ponte (Montalegre)
+'PaKasaDele ou Vais tu Vou eu Vai Ele Vamos todos para Casa Dele foi o Segundo Campo de [Lambretas](../../Categorias/Lambretas.md) realizado entre os dias 20 e 29 de Agosto de 2010 em [Vila da Ponte (Montalegre)](../../Restrito/Locais%20de%20Acampamento/Vila%20da%20Ponte%20%28Montalegre%29.md)
 
 ### Animadores
 

@@ -21,4 +21,3 @@ Inácio de Loyola escreveu as constituições jesuítas, adoptadas em 1554, que 
 ## Páginas que ligam para aqui
 
 - [Vocabulário](Vocabul%C3%A1rio.md)
-- [Wikinácios](../index.md)

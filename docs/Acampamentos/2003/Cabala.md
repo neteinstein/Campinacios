@@ -11,7 +11,7 @@ last_editor: "Tnbahia"
 
 # Cabala
 
-O Cabala foi um acampamento de Bicicletas que decorreu de 2 a 11 de Agosto de 2003 na Quinta da Ponte (Faia).
+O Cabala foi um acampamento de Bicicletas que decorreu de 2 a 11 de Agosto de 2003 na [Quinta da Ponte (Faia)](../../Restrito/Locais%20de%20Acampamento/Quinta%20da%20Ponte%20%28Faia%29.md).
 
 ### Animadores
 

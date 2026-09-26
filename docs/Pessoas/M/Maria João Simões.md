@@ -64,7 +64,6 @@ Maria João Simões, mais conhecida por Majo, é desde 1996 uma das animadoras d
 - [Patos](../../Acampamentos/2004/Patos.md)
 - [Shampum de Pessêgo](../../Acampamentos/2001/Shampum%20de%20Pess%C3%AAgo.md)
 - [Tem Bicho Zweitausend](../../Acampamentos/2000/Tem%20Bicho%20Zweitausend.md)
-- [Wikinácios](../../index.md)
 
 ---
 

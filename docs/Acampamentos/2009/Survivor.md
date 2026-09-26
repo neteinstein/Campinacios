@@ -11,7 +11,7 @@ last_editor: "Tnbahia"
 
 # Survivor
 
-O Survivor decorreu entre os dias 10 e 19 de Agosto de 2009 no Lugar do Vau (Celorico de Basto), sendo um acampamento de [Bicicletas](../../Categorias/Bicicletas.md).
+O Survivor decorreu entre os dias 10 e 19 de Agosto de 2009 no [Lugar do Vau (Celorico de Basto)](../../Restrito/Locais%20de%20Acampamento/Lugar%20do%20Vau%20%28Celorico%20de%20Basto%29.md), sendo um acampamento de [Bicicletas](../../Categorias/Bicicletas.md).
 
 ### Animadores
 

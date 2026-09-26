@@ -4,19 +4,23 @@
 Every wiki page becomes a Markdown file, filed into a folder by what it is
 (camps by year, people by initial, ...), with relative links between pages so
 the result can be browsed on GitHub, built with MkDocs (see mkdocs.yml) or
-opened as an Obsidian vault. The old home page becomes docs/index.md and the
-repository README.md.
+opened as an Obsidian vault. The old home page becomes docs/index.md, with
+the layout it had on the wiki, and a plain version of it the README.md.
 
 Usage:
-    pip install ftfy
-    python3 scripts/mediawiki_to_markdown.py <mysqldump file>
+    pip install ftfy cryptography mkdocs-material
+    WIKINACIOS_PALAVRA_PASSE=... python3 scripts/mediawiki_to_markdown.py <dump>
 
-Only the latest revision of each public page is exported. Pages that were
-restricted on the wiki (see PRIVATE_CATEGORIES), user accounts, password
-hashes, logs, deleted pages and old revisions are left out.
+Only the latest revision of each page is exported. Pages that were
+restricted on the wiki (see PRIVATE_CATEGORIES) are encrypted with the
+password (see scripts/restrito.py); without one they are left out. User
+accounts, password hashes, logs, deleted pages and old revisions are always
+left out.
 """
 import datetime
+import getpass
 import json
+import os
 import posixpath
 import re
 import shutil
@@ -27,6 +31,8 @@ from pathlib import Path
 from urllib.parse import quote
 
 import ftfy
+
+import restrito
 
 # --------------------------------------------------------------------------
 # mysqldump parsing
@@ -139,9 +145,16 @@ NS_ALIASES = {
 CATEGORY_NS, IMAGE_NS, TEMPLATE_NS = 14, 6, 10
 
 # Pages in these categories were access-restricted on the wiki (the camp-site
-# pages hold directions and private phone numbers of land owners).
+# pages hold directions and private phone numbers of land owners); they are
+# published encrypted.
 PRIVATE_CATEGORIES = {'Restrita', 'Locais de Acampamento'}
-PRIVATE_PAGES = {(0, 'Áreas Restrictas'), (0, 'Main Page')}
+# MediaWiki's own "successfully installed" page, never part of the wiki.
+SKIP_PAGES = {(0, 'Main Page')}
+# [[Especial:...]] pages that have a counterpart on the site.
+SPECIAL_PAGES = {'allpages': 'todos', 'newpages': 'todos',
+                 'whatlinkshere': 'backlinks'}
+BACKLINKS = 'Páginas que ligam para aqui'
+LOCK = ' 🔒'
 
 CAMP_CATEGORIES = {'Acampamentos', 'Triciclos', 'Trotinetas', 'Bicicletas',
                    'Lambretas', 'Calhambeques', 'Formação de Animadores',
@@ -171,10 +184,15 @@ FOLDER_INTROS = {
     'Wikinácios': 'Páginas sobre a própria wiki: ajuda, políticas, '
                   'predefinições, imagens e discussões. Ver também '
                   '[Sobre este arquivo](Sobre%20este%20arquivo.md).',
+    'Restrito': 'Páginas que na wiki eram de acesso restrito (Direcção '
+                'Nacional e Directores). O conteúdo das páginas marcadas com '
+                '🔒 está cifrado e só pode ser lido com a palavra-passe.',
 }
 
 
+SITE_URL = 'https://neteinstein.github.io/Campinacios/'
 ABOUT_PAGE = 'docs/Wikinácios/Sobre este arquivo.md'
+ALL_PAGES = 'docs/Todos os artigos.md'
 ABOUT_TEXT = '''---
 title: "Sobre este arquivo"
 ---
@@ -196,26 +214,54 @@ partir da cópia de segurança da base de dados MySQL da wiki pelo script
   página mostra as páginas que ligam para ela.
 - As páginas estão organizadas por pastas: acampamentos por ano, pessoas
   por inicial, encontros, cargos, movimento, categorias e as páginas sobre
-  a própria wiki.
+  a própria wiki. [Todos os artigos](../Todos%20os%20artigos.md) lista-as
+  todas, com os nomes alternativos.
+- A página principal mantém a disposição que tinha na wiki.
+
+## Páginas restritas
+
+As páginas que na wiki eram de acesso restrito (categoria *Restrita*) e as
+fichas dos [locais de acampamento](../Restrito/index.md), reservadas à
+Direcção Nacional e aos directores, estão no site mas cifradas (AES-256):
+o texto só aparece depois de se introduzir a palavra-passe, e nem o
+repositório nem o site guardam o texto em claro. A palavra-passe fica
+guardada no navegador até se fechar o separador, ou no dispositivo se se
+escolher "Lembrar neste dispositivo".
+
+Para mudar a palavra-passe, ou para editar uma página restrita:
+
+```sh
+pip install cryptography mkdocs-material
+python3 scripts/restrito.py mudar-palavra-passe
+python3 scripts/restrito.py abrir    # decifra para restrito-aberto/
+python3 scripts/restrito.py fechar   # volta a cifrar e apaga restrito-aberto/
+```
+
+A segurança depende só da palavra-passe: quem tiver uma cópia do site pode
+tentar adivinhá-la sem limite, por isso deve ser longa e aleatória.
 
 ## O que ficou de fora
 
-- As páginas que eram de acesso restrito na wiki (categoria *Restrita*) e
-  as fichas dos locais de acampamento, que eram reservadas aos directores e
-  contêm contactos privados.
 - Contas de utilizador, palavras-passe, registos, páginas apagadas e o
   histórico de revisões.
+- A página "Main Page", que era a página de instalação do MediaWiki.
 - As imagens: o backup só tem a base de dados, por isso as páginas das
   imagens mostram apenas a descrição e os dados do ficheiro original.
 
 ## Como editar e publicar
 
 Os ficheiros Markdown em `docs/` são agora a fonte do site e podem ser
-editados directamente no GitHub. O site é construído com
+editados directamente no GitHub: ver
+[Como adicionar conteúdo?](Ajuda/Conte%C3%BAdos.md#como-adicionar-conteúdo).
+O site é construído com
 [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) e publicado
 no GitHub Pages pela GitHub Action em `.github/workflows/pages.yml` a cada
-alteração no ramo `main` (em *Settings → Pages*, a fonte deve ser
-*GitHub Actions*).
+alteração no ramo `main`.
+
+Em *Settings → Pages → Build and deployment*, a *Source* tem de ser
+**GitHub Actions**. Com *Deploy from a branch*, o GitHub publica também uma
+versão Jekyll do repositório que substitui este site, com outra página
+principal e ligações partidas.
 
 Para ver o site localmente:
 
@@ -227,6 +273,110 @@ mkdocs serve
 A pasta `docs/` também pode ser aberta como cofre no
 [Obsidian](https://obsidian.md/), que mostra o grafo de ligações entre as
 páginas.
+'''
+# Replaces the MediaWiki instructions of Ajuda:Conteúdos (from this heading on)
+HELP_PAGE = (12, 'Conteúdos')
+HELP_SECTION = '## Como adicionar conteúdo?'
+HELP_TEXT = '''## Como adicionar conteúdo?
+
+A Wikinácios já não corre em MediaWiki: é um site feito a partir dos
+ficheiros do repositório
+[neteinstein/Campinacios](https://github.com/neteinstein/Campinacios) no
+GitHub. Cada artigo é um ficheiro de texto `.md`
+([Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax))
+dentro da pasta `docs/`, e o site actualiza-se sozinho um ou dois minutos
+depois de cada alteração entrar no ramo `main`.
+
+Para editar é preciso uma conta no GitHub, que é gratuita. Quem tem
+permissão de escrita no repositório (o [Staff](../../Movimento/Staff.md))
+grava as alterações directamente. Os outros fazem uma proposta de alteração
+(*pull request*) que o Staff revê e aceita: as regras acima continuam a
+valer.
+
+### Como se edita um artigo?
+
+1. Abra o artigo no site e carregue no lápis (*Editar esta página*) no
+   canto superior direito. Abre-se o ficheiro no GitHub, já em modo de
+   edição (se pedir, carregue em *Fork this repository*).
+2. Faça as alterações. O separador *Preview* mostra como vai ficar.
+3. Carregue em **Commit changes...**, escreva numa frase o que mudou e
+   confirme. Sem permissão de escrita, o botão chama-se
+   **Propose changes** e, a seguir, **Create pull request**.
+
+### Como se adiciona um artigo?
+
+Antes de mais é preciso saber se o artigo já existe: use a caixa
+**Buscar** no topo do site ou [Todos os artigos](../../Todos%20os%20artigos.md),
+que também lista as alcunhas e os nomes alternativos.
+
+Se não existir, entre no GitHub na pasta certa dentro de `docs/`:
+
+| Artigo | Pasta |
+| --- | --- |
+| Acampamento | `docs/Acampamentos/<ano>/` |
+| Animador, jesuíta ou outra pessoa | `docs/Pessoas/<inicial>/` |
+| Encontro | `docs/Encontros/` |
+| Cargo | `docs/Cargos/` |
+| Tudo o resto | `docs/Movimento/` |
+
+Carregue em **Add file → Create new file** e dê ao ficheiro o nome do
+artigo terminado em `.md`, por exemplo `Carlos Nunes.md`. Copie um artigo
+do mesmo tipo (regra 2) e altere os dados, não o esquema. O ficheiro começa
+por um cabeçalho com o título:
+
+```markdown
+---
+title: "Carlos Nunes"
+---
+
+# Carlos Nunes
+
+Carlos Nunes é animador dos Campinácios desde...
+```
+
+Grave como acima (**Commit changes...** ou **Propose changes**). Por fim,
+ponha ligações para o artigo novo: no `index.md` da pasta, na página da
+categoria em `docs/Categorias/` e nos artigos que falam dele. Estas listas
+não se actualizam sozinhas, mas a pesquisa do site encontra-o logo.
+
+### Como se escreve?
+
+| Na wiki | Agora, em Markdown |
+| --- | --- |
+| `\'\'\'negrito\'\'\'` | `**negrito**` |
+| `''itálico''` | `*itálico*` |
+| `== Secção ==` | `## Secção` |
+| `* item` | `- item` |
+| `[[Pedro Vicente]]` | `[Pedro Vicente](<../../Pessoas/P/Pedro Vicente.md>)` |
+| `[http://exemplo.pt texto]` | `[texto](http://exemplo.pt)` |
+
+As ligações entre artigos levam o caminho do ficheiro a partir da pasta do
+artigo onde se escreve: `../` sobe uma pasta. Com os `< >` à volta, o
+caminho pode ter espaços e acentos. Se uma ligação apontar para um ficheiro
+que não existe, a publicação falha (o GitHub mostra um ✗ vermelho no
+*commit* e avisa por e-mail) e o site fica como estava até se corrigir.
+
+Para uma imagem, carregue o ficheiro com **Add file → Upload files** para
+`docs/assets/imagens/` e escreva
+`![legenda](<../../assets/imagens/foto.jpg>)`, com o caminho a partir do
+artigo.
+
+### Como se cria uma categoria?
+
+Uma categoria é uma página em `docs/Categorias/` com a lista dos seus
+artigos, como [Animadores](../../Categorias/Animadores.md). Crie o ficheiro
+com essa lista e, no fim de cada artigo da categoria, acrescente-a à linha
+**Categorias:**.
+
+### Como se cria uma subcategoria de uma categoria?
+
+Na página da categoria-mãe, acrescente a subcategoria à secção
+*Subcategorias*.
+
+### E as páginas restritas?
+
+Estão cifradas e não se editam no GitHub. Ver
+[Sobre este arquivo](../Sobre%20este%20arquivo.md#páginas-restritas).
 '''
 GRAPH_TEXT = '''---
 title: "Grafo de ligações"
@@ -300,6 +450,12 @@ def link_token(ns, title, anchor, label):
     return f'\ue000{ns}\ue001{title}\ue001{anchor}\ue001{label}\ue002'
 
 
+# List tags inside table cells, kept out of convert_html_lists' way until
+# the end of the conversion.
+CELL_TAGS = {'ul': ('\ue010', '\ue011'), 'ol': ('\ue012', '\ue013'),
+             'li': ('\ue014', '\ue015')}
+
+
 class Converter:
     def __init__(self, templates, article_count):
         self.templates = templates      # title -> wikitext
@@ -332,6 +488,9 @@ class Converter:
                                 r'\d*x?\d+px)\s*', p)), '')
             return self.image_link(title, self.plain(caption))
         if ns == -1:  # Special pages do not exist outside MediaWiki
+            special = SPECIAL_PAGES.get(title.split('/')[0].lower())
+            if special:
+                return link_token(-1, special, '', (label or title) + trail)
             return (label or title) + trail
         if not title and anchor:  # [[#Section]]
             return (label or anchor) + trail
@@ -434,16 +593,16 @@ class Converter:
                         rows.append(cur)
                     sep = '!!' if s[0] == '!' else '||'
                     for cell in s[1:].split(sep):
-                        cur.append(cell.split('|')[-1].strip())
+                        cur.append([cell.split('|')[-1].strip()])
                 elif cur and s:
-                    cur[-1] += '<br>' + s
+                    cur[-1].append(s)
+            rows = [[self.cell_html(c) for c in r] for r in rows]
             rows = [r for r in rows if any(c for c in r)]
             if not rows:
                 return ''
             width = max(len(r) for r in rows)
 
             def fmt(r):
-                r = [re.sub(r'\s*\n\s*', '<br>', c) for c in r]
                 r += [''] * (width - len(r))
                 return '| ' + ' | '.join(c.replace('|', '\\|') for c in r) + ' |'
             out = [fmt(rows[0]), '|' + ' --- |' * width]
@@ -451,6 +610,44 @@ class Converter:
             return '\n\n' + '\n'.join(out) + '\n\n'
         return re.sub(r'^\s*\{\|[^\n]*\n(.*?)^\s*\|\}', table, text,
                       flags=re.S | re.M)
+
+    @staticmethod
+    def cell_html(lines):
+        """A table cell's lines as the single line a Markdown table cell
+        allows, with its wiki and HTML lists as (placeholder) HTML lists."""
+        def tag(name, closing=False):
+            return CELL_TAGS[name][closing]
+        out, stack, text_last = [], [], False
+
+        def close_to(depth):
+            while len(stack) > depth:
+                out.append(tag('li', True) + tag(stack.pop(), True))
+        for line in lines:
+            line = re.sub(r'<(/?)(ul|ol|li)\b[^>]*>',
+                          lambda m: tag(m.group(2).lower(), bool(m.group(1))),
+                          line, flags=re.I).strip()
+            m = re.match(r'([*#]+)([;:]?)\s*(.*)', line)
+            if not m:
+                close_to(0)
+                if line:
+                    out.append(('<br>' if text_last else '') + line)
+                    text_last = True
+                continue
+            marks, term, item = m.groups()
+            if term == ';':  # *;term is a bold item
+                item = f"'''{item}'''"
+            if len(marks) > len(stack):
+                while len(stack) < len(marks):
+                    kind = 'ol' if marks[len(stack)] == '#' else 'ul'
+                    out.append(tag(kind) + tag('li'))
+                    stack.append(kind)
+            else:
+                close_to(len(marks))
+                out.append(tag('li', True) + tag('li'))
+            out.append(item)
+            text_last = False
+        close_to(0)
+        return ''.join(out)
 
     def convert_gallery(self, text):
         def gallery(m):
@@ -541,9 +738,19 @@ class Converter:
 
     @staticmethod
     def convert_emphasis(line):
-        line = re.sub(r"'''''(.+?)'''''", r'***\1***', line)
-        line = re.sub(r"'''(.+?)'''", r'**\1**', line)
-        line = re.sub(r"''(.+?)''", r'*\1*', line)
+        # Markdown ignores "** bold **", so spaces move outside the markers
+        def wrap(marker):
+            def repl(m):
+                inner = m.group(1)
+                if not inner.strip():
+                    return inner
+                lead = inner[:len(inner) - len(inner.lstrip())]
+                trail = inner[len(inner.rstrip()):]
+                return f'{lead}{marker}{inner.strip()}{marker}{trail}'
+            return repl
+        line = re.sub(r"'''''(.+?)'''''", wrap('***'), line)
+        line = re.sub(r"'''(.+?)'''", wrap('**'), line)
+        line = re.sub(r"''(.+?)''", wrap('*'), line)
         return line
 
     def convert(self, text, page_title):
@@ -596,6 +803,9 @@ class Converter:
                 out.append('')
             out.append(line.rstrip())
         text = re.sub(r'\n{3,}', '\n\n', '\n'.join(out)).strip()
+        for name, (opening, closing) in CELL_TAGS.items():
+            text = text.replace(opening, f'<{name}>').replace(
+                closing, f'</{name}>')
         seen = set()
         categories = [c for c in categories if not (c in seen or seen.add(c))]
         return text, categories
@@ -617,10 +827,13 @@ def year_of(title, categories):
     return None
 
 
-def folder_for(ns, title, categories):
+def folder_for(ns, title, categories, private=False):
     cats = set(categories)
     if ns == CATEGORY_NS:
         return 'Categorias'
+    if private or title == 'Áreas Restrictas':
+        return ('Restrito/Locais de Acampamento'
+                if 'Locais de Acampamento' in cats else 'Restrito')
     if ns == 4:
         return 'Wikinácios'
     if ns == 12:
@@ -653,29 +866,88 @@ def folder_for(ns, title, categories):
 # Output
 # --------------------------------------------------------------------------
 
-def home_wikitext(templates):
-    """The old home page was a nest of layout tables around four templates;
-    rebuild it as plain sections with the same content."""
-    sections = []
-    directory = templates.get('Enciclopédia secções', '')
-    for head, links in re.findall(r"('''.+?''')<br\s*/?>\s*\n(.*?)\n\|-",
-                                  directory, flags=re.S):
-        if 'Restrict' in head or 'Especial:' in head:
-            continue
-        links = ' '.join(links.split())
-        sections.append(f'* {head}' + (f' — {links}' if links else ''))
-    return '\n'.join([
-        "Bem-vindo(a) à '''Wikinácios''', a enciclopédia livre sobre "
-        "[[Campinácios]] que [[Ajuda:Conteúdos|(quase) todos podem editar]].",
-        '',
-        '[[Boas-vindas]] &middot; [[Ajuda:Conteúdos|Ajuda]] &middot; '
-        '[[FAQ|Perguntas Frequentes]] &middot; [[Contactos]]',
-        '',
-        '== Secções ==', *sections, '',
-        '== Como tudo começou... ==', '{{Em destaque}}', '',
-        '== Sabia que... ==', '{{Sabia que}}', '',
-        '== Eventos recentes ==', '{{Eventos actuais}}',
-    ])
+# The section index links "Direcção Local do CC" to the CAIC category.
+HOME_FIXES = [('[[:Category:Direcção Local do CAIC|Direcção Local do CC]]',
+               '[[:Category:Direcção Local do CC|Direcção Local do CC]]')]
+TOP_LINKS = ('[[Boas-vindas]] | [[Ajuda:Conteúdos|Ajuda]] | '
+             '[[FAQ|Perguntas Frequentes]] | [[Contactos]]')
+
+
+class Home:
+    """The old home page was a nest of layout tables around four templates.
+    Their content, converted, laid out as on the wiki (docs/index.md, styled
+    by assets/extra.css) or as plain sections (README.md)."""
+
+    def __init__(self, conv, templates):
+        def md(wikitext):
+            return conv.convert(wikitext, 'Página principal')[0]
+        featured = templates.get('Em destaque', '')
+        more = re.search(r'<div align="right">(.*?)</div>', featured, re.S)
+        if more:
+            featured = featured.replace(more.group(0), '')
+        self.featured = md(featured)
+        self.more = md(more.group(1)) if more else ''
+        self.trivia = md(templates.get('Sabia que', ''))
+        self.events = md(templates.get('Eventos actuais', ''))
+        self.top = md(TOP_LINKS)
+        self.welcome = md("[[Boas-vindas|Bem-vindo(a)]] à '''Wikinacios''',")
+        self.tagline = md('a enciclopédia livre sobre Campinácios que '
+                          '[[Ajuda:Conteúdos|(quase) todos podem editar]].')
+        directory = templates.get('Enciclopédia secções', '')
+        for bad, good in HOME_FIXES:
+            directory = directory.replace(bad, good)
+        self.sections = []
+        for row in directory.split('\n|-'):
+            m = re.search(r"('''.+?''')\s*<br\s*/?>(.*)", row, re.S)
+            if m:
+                links = re.sub(r'\|\}\s*$', '', m.group(2))
+                self.sections.append((md(m.group(1)),
+                                      md(' '.join(links.split()))))
+
+    @staticmethod
+    def box(cls, template, head, body):
+        head = link_token(TEMPLATE_NS, template, '', head)
+        return (f'<div class="wk-box {cls}" markdown>\n'
+                f'<div class="wk-head" markdown="span">{head}</div>\n\n'
+                f'{body}\n\n</div>')
+
+    def page(self, articles):
+        count = link_token(-1, 'todos', '', f'{articles} artigos')
+        index = '\n'.join(
+            f'<div class="wk-section" markdown="span">{head}'
+            + (f'<br>{links}' if links else '') + '</div>'
+            for head, links in self.sections)
+        more = (f'\n\n<div class="wk-more" markdown="span">{self.more}</div>'
+                if self.more else '')
+        return '\n\n'.join([
+            # an <h1> of its own stops MkDocs adding a visible "Início" one
+            '<h1 class="wk-title">Wikinácios</h1>',
+            f'<div class="wk-top" markdown="span">{self.top}</div>',
+            '<div class="wk-banner" markdown>\n'
+            f'<div class="wk-count" markdown="span">**{count}**</div>\n'
+            f'<div class="wk-welcome" markdown="span">{self.welcome}</div>\n'
+            f'<div class="wk-tagline" markdown="span">{self.tagline}</div>\n'
+            '</div>',
+            '<div class="wk-grid" markdown>\n<div class="wk-col" markdown>',
+            self.box('wk-blue', 'Em destaque', 'Como tudo começou...',
+                     self.featured + more),
+            self.box('wk-yellow', 'Sabia que', 'Sabia que..', self.trivia),
+            '</div>\n<div class="wk-col" markdown>',
+            self.box('wk-green', 'Eventos actuais', 'Eventos recentes',
+                     self.events),
+            f'<div class="wk-index" markdown>\n{index}\n</div>',
+            '</div>\n</div>',
+        ])
+
+    def plain(self, explore):
+        sections = '\n'.join(f'- {head}' + (f' — {links}' if links else '')
+                             for head, links in self.sections)
+        return '\n\n'.join([
+            self.welcome + ' ' + self.tagline, self.top,
+            explore, '## Secções', sections,
+            '## Como tudo começou...', self.featured, self.more,
+            '## Sabia que...', self.trivia,
+            '## Eventos recentes', self.events])
 
 
 def yaml_str(s):
@@ -710,7 +982,7 @@ def md_link(label, from_path, to_path, anchor=''):
                                          else '') + ')'
 
 
-def main(dump, root='.'):
+def main(dump, root='.', password=None):
     root = Path(root)
     docs = root / 'docs'
     data = load_tables(dump, ['mw_page', 'mw_revision', 'mw_text', 'mw_image'])
@@ -750,7 +1022,7 @@ def main(dump, root='.'):
     templates = {t: p['text'] for (ns, t), p in pages.items()
                  if ns == TEMPLATE_NS}
     home = (0, 'Página principal')
-    pages[home]['text'] = home_wikitext(templates)
+    pages[home]['text'] = ''  # laid out by Home
     article_count = sum(1 for (ns, _), p in pages.items()
                         if ns == 0 and not p['redirect'])
     conv = Converter(templates, article_count)
@@ -758,13 +1030,15 @@ def main(dump, root='.'):
     # 1. Convert every page
     notes = {}
     for key, p in sorted(pages.items()):
-        if key in redirects:
+        if key in redirects or key in SKIP_PAGES:
             continue
         ns, title = key
         if ns == TEMPLATE_NS:  # templates are kept as their source
             body, cats = f'```text\n{p["text"].strip()}\n```', []
         else:
             body, cats = conv.convert(p['text'], title)
+        if key == HELP_PAGE:  # how to edit is now a GitHub matter
+            body = body.split(HELP_SECTION)[0] + HELP_TEXT.strip()
         notes[key] = dict(page=p, body=body, categories=cats)
 
     members = defaultdict(list)
@@ -775,13 +1049,17 @@ def main(dump, root='.'):
         notes.setdefault((CATEGORY_NS, c),
                          dict(page=None, body='', categories=[]))
 
-    # 2. Leave out what was private on the wiki
-    private = sorted(k for k, n in notes.items()
-                     if set(n['categories']) & PRIVATE_CATEGORIES
-                     or k in PRIVATE_PAGES
-                     or (k[0] == CATEGORY_NS and k[1] in PRIVATE_CATEGORIES))
-    for k in private:
-        del notes[k]
+    # 2. What was restricted on the wiki is encrypted; without a password it
+    # is left out.
+    private = {k for k, n in notes.items()
+               if set(n['categories']) & PRIVATE_CATEGORIES
+               or (k[0] == CATEGORY_NS and k[1] in PRIVATE_CATEGORIES)}
+    left_out = []
+    if not password:
+        left_out = sorted(private)
+        for k in private:
+            del notes[k]
+        private = set()
     members = {c: [k for k in ks if k in notes] for c, ks in members.items()}
 
     # 3. Decide where every page goes
@@ -791,7 +1069,8 @@ def main(dump, root='.'):
         if key == home:
             paths[key] = 'docs/index.md'
             continue
-        folder = folder_for(ns, title, notes[key]['categories'])
+        folder = folder_for(ns, title, notes[key]['categories'],
+                            key in private)
         name = safe_name(title) or 'Sem título'
         if ns == 3:
             name = 'Utilizador ' + name
@@ -806,52 +1085,66 @@ def main(dump, root='.'):
         if target in notes and key[0] == target[0]:
             aliases[target].append(key[1])
 
-    # 4. Resolve links
+    # 4. Resolve links. MediaWiki titles are case-sensitive after the first
+    # letter; a link that only differs in case from one page goes to it.
+    by_lower = defaultdict(set)
+    for k in list(notes) + list(redirects):
+        by_lower[(k[0], k[1].lower())].add(k)
+
+    def find(ns, title, anchor=''):
+        ns, title, anchor = resolve(ns, title, anchor)
+        if (ns, title) in notes:
+            return (ns, title), anchor
+        found = {resolve(*k)[:2] for k in by_lower[(ns, title.lower())]}
+        found &= set(notes)
+        return (found.pop(), anchor) if len(found) == 1 else (None, anchor)
+
     edges = defaultdict(set)
-
-    def render_links(text, src_key, src_path):
-        def repl(m):
-            ns, title, anchor, label = (int(m.group(1)), m.group(2),
-                                        m.group(3), m.group(4))
-            ns, title, anchor = resolve(ns, title, anchor)
-            if (ns, title) not in notes:
-                return label  # missing or private page
-            if src_key is not None and (ns, title) != src_key:
-                edges[src_key].add((ns, title))
-            return md_link(label, src_path, paths[(ns, title)], anchor)
-        return LINK.sub(repl, text)
-
-    bodies = {k: render_links(n['body'], k, paths[k])
-              for k, n in notes.items()}
+    for src, note in notes.items():
+        for m in LINK.finditer(note['body']):
+            if m.group(1) != '-1':
+                dst = find(int(m.group(1)), m.group(2))[0]
+                if dst and dst != src:
+                    edges[src].add(dst)
     backlinks = defaultdict(set)
     for src, dsts in edges.items():
         for dst in dsts:
             backlinks[dst].add(src)
 
-    def home_body(from_path):
-        body = render_links(notes[home]['body'], None, from_path)
-        articles = sum(1 for k in notes if k[0] == 0)
-        explore = ['## Explorar', '', f'{articles} artigos:', '']
-        for folder, label in [
-                ('Acampamentos', 'Acampamentos, por ano'),
-                ('Pessoas', 'Pessoas, de A a Z'),
-                ('Encontros', 'Encontros'), ('Cargos', 'Cargos'),
-                ('Movimento', 'Movimento'), ('Categorias', 'Categorias'),
-                ('Wikinácios', 'Sobre a wiki')]:
-            explore.append('- ' + md_link(label, from_path,
-                                          f'docs/{folder}/index.md'))
-        explore.append('- ' + md_link('Grafo de ligações', from_path,
-                                      'docs/Grafo.md'))
-        intro, _, rest = body.partition('\n\n## ')
-        return '\n\n'.join([intro, '\n'.join(explore), '## ' + rest])
-
     def title_of(key):
         return 'Wikinácios' if key == home else key[1]
 
+    def refs_of(key):
+        """Pages linking here; a restricted page's links stay hidden."""
+        return sorted((k for k in backlinks.get(key, ())
+                       if k[0] != CATEGORY_NS
+                       and (k not in private or key in private)),
+                      key=title_of)
+
     def link_to(key, from_path, label=None):
-        return md_link(label or title_of(key), from_path, paths[key])
+        return md_link(label or title_of(key), from_path, paths[key]) + (
+            LOCK if key in private else '')
+
+    def render_links(text, src_key, src_path):
+        def repl(m):
+            ns, title, anchor, label = (int(m.group(1)), m.group(2),
+                                        m.group(3), m.group(4))
+            if ns == -1:
+                if title == 'todos':
+                    return md_link(label, src_path, ALL_PAGES)
+                if title == 'backlinks' and src_key and refs_of(src_key):
+                    return md_link(label, src_path, src_path, BACKLINKS)
+                return label
+            dst, anchor = find(ns, title, anchor)
+            if dst is None:
+                return label  # the page never existed
+            return md_link(label, src_path, paths[dst], anchor)
+        return LINK.sub(repl, text)
 
     # 5. Write the pages
+    cipher = restrito.Key(password) if private else None
+    layout = Home(conv, templates)
+    articles = sum(1 for k in notes if k[0] == 0)
     if docs.exists():
         for child in docs.iterdir():
             if child.name != 'assets':
@@ -861,6 +1154,8 @@ def main(dump, root='.'):
         p, path = note['page'], paths[key]
         fields = {
             'title': title_of(key),
+            'hide': (['navigation', 'toc'] if key == home else
+                     ['toc'] if key in private else None),
             'aliases': sorted(aliases.get(key, [])),
             'categories': note['categories'],
             'wiki_id': p['id'] if p else None,
@@ -869,14 +1164,16 @@ def main(dump, root='.'):
         }
         parts = [front_matter(fields)]
         if key == home:
-            parts.append(home_body(path))
+            parts.append(render_links(layout.page(articles), None, path))
         else:
             parts.append(f'# {title}')
-            if bodies[key]:
-                parts.append(bodies[key])
+        rest = []  # everything under the title
+        body = render_links(note['body'], key, path)
+        if body and key != home:
+            rest.append(body)
         img = images.get(title) if ns == IMAGE_NS else None
         if img:
-            parts.append(
+            rest.append(
                 '> **Ficheiro original não incluído no backup.** '
                 f"{img['mime']}, {img['width']}×{img['height']} px, "
                 f"{img['size']:,} bytes — carregado por {img['uploader']} "
@@ -886,21 +1183,24 @@ def main(dump, root='.'):
             subcats = [k for k in inside if k[0] == CATEGORY_NS]
             pages_in = [k for k in inside if k[0] != CATEGORY_NS]
             if subcats:
-                parts.append('## Subcategorias\n\n' + '\n'.join(
+                rest.append('## Subcategorias\n\n' + '\n'.join(
                     '- ' + link_to(k, path) for k in subcats))
             if pages_in:
-                parts.append(f'## Páginas nesta categoria ({len(pages_in)})'
-                             '\n\n' + '\n'.join(
-                                 '- ' + link_to(k, path) for k in pages_in))
-        refs = sorted((k for k in backlinks.get(key, ())
-                       if k[0] != CATEGORY_NS), key=lambda k: title_of(k))
+                rest.append(f'## Páginas nesta categoria ({len(pages_in)})'
+                            '\n\n' + '\n'.join(
+                                '- ' + link_to(k, path) for k in pages_in))
+        refs = refs_of(key)
         if refs and key != home:
-            parts.append('## Páginas que ligam para aqui\n\n' + '\n'.join(
+            rest.append(f'## {BACKLINKS}\n\n' + '\n'.join(
                 '- ' + link_to(k, path) for k in refs))
         cats = [c for c in note['categories'] if (CATEGORY_NS, c) in notes]
         if cats:
-            parts.append('---\n\n**Categorias:** ' + ' · '.join(
+            rest.append('---\n\n**Categorias:** ' + ' · '.join(
                 link_to((CATEGORY_NS, c), path, c) for c in cats))
+        if key in private:
+            parts.append(restrito.seal_page(cipher, '\n\n'.join(rest)))
+        else:
+            parts += rest
         out = root / path
         out.parent.mkdir(parents=True, exist_ok=True)
         out.write_text('\n\n'.join(parts) + '\n', encoding='utf-8')
@@ -908,6 +1208,29 @@ def main(dump, root='.'):
     for path, text in [(ABOUT_PAGE, ABOUT_TEXT), ('docs/Grafo.md', GRAPH_TEXT)]:
         (root / path).parent.mkdir(parents=True, exist_ok=True)
         (root / path).write_text(text, encoding='utf-8')
+
+    # Every article and every alternative name, as Especial:Allpages did
+    entries = [(title_of(k), k, None) for k in notes
+               if k[0] == 0 and k != home]
+    entries += [(a, k, a) for k, names in aliases.items() if k[0] == 0
+                for a in names]
+    entries.sort(key=lambda e: (unicodedata.normalize('NFKD', e[0]).lower(),
+                                e[0]))
+    groups = defaultdict(list)
+    for name, k, alias in entries:
+        groups[initial(safe_name(name))].append(
+            f'- *{alias}* → {link_to(k, ALL_PAGES)}' if alias
+            else f'- {link_to(k, ALL_PAGES)}')
+    (root / ALL_PAGES).write_text('\n\n'.join(
+        [front_matter({'title': 'Todos os artigos'}), '# Todos os artigos',
+         f'{articles - 1} artigos e, em itálico, os '
+         f'{len(entries) - articles + 1} nomes alternativos que apontam para '
+         'eles, como na página especial "Todas as páginas" da wiki.'
+         + (f' As páginas marcadas com{LOCK} são restritas.' if private
+            else '')]
+        + [f'## {g}\n\n' + '\n'.join(groups[g]) for g in sorted(
+            groups, key=lambda g: (g == 'Outros', g))]) + '\n',
+        encoding='utf-8')
 
     # 6. An index page for every folder
     by_folder = defaultdict(list)
@@ -958,7 +1281,7 @@ def main(dump, root='.'):
                 out.append(f'{"  " * depth}- {yaml_str(name)}: {rel}/index.md')
         return out
     nav = ['nav:', '  - "Início": index.md'] + nav_entries('docs', 1) + [
-        '  - "Grafo": Grafo.md']
+        f'  - "Todos os artigos": {ALL_PAGES[5:]}', '  - "Grafo": Grafo.md']
     config = root / 'mkdocs.yml'
     if config.exists():
         text = config.read_text(encoding='utf-8')
@@ -967,38 +1290,58 @@ def main(dump, root='.'):
             config.write_text(text.split(marker)[0] + marker + '\n'.join(nav)
                               + '\n', encoding='utf-8')
 
-    # 7. The home page is also the repository README
+    # 7. A plain version of the home page is the repository README
+    explore = ['## Explorar', '']
+    for folder, label in [
+            ('Acampamentos', 'Acampamentos, por ano'),
+            ('Pessoas', 'Pessoas, de A a Z'),
+            ('Encontros', 'Encontros'), ('Cargos', 'Cargos'),
+            ('Movimento', 'Movimento'), ('Categorias', 'Categorias'),
+            ('Wikinácios', 'Sobre a wiki')]:
+        explore.append('- ' + md_link(label, 'README.md',
+                                      f'docs/{folder}/index.md'))
+    explore.append('- ' + md_link('Todos os artigos', 'README.md',
+                                  ALL_PAGES))
+    explore.append('- ' + md_link('Grafo de ligações', 'README.md',
+                                  'docs/Grafo.md'))
     intro = ('> Arquivo da **Wikinácios**, a wiki dos Campinácios '
              '(2009–2010), convertida para Markdown e publicada como site '
-             'no GitHub Pages. Como foi feito e como o publicar: ' +
+             f'em <{SITE_URL}>. Como foi feito, como o publicar e como '
+             'ler as páginas restritas: ' +
              md_link('Sobre este arquivo', 'README.md', ABOUT_PAGE) + '.')
+    readme = render_links(layout.plain('\n'.join(explore)), None, 'README.md')
     (root / 'README.md').write_text(
-        f'# Wikinácios\n\n{intro}\n\n{home_body("README.md")}\n',
-        encoding='utf-8')
+        f'# Wikinácios\n\n{intro}\n\n{readme}\n', encoding='utf-8')
 
-    # 8. Link graph for docs/Grafo.md
+    # 8. Link graph for docs/Grafo.md (without the restricted pages' links)
     content = [k for k in notes if k[0] == 0]
-    linked = {k for k in content if edges.get(k) or backlinks.get(k)}
+    public_edges = {s: d for s, d in edges.items() if s not in private}
+    linked = {k for k in content if public_edges.get(k)
+              or any(s not in private for s in backlinks.get(k, ()))}
     nodes = [dict(id=paths[k][5:-3] + '.html', title=title_of(k),
                   group=paths[k][5:].split('/')[0] if '/' in paths[k][5:]
                   else 'Movimento')
              for k in sorted(content) if k in linked]
     ids = {k: i for i, k in enumerate(k for k in sorted(content)
                                       if k in linked)}
-    links = sorted({(ids[s], ids[d]) for s in ids for d in edges.get(s, ())
-                    if d in ids})
+    links = sorted({(ids[s], ids[d]) for s in ids
+                    for d in public_edges.get(s, ()) if d in ids})
     (docs / 'assets').mkdir(exist_ok=True)
     (docs / 'assets' / 'graph.json').write_text(
         json.dumps({'nodes': nodes, 'links': links}, ensure_ascii=False),
         encoding='utf-8')
 
-    print(f'{len(notes)} pages written, {len(redirects)} redirects folded '
-          f'into aliases, {len(private)} private pages left out:')
-    for ns, title in private:
-        print(f'  - {title}' + (f' (ns {ns})' if ns else ''))
+    print(f'{len(notes)} pages written ({len(private)} of them encrypted), '
+          f'{len(redirects)} redirects folded into aliases.')
+    if left_out:
+        print(f'No password given: {len(left_out)} restricted pages left out.')
 
 
 if __name__ == '__main__':
     if len(sys.argv) < 2:
         sys.exit(__doc__)
-    main(sys.argv[1], sys.argv[2] if len(sys.argv) > 2 else '.')
+    secret = os.environ.get('WIKINACIOS_PALAVRA_PASSE')
+    if secret is None and sys.stdin.isatty():
+        secret = getpass.getpass('Palavra-passe das páginas restritas (vazia '
+                                 'para as deixar de fora): ')
+    main(sys.argv[1], sys.argv[2] if len(sys.argv) > 2 else '.', secret)

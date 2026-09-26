@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # XS
 
-XS é um acrónimo para Xavier Sempre e foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que se realizou de 21 a 30 de Julho de 2006 em Digueifel.
+XS é um acrónimo para Xavier Sempre e foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que se realizou de 21 a 30 de Julho de 2006 em [Digueifel](../../Restrito/Locais%20de%20Acampamento/Digueifel%20%28Arganil%29.md).
 
 ### Animadores
 

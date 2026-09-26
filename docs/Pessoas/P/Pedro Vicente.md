@@ -112,7 +112,6 @@ E-mail: Pedro@Campinacios.org
 - [Staff](../../Movimento/Staff.md)
 - [Tnbahia](../../Wikin%C3%A1cios/Discuss%C3%A3o/Utilizador%20Tnbahia.md)
 - [Walkabout](../../Acampamentos/2010/Walkabout.md)
-- [Wikinácios](../../index.md)
 
 ---
 

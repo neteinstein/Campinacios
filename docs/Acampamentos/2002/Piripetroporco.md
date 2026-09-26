@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Piripetroporco
 
-O Piripetroporco foi um acampamento de Trotinetas que decorreu de 4 a 13 de Agosto de 2002 na Herdade da Machoqueira do Grou.
+O Piripetroporco foi um acampamento de Trotinetas que decorreu de 4 a 13 de Agosto de 2002 na Herdade da [Machoqueira do Grou](../../Restrito/Locais%20de%20Acampamento/Machoqueira%20do%20Grou%20%28Santar%C3%A9m%29.md).
 
 ### Animadores
 

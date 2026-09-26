@@ -33,7 +33,6 @@ last_editor: "Tnbahia"
 - [Campinácios](../../Movimento/Campin%C3%A1cios.md)
 - [Loyola](../../Acampamentos/1991/Loyola.md)
 - [Rebordosa](../../Acampamentos/1993/Rebordosa.md)
-- [Wikinácios](../../index.md)
 
 ---
 

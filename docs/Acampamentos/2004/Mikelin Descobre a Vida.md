@@ -11,7 +11,7 @@ last_editor: "Tnbahia"
 
 # Mikelin Descobre a Vida
 
-O Mikelin Descobre a Vida foi um campo de Lambretas que decorreu de 16 a 25 de Agosto de 2004 em Fonte de Nena (Caldelas).
+O Mikelin Descobre a Vida foi um campo de Lambretas que decorreu de 16 a 25 de Agosto de 2004 em [Fonte de Nena](../../Restrito/Locais%20de%20Acampamento/Fonte%20de%20Nena%20%28Caldelas%29.md) (Caldelas).
 
 ### Animadores
 

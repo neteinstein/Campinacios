@@ -1,5 +1,6 @@
 site_name: Wikinácios
 site_description: Arquivo da Wikinácios, a wiki dos Campinácios.
+site_url: https://neteinstein.github.io/Campinacios/
 repo_url: https://github.com/neteinstein/Campinacios
 edit_uri: edit/main/docs/
 docs_dir: docs
@@ -53,6 +54,7 @@ extra_css:
   - assets/extra.css
 extra_javascript:
   - assets/graph.js
+  - assets/restrito.js
 
 validation:
   links:
@@ -116,6 +118,9 @@ nav:
     - "T": Pessoas/T/index.md
     - "V": Pessoas/V/index.md
     - "Z": Pessoas/Z/index.md
+  - "Restrito":
+    - Restrito/index.md
+    - "Locais de Acampamento": Restrito/Locais de Acampamento/index.md
   - "Wikinácios":
     - Wikinácios/index.md
     - "Ajuda": Wikinácios/Ajuda/index.md
@@ -123,4 +128,5 @@ nav:
     - "Imagens": Wikinácios/Imagens/index.md
     - "Predefinições": Wikinácios/Predefinições/index.md
     - "Utilizadores": Wikinácios/Utilizadores/index.md
+  - "Todos os artigos": Todos os artigos.md
   - "Grafo": Grafo.md

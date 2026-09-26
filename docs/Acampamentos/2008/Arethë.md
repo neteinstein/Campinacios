@@ -13,7 +13,7 @@ last_editor: "Neteinstein"
 
 # Arethë
 
-O Arethë foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que se realizou entre 24 de Julho e 2 de Agosto de 2008 em Serpins.
+O Arethë foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que se realizou entre 24 de Julho e 2 de Agosto de 2008 em [Serpins](../../Restrito/Locais%20de%20Acampamento/Ribeira%20do%20Conde%20%28Serpins%29.md).
 
 ### Animadores
 

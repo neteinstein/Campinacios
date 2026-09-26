@@ -17,10 +17,6 @@ Acampamentos para animadores focados no serviço (Actualmente este escalão não
 - [Covas](../Acampamentos/1997/Covas.md)
 - [Quinta da Gorda](../Acampamentos/1993/Quinta%20da%20Gorda.md)
 
-## Páginas que ligam para aqui
-
-- [Wikinácios](../index.md)
-
 ---
 
 **Categorias:** [Acampamentos](Acampamentos.md)

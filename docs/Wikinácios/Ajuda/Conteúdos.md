@@ -7,7 +7,7 @@ last_editor: "Neteinstein"
 
 # Conteúdos
 
-** Bem-vindo à Wiki dos [Campinácios](../../Movimento/Campin%C3%A1cios.md)! **
+**Bem-vindo à Wiki dos [Campinácios](../../Movimento/Campin%C3%A1cios.md)!**
 
 *Este sitio faz parte da [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)!*
 
@@ -47,30 +47,101 @@ Ver [Staff](../../Movimento/Staff.md)
 
 ## Como adicionar conteúdo?
 
+A Wikinácios já não corre em MediaWiki: é um site feito a partir dos
+ficheiros do repositório
+[neteinstein/Campinacios](https://github.com/neteinstein/Campinacios) no
+GitHub. Cada artigo é um ficheiro de texto `.md`
+([Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax))
+dentro da pasta `docs/`, e o site actualiza-se sozinho um ou dois minutos
+depois de cada alteração entrar no ramo `main`.
+
+Para editar é preciso uma conta no GitHub, que é gratuita. Quem tem
+permissão de escrita no repositório (o [Staff](../../Movimento/Staff.md))
+grava as alterações directamente. Os outros fazem uma proposta de alteração
+(*pull request*) que o Staff revê e aceita: as regras acima continuam a
+valer.
+
+### Como se edita um artigo?
+
+1. Abra o artigo no site e carregue no lápis (*Editar esta página*) no
+   canto superior direito. Abre-se o ficheiro no GitHub, já em modo de
+   edição (se pedir, carregue em *Fork this repository*).
+2. Faça as alterações. O separador *Preview* mostra como vai ficar.
+3. Carregue em **Commit changes...**, escreva numa frase o que mudou e
+   confirme. Sem permissão de escrita, o botão chama-se
+   **Propose changes** e, a seguir, **Create pull request**.
+
 ### Como se adiciona um artigo?
 
-Antes de mais é necessário saber se esse artigo já existe, para isso podemos usar a secção de pesquisa do lado esquerdo e procurar por o que quer que seja.
+Antes de mais é preciso saber se o artigo já existe: use a caixa
+**Buscar** no topo do site ou [Todos os artigos](../../Todos%20os%20artigos.md),
+que também lista as alcunhas e os nomes alternativos.
 
-Caso se encontre, ao abrir o artigo por cada secção tem uma parte que diz "editar" e pode-se editar carregando ai ou até adicionar mais coisas.
+Se não existir, entre no GitHub na pasta certa dentro de `docs/`:
 
-Caso não se encontre, aparecerá algo como: Não existe uma página com o título Ajuda. Pode criar esta página.
+| Artigo | Pasta |
+| --- | --- |
+| Acampamento | `docs/Acampamentos/<ano>/` |
+| Animador, jesuíta ou outra pessoa | `docs/Pessoas/<inicial>/` |
+| Encontro | `docs/Encontros/` |
+| Cargo | `docs/Cargos/` |
+| Tudo o resto | `docs/Movimento/` |
 
-Carregando no Ajuda irá ter a uma página onde pode editar/adicionar informação, que após ser guardada ficará numa página com o seu nome, neste caso Ajuda.
+Carregue em **Add file → Create new file** e dê ao ficheiro o nome do
+artigo terminado em `.md`, por exemplo `Carlos Nunes.md`. Copie um artigo
+do mesmo tipo (regra 2) e altere os dados, não o esquema. O ficheiro começa
+por um cabeçalho com o título:
 
-Ou seja, quando quiser adicionar algo que não existe, por exemplo Exemplo, procura pelo nome inteiro que quer adicionar como referência e depois adiciona...
+```markdown
+---
+title: "Carlos Nunes"
+---
 
-Simples!
+# Carlos Nunes
+
+Carlos Nunes é animador dos Campinácios desde...
+```
+
+Grave como acima (**Commit changes...** ou **Propose changes**). Por fim,
+ponha ligações para o artigo novo: no `index.md` da pasta, na página da
+categoria em `docs/Categorias/` e nos artigos que falam dele. Estas listas
+não se actualizam sozinhas, mas a pesquisa do site encontra-o logo.
+
+### Como se escreve?
+
+| Na wiki | Agora, em Markdown |
+| --- | --- |
+| `'''negrito'''` | `**negrito**` |
+| `''itálico''` | `*itálico*` |
+| `== Secção ==` | `## Secção` |
+| `* item` | `- item` |
+| `[[Pedro Vicente]]` | `[Pedro Vicente](<../../Pessoas/P/Pedro Vicente.md>)` |
+| `[http://exemplo.pt texto]` | `[texto](http://exemplo.pt)` |
+
+As ligações entre artigos levam o caminho do ficheiro a partir da pasta do
+artigo onde se escreve: `../` sobe uma pasta. Com os `< >` à volta, o
+caminho pode ter espaços e acentos. Se uma ligação apontar para um ficheiro
+que não existe, a publicação falha (o GitHub mostra um ✗ vermelho no
+*commit* e avisa por e-mail) e o site fica como estava até se corrigir.
+
+Para uma imagem, carregue o ficheiro com **Add file → Upload files** para
+`docs/assets/imagens/` e escreva
+`![legenda](<../../assets/imagens/foto.jpg>)`, com o caminho a partir do
+artigo.
 
 ### Como se cria uma categoria?
 
-A maneira mais fácil é primeiro adicionar o que quisermos à categoria. Podemos fazer isso ao por no fundo do artigo Categoria:Nome_Da_Categoria com os  à volta.
-
-Dai podemos clicar na categoria e edita-la.
+Uma categoria é uma página em `docs/Categorias/` com a lista dos seus
+artigos, como [Animadores](../../Categorias/Animadores.md). Crie o ficheiro
+com essa lista e, no fim de cada artigo da categoria, acrescente-a à linha
+**Categorias:**.
 
 ### Como se cria uma subcategoria de uma categoria?
 
-Dentro da subcategoria adicionamos a categoria.
+Na página da categoria-mãe, acrescente a subcategoria à secção
+*Subcategorias*.
 
-## Páginas que ligam para aqui
+### E as páginas restritas?
 
-- [Wikinácios](../../index.md)
+Estão cifradas e não se editam no GitHub. Ver
+[Sobre este arquivo](../Sobre%20este%20arquivo.md#páginas-restritas).

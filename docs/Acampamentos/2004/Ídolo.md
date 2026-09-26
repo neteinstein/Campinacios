@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Ídolo
 
-O Ídolo foi um acampamento de Trotinetas, que decorreu de 3 a 12 de Agosto de 2004 em Vila da Ponte (Montalegre).
+O Ídolo foi um acampamento de Trotinetas, que decorreu de 3 a 12 de Agosto de 2004 em [Vila da Ponte](../../Restrito/Locais%20de%20Acampamento/Vila%20da%20Ponte%20%28Montalegre%29.md) (Montalegre).
 
 ### Animadores
 

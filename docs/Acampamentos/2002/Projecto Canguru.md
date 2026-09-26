@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Projecto Canguru
 
-A ideia deste campo era ser um campo volante. Começou em Fonte de Nena (Caldelas) em 17 de Agosto e terminou na Herdade da Machoqueira do Grou a 26 de Agosto.
+A ideia deste campo era ser um campo volante. Começou em [Fonte de Nena](../../Restrito/Locais%20de%20Acampamento/Fonte%20de%20Nena%20%28Caldelas%29.md) (Caldelas) em 17 de Agosto e terminou na Herdade da [Machoqueira do Grou](../../Restrito/Locais%20de%20Acampamento/Machoqueira%20do%20Grou%20%28Santar%C3%A9m%29.md) a 26 de Agosto.
 
 Foi o primeiro campo volante da história dos Campinácios.
 

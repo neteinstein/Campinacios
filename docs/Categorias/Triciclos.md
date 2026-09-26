@@ -58,7 +58,6 @@ Acampamentos do escalão Triciclos - Alunos do 5º e 6º anos de escolaridade
 - [TSI](../Acampamentos/2008/TSI.md)
 - [Tribal](../Acampamentos/1992/Tribal.md)
 - [Vi-O](../Acampamentos/2009/Vi-O.md)
-- [Wikinácios](../index.md)
 - [XS](../Acampamentos/2006/XS.md)
 
 ---

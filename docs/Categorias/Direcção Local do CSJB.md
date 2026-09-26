@@ -184,7 +184,6 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [Pedro Snow](../Pessoas/P/Pedro%20Snow.md)
 - [Ricardo Neves](../Pessoas/R/Ricardo%20Neves.md)
 - [Rodrigo Queiroz e Melo](../Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md)
-- [Wikinácios](../index.md)
 
 ---
 

@@ -13,7 +13,7 @@ last_editor: "Anaimmartins"
 
 # Trolliciclos
 
-O Trolliciclos foi um acampamento de Triciclos que decorreu em 2004 na Sibana
+O Trolliciclos foi um acampamento de Triciclos que decorreu em 2004 na [Sibana](../../Restrito/Locais%20de%20Acampamento/Sibana%20%28Vila%20Nova%20do%20Ceira%29.md)
 
 ### Animadores
 

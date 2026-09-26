@@ -73,7 +73,6 @@ E-mail: Assistente@Campinacios.org
 - [Surpresa](../../Acampamentos/2001/Surpresa.md)
 - [Tribal](../../Acampamentos/1992/Tribal.md)
 - [Trotinetas 93](../../Acampamentos/1993/Trotinetas%2093.md)
-- [Wikinácios](../../index.md)
 - [Êxodo](../../Acampamentos/2008/%C3%8Axodo.md)
 
 ---

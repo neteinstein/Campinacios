@@ -155,10 +155,6 @@ Animadores do Colégio das Caldinhas
 - [Vítor Fernandes](../Pessoas/V/V%C3%ADtor%20Fernandes.md)
 - [Vítor Leite](../Pessoas/V/V%C3%ADtor%20Leite.md)
 
-## Páginas que ligam para aqui
-
-- [Wikinácios](../index.md)
-
 ---
 
 **Categorias:** [Animadores](Animadores.md)

@@ -44,7 +44,6 @@ Cfr. José da Silva ALMEIDA SJ, Para Educar Melhor - Campos de Férias Inacianos
 ## Páginas que ligam para aqui
 
 - [Florinhas](../Acampamentos/1994/Florinhas.md)
-- [Wikinácios](../index.md)
 
 ---
 

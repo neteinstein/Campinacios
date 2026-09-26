@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Rastilho
 
-O Rastilho foi um acampamento de Lambretas que decorreu de 31 de Julho a 12 de Agosto de 2003 na Quinta da Mata (Ponte da Barca)
+O Rastilho foi um acampamento de Lambretas que decorreu de 31 de Julho a 12 de Agosto de 2003 na [Quinta da Mata (Ponte da Barca)](../../Restrito/Locais%20de%20Acampamento/Quinta%20da%20Mata%20%28Ponte%20da%20Barca%29.md)
 
 ### Animadores
 

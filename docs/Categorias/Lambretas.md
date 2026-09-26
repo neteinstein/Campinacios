@@ -51,7 +51,6 @@ Acampamentos do escalão Lambretas - Alunos do 11º e 12º anos de escolaridade
 - [TufarfarAway](../Acampamentos/2008/TufarfarAway.md)
 - [Verim](../Acampamentos/1992/Verim.md)
 - [Walkabout](../Acampamentos/2010/Walkabout.md)
-- [Wikinácios](../index.md)
 - [Xii Tava Kuase Lá...!](../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md)
 
 ---

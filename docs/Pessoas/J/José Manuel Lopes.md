@@ -45,7 +45,6 @@ José Manuel Lopes foi um dos fundadores dos [Campinácios](../../Movimento/Camp
 - [Campinácios](../../Movimento/Campin%C3%A1cios.md)
 - [Fragas de S.Simão 94](../../Acampamentos/1994/Fragas%20de%20S.Sim%C3%A3o%2094.md)
 - [Regresso a Alvoco I](../../Acampamentos/1998/Regresso%20a%20Alvoco%20I.md)
-- [Wikinácios](../../index.md)
 
 ---
 

@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Bike Just Do It
 
-O Bike Just do it foi um acampamento de Bicicletas, ocorrido em Quinta da Mata (Ponte da Barca) dos dias 17 a 26 de Agosto de 2008.
+O Bike Just do it foi um acampamento de Bicicletas, ocorrido em [Quinta da Mata (Ponte da Barca)](../../Restrito/Locais%20de%20Acampamento/Quinta%20da%20Mata%20%28Ponte%20da%20Barca%29.md) dos dias 17 a 26 de Agosto de 2008.
 
 ### Animadores
 

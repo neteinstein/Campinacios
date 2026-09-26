@@ -11,7 +11,7 @@ last_editor: "Tnbahia"
 
 # Fibrovital
 
-O Fibrovital decorreu em Quinta da Gorda (Ferreira do Zêzere), sendo um acampamento de [Bicicletas](../../Categorias/Bicicletas.md).
+O Fibrovital decorreu em [Quinta da Gorda (Ferreira do Zêzere)](../../Restrito/Locais%20de%20Acampamento/Quinta%20da%20Gorda%20%28Ferreira%20do%20Z%C3%AAzere%29.md), sendo um acampamento de [Bicicletas](../../Categorias/Bicicletas.md).
 
 ### Animadores
 
