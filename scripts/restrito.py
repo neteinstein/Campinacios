@@ -152,14 +152,16 @@ def close_pages():
     if not OPEN_DIR.exists():
         sys.exit(f'Não existe {OPEN_DIR.name}/: corra primeiro "abrir".')
     key, files = site_key(ask('WIKINACIOS_PALAVRA_PASSE', 'Palavra-passe: '))
+    sealed = 0
     for path, text in files:
         src = OPEN_DIR / path.relative_to(DOCS)
         if src.exists():
             body = src.read_text(encoding='utf-8')
             path.write_text(BLOCK.sub(lambda _: seal_page(key, body), text,
                                       count=1), encoding='utf-8')
+            sealed += 1
     shutil.rmtree(OPEN_DIR)
-    print(f'{len(files)} páginas cifradas; {OPEN_DIR.name}/ apagada.')
+    print(f'{sealed} páginas cifradas; {OPEN_DIR.name}/ apagada.')
 
 
 if __name__ == '__main__':
