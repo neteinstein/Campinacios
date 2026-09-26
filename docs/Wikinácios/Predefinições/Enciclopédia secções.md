@@ -26,7 +26,7 @@
 |-
 | width=3%| 
 | style="border-bottom: 1px dashed #AAAAAA;" | '''[[Áreas Restrictas]]'''<br>
-[[Restrito à DN|Direcção Nacional]] &middot; [[Restrito aos Directores|Directores]] &middot; [[Staff]]
+[[:Category:Locais de Acampamento|Locais de Campo]]
 |-
 | width=3%| 
 | style="border-bottom: 1px dashed #AAAAAA;" | '''[[Campinácios|Amigos]]'''<br>
@@ -45,7 +45,7 @@
 [[Legislação |Legislação de Acampamentos Ocasionais]]
 |-
 | width=3%| 
-| style="border-bottom: 1px dashed #AAAAAA;" | '''[[Staff]]'''<br>
+| style="border-bottom: 1px dashed #AAAAAA;" | '''Staff'''<br>
 [[Usuário:Neteinstein|Pedro Vicente]] &middot; [[Usuário:Tnbahia|Tiago Bahia]]
 |-
 | width=3%| 

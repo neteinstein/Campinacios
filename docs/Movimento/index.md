@@ -28,6 +28,5 @@ História, organização, colégios, manuais e outros artigos sobre o movimento.
 - [Participante](Participante.md)
 - [Pedro José](Pedro%20Jos%C3%A9.md)
 - [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
-- [Staff](Staff.md)
 - [Temas do Ano](Temas%20do%20Ano.md)
 - [Vocabulário](Vocabul%C3%A1rio.md)

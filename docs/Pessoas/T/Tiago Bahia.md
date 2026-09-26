@@ -37,10 +37,11 @@ E-mail: Coordenador@Campinacios.org
 ## Páginas que ligam para aqui
 
 - [Baza](../../Acampamentos/2007/Baza.md)
+- [Conteúdos](../../Wikin%C3%A1cios/Ajuda/Conte%C3%BAdos.md)
 - [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md)
 - [Long Tao](../../Acampamentos/2006/Long%20Tao.md)
+- [Protected page guidelines](../../Wikin%C3%A1cios/Protected%20page%20guidelines.md)
 - [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
-- [Staff](../../Movimento/Staff.md)
 - [Survivor](../../Acampamentos/2009/Survivor.md)
 - [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md)
 

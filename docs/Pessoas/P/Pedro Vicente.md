@@ -87,6 +87,7 @@ E-mail: Pedro@Campinacios.org
 ## Páginas que ligam para aqui
 
 - [Caminho](../../Acampamentos/2009/Caminho.md)
+- [Conteúdos](../../Wikin%C3%A1cios/Ajuda/Conte%C3%BAdos.md)
 - [Encontro Nacional de 2007](../../Encontros/Encontro%20Nacional%20de%202007.md)
 - [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md)
 - [Filipe Barroso](../F/Filipe%20Barroso.md)
@@ -96,8 +97,8 @@ E-mail: Pedro@Campinacios.org
 - [OrienTu](../../Acampamentos/2008/OrienTu.md)
 - [Patos](../../Acampamentos/2004/Patos.md)
 - [Portal comunitário](../../Wikin%C3%A1cios/Portal%20comunit%C3%A1rio.md)
+- [Protected page guidelines](../../Wikin%C3%A1cios/Protected%20page%20guidelines.md)
 - [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
-- [Staff](../../Movimento/Staff.md)
 - [Tnbahia](../../Wikin%C3%A1cios/Discuss%C3%A3o/Utilizador%20Tnbahia.md)
 - [Walkabout](../../Acampamentos/2010/Walkabout.md)
 
