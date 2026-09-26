@@ -1,6 +1,6 @@
 # Todos os artigos
 
-656 artigos e, em itálico, os 112 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+657 artigos e, em itálico, os 112 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -98,6 +98,7 @@
 - [Bora Bora](Acampamentos/2007/Bora%20Bora.md)
 - [Bruno Azevedo](Pessoas/B/Bruno%20Azevedo.md)
 - [Bruno Costa](Pessoas/B/Bruno%20Costa.md)
+- [Bruno Nobre](Pessoas/B/Bruno%20Nobre.md)
 - [Bublix](Acampamentos/2009/Bublix.md)
 
 ## C
