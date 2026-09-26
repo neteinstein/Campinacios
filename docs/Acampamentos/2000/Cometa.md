@@ -1,13 +1,3 @@
----
-title: "Cometa"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2000"
-wiki_id: 585
-last_edited: "2009-12-03T12:51:22Z"
-last_editor: "Tnbahia"
----
-
 # Cometa
 
 ### Animadores
@@ -24,4 +14,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2000](../../Categorias/Acampamentos%20de%202000.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2000](../../Categorias/Acampamentos%20de%202000.md) |

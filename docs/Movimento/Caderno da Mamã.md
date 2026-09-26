@@ -1,12 +1,3 @@
----
-title: "Caderno da Mamã"
-categories:
-  - "Manuais"
-wiki_id: 444
-last_edited: "2009-01-25T21:49:10Z"
-last_editor: "Tnbahia"
----
-
 # Caderno da Mamã
 
 O Caderno da Mamã tem como objectivo reunir conselhos práticos e dicas para ajudar qualquer [Mamã](../Cargos/Mam%C3%A3.md) de campo. Inclui imensas receitas, os seus ingredientes e formas de preparar da forma mais funcional. A primeira versão surgiu em Abril de 1993 e chamava-se Culinácia.
@@ -19,4 +10,6 @@ O Caderno da Mamã tem como objectivo reunir conselhos práticos e dicas para aj
 
 ---
 
-**Categorias:** [Manuais](../Categorias/Manuais.md)
+| Categorias |
+| --- |
+| [Manuais](../Categorias/Manuais.md) |

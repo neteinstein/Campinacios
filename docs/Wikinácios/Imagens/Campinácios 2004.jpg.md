@@ -1,10 +1,3 @@
----
-title: "Campinácios 2004.jpg"
-wiki_id: 405
-last_edited: "2009-01-25T03:09:48Z"
-last_editor: "Neteinstein"
----
-
 # Campinácios 2004.jpg
 
 Logótipo dos Campinácios em 2004

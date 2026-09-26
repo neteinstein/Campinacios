@@ -1,15 +1,3 @@
----
-title: "Eduardo Rodrigues"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-  - "Direcção Local do CC"
-  - "Direcção Nacional"
-wiki_id: 634
-last_edited: "2009-02-07T19:51:20Z"
-last_editor: "Tnbahia"
----
-
 # Eduardo Rodrigues
 
 Eduardo Rodrigues, também conhecido por Zinho, é animador do CC.
@@ -42,4 +30,9 @@ Eduardo Rodrigues, também conhecido por Zinho, é animador do CC.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) · [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |
+| [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |

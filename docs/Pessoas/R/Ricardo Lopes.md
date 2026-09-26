@@ -1,13 +1,3 @@
----
-title: "Ricardo Lopes"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 590
-last_edited: "2009-02-01T18:35:22Z"
-last_editor: "Tnbahia"
----
-
 # Ricardo Lopes
 
 Ricardo Machado Couto Sousa Lopes, nascido a 10 de Setembro de 1980 é animador do CC.
@@ -34,4 +24,7 @@ Ricardo Machado Couto Sousa Lopes, nascido a 10 de Setembro de 1980 é animador 
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

@@ -1,14 +1,3 @@
----
-title: "Fibrovital"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1996"
-  - "Bicicletas"
-wiki_id: 938
-last_edited: "2009-12-06T23:29:06Z"
-last_editor: "Tnbahia"
----
-
 # Fibrovital
 
 O Fibrovital decorreu em [Quinta da Gorda (Ferreira do Zêzere)](../../Restrito/Locais%20de%20Acampamento/Quinta%20da%20Gorda%20%28Ferreira%20do%20Z%C3%AAzere%29.md), sendo um acampamento de [Bicicletas](../../Categorias/Bicicletas.md).
@@ -29,4 +18,8 @@ O Fibrovital decorreu em [Quinta da Gorda (Ferreira do Zêzere)](../../Restrito/
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1996](../../Categorias/Acampamentos%20de%201996.md) · [Bicicletas](../../Categorias/Bicicletas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1996](../../Categorias/Acampamentos%20de%201996.md) |
+| [Bicicletas](../../Categorias/Bicicletas.md) |

@@ -1,12 +1,3 @@
----
-title: "Trotinetas"
-categories:
-  - "Acampamentos"
-wiki_id: 82
-last_edited: "2009-01-21T21:53:37Z"
-last_editor: "Neteinstein"
----
-
 # Trotinetas
 
 Acampamentos do escalão Trotinetas - Alunos do 7º e 8º anos de escolaridade
@@ -73,4 +64,6 @@ Acampamentos do escalão Trotinetas - Alunos do 7º e 8º anos de escolaridade
 
 ---
 
-**Categorias:** [Acampamentos](Acampamentos.md)
+| Categorias |
+| --- |
+| [Acampamentos](Acampamentos.md) |

@@ -1,17 +1,3 @@
----
-title: "Génesis 2003 d.C."
-aliases:
-  - "Genesis"
-  - "Génesis"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2003"
-  - "Bicicletas"
-wiki_id: 275
-last_edited: "2009-02-15T15:01:11Z"
-last_editor: "Neteinstein"
----
-
 # Génesis 2003 d.C.
 
 O Génesis foi um acampamento de Bicicletas que decorreu de 2 a 11 de Setembro de 2003 na [Quinta da Ponte (Faia)](../../Restrito/Locais%20de%20Acampamento/Quinta%20da%20Ponte%20%28Faia%29.md).
@@ -49,4 +35,10 @@ O Génesis foi um acampamento de Bicicletas que decorreu de 2 a 11 de Setembro d
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2003](../../Categorias/Acampamentos%20de%202003.md) · [Bicicletas](../../Categorias/Bicicletas.md)
+**Outros nomes:** Genesis · Génesis
+
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2003](../../Categorias/Acampamentos%20de%202003.md) |
+| [Bicicletas](../../Categorias/Bicicletas.md) |

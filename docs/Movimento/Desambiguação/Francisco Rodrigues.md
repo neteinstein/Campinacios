@@ -1,12 +1,3 @@
----
-title: "Francisco Rodrigues"
-categories:
-  - "Desambiguação"
-wiki_id: 142
-last_edited: "2009-01-23T21:14:07Z"
-last_editor: "Neteinstein"
----
-
 # Francisco Rodrigues
 
 ---
@@ -26,4 +17,6 @@ Se uma ligação interna o conduziu até aqui, sugerimos que a corrija para apon
 
 ---
 
-**Categorias:** [Desambiguação](../../Categorias/Desambigua%C3%A7%C3%A3o.md)
+| Categorias |
+| --- |
+| [Desambiguação](../../Categorias/Desambigua%C3%A7%C3%A3o.md) |

@@ -1,17 +1,3 @@
----
-title: "António Sant'Ana"
-aliases:
-  - "António Santana"
-categories:
-  - "Jesuítas"
-  - "Direcção Local do CAIC"
-  - "Direcção Nacional"
-  - "Assistentes Nacionais"
-wiki_id: 956
-last_edited: "2009-12-05T21:34:31Z"
-last_editor: "Neteinstein"
----
-
 # António Sant'Ana
 
 António Sant'Ana sj pertenceu à DL-CAIC sendo posteriormente Assistente Nacional
@@ -40,4 +26,11 @@ António Sant'Ana sj pertenceu à DL-CAIC sendo posteriormente Assistente Nacion
 
 ---
 
-**Categorias:** [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) · [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) · [Assistentes Nacionais](../../Categorias/Assistentes%20Nacionais.md)
+**Outros nomes:** António Santana
+
+| Categorias |
+| --- |
+| [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |
+| [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |
+| [Assistentes Nacionais](../../Categorias/Assistentes%20Nacionais.md) |

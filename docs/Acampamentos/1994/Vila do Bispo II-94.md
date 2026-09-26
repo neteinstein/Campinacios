@@ -1,14 +1,3 @@
----
-title: "Vila do Bispo II/94"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1994"
-  - "Bicicletas"
-wiki_id: 389
-last_edited: "2009-02-15T14:51:24Z"
-last_editor: "Neteinstein"
----
-
 # Vila do Bispo II/94
 
 Este acampamento de [Bicicletas](../../Categorias/Bicicletas.md) decorreu de 9 a 18 de Agosto de 1994 em [Vila Boa do Bispo (Marco de Canaveses)](../../Restrito/Locais%20de%20Acampamento/Vila%20Boa%20do%20Bispo%20%28Marco%20de%20Canaveses%29.md).
@@ -34,4 +23,8 @@ Este acampamento de [Bicicletas](../../Categorias/Bicicletas.md) decorreu de 9 a
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1994](../../Categorias/Acampamentos%20de%201994.md) · [Bicicletas](../../Categorias/Bicicletas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1994](../../Categorias/Acampamentos%20de%201994.md) |
+| [Bicicletas](../../Categorias/Bicicletas.md) |

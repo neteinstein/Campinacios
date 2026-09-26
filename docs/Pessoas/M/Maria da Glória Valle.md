@@ -1,16 +1,3 @@
----
-title: "Maria da Glória Valle"
-aliases:
-  - "Góinha"
-  - "Góinha Valle"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 465
-last_edited: "2009-01-30T17:00:32Z"
-last_editor: "Neteinstein"
----
-
 # Maria da Glória Valle
 
 ### Acampamentos
@@ -28,4 +15,9 @@ last_editor: "Neteinstein"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+**Outros nomes:** Góinha · Góinha Valle
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

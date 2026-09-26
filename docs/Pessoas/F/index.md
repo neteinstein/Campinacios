@@ -1,7 +1,3 @@
----
-title: "F"
----
-
 # F
 
 - [Fernando Miguel Guimarães](Fernando%20Miguel%20Guimar%C3%A3es.md)

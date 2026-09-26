@@ -1,13 +1,3 @@
----
-title: "João Pessoa"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 535
-last_edited: "2009-05-28T15:29:05Z"
-last_editor: "Neteinstein"
----
-
 # João Pessoa
 
 João Pessoa foi desde 1990 dos animadores do Colégio da Imaculada Conceição.
@@ -34,4 +24,7 @@ Foi também professor de Educação Física do CAIC.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

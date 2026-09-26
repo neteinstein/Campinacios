@@ -1,12 +1,3 @@
----
-title: "Temas do Ano"
-aliases:
-  - "Tema do ano"
-wiki_id: 68
-last_edited: "2010-04-27T07:30:47Z"
-last_editor: "ABarroso"
----
-
 # Temas do Ano
 
 ## Temas do Ano
@@ -35,3 +26,7 @@ last_editor: "ABarroso"
 | 2008 | <ul><li>O Essencial és Tu!</li></ul> |
 | 2009 | <ul> <li>Quem és Tu Senhor?</li> </ul> |
 | 2010 | <ul> <li>Quero ficar em Tua casa.</li></ul> |
+
+---
+
+**Outros nomes:** Tema do ano

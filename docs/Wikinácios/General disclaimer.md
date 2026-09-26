@@ -1,10 +1,3 @@
----
-title: "General disclaimer"
-wiki_id: 382
-last_edited: "2009-01-24T18:13:54Z"
-last_editor: "Neteinstein"
----
-
 # General disclaimer
 
 A **Wiki @ Campinácios** é uma enciclopédia *online* de conteúdo aberto, isto é, uma associação voluntária de indivíduos e grupos que estão desenvolvendo um repositório comum do conhecimento humano. Sua estrutura permite que qualquer indivíduo com uma conexão à Internet e um navegador *web* possa alterar o conteúdo aqui encontrado. Portanto, por favor, esteja ciente de que nenhum conteúdo aqui encontrado foi necessariamente revisado por profissionais capacitados especificamente nas áreas de conhecimento necessárias, de modo a poder providenciar informações completas, precisas e credíveis sobre qualquer assunto na Wiki @ Campinácios.

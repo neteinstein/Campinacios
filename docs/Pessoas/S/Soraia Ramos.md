@@ -1,13 +1,3 @@
----
-title: "Soraia Ramos"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 630
-last_edited: "2009-02-18T00:42:17Z"
-last_editor: "Neteinstein"
----
-
 # Soraia Ramos
 
 Soraia Ramos, é desde 2003 uma das animadoras do Colégio das Caldinhas
@@ -36,4 +26,7 @@ Soraia Ramos, é desde 2003 uma das animadoras do Colégio das Caldinhas
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

@@ -1,14 +1,3 @@
----
-title: "Andreia Pereira"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-  - "Direcção Local do CC"
-wiki_id: 196
-last_edited: "2010-08-19T17:26:30Z"
-last_editor: "Tnbahia"
----
-
 # Andreia Pereira
 
 Andreia Maria Lopes dos Santos da Costa Pereira, nascida a 22 de Maio de 1984, é animadora do CC.
@@ -44,4 +33,8 @@ Andreia Maria Lopes dos Santos da Costa Pereira, nascida a 22 de Maio de 1984, �
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) · [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |
+| [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) |

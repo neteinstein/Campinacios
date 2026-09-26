@@ -1,12 +1,3 @@
----
-title: "Acampamentos de 1995"
-categories:
-  - "Acampamentos"
-wiki_id: 321
-last_edited: "2009-01-24T02:58:03Z"
-last_editor: "Neteinstein"
----
-
 # Acampamentos de 1995
 
 Acampamentos realizados em 1995
@@ -22,4 +13,6 @@ Acampamentos realizados em 1995
 
 ---
 
-**Categorias:** [Acampamentos](Acampamentos.md)
+| Categorias |
+| --- |
+| [Acampamentos](Acampamentos.md) |

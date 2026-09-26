@@ -1,15 +1,3 @@
----
-title: "Joana Martins"
-aliases:
-  - "Caramela"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 217
-last_edited: "2009-08-08T10:55:27Z"
-last_editor: "Neteinstein"
----
-
 # Joana Martins
 
 Joana Maria da Silva Martins, nascida a 4 de Outubro de 1985, é animadora do CC.
@@ -44,4 +32,9 @@ Joana Maria da Silva Martins, nascida a 4 de Outubro de 1985, é animadora do CC
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+**Outros nomes:** Caramela
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

@@ -1,13 +1,3 @@
----
-title: "Guadalupe Oliveira"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 709
-last_edited: "2009-12-09T17:12:23Z"
-last_editor: "Tnbahia"
----
-
 # Guadalupe Oliveira
 
 ### Acampamentos
@@ -23,4 +13,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

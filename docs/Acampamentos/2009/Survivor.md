@@ -1,14 +1,3 @@
----
-title: "Survivor"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2009"
-  - "Bicicletas"
-wiki_id: 896
-last_edited: "2009-08-20T22:18:08Z"
-last_editor: "Tnbahia"
----
-
 # Survivor
 
 O Survivor decorreu entre os dias 10 e 19 de Agosto de 2009 no [Lugar do Vau (Celorico de Basto)](../../Restrito/Locais%20de%20Acampamento/Lugar%20do%20Vau%20%28Celorico%20de%20Basto%29.md), sendo um acampamento de [Bicicletas](../../Categorias/Bicicletas.md).
@@ -43,4 +32,8 @@ O Survivor decorreu entre os dias 10 e 19 de Agosto de 2009 no [Lugar do Vau (Ce
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2009](../../Categorias/Acampamentos%20de%202009.md) · [Bicicletas](../../Categorias/Bicicletas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2009](../../Categorias/Acampamentos%20de%202009.md) |
+| [Bicicletas](../../Categorias/Bicicletas.md) |

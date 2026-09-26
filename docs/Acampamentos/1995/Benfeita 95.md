@@ -1,14 +1,3 @@
----
-title: "Benfeita 95"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1995"
-  - "Triciclos"
-wiki_id: 577
-last_edited: "2009-12-06T22:26:37Z"
-last_editor: "Tnbahia"
----
-
 # Benfeita 95
 
 Este acampamento de [Triciclos](../../Categorias/Triciclos.md) decorreu em [Benfeita](../../Restrito/Locais%20de%20Acampamento/Benfeita%20%28Arganil%29.md) de 19 a 29 de Julho de 1995.
@@ -39,4 +28,8 @@ Este acampamento de [Triciclos](../../Categorias/Triciclos.md) decorreu em [Benf
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1995](../../Categorias/Acampamentos%20de%201995.md) · [Triciclos](../../Categorias/Triciclos.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1995](../../Categorias/Acampamentos%20de%201995.md) |
+| [Triciclos](../../Categorias/Triciclos.md) |

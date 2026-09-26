@@ -1,14 +1,3 @@
----
-title: "Lambretas 94"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1994"
-  - "Lambretas"
-wiki_id: 367
-last_edited: "2009-02-15T14:51:20Z"
-last_editor: "Neteinstein"
----
-
 # Lambretas 94
 
 Este acampamento de [Lambretas](../../Categorias/Lambretas.md) decorreu de 27 de Julho a 5 de Agosto de 1994 em [Vila Boa do Bispo (Marco de Canaveses)](../../Restrito/Locais%20de%20Acampamento/Vila%20Boa%20do%20Bispo%20%28Marco%20de%20Canaveses%29.md).
@@ -27,4 +16,8 @@ Este acampamento de [Lambretas](../../Categorias/Lambretas.md) decorreu de 27 de
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1994](../../Categorias/Acampamentos%20de%201994.md) · [Lambretas](../../Categorias/Lambretas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1994](../../Categorias/Acampamentos%20de%201994.md) |
+| [Lambretas](../../Categorias/Lambretas.md) |

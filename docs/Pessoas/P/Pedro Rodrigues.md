@@ -1,13 +1,3 @@
----
-title: "Pedro Rodrigues"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 323
-last_edited: "2009-02-07T15:39:39Z"
-last_editor: "Neteinstein"
----
-
 # Pedro Rodrigues
 
 Pedro Rodrigues foi de 2004 a 2006 um dos animadores do Colégio da Imaculada Conceição.
@@ -34,4 +24,7 @@ Pedro Rodrigues foi de 2004 a 2006 um dos animadores do Colégio da Imaculada Co
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

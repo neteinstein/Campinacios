@@ -1,10 +1,3 @@
----
-title: "Campinácios .jpg"
-wiki_id: 406
-last_edited: "2009-01-25T03:11:13Z"
-last_editor: "Neteinstein"
----
-
 # Campinácios .jpg
 
 Proposta de Logótipo de 2005

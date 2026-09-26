@@ -1,13 +1,3 @@
----
-title: "Ana Paula Gomes"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 850
-last_edited: "2009-09-25T16:35:10Z"
-last_editor: "Silvinha"
----
-
 # Ana Paula Gomes
 
 Ana Paula Gomes nasceu a 10 de Janeiro de 1991.
@@ -32,4 +22,7 @@ Frequentou o [CC](../../Movimento/CC.md) de 2000 a 2008. Animadora desde 2008 at
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

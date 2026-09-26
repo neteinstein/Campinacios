@@ -1,13 +1,3 @@
----
-title: "Inês Maury"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 800
-last_edited: "2009-12-06T21:42:55Z"
-last_editor: "Tnbahia"
----
-
 # Inês Maury
 
 ### Acampamentos
@@ -25,4 +15,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

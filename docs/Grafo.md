@@ -1,9 +1,3 @@
----
-title: "Grafo de ligações"
-hide:
-  - toc
----
-
 # Grafo de ligações
 
 Cada ponto é um artigo e cada linha uma ligação entre dois artigos. Passe

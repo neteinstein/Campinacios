@@ -1,10 +1,3 @@
----
-title: "Staff"
-wiki_id: 364
-last_edited: "2009-02-16T23:28:53Z"
-last_editor: "Neteinstein"
----
-
 # Staff
 
 Tal como na Wikipédia, que nos inspirou, toda a gente pode modificar este sítio, adicionando, removendo ou corrigindo informação. No entanto para assegurar a estabilidade do projecto algumas pessoas foram nomeadas como vigilantes. São estas:

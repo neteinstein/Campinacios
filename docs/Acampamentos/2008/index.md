@@ -1,7 +1,3 @@
----
-title: "2008"
----
-
 # 2008
 
 - [Arethë](Areth%C3%AB.md) — Trotinetas

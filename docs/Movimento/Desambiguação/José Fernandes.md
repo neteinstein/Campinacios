@@ -1,12 +1,3 @@
----
-title: "José Fernandes"
-categories:
-  - "Desambiguação"
-wiki_id: 101
-last_edited: "2009-02-01T17:08:48Z"
-last_editor: "Tnbahia"
----
-
 # José Fernandes
 
 ---
@@ -26,4 +17,6 @@ Se uma ligação interna o conduziu até aqui, sugerimos que a corrija para apon
 
 ---
 
-**Categorias:** [Desambiguação](../../Categorias/Desambigua%C3%A7%C3%A3o.md)
+| Categorias |
+| --- |
+| [Desambiguação](../../Categorias/Desambigua%C3%A7%C3%A3o.md) |

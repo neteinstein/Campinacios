@@ -1,10 +1,3 @@
----
-title: "Animador"
-wiki_id: 414
-last_edited: "2009-01-25T15:07:13Z"
-last_editor: "Neteinstein"
----
-
 # Animador
 
 *Animador, do latim: Anima (Alma) - dar movimento ao que é vivo.*

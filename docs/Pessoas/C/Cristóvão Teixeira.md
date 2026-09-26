@@ -1,16 +1,3 @@
----
-title: "Cristóvão Teixeira"
-aliases:
-  - "Cristovão Teixeira"
-  - "Kitó"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 884
-last_edited: "2009-06-03T11:09:23Z"
-last_editor: "Tnbahia"
----
-
 # Cristóvão Teixeira
 
 ### Acampamentos
@@ -36,4 +23,9 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+**Outros nomes:** Cristovão Teixeira · Kitó
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

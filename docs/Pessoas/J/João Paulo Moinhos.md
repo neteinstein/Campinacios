@@ -1,16 +1,3 @@
----
-title: "João Paulo Moinhos"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-  - "Direcção Local do CC"
-  - "Direcção Nacional"
-  - "Coordenadores Nacionais"
-wiki_id: 23
-last_edited: "2009-12-02T14:12:39Z"
-last_editor: "Tnbahia"
----
-
 # João Paulo Moinhos
 
 João Paulo Moinhos, nascido a 6 de Maio de 1963, é o elemento há mais tempo na Direcção dos Campinácios.
@@ -39,4 +26,10 @@ João Paulo Moinhos, nascido a 6 de Maio de 1963, é o elemento há mais tempo n
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) · [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) · [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |
+| [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |
+| [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md) |

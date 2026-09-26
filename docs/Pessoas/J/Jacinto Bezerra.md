@@ -1,14 +1,3 @@
----
-title: "Jacinto Bezerra"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-  - "Direcção Local do CC"
-wiki_id: 148
-last_edited: "2010-08-09T22:02:34Z"
-last_editor: "ABarroso"
----
-
 # Jacinto Bezerra
 
 Jacinto Bezerra, é animador do CC desde 2003.
@@ -48,4 +37,8 @@ Jacinto Bezerra, é animador do CC desde 2003.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) · [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |
+| [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) |

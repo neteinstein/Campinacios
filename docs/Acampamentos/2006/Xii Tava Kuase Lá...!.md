@@ -1,14 +1,3 @@
----
-title: "Xii Tava Kuase Lá...!"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2006"
-  - "Lambretas"
-wiki_id: 104
-last_edited: "2009-02-15T15:06:44Z"
-last_editor: "Neteinstein"
----
-
 # Xii Tava Kuase Lá...!
 
 Este acampamento de [Lambretas](../../Categorias/Lambretas.md) realizou em [Vila da Ponte](../../Restrito/Locais%20de%20Acampamento/Vila%20da%20Ponte%20%28Montalegre%29.md) (Montalegre).
@@ -66,4 +55,8 @@ Este acampamento de [Lambretas](../../Categorias/Lambretas.md) realizou em [Vila
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2006](../../Categorias/Acampamentos%20de%202006.md) · [Lambretas](../../Categorias/Lambretas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2006](../../Categorias/Acampamentos%20de%202006.md) |
+| [Lambretas](../../Categorias/Lambretas.md) |

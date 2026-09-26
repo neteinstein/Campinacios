@@ -1,12 +1,3 @@
----
-title: "Lambretas"
-categories:
-  - "Acampamentos"
-wiki_id: 64
-last_edited: "2009-01-19T22:07:08Z"
-last_editor: "Neteinstein"
----
-
 # Lambretas
 
 Acampamentos do escalão Lambretas - Alunos do 11º e 12º anos de escolaridade
@@ -55,4 +46,6 @@ Acampamentos do escalão Lambretas - Alunos do 11º e 12º anos de escolaridade
 
 ---
 
-**Categorias:** [Acampamentos](Acampamentos.md)
+| Categorias |
+| --- |
+| [Acampamentos](Acampamentos.md) |

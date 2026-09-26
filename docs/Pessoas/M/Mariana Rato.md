@@ -1,13 +1,3 @@
----
-title: "Mariana Rato"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 841
-last_edited: "2009-09-25T16:24:50Z"
-last_editor: "Neteinstein"
----
-
 # Mariana Rato
 
 Mariana Rato mais conhecida por Mimas ou Mimi.
@@ -29,4 +19,7 @@ Mariana Rato mais conhecida por Mimas ou Mimi.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

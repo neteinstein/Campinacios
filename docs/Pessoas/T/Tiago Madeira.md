@@ -1,13 +1,3 @@
----
-title: "Tiago Madeira"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 256
-last_edited: "2009-08-24T19:45:51Z"
-last_editor: "Tnbahia"
----
-
 # Tiago Madeira
 
 Tiago Madeira é um dos animadores do Colégio da Imaculada Conceição.
@@ -34,4 +24,7 @@ Tiago Madeira é um dos animadores do Colégio da Imaculada Conceição.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

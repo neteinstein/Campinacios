@@ -1,7 +1,3 @@
----
-title: "C"
----
-
 # C
 
 - [Camila Martins](Camila%20Martins.md)

@@ -1,14 +1,3 @@
----
-title: "Diogo Faria"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-  - "Direcção Local do CSJB"
-wiki_id: 618
-last_edited: "2009-02-05T00:54:55Z"
-last_editor: "Neteinstein"
----
-
 # Diogo Faria
 
 Diogo Faria foi de 2003 a 2006 animador do Colégio São João de Brito.
@@ -34,4 +23,8 @@ Diogo Faria foi de 2003 a 2006 animador do Colégio São João de Brito.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) · [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |
+| [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) |

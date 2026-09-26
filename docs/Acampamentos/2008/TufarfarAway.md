@@ -1,14 +1,3 @@
----
-title: "TufarfarAway"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2008"
-  - "Lambretas"
-wiki_id: 59
-last_edited: "2009-12-02T14:30:07Z"
-last_editor: "Tnbahia"
----
-
 # TufarfarAway
 
 O TufarfarAway foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) que decorreu entre 17 e 26 de Agosto de 2008 na [Murtinheira](../../Restrito/Locais%20de%20Acampamento/Murtinheira%20%28Vila%20Nova%20do%20Ceira%29.md).
@@ -57,4 +46,8 @@ O TufarfarAway foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) 
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2008](../../Categorias/Acampamentos%20de%202008.md) · [Lambretas](../../Categorias/Lambretas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2008](../../Categorias/Acampamentos%20de%202008.md) |
+| [Lambretas](../../Categorias/Lambretas.md) |

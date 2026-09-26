@@ -1,15 +1,3 @@
----
-title: "Diogo Cordeiro Ferreira"
-aliases:
-  - "Goga"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 511
-last_edited: "2009-12-06T17:28:09Z"
-last_editor: "Tnbahia"
----
-
 # Diogo Cordeiro Ferreira
 
 Diogo Cordeiro Ferreira, mais conhecido por Goga, é animador do CSJB.
@@ -39,4 +27,9 @@ Diogo Cordeiro Ferreira, mais conhecido por Goga, é animador do CSJB.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+**Outros nomes:** Goga
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

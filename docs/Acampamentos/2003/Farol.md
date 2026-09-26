@@ -1,14 +1,3 @@
----
-title: "Farol"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2003"
-  - "Trotinetas"
-wiki_id: 165
-last_edited: "2010-03-03T15:21:35Z"
-last_editor: "Bernardomen"
----
-
 # Farol
 
 O Farol foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) realizado no Lugar do Barco (Refóios do Lima).
@@ -51,4 +40,8 @@ O Farol foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) reali
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2003](../../Categorias/Acampamentos%20de%202003.md) · [Trotinetas](../../Categorias/Trotinetas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2003](../../Categorias/Acampamentos%20de%202003.md) |
+| [Trotinetas](../../Categorias/Trotinetas.md) |

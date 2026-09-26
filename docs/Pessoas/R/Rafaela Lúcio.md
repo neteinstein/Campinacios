@@ -1,13 +1,3 @@
----
-title: "Rafaela Lúcio"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 787
-last_edited: "2010-04-08T16:17:15Z"
-last_editor: "Neteinstein"
----
-
 # Rafaela Lúcio
 
 ### Acampamentos
@@ -23,4 +13,7 @@ last_editor: "Neteinstein"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

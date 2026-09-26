@@ -1,13 +1,3 @@
----
-title: "Paulo Braga"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 612
-last_edited: "2009-02-03T15:26:27Z"
-last_editor: "Tnbahia"
----
-
 # Paulo Braga
 
 ### Acampamentos
@@ -21,4 +11,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

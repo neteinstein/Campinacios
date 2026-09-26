@@ -1,14 +1,3 @@
----
-title: "Serrote"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1995"
-  - "Trotinetas"
-wiki_id: 448
-last_edited: "2009-02-11T00:45:44Z"
-last_editor: "Tnbahia"
----
-
 # Serrote
 
 O Serrote decorreu de 1 a 10 de Agosto de 1995.
@@ -29,4 +18,8 @@ O Serrote decorreu de 1 a 10 de Agosto de 1995.
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1995](../../Categorias/Acampamentos%20de%201995.md) · [Trotinetas](../../Categorias/Trotinetas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1995](../../Categorias/Acampamentos%20de%201995.md) |
+| [Trotinetas](../../Categorias/Trotinetas.md) |

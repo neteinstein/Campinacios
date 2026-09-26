@@ -1,10 +1,3 @@
----
-title: "Latrina"
-wiki_id: 911
-last_edited: "2009-12-03T12:56:13Z"
-last_editor: "Tnbahia"
----
-
 # Latrina
 
 A Latrina é um dos locais mais sensíveis do campo de férias e por isso deve ser tratada com o maior cuidado. Basta pensarmos que é, também, neste local, que temos que preservar as condições básicas de segurança e saúde de todos os que estamos no acampamento.

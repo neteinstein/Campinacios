@@ -1,16 +1,3 @@
----
-title: "Trolliciclos"
-aliases:
-  - "Troliciclos"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2004"
-  - "Triciclos"
-wiki_id: 151
-last_edited: "2009-02-15T21:59:49Z"
-last_editor: "Anaimmartins"
----
-
 # Trolliciclos
 
 O Trolliciclos foi um acampamento de Triciclos que decorreu em 2004 na [Sibana](../../Restrito/Locais%20de%20Acampamento/Sibana%20%28Vila%20Nova%20do%20Ceira%29.md)
@@ -46,4 +33,10 @@ O Trolliciclos foi um acampamento de Triciclos que decorreu em 2004 na [Sibana](
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2004](../../Categorias/Acampamentos%20de%202004.md) · [Triciclos](../../Categorias/Triciclos.md)
+**Outros nomes:** Troliciclos
+
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2004](../../Categorias/Acampamentos%20de%202004.md) |
+| [Triciclos](../../Categorias/Triciclos.md) |

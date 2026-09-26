@@ -1,13 +1,3 @@
----
-title: "Sérgio Lopes"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 254
-last_edited: "2009-01-23T18:52:26Z"
-last_editor: "Neteinstein"
----
-
 # Sérgio Lopes
 
 Sérgio Lopes é um dos animadores do Colégio da Imaculada Conceição.
@@ -36,4 +26,7 @@ Sérgio Lopes é um dos animadores do Colégio da Imaculada Conceição.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

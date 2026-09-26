@@ -1,19 +1,3 @@
----
-title: "Conceição Martinho"
-aliases:
-  - "São Martinho"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-  - "Direcção Local do CAIC"
-  - "Coordenador Local do CAIC"
-  - "Direcção Nacional"
-  - "Coordenadores Nacionais"
-wiki_id: 326
-last_edited: "2009-02-15T01:15:02Z"
-last_editor: "Neteinstein"
----
-
 # Conceição Martinho
 
 Conceição Martinho, mais conhecida por São Martinho foi uma das animadoras do Colégio da Imaculada Conceição.
@@ -62,4 +46,13 @@ Conceição Martinho, mais conhecida por São Martinho foi uma das animadoras do
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) · [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) · [Coordenador Local do CAIC](../../Categorias/Coordenador%20Local%20do%20CAIC.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) · [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md)
+**Outros nomes:** São Martinho
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |
+| [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) |
+| [Coordenador Local do CAIC](../../Categorias/Coordenador%20Local%20do%20CAIC.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |
+| [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md) |

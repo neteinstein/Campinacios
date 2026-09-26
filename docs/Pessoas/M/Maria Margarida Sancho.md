@@ -1,13 +1,3 @@
----
-title: "Maria Margarida Sancho"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 782
-last_edited: "2009-12-06T23:41:41Z"
-last_editor: "Tnbahia"
----
-
 # Maria Margarida Sancho
 
 ### Acampamentos
@@ -21,4 +11,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

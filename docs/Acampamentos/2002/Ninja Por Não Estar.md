@@ -1,14 +1,3 @@
----
-title: "Ninja Por Não Estar"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2002"
-  - "Bicicletas"
-wiki_id: 292
-last_edited: "2009-12-06T18:32:14Z"
-last_editor: "Tnbahia"
----
-
 # Ninja Por Não Estar
 
 O Ninja Por Não Estar foi um acampamento de Bicicletas que decorreu de 1 a 10 de Setembro de 2002 na Herdade da [Machoqueira do Grou](../../Restrito/Locais%20de%20Acampamento/Machoqueira%20do%20Grou%20%28Santar%C3%A9m%29.md).
@@ -43,4 +32,8 @@ O Ninja Por Não Estar foi um acampamento de Bicicletas que decorreu de 1 a 10 d
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2002](../../Categorias/Acampamentos%20de%202002.md) · [Bicicletas](../../Categorias/Bicicletas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2002](../../Categorias/Acampamentos%20de%202002.md) |
+| [Bicicletas](../../Categorias/Bicicletas.md) |

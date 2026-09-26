@@ -1,14 +1,3 @@
----
-title: "Megafona"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2005"
-  - "Trotinetas"
-wiki_id: 112
-last_edited: "2009-12-23T19:22:33Z"
-last_editor: "Tnbahia"
----
-
 # Megafona
 
 Megafona foi um acampamento de Trotinetas que se realizou em [Digueifel](../../Restrito/Locais%20de%20Acampamento/Digueifel%20%28Arganil%29.md)
@@ -33,4 +22,8 @@ Megafona foi um acampamento de Trotinetas que se realizou em [Digueifel](../../R
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2005](../../Categorias/Acampamentos%20de%202005.md) · [Trotinetas](../../Categorias/Trotinetas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2005](../../Categorias/Acampamentos%20de%202005.md) |
+| [Trotinetas](../../Categorias/Trotinetas.md) |

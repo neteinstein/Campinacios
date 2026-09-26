@@ -1,12 +1,3 @@
----
-title: "Coordenadores Nacionais"
-categories:
-  - "Direcção Nacional"
-wiki_id: 341
-last_edited: "2010-04-26T15:58:17Z"
-last_editor: "Neteinstein"
----
-
 # Coordenadores Nacionais
 
 O Coordenador Nacional era um elemento escolhido entre os membros efectivos da Direcção Nacional, actualmente é um elemento extra-Direcção Nacional, que já tenha feito parte nos anos anteriores da mesma de preferência.
@@ -54,4 +45,6 @@ Coordena os trabalhos da Direcção, coordena e gere a comunicação entre as 3 
 
 ---
 
-**Categorias:** [Direcção Nacional](Direc%C3%A7%C3%A3o%20Nacional.md)
+| Categorias |
+| --- |
+| [Direcção Nacional](Direc%C3%A7%C3%A3o%20Nacional.md) |

@@ -1,13 +1,3 @@
----
-title: "Tiago Figueira"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 756
-last_edited: "2009-04-22T00:22:52Z"
-last_editor: "Edu"
----
-
 # Tiago Figueira
 
 ## Páginas que ligam para aqui
@@ -20,4 +10,7 @@ last_editor: "Edu"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

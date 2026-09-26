@@ -1,14 +1,3 @@
----
-title: "Rebordosa"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1993"
-  - "Triciclos"
-wiki_id: 399
-last_edited: "2010-04-03T17:40:01Z"
-last_editor: "Ritags"
----
-
 # Rebordosa
 
 Este acampamento de [Triciclos](../../Categorias/Triciclos.md) decorreu em Julho de 1993, em Rebordosa - Penacova.
@@ -32,4 +21,8 @@ Este acampamento de [Triciclos](../../Categorias/Triciclos.md) decorreu em Julho
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1993](../../Categorias/Acampamentos%20de%201993.md) · [Triciclos](../../Categorias/Triciclos.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1993](../../Categorias/Acampamentos%20de%201993.md) |
+| [Triciclos](../../Categorias/Triciclos.md) |

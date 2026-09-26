@@ -1,7 +1,3 @@
----
-title: "Piadas"
----
-
 # Piadas
 
 ## Páginas nesta categoria (1)

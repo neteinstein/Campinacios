@@ -1,14 +1,3 @@
----
-title: "Regresso a Alvoco II"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1998"
-  - "Triciclos"
-wiki_id: 222
-last_edited: "2009-02-15T14:55:22Z"
-last_editor: "Neteinstein"
----
-
 # Regresso a Alvoco II
 
 Este acampamento decorreu em [Alvoco das Várzeas](../../Restrito/Locais%20de%20Acampamento/Alvoco%20das%20V%C3%A1rzeas%20%28Oliveira%20do%20Hospital%29.md)
@@ -32,4 +21,8 @@ Este acampamento decorreu em [Alvoco das Várzeas](../../Restrito/Locais%20de%20
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1998](../../Categorias/Acampamentos%20de%201998.md) · [Triciclos](../../Categorias/Triciclos.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1998](../../Categorias/Acampamentos%20de%201998.md) |
+| [Triciclos](../../Categorias/Triciclos.md) |

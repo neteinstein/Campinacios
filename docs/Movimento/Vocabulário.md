@@ -1,12 +1,3 @@
----
-title: "Vocabulário"
-categories:
-  - "História"
-wiki_id: 415
-last_edited: "2009-09-07T14:25:39Z"
-last_editor: "Neteinstein"
----
-
 # Vocabulário
 
 Aqui se apresentam alguns termos utilizados num acampamento que são úteis à sua compreensão:
@@ -24,4 +15,6 @@ Aqui se apresentam alguns termos utilizados num acampamento que são úteis à s
 
 ---
 
-**Categorias:** [História](../Categorias/Hist%C3%B3ria.md)
+| Categorias |
+| --- |
+| [História](../Categorias/Hist%C3%B3ria.md) |

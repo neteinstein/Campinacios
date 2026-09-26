@@ -193,11 +193,7 @@ FOLDER_INTROS = {
 SITE_URL = 'https://neteinstein.github.io/Campinacios/'
 ABOUT_PAGE = 'docs/Wikinácios/Sobre este arquivo.md'
 ALL_PAGES = 'docs/Todos os artigos.md'
-ABOUT_TEXT = '''---
-title: "Sobre este arquivo"
----
-
-# Sobre este arquivo
+ABOUT_TEXT = '''# Sobre este arquivo
 
 A Wikinácios foi a wiki dos Campinácios, criada em 2009 durante a
 Revolução Campinácios v2.0 e mantida em MediaWiki. Este site foi gerado a
@@ -206,12 +202,14 @@ partir da cópia de segurança da base de dados MySQL da wiki pelo script
 
 ## O que foi convertido
 
-- A versão mais recente de cada página pública, em Markdown.
+- A versão mais recente de cada página, em Markdown (as restritas cifradas,
+  ver abaixo).
 - Os redireccionamentos foram resolvidos: as ligações apontam directamente
-  para a página de destino, e os nomes alternativos ficam em `aliases` no
-  cabeçalho de cada ficheiro.
+  para a página de destino, e os nomes alternativos ficam em *Outros nomes*,
+  no fim de cada página.
 - As categorias têm uma página própria com a lista dos seus membros, e cada
-  página mostra as páginas que ligam para ela.
+  página mostra, no fim, as páginas que ligam para ela e uma tabela com as
+  suas categorias.
 - As páginas estão organizadas por pastas: acampamentos por ano, pessoas
   por inicial, encontros, cargos, movimento, categorias e as páginas sobre
   a própria wiki. [Todos os artigos](../Todos%20os%20artigos.md) lista-as
@@ -243,7 +241,8 @@ tentar adivinhá-la sem limite, por isso deve ser longa e aleatória.
 ## O que ficou de fora
 
 - Contas de utilizador, palavras-passe, registos, páginas apagadas e o
-  histórico de revisões.
+  histórico de revisões, incluindo o autor e a data da última edição de
+  cada página.
 - A página "Main Page", que era a página de instalação do MediaWiki.
 - As imagens: o backup só tem a base de dados, por isso as páginas das
   imagens mostram apenas a descrição e os dados do ficheiro original.
@@ -378,13 +377,7 @@ Na página da categoria-mãe, acrescente a subcategoria à secção
 Estão cifradas e não se editam no GitHub. Ver
 [Sobre este arquivo](../Sobre%20este%20arquivo.md#páginas-restritas).
 '''
-GRAPH_TEXT = '''---
-title: "Grafo de ligações"
-hide:
-  - toc
----
-
-# Grafo de ligações
+GRAPH_TEXT = '''# Grafo de ligações
 
 Cada ponto é um artigo e cada linha uma ligação entre dois artigos. Passe
 o cursor por cima de um ponto para ver o nome, clique para abrir o artigo,
@@ -959,20 +952,17 @@ def iso(ts):
         '%Y-%m-%dT%H:%M:%SZ')
 
 
-def front_matter(fields):
-    out = ['---']
-    for key, val in fields.items():
-        if val in (None, [], ''):
-            continue
-        if isinstance(val, list):
-            out.append(f'{key}:')
-            out += [f'  - {yaml_str(v)}' for v in val]
-        elif isinstance(val, int):
-            out.append(f'{key}: {val}')
-        else:
-            out.append(f'{key}: {yaml_str(val)}')
-    out.append('---')
-    return '\n'.join(out)
+def page_footer(aliases, category_links):
+    """The other names of a page and a table of its categories, closing it.
+
+    Pages carry no front matter: GitHub shows it as a table at the top."""
+    out = []
+    if aliases:
+        out.append('**Outros nomes:** ' + ' · '.join(aliases))
+    if category_links:
+        out.append('| Categorias |\n| --- |\n' + '\n'.join(
+            f'| {link} |' for link in category_links))
+    return '---\n\n' + '\n\n'.join(out) if out else ''
 
 
 def md_link(label, from_path, to_path, anchor=''):
@@ -993,10 +983,8 @@ def main(dump, root='.', password=None):
     for r in data['mw_page']:
         rev = revisions[int(r[9])]
         ns, title = int(r[1]), normalize_title(decode(r[2]))
-        pages[(ns, title)] = dict(
-            id=int(r[0]), redirect=r[5] == '1',
-            text=decode(texts[int(rev[2])]),
-            timestamp=rev[6].decode(), editor=decode(rev[5]))
+        pages[(ns, title)] = dict(redirect=r[5] == '1',
+                                  text=decode(texts[int(rev[2])]))
 
     images = {}
     for r in data['mw_image']:
@@ -1039,15 +1027,14 @@ def main(dump, root='.', password=None):
             body, cats = conv.convert(p['text'], title)
         if key == HELP_PAGE:  # how to edit is now a GitHub matter
             body = body.split(HELP_SECTION)[0] + HELP_TEXT.strip()
-        notes[key] = dict(page=p, body=body, categories=cats)
+        notes[key] = dict(body=body, categories=cats)
 
     members = defaultdict(list)
     for key, note in notes.items():
         for c in note['categories']:
             members[c].append(key)
     for c in members:  # categories used without a page of their own
-        notes.setdefault((CATEGORY_NS, c),
-                         dict(page=None, body='', categories=[]))
+        notes.setdefault((CATEGORY_NS, c), dict(body='', categories=[]))
 
     # 2. What was restricted on the wiki is encrypted; without a password it
     # is left out.
@@ -1151,22 +1138,11 @@ def main(dump, root='.', password=None):
                 shutil.rmtree(child) if child.is_dir() else child.unlink()
     for key, note in sorted(notes.items()):
         ns, title = key
-        p, path = note['page'], paths[key]
-        fields = {
-            'title': title_of(key),
-            'hide': (['navigation', 'toc'] if key == home else
-                     ['toc'] if key in private else None),
-            'aliases': sorted(aliases.get(key, [])),
-            'categories': note['categories'],
-            'wiki_id': p['id'] if p else None,
-            'last_edited': iso(p['timestamp']) if p else None,
-            'last_editor': p['editor'] if p else None,
-        }
-        parts = [front_matter(fields)]
+        path = paths[key]
         if key == home:
-            parts.append(render_links(layout.page(articles), None, path))
+            parts = [render_links(layout.page(articles), None, path)]
         else:
-            parts.append(f'# {title}')
+            parts = [f'# {title}']
         rest = []  # everything under the title
         body = render_links(note['body'], key, path)
         if body and key != home:
@@ -1194,9 +1170,10 @@ def main(dump, root='.', password=None):
             rest.append(f'## {BACKLINKS}\n\n' + '\n'.join(
                 '- ' + link_to(k, path) for k in refs))
         cats = [c for c in note['categories'] if (CATEGORY_NS, c) in notes]
-        if cats:
-            rest.append('---\n\n**Categorias:** ' + ' · '.join(
-                link_to((CATEGORY_NS, c), path, c) for c in cats))
+        footer = page_footer(sorted(aliases.get(key, [])), [
+            link_to((CATEGORY_NS, c), path, c) for c in cats])
+        if footer:
+            rest.append(footer)
         if key in private:
             parts.append(restrito.seal_page(cipher, '\n\n'.join(rest)))
         else:
@@ -1222,7 +1199,7 @@ def main(dump, root='.', password=None):
             f'- *{alias}* → {link_to(k, ALL_PAGES)}' if alias
             else f'- {link_to(k, ALL_PAGES)}')
     (root / ALL_PAGES).write_text('\n\n'.join(
-        [front_matter({'title': 'Todos os artigos'}), '# Todos os artigos',
+        ['# Todos os artigos',
          f'{articles - 1} artigos e, em itálico, os '
          f'{len(entries) - articles + 1} nomes alternativos que apontam para '
          'eles, como na página especial "Todas as páginas" da wiki.'
@@ -1245,7 +1222,7 @@ def main(dump, root='.', password=None):
     for folder in sorted(folders):
         index = f'{folder}/index.md'
         name = posixpath.basename(folder)
-        parts = [front_matter({'title': name}), f'# {name}']
+        parts = [f'# {name}']
         if name in FOLDER_INTROS:
             parts.append(FOLDER_INTROS[name])
         subs = sorted(f for f in folders if posixpath.dirname(f) == folder)

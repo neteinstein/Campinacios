@@ -1,7 +1,3 @@
----
-title: "2010"
----
-
 # 2010
 
 - [Ed mais 10](Ed%20mais%2010.md) — Triciclos

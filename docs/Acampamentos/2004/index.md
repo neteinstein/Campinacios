@@ -1,7 +1,3 @@
----
-title: "2004"
----
-
 # 2004
 
 - [Descola](Descola.md) — Bicicletas

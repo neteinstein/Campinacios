@@ -1,18 +1,3 @@
----
-title: "Gonçalo Vaz Pedro"
-aliases:
-  - "GVP"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-  - "Direcção Local do CAIC"
-  - "Coordenador Local do CAIC"
-  - "Direcção Nacional"
-wiki_id: 239
-last_edited: "2010-09-20T13:27:33Z"
-last_editor: "Neteinstein"
----
-
 # Gonçalo Vaz Pedro
 
 Gonçalo Vaz Pedro, é desde 2006, um dos animadores do Colégio da Imaculada Conceição.
@@ -53,4 +38,12 @@ Gonçalo Vaz Pedro, é desde 2006, um dos animadores do Colégio da Imaculada Co
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) · [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) · [Coordenador Local do CAIC](../../Categorias/Coordenador%20Local%20do%20CAIC.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
+**Outros nomes:** GVP
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |
+| [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) |
+| [Coordenador Local do CAIC](../../Categorias/Coordenador%20Local%20do%20CAIC.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |

@@ -1,7 +1,3 @@
----
-title: "Sobre este arquivo"
----
-
 # Sobre este arquivo
 
 A Wikinácios foi a wiki dos Campinácios, criada em 2009 durante a
@@ -11,12 +7,14 @@ partir da cópia de segurança da base de dados MySQL da wiki pelo script
 
 ## O que foi convertido
 
-- A versão mais recente de cada página pública, em Markdown.
+- A versão mais recente de cada página, em Markdown (as restritas cifradas,
+  ver abaixo).
 - Os redireccionamentos foram resolvidos: as ligações apontam directamente
-  para a página de destino, e os nomes alternativos ficam em `aliases` no
-  cabeçalho de cada ficheiro.
+  para a página de destino, e os nomes alternativos ficam em *Outros nomes*,
+  no fim de cada página.
 - As categorias têm uma página própria com a lista dos seus membros, e cada
-  página mostra as páginas que ligam para ela.
+  página mostra, no fim, as páginas que ligam para ela e uma tabela com as
+  suas categorias.
 - As páginas estão organizadas por pastas: acampamentos por ano, pessoas
   por inicial, encontros, cargos, movimento, categorias e as páginas sobre
   a própria wiki. [Todos os artigos](../Todos%20os%20artigos.md) lista-as
@@ -48,7 +46,8 @@ tentar adivinhá-la sem limite, por isso deve ser longa e aleatória.
 ## O que ficou de fora
 
 - Contas de utilizador, palavras-passe, registos, páginas apagadas e o
-  histórico de revisões.
+  histórico de revisões, incluindo o autor e a data da última edição de
+  cada página.
 - A página "Main Page", que era a página de instalação do MediaWiki.
 - As imagens: o backup só tem a base de dados, por isso as páginas das
   imagens mostram apenas a descrição e os dados do ficheiro original.

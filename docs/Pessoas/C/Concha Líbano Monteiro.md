@@ -1,16 +1,3 @@
----
-title: "Concha Líbano Monteiro"
-aliases:
-  - "Concha Macedo"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-  - "Direcção Nacional"
-wiki_id: 951
-last_edited: "2010-04-26T15:05:28Z"
-last_editor: "Neteinstein"
----
-
 # Concha Líbano Monteiro
 
 É agora conhecida por Concha Macedo.
@@ -39,4 +26,10 @@ last_editor: "Neteinstein"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
+**Outros nomes:** Concha Macedo
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |

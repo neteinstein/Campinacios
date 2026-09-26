@@ -1,12 +1,3 @@
----
-title: "Diogo Carneiro"
-categories:
-  - "Desambiguação"
-wiki_id: 289
-last_edited: "2009-02-15T15:30:00Z"
-last_editor: "Neteinstein"
----
-
 # Diogo Carneiro
 
 ---
@@ -31,4 +22,6 @@ Se uma [ligação interna](Diogo%20Carneiro.md#páginas-que-ligam-para-aqui) o c
 
 ---
 
-**Categorias:** [Desambiguação](../../Categorias/Desambigua%C3%A7%C3%A3o.md)
+| Categorias |
+| --- |
+| [Desambiguação](../../Categorias/Desambigua%C3%A7%C3%A3o.md) |

@@ -1,10 +1,3 @@
----
-title: "Contactos"
-wiki_id: 429
-last_edited: "2009-12-03T12:54:11Z"
-last_editor: "Tnbahia"
----
-
 # Contactos
 
 ## Staff Wikinácios

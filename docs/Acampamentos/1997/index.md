@@ -1,7 +1,3 @@
----
-title: "1997"
----
-
 # 1997
 
 - [Aranha](Aranha.md) — Bicicletas

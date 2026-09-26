@@ -1,13 +1,3 @@
----
-title: "Mafalda Pereira"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 199
-last_edited: "2009-06-03T11:14:46Z"
-last_editor: "Tnbahia"
----
-
 # Mafalda Pereira
 
 ### Acampamentos
@@ -39,4 +29,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

@@ -1,16 +1,3 @@
----
-title: "João Freire de Andrade"
-aliases:
-  - "Jonifa"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-  - "Direcção Local do CSJB"
-wiki_id: 509
-last_edited: "2010-07-11T14:31:01Z"
-last_editor: "Neteinstein"
----
-
 # João Freire de Andrade
 
 João Freire de Andrade é desde 2006 um dos animadores do Colégio São João de Brito.
@@ -43,4 +30,10 @@ João Freire de Andrade é desde 2006 um dos animadores do Colégio São João d
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) · [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
+**Outros nomes:** Jonifa
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |
+| [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) |

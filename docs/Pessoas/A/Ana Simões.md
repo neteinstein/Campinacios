@@ -1,15 +1,3 @@
----
-title: "Ana Simões"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-  - "Direcção Local do CAIC"
-  - "Direcção Nacional"
-wiki_id: 262
-last_edited: "2010-07-12T22:01:39Z"
-last_editor: "Edu"
----
-
 # Ana Simões
 
 Ana Simões é, desde 2004, um dos animadores do Colégio da Imaculada Conceição.
@@ -54,4 +42,9 @@ Ana Simões é, desde 2004, um dos animadores do Colégio da Imaculada Conceiç�
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) · [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |
+| [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |

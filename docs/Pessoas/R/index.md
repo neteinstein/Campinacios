@@ -1,7 +1,3 @@
----
-title: "R"
----
-
 # R
 
 - [Rafaela Lúcio](Rafaela%20L%C3%BAcio.md)

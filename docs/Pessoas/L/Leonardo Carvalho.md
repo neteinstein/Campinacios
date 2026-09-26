@@ -1,13 +1,3 @@
----
-title: "Leonardo Carvalho"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 809
-last_edited: "2009-06-08T00:47:24Z"
-last_editor: "Neteinstein"
----
-
 # Leonardo Carvalho
 
 ### Acampamentos
@@ -38,4 +28,7 @@ last_editor: "Neteinstein"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

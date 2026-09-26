@@ -1,7 +1,3 @@
----
-title: "Restrito"
----
-
 # Restrito
 
 Páginas que na wiki eram de acesso restrito (Direcção Nacional e Directores). O conteúdo das páginas marcadas com 🔒 está cifrado e só pode ser lido com a palavra-passe.

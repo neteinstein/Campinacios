@@ -1,16 +1,3 @@
----
-title: "Joana Ferreira da Silva"
-aliases:
-  - "Joana Silva"
-  - "Joana Viana Lopes"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 802
-last_edited: "2009-06-08T00:45:00Z"
-last_editor: "Neteinstein"
----
-
 # Joana Ferreira da Silva
 
 Joana Silva ou,depois de casada, Joana Viana Lopes.
@@ -44,4 +31,9 @@ Joana Silva ou,depois de casada, Joana Viana Lopes.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+**Outros nomes:** Joana Silva · Joana Viana Lopes
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

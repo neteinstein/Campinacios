@@ -1,12 +1,3 @@
----
-title: "Acampamentos de 1998"
-categories:
-  - "Acampamentos"
-wiki_id: 167
-last_edited: "2009-01-21T21:50:25Z"
-last_editor: "Neteinstein"
----
-
 # Acampamentos de 1998
 
 Acampamentos realizados em 1998
@@ -24,4 +15,6 @@ Acampamentos realizados em 1998
 
 ---
 
-**Categorias:** [Acampamentos](Acampamentos.md)
+| Categorias |
+| --- |
+| [Acampamentos](Acampamentos.md) |

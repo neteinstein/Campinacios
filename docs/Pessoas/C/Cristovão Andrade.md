@@ -1,14 +1,3 @@
----
-title: "Cristovão Andrade"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-  - "Jesuítas"
-wiki_id: 216
-last_edited: "2009-02-11T01:35:51Z"
-last_editor: "Tnbahia"
----
-
 # Cristovão Andrade
 
 ### Acampamentos
@@ -32,4 +21,8 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) · [Jesuítas](../../Categorias/Jesu%C3%ADtas.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |
+| [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |

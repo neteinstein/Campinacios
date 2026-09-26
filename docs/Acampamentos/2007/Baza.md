@@ -1,14 +1,3 @@
----
-title: "Baza"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2007"
-  - "Bicicletas"
-wiki_id: 95
-last_edited: "2009-12-02T14:29:42Z"
-last_editor: "Tnbahia"
----
-
 # Baza
 
 Baza foi um acampamento de Bicicletas realizado de 7 a 16 de Agosto na [Murtinheira](../../Restrito/Locais%20de%20Acampamento/Murtinheira%20%28Vila%20Nova%20do%20Ceira%29.md).
@@ -47,4 +36,8 @@ Baza foi um acampamento de Bicicletas realizado de 7 a 16 de Agosto na [Murtinhe
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2007](../../Categorias/Acampamentos%20de%202007.md) · [Bicicletas](../../Categorias/Bicicletas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2007](../../Categorias/Acampamentos%20de%202007.md) |
+| [Bicicletas](../../Categorias/Bicicletas.md) |

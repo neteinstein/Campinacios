@@ -1,10 +1,3 @@
----
-title: "ParaEducarMelhor.PNG"
-wiki_id: 976
-last_edited: "2010-04-12T16:05:22Z"
-last_editor: "ABarroso"
----
-
 # ParaEducarMelhor.PNG
 
 ### Título

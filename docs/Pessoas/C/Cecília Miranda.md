@@ -1,13 +1,3 @@
----
-title: "Cecília Miranda"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 273
-last_edited: "2010-08-09T22:04:41Z"
-last_editor: "ABarroso"
----
-
 # Cecília Miranda
 
 Cecília Miranda é desde 2005, uma das animadoras do Colégio da Imaculada Conceição.
@@ -42,4 +32,7 @@ Cecília Miranda é desde 2005, uma das animadoras do Colégio da Imaculada Conc
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

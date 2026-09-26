@@ -1,13 +1,3 @@
----
-title: "Helena Pais"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 494
-last_edited: "2009-12-09T17:20:56Z"
-last_editor: "Tnbahia"
----
-
 # Helena Pais
 
 ### Acampamentos
@@ -26,4 +16,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

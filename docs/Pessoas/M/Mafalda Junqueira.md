@@ -1,13 +1,3 @@
----
-title: "Mafalda Junqueira"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 614
-last_edited: "2009-02-07T20:13:13Z"
-last_editor: "Tnbahia"
----
-
 # Mafalda Junqueira
 
 ### Acampamentos
@@ -29,4 +19,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

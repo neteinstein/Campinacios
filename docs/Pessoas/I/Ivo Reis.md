@@ -1,13 +1,3 @@
----
-title: "Ivo Reis"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 156
-last_edited: "2009-01-21T15:20:06Z"
-last_editor: "Neteinstein"
----
-
 # Ivo Reis
 
 Ivo Reis, é um dos animadores do Colégio da Imaculada Conceição.
@@ -34,4 +24,7 @@ Ivo Reis, é um dos animadores do Colégio da Imaculada Conceição.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

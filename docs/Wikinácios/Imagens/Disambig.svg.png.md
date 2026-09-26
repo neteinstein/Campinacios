@@ -1,10 +1,3 @@
----
-title: "Disambig.svg.png"
-wiki_id: 291
-last_edited: "2009-01-23T21:30:10Z"
-last_editor: "Neteinstein"
----
-
 # Disambig.svg.png
 
 > **Ficheiro original não incluído no backup.** image/png, 220×168 px, 4,665 bytes — carregado por Neteinstein em 2009-01-23.

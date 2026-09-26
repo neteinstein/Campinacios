@@ -1,14 +1,3 @@
----
-title: "OPA"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2007"
-  - "Trotinetas"
-wiki_id: 4
-last_edited: "2009-04-20T17:13:56Z"
-last_editor: "Neteinstein"
----
-
 # OPA
 
 O OPA foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que decorreu entre 5 e 14 de Agosto em [Serpins](../../Restrito/Locais%20de%20Acampamento/Ribeira%20do%20Conde%20%28Serpins%29.md).
@@ -160,4 +149,8 @@ http://OPA07.blogspot.com *OPA 07*
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2007](../../Categorias/Acampamentos%20de%202007.md) · [Trotinetas](../../Categorias/Trotinetas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2007](../../Categorias/Acampamentos%20de%202007.md) |
+| [Trotinetas](../../Categorias/Trotinetas.md) |

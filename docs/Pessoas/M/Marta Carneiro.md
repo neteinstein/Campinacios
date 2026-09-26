@@ -1,15 +1,3 @@
----
-title: "Marta Carneiro"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-  - "Direcção Local do CAIC"
-  - "Direcção Nacional"
-wiki_id: 194
-last_edited: "2010-07-11T14:29:02Z"
-last_editor: "Neteinstein"
----
-
 # Marta Carneiro
 
 Marta Oliveira Cerejeira Carneiro, nascida a 30 de Janeiro de 1982 é desde 1999 uma das animadoras do Colégio das Caldinhas
@@ -58,4 +46,9 @@ Marta Oliveira Cerejeira Carneiro, nascida a 30 de Janeiro de 1982 é desde 1999
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) · [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |
+| [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |

@@ -1,14 +1,3 @@
----
-title: "Walkabout"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2010"
-  - "Lambretas"
-wiki_id: 988
-last_edited: "2010-08-27T16:22:32Z"
-last_editor: "Neteinstein"
----
-
 # Walkabout
 
 O Walkabout decorreu entre os dias 29 de Julho e dia 7 de Agosto de 2010. Foi o segundo campo de [Lambretas](../../Categorias/Lambretas.md) volante.
@@ -42,4 +31,8 @@ Originalmente a palavra walkabout referia-se a um rito de passagem que os aborig
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2010](../../Categorias/Acampamentos%20de%202010.md) · [Lambretas](../../Categorias/Lambretas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2010](../../Categorias/Acampamentos%20de%202010.md) |
+| [Lambretas](../../Categorias/Lambretas.md) |

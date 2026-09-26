@@ -1,10 +1,3 @@
----
-title: "Campinácios 2000.jpg"
-wiki_id: 404
-last_edited: "2009-01-25T03:08:24Z"
-last_editor: "Neteinstein"
----
-
 # Campinácios 2000.jpg
 
 Logótipo dos Campinácios em 2000

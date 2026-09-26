@@ -1,12 +1,3 @@
----
-title: "Pica"
-categories:
-  - "Desambiguação"
-wiki_id: 56
-last_edited: "2009-08-23T16:08:51Z"
-last_editor: "Tnbahia"
----
-
 # Pica
 
 ---
@@ -35,4 +26,6 @@ Se uma [ligação interna](Pica.md#páginas-que-ligam-para-aqui) o conduziu até
 
 ---
 
-**Categorias:** [Desambiguação](../../Categorias/Desambigua%C3%A7%C3%A3o.md)
+| Categorias |
+| --- |
+| [Desambiguação](../../Categorias/Desambigua%C3%A7%C3%A3o.md) |

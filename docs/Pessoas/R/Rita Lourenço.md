@@ -1,13 +1,3 @@
----
-title: "Rita Lourenço"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 263
-last_edited: "2009-01-24T18:00:03Z"
-last_editor: "Neteinstein"
----
-
 # Rita Lourenço
 
 Rita Lourenço é desde 2005 uma das animadoras do Colégio da Imaculada Conceição.
@@ -31,4 +21,7 @@ Rita Lourenço é desde 2005 uma das animadoras do Colégio da Imaculada Concei�
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

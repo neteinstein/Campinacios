@@ -1,10 +1,3 @@
----
-title: "Em destaque"
-wiki_id: 355
-last_edited: "2009-02-14T15:22:44Z"
-last_editor: "Neteinstein"
----
-
 # Em destaque
 
 ```text

@@ -1,12 +1,3 @@
----
-title: "Acampamentos de 2008"
-categories:
-  - "Acampamentos"
-wiki_id: 6
-last_edited: "2009-01-19T00:25:40Z"
-last_editor: "Admin"
----
-
 # Acampamentos de 2008
 
 Acampamentos de 2008
@@ -25,4 +16,6 @@ Acampamentos de 2008
 
 ---
 
-**Categorias:** [Acampamentos](Acampamentos.md)
+| Categorias |
+| --- |
+| [Acampamentos](Acampamentos.md) |

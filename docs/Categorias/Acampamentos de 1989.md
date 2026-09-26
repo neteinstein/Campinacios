@@ -1,12 +1,3 @@
----
-title: "Acampamentos de 1989"
-categories:
-  - "Acampamentos"
-wiki_id: 315
-last_edited: "2009-01-24T02:56:45Z"
-last_editor: "Neteinstein"
----
-
 # Acampamentos de 1989
 
 Acampamentos realizados em 1989 ainda antes da denominação Campinácios ser criada
@@ -19,4 +10,6 @@ Acampamentos realizados em 1989 ainda antes da denominação Campinácios ser cr
 
 ---
 
-**Categorias:** [Acampamentos](Acampamentos.md)
+| Categorias |
+| --- |
+| [Acampamentos](Acampamentos.md) |

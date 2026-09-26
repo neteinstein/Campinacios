@@ -1,13 +1,3 @@
----
-title: "Filipa Caldas"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 720
-last_edited: "2009-12-06T18:07:59Z"
-last_editor: "Tnbahia"
----
-
 # Filipa Caldas
 
 Filipa Maria Gomes Pereira Lemos Caldas, conhecida por Pipa e também por Caldinhas, antiga aluna do Colégio S. João de Brito, é animadora dos Campinácios desde 2008.
@@ -31,4 +21,7 @@ Filipa Maria Gomes Pereira Lemos Caldas, conhecida por Pipa e também por Caldin
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

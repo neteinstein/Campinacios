@@ -1,12 +1,3 @@
----
-title: "Acampamentos de 2002"
-categories:
-  - "Acampamentos"
-wiki_id: 170
-last_edited: "2009-01-21T21:50:46Z"
-last_editor: "Neteinstein"
----
-
 # Acampamentos de 2002
 
 Acampamentos realizados em 2002
@@ -21,4 +12,6 @@ Acampamentos realizados em 2002
 
 ---
 
-**Categorias:** [Acampamentos](Acampamentos.md)
+| Categorias |
+| --- |
+| [Acampamentos](Acampamentos.md) |

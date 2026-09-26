@@ -1,18 +1,3 @@
----
-title: "Shampum de Pessêgo"
-aliases:
-  - "Shampo de Pessêgo"
-  - "Shampo de Pêssego"
-  - "Shampo de pêssego"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2001"
-  - "Lambretas"
-wiki_id: 186
-last_edited: "2010-04-04T16:27:57Z"
-last_editor: "Ritags"
----
-
 # Shampum de Pessêgo
 
 ### Animadores
@@ -44,4 +29,10 @@ last_editor: "Ritags"
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2001](../../Categorias/Acampamentos%20de%202001.md) · [Lambretas](../../Categorias/Lambretas.md)
+**Outros nomes:** Shampo de Pessêgo · Shampo de Pêssego · Shampo de pêssego
+
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2001](../../Categorias/Acampamentos%20de%202001.md) |
+| [Lambretas](../../Categorias/Lambretas.md) |

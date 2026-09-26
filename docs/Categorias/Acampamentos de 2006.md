@@ -1,12 +1,3 @@
----
-title: "Acampamentos de 2006"
-categories:
-  - "Acampamentos"
-wiki_id: 173
-last_edited: "2009-01-21T21:51:08Z"
-last_editor: "Neteinstein"
----
-
 # Acampamentos de 2006
 
 Acampamentos realizados em 2006
@@ -22,4 +13,6 @@ Acampamentos realizados em 2006
 
 ---
 
-**Categorias:** [Acampamentos](Acampamentos.md)
+| Categorias |
+| --- |
+| [Acampamentos](Acampamentos.md) |

@@ -1,13 +1,3 @@
----
-title: "Sara Fernandes"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 280
-last_edited: "2010-08-09T22:04:03Z"
-last_editor: "ABarroso"
----
-
 # Sara Fernandes
 
 Sara Fernandes mais conhecida por Duda é desde 2008, uma das animadoras do Colégio da Imaculada Conceição.
@@ -37,4 +27,7 @@ Sara Fernandes mais conhecida por Duda é desde 2008, uma das animadoras do Col�
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

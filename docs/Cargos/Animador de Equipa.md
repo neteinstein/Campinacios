@@ -1,15 +1,3 @@
----
-title: "Animador de Equipa"
-aliases:
-  - "Animadora de Equipa"
-  - "Animadores de Equipa"
-categories:
-  - "Cargos"
-wiki_id: 420
-last_edited: "2009-01-25T21:21:41Z"
-last_editor: "Neteinstein"
----
-
 # Animador de Equipa
 
 - É aquele que anima, que estimula, que faz agir e que deve ao mesmo tempo ser educador.
@@ -314,4 +302,8 @@ last_editor: "Neteinstein"
 
 ---
 
-**Categorias:** [Cargos](../Categorias/Cargos.md)
+**Outros nomes:** Animadora de Equipa · Animadores de Equipa
+
+| Categorias |
+| --- |
+| [Cargos](../Categorias/Cargos.md) |

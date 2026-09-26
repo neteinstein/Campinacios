@@ -1,10 +1,3 @@
----
-title: "CSJB"
-wiki_id: 412
-last_edited: "2009-02-08T11:18:30Z"
-last_editor: "Tnbahia"
----
-
 # CSJB
 
 O Colégio S. João de Brito é titular do alvará nº 980, em regime de Autonomia Pedagógica por tempo indeterminado, certificado pelo Decreto-Lei 553/80 art. 35º, alínea d.

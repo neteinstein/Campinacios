@@ -1,14 +1,3 @@
----
-title: "OrienTu"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2008"
-  - "Bicicletas"
-wiki_id: 3
-last_edited: "2009-02-16T22:44:40Z"
-last_editor: "Neteinstein"
----
-
 # OrienTu
 
 [🖼️ Logótipo do OrienTu](../../Wikin%C3%A1cios/Imagens/OrienTu.jpg.md)
@@ -157,4 +146,8 @@ O nome veio da junção de "Oriente" e do tema do ano, ou parte dele "Tu"... Ori
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2008](../../Categorias/Acampamentos%20de%202008.md) · [Bicicletas](../../Categorias/Bicicletas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2008](../../Categorias/Acampamentos%20de%202008.md) |
+| [Bicicletas](../../Categorias/Bicicletas.md) |

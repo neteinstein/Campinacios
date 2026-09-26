@@ -1,14 +1,3 @@
----
-title: "Mikelin Descobre a Vida"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2004"
-  - "Lambretas"
-wiki_id: 123
-last_edited: "2009-12-06T17:08:56Z"
-last_editor: "Tnbahia"
----
-
 # Mikelin Descobre a Vida
 
 O Mikelin Descobre a Vida foi um campo de Lambretas que decorreu de 16 a 25 de Agosto de 2004 em [Fonte de Nena](../../Restrito/Locais%20de%20Acampamento/Fonte%20de%20Nena%20%28Caldelas%29.md) (Caldelas).
@@ -56,4 +45,8 @@ O Mikelin Descobre a Vida foi um campo de Lambretas que decorreu de 16 a 25 de A
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2004](../../Categorias/Acampamentos%20de%202004.md) · [Lambretas](../../Categorias/Lambretas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2004](../../Categorias/Acampamentos%20de%202004.md) |
+| [Lambretas](../../Categorias/Lambretas.md) |
