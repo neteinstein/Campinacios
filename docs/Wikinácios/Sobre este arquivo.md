@@ -64,7 +64,7 @@ tentar adivinhá-la sem limite, por isso deve ser longa e aleatória.
 
 Os ficheiros Markdown em `docs/` são agora a fonte do site e podem ser
 editados directamente no GitHub: ver
-[Como adicionar conteúdo?](Ajuda/Conte%C3%BAdos.md#como-adicionar-conteúdo).
+[Como adicionar conteúdo?](Conte%C3%BAdos.md#como-adicionar-conteúdo).
 O site é construído com
 [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) e publicado
 no GitHub Pages pela GitHub Action em `.github/workflows/pages.yml` a cada

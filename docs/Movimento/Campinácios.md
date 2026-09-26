@@ -86,7 +86,7 @@ Após este encontro, os CAMPINÁCIOS como movimento foi ganhando alguma estabili
 
 ## Páginas que ligam para aqui
 
-- [Conteúdos](../Wikin%C3%A1cios/Ajuda/Conte%C3%BAdos.md)
+- [Conteúdos](../Wikin%C3%A1cios/Conte%C3%BAdos.md)
 - [Florinhas](../Acampamentos/1994/Florinhas.md)
 - [Gambozinos](Gambozinos.md)
 - [Jambo 99](../Acampamentos/1999/Jambo%2099.md)

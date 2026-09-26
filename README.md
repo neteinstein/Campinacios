@@ -2,9 +2,9 @@
 
 > Arquivo da **Wikinácios**, a wiki dos Campinácios (2009–2010), convertida para Markdown e publicada como site em <https://neteinstein.github.io/Campinacios/>. Como foi feito, como o publicar e como ler as páginas restritas: [Sobre este arquivo](docs/Wikin%C3%A1cios/Sobre%20este%20arquivo.md).
 
-[Bem-vindo(a)](docs/Movimento/Boas-vindas.md) à **Wikinacios**, a enciclopédia livre sobre Campinácios que [(quase) todos podem editar](docs/Wikin%C3%A1cios/Ajuda/Conte%C3%BAdos.md).
+[Bem-vindo(a)](docs/Movimento/Boas-vindas.md) à **Wikinacios**, a enciclopédia livre sobre Campinácios que [(quase) todos podem editar](docs/Wikin%C3%A1cios/Conte%C3%BAdos.md).
 
-[Boas-vindas](docs/Movimento/Boas-vindas.md) | [Ajuda](docs/Wikin%C3%A1cios/Ajuda/Conte%C3%BAdos.md) | [Perguntas Frequentes](docs/Movimento/FAQ.md) | [Contactos](docs/Movimento/Contactos.md)
+[Boas-vindas](docs/Movimento/Boas-vindas.md) | [Ajuda](docs/Wikin%C3%A1cios/Conte%C3%BAdos.md) | [Perguntas Frequentes](docs/Movimento/FAQ.md) | [Contactos](docs/Movimento/Contactos.md)
 
 ## Explorar
 
@@ -17,7 +17,7 @@
 - [Sobre a wiki](docs/Wikin%C3%A1cios/index.md)
 - [Todos os artigos](docs/Todos%20os%20artigos.md)
 - [Grafo de ligações](docs/Grafo.md)
-- [Enviar informação sobre um acampamento ou uma pessoa](docs/Wikin%C3%A1cios/Ajuda/Conte%C3%BAdos.md#enviar-informacao)
+- [Enviar informação sobre um acampamento ou uma pessoa](docs/Wikin%C3%A1cios/Conte%C3%BAdos.md#enviar-informacao)
 
 ## Secções
 
