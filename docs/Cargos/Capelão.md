@@ -94,6 +94,7 @@
 - [Luís Onofre](../Pessoas/L/Lu%C3%ADs%20Onofre.md)
 - [M&M](../Acampamentos/2007/M%26M.md)
 - [Manual de Funções](../Movimento/Manual%20de%20Fun%C3%A7%C3%B5es.md)
+- [Manual do Director](../Movimento/Manual%20do%20Director.md)
 - [Manuel Paiva](../Pessoas/M/Manuel%20Paiva.md)
 - [Metrópole](../Acampamentos/2004/Metr%C3%B3pole.md)
 - [Mikelin Descobre a Vida](../Acampamentos/2004/Mikelin%20Descobre%20a%20Vida.md)

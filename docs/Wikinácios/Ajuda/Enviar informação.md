@@ -1,8 +1,8 @@
 # Enviar informação
 
 Sabe alguma coisa sobre um acampamento ou uma pessoa que falta na
-Wikinácios, ou que está errada? Envie-a por um destes modelos e o Staff
-põe-na no site. Preencha só o que souber.
+Wikinácios, ou que está errada? Envie-a por um destes modelos e os
+[Contribuidores](../Contribuidores.md) põem-na no site. Preencha só o que souber.
 
 ## Com conta no GitHub
 
@@ -27,11 +27,11 @@ O que se envia assim fica público no GitHub. Não escreva contactos
 nem nomes de participantes menores de idade, e só envie informação sobre
 outra pessoa se ela concordar. As fichas dos locais de acampamento são
 páginas restritas: as indicações, coordenadas e contactos vão sempre em
-privado ao Staff, nunca num destes pedidos.
+privado aos Contribuidores, nunca num destes pedidos.
 
 ## Sem conta no GitHub
 
-Copie o modelo, preencha o que souber e envie-o a alguém do Staff:
+Copie o modelo, preencha o que souber e envie-o a alguém dos [Contribuidores](../Contribuidores.md):
 [Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md) ou
 [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md).
 
@@ -93,7 +93,7 @@ Acampamentos que lá se fizeram (um por linha, "Ano - Acampamento"):
 De onde vem esta informação:
 ```
 
-Este modelo pode ir directamente ao Staff com as indicações e os
+Este modelo pode ir directamente aos Contribuidores com as indicações e os
 contactos, porque é enviado em privado — nunca os escreva num pedido do
 GitHub.
 

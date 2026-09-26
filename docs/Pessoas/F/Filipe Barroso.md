@@ -33,6 +33,7 @@ smith_4u@hotmail.com
 ## Páginas que ligam para aqui
 
 - [Bublix](../../Acampamentos/2009/Bublix.md)
+- [Contribuidores](../../Wikin%C3%A1cios/Contribuidores.md)
 - [Em Busca da CaraBela](../../Acampamentos/2006/Em%20Busca%20da%20CaraBela.md)
 - [Eureka](../../Acampamentos/2008/Eureka.md)
 - [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)

@@ -36,11 +36,11 @@ Não se toleram alterações persistentes de 2 utilizadores no mesmo artigo, ima
 Estamos numa ditadura, as imposições feitas pelos administradores deste sítio são lei.
 
 **5. Quem manda?**<br>
-O Staff: [Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md) e [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md).
+Os [Contribuidores](../Contribuidores.md): [Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md) e [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md).
 
 ## Como adicionar conteúdo?
 
-Não tem conta no GitHub, ou prefere não mexer nos ficheiros? [Envie a informação](Enviar%20informa%C3%A7%C3%A3o.md) por um formulário ou por um modelo de texto, e o Staff põe-na no site.
+Não tem conta no GitHub, ou prefere não mexer nos ficheiros? [Envie a informação](Enviar%20informa%C3%A7%C3%A3o.md) por um formulário ou por um modelo de texto, e os [Contribuidores](../Contribuidores.md) põem-na no site.
 
 A Wikinácios já não corre em MediaWiki: é um site feito a partir dos
 ficheiros do repositório
@@ -51,9 +51,9 @@ dentro da pasta `docs/`, e o site actualiza-se sozinho um ou dois minutos
 depois de cada alteração entrar no ramo `main`.
 
 Para editar é preciso uma conta no GitHub, que é gratuita. Quem tem
-permissão de escrita no repositório (o Staff: [Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md) e [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md))
+permissão de escrita no repositório (os [Contribuidores](../Contribuidores.md): [Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md) e [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md))
 grava as alterações directamente. Os outros fazem uma proposta de alteração
-(*pull request*) que o Staff revê e aceita: as regras acima continuam a
+(*pull request*) que os Contribuidores revêem e aceitam: as regras acima continuam a
 valer.
 
 ### Como se edita um artigo?
@@ -146,7 +146,7 @@ bloco), cole-o no ficheiro e substitua o que está entre `« »`. Apague as
 linhas de que não sabe nada, em vez de as deixar vazias ou de inventar.
 
 Sem conta no GitHub? Reúna a mesma informação e
-[envie-a](Enviar%20informa%C3%A7%C3%A3o.md) ao Staff.
+[envie-a](Enviar%20informa%C3%A7%C3%A3o.md) aos Contribuidores.
 
 - [Acampamento novo, com a equipa de animação](#acampamento-novo)
 - [Pessoa nova](#pessoa-nova)
@@ -174,7 +174,7 @@ Sem conta no GitHub? Reúna a mesma informação e
     - **Nome igual não quer dizer mesma pessoa.** Há dois Gonçalo Carvalho e
       três Miguel Martins. Se já há um artigo com o nome e é outra pessoa,
       não crie outro com o mesmo nome: use o nome completo (mais um nome ou
-      apelido) e fale com o Staff.
+      apelido) e fale com os Contribuidores.
     - **Cargos sempre com o nome completo**, um destes e com a ligação para
       a página do cargo: [Director](../../Cargos/Director.md) (ou
       Directora), [Director-Adjunto](../../Cargos/Director-Adjunto.md) (ou
@@ -200,8 +200,8 @@ Sem conta no GitHub? Reúna a mesma informação e
       participantes menores de idade. Sobre outra pessoa, só com o acordo
       dela. O GitHub guarda o histórico de todas as alterações, por isso o
       que se grava fica lá mesmo depois de apagado.
-    - **Não invente.** O que não se sabe fica de fora; o Staff prefere um
-      artigo curto a um artigo com dúvidas.
+    - **Não invente.** O que não se sabe fica de fora; os Contribuidores
+      preferem um artigo curto a um artigo com dúvidas.
     - **As ligações vão nos dois sentidos.** Quando um artigo passa a ligar
       para outro, este ganha a ligação de volta em *Páginas que ligam para
       aqui*, por ordem alfabética.
@@ -450,9 +450,9 @@ No artigo da pessoa (`docs/Pessoas/«Inicial»/«Nome».md`):
 
 As fichas dos locais de acampamento, com as indicações, os contactos e o
 mapa, são [páginas restritas](../Sobre%20este%20arquivo.md#páginas-restritas):
-estão cifradas e só o Staff as edita, com a palavra-passe. Quem não é do
-Staff envia a informação **em privado** a alguém do Staff, nunca num pedido
-(*issue*) do GitHub, que é público.
+estão cifradas e só os Contribuidores as editam, com a palavra-passe. Quem
+não é dos Contribuidores envia a informação **em privado** a alguém dos
+Contribuidores, nunca num pedido (*issue*) do GitHub, que é público.
 
 Ficheiro: `docs/Restrito/Locais de Acampamento/«Lugar» («Concelho»).md`,
 criado cifrado (ver abaixo).

@@ -1,0 +1,19 @@
+name: Verificar ligações externas
+
+# Manual: Actions → "Verificar ligações externas" → Run workflow. Reports
+# which external links still work and where the Web Archive has a copy.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python3 scripts/verificar_ligacoes.py

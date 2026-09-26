@@ -282,3 +282,37 @@
   font-size: 0.8em;
   color: var(--md-default-fg-color--light);
 }
+
+/* Logo gallery (Movimento/Campinácios.md) */
+.md-typeset .wk-logos {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(7.5rem, 1fr));
+  gap: 1rem;
+  margin: 1em 0 1.5em;
+}
+
+.md-typeset .wk-logos figure {
+  margin: 0;
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  padding: 0.6em;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 6px;
+}
+
+.md-typeset .wk-logos figure > a {
+  margin: auto 0;
+}
+
+.md-typeset .wk-logos img {
+  max-height: 9rem;
+  width: auto;
+  object-fit: contain;
+}
+
+.md-typeset .wk-logos figcaption {
+  margin: 0.5em 0 0;
+  max-width: none;
+  font-size: 0.8em;
+}

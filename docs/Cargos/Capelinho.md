@@ -11,6 +11,7 @@
 - [Francisco Martins](../Pessoas/F/Francisco%20Martins.md)
 - [João Goulão](../Pessoas/J/Jo%C3%A3o%20Goul%C3%A3o.md)
 - [Long Tao](../Acampamentos/2006/Long%20Tao.md)
+- [Manual de Funções](../Movimento/Manual%20de%20Fun%C3%A7%C3%B5es.md)
 - [Metrópole](../Acampamentos/2004/Metr%C3%B3pole.md)
 - [Miguel Melo](../Pessoas/M/Miguel%20Melo.md)
 - [Nuno Branco](../Pessoas/N/Nuno%20Branco.md)
