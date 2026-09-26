@@ -94,7 +94,7 @@ Após este encontro, os CAMPINÁCIOS como movimento foi ganhando alguma estabili
 - [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
 - [Manual de Funções](Manual%20de%20Fun%C3%A7%C3%B5es.md)
 - [Manual do Director](Manual%20do%20Director.md)
-- [Sobre](../Wikin%C3%A1cios/Sobre.md)
+- [Sobre](../Wikin%C3%A1cios/index.md)
 
 ---
 

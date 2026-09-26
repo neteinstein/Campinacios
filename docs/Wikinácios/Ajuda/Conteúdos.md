@@ -40,7 +40,7 @@ Os [Contribuidores](../Contribuidores.md): [Pedro Vicente](../../Pessoas/P/Pedro
 
 ## Como adicionar conteúdo?
 
-Não tem conta no GitHub, ou prefere não mexer nos ficheiros? [Envie a informação](Enviar%20informa%C3%A7%C3%A3o.md) por um formulário ou por um modelo de texto, e os [Contribuidores](../Contribuidores.md) põem-na no site.
+Não tem conta no GitHub, ou prefere não mexer nos ficheiros? Veja como [enviar a informação](#enviar-informacao) por um formulário ou por um modelo de texto, e os [Contribuidores](../Contribuidores.md) põem-na no site.
 
 A Wikinácios já não corre em MediaWiki: é um site feito a partir dos
 ficheiros do repositório
@@ -138,6 +138,105 @@ Na página da categoria-mãe, acrescente a subcategoria à secção
 Estão cifradas e não se editam no GitHub. Ver
 [Sobre este arquivo](../Sobre%20este%20arquivo.md#páginas-restritas).
 
+### Enviar informação sem editar {#enviar-informacao}
+
+Sabe alguma coisa sobre um acampamento ou uma pessoa que falta na
+Wikinácios, ou que está errada? Envie-a por um destes modelos e os
+[Contribuidores](../Contribuidores.md) põem-na no site. Preencha só o que souber.
+
+#### Com conta no GitHub
+
+- [🏕️ Acampamento](https://github.com/neteinstein/Campinacios/issues/new?template=acampamento.yml):
+  um acampamento novo, ou informação para um que já existe.
+- [🙋 Pessoa](https://github.com/neteinstein/Campinacios/issues/new?template=pessoa.yml):
+  um animador, jesuíta ou outra pessoa do movimento, nova ou que já tem
+  página.
+- [🔗 Pessoas em Acampamentos](https://github.com/neteinstein/Campinacios/issues/new?template=pessoas-em-acampamentos.yml):
+  ligar uma pessoa e um acampamento que já têm página (quem animou o quê,
+  quem esteve lá).
+- [🙋 Participantes de um Acampamento](https://github.com/neteinstein/Campinacios/issues/new?template=participantes.yml):
+  a lista de participantes de um Calhambeques ou Formação de Animadores
+  que já tem página.
+- [🏞️ Local de Acampamento](https://github.com/neteinstein/Campinacios/issues/new?template=local-de-acampamento.yml):
+  avisar que falta a ficha de um local, ou que local se usou num
+  acampamento — **nunca com indicações, coordenadas ou contactos**, que
+  ficam para o passo seguinte.
+
+O que se envia assim fica público no GitHub. Não escreva contactos
+(telefones, e-mails, moradas), indicações para chegar aos locais de campo
+nem nomes de participantes menores de idade, e só envie informação sobre
+outra pessoa se ela concordar. As fichas dos locais de acampamento são
+páginas restritas: as indicações, coordenadas e contactos vão sempre em
+privado aos Contribuidores, nunca num destes pedidos.
+
+#### Sem conta no GitHub
+
+Copie o modelo, preencha o que souber e envie-o a alguém dos [Contribuidores](../Contribuidores.md):
+[Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md) ou
+[Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md).
+
+##### Acampamento
+
+```text
+Acampamento novo, ou correcção de um que já existe:
+Nome do acampamento:
+Ano:
+Escalão (Triciclos, Trotinetas, Bicicletas, Lambretas, Calhambeques, Formação):
+Datas:
+Local (só a localidade e o concelho):
+Imaginário ou tema:
+Equipa de animação (um por linha, "Cargo - Nome"):
+Participantes (só Calhambeques e Formação de Animadores):
+História, hino, peripécias:
+De onde vem esta informação:
+```
+
+##### Pessoa
+
+```text
+Pessoa nova, ou correcção de uma que já tem página:
+Nome completo:
+Outros nomes e alcunhas:
+Colégio (CAIC, CC, CSJB):
+Papel (participante, animador, jesuíta, Direcção Local, Direcção Nacional):
+Acampamentos como participante (um por linha, "Ano - Acampamento"):
+Formação (um por linha, "Ano - Acampamento"):
+Acampamentos como animador (um por linha, "Ano - Acampamento - Cargo"):
+Cargos no movimento:
+Outras informações:
+A pessoa concorda que isto fique público no site (sim/não):
+```
+
+##### Pessoas em Acampamentos
+
+```text
+Pessoas e acampamentos (um por linha, "Ano - Acampamento - Pessoa - Papel"):
+De onde vem esta informação:
+```
+
+##### Participantes de um Acampamento
+
+```text
+Acampamento (nome e ano, só Calhambeques ou Formação de Animadores):
+Participantes (um nome por linha, maiores de idade e que concordem):
+De onde vem esta informação:
+```
+
+##### Local de Acampamento
+
+```text
+Local (localidade e concelho):
+Como chegar:
+Contactos (proprietário ou responsável, telefone):
+Condições (água, electricidade, casas de banho, sombra, capacidade):
+Acampamentos que lá se fizeram (um por linha, "Ano - Acampamento"):
+De onde vem esta informação:
+```
+
+Este modelo pode ir directamente aos Contribuidores com as indicações e os
+contactos, porque é enviado em privado — nunca os escreva num pedido do
+GitHub.
+
 ## Modelos
 
 Esquemas prontos a copiar para os artigos mais comuns, com a informação que
@@ -146,7 +245,7 @@ bloco), cole-o no ficheiro e substitua o que está entre `« »`. Apague as
 linhas de que não sabe nada, em vez de as deixar vazias ou de inventar.
 
 Sem conta no GitHub? Reúna a mesma informação e
-[envie-a](Enviar%20informa%C3%A7%C3%A3o.md) aos Contribuidores.
+[envie-a](#enviar-informacao) aos Contribuidores.
 
 - [Acampamento novo, com a equipa de animação](#acampamento-novo)
 - [Pessoa nova](#pessoa-nova)
@@ -598,7 +697,3 @@ a seguir aos animadores; quem tem artigo ganha também a linha no seu artigo
       ou **Formação** num acampamento de Formação de Animadores) e o
       acampamento em *Páginas que ligam para aqui*; e o acampamento ganha a
       pessoa na sua lista *Páginas que ligam para aqui*.
-
-## Páginas que ligam para aqui
-
-- [Enviar informação](Enviar%20informa%C3%A7%C3%A3o.md)

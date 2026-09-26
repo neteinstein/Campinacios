@@ -50,4 +50,4 @@ A iniciativa teve o apoio directo da [Direcção Nacional](../Categorias/Direc%C
 
 - [Conteúdos](../Wikin%C3%A1cios/Ajuda/Conte%C3%BAdos.md)
 - [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)
-- [Sobre](../Wikin%C3%A1cios/Sobre.md)
+- [Sobre](../Wikin%C3%A1cios/index.md)
