@@ -1,0 +1,31 @@
+---
+title: "Sofia Amaral"
+categories:
+  - "Animadores"
+  - "Animadores do CAIC"
+wiki_id: 332
+last_edited: "2009-01-24T03:33:57Z"
+last_editor: "Neteinstein"
+---
+
+# Sofia Amaral
+
+Sofia Amaral foi de 2005 a 2006 uma das animadoras do Colégio da Imaculada Conceição.
+
+## História dentro do movimento
+
+### Acampamentos
+
+- **Participante**
+- **Formação:**
+    - Nenhum
+- **Animador:**
+    - 2006 [Origami](../../Acampamentos/2006/Origami.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+
+## Páginas que ligam para aqui
+
+- [Origami](../../Acampamentos/2006/Origami.md)
+
+---
+
+**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)

@@ -1,0 +1,67 @@
+.wiki-graph {
+  position: relative;
+  height: 75vh;
+  min-height: 420px;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 6px;
+  overflow: hidden;
+  background: var(--md-default-bg-color);
+}
+
+.wiki-graph canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+  cursor: grab;
+}
+
+.wiki-graph canvas.dragging {
+  cursor: grabbing;
+}
+
+.wiki-graph .wiki-graph-controls {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  right: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 12px;
+  align-items: center;
+  font-size: 0.65rem;
+  pointer-events: none;
+}
+
+.wiki-graph .wiki-graph-controls > * {
+  pointer-events: auto;
+}
+
+.wiki-graph input {
+  font: inherit;
+  padding: 3px 6px;
+  border: 1px solid var(--md-default-fg-color--lighter);
+  border-radius: 4px;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+}
+
+.wiki-graph .legend-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  cursor: pointer;
+  user-select: none;
+  background: var(--md-default-bg-color);
+  padding: 1px 4px;
+  border-radius: 3px;
+}
+
+.wiki-graph .legend-item.off {
+  opacity: 0.35;
+}
+
+.wiki-graph .legend-dot {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+}

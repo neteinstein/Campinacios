@@ -1,0 +1,45 @@
+---
+title: "Cecília Miranda"
+categories:
+  - "Animadores"
+  - "Animadores do CAIC"
+wiki_id: 273
+last_edited: "2010-08-09T22:04:41Z"
+last_editor: "ABarroso"
+---
+
+# Cecília Miranda
+
+Cecília Miranda é desde 2005, uma das animadoras do Colégio da Imaculada Conceição.
+
+## História dentro do movimento
+
+### Acampamentos
+
+- **Participante**
+- **Formação:**
+    - Nenhum
+- **Animador:**
+    - 2006 [XS](../../Acampamentos/2006/XS.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2007 [Bora Bora](../../Acampamentos/2007/Bora%20Bora.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2008 [TSI](../../Acampamentos/2008/TSI.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2009 [Lembras-te?](../../Acampamentos/2009/Lembras-te.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
+    - 2010 [Walkabout](../../Acampamentos/2010/Walkabout.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+
+### Família
+
+É irmã da [Beatriz Miranda](../B/Beatriz%20Miranda.md) e [José Carlos Miranda](../J/Jos%C3%A9%20Carlos%20Miranda.md).
+
+## Páginas que ligam para aqui
+
+- [Beatriz Miranda](../B/Beatriz%20Miranda.md)
+- [Bora Bora](../../Acampamentos/2007/Bora%20Bora.md)
+- [José Carlos Miranda](../J/Jos%C3%A9%20Carlos%20Miranda.md)
+- [Lembras-te?](../../Acampamentos/2009/Lembras-te.md)
+- [TSI](../../Acampamentos/2008/TSI.md)
+- [Walkabout](../../Acampamentos/2010/Walkabout.md)
+- [XS](../../Acampamentos/2006/XS.md)
+
+---
+
+**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)

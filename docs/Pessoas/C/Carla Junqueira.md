@@ -1,0 +1,31 @@
+---
+title: "Carla Junqueira"
+categories:
+  - "Animadores"
+  - "Animadores do CC"
+wiki_id: 640
+last_edited: "2009-02-07T20:15:33Z"
+last_editor: "Tnbahia"
+---
+
+# Carla Junqueira
+
+## História dentro do movimento
+
+### Acampamentos
+
+- **Animadora**
+    - 2004 [Descola](../../Acampamentos/2004/Descola.md) - [Tia](../../Cargos/Tio.md)
+
+### Família
+
+É irmã da [Mafalda Junqueira](../M/Mafalda%20Junqueira.md).
+
+## Páginas que ligam para aqui
+
+- [Descola](../../Acampamentos/2004/Descola.md)
+- [Mafalda Junqueira](../M/Mafalda%20Junqueira.md)
+
+---
+
+**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)

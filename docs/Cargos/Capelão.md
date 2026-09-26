@@ -1,0 +1,160 @@
+---
+title: "Capelão"
+aliases:
+  - "Capelães"
+categories:
+  - "Cargos"
+wiki_id: 418
+last_edited: "2009-01-25T21:21:12Z"
+last_editor: "Neteinstein"
+---
+
+# Capelão
+
+- Deve ser um “Animador Livre” sempre activo e presente, e não uma máquina de produzir missas, Bons Dias Senhor (B.D.S.) e Boa Tardes Senhor (B.T.S.), que se desliga durante o resto do tempo.
+- É importante que seja ajudado e integrar-se na equipa de animação, de modo a que não se torne no “bicho raro” mais velho com quem se faz cerimónia e cuja presença crie reacções de constrangimento.
+- É o orientador espiritual do grupo.
+- Deve ser uma fonte de ponderação, calma e experiência tanto junto dos participantes como dos próprios animadores.
+- É um membro da direcção e deve ser respeitado como tal, mesmo que seja difícil a sua integração no grupo.
+- Coordena os B.D.S. e celebra a missa, caso seja padre, mas não deve fazer “palestras”.
+- É a pessoa a quem se poderá recorrer para um conselho, devido à sua experiência, estofo e vivência para ajudar a resolver graves problemas e tomar decisões difíceis.
+- É uma figura muito importante: é o “cimento” que deve unir as pessoas no acampamento.
+- Não deve estar excessivamente comprometido na direcção nem exercer a autoridade – tem de ser uma figura distinta do director.
+- Tem ainda como função desenvolver o “tema” ou Imaginarium do acampamento junto com o director.
+- Sempre que possível deve ter BDS/BTS desenhados conforme o imaginarium do acampamento, para que se tornem mais lógicos/coerentes no acampamento e sendo também mais cativantes para os participantes.
+- Deve estar presente no maior número possível de actividades no acampamento e dar a assistência espiritual ao longo deste.
+- Não tem que intervir nas decisões de orientação do acampamento, pois isso compete ao director, mas deve ser um conselheiro mais velho, ao qual o director possa recorrer.
+- Algumas características úteis para ser capelão: disponibilidade, compreensão, ser acessível, sociabilidade, conselho espiritual, capacidade de participação, discrição, fé profunda, acolhimento, sabedoria, dom da palavra, espontaneidade, espírito de observação criatividade e humildade
+
+## Páginas que ligam para aqui
+
+- [98 Covas](../Acampamentos/1998/98%20Covas.md)
+- [Agroal](../Acampamentos/1992/Agroal.md)
+- [Alfa](../Acampamentos/1990/Alfa.md)
+- [Alvoco 96](../Acampamentos/1996/Alvoco%2096.md)
+- [Além](../Acampamentos/1998/Al%C3%A9m.md)
+- [Andreas Lind](../Pessoas/A/Andreas%20Lind.md)
+- [Animador](../Movimento/Animador.md)
+- [António Sant'Ana](../Pessoas/A/Ant%C3%B3nio%20Sant%27Ana.md)
+- [António Valério](../Pessoas/A/Ant%C3%B3nio%20Val%C3%A9rio.md)
+- [Aranha](../Acampamentos/1997/Aranha.md)
+- [Arethë](../Acampamentos/2008/Areth%C3%AB.md)
+- [Baza](../Acampamentos/2007/Baza.md)
+- [Baúmerang](../Acampamentos/2007/Ba%C3%BAmerang.md)
+- [Benfeita 95](../Acampamentos/1995/Benfeita%2095.md)
+- [Bike Just Do It](../Acampamentos/2008/Bike%20Just%20Do%20It.md)
+- [Bora Bora](../Acampamentos/2007/Bora%20Bora.md)
+- [Bublix](../Acampamentos/2009/Bublix.md)
+- [CAmpIC 89](../Acampamentos/1989/CAmpIC%2089.md)
+- [CAmpIC 91](../Acampamentos/1991/CAmpIC%2091.md)
+- [Cabala](../Acampamentos/2003/Cabala.md)
+- [Caldas de S.Paulo](../Acampamentos/1990/Caldas%20de%20S.Paulo.md)
+- [Caldelas](../Acampamentos/1996/Caldelas.md)
+- [Caldiclos](../Acampamentos/1994/Caldiclos.md)
+- [Calinadas](../Acampamentos/1998/Calinadas.md)
+- [Caminho](../Acampamentos/2009/Caminho.md)
+- [Campinácios](../Movimento/Campin%C3%A1cios.md)
+- [Campo Ibérico](../Acampamentos/1995/Campo%20Ib%C3%A9rico.md)
+- [Capelinho](Capelinho.md)
+- [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md)
+- [Caroço](../Acampamentos/1999/Caro%C3%A7o.md)
+- [Casca de Banana](../Acampamentos/2005/Casca%20de%20Banana.md)
+- [Cinena](../Acampamentos/2001/Cinena.md)
+- [Constância](../Acampamentos/1991/Const%C3%A2ncia.md)
+- [Cristovão Andrade](../Pessoas/C/Cristov%C3%A3o%20Andrade.md)
+- [Descola](../Acampamentos/2004/Descola.md)
+- [Dilúvio](../Acampamentos/1999/Dil%C3%BAvio.md)
+- [Diz Que Sim](../Acampamentos/2007/Diz%20Que%20Sim.md)
+- [Domingos Freitas](../Pessoas/D/Domingos%20Freitas.md)
+- [Ed mais 10](../Acampamentos/2010/Ed%20mais%2010.md)
+- [Em Busca da CaraBela](../Acampamentos/2006/Em%20Busca%20da%20CaraBela.md)
+- [Entre ASPAS](../Acampamentos/2008/Entre%20ASPAS.md)
+- [Era Uma Vez...](../Acampamentos/2008/Era%20Uma%20Vez....md)
+- [Ermal](../Acampamentos/1993/Ermal.md)
+- [Eureka](../Acampamentos/2008/Eureka.md)
+- [Falésia](../Acampamentos/2005/Fal%C3%A9sia.md)
+- [Ferrugenta](../Acampamentos/1989/Ferrugenta.md)
+- [Filipe Martins](../Pessoas/F/Filipe%20Martins.md)
+- [Fornelos](../Acampamentos/1992/Fornelos.md)
+- [Fragas de S.Simão 94](../Acampamentos/1994/Fragas%20de%20S.Sim%C3%A3o%2094.md)
+- [Fófinhos](../Acampamentos/2005/F%C3%B3finhos.md)
+- [Gaivota](../Acampamentos/2005/Gaivota.md)
+- [Gipsy Kings](../Acampamentos/1999/Gipsy%20Kings.md)
+- [Gonçalo Eiró](../Pessoas/G/Gon%C3%A7alo%20Eir%C3%B3.md)
+- [Gonçalo Fonseca](../Pessoas/G/Gon%C3%A7alo%20Fonseca.md)
+- [Gordurosa](../Acampamentos/2000/Gordurosa.md)
+- [Graal II](../Acampamentos/2003/Graal%20II.md)
+- [Graal III](../Acampamentos/2007/Graal%20III.md)
+- [Génesis 2003 d.C.](../Acampamentos/2003/G%C3%A9nesis%202003%20d.C..md)
+- [Hakaros](../Acampamentos/1999/Hakaros.md)
+- [Iháquesermais](../Acampamentos/2009/Ih%C3%A1quesermais.md)
+- [Incrível](../Acampamentos/2009/Incr%C3%ADvel.md)
+- [Jangada](../Acampamentos/2002/Jangada.md)
+- [José Manuel Lopes](../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md)
+- [José Maria Brito](../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md)
+- [José da Silva Almeida](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
+- [João Goulão](../Pessoas/J/Jo%C3%A3o%20Goul%C3%A3o.md)
+- [João Paulo Moinhos](../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md)
+- [Koalas](../Acampamentos/1999/Koalas.md)
+- [Lambretas 94](../Acampamentos/1994/Lambretas%2094.md)
+- [Lembras-te?](../Acampamentos/2009/Lembras-te.md)
+- [Long Tao](../Acampamentos/2006/Long%20Tao.md)
+- [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
+- [Loyola](../Acampamentos/1991/Loyola.md)
+- [Luís Onofre](../Pessoas/L/Lu%C3%ADs%20Onofre.md)
+- [M&M](../Acampamentos/2007/M%26M.md)
+- [Manual de Funções](../Movimento/Manual%20de%20Fun%C3%A7%C3%B5es.md)
+- [Manuel Paiva](../Pessoas/M/Manuel%20Paiva.md)
+- [Metrópole](../Acampamentos/2004/Metr%C3%B3pole.md)
+- [Mikelin Descobre a Vida](../Acampamentos/2004/Mikelin%20Descobre%20a%20Vida.md)
+- [Ninja Por Não Estar](../Acampamentos/2002/Ninja%20Por%20N%C3%A3o%20Estar.md)
+- [Nuno Branco](../Pessoas/N/Nuno%20Branco.md)
+- [Nómada](../Acampamentos/2006/N%C3%B3mada.md)
+- [OPA](../Acampamentos/2007/OPA.md)
+- [Obra Prima](../Acampamentos/2010/Obra%20Prima.md)
+- [OrienTu](../Acampamentos/2008/OrienTu.md)
+- [Origami](../Acampamentos/2006/Origami.md)
+- [PaKasaDele](../Acampamentos/2010/PaKasaDele.md)
+- [Parada](../Acampamentos/1995/Parada.md)
+- [Patos](../Acampamentos/2004/Patos.md)
+- [Paulo Duarte](../Pessoas/P/Paulo%20Duarte.md)
+- [Pedro Cameira](../Pessoas/P/Pedro%20Cameira.md)
+- [Pimpolhos](../Acampamentos/2003/Pimpolhos.md)
+- [Pirilama](../Acampamentos/2000/Pirilama.md)
+- [Piripetroporco](../Acampamentos/2002/Piripetroporco.md)
+- [Pontes](../Acampamentos/2001/Pontes.md)
+- [Projecto Canguru](../Acampamentos/2002/Projecto%20Canguru.md)
+- [Rastilho](../Acampamentos/2003/Rastilho.md)
+- [Rebordosa](../Acampamentos/1993/Rebordosa.md)
+- [Regresso a Alvoco I](../Acampamentos/1998/Regresso%20a%20Alvoco%20I.md)
+- [Regresso a Alvoco II](../Acampamentos/1998/Regresso%20a%20Alvoco%20II.md)
+- [Rui Ribeiro](../Pessoas/R/Rui%20Ribeiro.md)
+- [Shampum de Pessêgo](../Acampamentos/2001/Shampum%20de%20Pess%C3%AAgo.md)
+- [Surpresa](../Acampamentos/2001/Surpresa.md)
+- [Survivor](../Acampamentos/2009/Survivor.md)
+- [Sérgio Carvalho](../Pessoas/S/S%C3%A9rgio%20Carvalho.md)
+- [TSI](../Acampamentos/2008/TSI.md)
+- [Tabuadelas II](../Acampamentos/1993/Tabuadelas%20II.md)
+- [Talithá Kum](../Acampamentos/2009/Talith%C3%A1%20Kum.md)
+- [Tem Bicho Zweitausend](../Acampamentos/2000/Tem%20Bicho%20Zweitausend.md)
+- [Tira as rodinhas](../Acampamentos/2009/Tira%20as%20rodinhas.md)
+- [Tranquilo](../Acampamentos/2000/Tranquilo.md)
+- [Tribal](../Acampamentos/1992/Tribal.md)
+- [Trolliciclos](../Acampamentos/2004/Trolliciclos.md)
+- [TufarfarAway](../Acampamentos/2008/TufarfarAway.md)
+- [Tábeeeim](../Acampamentos/2010/T%C3%A1beeeim.md)
+- [Verim](../Acampamentos/1992/Verim.md)
+- [Vi-O](../Acampamentos/2009/Vi-O.md)
+- [Vila do Bispo II/94](../Acampamentos/1994/Vila%20do%20Bispo%20II-94.md)
+- [Waaassuuup](../Acampamentos/2001/Waaassuuup.md)
+- [Walkabout](../Acampamentos/2010/Walkabout.md)
+- [Wally](../Acampamentos/1994/Wally.md)
+- [Wikinácios](../index.md)
+- [XS](../Acampamentos/2006/XS.md)
+- [Xii Tava Kuase Lá...!](../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md)
+- [Êxodo](../Acampamentos/2008/%C3%8Axodo.md)
+- [Ídolo](../Acampamentos/2004/%C3%8Ddolo.md)
+
+---
+
+**Categorias:** [Cargos](../Categorias/Cargos.md)

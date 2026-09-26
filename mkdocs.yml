@@ -1,0 +1,126 @@
+site_name: Wikinácios
+site_description: Arquivo da Wikinácios, a wiki dos Campinácios.
+repo_url: https://github.com/neteinstein/Campinacios
+edit_uri: edit/main/docs/
+docs_dir: docs
+use_directory_urls: false
+
+theme:
+  name: material
+  language: pt
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Modo escuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+  icon:
+    logo: material/tent
+
+plugins:
+  - search:
+      lang: pt
+
+markdown_extensions:
+  - tables
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+
+extra_css:
+  - assets/extra.css
+extra_javascript:
+  - assets/graph.js
+
+validation:
+  links:
+    anchors: warn
+
+# The sidebar lists only section pages; every article is reached from them.
+# Written by scripts/mediawiki_to_markdown.py — everything below is replaced.
+# --- nav ---
+nav:
+  - "Início": index.md
+  - "Acampamentos":
+    - Acampamentos/index.md
+    - "1989": Acampamentos/1989/index.md
+    - "1990": Acampamentos/1990/index.md
+    - "1991": Acampamentos/1991/index.md
+    - "1992": Acampamentos/1992/index.md
+    - "1993": Acampamentos/1993/index.md
+    - "1994": Acampamentos/1994/index.md
+    - "1995": Acampamentos/1995/index.md
+    - "1996": Acampamentos/1996/index.md
+    - "1997": Acampamentos/1997/index.md
+    - "1998": Acampamentos/1998/index.md
+    - "1999": Acampamentos/1999/index.md
+    - "2000": Acampamentos/2000/index.md
+    - "2001": Acampamentos/2001/index.md
+    - "2002": Acampamentos/2002/index.md
+    - "2003": Acampamentos/2003/index.md
+    - "2004": Acampamentos/2004/index.md
+    - "2005": Acampamentos/2005/index.md
+    - "2006": Acampamentos/2006/index.md
+    - "2007": Acampamentos/2007/index.md
+    - "2008": Acampamentos/2008/index.md
+    - "2009": Acampamentos/2009/index.md
+    - "2010": Acampamentos/2010/index.md
+    - "Sem data": Acampamentos/Sem data/index.md
+  - "Cargos": Cargos/index.md
+  - "Categorias": Categorias/index.md
+  - "Encontros": Encontros/index.md
+  - "Movimento":
+    - Movimento/index.md
+    - "Desambiguação": Movimento/Desambiguação/index.md
+  - "Pessoas":
+    - Pessoas/index.md
+    - "A": Pessoas/A/index.md
+    - "B": Pessoas/B/index.md
+    - "C": Pessoas/C/index.md
+    - "D": Pessoas/D/index.md
+    - "E": Pessoas/E/index.md
+    - "F": Pessoas/F/index.md
+    - "G": Pessoas/G/index.md
+    - "H": Pessoas/H/index.md
+    - "I": Pessoas/I/index.md
+    - "J": Pessoas/J/index.md
+    - "L": Pessoas/L/index.md
+    - "M": Pessoas/M/index.md
+    - "N": Pessoas/N/index.md
+    - "O": Pessoas/O/index.md
+    - "P": Pessoas/P/index.md
+    - "R": Pessoas/R/index.md
+    - "S": Pessoas/S/index.md
+    - "T": Pessoas/T/index.md
+    - "V": Pessoas/V/index.md
+    - "Z": Pessoas/Z/index.md
+  - "Wikinácios":
+    - Wikinácios/index.md
+    - "Ajuda": Wikinácios/Ajuda/index.md
+    - "Discussão": Wikinácios/Discussão/index.md
+    - "Imagens": Wikinácios/Imagens/index.md
+    - "Predefinições": Wikinácios/Predefinições/index.md
+    - "Utilizadores": Wikinácios/Utilizadores/index.md
+  - "Grafo": Grafo.md

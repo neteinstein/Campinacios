@@ -1,0 +1,31 @@
+---
+title: "Antas"
+categories:
+  - "Acampamentos"
+  - "Acampamentos de 1996"
+  - "Trotinetas"
+wiki_id: 455
+last_edited: "2009-01-25T23:08:56Z"
+last_editor: "Tnbahia"
+---
+
+# Antas
+
+### Animadores
+
+- [Director](../../Cargos/Director.md) - Hélder Sousa
+- [Tia](../../Cargos/Tio.md) - Margarida Santos
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Joana Silva
+
+## Páginas que ligam para aqui
+
+- [Ana Salgado](../../Pessoas/A/Ana%20Salgado.md)
+- [Eduardo Almeida](../../Pessoas/E/Eduardo%20Almeida.md)
+- [Inês Serra Ferreira](../../Pessoas/I/In%C3%AAs%20Serra%20Ferreira.md)
+- [José Pedro Ferreira](../../Pessoas/J/Jos%C3%A9%20Pedro%20Ferreira.md)
+- [Marta Carneiro](../../Pessoas/M/Marta%20Carneiro.md)
+- [Teresa Santos](../../Pessoas/T/Teresa%20Santos.md)
+
+---
+
+**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1996](../../Categorias/Acampamentos%20de%201996.md) · [Trotinetas](../../Categorias/Trotinetas.md)

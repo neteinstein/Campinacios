@@ -1,0 +1,62 @@
+---
+title: "Filipe Próspero"
+categories:
+  - "Animadores"
+  - "Animadores do CSJB"
+  - "Direcção Local do CSJB"
+  - "Coordenador Local do CSJB"
+  - "Direcção Nacional"
+wiki_id: 181
+last_edited: "2009-08-24T19:31:07Z"
+last_editor: "Tnbahia"
+---
+
+# Filipe Próspero
+
+Filipe Próspero, é desde 2005 um dos animadores do Colégio São João de Brito.
+
+## História dentro do movimento
+
+### Cargos
+
+- **Nacionais:**
+    - 2008/2009 Membro da [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
+    - 2007/2008 Membro da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) e Coordenador da [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
+    - 2006/2007 Membro da [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
+
+### Acampamentos
+
+- **Participante:**
+    - 2003 [Cabala](../../Acampamentos/2003/Cabala.md)
+    - 2005 [Fófinhos](../../Acampamentos/2005/F%C3%B3finhos.md)
+- **Formação:**
+    - Nenhum
+- **Animador:**
+    - 2006 [Long Tao](../../Acampamentos/2006/Long%20Tao.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2007 [Baza](../../Acampamentos/2007/Baza.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2008 [OrienTu](../../Acampamentos/2008/OrienTu.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
+    - 2009 [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md) - [Director](../../Cargos/Director.md)
+
+### Cantinácio
+
+É desde 2008 o responsável pelo [Cantinácio](../../Movimento/Cantin%C3%A1cio.md).
+
+### Campinacios.org
+
+Foi um dos gestores da página dos Campinácios de 2007 a 2009.
+
+### Família
+
+É irmão da [Inês Próspero](../I/In%C3%AAs%20Pr%C3%B3spero.md).
+
+## Páginas que ligam para aqui
+
+- [Baza](../../Acampamentos/2007/Baza.md)
+- [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md)
+- [Inês Próspero](../I/In%C3%AAs%20Pr%C3%B3spero.md)
+- [Long Tao](../../Acampamentos/2006/Long%20Tao.md)
+- [OrienTu](../../Acampamentos/2008/OrienTu.md)
+
+---
+
+**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) · [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) · [Coordenador Local do CSJB](../../Categorias/Coordenador%20Local%20do%20CSJB.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)

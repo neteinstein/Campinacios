@@ -1,0 +1,34 @@
+---
+title: "Canja"
+categories:
+  - "Acampamentos"
+  - "Acampamentos de 1998"
+  - "Bicicletas"
+wiki_id: 453
+last_edited: "2009-12-06T23:50:11Z"
+last_editor: "Tnbahia"
+---
+
+# Canja
+
+### Animadores
+
+- [Director](../../Cargos/Director.md) - [Luís Godinho](../../Pessoas/L/Lu%C3%ADs%20Godinho.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Maria João Costa, [António Leal](../../Pessoas/A/Ant%C3%B3nio%20Leal.md)
+
+## Páginas que ligam para aqui
+
+- [António Leal](../../Pessoas/A/Ant%C3%B3nio%20Leal.md)
+- [Bernardo Mendonça](../../Pessoas/B/Bernardo%20Mendon%C3%A7a.md)
+- [Cristina Lopo Monteiro](../../Pessoas/C/Cristina%20Lopo%20Monteiro.md)
+- [Luís Godinho](../../Pessoas/L/Lu%C3%ADs%20Godinho.md)
+- [Nuno Carvalho](../../Pessoas/N/Nuno%20Carvalho.md)
+- [Rita Maria Fernandes](../../Pessoas/R/Rita%20Maria%20Fernandes.md)
+- [Rita Reis](../../Pessoas/R/Rita%20Reis.md)
+- [Sílvia Alexandra](../../Pessoas/S/S%C3%ADlvia%20Alexandra.md)
+- [Teresa Santos](../../Pessoas/T/Teresa%20Santos.md)
+- [Vítor Fernandes](../../Pessoas/V/V%C3%ADtor%20Fernandes.md)
+
+---
+
+**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1998](../../Categorias/Acampamentos%20de%201998.md) · [Bicicletas](../../Categorias/Bicicletas.md)

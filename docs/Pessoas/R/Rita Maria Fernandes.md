@@ -1,0 +1,25 @@
+---
+title: "Rita Maria Fernandes"
+categories:
+  - "Animadores"
+  - "Animadores do CSJB"
+wiki_id: 789
+last_edited: "2009-12-06T22:46:16Z"
+last_editor: "Tnbahia"
+---
+
+# Rita Maria Fernandes
+
+### Acampamentos
+
+- **Participante**
+    - Triciclos
+    - Bicicletas
+- **Animador**
+    - 1996 [Caldelas](../../Acampamentos/1996/Caldelas.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 1997 [Poucha](../../Acampamentos/1997/Poucha.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 1998 [Canja](../../Acampamentos/1998/Canja.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
+
+---
+
+**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
