@@ -1,6 +1,6 @@
 # Todos os artigos
 
-952 artigos e, em itálico, os 136 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+953 artigos e, em itálico, os 137 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -577,6 +577,7 @@
 - [José Fernandes](Movimento/Desambigua%C3%A7%C3%A3o/Jos%C3%A9%20Fernandes.md)
 - [José Ferreira](Movimento/Desambigua%C3%A7%C3%A3o/Jos%C3%A9%20Ferreira.md)
 - *José Filgueiras* → [José Manuel Filgueiras](Pessoas/J/Jos%C3%A9%20Manuel%20Filgueiras.md)
+- [José Lima](Pessoas/J/Jos%C3%A9%20Lima.md)
 - [José Luís Canêlhas](Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Can%C3%AAlhas.md)
 - [José Luís Fernandes](Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Fernandes.md)
 - [José Luís Silva](Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Silva.md)
@@ -1150,6 +1151,7 @@
 ## Z
 
 - [Zapping](Acampamentos/2019/Zapping.md)
+- *Zeca* → [José Lima](Pessoas/J/Jos%C3%A9%20Lima.md)
 - [Zé Guedes](Pessoas/Z/Z%C3%A9%20Guedes.md)
 - *Zé Maria Brito* → [José Maria Brito](Pessoas/J/Jos%C3%A9%20Maria%20Brito.md)
 - [Zé Pedro Carneiro](Pessoas/Z/Z%C3%A9%20Pedro%20Carneiro.md)

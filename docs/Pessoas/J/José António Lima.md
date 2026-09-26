@@ -1,5 +1,7 @@
 # José António Lima
 
+*Nota: Este artigo é sobre José António Lima, animador desde 2004. Se procura José Lima, capelão jesuíta (sj) em 1998 e 1999, consulte [José Lima](Jos%C3%A9%20Lima.md).*
+
 ### Acampamentos
 
 - **Participante:**

@@ -9,7 +9,7 @@ Animadores dos Campinácios
 - [Animadores do CSJB](Animadores%20do%20CSJB.md)
 - [Jesuítas](Jesu%C3%ADtas.md)
 
-## Páginas nesta categoria (525)
+## Páginas nesta categoria (526)
 
 - [Afonso Barrocas](../Pessoas/A/Afonso%20Barrocas.md)
 - [Afonso Carvalho](../Pessoas/A/Afonso%20Carvalho.md)
@@ -246,6 +246,7 @@ Animadores dos Campinácios
 - [José Carlos Miranda](../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md)
 - [José Emanuel Ferreira](../Pessoas/J/Jos%C3%A9%20Emanuel%20Ferreira.md)
 - [José Eugénio Lopes](../Pessoas/J/Jos%C3%A9%20Eug%C3%A9nio%20Lopes.md)
+- [José Lima](../Pessoas/J/Jos%C3%A9%20Lima.md)
 - [José Luís Canêlhas](../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Can%C3%AAlhas.md)
 - [José Luís Fernandes](../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Fernandes.md)
 - [José Luís Silva](../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Silva.md)
