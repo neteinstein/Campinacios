@@ -1,5 +1,0 @@
-# User Wikipedia administrator
-
-```text
-
-```
