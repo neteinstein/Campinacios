@@ -1,7 +1,3 @@
----
-title: "Categorias"
----
-
 # Categorias
 
 As categorias da Wikinácios.

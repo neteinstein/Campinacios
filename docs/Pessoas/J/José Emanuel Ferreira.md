@@ -1,13 +1,3 @@
----
-title: "José Emanuel Ferreira"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 878
-last_edited: "2009-09-25T18:07:26Z"
-last_editor: "Silvinha"
----
-
 # José Emanuel Ferreira
 
 ### Acampamentos
@@ -28,4 +18,7 @@ last_editor: "Silvinha"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

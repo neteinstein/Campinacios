@@ -1,13 +1,3 @@
----
-title: "Pedro Pinto"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 869
-last_edited: "2009-12-23T19:25:03Z"
-last_editor: "Tnbahia"
----
-
 # Pedro Pinto
 
 Pedro Pinto nasceu a 19 de Outubro de 1990.
@@ -40,4 +30,7 @@ Frequentou o CC de 1992 a 2008. Animador desde 2008 até hoje.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

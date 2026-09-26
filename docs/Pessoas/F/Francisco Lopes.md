@@ -1,15 +1,3 @@
----
-title: "Francisco Lopes"
-aliases:
-  - "Chico Lopes"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 338
-last_edited: "2009-02-07T15:30:49Z"
-last_editor: "Neteinstein"
----
-
 # Francisco Lopes
 
 Francisco Lopes foi um dos animadores do Colégio da Imaculada Conceição.
@@ -34,4 +22,9 @@ Francisco Lopes foi um dos animadores do Colégio da Imaculada Conceição.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+**Outros nomes:** Chico Lopes
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

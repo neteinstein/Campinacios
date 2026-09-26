@@ -1,14 +1,3 @@
----
-title: "Caroço"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1999"
-  - "Trotinetas"
-wiki_id: 487
-last_edited: "2009-12-03T12:40:36Z"
-last_editor: "Tnbahia"
----
-
 # Caroço
 
 O Caroço decorreu de 15 a 24 de Agosto de 1999 em Porto da Balsa.
@@ -34,4 +23,8 @@ O Caroço decorreu de 15 a 24 de Agosto de 1999 em Porto da Balsa.
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1999](../../Categorias/Acampamentos%20de%201999.md) · [Trotinetas](../../Categorias/Trotinetas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1999](../../Categorias/Acampamentos%20de%201999.md) |
+| [Trotinetas](../../Categorias/Trotinetas.md) |

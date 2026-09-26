@@ -1,13 +1,3 @@
----
-title: "Gonçalo Fonseca Carvalho"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 944
-last_edited: "2009-12-02T14:30:49Z"
-last_editor: "Tnbahia"
----
-
 # Gonçalo Fonseca Carvalho
 
 ### Acampamentos
@@ -26,4 +16,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

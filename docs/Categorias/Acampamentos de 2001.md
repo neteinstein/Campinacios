@@ -1,12 +1,3 @@
----
-title: "Acampamentos de 2001"
-categories:
-  - "Acampamentos"
-wiki_id: 175
-last_edited: "2009-01-21T21:52:27Z"
-last_editor: "Neteinstein"
----
-
 # Acampamentos de 2001
 
 Acampamentos realizados em 2001
@@ -23,4 +14,6 @@ Acampamentos realizados em 2001
 
 ---
 
-**Categorias:** [Acampamentos](Acampamentos.md)
+| Categorias |
+| --- |
+| [Acampamentos](Acampamentos.md) |

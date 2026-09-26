@@ -1,13 +1,3 @@
----
-title: "Ana Poças"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 609
-last_edited: "2009-02-03T15:11:55Z"
-last_editor: "Tnbahia"
----
-
 # Ana Poças
 
 Ana Poças é animadora do CC.
@@ -25,4 +15,7 @@ Ana Poças é animadora do CC.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

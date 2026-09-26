@@ -1,13 +1,3 @@
----
-title: "Diana Quintela"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 583
-last_edited: "2009-02-01T17:34:26Z"
-last_editor: "Tnbahia"
----
-
 # Diana Quintela
 
 Diana Pinto Quintela, nascida a 22 de Maio de 1978, é animadora do CC.
@@ -33,4 +23,7 @@ Diana Pinto Quintela, nascida a 22 de Maio de 1978, é animadora do CC.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

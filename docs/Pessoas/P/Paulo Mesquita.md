@@ -1,13 +1,3 @@
----
-title: "Paulo Mesquita"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 914
-last_edited: "2010-08-19T17:27:44Z"
-last_editor: "Tnbahia"
----
-
 # Paulo Mesquita
 
 Paulo Mesquita nasceu a 25 de Janeiro de 1990.
@@ -32,4 +22,7 @@ Frequentou o CC de 2002 a 2008. Animador desde 2008 até hoje.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

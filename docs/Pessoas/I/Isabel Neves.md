@@ -1,13 +1,3 @@
----
-title: "Isabel Neves"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 837
-last_edited: "2009-08-20T22:27:55Z"
-last_editor: "Tnbahia"
----
-
 # Isabel Neves
 
 Isabel Neves, mais conhecida por Pica
@@ -36,4 +26,7 @@ Isabel Neves, mais conhecida por Pica
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

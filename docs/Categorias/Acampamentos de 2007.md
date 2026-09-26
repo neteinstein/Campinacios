@@ -1,12 +1,3 @@
----
-title: "Acampamentos de 2007"
-categories:
-  - "Acampamentos"
-wiki_id: 5
-last_edited: "2009-01-19T00:25:47Z"
-last_editor: "Admin"
----
-
 # Acampamentos de 2007
 
 Acampamentos de 2007
@@ -23,4 +14,6 @@ Acampamentos de 2007
 
 ---
 
-**Categorias:** [Acampamentos](Acampamentos.md)
+| Categorias |
+| --- |
+| [Acampamentos](Acampamentos.md) |

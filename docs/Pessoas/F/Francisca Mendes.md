@@ -1,16 +1,3 @@
----
-title: "Francisca Mendes"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-  - "Direcção Local do CSJB"
-  - "Direcção Nacional"
-  - "Secretários da DN"
-wiki_id: 506
-last_edited: "2009-05-25T09:43:41Z"
-last_editor: "Neteinstein"
----
-
 # Francisca Mendes
 
 ### Cargos
@@ -41,4 +28,10 @@ last_editor: "Neteinstein"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) · [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) · [Secretários da DN](../../Categorias/Secret%C3%A1rios%20da%20DN.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |
+| [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |
+| [Secretários da DN](../../Categorias/Secret%C3%A1rios%20da%20DN.md) |

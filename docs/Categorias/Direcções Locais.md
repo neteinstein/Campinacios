@@ -1,12 +1,3 @@
----
-title: "Direcções Locais"
-categories:
-  - "Direcção Nacional"
-wiki_id: 120
-last_edited: "2009-01-24T17:21:39Z"
-last_editor: "Tnbahia"
----
-
 # Direcções Locais
 
 Uma Direcção Local (DL) é o órgão deliberativo e executivo de carácter local. O coordenador de cada DL e os elementos que fazem parte desta direcção são nomeados por um período de dois anos pelo Director do Colégio após uma auscultação dos animadores locais e [Assistente Nacional](Assistentes%20Nacionais.md). A DL é constituída por cinco elementos, sendo dirigida pelo Coordenador Local, que deverá ser uma pessoa com maturidade humana e cristã. Antes de serem denominadas por Direcções Locais tiveram outras designações: Direcções Colegiais e Equipas Coordenadoras.
@@ -37,4 +28,6 @@ Uma Direcção Local (DL) é o órgão deliberativo e executivo de carácter loc
 
 ---
 
-**Categorias:** [Direcção Nacional](Direc%C3%A7%C3%A3o%20Nacional.md)
+| Categorias |
+| --- |
+| [Direcção Nacional](Direc%C3%A7%C3%A3o%20Nacional.md) |

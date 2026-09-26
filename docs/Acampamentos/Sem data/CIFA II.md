@@ -1,12 +1,3 @@
----
-title: "CIFA II"
-categories:
-  - "Formação de Animadores"
-wiki_id: 337
-last_edited: "2009-01-24T03:56:11Z"
-last_editor: "Tnbahia"
----
-
 # CIFA II
 
 CIFA é um acrónimo para Curso Intensivo de Formação de Animadores. Em 91/92 decorreu na Casa de Esposende nos dias 27, 28 e 29 de Setembro.
@@ -27,4 +18,6 @@ CIFA é um acrónimo para Curso Intensivo de Formação de Animadores. Em 91/92 
 
 ---
 
-**Categorias:** [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md)
+| Categorias |
+| --- |
+| [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) |

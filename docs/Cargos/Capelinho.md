@@ -1,12 +1,3 @@
----
-title: "Capelinho"
-categories:
-  - "Cargos"
-wiki_id: 425
-last_edited: "2009-01-25T21:21:07Z"
-last_editor: "Neteinstein"
----
-
 # Capelinho
 
 É o braço direito do [Capelão](Capel%C3%A3o.md) tendo as mesmas responsabilidades. É tipicamente um noviço da Companhia de Jesus.
@@ -31,4 +22,6 @@ last_editor: "Neteinstein"
 
 ---
 
-**Categorias:** [Cargos](../Categorias/Cargos.md)
+| Categorias |
+| --- |
+| [Cargos](../Categorias/Cargos.md) |

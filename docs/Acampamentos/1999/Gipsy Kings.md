@@ -1,14 +1,3 @@
----
-title: "Gipsy Kings"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1999"
-  - "Trotinetas"
-wiki_id: 159
-last_edited: "2009-02-15T14:56:23Z"
-last_editor: "Neteinstein"
----
-
 # Gipsy Kings
 
 O Gispsy Kings foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que decorreu entre 20 e 29 de Agosto de 1999 em Vila Verde (perto de Braga).
@@ -48,4 +37,8 @@ O Gispsy Kings foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1999](../../Categorias/Acampamentos%20de%201999.md) · [Trotinetas](../../Categorias/Trotinetas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1999](../../Categorias/Acampamentos%20de%201999.md) |
+| [Trotinetas](../../Categorias/Trotinetas.md) |

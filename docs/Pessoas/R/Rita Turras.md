@@ -1,13 +1,3 @@
----
-title: "Rita Turras"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 512
-last_edited: "2010-04-12T11:37:50Z"
-last_editor: "Neteinstein"
----
-
 # Rita Turras
 
 ### Acampamentos
@@ -32,4 +22,7 @@ A Rita é irmã do [Pedro Turras](../P/Pedro%20Turras.md), da [Inês Turras](../
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

@@ -1,14 +1,3 @@
----
-title: "Descola"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2004"
-  - "Bicicletas"
-wiki_id: 126
-last_edited: "2010-04-04T16:31:21Z"
-last_editor: "Ritags"
----
-
 # Descola
 
 Descola foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que se realizou em Arouca.
@@ -49,4 +38,8 @@ Descola foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que s
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2004](../../Categorias/Acampamentos%20de%202004.md) · [Bicicletas](../../Categorias/Bicicletas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2004](../../Categorias/Acampamentos%20de%202004.md) |
+| [Bicicletas](../../Categorias/Bicicletas.md) |

@@ -1,14 +1,3 @@
----
-title: "Obra Prima"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2010"
-  - "Formação de Animadores"
-wiki_id: 994
-last_edited: "2010-08-23T17:06:31Z"
-last_editor: "Neteinstein"
----
-
 # Obra Prima
 
 O 'Obra Prima' foi um campo de Formação que decorreu entre os dias 26 Julho e 1 de Agosto de 2010 em Vila da Ponte (Montalegre).
@@ -38,4 +27,8 @@ O 'Obra Prima' foi um campo de Formação que decorreu entre os dias 26 Julho e 
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2010](../../Categorias/Acampamentos%20de%202010.md) · [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2010](../../Categorias/Acampamentos%20de%202010.md) |
+| [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) |

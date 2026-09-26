@@ -1,13 +1,3 @@
----
-title: "Ana Ribeiro"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 25
-last_edited: "2009-02-07T15:34:52Z"
-last_editor: "Neteinstein"
----
-
 # Ana Ribeiro
 
 Ana Custódia da Silva Ribeiro, nascida a 30 de Junho de 1987 é animadora do CC desde 2005.
@@ -36,4 +26,7 @@ Ana Custódia da Silva Ribeiro, nascida a 30 de Junho de 1987 é animadora do CC
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

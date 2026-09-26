@@ -1,15 +1,3 @@
----
-title: "João Cortês Ferreira"
-aliases:
-  - "João Cortez Ferreira"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 875
-last_edited: "2010-08-22T23:39:32Z"
-last_editor: "ABarroso"
----
-
 # João Cortês Ferreira
 
 ### Acampamentos
@@ -37,4 +25,9 @@ last_editor: "ABarroso"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+**Outros nomes:** João Cortez Ferreira
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

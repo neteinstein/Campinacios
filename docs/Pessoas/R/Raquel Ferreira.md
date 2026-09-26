@@ -1,13 +1,3 @@
----
-title: "Raquel Ferreira"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 544
-last_edited: "2009-02-07T15:28:58Z"
-last_editor: "Neteinstein"
----
-
 # Raquel Ferreira
 
 Raquel Ferreira foi de 2001 a 2004 uma dos animadoras do Colégio da Imaculada Conceição.
@@ -23,4 +13,7 @@ Raquel Ferreira foi de 2001 a 2004 uma dos animadoras do Colégio da Imaculada C
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

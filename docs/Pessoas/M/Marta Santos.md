@@ -1,15 +1,3 @@
----
-title: "Marta Santos"
-aliases:
-  - "Marta Flora"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 646
-last_edited: "2009-02-11T01:50:18Z"
-last_editor: "Tnbahia"
----
-
 # Marta Santos
 
 ### Acampamentos
@@ -28,4 +16,9 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+**Outros nomes:** Marta Flora
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

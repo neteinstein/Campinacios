@@ -1,13 +1,3 @@
----
-title: "Luís Godinho"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 748
-last_edited: "2009-12-06T22:14:54Z"
-last_editor: "Tnbahia"
----
-
 # Luís Godinho
 
 ### Acampamentos
@@ -28,4 +18,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

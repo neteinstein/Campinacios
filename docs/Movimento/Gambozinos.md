@@ -1,12 +1,3 @@
----
-title: "Gambozinos"
-categories:
-  - "História"
-wiki_id: 388
-last_edited: "2009-11-26T14:39:03Z"
-last_editor: "Neteinstein"
----
-
 # Gambozinos
 
 Os GAMBOZINOS são um movimento que ainda está em fase de estruturação. Na sua génese está sobretudo a amizade e o trabalho pastoral que alguns jesuítas em formação – José Manuel Lopes, Virgílio Oliveira e Costa, Abel Bandeira, Paulo Teia e Hermínio Vitorino, quando eram estudantes de filosofia, em Braga –, estabeleceram com algumas famílias e suas crianças da rua de S. Barnabé em Braga. E para elas organizaram acampamentos e outras actividades de Verão.
@@ -48,4 +39,6 @@ Cfr. José da Silva ALMEIDA SJ, Para Educar Melhor - Campos de Férias Inacianos
 
 ---
 
-**Categorias:** [História](../Categorias/Hist%C3%B3ria.md)
+| Categorias |
+| --- |
+| [História](../Categorias/Hist%C3%B3ria.md) |

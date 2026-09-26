@@ -1,10 +1,3 @@
----
-title: "Animadores"
-wiki_id: 39
-last_edited: "2009-01-25T20:05:36Z"
-last_editor: "Neteinstein"
----
-
 # Animadores
 
 Animadores dos Campinácios

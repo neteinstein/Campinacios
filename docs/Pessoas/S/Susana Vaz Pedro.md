@@ -1,15 +1,3 @@
----
-title: "Susana Vaz Pedro"
-aliases:
-  - "SVP"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 282
-last_edited: "2009-02-07T15:40:44Z"
-last_editor: "Neteinstein"
----
-
 # Susana Vaz Pedro
 
 Susana Vaz Pedro é desde 2002, uma das animadoras do Colégio da Imaculada Conceição.
@@ -47,4 +35,9 @@ Susana Vaz Pedro é desde 2002, uma das animadoras do Colégio da Imaculada Conc
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+**Outros nomes:** SVP
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

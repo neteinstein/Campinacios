@@ -1,12 +1,3 @@
----
-title: "Acampamentos de 2005"
-categories:
-  - "Acampamentos"
-wiki_id: 172
-last_edited: "2009-01-21T21:51:01Z"
-last_editor: "Neteinstein"
----
-
 # Acampamentos de 2005
 
 Acampamentos realizados em 2005
@@ -23,4 +14,6 @@ Acampamentos realizados em 2005
 
 ---
 
-**Categorias:** [Acampamentos](Acampamentos.md)
+| Categorias |
+| --- |
+| [Acampamentos](Acampamentos.md) |

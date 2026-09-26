@@ -1,13 +1,3 @@
----
-title: "Jorge Ramos"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 66
-last_edited: "2009-09-25T18:00:11Z"
-last_editor: "Silvinha"
----
-
 # Jorge Ramos
 
 Jorge Ramos é desde 2008 um dos animadores do Colégio da Imaculada Conceição.
@@ -38,4 +28,7 @@ Jorge Ramos é desde 2008 um dos animadores do Colégio da Imaculada Conceição
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

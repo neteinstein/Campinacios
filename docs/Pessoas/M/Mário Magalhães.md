@@ -1,13 +1,3 @@
----
-title: "Mário Magalhães"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 900
-last_edited: "2009-12-03T12:58:32Z"
-last_editor: "Tnbahia"
----
-
 # Mário Magalhães
 
 ### Acampamentos
@@ -23,4 +13,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

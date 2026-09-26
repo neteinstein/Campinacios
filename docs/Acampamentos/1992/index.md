@@ -1,7 +1,3 @@
----
-title: "1992"
----
-
 # 1992
 
 - [Agroal](Agroal.md) — Trotinetas

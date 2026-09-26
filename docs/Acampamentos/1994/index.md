@@ -1,7 +1,3 @@
----
-title: "1994"
----
-
 # 1994
 
 - [Bicicletas 94 I](Bicicletas%2094%20I.md) — Bicicletas

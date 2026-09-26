@@ -1,14 +1,3 @@
----
-title: "Irina Ramos"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-  - "Direcção Local do CC"
-wiki_id: 584
-last_edited: "2009-02-07T15:36:43Z"
-last_editor: "Neteinstein"
----
-
 # Irina Ramos
 
 Irina Manuel Sousa Ramos, nascida a 28 de Setembro de 1981, é animadora do CC.
@@ -38,4 +27,8 @@ Irina Manuel Sousa Ramos, nascida a 28 de Setembro de 1981, é animadora do CC.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) · [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |
+| [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) |

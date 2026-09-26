@@ -1,12 +1,3 @@
----
-title: "Acampamentos de 1992"
-categories:
-  - "Acampamentos"
-wiki_id: 318
-last_edited: "2009-01-24T02:55:42Z"
-last_editor: "Neteinstein"
----
-
 # Acampamentos de 1992
 
 Acampamentos realizados em 1992
@@ -21,4 +12,6 @@ Acampamentos realizados em 1992
 
 ---
 
-**Categorias:** [Acampamentos](Acampamentos.md)
+| Categorias |
+| --- |
+| [Acampamentos](Acampamentos.md) |

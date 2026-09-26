@@ -1,14 +1,3 @@
----
-title: "Porto da Balsa 92"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1992"
-  - "Bicicletas"
-wiki_id: 301
-last_edited: "2009-02-15T14:45:28Z"
-last_editor: "Neteinstein"
----
-
 # Porto da Balsa 92
 
 Acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que decorreu em Porto da Balsa de 5 a 14 de Setembro de 1992.
@@ -25,4 +14,8 @@ Acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que decorreu em Port
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1992](../../Categorias/Acampamentos%20de%201992.md) · [Bicicletas](../../Categorias/Bicicletas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1992](../../Categorias/Acampamentos%20de%201992.md) |
+| [Bicicletas](../../Categorias/Bicicletas.md) |

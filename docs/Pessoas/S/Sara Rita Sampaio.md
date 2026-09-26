@@ -1,13 +1,3 @@
----
-title: "Sara Rita Sampaio"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 947
-last_edited: "2010-08-19T17:36:19Z"
-last_editor: "Tnbahia"
----
-
 # Sara Rita Sampaio
 
 ### Acampamentos
@@ -35,4 +25,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

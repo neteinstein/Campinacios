@@ -1,15 +1,3 @@
----
-title: "Maria Manuel Urbano"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-  - "Direcção Local do CAIC"
-  - "Direcção Nacional"
-wiki_id: 564
-last_edited: "2009-12-04T17:46:58Z"
-last_editor: "Tnbahia"
----
-
 # Maria Manuel Urbano
 
 Maria Manuel Urbano foi uma das animadoras do Colégio da Imaculada Conceição.
@@ -33,4 +21,9 @@ Maria Manuel Urbano foi uma das animadoras do Colégio da Imaculada Conceição.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) · [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |
+| [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |

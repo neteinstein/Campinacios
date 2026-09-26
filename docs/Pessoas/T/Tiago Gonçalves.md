@@ -1,13 +1,3 @@
----
-title: "Tiago Gonçalves"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 192
-last_edited: "2010-08-22T23:37:50Z"
-last_editor: "ABarroso"
----
-
 # Tiago Gonçalves
 
 ### Acampamentos
@@ -34,4 +24,7 @@ last_editor: "ABarroso"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

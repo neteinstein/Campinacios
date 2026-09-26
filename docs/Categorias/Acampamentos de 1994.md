@@ -1,12 +1,3 @@
----
-title: "Acampamentos de 1994"
-categories:
-  - "Acampamentos"
-wiki_id: 320
-last_edited: "2009-01-24T02:57:44Z"
-last_editor: "Neteinstein"
----
-
 # Acampamentos de 1994
 
 Acampamentos realizados em 1994
@@ -23,4 +14,6 @@ Acampamentos realizados em 1994
 
 ---
 
-**Categorias:** [Acampamentos](Acampamentos.md)
+| Categorias |
+| --- |
+| [Acampamentos](Acampamentos.md) |

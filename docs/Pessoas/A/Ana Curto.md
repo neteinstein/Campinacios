@@ -1,13 +1,3 @@
----
-title: "Ana Curto"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 562
-last_edited: "2009-01-31T23:04:09Z"
-last_editor: "Neteinstein"
----
-
 # Ana Curto
 
 Ana Curto foi uma das animadoras do Colégio da Imaculada Conceição.
@@ -33,4 +23,7 @@ Ana Curto foi uma das animadoras do Colégio da Imaculada Conceição.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

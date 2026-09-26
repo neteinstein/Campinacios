@@ -1,15 +1,3 @@
----
-title: "Inês Próspero"
-aliases:
-  - "Inês Prospero"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 477
-last_edited: "2009-11-27T23:40:44Z"
-last_editor: "Neteinstein"
----
-
 # Inês Próspero
 
 Inês Próspero é antiga aluna do [CSJB](../../Movimento/CSJB.md) e animadora desde 2003.
@@ -38,4 +26,9 @@ Inês Próspero é antiga aluna do [CSJB](../../Movimento/CSJB.md) e animadora d
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+**Outros nomes:** Inês Prospero
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

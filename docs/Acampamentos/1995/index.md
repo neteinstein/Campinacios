@@ -1,7 +1,3 @@
----
-title: "1995"
----
-
 # 1995
 
 - [Benfeita 95](Benfeita%2095.md) — Triciclos

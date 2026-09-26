@@ -1,10 +1,3 @@
----
-title: "Portal comunitário"
-wiki_id: 381
-last_edited: "2009-01-24T18:08:38Z"
-last_editor: "Neteinstein"
----
-
 # Portal comunitário
 
 Olá,

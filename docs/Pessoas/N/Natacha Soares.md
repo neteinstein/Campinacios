@@ -1,13 +1,3 @@
----
-title: "Natacha Soares"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 840
-last_edited: "2009-09-25T18:24:36Z"
-last_editor: "Silvinha"
----
-
 # Natacha Soares
 
 ### Acampamentos
@@ -28,4 +18,7 @@ last_editor: "Silvinha"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

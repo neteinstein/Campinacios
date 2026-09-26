@@ -1,14 +1,3 @@
----
-title: "Carolina Carvalho"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-  - "Direcção Local do CC"
-wiki_id: 150
-last_edited: "2009-03-03T18:40:50Z"
-last_editor: "Tnbahia"
----
-
 # Carolina Carvalho
 
 Carolina Teixeira de Carvalho, nascida a 17 de Fevereiro de 1984 é animadora do CC desde 2002.
@@ -48,4 +37,8 @@ Carolina Teixeira de Carvalho, nascida a 17 de Fevereiro de 1984 é animadora do
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) · [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |
+| [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) |

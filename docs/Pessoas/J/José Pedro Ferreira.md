@@ -1,13 +1,3 @@
----
-title: "José Pedro Ferreira"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 587
-last_edited: "2009-02-05T15:51:58Z"
-last_editor: "Tnbahia"
----
-
 # José Pedro Ferreira
 
 José Pedro Veloso Campos Ferreira, nascido a 19 de Junho de 1982, é animador do CC.
@@ -31,4 +21,7 @@ José Pedro Veloso Campos Ferreira, nascido a 19 de Junho de 1982, é animador d
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

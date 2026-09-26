@@ -1,13 +1,3 @@
----
-title: "Mariana Cardoso"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 461
-last_edited: "2009-02-01T19:28:24Z"
-last_editor: "Tnbahia"
----
-
 # Mariana Cardoso
 
 Mariana Soares Cardoso, nascida a 10 de Junho de 1985 é animadora do CC.
@@ -28,4 +18,7 @@ Mariana Soares Cardoso, nascida a 10 de Junho de 1985 é animadora do CC.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

@@ -1,14 +1,3 @@
----
-title: "Lembras-te?"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2009"
-  - "Lambretas"
-wiki_id: 897
-last_edited: "2009-08-23T15:34:56Z"
-last_editor: "Tnbahia"
----
-
 # Lembras-te?
 
 O Lembras-te? decorreu entre os dias 29 de Julho e 7 de Agosto de 2009 no Lugar do Vau (Celorico de Basto), sendo um acampamento de [Lambretas](../../Categorias/Lambretas.md).
@@ -38,4 +27,8 @@ O Lembras-te? decorreu entre os dias 29 de Julho e 7 de Agosto de 2009 no Lugar 
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2009](../../Categorias/Acampamentos%20de%202009.md) · [Lambretas](../../Categorias/Lambretas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2009](../../Categorias/Acampamentos%20de%202009.md) |
+| [Lambretas](../../Categorias/Lambretas.md) |

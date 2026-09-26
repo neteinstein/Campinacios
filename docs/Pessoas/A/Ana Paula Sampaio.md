@@ -1,13 +1,3 @@
----
-title: "Ana Paula Sampaio"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 26
-last_edited: "2010-08-19T17:22:32Z"
-last_editor: "Tnbahia"
----
-
 # Ana Paula Sampaio
 
 Animadora do CC desde 2005.
@@ -39,4 +29,7 @@ Animadora do CC desde 2005.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

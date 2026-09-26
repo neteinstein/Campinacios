@@ -1,10 +1,3 @@
----
-title: "Manuais"
-wiki_id: 440
-last_edited: "2009-01-25T20:42:56Z"
-last_editor: "Tnbahia"
----
-
 # Manuais
 
 Manuais e documentos importantes nos Campinácios.

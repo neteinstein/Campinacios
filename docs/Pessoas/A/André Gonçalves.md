@@ -1,15 +1,3 @@
----
-title: "André Gonçalves"
-aliases:
-  - "Motorzinho"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 579
-last_edited: "2009-02-01T16:11:36Z"
-last_editor: "Tnbahia"
----
-
 # André Gonçalves
 
 André Filipe de Faria Ramalho da Silva Gonçalves, nascido a 12 de Fevereiro de 1980 foi animador do CC.
@@ -37,4 +25,9 @@ André Filipe de Faria Ramalho da Silva Gonçalves, nascido a 12 de Fevereiro de
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+**Outros nomes:** Motorzinho
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

@@ -1,16 +1,3 @@
----
-title: "Arethë"
-aliases:
-  - "Arethe"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2008"
-  - "Trotinetas"
-wiki_id: 49
-last_edited: "2009-02-01T01:36:59Z"
-last_editor: "Neteinstein"
----
-
 # Arethë
 
 O Arethë foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que se realizou entre 24 de Julho e 2 de Agosto de 2008 em Serpins.
@@ -42,4 +29,10 @@ O Arethë foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2008](../../Categorias/Acampamentos%20de%202008.md) · [Trotinetas](../../Categorias/Trotinetas.md)
+**Outros nomes:** Arethe
+
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2008](../../Categorias/Acampamentos%20de%202008.md) |
+| [Trotinetas](../../Categorias/Trotinetas.md) |

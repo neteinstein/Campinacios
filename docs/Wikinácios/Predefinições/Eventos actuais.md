@@ -1,10 +1,3 @@
----
-title: "Eventos actuais"
-wiki_id: 356
-last_edited: "2009-11-27T10:48:45Z"
-last_editor: "Neteinstein"
----
-
 # Eventos actuais
 
 ```text

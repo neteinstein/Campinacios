@@ -1,13 +1,3 @@
----
-title: "Catarina Durão Barroso"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 721
-last_edited: "2009-09-01T11:45:59Z"
-last_editor: "Edu"
----
-
 # Catarina Durão Barroso
 
 - **Participante:**
@@ -23,4 +13,7 @@ last_editor: "Edu"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

@@ -1,14 +1,3 @@
----
-title: "Nómada"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2006"
-  - "Bicicletas"
-wiki_id: 105
-last_edited: "2009-12-02T14:29:12Z"
-last_editor: "Tnbahia"
----
-
 # Nómada
 
 O Nómada foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que decorreu de 3 a 12 de Agosto de 2006 em Foz do Algé (Figueiró dos Vinhos).
@@ -53,4 +42,8 @@ O Nómada foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2006](../../Categorias/Acampamentos%20de%202006.md) · [Bicicletas](../../Categorias/Bicicletas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2006](../../Categorias/Acampamentos%20de%202006.md) |
+| [Bicicletas](../../Categorias/Bicicletas.md) |

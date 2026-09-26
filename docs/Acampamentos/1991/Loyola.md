@@ -1,13 +1,3 @@
----
-title: "Loyola"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1991"
-wiki_id: 300
-last_edited: "2009-02-15T00:09:31Z"
-last_editor: "Neteinstein"
----
-
 # Loyola
 
 O Loyola decorreu de 21 a 30 de Julho de 1991 em Fonte de Nena (Caldelas).
@@ -27,4 +17,7 @@ O Loyola decorreu de 21 a 30 de Julho de 1991 em Fonte de Nena (Caldelas).
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1991](../../Categorias/Acampamentos%20de%201991.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1991](../../Categorias/Acampamentos%20de%201991.md) |

@@ -1,12 +1,3 @@
----
-title: "Acampamentos de 1993"
-categories:
-  - "Acampamentos"
-wiki_id: 319
-last_edited: "2009-01-24T02:56:09Z"
-last_editor: "Neteinstein"
----
-
 # Acampamentos de 1993
 
 Acampamentos realizados em 1993
@@ -22,4 +13,6 @@ Acampamentos realizados em 1993
 
 ---
 
-**Categorias:** [Acampamentos](Acampamentos.md)
+| Categorias |
+| --- |
+| [Acampamentos](Acampamentos.md) |

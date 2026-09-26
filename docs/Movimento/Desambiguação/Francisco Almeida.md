@@ -1,12 +1,3 @@
----
-title: "Francisco Almeida"
-categories:
-  - "Desambiguação"
-wiki_id: 733
-last_edited: "2009-12-06T18:29:03Z"
-last_editor: "Tnbahia"
----
-
 # Francisco Almeida
 
 ---
@@ -26,4 +17,6 @@ Se uma ligação interna o conduziu até aqui, sugerimos que a corrija para apon
 
 ---
 
-**Categorias:** [Desambiguação](../../Categorias/Desambigua%C3%A7%C3%A3o.md)
+| Categorias |
+| --- |
+| [Desambiguação](../../Categorias/Desambigua%C3%A7%C3%A3o.md) |

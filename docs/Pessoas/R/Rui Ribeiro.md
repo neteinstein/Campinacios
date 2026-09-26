@@ -1,13 +1,3 @@
----
-title: "Rui Ribeiro"
-categories:
-  - "Jesuítas"
-  - "Direcção Local do CC"
-wiki_id: 230
-last_edited: "2009-01-23T03:11:22Z"
-last_editor: "Tnbahia"
----
-
 # Rui Ribeiro
 
 ### Cargos
@@ -31,4 +21,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) · [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
+| Categorias |
+| --- |
+| [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |
+| [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) |

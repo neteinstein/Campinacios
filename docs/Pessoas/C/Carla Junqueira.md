@@ -1,13 +1,3 @@
----
-title: "Carla Junqueira"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 640
-last_edited: "2009-02-07T20:15:33Z"
-last_editor: "Tnbahia"
----
-
 # Carla Junqueira
 
 ## História dentro do movimento
@@ -28,4 +18,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

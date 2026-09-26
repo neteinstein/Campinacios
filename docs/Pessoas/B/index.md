@@ -1,7 +1,3 @@
----
-title: "B"
----
-
 # B
 
 - [Beatriz Miranda](Beatriz%20Miranda.md)

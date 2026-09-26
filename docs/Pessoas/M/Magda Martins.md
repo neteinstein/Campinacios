@@ -1,13 +1,3 @@
----
-title: "Magda Martins"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 874
-last_edited: "2009-09-25T15:51:20Z"
-last_editor: "Silvinha"
----
-
 # Magda Martins
 
 ### Acampamentos
@@ -29,4 +19,7 @@ last_editor: "Silvinha"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

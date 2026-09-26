@@ -1,13 +1,3 @@
----
-title: "Joana Almeida"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 861
-last_edited: "2009-09-25T18:18:24Z"
-last_editor: "Silvinha"
----
-
 # Joana Almeida
 
 ### Acampamentos
@@ -32,4 +22,7 @@ last_editor: "Silvinha"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

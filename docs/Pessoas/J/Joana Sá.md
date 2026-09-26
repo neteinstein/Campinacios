@@ -1,14 +1,3 @@
----
-title: "Joana Sá"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-  - "Direcção Local do CAIC"
-wiki_id: 333
-last_edited: "2009-11-14T16:23:13Z"
-last_editor: "Neteinstein"
----
-
 # Joana Sá
 
 Joana Sá foi de 2000 a 2005 uma das animadoras do Colégio da Imaculada Conceição.
@@ -42,4 +31,8 @@ Joana Sá foi de 2000 a 2005 uma das animadoras do Colégio da Imaculada Concei�
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) · [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |
+| [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) |

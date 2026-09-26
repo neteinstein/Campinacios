@@ -1,16 +1,3 @@
----
-title: "Alfa"
-aliases:
-  - "Alpha"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1990"
-  - "Trotinetas"
-wiki_id: 648
-last_edited: "2009-02-15T14:37:27Z"
-last_editor: "Neteinstein"
----
-
 # Alfa
 
 O Alfa foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que decorreu em Caldas de S. Paulo.
@@ -40,4 +27,10 @@ O Alfa foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que de
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1990](../../Categorias/Acampamentos%20de%201990.md) · [Trotinetas](../../Categorias/Trotinetas.md)
+**Outros nomes:** Alpha
+
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1990](../../Categorias/Acampamentos%20de%201990.md) |
+| [Trotinetas](../../Categorias/Trotinetas.md) |

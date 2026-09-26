@@ -1,14 +1,3 @@
----
-title: "Francisco Costa Macedo"
-categories:
-  - "Animadores"
-  - "Jesuítas"
-  - "Animadores do CSJB"
-wiki_id: 984
-last_edited: "2010-04-26T15:08:04Z"
-last_editor: "Neteinstein"
----
-
 # Francisco Costa Macedo
 
 Francisco Costa Macedo foi um animador do CSJB. Foi também jesuíta.
@@ -25,4 +14,8 @@ Francisco Costa Macedo foi um animador do CSJB. Foi também jesuíta.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

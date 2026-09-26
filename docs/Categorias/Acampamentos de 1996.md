@@ -1,12 +1,3 @@
----
-title: "Acampamentos de 1996"
-categories:
-  - "Acampamentos"
-wiki_id: 322
-last_edited: "2009-01-24T02:58:21Z"
-last_editor: "Neteinstein"
----
-
 # Acampamentos de 1996
 
 Acampamentos realizados em 1996
@@ -20,4 +11,6 @@ Acampamentos realizados em 1996
 
 ---
 
-**Categorias:** [Acampamentos](Acampamentos.md)
+| Categorias |
+| --- |
+| [Acampamentos](Acampamentos.md) |

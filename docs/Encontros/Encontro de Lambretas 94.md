@@ -1,12 +1,3 @@
----
-title: "Encontro de Lambretas 94"
-categories:
-  - "Encontros Nacionais"
-wiki_id: 379
-last_edited: "2009-01-31T23:24:58Z"
-last_editor: "Neteinstein"
----
-
 # Encontro de Lambretas 94
 
 Este foi um Encontro Nacional de Lambretas que decorreu de 28 a 30 de Outubro de 1994 no CAIC.
@@ -21,4 +12,6 @@ Este foi um Encontro Nacional de Lambretas que decorreu de 28 a 30 de Outubro de
 
 ---
 
-**Categorias:** [Encontros Nacionais](../Categorias/Encontros%20Nacionais.md)
+| Categorias |
+| --- |
+| [Encontros Nacionais](../Categorias/Encontros%20Nacionais.md) |

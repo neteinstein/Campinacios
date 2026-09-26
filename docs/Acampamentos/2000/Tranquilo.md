@@ -1,14 +1,3 @@
----
-title: "Tranquilo"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2000"
-  - "Bicicletas"
-wiki_id: 443
-last_edited: "2009-02-01T15:34:54Z"
-last_editor: "Tnbahia"
----
-
 # Tranquilo
 
 O Tranquilo foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que se realizou de 15 a 24 de Agosto de 2000 em Digueifel.
@@ -47,4 +36,8 @@ O Tranquilo foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) q
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2000](../../Categorias/Acampamentos%20de%202000.md) · [Bicicletas](../../Categorias/Bicicletas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2000](../../Categorias/Acampamentos%20de%202000.md) |
+| [Bicicletas](../../Categorias/Bicicletas.md) |
