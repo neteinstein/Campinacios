@@ -31,7 +31,7 @@
 - **[Vocabulário](docs/Movimento/Vocabul%C3%A1rio.md)** — [Animador](docs/Movimento/Animador.md) &middot; [Jesuíta](docs/Movimento/Jesu%C3%ADta.md) &middot; [Participante](docs/Movimento/Participante.md) &middot; [Cantinácio](docs/Movimento/Cantin%C3%A1cio.md) &middot; [Culinácio](docs/Movimento/Culin%C3%A1cio.md) &middot; [mais...](docs/Movimento/Vocabul%C3%A1rio.md)
 - **[Contactos](docs/Movimento/Contactos.md)** — [Direcção Nacional](docs/Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) &middot; [Direcção Local do CAIC](docs/Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) &middot; [Direcção Local do CC](docs/Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) &middot; [Direcção Local do CSJB](docs/Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) &middot; [Contactos dos Animadores](docs/Movimento/Contactos.md)
 - **[Legislação](docs/Movimento/Legisla%C3%A7%C3%A3o.md)** — [Legislação de Acampamentos Ocasionais](docs/Movimento/Legisla%C3%A7%C3%A3o.md)
-- **Staff** — [Pedro Vicente](docs/Pessoas/P/Pedro%20Vicente.md) &middot; [Tiago Bahia](docs/Pessoas/T/Tiago%20Bahia.md)
+- **[Contribuidores](docs/Wikin%C3%A1cios/Contribuidores.md)** — [António Queiroz Martins](docs/Pessoas/A/Ant%C3%B3nio%20Queiroz%20Martins.md) &middot; [Filipe Barroso](docs/Pessoas/F/Filipe%20Barroso.md) &middot; [Pedro Vicente](docs/Pessoas/P/Pedro%20Vicente.md) &middot; [Sílvia Lobo](docs/Pessoas/S/S%C3%ADlvia%20Lobo.md) &middot; [Tiago Bahia](docs/Pessoas/T/Tiago%20Bahia.md)
 - **[Todos os artigos](docs/Todos%20os%20artigos.md)**
 
 ## Como tudo começou...

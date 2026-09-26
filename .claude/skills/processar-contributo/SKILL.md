@@ -1,6 +1,6 @@
 ---
 name: processar-contributo
-description: Process information sent in for the Wikinácios — the GitHub issues opened with the "🏕️ Acampamento" or "🙋 Pessoa" forms of neteinstein/Campinacios (titles "[Acampamento] …" / "[Pessoa] …"), or the same text templates (docs/Wikinácios/Ajuda/Enviar informação.md) pasted in chat or forwarded by the Staff. Use it whenever the user says "processa o issue #12", "há contributos novos?", "trata dos formulários pendentes", pastes a filled template, or mentions submissions, pedidos or issues from the site.
+description: Process information sent in for the Wikinácios — the GitHub issues opened with the "🏕️ Acampamento" or "🙋 Pessoa" forms of neteinstein/Campinacios (titles "[Acampamento] …" / "[Pessoa] …"), or the same text templates (docs/Wikinácios/Ajuda/Enviar informação.md) pasted in chat or forwarded by the Contribuidores. Use it whenever the user says "processa o issue #12", "há contributos novos?", "trata dos formulários pendentes", pastes a filled template, or mentions submissions, pedidos or issues from the site.
 ---
 
 # Processing a submission
