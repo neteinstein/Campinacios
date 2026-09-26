@@ -52,8 +52,11 @@ tentar adivinhá-la sem limite, por isso deve ser longa e aleatória.
   páginas restritas *ToDo* (notas internas do Staff, de 2009), *Restrito à
   DN* e *Restrito aos Directores* (só tinham uma ligação para os locais de
   acampamento, para onde as ligações a elas apontam agora).
-- As imagens: o backup só tem a base de dados, por isso as páginas das
-  imagens mostram apenas a descrição e os dados do ficheiro original.
+- As imagens: o backup só tem a base de dados, não os ficheiros.
+- As páginas de gestão da wiki (Administradores, Burocratas, Artigos
+  pedidos, Portal comunitário, Página de testes, Utilizadores).
+- Os endereços de e-mail e as ligações do domínio campinacios.org, que
+  já não existe.
 
 ## Como editar e publicar
 

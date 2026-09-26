@@ -31,10 +31,6 @@ Lourenço Eiró foi um dos fundadores dos [Campinácios](../../Movimento/Campin%
     - 2009 [Caminho](../../Acampamentos/2009/Caminho.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2010 [Obra Prima](../../Acampamentos/2010/Obra%20Prima.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
-## Contacto
-
-E-mail: Assistente@Campinacios.org
-
 ## Páginas que ligam para aqui
 
 - [Academia](../../Acampamentos/2005/Academia.md)

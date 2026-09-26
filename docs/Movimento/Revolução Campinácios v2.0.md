@@ -28,13 +28,13 @@ A iniciativa teve o apoio directo da [Direcção Nacional](../Categorias/Direc%C
 
 - **Coordenação**
     - [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)
-- **[Joomla](http://www.campinacios.org)**
+- **Joomla**
     - [Filipe Barroso](../Pessoas/F/Filipe%20Barroso.md) e [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)
-- **[Wiki](http://www.campinacios.org/wiki)**
+- **Wiki**
     - [Edu](../Pessoas/A/Ant%C3%B3nio%20Queiroz%20Martins.md), [Filipe Barroso](../Pessoas/F/Filipe%20Barroso.md), [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) e [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md)
 - **Galeria** (Working on it...)
     - [Filipe Barroso](../Pessoas/F/Filipe%20Barroso.md)
-- **[Fórum](http://www.campinacios.org/index.php?option=com_ccboard&view=forumlist&Itemid=91)**
+- **Fórum**
     - [Filipe Barroso](../Pessoas/F/Filipe%20Barroso.md)
 - **Loja Online** (Working on it...)
     - [Filipe Barroso](../Pessoas/F/Filipe%20Barroso.md)
