@@ -6,12 +6,6 @@ Tal como na Wikipédia, que nos inspirou, toda a gente pode modificar este síti
     - [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)
 - CC
     - [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md)
-- CSJB
-    - [Filipe Barroso](../Pessoas/F/Filipe%20Barroso.md)
-
-## Área Restrita
-
-ToDo
 
 ## Páginas que ligam para aqui
 
