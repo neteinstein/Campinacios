@@ -1,12 +1,3 @@
----
-title: "Mamã"
-categories:
-  - "Cargos"
-wiki_id: 413
-last_edited: "2009-01-25T21:21:25Z"
-last_editor: "Neteinstein"
----
-
 # Mamã
 
 Ser mamã de acampamento é das tarefas mais exigentesmas também das mais enriquecedoras.
@@ -173,4 +164,6 @@ Quando tiveres dúvidas do que é ser mamã de acampamento lembra-te como é (ex
 
 ---
 
-**Categorias:** [Cargos](../Categorias/Cargos.md)
+| Categorias |
+| --- |
+| [Cargos](../Categorias/Cargos.md) |

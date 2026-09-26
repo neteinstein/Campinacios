@@ -1,13 +1,3 @@
----
-title: "Sara Antunes"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 992
-last_edited: "2010-08-19T17:31:02Z"
-last_editor: "Tnbahia"
----
-
 # Sara Antunes
 
 ### Acampamentos
@@ -23,4 +13,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

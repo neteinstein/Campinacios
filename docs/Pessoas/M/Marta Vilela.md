@@ -1,13 +1,3 @@
----
-title: "Marta Vilela"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 588
-last_edited: "2009-02-01T18:05:28Z"
-last_editor: "Tnbahia"
----
-
 # Marta Vilela
 
 Marta Vilela, nascida a 17 de Junho de 1974, é animadora do CC
@@ -33,4 +23,7 @@ Marta Vilela, nascida a 17 de Junho de 1974, é animadora do CC
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

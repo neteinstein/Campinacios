@@ -1,15 +1,3 @@
----
-title: "António Queiroz Martins"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-  - "Direcção Local do CSJB"
-  - "Direcção Nacional"
-wiki_id: 723
-last_edited: "2010-07-12T21:58:22Z"
-last_editor: "Edu"
----
-
 # António Queiroz Martins
 
 António Eduardo Coutinho Lopes de Queiroz Martins, conhecido por Edu, antigo aluno do Colégio S. João de Brito, é animador dos Campinácios desde 2008.
@@ -45,4 +33,9 @@ António Eduardo Coutinho Lopes de Queiroz Martins, conhecido por Edu, antigo al
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) · [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |
+| [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |

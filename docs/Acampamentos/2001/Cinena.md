@@ -1,14 +1,3 @@
----
-title: "Cinena"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2001"
-  - "Bicicletas"
-wiki_id: 297
-last_edited: "2009-12-06T18:33:19Z"
-last_editor: "Tnbahia"
----
-
 # Cinena
 
 O Cinena foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que decorreu de 20 a 29 de Agosto de 2001 em Fonte de Nena (Caldelas).
@@ -46,4 +35,8 @@ O Cinena foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que 
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2001](../../Categorias/Acampamentos%20de%202001.md) · [Bicicletas](../../Categorias/Bicicletas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2001](../../Categorias/Acampamentos%20de%202001.md) |
+| [Bicicletas](../../Categorias/Bicicletas.md) |

@@ -1,13 +1,3 @@
----
-title: "José Carlos Miranda"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 247
-last_edited: "2009-02-07T15:27:32Z"
-last_editor: "Neteinstein"
----
-
 # José Carlos Miranda
 
 José Carlos Miranda, é um dos animadores do Colégio da Imaculada Conceição.
@@ -34,4 +24,7 @@ José Carlos Miranda, é um dos animadores do Colégio da Imaculada Conceição.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

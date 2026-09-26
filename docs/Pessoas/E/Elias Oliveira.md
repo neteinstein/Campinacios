@@ -1,13 +1,3 @@
----
-title: "Elias Oliveira"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 200
-last_edited: "2009-02-17T11:03:27Z"
-last_editor: "Elias"
----
-
 # Elias Oliveira
 
 Elias Oliveira é, desde 2005, um dos animadores do Colégio das Caldinhas.
@@ -34,4 +24,7 @@ Elias Oliveira é, desde 2005, um dos animadores do Colégio das Caldinhas.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

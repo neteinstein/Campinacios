@@ -1,14 +1,3 @@
----
-title: "Rastilho"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2003"
-  - "Lambretas"
-wiki_id: 163
-last_edited: "2009-02-15T15:02:09Z"
-last_editor: "Neteinstein"
----
-
 # Rastilho
 
 O Rastilho foi um acampamento de Lambretas que decorreu de 31 de Julho a 12 de Agosto de 2003 na Quinta da Mata (Ponte da Barca)
@@ -57,4 +46,8 @@ O Rastilho foi um acampamento de Lambretas que decorreu de 31 de Julho a 12 de A
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2003](../../Categorias/Acampamentos%20de%202003.md) · [Lambretas](../../Categorias/Lambretas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2003](../../Categorias/Acampamentos%20de%202003.md) |
+| [Lambretas](../../Categorias/Lambretas.md) |

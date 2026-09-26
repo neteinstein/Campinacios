@@ -1,20 +1,3 @@
----
-title: "Maria João Simões"
-aliases:
-  - "Majo"
-  - "Majó"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-  - "Direcção Local do CAIC"
-  - "Coordenador Local do CAIC"
-  - "Direcção Nacional"
-  - "Coordenadores Nacionais"
-wiki_id: 73
-last_edited: "2009-08-07T16:31:37Z"
-last_editor: "Edu"
----
-
 # Maria João Simões
 
 Maria João Simões, mais conhecida por Majo, é desde 1996 uma das animadoras do CAIC.
@@ -68,4 +51,13 @@ Maria João Simões, mais conhecida por Majo, é desde 1996 uma das animadoras d
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) · [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) · [Coordenador Local do CAIC](../../Categorias/Coordenador%20Local%20do%20CAIC.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) · [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md)
+**Outros nomes:** Majo · Majó
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |
+| [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) |
+| [Coordenador Local do CAIC](../../Categorias/Coordenador%20Local%20do%20CAIC.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |
+| [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md) |

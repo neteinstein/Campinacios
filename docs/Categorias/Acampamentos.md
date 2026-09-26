@@ -1,10 +1,3 @@
----
-title: "Acampamentos"
-wiki_id: 35
-last_edited: "2010-11-02T21:57:45Z"
-last_editor: "Bpimentan"
----
-
 # Acampamentos
 
 ## Acampamentos

@@ -1,15 +1,3 @@
----
-title: "Animador Livre"
-aliases:
-  - "Animadora Livre"
-  - "Animadores Livres"
-categories:
-  - "Cargos"
-wiki_id: 419
-last_edited: "2009-02-05T00:52:17Z"
-last_editor: "Neteinstein"
----
-
 # Animador Livre
 
 - Tem que ser uma pessoa activa, desenrascada e que saiba responder ao improviso.
@@ -226,4 +214,8 @@ last_editor: "Neteinstein"
 
 ---
 
-**Categorias:** [Cargos](../Categorias/Cargos.md)
+**Outros nomes:** Animadora Livre · Animadores Livres
+
+| Categorias |
+| --- |
+| [Cargos](../Categorias/Cargos.md) |

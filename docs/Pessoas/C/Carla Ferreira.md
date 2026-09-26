@@ -1,13 +1,3 @@
----
-title: "Carla Ferreira"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 856
-last_edited: "2009-09-25T16:45:54Z"
-last_editor: "Silvinha"
----
-
 # Carla Ferreira
 
 Carla Ferreira nasceu a 19 de Outubro de 1990.
@@ -32,4 +22,7 @@ Frequentou o CC de 1992 a 2008. Animadora desde 2008 até hoje.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

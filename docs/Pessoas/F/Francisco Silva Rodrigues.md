@@ -1,15 +1,3 @@
----
-title: "Francisco Silva Rodrigues"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-  - "Direcção Local do CSJB"
-  - "Direcção Nacional"
-wiki_id: 220
-last_edited: "2009-08-23T16:15:27Z"
-last_editor: "Tnbahia"
----
-
 # Francisco Silva Rodrigues
 
 Francisco Rodrigues, também conhecido por Pica é animador do Colégio São João de Brito.
@@ -45,4 +33,9 @@ Francisco Rodrigues, também conhecido por Pica é animador do Colégio São Jo�
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) · [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |
+| [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |

@@ -1,14 +1,3 @@
----
-title: "Além"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1998"
-  - "Trotinetas"
-wiki_id: 446
-last_edited: "2010-02-02T22:28:42Z"
-last_editor: "Sambinha"
----
-
 # Além
 
 ### Animadores
@@ -34,4 +23,8 @@ last_editor: "Sambinha"
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1998](../../Categorias/Acampamentos%20de%201998.md) · [Trotinetas](../../Categorias/Trotinetas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1998](../../Categorias/Acampamentos%20de%201998.md) |
+| [Trotinetas](../../Categorias/Trotinetas.md) |

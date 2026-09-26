@@ -1,13 +1,3 @@
----
-title: "Teresa Santos"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 595
-last_edited: "2009-12-03T12:27:31Z"
-last_editor: "Tnbahia"
----
-
 # Teresa Santos
 
 Teresa Maria Osório Dias dos Santos, nascida a 24 de Março de 1983, é animadora do CC
@@ -37,4 +27,7 @@ Teresa Maria Osório Dias dos Santos, nascida a 24 de Março de 1983, é animado
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

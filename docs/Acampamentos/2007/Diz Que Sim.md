@@ -1,16 +1,3 @@
----
-title: "Diz Que Sim"
-aliases:
-  - "Diz que sim"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2007"
-  - "Lambretas"
-wiki_id: 98
-last_edited: "2009-11-27T18:28:30Z"
-last_editor: "Neteinstein"
----
-
 # Diz Que Sim
 
 Diz Que Sim foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) feito em Digueifel de 8 a 17 de Agosto de 2007.
@@ -66,4 +53,10 @@ Diz Que Sim foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) fei
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2007](../../Categorias/Acampamentos%20de%202007.md) · [Lambretas](../../Categorias/Lambretas.md)
+**Outros nomes:** Diz que sim
+
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2007](../../Categorias/Acampamentos%20de%202007.md) |
+| [Lambretas](../../Categorias/Lambretas.md) |

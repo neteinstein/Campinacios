@@ -1,13 +1,3 @@
----
-title: "Rita Reis"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 788
-last_edited: "2009-12-06T22:55:30Z"
-last_editor: "Tnbahia"
----
-
 # Rita Reis
 
 ### Acampamentos
@@ -22,4 +12,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

@@ -1,7 +1,3 @@
----
-title: "Predefinições"
----
-
 # Predefinições
 
 - [Animador](Animador.md)

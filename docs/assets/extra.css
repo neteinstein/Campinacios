@@ -1,3 +1,8 @@
+/* The graph page has no table of contents: give its width to the graph. */
+.md-main__inner:has(.wiki-graph) > .md-sidebar--secondary {
+  display: none;
+}
+
 .wiki-graph {
   position: relative;
   height: 75vh;

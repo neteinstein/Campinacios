@@ -1,12 +1,3 @@
----
-title: "Assistentes Nacionais"
-categories:
-  - "Direcção Nacional"
-wiki_id: 350
-last_edited: "2009-11-27T18:30:07Z"
-last_editor: "Neteinstein"
----
-
 # Assistentes Nacionais
 
 Assistentes Nacionais do Movimento
@@ -46,4 +37,6 @@ Assistentes Nacionais do Movimento
 
 ---
 
-**Categorias:** [Direcção Nacional](Direc%C3%A7%C3%A3o%20Nacional.md)
+| Categorias |
+| --- |
+| [Direcção Nacional](Direc%C3%A7%C3%A3o%20Nacional.md) |

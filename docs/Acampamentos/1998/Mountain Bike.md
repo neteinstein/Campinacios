@@ -1,14 +1,3 @@
----
-title: "Mountain Bike"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1998"
-  - "Bicicletas"
-wiki_id: 491
-last_edited: "2009-01-28T22:55:20Z"
-last_editor: "Tnbahia"
----
-
 # Mountain Bike
 
 ### Animadores
@@ -26,4 +15,8 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1998](../../Categorias/Acampamentos%20de%201998.md) · [Bicicletas](../../Categorias/Bicicletas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1998](../../Categorias/Acampamentos%20de%201998.md) |
+| [Bicicletas](../../Categorias/Bicicletas.md) |

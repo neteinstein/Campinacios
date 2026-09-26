@@ -1,15 +1,3 @@
----
-title: "Andreia Gil"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-  - "Direcção Local do CC"
-  - "Direcção Nacional"
-wiki_id: 24
-last_edited: "2010-08-22T23:12:28Z"
-last_editor: "ABarroso"
----
-
 # Andreia Gil
 
 Andreia Sofia de Sousa Gil, nascida a 26 de Janeiro de 1987. Animadora do Colégio das Caldinhas desde 2005.
@@ -41,4 +29,9 @@ Andreia Sofia de Sousa Gil, nascida a 26 de Janeiro de 1987. Animadora do Colég
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) · [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |
+| [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |

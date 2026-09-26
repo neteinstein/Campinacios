@@ -1,10 +1,3 @@
----
-title: "Tnbahia"
-wiki_id: 520
-last_edited: "2009-01-31T18:36:00Z"
-last_editor: "Neteinstein"
----
-
 # Tnbahia
 
 Bahia podes começar a adicionar Locais de campo. Adicionei Digueifel como exemplo. Estão protegidos pela categoria Restrita, isso faz com que nao possam ser consultados por pessoas que não tenha dado acesso.

@@ -1,7 +1,3 @@
----
-title: "2006"
----
-
 # 2006
 
 - [Em Busca da CaraBela](Em%20Busca%20da%20CaraBela.md) — Triciclos

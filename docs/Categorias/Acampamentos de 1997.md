@@ -1,12 +1,3 @@
----
-title: "Acampamentos de 1997"
-categories:
-  - "Acampamentos"
-wiki_id: 168
-last_edited: "2009-01-21T21:50:15Z"
-last_editor: "Neteinstein"
----
-
 # Acampamentos de 1997
 
 Acampamentos realizados em 1997
@@ -21,4 +12,6 @@ Acampamentos realizados em 1997
 
 ---
 
-**Categorias:** [Acampamentos](Acampamentos.md)
+| Categorias |
+| --- |
+| [Acampamentos](Acampamentos.md) |

@@ -1,12 +1,3 @@
----
-title: "Acampamentos de 2000"
-categories:
-  - "Acampamentos"
-wiki_id: 166
-last_edited: "2009-01-21T21:50:41Z"
-last_editor: "Neteinstein"
----
-
 # Acampamentos de 2000
 
 Acampamentos realizados em 2000
@@ -24,4 +15,6 @@ Acampamentos realizados em 2000
 
 ---
 
-**Categorias:** [Acampamentos](Acampamentos.md)
+| Categorias |
+| --- |
+| [Acampamentos](Acampamentos.md) |

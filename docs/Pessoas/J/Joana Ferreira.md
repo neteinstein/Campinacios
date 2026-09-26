@@ -1,13 +1,3 @@
----
-title: "Joana Ferreira"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 269
-last_edited: "2009-01-23T19:39:21Z"
-last_editor: "Neteinstein"
----
-
 # Joana Ferreira
 
 Joana Ferreira é desde 1999, um das animadoras do Colégio da Imaculada Conceição.
@@ -32,4 +22,7 @@ Joana Ferreira é desde 1999, um das animadoras do Colégio da Imaculada Concei�
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

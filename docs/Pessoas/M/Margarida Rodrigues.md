@@ -1,13 +1,3 @@
----
-title: "Margarida Rodrigues"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 329
-last_edited: "2009-01-25T00:51:52Z"
-last_editor: "Tnbahia"
----
-
 # Margarida Rodrigues
 
 Margarida Rodrigues foi de 1995 a 2004 uma das animadoras do Colégio da Imaculada Conceição.
@@ -43,4 +33,7 @@ Margarida Rodrigues foi de 1995 a 2004 uma das animadoras do Colégio da Imacula
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

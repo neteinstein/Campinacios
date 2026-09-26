@@ -1,14 +1,3 @@
----
-title: "Caldelas"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1996"
-  - "Triciclos"
-wiki_id: 458
-last_edited: "2010-02-03T16:09:23Z"
-last_editor: "Sambinha"
----
-
 # Caldelas
 
 O Caldelas foi um acampamento de Triciclos que se realizou em Fonte de Nena (Caldelas).
@@ -37,4 +26,8 @@ O Caldelas foi um acampamento de Triciclos que se realizou em Fonte de Nena (Cal
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1996](../../Categorias/Acampamentos%20de%201996.md) · [Triciclos](../../Categorias/Triciclos.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1996](../../Categorias/Acampamentos%20de%201996.md) |
+| [Triciclos](../../Categorias/Triciclos.md) |

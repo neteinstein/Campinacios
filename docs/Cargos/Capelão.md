@@ -1,14 +1,3 @@
----
-title: "Capelão"
-aliases:
-  - "Capelães"
-categories:
-  - "Cargos"
-wiki_id: 418
-last_edited: "2009-01-25T21:21:12Z"
-last_editor: "Neteinstein"
----
-
 # Capelão
 
 - Deve ser um “Animador Livre” sempre activo e presente, e não uma máquina de produzir missas, Bons Dias Senhor (B.D.S.) e Boa Tardes Senhor (B.T.S.), que se desliga durante o resto do tempo.
@@ -157,4 +146,8 @@ last_editor: "Neteinstein"
 
 ---
 
-**Categorias:** [Cargos](../Categorias/Cargos.md)
+**Outros nomes:** Capelães
+
+| Categorias |
+| --- |
+| [Cargos](../Categorias/Cargos.md) |

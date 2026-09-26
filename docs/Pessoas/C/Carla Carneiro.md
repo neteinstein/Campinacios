@@ -1,13 +1,3 @@
----
-title: "Carla Carneiro"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 855
-last_edited: "2009-09-25T19:13:02Z"
-last_editor: "Silvinha"
----
-
 # Carla Carneiro
 
 ### Acampamentos
@@ -29,4 +19,7 @@ last_editor: "Silvinha"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

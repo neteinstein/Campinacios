@@ -1,7 +1,3 @@
----
-title: "2000"
----
-
 # 2000
 
 - [Cometa](Cometa.md)

@@ -1,14 +1,3 @@
----
-title: "Vi-O"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2009"
-  - "Triciclos"
-wiki_id: 910
-last_edited: "2009-09-25T15:27:22Z"
-last_editor: "Silvinha"
----
-
 # Vi-O
 
 O Vi-O decorreu entre os dias 22 e 31 de Agosto de 2009 em Cornicovo (Penacova), sendo um acampamento de [Triciclos](../../Categorias/Triciclos.md).
@@ -44,4 +33,8 @@ O Vi-O decorreu entre os dias 22 e 31 de Agosto de 2009 em Cornicovo (Penacova),
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2009](../../Categorias/Acampamentos%20de%202009.md) · [Triciclos](../../Categorias/Triciclos.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2009](../../Categorias/Acampamentos%20de%202009.md) |
+| [Triciclos](../../Categorias/Triciclos.md) |

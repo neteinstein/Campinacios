@@ -1,14 +1,3 @@
----
-title: "Casca de Banana"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2005"
-  - "Formação de Animadores"
-wiki_id: 28
-last_edited: "2009-11-27T18:26:42Z"
-last_editor: "Neteinstein"
----
-
 # Casca de Banana
 
 Campo de Formação que decorreu na casa de Singeverga na Páscoa de 2005.
@@ -48,4 +37,8 @@ Campo de Formação que decorreu na casa de Singeverga na Páscoa de 2005.
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2005](../../Categorias/Acampamentos%20de%202005.md) · [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2005](../../Categorias/Acampamentos%20de%202005.md) |
+| [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) |

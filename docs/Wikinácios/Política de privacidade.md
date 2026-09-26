@@ -1,10 +1,3 @@
----
-title: "Política de privacidade"
-wiki_id: 383
-last_edited: "2009-01-24T18:16:09Z"
-last_editor: "Neteinstein"
----
-
 # Política de privacidade
 
 ## Sumário

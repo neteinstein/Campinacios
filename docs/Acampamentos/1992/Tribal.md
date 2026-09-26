@@ -1,14 +1,3 @@
----
-title: "Tribal"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1992"
-  - "Triciclos"
-wiki_id: 306
-last_edited: "2009-02-15T14:41:18Z"
-last_editor: "Neteinstein"
----
-
 # Tribal
 
 O Tribal foi o primeiro acampamento de [Triciclos](../../Categorias/Triciclos.md) da História dos Campinácios já que até aqui ainda não tinha havido oportunidade de efectuar nenhum acampamento deste escalão. O nome "Tribal" vem de "Triciclos" + "Porto da Balsa", a localidade onde este decorreu de 20 a 29 de Julho de 1992.
@@ -29,4 +18,8 @@ O Tribal foi o primeiro acampamento de [Triciclos](../../Categorias/Triciclos.md
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1992](../../Categorias/Acampamentos%20de%201992.md) · [Triciclos](../../Categorias/Triciclos.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1992](../../Categorias/Acampamentos%20de%201992.md) |
+| [Triciclos](../../Categorias/Triciclos.md) |

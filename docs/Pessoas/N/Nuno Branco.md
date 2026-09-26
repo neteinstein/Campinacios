@@ -1,12 +1,3 @@
----
-title: "Nuno Branco"
-categories:
-  - "Jesuítas"
-wiki_id: 215
-last_edited: "2009-08-24T19:49:42Z"
-last_editor: "Tnbahia"
----
-
 # Nuno Branco
 
 ### Acampamentos
@@ -29,4 +20,6 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Jesuítas](../../Categorias/Jesu%C3%ADtas.md)
+| Categorias |
+| --- |
+| [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |

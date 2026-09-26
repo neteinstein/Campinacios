@@ -1,14 +1,3 @@
----
-title: "Ana Luísa Reis"
-categories:
-  - "Direcção Local do CC"
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 203
-last_edited: "2009-10-15T18:06:47Z"
-last_editor: "Tnbahia"
----
-
 # Ana Luísa Reis
 
 ### Cargos
@@ -38,4 +27,8 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) · [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

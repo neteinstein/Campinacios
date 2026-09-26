@@ -1,15 +1,3 @@
----
-title: "Gonçalo Carvalho"
-aliases:
-  - "Bolachao"
-  - "Bolachão"
-categories:
-  - "Desambiguação"
-wiki_id: 242
-last_edited: "2009-12-03T12:52:10Z"
-last_editor: "Tnbahia"
----
-
 # Gonçalo Carvalho
 
 ---
@@ -29,4 +17,8 @@ Se uma ligação interna o conduziu até aqui, sugerimos que a corrija para apon
 
 ---
 
-**Categorias:** [Desambiguação](../../Categorias/Desambigua%C3%A7%C3%A3o.md)
+**Outros nomes:** Bolachao · Bolachão
+
+| Categorias |
+| --- |
+| [Desambiguação](../../Categorias/Desambigua%C3%A7%C3%A3o.md) |

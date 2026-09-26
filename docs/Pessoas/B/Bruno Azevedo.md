@@ -1,13 +1,3 @@
----
-title: "Bruno Azevedo"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 189
-last_edited: "2010-08-19T17:24:53Z"
-last_editor: "Tnbahia"
----
-
 # Bruno Azevedo
 
 Bruno Miguel Moreira Azevedo, nascido a 4 de Junho de 1983, é animador do CC desde 2004.
@@ -38,4 +28,7 @@ Bruno Miguel Moreira Azevedo, nascido a 4 de Junho de 1983, é animador do CC de
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

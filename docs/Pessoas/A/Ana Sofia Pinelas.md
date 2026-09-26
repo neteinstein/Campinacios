@@ -1,13 +1,3 @@
----
-title: "Ana Sofia Pinelas"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 851
-last_edited: "2009-08-20T22:30:58Z"
-last_editor: "Tnbahia"
----
-
 # Ana Sofia Pinelas
 
 ### Acampamentos
@@ -28,4 +18,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

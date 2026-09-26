@@ -1,13 +1,3 @@
----
-title: "Maria Fernandes"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 498
-last_edited: "2009-02-16T12:16:47Z"
-last_editor: "Anaimmartins"
----
-
 # Maria Fernandes
 
 ### Acampamentos
@@ -23,4 +13,7 @@ last_editor: "Anaimmartins"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

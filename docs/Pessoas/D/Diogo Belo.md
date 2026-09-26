@@ -1,13 +1,3 @@
----
-title: "Diogo Belo"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 505
-last_edited: "2009-12-06T17:26:14Z"
-last_editor: "Tnbahia"
----
-
 # Diogo Belo
 
 ### Acampamentos
@@ -38,4 +28,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

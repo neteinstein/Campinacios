@@ -1,14 +1,3 @@
----
-title: "Patos"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2004"
-  - "Trotinetas"
-wiki_id: 129
-last_edited: "2009-12-06T18:10:28Z"
-last_editor: "Tnbahia"
----
-
 # Patos
 
 O Patos foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que decorreu em Poço de Corga (Castanheira de Pêra) de 2 a 11 de Agosto de 2004.
@@ -48,4 +37,8 @@ O Patos foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que d
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2004](../../Categorias/Acampamentos%20de%202004.md) · [Trotinetas](../../Categorias/Trotinetas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2004](../../Categorias/Acampamentos%20de%202004.md) |
+| [Trotinetas](../../Categorias/Trotinetas.md) |

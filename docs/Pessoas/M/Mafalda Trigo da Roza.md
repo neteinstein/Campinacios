@@ -1,13 +1,3 @@
----
-title: "Mafalda Trigo da Roza"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 513
-last_edited: "2009-09-25T18:53:17Z"
-last_editor: "Silvinha"
----
-
 # Mafalda Trigo da Roza
 
 ### Acampamentos
@@ -24,4 +14,7 @@ last_editor: "Silvinha"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

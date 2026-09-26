@@ -1,13 +1,3 @@
----
-title: "Pedreira"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1989"
-wiki_id: 313
-last_edited: "2009-02-15T14:33:09Z"
-last_editor: "Neteinstein"
----
-
 # Pedreira
 
 Este acampamento realizou-se na Quinta da família da [Concha Líbano Monteiro](../../Pessoas/C/Concha%20L%C3%ADbano%20Monteiro.md), chamada "Casal da Pedreira" de 9 a 17 de Setembro de 1989. Nesta altura o movimento ainda não tinha a denominação de Campinácios, nem se tinha definido os nomes dos escalões, daí que não se atribua a este acampamento o escalão de Triciclos apesar da idade ser correspondente (10-12 anos).
@@ -33,4 +23,7 @@ Este acampamento realizou-se na Quinta da família da [Concha Líbano Monteiro](
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1989](../../Categorias/Acampamentos%20de%201989.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1989](../../Categorias/Acampamentos%20de%201989.md) |

@@ -1,14 +1,3 @@
----
-title: "Eureka"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2008"
-  - "Trotinetas"
-wiki_id: 54
-last_edited: "2009-02-01T01:36:56Z"
-last_editor: "Neteinstein"
----
-
 # Eureka
 
 O Eureka foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) e decorreu de 17 a 26 de Agosto de 2008 em Serpins.
@@ -41,4 +30,8 @@ O Eureka foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) e de
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2008](../../Categorias/Acampamentos%20de%202008.md) · [Trotinetas](../../Categorias/Trotinetas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2008](../../Categorias/Acampamentos%20de%202008.md) |
+| [Trotinetas](../../Categorias/Trotinetas.md) |

@@ -1,13 +1,3 @@
----
-title: "Joana Amado"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 267
-last_edited: "2009-08-20T22:28:13Z"
-last_editor: "Tnbahia"
----
-
 # Joana Amado
 
 Joana Amado é desde 2008 um das animadoras do Colégio da Imaculada Conceição.
@@ -30,4 +20,7 @@ Joana Amado é desde 2008 um das animadoras do Colégio da Imaculada Conceição
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

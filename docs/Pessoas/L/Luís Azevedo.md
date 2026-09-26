@@ -1,13 +1,3 @@
----
-title: "Luís Azevedo"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 231
-last_edited: "2009-02-01T17:40:56Z"
-last_editor: "Tnbahia"
----
-
 # Luís Azevedo
 
 ### Acampamentos
@@ -31,4 +21,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

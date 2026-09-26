@@ -1,13 +1,3 @@
----
-title: "Inês Patrício"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 274
-last_edited: "2009-04-06T23:24:08Z"
-last_editor: "Neteinstein"
----
-
 # Inês Patrício
 
 Inês Patrício foi de 2003 a 2008 uma das animadoras do Colégio da Imaculada Conceição.
@@ -39,4 +29,7 @@ Inês Patrício foi de 2003 a 2008 uma das animadoras do Colégio da Imaculada C
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

@@ -1,13 +1,3 @@
----
-title: "Sara Moinhos"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 942
-last_edited: "2009-12-02T14:11:40Z"
-last_editor: "Tnbahia"
----
-
 # Sara Moinhos
 
 ### Acampamentos
@@ -29,4 +19,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

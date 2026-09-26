@@ -1,7 +1,3 @@
----
-title: "Discussão"
----
-
 # Discussão
 
 - [Pedro Vicente](Pedro%20Vicente.md)

@@ -1,7 +1,3 @@
----
-title: "2007"
----
-
 # 2007
 
 - [Baza](Baza.md) — Bicicletas

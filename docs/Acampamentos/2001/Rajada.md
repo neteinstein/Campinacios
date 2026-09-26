@@ -1,14 +1,3 @@
----
-title: "Rajada"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2001"
-  - "Triciclos"
-wiki_id: 597
-last_edited: "2009-02-01T19:55:55Z"
-last_editor: "Tnbahia"
----
-
 # Rajada
 
 ### Animadores
@@ -25,4 +14,8 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2001](../../Categorias/Acampamentos%20de%202001.md) · [Triciclos](../../Categorias/Triciclos.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2001](../../Categorias/Acampamentos%20de%202001.md) |
+| [Triciclos](../../Categorias/Triciclos.md) |

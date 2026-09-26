@@ -1,14 +1,3 @@
----
-title: "Paim"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1999"
-  - "Bicicletas"
-wiki_id: 591
-last_edited: "2009-12-06T23:10:27Z"
-last_editor: "Tnbahia"
----
-
 # Paim
 
 ### Animadores
@@ -30,4 +19,8 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1999](../../Categorias/Acampamentos%20de%201999.md) · [Bicicletas](../../Categorias/Bicicletas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1999](../../Categorias/Acampamentos%20de%201999.md) |
+| [Bicicletas](../../Categorias/Bicicletas.md) |

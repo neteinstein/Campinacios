@@ -1,15 +1,3 @@
----
-title: "Carlos Ruiz"
-categories:
-  - "Direcção Local do CSJB"
-  - "Direcção Nacional"
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 798
-last_edited: "2009-12-04T19:04:14Z"
-last_editor: "Tnbahia"
----
-
 # Carlos Ruiz
 
 ### Cargos
@@ -41,4 +29,9 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) · [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

@@ -1,13 +1,3 @@
----
-title: "Gonçalo Luís Carvalho"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 945
-last_edited: "2009-12-02T14:28:09Z"
-last_editor: "Tnbahia"
----
-
 # Gonçalo Luís Carvalho
 
 Gonçalo Carvalho, é desde 2005 um dos animadores do Colégio da Imaculada Conceição.
@@ -34,4 +24,7 @@ Gonçalo Carvalho, é desde 2005 um dos animadores do Colégio da Imaculada Conc
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

@@ -1,14 +1,3 @@
----
-title: "Long Tao"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2006"
-  - "Bicicletas"
-wiki_id: 96
-last_edited: "2009-02-01T02:20:01Z"
-last_editor: "Neteinstein"
----
-
 # Long Tao
 
 O Long Tao foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que decorreu na Quinta Sto António do Rio Zézere, em Caria (Covilhã) de 16 a 25 de Agosto.
@@ -62,4 +51,8 @@ O Long Tao foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) qu
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2006](../../Categorias/Acampamentos%20de%202006.md) · [Bicicletas](../../Categorias/Bicicletas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2006](../../Categorias/Acampamentos%20de%202006.md) |
+| [Bicicletas](../../Categorias/Bicicletas.md) |

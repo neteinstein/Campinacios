@@ -1,12 +1,3 @@
----
-title: "Jesuítas"
-categories:
-  - "Animadores"
-wiki_id: 32
-last_edited: "2009-01-19T17:16:37Z"
-last_editor: "Neteinstein"
----
-
 # Jesuítas
 
 Jesuítas que animam ou animaram acampamentos de Campinácios
@@ -49,4 +40,6 @@ Jesuítas que animam ou animaram acampamentos de Campinácios
 
 ---
 
-**Categorias:** [Animadores](Animadores.md)
+| Categorias |
+| --- |
+| [Animadores](Animadores.md) |

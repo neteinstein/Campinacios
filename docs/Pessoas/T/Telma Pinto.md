@@ -1,13 +1,3 @@
----
-title: "Telma Pinto"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 594
-last_edited: "2009-02-11T01:46:39Z"
-last_editor: "Tnbahia"
----
-
 # Telma Pinto
 
 Telma Alexandra Machado Pinto, nascida 18 de Agosto de 1980, é animadora do CC.
@@ -35,4 +25,7 @@ Telma Alexandra Machado Pinto, nascida 18 de Agosto de 1980, é animadora do CC.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

@@ -1,14 +1,3 @@
----
-title: "Tem Bicho Zweitausend"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2000"
-  - "Trotinetas"
-wiki_id: 160
-last_edited: "2009-02-15T22:11:08Z"
-last_editor: "Anaimmartins"
----
-
 # Tem Bicho Zweitausend
 
 O Tem Bicho Zweitausend foi um acampamento de Trotinetas que decorreu entre 19 e 28 de Agosto de 2000 em Santa Margarida (Constância).
@@ -46,4 +35,8 @@ Zweitausend é o nome alemão para o número 2000 (dois mil).
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2000](../../Categorias/Acampamentos%20de%202000.md) · [Trotinetas](../../Categorias/Trotinetas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2000](../../Categorias/Acampamentos%20de%202000.md) |
+| [Trotinetas](../../Categorias/Trotinetas.md) |

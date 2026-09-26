@@ -1,12 +1,3 @@
----
-title: "Calhambeques"
-categories:
-  - "Acampamentos"
-wiki_id: 312
-last_edited: "2009-01-24T02:06:51Z"
-last_editor: "Neteinstein"
----
-
 # Calhambeques
 
 Acampamentos para animadores focados no serviço (Actualmente este escalão não tem acampamentos)
@@ -23,4 +14,6 @@ Acampamentos para animadores focados no serviço (Actualmente este escalão não
 
 ---
 
-**Categorias:** [Acampamentos](Acampamentos.md)
+| Categorias |
+| --- |
+| [Acampamentos](Acampamentos.md) |

@@ -1,15 +1,3 @@
----
-title: "Vítor Leite"
-aliases:
-  - "Vitor Leite"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 198
-last_edited: "2009-09-25T18:38:27Z"
-last_editor: "Silvinha"
----
-
 # Vítor Leite
 
 ### Acampamentos
@@ -29,4 +17,9 @@ last_editor: "Silvinha"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+**Outros nomes:** Vitor Leite
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

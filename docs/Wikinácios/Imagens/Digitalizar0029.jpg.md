@@ -1,10 +1,3 @@
----
-title: "Digitalizar0029.jpg"
-wiki_id: 396
-last_edited: "2009-01-24T21:48:26Z"
-last_editor: "Neteinstein"
----
-
 # Digitalizar0029.jpg
 
 Caminhada

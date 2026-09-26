@@ -1,13 +1,3 @@
----
-title: "Filipa Granado"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 799
-last_edited: "2009-12-06T18:11:45Z"
-last_editor: "Tnbahia"
----
-
 # Filipa Granado
 
 - **Animadora:**
@@ -25,4 +15,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

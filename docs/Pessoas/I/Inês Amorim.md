@@ -1,13 +1,3 @@
----
-title: "Inês Amorim"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 501
-last_edited: "2009-08-24T19:35:18Z"
-last_editor: "Tnbahia"
----
-
 # Inês Amorim
 
 ### Acampamentos
@@ -23,4 +13,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

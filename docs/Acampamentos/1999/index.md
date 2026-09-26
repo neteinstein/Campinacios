@@ -1,7 +1,3 @@
----
-title: "1999"
----
-
 # 1999
 
 - [Alvoco II](Alvoco%20II.md) — Triciclos

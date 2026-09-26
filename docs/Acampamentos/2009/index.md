@@ -1,7 +1,3 @@
----
-title: "2009"
----
-
 # 2009
 
 - [Bublix](Bublix.md) — Triciclos

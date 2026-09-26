@@ -1,10 +1,3 @@
----
-title: "Sabia que"
-wiki_id: 354
-last_edited: "2009-11-27T10:46:57Z"
-last_editor: "Neteinstein"
----
-
 # Sabia que
 
 ```text

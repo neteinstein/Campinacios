@@ -1,10 +1,3 @@
----
-title: "Cargos"
-wiki_id: 442
-last_edited: "2009-01-25T21:21:56Z"
-last_editor: "Neteinstein"
----
-
 # Cargos
 
 Cargos existentes num acampamento de Campinácios

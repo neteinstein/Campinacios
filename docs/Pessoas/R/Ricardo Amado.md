@@ -1,13 +1,3 @@
----
-title: "Ricardo Amado"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 814
-last_edited: "2009-04-22T00:58:59Z"
-last_editor: "Edu"
----
-
 # Ricardo Amado
 
 ## Páginas que ligam para aqui
@@ -17,4 +7,7 @@ last_editor: "Edu"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

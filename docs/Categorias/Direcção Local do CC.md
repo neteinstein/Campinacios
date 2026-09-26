@@ -1,12 +1,3 @@
----
-title: "Direcção Local do CC"
-categories:
-  - "Direcções Locais"
-wiki_id: 178
-last_edited: "2009-10-15T17:58:01Z"
-last_editor: "Tnbahia"
----
-
 # Direcção Local do CC
 
 Orgão responsável pela dinamização de actividades e coordenação de animadores no Colégio das Caldinhas.
@@ -198,4 +189,6 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 
 ---
 
-**Categorias:** [Direcções Locais](Direc%C3%A7%C3%B5es%20Locais.md)
+| Categorias |
+| --- |
+| [Direcções Locais](Direc%C3%A7%C3%B5es%20Locais.md) |

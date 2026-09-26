@@ -1,13 +1,3 @@
----
-title: "Lúcia Vaz Pato"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 776
-last_edited: "2010-07-11T14:25:32Z"
-last_editor: "Neteinstein"
----
-
 # Lúcia Vaz Pato
 
 ### Acampamentos
@@ -27,4 +17,7 @@ last_editor: "Neteinstein"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

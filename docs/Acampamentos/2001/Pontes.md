@@ -1,14 +1,3 @@
----
-title: "Pontes"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2001"
-  - "Trotinetas"
-wiki_id: 296
-last_edited: "2009-02-14T23:57:16Z"
-last_editor: "Neteinstein"
----
-
 # Pontes
 
 O Pontes foi um acampamento de Trotinetas que decorreu de 2 a 11 de Agosto de 2001 em Poço de Corga (Castanheira de Pêra).
@@ -38,4 +27,8 @@ O Pontes foi um acampamento de Trotinetas que decorreu de 2 a 11 de Agosto de 20
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2001](../../Categorias/Acampamentos%20de%202001.md) · [Trotinetas](../../Categorias/Trotinetas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2001](../../Categorias/Acampamentos%20de%202001.md) |
+| [Trotinetas](../../Categorias/Trotinetas.md) |

@@ -1,14 +1,3 @@
----
-title: "Martim Cunha Ferreira"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-  - "Jesuítas"
-wiki_id: 749
-last_edited: "2009-04-27T21:48:18Z"
-last_editor: "Neteinstein"
----
-
 # Martim Cunha Ferreira
 
 ## Páginas que ligam para aqui
@@ -20,4 +9,8 @@ last_editor: "Neteinstein"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) · [Jesuítas](../../Categorias/Jesu%C3%ADtas.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |
+| [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |

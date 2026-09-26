@@ -1,13 +1,3 @@
----
-title: "João Coimbra"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 715
-last_edited: "2009-03-10T00:30:56Z"
-last_editor: "Neteinstein"
----
-
 # João Coimbra
 
 ### Acampamentos
@@ -29,4 +19,7 @@ last_editor: "Neteinstein"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

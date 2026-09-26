@@ -1,14 +1,3 @@
----
-title: "Iháquesermais"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2009"
-  - "Lambretas"
-wiki_id: 904
-last_edited: "2009-12-02T14:31:14Z"
-last_editor: "Tnbahia"
----
-
 # Iháquesermais
 
 O Iháquesermais decorreu entre os dias 10 e 19 de Agosto de 2009 em Digueifel (Arganil), sendo um acampamento de [Lambretas](../../Categorias/Lambretas.md).
@@ -43,4 +32,8 @@ O Iháquesermais decorreu entre os dias 10 e 19 de Agosto de 2009 em Digueifel (
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2009](../../Categorias/Acampamentos%20de%202009.md) · [Lambretas](../../Categorias/Lambretas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2009](../../Categorias/Acampamentos%20de%202009.md) |
+| [Lambretas](../../Categorias/Lambretas.md) |

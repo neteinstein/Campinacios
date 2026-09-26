@@ -1,7 +1,3 @@
----
-title: "Sem data"
----
-
 # Sem data
 
 - [CACAINA](CACAINA.md) — Formação de Animadores

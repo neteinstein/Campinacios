@@ -1,15 +1,3 @@
----
-title: "Bruno Costa"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-  - "Direcção Local do CC"
-  - "Direcção Nacional"
-wiki_id: 635
-last_edited: "2009-02-07T19:58:32Z"
-last_editor: "Tnbahia"
----
-
 # Bruno Costa
 
 ## História dentro do movimento
@@ -31,4 +19,9 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) · [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |
+| [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |

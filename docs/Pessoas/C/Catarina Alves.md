@@ -1,13 +1,3 @@
----
-title: "Catarina Alves"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 219
-last_edited: "2010-08-22T23:15:39Z"
-last_editor: "ABarroso"
----
-
 # Catarina Alves
 
 Catarina Fernanda Rodrigues Alves, nascida a 18 de Dezembro de 1984 é animadora do CC.
@@ -35,4 +25,7 @@ Catarina Fernanda Rodrigues Alves, nascida a 18 de Dezembro de 1984 é animadora
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

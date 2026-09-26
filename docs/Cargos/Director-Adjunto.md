@@ -1,15 +1,3 @@
----
-title: "Director-Adjunto"
-aliases:
-  - "Director Adjunto"
-  - "Directora-Adjunta"
-categories:
-  - "Cargos"
-wiki_id: 417
-last_edited: "2009-01-25T21:21:23Z"
-last_editor: "Neteinstein"
----
-
 # Director-Adjunto
 
 - Tem um papel muito importante, como braço direito do director e seu substituto quando este não pode estar presente pertencendo ao “núcleo duro” da direcção de acampamento.
@@ -168,4 +156,8 @@ last_editor: "Neteinstein"
 
 ---
 
-**Categorias:** [Cargos](../Categorias/Cargos.md)
+**Outros nomes:** Director Adjunto · Directora-Adjunta
+
+| Categorias |
+| --- |
+| [Cargos](../Categorias/Cargos.md) |
