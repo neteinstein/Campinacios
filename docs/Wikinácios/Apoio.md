@@ -12,7 +12,6 @@ No caso de pretenderem contribuir com um donativo monetário, teremos este NIB �
 Inst. Educativo P. Afonso Luisiser - 003300004526030922305 – Banco Millenium.
 
 Caso desejarem, será passado um recibo do donativo, mediante pedido expresso, assim que tomemos conhecimento do vosso contributo.
-Para termos conhecimento envie um email para DN@Campinacios.org com os dados relevantes sobre o donativo e os seus dados.
 
 P'la Direcção Nacional dos Campinácios
 

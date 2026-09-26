@@ -1,12 +1,8 @@
 # Contactos
 
-## Staff Wikinácios
-
-wiki@campinacios.org
-
 ## Assistente Nacional
 
-Lourenço Eiró - Assistente@Campinacios.org
+Lourenço Eiró
 
 Colégio das Caldinhas
 
@@ -19,13 +15,11 @@ Fax: 252 830 999
 
 ## Coordenador Nacional
 
-Tiago Bahia - Coordenador@campinacios.org
+Tiago Bahia
 
 ## Colégio das Caldinhas
 
 Colégio - Geral@colegiodascaldinhas.pt
-
-Direcção Local - DL-CC@Campinacios.org
 
 Campinácios
 
@@ -43,8 +37,6 @@ URL: http://www.colegiodascaldinhas.pt
 
 Colégio - geral@caic.mail.pt
 
-Direcção Local - DL-CAIC@Campinacios.org
-
 Campinácios
 
 Cernache
@@ -60,8 +52,6 @@ URL: http://caic.loyola.pt
 ## Colégio São João de Brito
 
 Colégio - geral@csjb.pt
-
-Direcção Local - DL-CSJB@Campinacios.org
 
 Campinácios
 

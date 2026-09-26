@@ -11,11 +11,6 @@ O Alfa foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que de
 - [Tias](../../Cargos/Tio.md) - [Cristina Cabeça](../../Pessoas/C/Cristina%20Cabe%C3%A7a.md) e Sandra Rodrigues
 - [Animadores](../../Categorias/Animadores.md) - Vítor Lamosa, [Carlos Lopes](../../Pessoas/C/Carlos%20Lopes.md), Horácio Nogueira, Miguel Moraes, Filipa Vicente, Joana Moraes, Sandra Nolasco, Cristina Rebordão e Alexandre Correia
 
-## Fotos
-
-- [🖼️ Alfa 1](../../Wikin%C3%A1cios/Imagens/1990%20Alfa%20-%20Caldas%20de%20S.%20Paulo%20-%20Trotinetas.jpg.md)
-- [🖼️ Alfa 2](../../Wikin%C3%A1cios/Imagens/1990%20Alfa%20-%20Caldas%20de%20S.%20Paulo%20-%20Trotinetas%20%282%29.jpg.md)
-
 ## Páginas que ligam para aqui
 
 - [António Leal](../../Pessoas/A/Ant%C3%B3nio%20Leal.md)

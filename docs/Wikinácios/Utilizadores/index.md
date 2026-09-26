@@ -1,3 +1,0 @@
-# Utilizadores
-
-- [Admin](Admin.md)

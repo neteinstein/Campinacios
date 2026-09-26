@@ -30,10 +30,6 @@ Tiago Neves Bahia, nascido a 6 de Março de 1987, é animador do CC desde 2005.
     - 2009 [Survivor](../../Acampamentos/2009/Survivor.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2010 [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md) - [Director](../../Cargos/Director.md)
 
-## Contacto
-
-E-mail: Coordenador@Campinacios.org
-
 ## Páginas que ligam para aqui
 
 - [Baza](../../Acampamentos/2007/Baza.md)

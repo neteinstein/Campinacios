@@ -2,12 +2,14 @@
 
 ## O que são os Campinácios?
 
-[🖼️ Logótipo Oficial  do Movimento em 1994](../Wikin%C3%A1cios/Imagens/Campin%C3%A1cios%201994.jpg.md)
-[🖼️ Logótipo Oficial  do Movimento a partir de Janeiro de 1995 - por Joana Horta Botelho e Castro (CSJB)](../Wikin%C3%A1cios/Imagens/Campin%C3%A1cios%202000.jpg.md)
-[🖼️ Proposta de logótipo do Movimento em 1998 - Nunca se terminou ou tornou oficial)](../Wikin%C3%A1cios/Imagens/S%C3%ADmbolo%2098.jpg.md)
-[🖼️ Logótipo Oficial  do Movimento em 2003](../Wikin%C3%A1cios/Imagens/Campin%C3%A1cios%202004.jpg.md)
-[🖼️ Logótipo não oficial - Feito por Pedro Pinheiro para a comemoração do natal de 2006](../Wikin%C3%A1cios/Imagens/Campin%C3%A1cios%20Natal.jpg.md)
-[🖼️ Logótipo Oficial do Movimento a partir de Janeiro de 2010 (embora tenha sido usado desde 2006, foi criado para os 20 anos do Movimento) - por João David a pedido de Pedro Vicente](../Wikin%C3%A1cios/Imagens/Campin%C3%A1cios%20.jpg.md)
+**Logótipos do Movimento:**
+
+- Logótipo Oficial do Movimento em 1994
+- Logótipo Oficial do Movimento a partir de Janeiro de 1995 - por Joana Horta Botelho e Castro (CSJB)
+- Proposta de logótipo do Movimento em 1998 - Nunca se terminou ou tornou oficial
+- Logótipo Oficial do Movimento em 2003
+- Logótipo não oficial - Feito por Pedro Pinheiro para a comemoração do natal de 2006
+- Logótipo Oficial do Movimento a partir de Janeiro de 2010 (embora tenha sido usado desde 2006, foi criado para os 20 anos do Movimento) - por João David a pedido de Pedro Vicente
 
 Os CAMPINÁCIOS são um movimento de acampamentos de férias estreitamente ligado à Companhia de Jesus mas, especificamente integrado na vida pastoral dos seus três colégios existentes em Portugal: Colégio das Caldinhas ([CC](CC.md))*, Colégio S. João de Brito ([CSJB](CSJB.md)) e Colégio da Imaculada Conceição ([CAIC](CAIC.md)).
 
@@ -40,8 +42,6 @@ Ainda neste ano de 1989, no mês de Setembro, realizou-se o [Pedreira](../Acampa
 Na prática os acampamentos começavam a funcionar com intercâmbio de participantes, animadores e recursos materiais. Todavia, era necessário definir alguns aspectos no que se referia ao nome a dar ao movimento, à organização, à formação de animadores, ao material, ao número de acampamentos a realizar, aos estatutos e aos objectivos do novo movimento emergente. Por isso, em Fevereiro de 1990, na casa das Mimosas, na Serra da Estrela, reuniu-se um grupo de pessoas pertencentes aos três colégios para reflectir e deliberar sobre estes aspectos. O grupo era formado por: José Murteira, Leonor Regueiras, Alda Regueiras, Maria Odete, [José Filgueiras](../Pessoas/J/Jos%C3%A9%20Manuel%20Filgueiras.md), Tona, Joana Coelho e José A. Azevedo como representantes do CC; [José Manuel Lopes](../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md) SJ, [Maria Manuel Urbano](../Pessoas/M/Maria%20Manuel%20Urbano.md), [João Pessoa](../Pessoas/J/Jo%C3%A3o%20Pessoa.md), e António Manuel como representantes do [CAIC](CAIC.md); [Domingos Freitas](../Pessoas/D/Domingos%20Freitas.md) SJ, [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md), [Carlos Ruiz](../Pessoas/C/Carlos%20Ruiz.md), [Rodrigo Queiroz e Melo](../Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md), [Filipe Queiroz e Melo](../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md), Horácio Tiago, Jorge Nunes, [Pedro Rebordão](../Pessoas/P/Pedro%20Rebord%C3%A3o.md), Cristina Rebordão, Miguel Morais, [Cristina Cabeça](../Pessoas/C/Cristina%20Cabe%C3%A7a.md), Filipa Vicente, [Concha Líbano Monteiro](../Pessoas/C/Concha%20L%C3%ADbano%20Monteiro.md) e Sandra Rodrigues e como representantes do [CSJB](CSJB.md).
 
 É durante esta reunião que é constituído oficialmente o movimento inter-colegial com a designação de CAMPINÁCIOS, que se aprovam os estatutos e se definem os escalões das idades para os participantes nos acampamentos.
-
-- [🖼️ Foto da reunião dos Fundadores](../Wikin%C3%A1cios/Imagens/Grupo%20Fundador%20Campinacios.jpg.md)
 
 É curioso notar que muitas destas pessoas eram educadores dos colégios, jesuítas ou membros activos do movimento [CAMTIL](Camtil.md), que estava em plena actividade e crescimento há seis anos.
 

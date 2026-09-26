@@ -80,10 +80,6 @@ Respondendo à pergunta inicial… ganhei tudo… o que é importante pelo menos
 
 [*Blog*](http://intelectuais.blogspot.com)
 
-### Contacto
-
-E-mail: Pedro@Campinacios.org
-
 ## Páginas que ligam para aqui
 
 - [Caminho](../../Acampamentos/2009/Caminho.md)
@@ -96,7 +92,6 @@ E-mail: Pedro@Campinacios.org
 - [OPA](../../Acampamentos/2007/OPA.md)
 - [OrienTu](../../Acampamentos/2008/OrienTu.md)
 - [Patos](../../Acampamentos/2004/Patos.md)
-- [Portal comunitário](../../Wikin%C3%A1cios/Portal%20comunit%C3%A1rio.md)
 - [Protected page guidelines](../../Wikin%C3%A1cios/Protected%20page%20guidelines.md)
 - [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
 - [Tnbahia](../../Wikin%C3%A1cios/Discuss%C3%A3o/Utilizador%20Tnbahia.md)

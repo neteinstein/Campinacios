@@ -14,9 +14,9 @@ Este livro oferece-nos de forma sistematizada e generosa a compilação e a refl
 
 ## José da Silva ALMEIDA SJ, Para Educar Melhor - Campos de Férias Inacianos, AO, Braga, 2004.
 
-[🖼️ ParaEducarMelhor.PNG](../Wikin%C3%A1cios/Imagens/ParaEducarMelhor.PNG.md)
-    - *Locais de vendas*
-- ''Papelarias dos colégios (CAIC; CSJB e CC) ou livrarias católicas.
+*Locais de vendas:*
+
+- *Papelarias dos colégios (CAIC; CSJB e CC) ou livrarias católicas.*
 - Pedidos para a editorial dos jesuítas em Braga:
 Web: http://www.apostoladodaoracao.pt/catalogo/
 Secretariado Nacional do Apostolado da Oração

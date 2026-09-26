@@ -10,10 +10,6 @@ O Caldelas foi um acampamento de Triciclos que se realizou em [Fonte de Nena](..
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Perrú](../../Pessoas/P/Pedro%20Rocha%20Mendes.md),sj
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [José Luís Fernandes](../../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Fernandes.md), Francisco Maria (Chico Maria), [Constança Cordeiro Ferreira](../../Pessoas/C/Constan%C3%A7a%20Pereira%20da%20Silva.md) e [Ricardo Rodrigues](../../Pessoas/R/Ricardo%20Rodrigues.md)
 
-## Fotos
-
-- [🖼️ Caldelas 1](../../Wikin%C3%A1cios/Imagens/1996-Caldelas-Triciclos.jpg.md)
-
 ## Páginas que ligam para aqui
 
 - [Cecília Mendonça](../../Pessoas/C/Cec%C3%ADlia%20Mendon%C3%A7a.md)
