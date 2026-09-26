@@ -45,14 +45,16 @@ ENGLISH_WORDS = {
     'must', 'with', 'from', 'this', 'that', 'have', 'has', 'will', 'add',
     'added', 'create', 'created', 'update', 'updated', 'team', 'camp',
     'camps', 'location', 'participant', 'participants', 'person', 'people',
-    'leader', 'leaders', 'welcome', 'thanks', 'thank', 'for', 'was', 'were',
+    'leader', 'leaders', 'welcome', 'thanks', 'thank', 'was', 'were',
     'not', 'name', 'names', 'when', 'where', 'what', 'who', 'how', 'why',
     'page', 'pages', 'file', 'files', 'edit', 'edited', 'about', 'because',
     'before', 'after', 'between', 'year', 'years', 'role', 'roles',
     'chaplain', 'counselor', 'counselors', 'father', 'mother', 'uncle',
     'aunt',
-    # "director"/"directora" are excluded: identical, valid words in the
-    # site's own (pre-1990) Portuguese orthography.
+    # Excluded on purpose, even though they're common English words: "for"
+    # is an ordinary Portuguese verb form (ir/ser, subjunctive: "se for
+    # preciso"), and "director"/"directora" are identical, valid words in
+    # the site's own (pre-1990) Portuguese orthography.
 }
 
 # Brazilian Portuguese spellings this project never uses (an exact-word
@@ -66,7 +68,9 @@ BRAZILIAN_WORDS = {
     'usuário', 'usuária', 'usuários', 'usuárias',
     'diretor', 'diretora', 'diretores', 'diretoras',
     'direção', 'direções', 'seção', 'seções',
-    'ônibus', 'trem', 'celular', 'fone', 'legal',
+    'ônibus', 'trem', 'celular', 'fone',
+    # "legal" is excluded: a valid word in both dialects ("comprovativo
+    # legal"), not just Brazilian slang for "cool".
 }
 
 WORD = re.compile(r"[A-Za-zÀ-ÖØ-öø-ÿ]+")
@@ -90,16 +94,24 @@ def checked(path):
     return path.startswith(CHECKED_PREFIXES)
 
 
+# -c core.quotepath=false: otherwise git wraps any path with an accented
+# character in quotes and octal-escapes it (e.g. "docs/Wikin\303\241cios/..."),
+# which would silently break the "+++ b/<path>" match below.
+GIT = ['git', '-c', 'core.quotepath=false']
+
+
 def diff_added_lines(ref):
     """(path, line number, text) for every line `git diff` against `ref`
     adds, restricted to tracked files this checker covers."""
     diff = subprocess.run(
-        ['git', 'diff', '--unified=0', ref, '--'] + list(CHECKED_PREFIXES),
+        GIT + ['diff', '--unified=0', ref, '--'] + list(CHECKED_PREFIXES),
         cwd=ROOT, capture_output=True, text=True, check=True).stdout
     path = lineno = None
     for line in diff.splitlines():
         if line.startswith('+++ b/'):
-            path = line[len('+++ b/'):]
+            # git appends a trailing tab when the path itself contains a
+            # space, to keep the unified-diff header unambiguous.
+            path = line[len('+++ b/'):].rstrip('\t')
         elif line.startswith('@@'):
             m = re.search(r'\+(\d+)', line)
             lineno = int(m.group(1)) if m else None
@@ -111,7 +123,7 @@ def diff_added_lines(ref):
 def untracked_files():
     """Paths `git status` reports as untracked (new files not yet added)."""
     status = subprocess.run(
-        ['git', 'status', '--porcelain', '--untracked-files=all'],
+        GIT + ['status', '--porcelain', '--untracked-files=all'],
         cwd=ROOT, capture_output=True, text=True, check=True).stdout
     for line in status.splitlines():
         if line.startswith('?? '):
