@@ -1,15 +1,3 @@
----
-title: "João Pedro Carlos"
-aliases:
-  - "JPC"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 739
-last_edited: "2009-12-03T13:29:37Z"
-last_editor: "Tnbahia"
----
-
 # João Pedro Carlos
 
 - **Animador:**
@@ -25,4 +13,9 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+**Outros nomes:** JPC
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

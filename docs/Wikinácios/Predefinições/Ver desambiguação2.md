@@ -1,10 +1,3 @@
----
-title: "Ver desambiguação2"
-wiki_id: 184
-last_edited: "2009-01-21T23:33:32Z"
-last_editor: "Neteinstein"
----
-
 # Ver desambiguação2
 
 ```text

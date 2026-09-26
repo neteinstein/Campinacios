@@ -1,13 +1,3 @@
----
-title: "Diogo Torcato"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 496
-last_edited: "2009-12-06T21:50:27Z"
-last_editor: "Tnbahia"
----
-
 # Diogo Torcato
 
 ### Acampamentos
@@ -30,4 +20,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

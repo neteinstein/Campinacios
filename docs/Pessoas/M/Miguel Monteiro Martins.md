@@ -1,14 +1,3 @@
----
-title: "Miguel Monteiro Martins"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-  - "Direcção Local do CSJB"
-wiki_id: 959
-last_edited: "2010-08-22T23:18:08Z"
-last_editor: "ABarroso"
----
-
 # Miguel Monteiro Martins
 
 ### Cargos
@@ -28,4 +17,8 @@ last_editor: "ABarroso"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) · [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |
+| [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) |

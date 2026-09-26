@@ -1,15 +1,3 @@
----
-title: "Cristina Lopo Monteiro"
-aliases:
-  - "Cristina Lopo"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 582
-last_edited: "2009-02-01T16:39:33Z"
-last_editor: "Tnbahia"
----
-
 # Cristina Lopo Monteiro
 
 Cristina Lopo Monteiro, nascida a 4 de Julho de 1983 foi animadora do CC.
@@ -30,4 +18,9 @@ Cristina Lopo Monteiro, nascida a 4 de Julho de 1983 foi animadora do CC.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+**Outros nomes:** Cristina Lopo
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

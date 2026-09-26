@@ -1,12 +1,3 @@
----
-title: "Direcção Local do CSJB"
-categories:
-  - "Direcções Locais"
-wiki_id: 180
-last_edited: "2009-12-06T18:51:23Z"
-last_editor: "Tnbahia"
----
-
 # Direcção Local do CSJB
 
 Orgão responsável pela dinamização de actividades e coordenação de animadores no Colégio São João de Brito.
@@ -188,4 +179,6 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 
 ---
 
-**Categorias:** [Direcções Locais](Direc%C3%A7%C3%B5es%20Locais.md)
+| Categorias |
+| --- |
+| [Direcções Locais](Direc%C3%A7%C3%B5es%20Locais.md) |

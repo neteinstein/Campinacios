@@ -1,10 +1,3 @@
----
-title: "Animador"
-wiki_id: 462
-last_edited: "2009-06-08T00:56:42Z"
-last_editor: "Neteinstein"
----
-
 # Animador
 
 ```text

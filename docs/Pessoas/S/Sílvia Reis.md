@@ -1,15 +1,3 @@
----
-title: "Sílvia Reis"
-aliases:
-  - "Silvinha"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 75
-last_edited: "2009-08-07T16:37:10Z"
-last_editor: "Edu"
----
-
 # Sílvia Reis
 
 Sílvia Reis, também conhecida por Silvinha é uma das animadoras do CC.
@@ -44,4 +32,9 @@ Sílvia Reis, também conhecida por Silvinha é uma das animadoras do CC.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+**Outros nomes:** Silvinha
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

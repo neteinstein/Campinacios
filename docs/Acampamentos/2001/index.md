@@ -1,7 +1,3 @@
----
-title: "2001"
----
-
 # 2001
 
 - [Cinena](Cinena.md) — Bicicletas

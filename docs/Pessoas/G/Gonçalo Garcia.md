@@ -1,13 +1,3 @@
----
-title: "Gonçalo Garcia"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 734
-last_edited: "2009-06-08T00:51:36Z"
-last_editor: "Neteinstein"
----
-
 # Gonçalo Garcia
 
 - **Animador:**
@@ -19,4 +9,7 @@ last_editor: "Neteinstein"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

@@ -1,17 +1,3 @@
----
-title: "Carlos Miguel Albuquerque"
-aliases:
-  - "Cami"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-  - "Direcção Local do CC"
-  - "Direcção Nacional"
-wiki_id: 52
-last_edited: "2010-08-22T23:13:27Z"
-last_editor: "ABarroso"
----
-
 # Carlos Miguel Albuquerque
 
 Carlos Miguel Correia de Albuquerque, mais conhecido por Cami, nascido a 4 de Março de 1984, é animador do CC desde 2003.
@@ -52,4 +38,11 @@ Carlos Miguel Correia de Albuquerque, mais conhecido por Cami, nascido a 4 de Ma
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) · [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
+**Outros nomes:** Cami
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |
+| [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |

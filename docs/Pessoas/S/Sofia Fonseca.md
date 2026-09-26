@@ -1,13 +1,3 @@
----
-title: "Sofia Fonseca"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 714
-last_edited: "2009-02-15T22:16:37Z"
-last_editor: "Anaimmartins"
----
-
 # Sofia Fonseca
 
 ### Acampamentos
@@ -21,4 +11,7 @@ last_editor: "Anaimmartins"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

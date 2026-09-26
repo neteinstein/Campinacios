@@ -1,16 +1,3 @@
----
-title: "Fófinhos"
-aliases:
-  - "Fofinhos"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2005"
-  - "Lambretas"
-wiki_id: 84
-last_edited: "2009-02-15T00:26:08Z"
-last_editor: "Neteinstein"
----
-
 # Fófinhos
 
 Este acampamento de [Lambretas](../../Categorias/Lambretas.md) realizou em Vila da Ponte (Montalegre).
@@ -60,4 +47,10 @@ Este acampamento de [Lambretas](../../Categorias/Lambretas.md) realizou em Vila 
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2005](../../Categorias/Acampamentos%20de%202005.md) · [Lambretas](../../Categorias/Lambretas.md)
+**Outros nomes:** Fofinhos
+
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2005](../../Categorias/Acampamentos%20de%202005.md) |
+| [Lambretas](../../Categorias/Lambretas.md) |

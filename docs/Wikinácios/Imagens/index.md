@@ -1,7 +1,3 @@
----
-title: "Imagens"
----
-
 # Imagens
 
 - [1990 Alfa - Caldas de S. Paulo - Trotinetas (2).jpg](1990%20Alfa%20-%20Caldas%20de%20S.%20Paulo%20-%20Trotinetas%20%282%29.jpg.md)

@@ -1,13 +1,3 @@
----
-title: "Manuel Silva"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 197
-last_edited: "2009-09-25T16:25:25Z"
-last_editor: "Neteinstein"
----
-
 # Manuel Silva
 
 ### Acampamentos
@@ -31,4 +21,7 @@ last_editor: "Neteinstein"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

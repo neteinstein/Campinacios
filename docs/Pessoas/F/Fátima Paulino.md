@@ -1,13 +1,3 @@
----
-title: "Fátima Paulino"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 553
-last_edited: "2009-01-31T22:57:00Z"
-last_editor: "Neteinstein"
----
-
 # Fátima Paulino
 
 Fátima Paulino foi uma dos animadoras do Colégio da Imaculada Conceição.
@@ -20,4 +10,7 @@ Fátima Paulino foi uma dos animadoras do Colégio da Imaculada Conceição.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

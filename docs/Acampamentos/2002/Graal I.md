@@ -1,16 +1,3 @@
----
-title: "Graal I"
-aliases:
-  - "GRAAL I"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2002"
-  - "Formação de Animadores"
-wiki_id: 118
-last_edited: "2010-04-04T16:29:00Z"
-last_editor: "Ritags"
----
-
 # Graal I
 
 O Graal I foi um acampamento de [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) que decorreu de 13 a 22 de Agosto de 2002 no Lugar do Barco (Refóios do Lima).
@@ -40,4 +27,10 @@ O Graal I foi um acampamento de [Formação de Animadores](../../Categorias/Form
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2002](../../Categorias/Acampamentos%20de%202002.md) · [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md)
+**Outros nomes:** GRAAL I
+
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2002](../../Categorias/Acampamentos%20de%202002.md) |
+| [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) |

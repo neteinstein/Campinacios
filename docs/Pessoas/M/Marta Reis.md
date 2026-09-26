@@ -1,13 +1,3 @@
----
-title: "Marta Reis"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 880
-last_edited: "2009-09-25T19:10:51Z"
-last_editor: "Silvinha"
----
-
 # Marta Reis
 
 ### Acampamentos
@@ -33,4 +23,7 @@ last_editor: "Silvinha"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

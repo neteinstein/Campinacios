@@ -1,13 +1,3 @@
----
-title: "Tiago Carneiro"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 144
-last_edited: "2009-08-24T19:43:47Z"
-last_editor: "Tnbahia"
----
-
 # Tiago Carneiro
 
 Tiago Reis Carneiro, nascido a 22 de Maio de 1987, é animador do CC desde 2005.
@@ -38,4 +28,7 @@ Tiago Reis Carneiro, nascido a 22 de Maio de 1987, é animador do CC desde 2005.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

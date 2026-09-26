@@ -1,15 +1,3 @@
----
-title: "Francisco Silva"
-aliases:
-  - "Kiko"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 67
-last_edited: "2009-08-24T19:44:29Z"
-last_editor: "Tnbahia"
----
-
 # Francisco Silva
 
 Francisco Goiana Godinho da Silva, nascido a 15 de Abril de 1989, mais conhecido por Kiko, é animador do Colégio das Caldinhas desde 2006.
@@ -34,4 +22,9 @@ Francisco Goiana Godinho da Silva, nascido a 15 de Abril de 1989, mais conhecido
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+**Outros nomes:** Kiko
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

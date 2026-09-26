@@ -1,10 +1,3 @@
----
-title: "Campinácios 1994.jpg"
-wiki_id: 403
-last_edited: "2009-01-25T03:06:50Z"
-last_editor: "Neteinstein"
----
-
 # Campinácios 1994.jpg
 
 > **Ficheiro original não incluído no backup.** image/jpeg, 1488×1712 px, 265,625 bytes — carregado por Neteinstein em 2009-01-25.

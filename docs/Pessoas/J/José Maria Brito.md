@@ -1,18 +1,3 @@
----
-title: "José Maria Brito"
-aliases:
-  - "Zebra"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-  - "Direcção Local do CSJB"
-  - "Direcção Nacional"
-  - "Jesuítas"
-wiki_id: 987
-last_edited: "2010-08-08T22:00:11Z"
-last_editor: "ABarroso"
----
-
 # José Maria Brito
 
 Também conhecido por Zebra
@@ -47,4 +32,12 @@ Também conhecido por Zebra
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) · [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) · [Jesuítas](../../Categorias/Jesu%C3%ADtas.md)
+**Outros nomes:** Zebra
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |
+| [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |
+| [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |

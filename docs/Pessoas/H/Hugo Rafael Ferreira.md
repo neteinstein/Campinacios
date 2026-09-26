@@ -1,16 +1,3 @@
----
-title: "Hugo Rafael Ferreira"
-aliases:
-  - "Sugo"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-  - "Direcção Local do CAIC"
-wiki_id: 258
-last_edited: "2009-02-07T15:25:31Z"
-last_editor: "Neteinstein"
----
-
 # Hugo Rafael Ferreira
 
 Hugo Rafael Ferreira foi de 1996 a 2008 um dos animadores do Colégio da Imaculada Conceição.
@@ -41,4 +28,10 @@ Hugo Rafael Ferreira foi de 1996 a 2008 um dos animadores do Colégio da Imacula
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) · [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md)
+**Outros nomes:** Sugo
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |
+| [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) |

@@ -1,13 +1,3 @@
----
-title: "Miguel Machado"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 232
-last_edited: "2009-01-23T03:27:52Z"
-last_editor: "Tnbahia"
----
-
 # Miguel Machado
 
 ### Acampamentos
@@ -23,4 +13,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

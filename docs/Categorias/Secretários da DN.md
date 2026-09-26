@@ -1,12 +1,3 @@
----
-title: "Secretários da DN"
-categories:
-  - "Direcção Nacional"
-wiki_id: 348
-last_edited: "2009-01-24T14:55:16Z"
-last_editor: "Neteinstein"
----
-
 # Secretários da DN
 
 O Secretário da DN é um elemento escolhido anualmente entre os membros efectivos da Direcção Nacional. Tem a responsabilidade de realizar a acta de cada reunião.
@@ -19,4 +10,6 @@ O Secretário da DN é um elemento escolhido anualmente entre os membros efectiv
 
 ---
 
-**Categorias:** [Direcção Nacional](Direc%C3%A7%C3%A3o%20Nacional.md)
+| Categorias |
+| --- |
+| [Direcção Nacional](Direc%C3%A7%C3%A3o%20Nacional.md) |

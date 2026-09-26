@@ -1,13 +1,3 @@
----
-title: "Fábio Simões"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 259
-last_edited: "2010-07-11T14:27:00Z"
-last_editor: "Neteinstein"
----
-
 # Fábio Simões
 
 Fábio Simões foi de 2006 a 2007 um dos animadores do Colégio da Imaculada Conceição.
@@ -29,4 +19,7 @@ Fábio Simões foi de 2006 a 2007 um dos animadores do Colégio da Imaculada Con
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

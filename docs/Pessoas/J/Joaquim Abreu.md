@@ -1,13 +1,3 @@
----
-title: "Joaquim Abreu"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 202
-last_edited: "2009-03-04T02:28:20Z"
-last_editor: "Tnbahia"
----
-
 # Joaquim Abreu
 
 Joaquim Alfredo Matos Abreu, nascido a 21 de Maio de 1984, é animador do CC.
@@ -37,4 +27,7 @@ Joaquim Alfredo Matos Abreu, nascido a 21 de Maio de 1984, é animador do CC.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

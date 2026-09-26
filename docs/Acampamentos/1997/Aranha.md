@@ -1,14 +1,3 @@
----
-title: "Aranha"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1997"
-  - "Bicicletas"
-wiki_id: 449
-last_edited: "2009-12-06T22:28:01Z"
-last_editor: "Tnbahia"
----
-
 # Aranha
 
 O Aranha foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que decorreu de 3 a 12 de Agosto de 1997 na Quinta da Parada.
@@ -36,4 +25,8 @@ O Aranha foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que 
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1997](../../Categorias/Acampamentos%20de%201997.md) · [Bicicletas](../../Categorias/Bicicletas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1997](../../Categorias/Acampamentos%20de%201997.md) |
+| [Bicicletas](../../Categorias/Bicicletas.md) |

@@ -1,7 +1,3 @@
----
-title: "J"
----
-
 # J
 
 - [Jacinto Bezerra](Jacinto%20Bezerra.md)

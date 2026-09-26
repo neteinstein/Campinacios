@@ -1,16 +1,3 @@
----
-title: "Mariana Roxo"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-  - "Direcção Local do CAIC"
-  - "Direcção Nacional"
-  - "Secretários da DN"
-wiki_id: 276
-last_edited: "2009-02-07T15:28:45Z"
-last_editor: "Neteinstein"
----
-
 # Mariana Roxo
 
 Mariana Roxo é desde 2006, uma das animadoras do Colégio da Imaculada Conceição.
@@ -50,4 +37,10 @@ Mariana Roxo é desde 2006, uma das animadoras do Colégio da Imaculada Conceiç
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) · [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) · [Secretários da DN](../../Categorias/Secret%C3%A1rios%20da%20DN.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |
+| [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |
+| [Secretários da DN](../../Categorias/Secret%C3%A1rios%20da%20DN.md) |

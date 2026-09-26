@@ -1,13 +1,3 @@
----
-title: "António Amaral"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 500
-last_edited: "2009-08-24T20:17:32Z"
-last_editor: "Tnbahia"
----
-
 # António Amaral
 
 ### Acampamentos
@@ -37,4 +27,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

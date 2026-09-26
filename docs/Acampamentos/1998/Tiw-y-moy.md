@@ -1,14 +1,3 @@
----
-title: "Tiw-y-moy"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1998"
-  - "Trotinetas"
-wiki_id: 450
-last_edited: "2009-12-06T23:09:40Z"
-last_editor: "Tnbahia"
----
-
 # Tiw-y-moy
 
 Foi realizado em Porto da Balsa, na Serra do Açor, tendo tido uma caminha muito bonita até ao Piodão.
@@ -38,4 +27,8 @@ Foi realizado em Porto da Balsa, na Serra do Açor, tendo tido uma caminha muito
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1998](../../Categorias/Acampamentos%20de%201998.md) · [Trotinetas](../../Categorias/Trotinetas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1998](../../Categorias/Acampamentos%20de%201998.md) |
+| [Trotinetas](../../Categorias/Trotinetas.md) |

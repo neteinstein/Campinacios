@@ -1,17 +1,3 @@
----
-title: "Pedro Vicente"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-  - "Direcção Local do CAIC"
-  - "Coordenador Local do CAIC"
-  - "Direcção Nacional"
-  - "Coordenadores Nacionais"
-wiki_id: 7
-last_edited: "2010-07-12T22:00:01Z"
-last_editor: "Edu"
----
-
 # Pedro Vicente
 
 Pedro Vicente nasceu a 26 de Maio de 1985.
@@ -116,4 +102,11 @@ E-mail: Pedro@Campinacios.org
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) · [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) · [Coordenador Local do CAIC](../../Categorias/Coordenador%20Local%20do%20CAIC.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) · [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |
+| [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) |
+| [Coordenador Local do CAIC](../../Categorias/Coordenador%20Local%20do%20CAIC.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |
+| [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md) |

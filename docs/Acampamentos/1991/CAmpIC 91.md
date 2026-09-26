@@ -1,16 +1,3 @@
----
-title: "CAmpIC 91"
-aliases:
-  - "CAmpIC"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1991"
-  - "Bicicletas"
-wiki_id: 647
-last_edited: "2009-02-16T00:34:03Z"
-last_editor: "Neteinstein"
----
-
 # CAmpIC 91
 
 O CAmpIC foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que decorreu de 17 a 26 de Julho de 1991, em Alagoa (Arganil).
@@ -30,4 +17,10 @@ O CAmpIC foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que 
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1991](../../Categorias/Acampamentos%20de%201991.md) · [Bicicletas](../../Categorias/Bicicletas.md)
+**Outros nomes:** CAmpIC
+
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1991](../../Categorias/Acampamentos%20de%201991.md) |
+| [Bicicletas](../../Categorias/Bicicletas.md) |

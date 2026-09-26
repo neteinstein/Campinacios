@@ -1,13 +1,3 @@
----
-title: "Andreia Mendes"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 708
-last_edited: "2009-11-27T14:12:49Z"
-last_editor: "Tnbahia"
----
-
 # Andreia Mendes
 
 ### Acampamentos
@@ -25,4 +15,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

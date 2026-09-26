@@ -1,13 +1,3 @@
----
-title: "Ana Pinto da Costa"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 578
-last_edited: "2009-02-07T15:28:17Z"
-last_editor: "Neteinstein"
----
-
 # Ana Pinto da Costa
 
 Ana Luísa de Oliveira Pinto da Costa, nascida a 17 de Agosto de 1981 é animadora do CC.
@@ -40,4 +30,7 @@ Ana Luísa de Oliveira Pinto da Costa, nascida a 17 de Agosto de 1981 é animado
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

@@ -1,7 +1,3 @@
----
-title: "2002"
----
-
 # 2002
 
 - [Graal I](Graal%20I.md) — Formação de Animadores

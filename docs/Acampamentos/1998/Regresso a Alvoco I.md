@@ -1,14 +1,3 @@
----
-title: "Regresso a Alvoco I"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1998"
-  - "Triciclos"
-wiki_id: 490
-last_edited: "2009-02-15T14:55:09Z"
-last_editor: "Neteinstein"
----
-
 # Regresso a Alvoco I
 
 Este acampamento decorreu em Alvoco das Várzeas de 18 a 27 de Julho de 1998.
@@ -30,4 +19,8 @@ Este acampamento decorreu em Alvoco das Várzeas de 18 a 27 de Julho de 1998.
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1998](../../Categorias/Acampamentos%20de%201998.md) · [Triciclos](../../Categorias/Triciclos.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1998](../../Categorias/Acampamentos%20de%201998.md) |
+| [Triciclos](../../Categorias/Triciclos.md) |

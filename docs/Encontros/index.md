@@ -1,7 +1,3 @@
----
-title: "Encontros"
----
-
 # Encontros
 
 Encontros Nacionais e Encontros Nacionais de Animadores.

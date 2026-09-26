@@ -1,12 +1,3 @@
----
-title: "Luís Onofre"
-categories:
-  - "Jesuítas"
-wiki_id: 480
-last_edited: "2009-01-28T01:05:20Z"
-last_editor: "Tnbahia"
----
-
 # Luís Onofre
 
 ### Acampamentos
@@ -26,4 +17,6 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Jesuítas](../../Categorias/Jesu%C3%ADtas.md)
+| Categorias |
+| --- |
+| [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |

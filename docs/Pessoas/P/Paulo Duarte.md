@@ -1,13 +1,3 @@
----
-title: "Paulo Duarte"
-categories:
-  - "Jesuítas"
-  - "Direcção Local do CAIC"
-wiki_id: 633
-last_edited: "2009-08-20T22:21:12Z"
-last_editor: "Tnbahia"
----
-
 # Paulo Duarte
 
 ### Cargos
@@ -26,4 +16,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) · [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |
+| [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) |

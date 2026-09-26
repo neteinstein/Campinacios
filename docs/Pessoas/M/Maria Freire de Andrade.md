@@ -1,13 +1,3 @@
----
-title: "Maria Freire de Andrade"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 921
-last_edited: "2009-11-21T11:55:34Z"
-last_editor: "Edu"
----
-
 # Maria Freire de Andrade
 
 Maria Freire de Andrade é antiga aluna do Colégio S. João de Brito, é animadora dos Campinácios e começou este ano a formação para animadora (2009).
@@ -20,4 +10,7 @@ Maria Freire de Andrade é antiga aluna do Colégio S. João de Brito, é animad
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

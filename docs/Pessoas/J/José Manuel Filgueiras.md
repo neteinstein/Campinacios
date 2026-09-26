@@ -1,17 +1,3 @@
----
-title: "José Manuel Filgueiras"
-aliases:
-  - "José Filgueiras"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-  - "Direcção Local do CC"
-  - "Coordenadores Nacionais"
-wiki_id: 343
-last_edited: "2009-02-15T01:14:23Z"
-last_editor: "Neteinstein"
----
-
 # José Manuel Filgueiras
 
 José Manuel Filgueiras foi um dos animadores do Colégio das Caldinhas
@@ -47,4 +33,11 @@ José Manuel Filgueiras foi um dos animadores do Colégio das Caldinhas
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) · [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) · [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md)
+**Outros nomes:** José Filgueiras
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |
+| [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) |
+| [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md) |

@@ -1,18 +1,3 @@
----
-title: "Lourenço Eiró"
-categories:
-  - "Jesuítas"
-  - "Animadores"
-  - "Animadores do CSJB"
-  - "Direcção Local do CSJB"
-  - "Direcção Local do CC"
-  - "Direcção Nacional"
-  - "Assistentes Nacionais"
-wiki_id: 15
-last_edited: "2010-08-22T23:15:03Z"
-last_editor: "ABarroso"
----
-
 # Lourenço Eiró
 
 Lourenço Eiró foi um dos fundadores dos [Campinácios](../../Movimento/Campin%C3%A1cios.md).
@@ -78,4 +63,12 @@ E-mail: Assistente@Campinacios.org
 
 ---
 
-**Categorias:** [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) · [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) · [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) · [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) · [Assistentes Nacionais](../../Categorias/Assistentes%20Nacionais.md)
+| Categorias |
+| --- |
+| [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |
+| [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) |
+| [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |
+| [Assistentes Nacionais](../../Categorias/Assistentes%20Nacionais.md) |

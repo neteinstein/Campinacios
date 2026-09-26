@@ -1,12 +1,3 @@
----
-title: "Direcção Local do CAIC"
-categories:
-  - "Direcções Locais"
-wiki_id: 176
-last_edited: "2009-11-27T18:29:21Z"
-last_editor: "Neteinstein"
----
-
 # Direcção Local do CAIC
 
 Orgão responsável pela dinamização de actividades e coordenação de animadores no Colégio da Imaculada Conceição.
@@ -182,4 +173,6 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 
 ---
 
-**Categorias:** [Direcções Locais](Direc%C3%A7%C3%B5es%20Locais.md)
+| Categorias |
+| --- |
+| [Direcções Locais](Direc%C3%A7%C3%B5es%20Locais.md) |

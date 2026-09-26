@@ -1,13 +1,3 @@
----
-title: "Sara Póvoa"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 281
-last_edited: "2009-01-23T20:10:32Z"
-last_editor: "Neteinstein"
----
-
 # Sara Póvoa
 
 Sara Póvoa é desde 2005, uma das animadoras do Colégio da Imaculada Conceição.
@@ -32,4 +22,7 @@ Sara Póvoa é desde 2005, uma das animadoras do Colégio da Imaculada Conceiç�
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

@@ -1,16 +1,3 @@
----
-title: "Miguel Melo"
-aliases:
-  - "Missé"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-  - "Jesuítas"
-wiki_id: 210
-last_edited: "2009-08-23T16:17:34Z"
-last_editor: "Tnbahia"
----
-
 # Miguel Melo
 
 ### Acampamentos
@@ -30,4 +17,10 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) · [Jesuítas](../../Categorias/Jesu%C3%ADtas.md)
+**Outros nomes:** Missé
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |
+| [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |

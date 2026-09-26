@@ -1,14 +1,3 @@
----
-title: "Talithá Kum"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2009"
-  - "Trotinetas"
-wiki_id: 903
-last_edited: "2009-09-22T15:46:11Z"
-last_editor: "Silvinha"
----
-
 # Talithá Kum
 
 O Talithá Kum decorreu entre os dias 10 e 19 de Agosto de 2009 em Cornicovo (Penacova), sendo um acampamento de [Trotinetas](../../Categorias/Trotinetas.md).
@@ -45,4 +34,8 @@ O Talithá Kum decorreu entre os dias 10 e 19 de Agosto de 2009 em Cornicovo (Pe
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2009](../../Categorias/Acampamentos%20de%202009.md) · [Trotinetas](../../Categorias/Trotinetas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2009](../../Categorias/Acampamentos%20de%202009.md) |
+| [Trotinetas](../../Categorias/Trotinetas.md) |

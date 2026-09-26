@@ -1,14 +1,3 @@
----
-title: "Alvoco II"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1999"
-  - "Triciclos"
-wiki_id: 486
-last_edited: "2009-12-06T23:37:22Z"
-last_editor: "Tnbahia"
----
-
 # Alvoco II
 
 Este acampamento decorreu em Alvoco das Várzeas. Este acampamento decorreu em simultâneo com o outro campo de triciclos desse ano, o [Lufa](Lufa.md), no mesmo local.
@@ -29,4 +18,8 @@ Este acampamento decorreu em Alvoco das Várzeas. Este acampamento decorreu em s
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1999](../../Categorias/Acampamentos%20de%201999.md) · [Triciclos](../../Categorias/Triciclos.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1999](../../Categorias/Acampamentos%20de%201999.md) |
+| [Triciclos](../../Categorias/Triciclos.md) |

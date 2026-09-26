@@ -1,13 +1,3 @@
----
-title: "Renato Lopes"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 335
-last_edited: "2009-02-07T15:30:11Z"
-last_editor: "Neteinstein"
----
-
 # Renato Lopes
 
 Renato Lopes foi de 1998 a 2004 um dos animadores do Colégio da Imaculada Conceição.
@@ -41,4 +31,7 @@ Renato Lopes foi de 1998 a 2004 um dos animadores do Colégio da Imaculada Conce
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

@@ -1,14 +1,3 @@
----
-title: "Martinho Lucas Pires"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-  - "Direcção Local do CSJB"
-wiki_id: 503
-last_edited: "2009-09-25T18:51:44Z"
-last_editor: "Silvinha"
----
-
 # Martinho Lucas Pires
 
 Martinho Lucas Pires mais conhecido por Martinho
@@ -47,4 +36,8 @@ Martinho Lucas Pires mais conhecido por Martinho
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) · [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |
+| [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) |

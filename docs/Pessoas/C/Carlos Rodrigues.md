@@ -1,16 +1,3 @@
----
-title: "Carlos Rodrigues"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-  - "Direcção Local do CAIC"
-  - "Direcção Nacional"
-  - "Secretários da DN"
-wiki_id: 240
-last_edited: "2009-04-06T22:30:07Z"
-last_editor: "Neteinstein"
----
-
 # Carlos Rodrigues
 
 Carlos Rodrigues, foi de 2003 a 2008 um dos animadores do Colégio da Imaculada Conceição.
@@ -44,4 +31,10 @@ Carlos Rodrigues, foi de 2003 a 2008 um dos animadores do Colégio da Imaculada 
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) · [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) · [Secretários da DN](../../Categorias/Secret%C3%A1rios%20da%20DN.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |
+| [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |
+| [Secretários da DN](../../Categorias/Secret%C3%A1rios%20da%20DN.md) |

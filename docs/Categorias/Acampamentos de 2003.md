@@ -1,12 +1,3 @@
----
-title: "Acampamentos de 2003"
-categories:
-  - "Acampamentos"
-wiki_id: 171
-last_edited: "2009-01-21T21:50:52Z"
-last_editor: "Neteinstein"
----
-
 # Acampamentos de 2003
 
 Acampamentos realizados em 2003
@@ -22,4 +13,6 @@ Acampamentos realizados em 2003
 
 ---
 
-**Categorias:** [Acampamentos](Acampamentos.md)
+| Categorias |
+| --- |
+| [Acampamentos](Acampamentos.md) |

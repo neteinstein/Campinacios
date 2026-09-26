@@ -1,12 +1,3 @@
----
-title: "Cantinácio"
-categories:
-  - "Manuais"
-wiki_id: 632
-last_edited: "2009-02-07T15:52:08Z"
-last_editor: "Neteinstein"
----
-
 # Cantinácio
 
 Reúne músicas e canções dos Campinácios e não só.
@@ -20,4 +11,6 @@ Esta actualmente em renovação, estando uma reedição a ser prevista já há a
 
 ---
 
-**Categorias:** [Manuais](../Categorias/Manuais.md)
+| Categorias |
+| --- |
+| [Manuais](../Categorias/Manuais.md) |

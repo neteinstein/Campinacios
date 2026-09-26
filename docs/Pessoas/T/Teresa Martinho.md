@@ -1,13 +1,3 @@
----
-title: "Teresa Martinho"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 540
-last_edited: "2009-02-07T15:33:11Z"
-last_editor: "Neteinstein"
----
-
 # Teresa Martinho
 
 Teresa Martinho foi uma dos animadoras do Colégio da Imaculada Conceição.
@@ -25,4 +15,7 @@ Teresa Martinho foi uma dos animadoras do Colégio da Imaculada Conceição.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

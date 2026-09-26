@@ -1,13 +1,3 @@
----
-title: "Diogo Reis"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 537
-last_edited: "2009-01-31T22:46:17Z"
-last_editor: "Neteinstein"
----
-
 # Diogo Reis
 
 Diogo Reis foi um dos animadores do Colégio da Imaculada Conceição.
@@ -19,4 +9,7 @@ Diogo Reis foi um dos animadores do Colégio da Imaculada Conceição.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

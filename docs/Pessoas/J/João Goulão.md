@@ -1,12 +1,3 @@
----
-title: "João Goulão"
-categories:
-  - "Jesuítas"
-wiki_id: 45
-last_edited: "2010-08-22T23:40:15Z"
-last_editor: "ABarroso"
----
-
 # João Goulão
 
 ### Cargos
@@ -31,4 +22,6 @@ last_editor: "ABarroso"
 
 ---
 
-**Categorias:** [Jesuítas](../../Categorias/Jesu%C3%ADtas.md)
+| Categorias |
+| --- |
+| [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |

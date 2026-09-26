@@ -1,13 +1,3 @@
----
-title: "Ana Geão"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 710
-last_edited: "2009-02-15T22:04:20Z"
-last_editor: "Anaimmartins"
----
-
 # Ana Geão
 
 ### Acampamentos
@@ -30,4 +20,7 @@ last_editor: "Anaimmartins"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

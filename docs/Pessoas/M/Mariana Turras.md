@@ -1,13 +1,3 @@
----
-title: "Mariana Turras"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 847
-last_edited: "2009-06-05T18:12:08Z"
-last_editor: "Carvalho.francisco3"
----
-
 # Mariana Turras
 
 ### Acampamentos
@@ -34,4 +24,7 @@ A Mariana Turras é irmã do [Pedro Turras](../P/Pedro%20Turras.md),da [Rita Tur
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

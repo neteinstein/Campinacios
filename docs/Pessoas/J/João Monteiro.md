@@ -1,13 +1,3 @@
----
-title: "João Monteiro"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 149
-last_edited: "2009-09-25T19:03:08Z"
-last_editor: "Silvinha"
----
-
 # João Monteiro
 
 João Pedro Azevedo Lopes Monteiro, nascido a 2 de Julho de 1986, é animador do CC desde 2005.
@@ -36,4 +26,7 @@ João Pedro Azevedo Lopes Monteiro, nascido a 2 de Julho de 1986, é animador do
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

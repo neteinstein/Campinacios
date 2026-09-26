@@ -1,14 +1,3 @@
----
-title: "João Quintela"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-  - "Direcção Local do CC"
-wiki_id: 27
-last_edited: "2010-08-22T23:11:53Z"
-last_editor: "ABarroso"
----
-
 # João Quintela
 
 Animador do CC desde 2004.
@@ -45,4 +34,8 @@ Animador do CC desde 2004.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) · [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |
+| [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) |

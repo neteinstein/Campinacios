@@ -1,14 +1,3 @@
----
-title: "Director"
-aliases:
-  - "Directora"
-categories:
-  - "Cargos"
-wiki_id: 416
-last_edited: "2009-01-25T21:21:16Z"
-last_editor: "Neteinstein"
----
-
 # Director
 
 - Ser director é magnífico e é muito compensador quando se é coadjuvado por uma equipa de animadores que permite um contacto frequente com todos os que estão no acampamento.
@@ -229,4 +218,8 @@ last_editor: "Neteinstein"
 
 ---
 
-**Categorias:** [Cargos](../Categorias/Cargos.md)
+**Outros nomes:** Directora
+
+| Categorias |
+| --- |
+| [Cargos](../Categorias/Cargos.md) |

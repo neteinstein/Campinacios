@@ -175,11 +175,7 @@ FOLDER_INTROS = {
 
 
 ABOUT_PAGE = 'docs/Wikinácios/Sobre este arquivo.md'
-ABOUT_TEXT = '''---
-title: "Sobre este arquivo"
----
-
-# Sobre este arquivo
+ABOUT_TEXT = '''# Sobre este arquivo
 
 A Wikinácios foi a wiki dos Campinácios, criada em 2009 durante a
 Revolução Campinácios v2.0 e mantida em MediaWiki. Este site foi gerado a
@@ -190,10 +186,11 @@ partir da cópia de segurança da base de dados MySQL da wiki pelo script
 
 - A versão mais recente de cada página pública, em Markdown.
 - Os redireccionamentos foram resolvidos: as ligações apontam directamente
-  para a página de destino, e os nomes alternativos ficam em `aliases` no
-  cabeçalho de cada ficheiro.
+  para a página de destino, e os nomes alternativos ficam em *Outros nomes*,
+  no fim de cada página.
 - As categorias têm uma página própria com a lista dos seus membros, e cada
-  página mostra as páginas que ligam para ela.
+  página mostra, no fim, as páginas que ligam para ela e uma tabela com as
+  suas categorias.
 - As páginas estão organizadas por pastas: acampamentos por ano, pessoas
   por inicial, encontros, cargos, movimento, categorias e as páginas sobre
   a própria wiki.
@@ -204,7 +201,8 @@ partir da cópia de segurança da base de dados MySQL da wiki pelo script
   as fichas dos locais de acampamento, que eram reservadas aos directores e
   contêm contactos privados.
 - Contas de utilizador, palavras-passe, registos, páginas apagadas e o
-  histórico de revisões.
+  histórico de revisões, incluindo o autor e a data da última edição de
+  cada página.
 - As imagens: o backup só tem a base de dados, por isso as páginas das
   imagens mostram apenas a descrição e os dados do ficheiro original.
 
@@ -228,13 +226,7 @@ A pasta `docs/` também pode ser aberta como cofre no
 [Obsidian](https://obsidian.md/), que mostra o grafo de ligações entre as
 páginas.
 '''
-GRAPH_TEXT = '''---
-title: "Grafo de ligações"
-hide:
-  - toc
----
-
-# Grafo de ligações
+GRAPH_TEXT = '''# Grafo de ligações
 
 Cada ponto é um artigo e cada linha uma ligação entre dois artigos. Passe
 o cursor por cima de um ponto para ver o nome, clique para abrir o artigo,
@@ -687,20 +679,17 @@ def iso(ts):
         '%Y-%m-%dT%H:%M:%SZ')
 
 
-def front_matter(fields):
-    out = ['---']
-    for key, val in fields.items():
-        if val in (None, [], ''):
-            continue
-        if isinstance(val, list):
-            out.append(f'{key}:')
-            out += [f'  - {yaml_str(v)}' for v in val]
-        elif isinstance(val, int):
-            out.append(f'{key}: {val}')
-        else:
-            out.append(f'{key}: {yaml_str(val)}')
-    out.append('---')
-    return '\n'.join(out)
+def page_footer(aliases, category_links):
+    """The other names of a page and a table of its categories, closing it.
+
+    Pages carry no front matter: GitHub shows it as a table at the top."""
+    out = []
+    if aliases:
+        out.append('**Outros nomes:** ' + ' · '.join(aliases))
+    if category_links:
+        out.append('| Categorias |\n| --- |\n' + '\n'.join(
+            f'| {link} |' for link in category_links))
+    return '---\n\n' + '\n\n'.join(out) if out else ''
 
 
 def md_link(label, from_path, to_path, anchor=''):
@@ -721,10 +710,8 @@ def main(dump, root='.'):
     for r in data['mw_page']:
         rev = revisions[int(r[9])]
         ns, title = int(r[1]), normalize_title(decode(r[2]))
-        pages[(ns, title)] = dict(
-            id=int(r[0]), redirect=r[5] == '1',
-            text=decode(texts[int(rev[2])]),
-            timestamp=rev[6].decode(), editor=decode(rev[5]))
+        pages[(ns, title)] = dict(redirect=r[5] == '1',
+                                  text=decode(texts[int(rev[2])]))
 
     images = {}
     for r in data['mw_image']:
@@ -765,15 +752,14 @@ def main(dump, root='.'):
             body, cats = f'```text\n{p["text"].strip()}\n```', []
         else:
             body, cats = conv.convert(p['text'], title)
-        notes[key] = dict(page=p, body=body, categories=cats)
+        notes[key] = dict(body=body, categories=cats)
 
     members = defaultdict(list)
     for key, note in notes.items():
         for c in note['categories']:
             members[c].append(key)
     for c in members:  # categories used without a page of their own
-        notes.setdefault((CATEGORY_NS, c),
-                         dict(page=None, body='', categories=[]))
+        notes.setdefault((CATEGORY_NS, c), dict(body='', categories=[]))
 
     # 2. Leave out what was private on the wiki
     private = sorted(k for k, n in notes.items()
@@ -858,20 +844,11 @@ def main(dump, root='.'):
                 shutil.rmtree(child) if child.is_dir() else child.unlink()
     for key, note in sorted(notes.items()):
         ns, title = key
-        p, path = note['page'], paths[key]
-        fields = {
-            'title': title_of(key),
-            'aliases': sorted(aliases.get(key, [])),
-            'categories': note['categories'],
-            'wiki_id': p['id'] if p else None,
-            'last_edited': iso(p['timestamp']) if p else None,
-            'last_editor': p['editor'] if p else None,
-        }
-        parts = [front_matter(fields)]
+        path = paths[key]
         if key == home:
-            parts.append(home_body(path))
+            parts = [home_body(path)]
         else:
-            parts.append(f'# {title}')
+            parts = [f'# {title}']
             if bodies[key]:
                 parts.append(bodies[key])
         img = images.get(title) if ns == IMAGE_NS else None
@@ -898,9 +875,10 @@ def main(dump, root='.'):
             parts.append('## Páginas que ligam para aqui\n\n' + '\n'.join(
                 '- ' + link_to(k, path) for k in refs))
         cats = [c for c in note['categories'] if (CATEGORY_NS, c) in notes]
-        if cats:
-            parts.append('---\n\n**Categorias:** ' + ' · '.join(
-                link_to((CATEGORY_NS, c), path, c) for c in cats))
+        footer = page_footer(sorted(aliases.get(key, [])), [
+            link_to((CATEGORY_NS, c), path, c) for c in cats])
+        if footer:
+            parts.append(footer)
         out = root / path
         out.parent.mkdir(parents=True, exist_ok=True)
         out.write_text('\n\n'.join(parts) + '\n', encoding='utf-8')
@@ -922,7 +900,7 @@ def main(dump, root='.'):
     for folder in sorted(folders):
         index = f'{folder}/index.md'
         name = posixpath.basename(folder)
-        parts = [front_matter({'title': name}), f'# {name}']
+        parts = [f'# {name}']
         if name in FOLDER_INTROS:
             parts.append(FOLDER_INTROS[name])
         subs = sorted(f for f in folders if posixpath.dirname(f) == folder)

@@ -1,13 +1,3 @@
----
-title: "Joana Nunes"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 706
-last_edited: "2009-02-15T21:35:56Z"
-last_editor: "Neteinstein"
----
-
 # Joana Nunes
 
 ### Acampamentos
@@ -26,4 +16,7 @@ last_editor: "Neteinstein"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

@@ -1,15 +1,3 @@
----
-title: "José Miguel Fernandes"
-aliases:
-  - "Zé Aves"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 147
-last_edited: "2009-09-25T18:55:55Z"
-last_editor: "Silvinha"
----
-
 # José Miguel Fernandes
 
 José Miguel Martins Fernandes, nascido a 15 de Abril de 1987, é animador do CC desde 2005.
@@ -44,4 +32,9 @@ José Miguel Martins Fernandes, nascido a 15 de Abril de 1987, é animador do CC
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+**Outros nomes:** Zé Aves
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

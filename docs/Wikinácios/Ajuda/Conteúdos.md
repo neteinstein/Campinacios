@@ -1,10 +1,3 @@
----
-title: "Conteúdos"
-wiki_id: 155
-last_edited: "2009-02-09T02:03:48Z"
-last_editor: "Neteinstein"
----
-
 # Conteúdos
 
 ** Bem-vindo à Wiki dos [Campinácios](../../Movimento/Campin%C3%A1cios.md)! **

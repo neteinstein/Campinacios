@@ -1,13 +1,3 @@
----
-title: "Rita Quintela"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 132
-last_edited: "2010-09-21T20:31:12Z"
-last_editor: "Xica"
----
-
 # Rita Quintela
 
 Rita Quintela nasceu a 6 de Dezembro de 1990.
@@ -40,4 +30,7 @@ Frequentou o CC de 1995 a 2008. Animadora desde 2008 até hoje.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

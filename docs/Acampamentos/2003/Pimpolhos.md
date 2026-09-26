@@ -1,14 +1,3 @@
----
-title: "Pimpolhos"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2003"
-  - "Triciclos"
-wiki_id: 164
-last_edited: "2010-04-08T16:16:24Z"
-last_editor: "Neteinstein"
----
-
 # Pimpolhos
 
 O Pimpolhos foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que decorreu na Sibana.
@@ -40,4 +29,8 @@ O Pimpolhos foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2003](../../Categorias/Acampamentos%20de%202003.md) · [Triciclos](../../Categorias/Triciclos.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2003](../../Categorias/Acampamentos%20de%202003.md) |
+| [Triciclos](../../Categorias/Triciclos.md) |

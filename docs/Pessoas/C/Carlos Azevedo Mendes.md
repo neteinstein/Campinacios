@@ -1,12 +1,3 @@
----
-title: "Carlos Azevedo Mendes"
-categories:
-  - "Jesuítas"
-wiki_id: 832
-last_edited: "2009-12-04T18:57:48Z"
-last_editor: "Tnbahia"
----
-
 # Carlos Azevedo Mendes
 
 ### Acampamentos
@@ -23,4 +14,6 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Jesuítas](../../Categorias/Jesu%C3%ADtas.md)
+| Categorias |
+| --- |
+| [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |

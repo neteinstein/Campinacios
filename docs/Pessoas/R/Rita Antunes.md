@@ -1,13 +1,3 @@
----
-title: "Rita Antunes"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 822
-last_edited: "2009-04-22T01:10:30Z"
-last_editor: "Edu"
----
-
 # Rita Antunes
 
 ## Páginas que ligam para aqui
@@ -19,4 +9,7 @@ last_editor: "Edu"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

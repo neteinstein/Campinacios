@@ -1,14 +1,3 @@
----
-title: "TSI"
-categories:
-  - "Acampamentos de 2008"
-  - "Acampamentos"
-  - "Triciclos"
-wiki_id: 48
-last_edited: "2009-02-15T15:08:03Z"
-last_editor: "Neteinstein"
----
-
 # TSI
 
 O TSI (Tu és Super Importante) foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que decorreu de 24 de Julho a 2 de Agosto de 2008 na Murtinheira.
@@ -42,4 +31,8 @@ O TSI (Tu és Super Importante) foi um acampamento de [Triciclos](../../Categori
 
 ---
 
-**Categorias:** [Acampamentos de 2008](../../Categorias/Acampamentos%20de%202008.md) · [Acampamentos](../../Categorias/Acampamentos.md) · [Triciclos](../../Categorias/Triciclos.md)
+| Categorias |
+| --- |
+| [Acampamentos de 2008](../../Categorias/Acampamentos%20de%202008.md) |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Triciclos](../../Categorias/Triciclos.md) |

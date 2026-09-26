@@ -1,13 +1,3 @@
----
-title: "Ana Junqueira"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 993
-last_edited: "2010-08-19T17:39:14Z"
-last_editor: "Tnbahia"
----
-
 # Ana Junqueira
 
 ### Acampamentos
@@ -27,4 +17,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

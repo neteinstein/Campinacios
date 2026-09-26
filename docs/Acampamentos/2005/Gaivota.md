@@ -1,14 +1,3 @@
----
-title: "Gaivota"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2005"
-  - "Bicicletas"
-wiki_id: 110
-last_edited: "2009-11-27T18:26:07Z"
-last_editor: "Neteinstein"
----
-
 # Gaivota
 
 Este acampamento de [Bicicletas](../../Categorias/Bicicletas.md) realizou de 12 a 21 de Agosto de 2005 em Vila da Ponte (Montalegre).
@@ -67,4 +56,8 @@ Este acampamento de [Bicicletas](../../Categorias/Bicicletas.md) realizou de 12 
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2005](../../Categorias/Acampamentos%20de%202005.md) · [Bicicletas](../../Categorias/Bicicletas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2005](../../Categorias/Acampamentos%20de%202005.md) |
+| [Bicicletas](../../Categorias/Bicicletas.md) |

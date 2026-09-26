@@ -1,13 +1,3 @@
----
-title: "Miguel Monteiro"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 252
-last_edited: "2009-09-25T18:47:16Z"
-last_editor: "Silvinha"
----
-
 # Miguel Monteiro
 
 Miguel Monteiro é um dos animadores do Colégio da Imaculada Conceição.
@@ -34,4 +24,7 @@ Miguel Monteiro é um dos animadores do Colégio da Imaculada Conceição.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

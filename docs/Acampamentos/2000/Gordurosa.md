@@ -1,14 +1,3 @@
----
-title: "Gordurosa"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 2000"
-  - "Bicicletas"
-wiki_id: 375
-last_edited: "2009-02-15T15:36:30Z"
-last_editor: "Neteinstein"
----
-
 # Gordurosa
 
 Este acampamento de Bicicletas realizou em Santa Margarida.
@@ -37,4 +26,8 @@ Este acampamento de Bicicletas realizou em Santa Margarida.
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2000](../../Categorias/Acampamentos%20de%202000.md) · [Bicicletas](../../Categorias/Bicicletas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2000](../../Categorias/Acampamentos%20de%202000.md) |
+| [Bicicletas](../../Categorias/Bicicletas.md) |

@@ -1,10 +1,3 @@
----
-title: "OrienTu.jpg"
-wiki_id: 397
-last_edited: "2009-02-01T01:31:44Z"
-last_editor: "Neteinstein"
----
-
 # OrienTu.jpg
 
 OrienTu

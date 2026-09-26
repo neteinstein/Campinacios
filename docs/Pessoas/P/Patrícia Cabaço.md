@@ -1,13 +1,3 @@
----
-title: "Patrícia Cabaço"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 463
-last_edited: "2009-06-08T01:05:26Z"
-last_editor: "Neteinstein"
----
-
 # Patrícia Cabaço
 
 ### Acampamentos
@@ -30,4 +20,7 @@ last_editor: "Neteinstein"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

@@ -1,12 +1,3 @@
----
-title: "Miguel Martins"
-categories:
-  - "Desambiguação"
-wiki_id: 899
-last_edited: "2009-12-06T18:47:27Z"
-last_editor: "Tnbahia"
----
-
 # Miguel Martins
 
 ---
@@ -30,4 +21,6 @@ Se uma ligação interna o conduziu até aqui, sugerimos que a corrija para apon
 
 ---
 
-**Categorias:** [Desambiguação](../../Categorias/Desambigua%C3%A7%C3%A3o.md)
+| Categorias |
+| --- |
+| [Desambiguação](../../Categorias/Desambigua%C3%A7%C3%A3o.md) |

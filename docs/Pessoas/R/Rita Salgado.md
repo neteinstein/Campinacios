@@ -1,13 +1,3 @@
----
-title: "Rita Salgado"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 946
-last_edited: "2009-12-04T17:22:43Z"
-last_editor: "Tnbahia"
----
-
 # Rita Salgado
 
 ### Acampamentos
@@ -28,4 +18,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

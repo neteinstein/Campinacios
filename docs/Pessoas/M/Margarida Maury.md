@@ -1,13 +1,3 @@
----
-title: "Margarida Maury"
-categories:
-  - "Animadores"
-  - "Animadores do CSJB"
-wiki_id: 838
-last_edited: "2009-12-06T21:41:39Z"
-last_editor: "Tnbahia"
----
-
 # Margarida Maury
 
 ### Acampamentos
@@ -33,4 +23,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

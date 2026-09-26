@@ -1,13 +1,3 @@
----
-title: "Fernando Ventura"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 241
-last_edited: "2009-01-23T18:31:08Z"
-last_editor: "Neteinstein"
----
-
 # Fernando Ventura
 
 Fernando Ventura, é um dos animadores do Colégio da Imaculada Conceição.
@@ -25,4 +15,7 @@ Fernando Ventura, é um dos animadores do Colégio da Imaculada Conceição.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

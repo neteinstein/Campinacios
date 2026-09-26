@@ -1,7 +1,3 @@
----
-title: "V"
----
-
 # V
 
 - [Vasco Romão](Vasco%20Rom%C3%A3o.md)

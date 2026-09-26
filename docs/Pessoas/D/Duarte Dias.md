@@ -1,13 +1,3 @@
----
-title: "Duarte Dias"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 213
-last_edited: "2009-08-23T16:51:20Z"
-last_editor: "Tnbahia"
----
-
 # Duarte Dias
 
 ### Acampamentos
@@ -33,4 +23,7 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

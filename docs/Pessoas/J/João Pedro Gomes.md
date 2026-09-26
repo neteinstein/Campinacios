@@ -1,16 +1,3 @@
----
-title: "João Pedro Gomes"
-aliases:
-  - "Che"
-  - "Ché"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 863
-last_edited: "2010-08-19T17:23:19Z"
-last_editor: "Tnbahia"
----
-
 # João Pedro Gomes
 
 ### Acampamentos
@@ -33,4 +20,9 @@ last_editor: "Tnbahia"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+**Outros nomes:** Che · Ché
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

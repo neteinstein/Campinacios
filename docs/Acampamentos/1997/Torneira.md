@@ -1,14 +1,3 @@
----
-title: "Torneira"
-categories:
-  - "Acampamentos"
-  - "Acampamentos de 1997"
-  - "Trotinetas"
-wiki_id: 454
-last_edited: "2009-01-28T23:12:43Z"
-last_editor: "Tnbahia"
----
-
 # Torneira
 
 O Torneira foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que decorreu de 21 a 30 de Julho de 1997.
@@ -30,4 +19,8 @@ O Torneira foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) qu
 
 ---
 
-**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1997](../../Categorias/Acampamentos%20de%201997.md) · [Trotinetas](../../Categorias/Trotinetas.md)
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1997](../../Categorias/Acampamentos%20de%201997.md) |
+| [Trotinetas](../../Categorias/Trotinetas.md) |

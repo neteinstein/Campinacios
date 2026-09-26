@@ -1,13 +1,3 @@
----
-title: "João Nuno Fonseca"
-categories:
-  - "Animadores"
-  - "Animadores do CC"
-wiki_id: 873
-last_edited: "2010-09-21T20:32:28Z"
-last_editor: "Xica"
----
-
 # João Nuno Fonseca
 
 ### Acampamentos
@@ -24,4 +14,7 @@ last_editor: "Xica"
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |

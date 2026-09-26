@@ -1,13 +1,3 @@
----
-title: "Vasco Vasconcelos"
-categories:
-  - "Animadores"
-  - "Animadores do CAIC"
-wiki_id: 153
-last_edited: "2010-08-22T23:17:20Z"
-last_editor: "ABarroso"
----
-
 # Vasco Vasconcelos
 
 Vasco Vasconcelos, é um dos animadores do Colégio da Imaculada Conceição.
@@ -41,4 +31,7 @@ Vasco Vasconcelos, é um dos animadores do Colégio da Imaculada Conceição.
 
 ---
 
-**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |

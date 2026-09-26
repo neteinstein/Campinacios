@@ -1,7 +1,3 @@
----
-title: "2003"
----
-
 # 2003
 
 - [Cabala](Cabala.md) — Bicicletas
