@@ -2,7 +2,9 @@
 
 Reúne músicas e canções dos Campinácios e não só.
 
-Esta actualmente em renovação, estando uma reedição a ser prevista já há alguns anos.
+Um novo Cantinácio foi lançado após anos e anos de tentativas.
+
+Aqui ficam algumas músicas gravadas por João Monteiro para efeitos nostalgicos. 
 
 ## Músicas
 
