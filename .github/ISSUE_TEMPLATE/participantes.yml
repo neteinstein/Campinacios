@@ -1,0 +1,44 @@
+name: 🙋 Participantes de um Acampamento
+description: Acrescentar ou corrigir a lista de participantes de um acampamento de Calhambeques ou Formação de Animadores que já tem página.
+title: "[Participantes] "
+labels: ["participantes"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Só se publicam participantes dos Calhambeques e da Formação de Animadores, que já são ou vão ser animadores. **Nunca envie nomes de participantes de outros escalões, que são menores de idade.**
+
+        **Este pedido fica público.**
+  - type: input
+    id: acampamento
+    attributes:
+      label: Acampamento
+      description: O nome e o ano, como aparece no título da página.
+      placeholder: Esperança, 2011
+    validations:
+      required: true
+  - type: textarea
+    id: participantes
+    attributes:
+      label: Participantes
+      description: Um nome por linha, completo. Só de quem é maior de idade e concorda em aparecer.
+      placeholder: |
+        Joana Martins
+        João Eiró
+        José Pascoal
+    validations:
+      required: true
+  - type: textarea
+    id: fontes
+    attributes:
+      label: De onde vem esta informação?
+      description: Esteve lá? Tem documentos, fotografias, o caderno da Mamã…? Ajuda a confirmar.
+  - type: checkboxes
+    id: privacidade
+    attributes:
+      label: Antes de enviar
+      options:
+        - label: O acampamento é de Calhambeques ou de Formação de Animadores.
+          required: true
+        - label: Todos os participantes listados são maiores de idade e concordam em aparecer no site.
+          required: true
