@@ -26,6 +26,22 @@
 | 2008 | <ul><li>O Essencial és Tu!</li></ul> |
 | 2009 | <ul> <li>Quem és Tu Senhor?</li> </ul> |
 | 2010 | <ul> <li>Quero ficar em Tua casa.</li></ul> |
+| 2011 | <ul><li>Sobre esta pedra</li></ul> |
+| 2012 | <ul><li>Ainda te falta uma coisa</li></ul> |
+| 2013 | <ul><li>Ámen</li></ul> |
+| 2014 | <ul><li>Na tua companhia</li></ul> |
+| 2015 | <ul><li>Change Your Selfie</li></ul> |
+| 2016 | <ul><li>Já estavas à minha espera</li></ul> |
+| 2017 | <ul><li>Guarda tudo no teu coração</li></ul> |
+| 2018 | <ul><li>Vem e verás</li></ul> |
+| 2019 | <ul><li>Enche a tua vida de alegria</li></ul> |
+| 2020 | <ul><li>Viver Agradecido</li></ul> |
+| 2021 | <ul><li>Há uma luz que nunca se apaga</li></ul> |
+| 2022 | <ul><li>Ver novas todas as coisas em Cristo</li></ul> |
+| 2023 | <ul><li>Maria Levantou-se e Partiu Apressadamente</li></ul> |
+| 2024 | <ul><li>Fica connosco</li></ul> |
+| 2025 | <ul><li>Tornai-vos como crianças</li></ul> |
+| 2026 | <ul><li>Escolhe a melhor parte</li></ul> |
 
 ---
 

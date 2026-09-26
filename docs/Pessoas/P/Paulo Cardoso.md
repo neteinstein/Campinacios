@@ -13,7 +13,17 @@
     - Nenhum
 
 - **Animadora:**
-    - Nenhum
+    - 2011 [Olha, Isto Aqui é uma Estátua](../../Acampamentos/2011/Olha%2C%20Isto%20Aqui%20%C3%A9%20uma%20Est%C3%A1tua.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
+    - 2012 [Rebenta a Bolha](../../Acampamentos/2012/Rebenta%20a%20Bolha.md) - [Director](../../Cargos/Director.md)
+    - 2013 [Camp & Nácios, S.A](../../Acampamentos/2013/Camp%20%26%20N%C3%A1cios%2C%20S.A.md) - [Director](../../Cargos/Director.md)
+    - 2018 [Descola (2018)](../../Acampamentos/2018/Descola%20%282018%29.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
+
+## Páginas que ligam para aqui
+
+- [Camp & Nácios, S.A](../../Acampamentos/2013/Camp%20%26%20N%C3%A1cios%2C%20S.A.md)
+- [Descola (2018)](../../Acampamentos/2018/Descola%20%282018%29.md)
+- [Olha, Isto Aqui é uma Estátua](../../Acampamentos/2011/Olha%2C%20Isto%20Aqui%20%C3%A9%20uma%20Est%C3%A1tua.md)
+- [Rebenta a Bolha](../../Acampamentos/2012/Rebenta%20a%20Bolha.md)
 
 ---
 

@@ -6,3 +6,4 @@
 - [Lambretas 95](Lambretas%2095.md) — Lambretas
 - [Parada](Parada.md) — Bicicletas
 - [Serrote](Serrote.md) — Trotinetas
+- [Triciclos 95](Triciclos%2095.md) — Triciclos

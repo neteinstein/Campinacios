@@ -18,12 +18,16 @@
     - 2007 [Diz Que Sim](../../Acampamentos/2007/Diz%20Que%20Sim.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
     - 2008 [Bike Just Do It](../../Acampamentos/2008/Bike%20Just%20Do%20It.md) - [Tia](../../Cargos/Tio.md)
     - 2009 [Bublix](../../Acampamentos/2009/Bublix.md) - [Directora-Adjunta](../../Cargos/Director-Adjunto.md)
+    - 2010 [4º Dto](../../Acampamentos/2010/4%C2%BA%20Dto.md) - [Director](../../Cargos/Director.md)
+    - 2011 [Pescanova](../../Acampamentos/2011/Pescanova.md) - [Director](../../Cargos/Director.md)
 
 ## Páginas que ligam para aqui
 
+- [4º Dto](../../Acampamentos/2010/4%C2%BA%20Dto.md)
 - [Bike Just Do It](../../Acampamentos/2008/Bike%20Just%20Do%20It.md)
 - [Bublix](../../Acampamentos/2009/Bublix.md)
 - [Diz Que Sim](../../Acampamentos/2007/Diz%20Que%20Sim.md)
+- [Pescanova](../../Acampamentos/2011/Pescanova.md)
 
 ---
 

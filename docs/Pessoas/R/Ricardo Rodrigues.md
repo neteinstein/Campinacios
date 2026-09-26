@@ -5,7 +5,7 @@
 - **Participante**
     - 1989 [Pedreira](../../Acampamentos/1989/Pedreira.md)
     - 1989 [Ferrugenta](../../Acampamentos/1989/Ferrugenta.md)
-    - 1990 Trotinetas 90
+    - 1990 [Trotinetas 90](../../Acampamentos/1990/Trotinetas%2090.md)
     - 1991 [Loyola](../../Acampamentos/1991/Loyola.md)
     - 1992 [Porto da Balsa 92](../../Acampamentos/1992/Porto%20da%20Balsa%2092.md)
     - 1993 [Ermal](../../Acampamentos/1993/Ermal.md)
@@ -30,6 +30,7 @@
 - [Caldelas](../../Acampamentos/1996/Caldelas.md)
 - [Gipsy Kings](../../Acampamentos/1999/Gipsy%20Kings.md)
 - [Gordurosa](../../Acampamentos/2000/Gordurosa.md)
+- [Trotinetas 90](../../Acampamentos/1990/Trotinetas%2090.md)
 
 ---
 

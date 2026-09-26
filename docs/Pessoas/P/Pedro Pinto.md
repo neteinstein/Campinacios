@@ -18,6 +18,8 @@ Frequentou o CC de 1992 a 2008. Animador desde 2008 até hoje.
 
 - **Animador:**
     - 2009 [Survivor](../../Acampamentos/2009/Survivor.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2015 [Jásinto](../../Acampamentos/2015/J%C3%A1sinto.md) - [Director](../../Cargos/Director.md)
+    - 2016 [Quemtesegura](../../Acampamentos/2016/Quemtesegura.md) - [Director](../../Cargos/Director.md)
 
 ### Família
 
@@ -26,6 +28,8 @@ Frequentou o CC de 1992 a 2008. Animador desde 2008 até hoje.
 ## Páginas que ligam para aqui
 
 - [Ana Pinto](../A/Ana%20Pinto.md)
+- [Jásinto](../../Acampamentos/2015/J%C3%A1sinto.md)
+- [Quemtesegura](../../Acampamentos/2016/Quemtesegura.md)
 - [Survivor](../../Acampamentos/2009/Survivor.md)
 
 ---

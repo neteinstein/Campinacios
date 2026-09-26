@@ -23,9 +23,11 @@ José Pascoal é um dos animadores do Colégio da Imaculada Conceição.
     - 2009 [Caminho](../../Acampamentos/2009/Caminho.md)
 - **Animador:**
     - 2009 [Survivor](../../Acampamentos/2009/Survivor.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2012 [Clávis](../../Acampamentos/2012/Cl%C3%A1vis.md) - [Director](../../Cargos/Director.md)
 
 ## Páginas que ligam para aqui
 
+- [Clávis](../../Acampamentos/2012/Cl%C3%A1vis.md)
 - [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md)
 - [Survivor](../../Acampamentos/2009/Survivor.md)
 

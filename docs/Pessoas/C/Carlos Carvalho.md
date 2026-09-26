@@ -12,11 +12,19 @@
     - 2008 [Arethë](../../Acampamentos/2008/Areth%C3%AB.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2009 [Talithá Kum](../../Acampamentos/2009/Talith%C3%A1%20Kum.md) - [Director](../../Cargos/Director.md)
     - 2010 [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md) - [Capelinho](../../Cargos/Capelinho.md)
+    - 2023 [CRUZZ](../../Acampamentos/2023/CRUZZ.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+    - 2024 [Caldorado](../../Acampamentos/2024/Caldorado.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+    - 2025 [Exipto](../../Acampamentos/2025/Exipto.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+    - 2026 [Por confirmar (2026)](../../Acampamentos/2026/Por%20confirmar%20%282026%29.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
 ## Páginas que ligam para aqui
 
 - [Arethë](../../Acampamentos/2008/Areth%C3%AB.md)
+- [CRUZZ](../../Acampamentos/2023/CRUZZ.md)
+- [Caldorado](../../Acampamentos/2024/Caldorado.md)
 - [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
+- [Exipto](../../Acampamentos/2025/Exipto.md)
+- [Por confirmar (2026)](../../Acampamentos/2026/Por%20confirmar%20%282026%29.md)
 - [Talithá Kum](../../Acampamentos/2009/Talith%C3%A1%20Kum.md)
 - [Trolliciclos](../../Acampamentos/2004/Trolliciclos.md)
 
