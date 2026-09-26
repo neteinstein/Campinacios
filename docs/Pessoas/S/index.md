@@ -1,5 +1,7 @@
 # S
 
+- [Samuel Afonso](Samuel%20Afonso.md)
+- [Samuel Beirão](Samuel%20Beir%C3%A3o.md)
 - [Sandra Branco](Sandra%20Branco.md)
 - [Sandra Machado](Sandra%20Machado.md)
 - [Sara Antunes](Sara%20Antunes.md)
@@ -11,8 +13,10 @@
 - [Sara Póvoa](Sara%20P%C3%B3voa.md)
 - [Sara Ramalho](Sara%20Ramalho.md)
 - [Sara Rita Sampaio](Sara%20Rita%20Sampaio.md)
+- [Sebastião Caldas](Sebasti%C3%A3o%20Caldas.md)
 - [Simão Alves da Silva](Sim%C3%A3o%20Alves%20da%20Silva.md)
 - [Sofia Amaral](Sofia%20Amaral.md)
+- [Sofia Ângelo](Sofia%20%C3%82ngelo.md)
 - [Sofia Azevedo Cardoso](Sofia%20Azevedo%20Cardoso.md)
 - [Sofia Fonseca](Sofia%20Fonseca.md)
 - [Soraia Ramos](Soraia%20Ramos.md)

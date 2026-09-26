@@ -3,7 +3,7 @@
 ### Acampamentos
 
 - **Participante**
-    - 1997 Alvoco 97
+    - 1997 [Alvoco 97](../../Acampamentos/1997/Alvoco%2097.md)
     - 1999 [Gipsy Kings](../../Acampamentos/1999/Gipsy%20Kings.md)
     - 2002 [Ninja Por Não Estar](../../Acampamentos/2002/Ninja%20Por%20N%C3%A3o%20Estar.md)
     - 2003 [Rastilho](../../Acampamentos/2003/Rastilho.md)
@@ -22,6 +22,7 @@
 ## Páginas que ligam para aqui
 
 - [Academia](../../Acampamentos/2005/Academia.md)
+- [Alvoco 97](../../Acampamentos/1997/Alvoco%2097.md)
 - [Andreia Pereira](../A/Andreia%20Pereira.md)
 - [Baza](../../Acampamentos/2007/Baza.md)
 - [Bike Just Do It](../../Acampamentos/2008/Bike%20Just%20Do%20It.md)

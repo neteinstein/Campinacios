@@ -2,8 +2,13 @@
 
 - [Lara Fernandes](Lara%20Fernandes.md)
 - [Lara Martins](Lara%20Martins.md)
+- [Laura Barra](Laura%20Barra.md)
 - [Leonardo Carvalho](Leonardo%20Carvalho.md)
+- [Leonor Simões](Leonor%20Sim%C3%B5es.md)
+- [Lourenço Barjona](Louren%C3%A7o%20Barjona.md)
+- [Lourenço Beato](Louren%C3%A7o%20Beato.md)
 - [Lourenço Eiró](Louren%C3%A7o%20Eir%C3%B3.md)
+- [Luís Panão](Lu%C3%ADs%20Pan%C3%A3o.md)
 - [Luis Pereira](Luis%20Pereira.md)
 - [Luís Azevedo](Lu%C3%ADs%20Azevedo.md)
 - [Luís Barbosa](Lu%C3%ADs%20Barbosa.md)

@@ -10,4 +10,3 @@ docs/Acampamentos/Sem data/CIFA I.md: não está em "Páginas nesta categoria" d
 docs/Acampamentos/Sem data/CIFA II.md: não está em "Páginas nesta categoria" de docs/Categorias/Acampamentos.md
 docs/Acampamentos/Sem data/CRAC.md: não está em "Páginas nesta categoria" de docs/Categorias/Acampamentos.md
 docs/Acampamentos/Sem data/Cagácios.md: não está em "Páginas nesta categoria" de docs/Categorias/Acampamentos.md
-docs/Acampamentos/Sem data/CampINA.md: não está em "Páginas nesta categoria" de docs/Categorias/Acampamentos.md

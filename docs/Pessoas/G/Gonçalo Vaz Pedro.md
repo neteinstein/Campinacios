@@ -23,11 +23,11 @@ Gonçalo Vaz Pedro, é desde 2006, um dos animadores do Colégio da Imaculada Co
     - 2007 [OPA](../../Acampamentos/2007/OPA.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2008 [Êxodo](../../Acampamentos/2008/%C3%8Axodo.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2009 [Vi-O](../../Acampamentos/2009/Vi-O.md) - [Director](../../Cargos/Director.md)
-    - 2010 Baba Yetu - [Director Adjunto](../../Cargos/Director-Adjunto.md)
-    - 2011 Pedra Sobre Pedra - [Animador Livre](../../Cargos/Animador%20Livre.md)
-    - 2012 Raio Part'ós Ninjas - [Director](../../Cargos/Director.md)
-    - 2014 Fiat'ársea - [Director](../../Cargos/Director.md)
-    - 2017 Supérate - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2010 [Baba Yetu](../../Acampamentos/2010/Baba%20Yetu.md) - [Director Adjunto](../../Cargos/Director-Adjunto.md)
+    - 2011 [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2012 [Raio Part'ós Ninjas](../../Acampamentos/2012/Raio%20Part%27%C3%B3s%20Ninjas.md) - [Director](../../Cargos/Director.md)
+    - 2014 [Fiat'ársea](../../Acampamentos/2014/Fiat%27%C3%A1rsea.md) - [Director](../../Cargos/Director.md)
+    - 2017 [Supérate](../../Acampamentos/2017/Sup%C3%A9rate.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
 ### Família
 
@@ -35,7 +35,12 @@ Gonçalo Vaz Pedro, é desde 2006, um dos animadores do Colégio da Imaculada Co
 
 ## Páginas que ligam para aqui
 
+- [Baba Yetu](../../Acampamentos/2010/Baba%20Yetu.md)
+- [Fiat'ársea](../../Acampamentos/2014/Fiat%27%C3%A1rsea.md)
 - [OPA](../../Acampamentos/2007/OPA.md)
+- [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md)
+- [Raio Part'ós Ninjas](../../Acampamentos/2012/Raio%20Part%27%C3%B3s%20Ninjas.md)
+- [Supérate](../../Acampamentos/2017/Sup%C3%A9rate.md)
 - [Susana Vaz Pedro](../S/Susana%20Vaz%20Pedro.md)
 - [Vi-O](../../Acampamentos/2009/Vi-O.md)
 - [Êxodo](../../Acampamentos/2008/%C3%8Axodo.md)

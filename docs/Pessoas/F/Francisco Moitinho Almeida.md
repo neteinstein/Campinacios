@@ -12,13 +12,16 @@
 - **Formação:**
     - 2009 [Caminho](../../Acampamentos/2009/Caminho.md)
 - **Animador:**
-    - nenhum
+    - 2013 [Barro Vivo](../../Acampamentos/2013/Barro%20Vivo.md) - [Director](../../Cargos/Director.md)
 
 ## Páginas que ligam para aqui
 
+- [Barro Vivo](../../Acampamentos/2013/Barro%20Vivo.md)
 - [Francisco Almeida](../../Movimento/Desambigua%C3%A7%C3%A3o/Francisco%20Almeida.md)
 
 ---
+
+**Outros nomes:** Francisco Moitinho de Almeida
 
 | Categorias |
 | --- |

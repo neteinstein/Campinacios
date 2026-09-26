@@ -17,6 +17,8 @@
     - 2008 [OrienTu](../../Acampamentos/2008/OrienTu.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2009 [Caminho](../../Acampamentos/2009/Caminho.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2010 [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2011 [Ara](../../Acampamentos/2011/Ara.md) - [Director](../../Cargos/Director.md)
+    - 2011 [Yabadabadoo](../../Acampamentos/2011/Yabadabadoo.md) - [Director](../../Cargos/Director.md)
 
 ### Família
 
@@ -24,6 +26,7 @@
 
 ## Páginas que ligam para aqui
 
+- [Ara](../../Acampamentos/2011/Ara.md)
 - [Baúmerang](../../Acampamentos/2007/Ba%C3%BAmerang.md)
 - [Caminho](../../Acampamentos/2009/Caminho.md)
 - [Diogo Costa](../D/Diogo%20Costa.md)
@@ -32,6 +35,7 @@
 - [OrienTu](../../Acampamentos/2008/OrienTu.md)
 - [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md)
 - [Xii Tava Kuase Lá...!](../../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md)
+- [Yabadabadoo](../../Acampamentos/2011/Yabadabadoo.md)
 - [Ídolo](../../Acampamentos/2004/%C3%8Ddolo.md)
 
 ---

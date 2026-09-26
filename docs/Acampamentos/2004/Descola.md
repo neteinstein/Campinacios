@@ -1,5 +1,7 @@
 # Descola
 
+*Nota: Este artigo é sobre o Descola de 2004, de Bicicletas. Se procura o Descola de 2018, de Lambretas, consulte [Descola (2018)](../2018/Descola%20%282018%29.md).*
+
 Descola foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que se realizou em [Arouca](../../Restrito/Locais%20de%20Acampamento/Arouca%20%28Aveiro%29.md).
 
 ### Animadores
@@ -17,6 +19,7 @@ Descola foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que s
 - [Andreia Pereira](../../Pessoas/A/Andreia%20Pereira.md)
 - [Carla Junqueira](../../Pessoas/C/Carla%20Junqueira.md)
 - [Carolina Carvalho](../../Pessoas/C/Carolina%20Carvalho.md)
+- [Descola (2018)](../2018/Descola%20%282018%29.md)
 - [Diogo Costa](../../Pessoas/D/Diogo%20Costa.md)
 - [Eduardo Almeida](../../Pessoas/E/Eduardo%20Almeida.md)
 - [Inês Turras](../../Pessoas/I/In%C3%AAs%20Turras.md)

@@ -1,0 +1,18 @@
+# André Vale
+
+### Acampamentos
+
+- **Animador(a):**
+    - 2025 [Repeat a História](../../Acampamentos/2025/Repeat%20a%20Hist%C3%B3ria.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
+    - 2026 [Sande Help](../../Acampamentos/2026/Sande%20Help.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
+
+## Páginas que ligam para aqui
+
+- [Repeat a História](../../Acampamentos/2025/Repeat%20a%20Hist%C3%B3ria.md)
+- [Sande Help](../../Acampamentos/2026/Sande%20Help.md)
+
+---
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
