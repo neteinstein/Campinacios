@@ -1,14 +1,6 @@
 # José Ferreira
 
----
-
-| [🖼️ Disambig.svg.png](../../Wikin%C3%A1cios/Imagens/Disambig.svg.png.md) | ''Esta é uma página de desambiguação, a qual lista artigos associados a um mesmo título. <br>
-
-Se uma [ligação interna](Jos%C3%A9%20Ferreira.md#páginas-que-ligam-para-aqui) o conduziu até aqui, sugerimos que a corrija para apontá-la directamente ao artigo adequado.''
-
-|
-
-| --- | --- |
+*Esta é uma página de desambiguação, a qual lista artigos associados a um mesmo título. Se uma [ligação interna](Jos%C3%A9%20Ferreira.md#páginas-que-ligam-para-aqui) o conduziu até aqui, sugerimos que a corrija para apontá-la directamente ao artigo adequado.*
 
 **José Ferreira** pode ser:
 

@@ -20,11 +20,12 @@ Calhambeques, Formação de Animadores), team with roles, participants, and
 any dates, place or theme. Don't invent what isn't given; a one-line intro
 ("O X foi um acampamento de [Bicicletas](...) realizado em 2012.") is fine.
 
-Look up each person in `docs/Todos os artigos.md`, which also lists nicknames
-and alternative names (in italics, with an arrow). Link the ones that exist.
-Leave the others as plain text unless the user asks for pages. If a name is
-close to an existing page but not identical (e.g. "Luís Onofre Pinto" vs
-"Luís Onofre"), ask before linking.
+Look up each person with the `nova-pessoa` skill
+(`.claude/skills/nova-pessoa/scripts/pessoas.py procurar "Nome"`), which
+finds the same or similar names in pages, nicknames and other camps, and
+ask the user before linking whenever it finds any (e.g. "Luís Onofre Pinto"
+is the page "Luís Onofre"; the two Gonçalo Carvalho are different people).
+Leave new names as plain text unless the user asks for pages.
 
 ## 2. Write the camp page
 
