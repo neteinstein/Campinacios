@@ -1,0 +1,22 @@
+---
+title: "D"
+---
+
+# D
+
+- [Daniela Machado](Daniela%20Machado.md)
+- [Diana Conceição](Diana%20Concei%C3%A7%C3%A3o.md)
+- [Diana Gapo](Diana%20Gapo.md)
+- [Diana Pereira](Diana%20Pereira.md)
+- [Diana Quintela](Diana%20Quintela.md)
+- [Diogo Belo](Diogo%20Belo.md)
+- [Diogo Cordeiro Ferreira](Diogo%20Cordeiro%20Ferreira.md)
+- [Diogo Costa](Diogo%20Costa.md)
+- [Diogo Faria](Diogo%20Faria.md)
+- [Diogo José Nunes Carneiro](Diogo%20Jos%C3%A9%20Nunes%20Carneiro.md)
+- [Diogo José Oliveira Cerejeira Carneiro](Diogo%20Jos%C3%A9%20Oliveira%20Cerejeira%20Carneiro.md)
+- [Diogo Reis](Diogo%20Reis.md)
+- [Diogo Romão](Diogo%20Rom%C3%A3o.md)
+- [Diogo Torcato](Diogo%20Torcato.md)
+- [Domingos Freitas](Domingos%20Freitas.md)
+- [Duarte Dias](Duarte%20Dias.md)

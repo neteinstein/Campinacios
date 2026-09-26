@@ -1,0 +1,23 @@
+---
+title: "Fátima Paulino"
+categories:
+  - "Animadores"
+  - "Animadores do CAIC"
+wiki_id: 553
+last_edited: "2009-01-31T22:57:00Z"
+last_editor: "Neteinstein"
+---
+
+# Fátima Paulino
+
+Fátima Paulino foi uma dos animadoras do Colégio da Imaculada Conceição.
+
+## Páginas que ligam para aqui
+
+- [Alvoco 96](../../Acampamentos/1996/Alvoco%2096.md)
+- [Benfeita 95](../../Acampamentos/1995/Benfeita%2095.md)
+- [Fragas de S.Simão 94](../../Acampamentos/1994/Fragas%20de%20S.Sim%C3%A3o%2094.md)
+
+---
+
+**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)

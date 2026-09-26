@@ -1,0 +1,176 @@
+---
+title: "Mamã"
+categories:
+  - "Cargos"
+wiki_id: 413
+last_edited: "2009-01-25T21:21:25Z"
+last_editor: "Neteinstein"
+---
+
+# Mamã
+
+Ser mamã de acampamento é das tarefas mais exigentesmas também das mais enriquecedoras.
+
+No fundo trata-se de deixar vir ao de cima o nosso lado mais maternal e encarar o verdadeiro sentido da palavra ser Mãe. É estar atenta a tudo e perceber o que o teu filhote precisa naquele momento. É dar atenção, carinho e fazer cara feia quando for preciso.
+É deixar que tudo em ti seja dádiva, que tudo se centre no outro e canalizar toda a tua ternura para fora.
+
+Serás fonte de união. O teu apoio ao director e ao capelão é fundamental.
+
+Os participantes olham para ti de outro modo, só a palavra mamã muda o olhar deles. Muitos acham que és mais velha, outros têm medo de falar contigo, outros ainda vão tratar-te sempre por você...afinal eles projectam em ti parte da relação que têm com a mãe deles.
+È por isso que recorrem a ti para tudo: desde a caneta, à comida; à ferida, à tesoura, ao cordão. Tal como em casa eles contam com a mamã para tudo no acampamento também o farão.
+
+Tem especial atenção aos participantes que se sentem menos integrados e têm menos amigos, são esses que precisam mais de ti.
+
+Ser mamã é para o ser de um acampamento e não só de 42 participantes ou só de 16 animadores…ser mamã se acampamento engloba tudo…por isso tem atenção aos animadores: às suas feridas, se dormem e descansam direito, à sua alimentação, ao seu cansaço e ao carinho e miminhos que também precisam.
+
+Tens a ajuda das tias que serão o teu apoio e chegarão onde não chegas.
+
+Aproveita as conversas de roda, o descascar batatas, as idas ao banho, os curativos, a caminhada para chegares cada vez mais perto do acampamento - participantes e animadores.
+
+Quando tiveres dúvidas do que é ser mamã de acampamento lembra-te como é (exigente) ser mãe.
+
+## Páginas que ligam para aqui
+
+- [Academia](../Acampamentos/2005/Academia.md)
+- [Agroal](../Acampamentos/1992/Agroal.md)
+- [Alfa](../Acampamentos/1990/Alfa.md)
+- [Alvoco 96](../Acampamentos/1996/Alvoco%2096.md)
+- [Alvoco II](../Acampamentos/1999/Alvoco%20II.md)
+- [Ana Curto](../Pessoas/A/Ana%20Curto.md)
+- [Ana Geão](../Pessoas/A/Ana%20Ge%C3%A3o.md)
+- [Ana Luísa Reis](../Pessoas/A/Ana%20Lu%C3%ADsa%20Reis.md)
+- [Ana Paula Sampaio](../Pessoas/A/Ana%20Paula%20Sampaio.md)
+- [Ana Pinto da Costa](../Pessoas/A/Ana%20Pinto%20da%20Costa.md)
+- [Ana Poças](../Pessoas/A/Ana%20Po%C3%A7as.md)
+- [Ana Ribeiro](../Pessoas/A/Ana%20Ribeiro.md)
+- [Ana Salgado](../Pessoas/A/Ana%20Salgado.md)
+- [Ana Simões](../Pessoas/A/Ana%20Sim%C3%B5es.md)
+- [Andreia Gil](../Pessoas/A/Andreia%20Gil.md)
+- [Andreia Mendes](../Pessoas/A/Andreia%20Mendes.md)
+- [Animador](../Movimento/Animador.md)
+- [Aranha](../Acampamentos/1997/Aranha.md)
+- [Arethë](../Acampamentos/2008/Areth%C3%AB.md)
+- [Baza](../Acampamentos/2007/Baza.md)
+- [Baúmerang](../Acampamentos/2007/Ba%C3%BAmerang.md)
+- [Benfeita 95](../Acampamentos/1995/Benfeita%2095.md)
+- [Bike Just Do It](../Acampamentos/2008/Bike%20Just%20Do%20It.md)
+- [Bora Bora](../Acampamentos/2007/Bora%20Bora.md)
+- [Bublix](../Acampamentos/2009/Bublix.md)
+- [CAmpIC 89](../Acampamentos/1989/CAmpIC%2089.md)
+- [CAmpIC 91](../Acampamentos/1991/CAmpIC%2091.md)
+- [Cabala](../Acampamentos/2003/Cabala.md)
+- [Caderno da Mamã](../Movimento/Caderno%20da%20Mam%C3%A3.md)
+- [Caldas de S.Paulo](../Acampamentos/1990/Caldas%20de%20S.Paulo.md)
+- [Caldelas](../Acampamentos/1996/Caldelas.md)
+- [Caldiclos](../Acampamentos/1994/Caldiclos.md)
+- [Calinadas](../Acampamentos/1998/Calinadas.md)
+- [Caminho](../Acampamentos/2009/Caminho.md)
+- [Campinácios](../Movimento/Campin%C3%A1cios.md)
+- [Campo Ibérico](../Acampamentos/1995/Campo%20Ib%C3%A9rico.md)
+- [Carla Resende](../Pessoas/C/Carla%20Resende.md)
+- [Carolina Carvalho](../Pessoas/C/Carolina%20Carvalho.md)
+- [Casca de Banana](../Acampamentos/2005/Casca%20de%20Banana.md)
+- [Cinena](../Acampamentos/2001/Cinena.md)
+- [Conceição Martinho](../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)
+- [Concha Líbano Monteiro](../Pessoas/C/Concha%20L%C3%ADbano%20Monteiro.md)
+- [Constança Pereira da Silva](../Pessoas/C/Constan%C3%A7a%20Pereira%20da%20Silva.md)
+- [Constância](../Acampamentos/1991/Const%C3%A2ncia.md)
+- [Cristina Cabeça](../Pessoas/C/Cristina%20Cabe%C3%A7a.md)
+- [Descola](../Acampamentos/2004/Descola.md)
+- [Diana Pereira](../Pessoas/D/Diana%20Pereira.md)
+- [Diana Quintela](../Pessoas/D/Diana%20Quintela.md)
+- [Dilúvio](../Acampamentos/1999/Dil%C3%BAvio.md)
+- [Diz Que Sim](../Acampamentos/2007/Diz%20Que%20Sim.md)
+- [Ed mais 10](../Acampamentos/2010/Ed%20mais%2010.md)
+- [Em Busca da CaraBela](../Acampamentos/2006/Em%20Busca%20da%20CaraBela.md)
+- [Entre ASPAS](../Acampamentos/2008/Entre%20ASPAS.md)
+- [Era Uma Vez...](../Acampamentos/2008/Era%20Uma%20Vez....md)
+- [Eureka](../Acampamentos/2008/Eureka.md)
+- [Falésia](../Acampamentos/2005/Fal%C3%A9sia.md)
+- [Ferrugenta](../Acampamentos/1989/Ferrugenta.md)
+- [Fibrovital](../Acampamentos/1996/Fibrovital.md)
+- [Florinhas](../Acampamentos/1994/Florinhas.md)
+- [Fornelos](../Acampamentos/1992/Fornelos.md)
+- [Fragas de S.Simão 94](../Acampamentos/1994/Fragas%20de%20S.Sim%C3%A3o%2094.md)
+- [Fófinhos](../Acampamentos/2005/F%C3%B3finhos.md)
+- [Gaivota](../Acampamentos/2005/Gaivota.md)
+- [Gipsy Kings](../Acampamentos/1999/Gipsy%20Kings.md)
+- [Gordurosa](../Acampamentos/2000/Gordurosa.md)
+- [Graal I](../Acampamentos/2002/Graal%20I.md)
+- [Graal II](../Acampamentos/2003/Graal%20II.md)
+- [Graal III](../Acampamentos/2007/Graal%20III.md)
+- [Gurugnu](../Acampamentos/2000/Gurugnu.md)
+- [Génesis 2003 d.C.](../Acampamentos/2003/G%C3%A9nesis%202003%20d.C..md)
+- [Iháquesermais](../Acampamentos/2009/Ih%C3%A1quesermais.md)
+- [Incrível](../Acampamentos/2009/Incr%C3%ADvel.md)
+- [Jangada](../Acampamentos/2002/Jangada.md)
+- [Joana Ferreira](../Pessoas/J/Joana%20Ferreira.md)
+- [Joana Ferreira da Silva](../Pessoas/J/Joana%20Ferreira%20da%20Silva.md)
+- [Joana Lima](../Pessoas/J/Joana%20Lima.md)
+- [Juliana Fernandes](../Pessoas/J/Juliana%20Fernandes.md)
+- [Koalas](../Acampamentos/1999/Koalas.md)
+- [Lambretas 94](../Acampamentos/1994/Lambretas%2094.md)
+- [Lembras-te?](../Acampamentos/2009/Lembras-te.md)
+- [Long Tao](../Acampamentos/2006/Long%20Tao.md)
+- [Lufa](../Acampamentos/1999/Lufa.md)
+- [M&M](../Acampamentos/2007/M%26M.md)
+- [Mafalda Coelho](../Pessoas/M/Mafalda%20Coelho.md)
+- [Mafalda Trigo da Roza](../Pessoas/M/Mafalda%20Trigo%20da%20Roza.md)
+- [Manual de Funções](../Movimento/Manual%20de%20Fun%C3%A7%C3%B5es.md)
+- [Maria Cortês Ferreira](../Pessoas/M/Maria%20Cort%C3%AAs%20Ferreira.md)
+- [Maria João Simões](../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
+- [Marta Carneiro](../Pessoas/M/Marta%20Carneiro.md)
+- [Marta Santos](../Pessoas/M/Marta%20Santos.md)
+- [Marta Vilela](../Pessoas/M/Marta%20Vilela.md)
+- [Metrópole](../Acampamentos/2004/Metr%C3%B3pole.md)
+- [Mikelin Descobre a Vida](../Acampamentos/2004/Mikelin%20Descobre%20a%20Vida.md)
+- [Ninja Por Não Estar](../Acampamentos/2002/Ninja%20Por%20N%C3%A3o%20Estar.md)
+- [Nómada](../Acampamentos/2006/N%C3%B3mada.md)
+- [OPA](../Acampamentos/2007/OPA.md)
+- [Obra Prima](../Acampamentos/2010/Obra%20Prima.md)
+- [OrienTu](../Acampamentos/2008/OrienTu.md)
+- [Origami](../Acampamentos/2006/Origami.md)
+- [Otília Azevedo](../Pessoas/O/Ot%C3%ADlia%20Azevedo.md)
+- [PaKasaDele](../Acampamentos/2010/PaKasaDele.md)
+- [Patos](../Acampamentos/2004/Patos.md)
+- [Patrícia Cabaço](../Pessoas/P/Patr%C3%ADcia%20Caba%C3%A7o.md)
+- [Paula Ferrand](../Pessoas/P/Paula%20Ferrand.md)
+- [Pavio](../Acampamentos/2000/Pavio.md)
+- [Pedreira](../Acampamentos/1989/Pedreira.md)
+- [Pimpolhos](../Acampamentos/2003/Pimpolhos.md)
+- [Pirilama](../Acampamentos/2000/Pirilama.md)
+- [Piripetroporco](../Acampamentos/2002/Piripetroporco.md)
+- [Pontes](../Acampamentos/2001/Pontes.md)
+- [Rastilho](../Acampamentos/2003/Rastilho.md)
+- [Rebordosa](../Acampamentos/1993/Rebordosa.md)
+- [Regresso a Alvoco I](../Acampamentos/1998/Regresso%20a%20Alvoco%20I.md)
+- [Regresso a Alvoco II](../Acampamentos/1998/Regresso%20a%20Alvoco%20II.md)
+- [Shampum de Pessêgo](../Acampamentos/2001/Shampum%20de%20Pess%C3%AAgo.md)
+- [Surpresa](../Acampamentos/2001/Surpresa.md)
+- [Survivor](../Acampamentos/2009/Survivor.md)
+- [TSI](../Acampamentos/2008/TSI.md)
+- [Tabuadelas II](../Acampamentos/1993/Tabuadelas%20II.md)
+- [Talithá Kum](../Acampamentos/2009/Talith%C3%A1%20Kum.md)
+- [Tem Bicho Zweitausend](../Acampamentos/2000/Tem%20Bicho%20Zweitausend.md)
+- [Tira as rodinhas](../Acampamentos/2009/Tira%20as%20rodinhas.md)
+- [Tiw-y-moy](../Acampamentos/1998/Tiw-y-moy.md)
+- [Tranquilo](../Acampamentos/2000/Tranquilo.md)
+- [Tribal](../Acampamentos/1992/Tribal.md)
+- [Trolliciclos](../Acampamentos/2004/Trolliciclos.md)
+- [TufarfarAway](../Acampamentos/2008/TufarfarAway.md)
+- [Tábeeeim](../Acampamentos/2010/T%C3%A1beeeim.md)
+- [Verim](../Acampamentos/1992/Verim.md)
+- [Vi-O](../Acampamentos/2009/Vi-O.md)
+- [Vila do Bispo II/94](../Acampamentos/1994/Vila%20do%20Bispo%20II-94.md)
+- [Waaassuuup](../Acampamentos/2001/Waaassuuup.md)
+- [Walkabout](../Acampamentos/2010/Walkabout.md)
+- [Wally](../Acampamentos/1994/Wally.md)
+- [Wikinácios](../index.md)
+- [XS](../Acampamentos/2006/XS.md)
+- [Xii Tava Kuase Lá...!](../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md)
+- [Êxodo](../Acampamentos/2008/%C3%8Axodo.md)
+- [Ídolo](../Acampamentos/2004/%C3%8Ddolo.md)
+
+---
+
+**Categorias:** [Cargos](../Categorias/Cargos.md)

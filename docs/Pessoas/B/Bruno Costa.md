@@ -1,0 +1,34 @@
+---
+title: "Bruno Costa"
+categories:
+  - "Animadores"
+  - "Animadores do CC"
+  - "Direcção Local do CC"
+  - "Direcção Nacional"
+wiki_id: 635
+last_edited: "2009-02-07T19:58:32Z"
+last_editor: "Tnbahia"
+---
+
+# Bruno Costa
+
+## História dentro do movimento
+
+### Cargos
+
+- 1996/1997 Membro da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
+- 1996/1997 Membro da [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
+- 1994/1995 Membro da [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
+
+### Acampamentos
+
+- **Animador**
+    - 1993 [Trotinetas 93](../../Acampamentos/1993/Trotinetas%2093.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+
+## Páginas que ligam para aqui
+
+- [Trotinetas 93](../../Acampamentos/1993/Trotinetas%2093.md)
+
+---
+
+**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) · [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) · [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)

@@ -1,0 +1,44 @@
+---
+title: "Renato Lopes"
+categories:
+  - "Animadores"
+  - "Animadores do CAIC"
+wiki_id: 335
+last_edited: "2009-02-07T15:30:11Z"
+last_editor: "Neteinstein"
+---
+
+# Renato Lopes
+
+Renato Lopes foi de 1998 a 2004 um dos animadores do Colégio da Imaculada Conceição.
+
+## História dentro do movimento
+
+### Acampamentos
+
+- **Participante**
+    - 1996 Trotinetas
+    - 1997 Bicicletas
+    - 1998 [Calinadas](../../Acampamentos/1998/Calinadas.md)
+- **Formação:**
+    - Nenhum
+- **Animador:**
+    - 1999 - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2000 - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2001 [Pontes](../../Acampamentos/2001/Pontes.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2004 [Troliciclos](../../Acampamentos/2004/Trolliciclos.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+
+### Família
+
+É irmão do [Francisco Lopes](../F/Francisco%20Lopes.md).
+
+## Páginas que ligam para aqui
+
+- [Francisco Lopes](../F/Francisco%20Lopes.md)
+- [Liberata](../../Acampamentos/2000/Liberata.md)
+- [Pontes](../../Acampamentos/2001/Pontes.md)
+- [Trolliciclos](../../Acampamentos/2004/Trolliciclos.md)
+
+---
+
+**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)

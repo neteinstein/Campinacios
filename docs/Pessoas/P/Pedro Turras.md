@@ -1,0 +1,34 @@
+---
+title: "Pedro Turras"
+categories:
+  - "Animadores"
+  - "Animadores do CSJB"
+wiki_id: 813
+last_edited: "2010-04-08T01:55:32Z"
+last_editor: "Mosca"
+---
+
+# Pedro Turras
+
+### Acampamentos
+
+- **Formação**
+    - 2003 [Graal II](../../Acampamentos/2003/Graal%20II.md)
+- **Animador**
+    - 2004 [Trolliciclos](../../Acampamentos/2004/Trolliciclos.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2005 [Academia](../../Acampamentos/2005/Academia.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+
+### Família
+
+É irmão da [Rita Turras](../R/Rita%20Turras.md), da [Inês Turras](../I/In%C3%AAs%20Turras.md) e da [Mariana Turras](../M/Mariana%20Turras.md)
+
+## Páginas que ligam para aqui
+
+- [Inês Turras](../I/In%C3%AAs%20Turras.md)
+- [Mariana Turras](../M/Mariana%20Turras.md)
+- [Rita Turras](../R/Rita%20Turras.md)
+- [Trolliciclos](../../Acampamentos/2004/Trolliciclos.md)
+
+---
+
+**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)

@@ -1,0 +1,36 @@
+---
+title: "Fornelos"
+categories:
+  - "Acampamentos"
+  - "Acampamentos de 1992"
+  - "Trotinetas"
+wiki_id: 307
+last_edited: "2009-02-15T14:46:41Z"
+last_editor: "Neteinstein"
+---
+
+# Fornelos
+
+O Fornelos foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que decorreu na Fornelos (Barragem da Caniçada) de 5 a 14 de Setembro de 1992.
+
+### Animadores
+
+- [Director](../../Cargos/Director.md) - [Amílcar Sousa](../../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
+- [Mamã](../../Cargos/Mam%C3%A3.md) - Cláudia Montenegro
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - António Sérgio
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Gonçalo Eiró](../../Pessoas/G/Gon%C3%A7alo%20Eir%C3%B3.md) sj
+- [Tias](../../Cargos/Tio.md) - Lídia Couto e Nini
+- [Animadores](../../Categorias/Animadores.md) - [Marta Vilela](../../Pessoas/M/Marta%20Vilela.md), Joana Silva, Ana Bela, Horácio, [Pedro Castro](../../Pessoas/P/Pedro%20Castro.md), Michael, [Zinho](../../Pessoas/E/Eduardo%20Rodrigues.md), Jorge Moreira sj e Rui Pedro
+
+## Páginas que ligam para aqui
+
+- [Amílcar Sousa](../../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
+- [Eduardo Rodrigues](../../Pessoas/E/Eduardo%20Rodrigues.md)
+- [Gonçalo Eiró](../../Pessoas/G/Gon%C3%A7alo%20Eir%C3%B3.md)
+- [José Luís Fernandes](../../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Fernandes.md)
+- [Marta Vilela](../../Pessoas/M/Marta%20Vilela.md)
+- [Pedro Castro](../../Pessoas/P/Pedro%20Castro.md)
+
+---
+
+**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1992](../../Categorias/Acampamentos%20de%201992.md) · [Trotinetas](../../Categorias/Trotinetas.md)

@@ -1,0 +1,32 @@
+---
+title: "Alexandra Silva"
+categories:
+  - "Animadores"
+  - "Animadores do CAIC"
+wiki_id: 260
+last_edited: "2009-09-25T18:15:03Z"
+last_editor: "Silvinha"
+---
+
+# Alexandra Silva
+
+Alexandra Silva é desde 2008 uma das animadoras do Colégio da Imaculada Conceição.
+
+## História dentro do movimento
+
+### Acampamentos
+
+- **Participante:**
+    - 2008 [TufarfarAway](../../Acampamentos/2008/TufarfarAway.md)
+- **Formação:**
+    - 2009 [Caminho](../../Acampamentos/2009/Caminho.md)
+- **Animador:**
+    - 2009 [Vi-O](../../Acampamentos/2009/Vi-O.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+
+## Páginas que ligam para aqui
+
+- [Vi-O](../../Acampamentos/2009/Vi-O.md)
+
+---
+
+**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md)

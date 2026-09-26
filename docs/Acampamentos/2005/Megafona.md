@@ -1,0 +1,36 @@
+---
+title: "Megafona"
+categories:
+  - "Acampamentos"
+  - "Acampamentos de 2005"
+  - "Trotinetas"
+wiki_id: 112
+last_edited: "2009-12-23T19:22:33Z"
+last_editor: "Tnbahia"
+---
+
+# Megafona
+
+Megafona foi um acampamento de Trotinetas que se realizou em Digueifel
+
+### Animadores
+
+- [Director](../../Cargos/Director.md) - [Manuel Cordeiro Ferreira](../../Pessoas/M/Manuel%20Cordeiro%20Ferreira.md)
+- [Tias](../../Cargos/Tio.md) - [Majó](../../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Cami](../../Pessoas/C/Carlos%20Miguel%20Albuquerque.md) e [Diogo Faria](../../Pessoas/D/Diogo%20Faria.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Ana Pinto](../../Pessoas/A/Ana%20Pinto.md)
+
+## Páginas que ligam para aqui
+
+- [Ana Pinto](../../Pessoas/A/Ana%20Pinto.md)
+- [Carlos Miguel Albuquerque](../../Pessoas/C/Carlos%20Miguel%20Albuquerque.md)
+- [Diogo Faria](../../Pessoas/D/Diogo%20Faria.md)
+- [José Maria Brito](../../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md)
+- [Madalena Sena Esteves](../../Pessoas/M/Madalena%20Sena%20Esteves.md)
+- [Manuel Cordeiro Ferreira](../../Pessoas/M/Manuel%20Cordeiro%20Ferreira.md)
+- [Maria João Simões](../../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
+- [Sara Moinhos](../../Pessoas/S/Sara%20Moinhos.md)
+
+---
+
+**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 2005](../../Categorias/Acampamentos%20de%202005.md) · [Trotinetas](../../Categorias/Trotinetas.md)

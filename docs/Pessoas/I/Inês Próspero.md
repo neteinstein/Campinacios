@@ -1,0 +1,41 @@
+---
+title: "Inês Próspero"
+aliases:
+  - "Inês Prospero"
+categories:
+  - "Animadores"
+  - "Animadores do CSJB"
+wiki_id: 477
+last_edited: "2009-11-27T23:40:44Z"
+last_editor: "Neteinstein"
+---
+
+# Inês Próspero
+
+Inês Próspero é antiga aluna do [CSJB](../../Movimento/CSJB.md) e animadora desde 2003.
+
+### Acampamentos
+
+- **Participante**
+    - 2002 [Projecto Canguru](../../Acampamentos/2002/Projecto%20Canguru.md)
+- **Animadora**
+    - 2003 [Graal II](../../Acampamentos/2003/Graal%20II.md)
+- **Animadora**
+    - 2006 [Long Tao](../../Acampamentos/2006/Long%20Tao.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2007 [Baza](../../Acampamentos/2007/Baza.md) - [Tia](../../Cargos/Tio.md)
+    - 2008 [TufarfarAway](../../Acampamentos/2008/TufarfarAway.md) - [Tia](../../Cargos/Tio.md)
+
+### Família
+
+É irmã do [Filipe Próspero](../F/Filipe%20Pr%C3%B3spero.md).
+
+## Páginas que ligam para aqui
+
+- [Baza](../../Acampamentos/2007/Baza.md)
+- [Filipe Próspero](../F/Filipe%20Pr%C3%B3spero.md)
+- [Long Tao](../../Acampamentos/2006/Long%20Tao.md)
+- [TufarfarAway](../../Acampamentos/2008/TufarfarAway.md)
+
+---
+
+**Categorias:** [Animadores](../../Categorias/Animadores.md) · [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md)

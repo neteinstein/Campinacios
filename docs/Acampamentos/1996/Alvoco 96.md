@@ -1,0 +1,37 @@
+---
+title: "Alvoco 96"
+categories:
+  - "Acampamentos"
+  - "Acampamentos de 1996"
+  - "Triciclos"
+wiki_id: 645
+last_edited: "2009-02-15T14:53:38Z"
+last_editor: "Neteinstein"
+---
+
+# Alvoco 96
+
+Este acampamento de [Triciclos](../../Categorias/Triciclos.md) decorreu de 20 a 29 de Julho de 1996 em Alvoco das Várzeas.
+
+### Animadores
+
+- [Director](../../Cargos/Director.md) - [Francisco Rodrigues](../../Pessoas/F/Francisco%20Rodrigues%20%28CAIC%29.md)
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [São Martinho](../../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - Rafael Mourão sj
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Zé Lopes](../../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md) sj
+- [Tios](../../Cargos/Tio.md) - [Carla Resende](../../Pessoas/C/Carla%20Resende.md) e Paulo Tremoço
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Francisco Lopes](../../Pessoas/F/Francisco%20Lopes.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Ana Marques](../../Pessoas/A/Ana%20Marques.md), [Fátima Paulino](../../Pessoas/F/F%C3%A1tima%20Paulino.md), [Filomena Vicente](../../Pessoas/F/Filomena%20Vicente.md), Gabriela Poças, [João Silvestre](../../Pessoas/J/Jo%C3%A3o%20Silvestre.md), Cacá e [Teresa Martinho](../../Pessoas/T/Teresa%20Martinho.md)
+
+## Páginas que ligam para aqui
+
+- [Carolina Carvalho](../../Pessoas/C/Carolina%20Carvalho.md)
+- [Francisco Rodrigues (CAIC)](../../Pessoas/F/Francisco%20Rodrigues%20%28CAIC%29.md)
+- [Joana Cardoso](../../Pessoas/J/Joana%20Cardoso.md)
+- [José Eugénio Lopes](../../Pessoas/J/Jos%C3%A9%20Eug%C3%A9nio%20Lopes.md)
+- [José Manuel Lopes](../../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md)
+- [Tiago Monteiro](../../Pessoas/T/Tiago%20Monteiro.md)
+
+---
+
+**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1996](../../Categorias/Acampamentos%20de%201996.md) · [Triciclos](../../Categorias/Triciclos.md)

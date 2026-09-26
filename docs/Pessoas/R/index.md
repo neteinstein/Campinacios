@@ -1,0 +1,37 @@
+---
+title: "R"
+---
+
+# R
+
+- [Rafaela Lúcio](Rafaela%20L%C3%BAcio.md)
+- [Raquel Ferreira](Raquel%20Ferreira.md)
+- [Renato Costa](Renato%20Costa.md)
+- [Renato Lopes](Renato%20Lopes.md)
+- [Ricardo Amado](Ricardo%20Amado.md)
+- [Ricardo Batista](Ricardo%20Batista.md)
+- [Ricardo Lopes](Ricardo%20Lopes.md)
+- [Ricardo Neves](Ricardo%20Neves.md)
+- [Ricardo Oliveira](Ricardo%20Oliveira.md)
+- [Ricardo Rodrigues](Ricardo%20Rodrigues.md)
+- [Ricardo Simões](Ricardo%20Sim%C3%B5es.md)
+- [Rita Antunes](Rita%20Antunes.md)
+- [Rita Carvalho](Rita%20Carvalho.md)
+- [Rita Fonseca](Rita%20Fonseca.md)
+- [Rita Lourenço](Rita%20Louren%C3%A7o.md)
+- [Rita Luís](Rita%20Lu%C3%ADs.md)
+- [Rita Maria Fernandes](Rita%20Maria%20Fernandes.md)
+- [Rita Martins](Rita%20Martins.md)
+- [Rita Mendes](Rita%20Mendes.md)
+- [Rita Quintela](Rita%20Quintela.md)
+- [Rita Reis](Rita%20Reis.md)
+- [Rita Roxo](Rita%20Roxo.md)
+- [Rita Salgado](Rita%20Salgado.md)
+- [Rita Salgueiro](Rita%20Salgueiro.md)
+- [Rita Simões](Rita%20Sim%C3%B5es.md)
+- [Rita Soares](Rita%20Soares.md)
+- [Rita Turras](Rita%20Turras.md)
+- [Rodrigo Queiroz e Melo](Rodrigo%20Queiroz%20e%20Melo.md)
+- [Rui Junqueira](Rui%20Junqueira.md)
+- [Rui Ribeiro](Rui%20Ribeiro.md)
+- [Rui Veloso](Rui%20Veloso.md)

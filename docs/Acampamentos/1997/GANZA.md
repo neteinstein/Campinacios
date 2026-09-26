@@ -1,0 +1,35 @@
+---
+title: "GANZA"
+categories:
+  - "Acampamentos"
+  - "Acampamentos de 1997"
+  - "Lambretas"
+wiki_id: 157
+last_edited: "2009-11-27T18:28:42Z"
+last_editor: "Neteinstein"
+---
+
+# GANZA
+
+O nome deste acampamento é acrónimo de: **G**rupo de **A**nimadores **N**a **Z**ona de **A**lferrarede.
+
+### Animadores
+
+- [Director](../../Cargos/Director.md) - [José da Silva Almeida](../../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md) sj
+- [Tias](../../Cargos/Tio.md) - [Majo](../../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
+
+### Curiosidade
+
+O encontro chamou-se ERVA, acrónimo de Encontro ReViver o Alferrarede.
+
+## Páginas que ligam para aqui
+
+- [André Gonçalves](../../Pessoas/A/Andr%C3%A9%20Gon%C3%A7alves.md)
+- [José Luís Fernandes](../../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Fernandes.md)
+- [José da Silva Almeida](../../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
+- [Maria João Simões](../../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
+- [Ricardo Lopes](../../Pessoas/R/Ricardo%20Lopes.md)
+
+---
+
+**Categorias:** [Acampamentos](../../Categorias/Acampamentos.md) · [Acampamentos de 1997](../../Categorias/Acampamentos%20de%201997.md) · [Lambretas](../../Categorias/Lambretas.md)

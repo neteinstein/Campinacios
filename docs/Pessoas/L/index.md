@@ -1,0 +1,23 @@
+---
+title: "L"
+---
+
+# L
+
+- [Lara Fernandes](Lara%20Fernandes.md)
+- [Lara Martins](Lara%20Martins.md)
+- [Leonardo Carvalho](Leonardo%20Carvalho.md)
+- [Lourenço Eiró](Louren%C3%A7o%20Eir%C3%B3.md)
+- [Luis Pereira](Luis%20Pereira.md)
+- [Luís Azevedo](Lu%C3%ADs%20Azevedo.md)
+- [Luís Barbosa](Lu%C3%ADs%20Barbosa.md)
+- [Luís Borges](Lu%C3%ADs%20Borges.md)
+- [Luís Godinho](Lu%C3%ADs%20Godinho.md)
+- [Luís Macedo](Lu%C3%ADs%20Macedo.md)
+- [Luís Onofre](Lu%C3%ADs%20Onofre.md)
+- [Luís Pereira](Lu%C3%ADs%20Pereira.md)
+- [Luís Tiago Canilho](Lu%C3%ADs%20Tiago%20Canilho.md)
+- [Luísa Gaspar](Lu%C3%ADsa%20Gaspar.md)
+- [Lília Santos](L%C3%ADlia%20Santos.md)
+- [Lúcia Ribeiro](L%C3%BAcia%20Ribeiro.md)
+- [Lúcia Vaz Pato](L%C3%BAcia%20Vaz%20Pato.md)
