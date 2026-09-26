@@ -31,6 +31,7 @@ Para efeitos de coerência apresentamos aqui como Direcção Nacional todos os e
 ## Direcção Nacional 2008/2009
 
 - **Assistente Nacional**:[Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj
+- **Coordenador Nacional**:[Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md)
 - **DL-CC:** [João Paulo Moinhos](../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md) (Coordenador da DL), [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md) (Coordenador da DN) e [João Goulão](../Pessoas/J/Jo%C3%A3o%20Goul%C3%A3o.md) sj
 - **DL-CAIC**: [Gonçalo Vaz Pedro](../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md) (Coordenador da DL) e [Mariana Roxo](../Pessoas/M/Mariana%20Roxo.md) (Secretária da DN)
 - **DL-CSJB**: [Ricardo Neves](../Pessoas/R/Ricardo%20Neves.md) (Coordenador da DL) e [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md) sj
@@ -38,6 +39,7 @@ Para efeitos de coerência apresentamos aqui como Direcção Nacional todos os e
 ## Direcção Nacional 2007/2008
 
 - **Assistente Nacional**: [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj
+- **Coordenador Nacional**:[Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)
 - **DL-CC**: [João Paulo Moinhos](../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md) (Coordenador da DL) , [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md) e [João Goulão](../Pessoas/J/Jo%C3%A3o%20Goul%C3%A3o.md) sj
 - **DL-CAIC**: [Gonçalo Vaz Pedro](../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md) (Coordenador da DL), [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) (Coordenador da DN) e [Sérgio Carvalho](../Pessoas/S/S%C3%A9rgio%20Carvalho.md) sj
 - **DL-CSJB**: [Filipe Próspero](../Pessoas/F/Filipe%20Pr%C3%B3spero.md) (Coordenador da DL), [Ricardo Neves](../Pessoas/R/Ricardo%20Neves.md) (Secretário da DN) e [José da Silva Almeida](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md) sj
@@ -45,6 +47,7 @@ Para efeitos de coerência apresentamos aqui como Direcção Nacional todos os e
 ## Direcção Nacional 2006/2007
 
 - **Assistente Nacional**: [António Sant'Ana](../Pessoas/A/Ant%C3%B3nio%20Sant%27Ana.md) sj
+- **Coordenador Nacional**:[Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)
 - **DL-CC**: [João Paulo Moinhos](../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md) (Coordenador da DL) , [Cami](../Pessoas/C/Carlos%20Miguel%20Albuquerque.md) e [Rui Ribeiro](../Pessoas/R/Rui%20Ribeiro.md) sj
 - **DL-CAIC**: [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) (Coordenador da DN/DL) e [Carlos Rodrigues](../Pessoas/C/Carlos%20Rodrigues.md) (Secretário da DN)
 - **DL-CSJB**: [Francisca Mendes](../Pessoas/F/Francisca%20Mendes.md) (Coordenadora da DL), [Pica](../Movimento/Desambigua%C3%A7%C3%A3o/Pica.md) e [Nuno Branco](../Pessoas/N/Nuno%20Branco.md) sj
@@ -52,6 +55,7 @@ Para efeitos de coerência apresentamos aqui como Direcção Nacional todos os e
 ## Direcção Nacional 2005/2006
 
 - **Assistente Nacional**: [José da Silva Almeida](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md) sj
+- **Coordenador Nacional**:[Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)
 - **DL-CC**: [João Paulo Moinhos](../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md) (Coordenador da DL) , [Cami](../Pessoas/C/Carlos%20Miguel%20Albuquerque.md) e [Rui Ribeiro](../Pessoas/R/Rui%20Ribeiro.md) sj
 - **DL-CAIC**: [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) (Coordenador da DN/DL) e [António Sant'Ana](../Pessoas/A/Ant%C3%B3nio%20Sant%27Ana.md) sj (Secretário da DN)
 - **DL-CSJB**: [Manuel Cordeiro Ferreira](../Pessoas/M/Manuel%20Cordeiro%20Ferreira.md) (Coordenador da DL), [Zebra](../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md) sj
