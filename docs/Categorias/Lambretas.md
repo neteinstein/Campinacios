@@ -29,6 +29,7 @@ Acampamentos do escalão Lambretas - Alunos do 11º e 12º anos de escolaridade
 
 ## Páginas que ligam para aqui
 
+- [Caderno da Mamã](../Movimento/Caderno%20da%20Mam%C3%A3.md)
 - [Dilúvio](../Acampamentos/1999/Dil%C3%BAvio.md)
 - [Diz Que Sim](../Acampamentos/2007/Diz%20Que%20Sim.md)
 - [Era Uma Vez...](../Acampamentos/2008/Era%20Uma%20Vez....md)

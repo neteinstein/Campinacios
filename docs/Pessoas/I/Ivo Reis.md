@@ -18,6 +18,7 @@ Ivo Reis, é um dos animadores do Colégio da Imaculada Conceição.
 ## Páginas que ligam para aqui
 
 - [Baza](../../Acampamentos/2007/Baza.md)
+- [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
 - [Gaivota](../../Acampamentos/2005/Gaivota.md)
 - [Long Tao](../../Acampamentos/2006/Long%20Tao.md)
 - [TufarfarAway](../../Acampamentos/2008/TufarfarAway.md)

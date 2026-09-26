@@ -27,6 +27,10 @@
 | 2009 | <ul> <li>Quem és Tu Senhor?</li> </ul> |
 | 2010 | <ul> <li>Quero ficar em Tua casa.</li></ul> |
 
+## Páginas que ligam para aqui
+
+- [Manual do Director](Manual%20do%20Director.md)
+
 ---
 
 **Outros nomes:** Tema do ano

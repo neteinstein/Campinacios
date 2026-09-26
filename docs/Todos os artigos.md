@@ -1,6 +1,6 @@
 # Todos os artigos
 
-657 artigos e, em itálico, os 112 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+659 artigos e, em itálico, os 114 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -106,6 +106,7 @@
 - [Cabala](Acampamentos/2003/Cabala.md)
 - [CACAINA](Acampamentos/Sem%20data/CACAINA.md)
 - [Caderno da Mamã](Movimento/Caderno%20da%20Mam%C3%A3.md)
+- [Caderno de Jogos](Movimento/Caderno%20de%20Jogos.md)
 - [Cagácios](Acampamentos/Sem%20data/Cag%C3%A1cios.md)
 - [CAIC](Movimento/CAIC.md)
 - *Caldas de S. Paulo* → [Caldas de S. Paulo (Oliveira do Hospital)](Restrito/Locais%20de%20Acampamento/Caldas%20de%20S.%20Paulo%20%28Oliveira%20do%20Hospital%29.md) 🔒
@@ -260,6 +261,7 @@
 - [Fernando Ventura](Pessoas/F/Fernando%20Ventura.md)
 - [Ferrugenta](Acampamentos/1989/Ferrugenta.md)
 - [Fibrovital](Acampamentos/1996/Fibrovital.md)
+- *Fichas de Jogo* → [Caderno de Jogos](Movimento/Caderno%20de%20Jogos.md)
 - [Filipa Caldas](Pessoas/F/Filipa%20Caldas.md)
 - [Filipa Granado](Pessoas/F/Filipa%20Granado.md)
 - [Filipa Marcelino](Pessoas/F/Filipa%20Marcelino.md)
@@ -508,7 +510,9 @@
 - *Majó* → [Maria João Simões](Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
 - [Mamã](Cargos/Mam%C3%A3.md)
 - [Manual de Deliberações](Movimento/Manual%20de%20Delibera%C3%A7%C3%B5es.md)
+- *Manual de Directores* → [Manual do Director](Movimento/Manual%20do%20Director.md)
 - [Manual de Funções](Movimento/Manual%20de%20Fun%C3%A7%C3%B5es.md)
+- [Manual do Director](Movimento/Manual%20do%20Director.md)
 - [Manuel Cordeiro Ferreira](Pessoas/M/Manuel%20Cordeiro%20Ferreira.md)
 - [Manuel Matos](Pessoas/M/Manuel%20Matos.md)
 - [Manuel Paiva](Pessoas/M/Manuel%20Paiva.md)

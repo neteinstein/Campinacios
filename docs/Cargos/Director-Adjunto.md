@@ -97,6 +97,7 @@
 - [Luís Tiago Canilho](../Pessoas/L/Lu%C3%ADs%20Tiago%20Canilho.md)
 - [M&M](../Acampamentos/2007/M%26M.md)
 - [Manual de Funções](../Movimento/Manual%20de%20Fun%C3%A7%C3%B5es.md)
+- [Manual do Director](../Movimento/Manual%20do%20Director.md)
 - [Manuel Vilhena](../Pessoas/M/Manuel%20Vilhena.md)
 - [Maria João Simões](../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
 - [Maria Manuel Urbano](../Pessoas/M/Maria%20Manuel%20Urbano.md)
