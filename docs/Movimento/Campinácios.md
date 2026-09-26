@@ -17,6 +17,14 @@
 <figcaption>1994 · oficial</figcaption>
 </figure>
 <figure markdown="span">
+[![Logótipo de 1995: mão a fazer polegar para cima, com «CAMPINÁCIOS» à volta dos dedos](../assets/imagens/Campin%C3%A1cios_2000.jpg)](../assets/imagens/Campin%C3%A1cios_2000.jpg)
+<figcaption>1995 · oficial</figcaption>
+</figure>
+<figure markdown="span">
+[![Proposta de logótipo de 1998: meio-campo de basquetebol visto de cima com uma cruz ao centro, rodeado de raios, sobre as palavras «CAMPINÁCIOS»](../assets/imagens/S%C3%ADmbolo_98.jpg)](../assets/imagens/S%C3%ADmbolo_98.jpg)
+<figcaption>1998 · proposta, não oficial</figcaption>
+</figure>
+<figure markdown="span">
 [![Logótipo de 2003: círculo vermelho com uma tenda verde, o IHS e «Campinácios»](../assets/imagens/Campin%C3%A1cios_2004.jpg)](../assets/imagens/Campin%C3%A1cios_2004.jpg)
 <figcaption>2003 · oficial</figcaption>
 </figure>
