@@ -14,9 +14,12 @@
 
 ## Páginas que ligam para aqui
 
+- [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
 - [Survivor](../../Acampamentos/2009/Survivor.md)
 
 ---
+
+**Outros nomes:** Sofia Pinelas
 
 | Categorias |
 | --- |

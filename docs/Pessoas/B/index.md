@@ -5,3 +5,4 @@
 - [Bernardo Narciso](Bernardo%20Narciso.md)
 - [Bruno Azevedo](Bruno%20Azevedo.md)
 - [Bruno Costa](Bruno%20Costa.md)
+- [Bruno Nobre](Bruno%20Nobre.md)

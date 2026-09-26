@@ -44,6 +44,7 @@ Acampamentos do escalão Bicicletas - Alunos do 9º e 10º anos de escolaridade
 - [Baúmerang](../Acampamentos/2007/Ba%C3%BAmerang.md)
 - [Bicicletas 94 I](../Acampamentos/1994/Bicicletas%2094%20I.md)
 - [CAmpIC 91](../Acampamentos/1991/CAmpIC%2091.md)
+- [Caderno da Mamã](../Movimento/Caderno%20da%20Mam%C3%A3.md)
 - [Caldas de S.Paulo](../Acampamentos/1990/Caldas%20de%20S.Paulo.md)
 - [Cinena](../Acampamentos/2001/Cinena.md)
 - [Descola](../Acampamentos/2004/Descola.md)

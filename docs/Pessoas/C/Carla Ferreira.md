@@ -18,6 +18,7 @@ Frequentou o CC de 1992 a 2008. Animadora desde 2008 até hoje.
 
 ## Páginas que ligam para aqui
 
+- [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
 - [Survivor](../../Acampamentos/2009/Survivor.md)
 
 ---

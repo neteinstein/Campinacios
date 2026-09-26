@@ -49,10 +49,12 @@ tentar adivinhá-la sem limite, por isso deve ser longa e aleatória.
   histórico de revisões, incluindo o autor e a data da última edição de
   cada página.
 - A página "Main Page", que era a página de instalação do MediaWiki, e as
-  páginas restritas *ToDo* (notas internas do Staff, de 2009), *Restrito à
+  páginas restritas *ToDo* (notas internas dos Contribuidores, de 2009), *Restrito à
   DN* e *Restrito aos Directores* (só tinham uma ligação para os locais de
   acampamento, para onde as ligações a elas apontam agora).
-- As imagens: o backup só tem a base de dados, não os ficheiros.
+- As imagens: o backup só tem a base de dados, não os ficheiros. Alguns dos
+  logótipos da página [Campinácios](../Movimento/Campin%C3%A1cios.md) foram
+  recuperados à parte.
 - As páginas de gestão da wiki (Administradores, Burocratas, Artigos
   pedidos, Portal comunitário, Página de testes, Utilizadores).
 - Os endereços de e-mail e as ligações do domínio campinacios.org, que

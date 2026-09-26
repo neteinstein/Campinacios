@@ -1,6 +1,6 @@
 # Todos os artigos
 
-656 artigos e, em itálico, os 112 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+659 artigos e, em itálico, os 116 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -98,6 +98,7 @@
 - [Bora Bora](Acampamentos/2007/Bora%20Bora.md)
 - [Bruno Azevedo](Pessoas/B/Bruno%20Azevedo.md)
 - [Bruno Costa](Pessoas/B/Bruno%20Costa.md)
+- [Bruno Nobre](Pessoas/B/Bruno%20Nobre.md)
 - [Bublix](Acampamentos/2009/Bublix.md)
 
 ## C
@@ -105,6 +106,7 @@
 - [Cabala](Acampamentos/2003/Cabala.md)
 - [CACAINA](Acampamentos/Sem%20data/CACAINA.md)
 - [Caderno da Mamã](Movimento/Caderno%20da%20Mam%C3%A3.md)
+- [Caderno de Jogos](Movimento/Caderno%20de%20Jogos.md)
 - [Cagácios](Acampamentos/Sem%20data/Cag%C3%A1cios.md)
 - [CAIC](Movimento/CAIC.md)
 - *Caldas de S. Paulo* → [Caldas de S. Paulo (Oliveira do Hospital)](Restrito/Locais%20de%20Acampamento/Caldas%20de%20S.%20Paulo%20%28Oliveira%20do%20Hospital%29.md) 🔒
@@ -259,6 +261,7 @@
 - [Fernando Ventura](Pessoas/F/Fernando%20Ventura.md)
 - [Ferrugenta](Acampamentos/1989/Ferrugenta.md)
 - [Fibrovital](Acampamentos/1996/Fibrovital.md)
+- *Fichas de Jogo* → [Caderno de Jogos](Movimento/Caderno%20de%20Jogos.md)
 - [Filipa Caldas](Pessoas/F/Filipa%20Caldas.md)
 - [Filipa Granado](Pessoas/F/Filipa%20Granado.md)
 - [Filipa Marcelino](Pessoas/F/Filipa%20Marcelino.md)
@@ -507,7 +510,9 @@
 - *Majó* → [Maria João Simões](Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
 - [Mamã](Cargos/Mam%C3%A3.md)
 - [Manual de Deliberações](Movimento/Manual%20de%20Delibera%C3%A7%C3%B5es.md)
+- *Manual de Directores* → [Manual do Director](Movimento/Manual%20do%20Director.md)
 - [Manual de Funções](Movimento/Manual%20de%20Fun%C3%A7%C3%B5es.md)
+- [Manual do Director](Movimento/Manual%20do%20Director.md)
 - [Manuel Cordeiro Ferreira](Pessoas/M/Manuel%20Cordeiro%20Ferreira.md)
 - [Manuel Matos](Pessoas/M/Manuel%20Matos.md)
 - [Manuel Paiva](Pessoas/M/Manuel%20Paiva.md)
@@ -560,6 +565,7 @@
 - [Márcio Ricardo](Pessoas/M/M%C3%A1rcio%20Ricardo.md)
 - [Mário Carvalho](Pessoas/M/M%C3%A1rio%20Carvalho.md)
 - [Mário Magalhães](Pessoas/M/M%C3%A1rio%20Magalh%C3%A3es.md)
+- *Mário Pedro* → [Mário Carvalho](Pessoas/M/M%C3%A1rio%20Carvalho.md)
 - [Megafona](Acampamentos/2005/Megafona.md)
 - [Metrópole](Acampamentos/2004/Metr%C3%B3pole.md)
 - *Mi* → [Fernando Miguel Guimarães](Pessoas/F/Fernando%20Miguel%20Guimar%C3%A3es.md)
@@ -748,6 +754,7 @@
 - [Sofia Amaral](Pessoas/S/Sofia%20Amaral.md)
 - [Sofia Azevedo Cardoso](Pessoas/S/Sofia%20Azevedo%20Cardoso.md)
 - [Sofia Fonseca](Pessoas/S/Sofia%20Fonseca.md)
+- *Sofia Pinelas* → [Ana Sofia Pinelas](Pessoas/A/Ana%20Sofia%20Pinelas.md)
 - [Soraia Ramos](Pessoas/S/Soraia%20Ramos.md)
 - *Sugo* → [Hugo Rafael Ferreira](Pessoas/H/Hugo%20Rafael%20Ferreira.md)
 - [Surpresa](Acampamentos/2001/Surpresa.md)
