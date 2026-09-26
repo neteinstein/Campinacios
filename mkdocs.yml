@@ -135,9 +135,7 @@ nav:
     - "T": Pessoas/T/index.md
     - "V": Pessoas/V/index.md
     - "Z": Pessoas/Z/index.md
-  - "Restrito":
-    - Restrito/index.md
-    - "Locais de Acampamento": Restrito/Locais de Acampamento/index.md
+  - "Locais": Restrito/Locais de Acampamento/index.md
   - "Wikinácios":
     - Wikinácios/index.md
     - "Ajuda": Wikinácios/Ajuda/index.md
