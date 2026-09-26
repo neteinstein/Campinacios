@@ -39,7 +39,8 @@ DOCS = ROOT / 'docs'
 OPEN_DIR = ROOT / 'restrito-aberto'
 
 NOTICE = ('🔒 Esta página era de acesso restrito na Wikinácios (Direcção '
-          'Nacional e Directores). É precisa a palavra-passe para a ler.')
+          'Nacional e Directores). O texto está guardado cifrado e só se '
+          'lê com a palavra-passe.')
 BLOCK = re.compile(r'<div class="wiki-restrito" data-salt="([^"]+)" '
                    r'data-iter="(\d+)" data-iv="([^"]+)" data-ct="([^"]+)">'
                    r'.*?</div>', re.S)

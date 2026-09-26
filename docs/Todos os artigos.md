@@ -1,6 +1,6 @@
 # Todos os artigos
 
-656 artigos e, em itálico, os 111 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+653 artigos e, em itálico, os 111 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -674,8 +674,6 @@
 - [Regresso a Alvoco II](Acampamentos/1998/Regresso%20a%20Alvoco%20II.md)
 - [Renato Costa](Pessoas/R/Renato%20Costa.md)
 - [Renato Lopes](Pessoas/R/Renato%20Lopes.md)
-- [Restrito aos Directores](Restrito/Restrito%20aos%20Directores.md) 🔒
-- [Restrito à DN](Restrito/Restrito%20%C3%A0%20DN.md) 🔒
 - [Revolução Campinácios v2.0](Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
 - [Ribeira do Conde (Serpins)](Restrito/Locais%20de%20Acampamento/Ribeira%20do%20Conde%20%28Serpins%29.md) 🔒
 - [Ricardo Amado](Pessoas/R/Ricardo%20Amado.md)
@@ -787,7 +785,6 @@
 - *Tios* → [Tio](Cargos/Tio.md)
 - [Tira as rodinhas](Acampamentos/2009/Tira%20as%20rodinhas.md)
 - [Tiw-y-moy](Acampamentos/1998/Tiw-y-moy.md)
-- [ToDo](Restrito/ToDo.md) 🔒
 - [Tomás Silva](Pessoas/T/Tom%C3%A1s%20Silva.md)
 - [Torneira](Acampamentos/1997/Torneira.md)
 - *Toy* → [António Matias](Pessoas/A/Ant%C3%B3nio%20Matias.md)
