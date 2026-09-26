@@ -2,12 +2,13 @@
 
 Jesuítas que animam ou animaram acampamentos de Campinácios
 
-## Páginas nesta categoria (28)
+## Páginas nesta categoria (29)
 
 - ["Para Educar Melhor - Campos de férias inacianos"](../Movimento/Para%20Educar%20Melhor%20-%20Campos%20de%20f%C3%A9rias%20inacianos.md)
 - [Andreas Lind](../Pessoas/A/Andreas%20Lind.md)
 - [António Sant'Ana](../Pessoas/A/Ant%C3%B3nio%20Sant%27Ana.md)
 - [António Valério](../Pessoas/A/Ant%C3%B3nio%20Val%C3%A9rio.md)
+- [Bruno Nobre](../Pessoas/B/Bruno%20Nobre.md)
 - [Carlos Azevedo Mendes](../Pessoas/C/Carlos%20Azevedo%20Mendes.md)
 - [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md)
 - [Cristovão Andrade](../Pessoas/C/Cristov%C3%A3o%20Andrade.md)
