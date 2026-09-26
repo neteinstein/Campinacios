@@ -76,9 +76,7 @@ Respondendo à pergunta inicial… ganhei tudo… o que é importante pelo menos
 
 ### Página
 
-[*Página Pessoal*](http://web.archive.org/web/20090627221702/http://www.neteinstein.pt.vu/) (cópia no Web Archive; o endereço original já não existe)
-
-[*Blog*](http://web.archive.org/web/20110821124727/http://intelectuais.blogspot.com/) (cópia no Web Archive; o blog original já não existe)
+[www.pedrovicente.pt](https://www.pedrovicente.pt)
 
 ## Páginas que ligam para aqui
 
