@@ -31,7 +31,12 @@ Tiago Neves Bahia, nascido a 6 de Março de 1987, é animador do CC desde 2005.
     - 2010 [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md) - [Director](../../Cargos/Director.md)
     - 2011 [Olha, Isto Aqui é uma Estátua](../../Acampamentos/2011/Olha%2C%20Isto%20Aqui%20%C3%A9%20uma%20Est%C3%A1tua.md) - [Director](../../Cargos/Director.md)
     - 2012 [Limpopolus](../../Acampamentos/2012/Limpopolus.md) - [Director](../../Cargos/Director.md)
+    - 2013 [Camp & Nácios, S.A](../../Acampamentos/2013/Camp%20%26%20N%C3%A1cios%2C%20S.A.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
+    - 2014 [Sentido](../../Acampamentos/2014/Sentido.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
+    - 2015 [Ide](../../Acampamentos/2015/Ide.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2015 [Someonelfie](../../Acampamentos/2015/Someonelfie.md) - [Director](../../Cargos/Director.md)
+    - 2017 [Dá Tudo Xauzinho](../../Acampamentos/2017/D%C3%A1%20Tudo%20Xauzinho.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2023 [Parte de Ti](../../Acampamentos/2023/Parte%20de%20Ti.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
 ## Páginas que ligam para aqui
 
