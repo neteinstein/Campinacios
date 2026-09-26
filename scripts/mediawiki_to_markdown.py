@@ -11,6 +11,10 @@ Usage:
     pip install ftfy cryptography mkdocs-material
     WIKINACIOS_PALAVRA_PASSE=... python3 scripts/mediawiki_to_markdown.py <dump>
 
+docs/ is edited by hand since the migration, so the script refuses to
+overwrite an existing docs/ unless given --substituir (which loses those
+edits).
+
 Only the latest revision of each page is exported. Pages that were
 restricted on the wiki (see PRIVATE_CATEGORIES) are encrypted with the
 password (see scripts/restrito.py); without one they are left out. User
@@ -1326,10 +1330,20 @@ def main(dump, root='.', password=None):
 
 
 if __name__ == '__main__':
-    if len(sys.argv) < 2:
+    args = [a for a in sys.argv[1:] if a != '--substituir']
+    if not args:
         sys.exit(__doc__)
+    target = args[1] if len(args) > 1 else '.'
+    # docs/ is edited by hand now (new camps, fixes): regenerating it from
+    # the 2010 dump would silently throw that away.
+    if (Path(target) / 'docs' / 'index.md').exists() and (
+            '--substituir' not in sys.argv):
+        sys.exit('A pasta docs/ já existe e é agora editada à mão: gerá-la de '
+                 'novo a partir do backup apaga tudo o que foi acrescentado '
+                 'ou corrigido depois. Para o fazer mesmo assim, junte '
+                 '--substituir.')
     secret = os.environ.get('WIKINACIOS_PALAVRA_PASSE')
     if secret is None and sys.stdin.isatty():
         secret = getpass.getpass('Palavra-passe das páginas restritas (vazia '
                                  'para as deixar de fora): ')
-    main(sys.argv[1], sys.argv[2] if len(sys.argv) > 2 else '.', secret)
+    main(args[0], target, secret)

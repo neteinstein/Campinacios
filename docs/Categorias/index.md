@@ -25,6 +25,7 @@ As categorias da Wikinácios.
 - [Acampamentos de 2008](Acampamentos%20de%202008.md)
 - [Acampamentos de 2009](Acampamentos%20de%202009.md)
 - [Acampamentos de 2010](Acampamentos%20de%202010.md)
+- [Acampamentos de 2011](Acampamentos%20de%202011.md)
 - [Animadores](Animadores.md)
 - [Animadores do CAIC](Animadores%20do%20CAIC.md)
 - [Animadores do CC](Animadores%20do%20CC.md)

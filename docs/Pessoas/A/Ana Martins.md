@@ -12,6 +12,7 @@ Ana Martins, é desde 2005 uma das animadoras do Colégio São João de Brito.
     - 2001 [Cinena](../../Acampamentos/2001/Cinena.md)
     - 2003 [Rastilho](../../Acampamentos/2003/Rastilho.md)
     - 2004 [Mikelin Descobre a Vida](../../Acampamentos/2004/Mikelin%20Descobre%20a%20Vida.md)
+    - 2011 [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md)
 - **Formação**
     - Nenhum
 - **Animadora**
@@ -27,6 +28,7 @@ Ana Martins, é desde 2005 uma das animadoras do Colégio São João de Brito.
 - [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
 - [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md)
 - [Era Uma Vez...](../../Acampamentos/2008/Era%20Uma%20Vez....md)
+- [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md)
 - [Nómada](../../Acampamentos/2006/N%C3%B3mada.md)
 
 ---

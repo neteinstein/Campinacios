@@ -60,6 +60,7 @@
 - [Entre ASPAS](../Acampamentos/2008/Entre%20ASPAS.md)
 - [Era Uma Vez...](../Acampamentos/2008/Era%20Uma%20Vez....md)
 - [Ermal](../Acampamentos/1993/Ermal.md)
+- [Esperança](../Acampamentos/2011/Esperan%C3%A7a.md)
 - [Eureka](../Acampamentos/2008/Eureka.md)
 - [Falésia](../Acampamentos/2005/Fal%C3%A9sia.md)
 - [Ferrugenta](../Acampamentos/1989/Ferrugenta.md)

@@ -18,6 +18,7 @@ José Pascoal é um dos animadores do Colégio da Imaculada Conceição.
     - 2004 [Ídolo](../../Acampamentos/2004/%C3%8Ddolo.md)
     - 2005 [Gaivota](../../Acampamentos/2005/Gaivota.md)
     - 2006 [Long Tao](../../Acampamentos/2006/Long%20Tao.md)
+    - 2011 [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md)
 - **Formação:**
     - 2009 [Caminho](../../Acampamentos/2009/Caminho.md)
 - **Animador:**
@@ -25,6 +26,7 @@ José Pascoal é um dos animadores do Colégio da Imaculada Conceição.
 
 ## Páginas que ligam para aqui
 
+- [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md)
 - [Survivor](../../Acampamentos/2009/Survivor.md)
 
 ---
