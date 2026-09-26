@@ -46,7 +46,7 @@
 |-
 | width=3%| 
 | style="border-bottom: 1px dashed #AAAAAA;" | '''[[Staff]]'''<br>
-[[Usuário:Edu|Edu]] &middot; [[Usuário:ABarroso|Filipe Barroso]] &middot; [[Usuário:Neteinstein|Pedro Vicente]] &middot; [[Usuário:Silvinha|Sílvia Lobo]] &middot;[[Usuário:Tnbahia|Tiago Bahia]]
+[[Usuário:Neteinstein|Pedro Vicente]] &middot; [[Usuário:Tnbahia|Tiago Bahia]]
 |-
 | width=3%| 
 | style="border-bottom: 1px dashed #AAAAAA;" | '''[[Especial:Allpages|Todos os artigos]]'''<br>
