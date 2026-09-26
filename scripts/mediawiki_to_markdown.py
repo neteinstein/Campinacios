@@ -334,13 +334,9 @@ Se não existir, entre no GitHub na pasta certa dentro de `docs/`:
 Carregue em **Add file → Create new file** e dê ao ficheiro o nome do
 artigo terminado em `.md`, por exemplo `Carlos Nunes.md`. Copie um artigo
 do mesmo tipo (regra 2) e altere os dados, não o esquema. O ficheiro começa
-por um cabeçalho com o título:
+pelo título:
 
 ```markdown
----
-title: "Carlos Nunes"
----
-
 # Carlos Nunes
 
 Carlos Nunes é animador dos Campinácios desde...

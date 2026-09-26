@@ -85,6 +85,7 @@ Respondendo à pergunta inicial… ganhei tudo… o que é importante pelo menos
 - [Caminho](../../Acampamentos/2009/Caminho.md)
 - [Conteúdos](../../Wikin%C3%A1cios/Ajuda/Conte%C3%BAdos.md)
 - [Encontro Nacional de 2007](../../Encontros/Encontro%20Nacional%20de%202007.md)
+- [Enviar informação](../../Wikin%C3%A1cios/Ajuda/Enviar%20informa%C3%A7%C3%A3o.md)
 - [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md)
 - [Filipe Barroso](../F/Filipe%20Barroso.md)
 - [Gaivota](../../Acampamentos/2005/Gaivota.md)
