@@ -2,7 +2,7 @@
 
 Páginas sobre a própria wiki: ajuda, políticas, predefinições e discussões. Ver também [Sobre este arquivo](Sobre%20este%20arquivo.md).
 
-- [Ajuda](Ajuda/index.md) (1)
+- [Ajuda](Ajuda/index.md) (2)
 - [Discussão](Discuss%C3%A3o/index.md) (3)
 - [Predefinições](Predefini%C3%A7%C3%B5es/index.md) (9)
 

@@ -17,6 +17,7 @@
 - [Sobre a wiki](docs/Wikin%C3%A1cios/index.md)
 - [Todos os artigos](docs/Todos%20os%20artigos.md)
 - [Grafo de ligações](docs/Grafo.md)
+- [Enviar informação sobre um acampamento ou uma pessoa](docs/Wikin%C3%A1cios/Ajuda/Enviar%20informa%C3%A7%C3%A3o.md)
 
 ## Secções
 

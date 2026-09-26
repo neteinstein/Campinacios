@@ -1,0 +1,95 @@
+name: 🙋 Pessoa
+description: Acrescentar um animador, jesuíta ou outra pessoa do movimento à Wikinácios, ou completar ou corrigir a sua página.
+title: "[Pessoa] "
+labels: ["pessoa"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por ajudar a guardar a história dos Campinácios! Preencha o que souber e deixe o resto em branco: o Staff trata de o pôr no site.
+
+        **Este pedido e a página ficam públicos.** Só envie informação sobre outra pessoa se ela concordar, e não escreva contactos (telefone, e-mail, morada).
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: O que quer fazer?
+      options:
+        - Acrescentar uma pessoa nova
+        - Completar ou corrigir uma pessoa que já tem página
+    validations:
+      required: true
+  - type: input
+    id: nome
+    attributes:
+      label: Nome completo
+      description: Como deve aparecer no título da página. Com dois apelidos ajuda a não a confundir com alguém do mesmo nome.
+      placeholder: Maria João Simões
+    validations:
+      required: true
+  - type: input
+    id: alcunhas
+    attributes:
+      label: Outros nomes e alcunhas
+      placeholder: Majo, Maria João
+  - type: dropdown
+    id: colegio
+    attributes:
+      label: Colégio
+      options:
+        - CAIC
+        - CC
+        - CSJB
+        - Outro
+        - Não sei
+  - type: dropdown
+    id: papel
+    attributes:
+      label: Papel no movimento
+      multiple: true
+      options:
+        - Participante
+        - Animador(a)
+        - Jesuíta
+        - Direcção Local
+        - Direcção Nacional
+  - type: textarea
+    id: participante
+    attributes:
+      label: Acampamentos como participante
+      description: Um por linha, "Ano - Acampamento".
+      placeholder: |
+        1998 - Além
+        1999 - Caroço
+  - type: textarea
+    id: formacao
+    attributes:
+      label: Formação
+      description: Um por linha, "Ano - Acampamento ou acção de formação".
+      placeholder: 2003 - Graal II
+  - type: textarea
+    id: animador
+    attributes:
+      label: Acampamentos como animador(a)
+      description: Um por linha, "Ano - Acampamento - Cargo".
+      placeholder: |
+        2004 - Patos - Animador de Equipa
+        2007 - OPA - Director
+  - type: textarea
+    id: cargos
+    attributes:
+      label: Cargos no movimento
+      placeholder: 2008 a 2010 - Direcção Local do CAIC (Coordenador Local)
+  - type: textarea
+    id: outras
+    attributes:
+      label: Outras informações
+      description: Família no movimento, testemunho, curiosidades…
+  - type: checkboxes
+    id: consentimento
+    attributes:
+      label: Antes de enviar
+      options:
+        - label: Sou esta pessoa, ou ela concordou que esta informação fique pública no site.
+          required: true
+        - label: Não incluí contactos (telefone, e-mail, morada).
+          required: true

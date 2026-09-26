@@ -40,6 +40,8 @@ O Staff: [Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md) e [Tiago Bahia](../
 
 ## Como adicionar conteúdo?
 
+Não tem conta no GitHub, ou prefere não mexer nos ficheiros? [Envie a informação](Enviar%20informa%C3%A7%C3%A3o.md) por um formulário ou por um modelo de texto, e o Staff põe-na no site.
+
 A Wikinácios já não corre em MediaWiki: é um site feito a partir dos
 ficheiros do repositório
 [neteinstein/Campinacios](https://github.com/neteinstein/Campinacios) no
@@ -83,13 +85,9 @@ Se não existir, entre no GitHub na pasta certa dentro de `docs/`:
 Carregue em **Add file → Create new file** e dê ao ficheiro o nome do
 artigo terminado em `.md`, por exemplo `Carlos Nunes.md`. Copie um artigo
 do mesmo tipo (regra 2) e altere os dados, não o esquema. O ficheiro começa
-por um cabeçalho com o título:
+pelo título:
 
 ```markdown
----
-title: "Carlos Nunes"
----
-
 # Carlos Nunes
 
 Carlos Nunes é animador dos Campinácios desde...
@@ -138,3 +136,7 @@ Na página da categoria-mãe, acrescente a subcategoria à secção
 
 Estão cifradas e não se editam no GitHub. Ver
 [Sobre este arquivo](../Sobre%20este%20arquivo.md#páginas-restritas).
+
+## Páginas que ligam para aqui
+
+- [Enviar informação](Enviar%20informa%C3%A7%C3%A3o.md)

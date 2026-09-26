@@ -1,0 +1,96 @@
+name: 🏕️ Acampamento
+description: Acrescentar um acampamento à Wikinácios, ou completar ou corrigir um que já lá está.
+title: "[Acampamento] "
+labels: ["acampamento"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por ajudar a guardar a história dos Campinácios! Preencha o que souber e deixe o resto em branco: o Staff trata de o pôr no site.
+
+        **Este pedido fica público.** Não escreva contactos (telefones, e-mails, moradas), indicações para chegar aos locais de campo nem nomes de participantes menores de idade.
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: O que quer fazer?
+      options:
+        - Acrescentar um acampamento novo
+        - Completar ou corrigir um acampamento que já existe
+    validations:
+      required: true
+  - type: input
+    id: nome
+    attributes:
+      label: Nome do acampamento
+      placeholder: Esperança
+    validations:
+      required: true
+  - type: input
+    id: ano
+    attributes:
+      label: Ano
+      placeholder: "2011"
+    validations:
+      required: true
+  - type: dropdown
+    id: escalao
+    attributes:
+      label: Escalão
+      options:
+        - Triciclos
+        - Trotinetas
+        - Bicicletas
+        - Lambretas
+        - Calhambeques
+        - Formação de Animadores
+        - Outro ou sem escalão
+        - Não sei
+  - type: input
+    id: datas
+    attributes:
+      label: Datas
+      placeholder: 1 a 10 de Agosto
+  - type: input
+    id: local
+    attributes:
+      label: Local
+      description: Só a localidade e o concelho. As indicações e os contactos dos locais de campo são reservados à Direcção Nacional e aos directores.
+      placeholder: Serpins (Lousã)
+  - type: input
+    id: tema
+    attributes:
+      label: Imaginário ou tema do acampamento
+  - type: textarea
+    id: equipa
+    attributes:
+      label: Equipa de animação
+      description: Um por linha, "Cargo - Nome". O nome completo quando souber; a alcunha entre parênteses.
+      placeholder: |
+        Director - Pedro Vicente
+        Mamã - Maria Cortês Ferreira
+        Director-Adjunto - Filipe Próspero
+        Capelão - Luís Onofre Pinto
+        Animadores de Equipa - Ana Martins, Carla Carneiro
+        Animadores Livres - João Eiró (Joca)
+  - type: textarea
+    id: participantes
+    attributes:
+      label: Participantes
+      description: Só nos Calhambeques e na Formação de Animadores, em que os participantes já são animadores. Não escreva nomes de participantes menores.
+  - type: textarea
+    id: historia
+    attributes:
+      label: História, hino, peripécias
+      description: O que aconteceu, o hino, as histórias que vale a pena guardar.
+  - type: textarea
+    id: fontes
+    attributes:
+      label: De onde vem esta informação?
+      description: Esteve lá? Tem documentos, fotografias, o caderno da Mamã…? Ajuda a confirmar.
+  - type: checkboxes
+    id: privacidade
+    attributes:
+      label: Antes de enviar
+      options:
+        - label: Não incluí contactos, moradas, indicações dos locais de campo nem nomes de participantes menores.
+          required: true
