@@ -1,6 +1,6 @@
 # Todos os artigos
 
-950 artigos e, em itálico, os 133 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+952 artigos e, em itálico, os 136 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -150,6 +150,7 @@
 - [Cabala](Acampamentos/2003/Cabala.md)
 - [CACAINA](Acampamentos/Sem%20data/CACAINA.md)
 - [Caderno da Mamã](Movimento/Caderno%20da%20Mam%C3%A3.md)
+- [Caderno de Jogos](Movimento/Caderno%20de%20Jogos.md)
 - [Cagácios](Acampamentos/Sem%20data/Cag%C3%A1cios.md)
 - [CAIC](Movimento/CAIC.md)
 - *Caldas de S. Paulo* → [Caldas de S. Paulo (Oliveira do Hospital)](Restrito/Locais%20de%20Acampamento/Caldas%20de%20S.%20Paulo%20%28Oliveira%20do%20Hospital%29.md) 🔒
@@ -365,6 +366,7 @@
 - [Fiat'ársea](Acampamentos/2014/Fiat%27%C3%A1rsea.md)
 - *Fiatar-se-á* → [Fiat'ársea](Acampamentos/2014/Fiat%27%C3%A1rsea.md)
 - [Fibrovital](Acampamentos/1996/Fibrovital.md)
+- *Fichas de Jogo* → [Caderno de Jogos](Movimento/Caderno%20de%20Jogos.md)
 - [Fight Club](Acampamentos/2024/Fight%20Club.md)
 - [Filipa Caldas](Pessoas/F/Filipa%20Caldas.md)
 - [Filipa Granado](Pessoas/F/Filipa%20Granado.md)
@@ -675,7 +677,9 @@
 - [Manas Vasconcelos](Pessoas/M/Manas%20Vasconcelos.md)
 - [Mangueira Nice](Acampamentos/2025/Mangueira%20Nice.md)
 - [Manual de Deliberações](Movimento/Manual%20de%20Delibera%C3%A7%C3%B5es.md)
+- *Manual de Directores* → [Manual do Director](Movimento/Manual%20do%20Director.md)
 - [Manual de Funções](Movimento/Manual%20de%20Fun%C3%A7%C3%B5es.md)
+- [Manual do Director](Movimento/Manual%20do%20Director.md)
 - [Manuel Cordeiro Ferreira](Pessoas/M/Manuel%20Cordeiro%20Ferreira.md)
 - [Manuel Costa](Pessoas/M/Manuel%20Costa.md)
 - [Manuel Matos](Pessoas/M/Manuel%20Matos.md)
@@ -744,6 +748,7 @@
 - [Márcio Ricardo](Pessoas/M/M%C3%A1rcio%20Ricardo.md)
 - [Mário Carvalho](Pessoas/M/M%C3%A1rio%20Carvalho.md)
 - [Mário Magalhães](Pessoas/M/M%C3%A1rio%20Magalh%C3%A3es.md)
+- *Mário Pedro* → [Mário Carvalho](Pessoas/M/M%C3%A1rio%20Carvalho.md)
 - [Megafona](Acampamentos/2005/Megafona.md)
 - [Mergulha](Acampamentos/2015/Mergulha.md)
 - [Mestrarte](Acampamentos/2024/Mestrarte.md)

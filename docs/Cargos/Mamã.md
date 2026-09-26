@@ -1,5 +1,7 @@
 # Mamã
 
+Ver também o [Caderno da Mamã](../Movimento/Caderno%20da%20Mam%C3%A3.md), com os conselhos práticos e as receitas de um acampamento, e o [Manual de Funções](../Movimento/Manual%20de%20Fun%C3%A7%C3%B5es.md).
+
 Ser mamã de acampamento é das tarefas mais exigentesmas também das mais enriquecedoras.
 
 No fundo trata-se de deixar vir ao de cima o nosso lado mais maternal e encarar o verdadeiro sentido da palavra ser Mãe. É estar atenta a tudo e perceber o que o teu filhote precisa naquele momento. É dar atenção, carinho e fazer cara feia quando for preciso.
@@ -156,6 +158,7 @@ Quando tiveres dúvidas do que é ser mamã de acampamento lembra-te como é (ex
 - [Malú](../Pessoas/M/Mal%C3%BA.md)
 - [Mangueira Nice](../Acampamentos/2025/Mangueira%20Nice.md)
 - [Manual de Funções](../Movimento/Manual%20de%20Fun%C3%A7%C3%B5es.md)
+- [Manual do Director](../Movimento/Manual%20do%20Director.md)
 - [Marga Faria](../Pessoas/M/Marga%20Faria.md)
 - [Margarida Garcia](../Pessoas/M/Margarida%20Garcia.md)
 - [Maria Amorim](../Pessoas/M/Maria%20Amorim.md)

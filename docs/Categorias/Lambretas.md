@@ -63,6 +63,7 @@ Acampamentos do escalão Lambretas - Alunos do 11º e 12º anos de escolaridade
 - [Astérix e Obélerdos](../Acampamentos/2024/Ast%C3%A9rix%20e%20Ob%C3%A9lerdos.md)
 - [Atira-te](../Acampamentos/2023/Atira-te.md)
 - [Auquincaminha](../Acampamentos/2019/Auquincaminha.md)
+- [Caderno da Mamã](../Movimento/Caderno%20da%20Mam%C3%A3.md)
 - [Conta Kms](../Acampamentos/2012/Conta%20Kms.md)
 - [D'RIP MELON](../Acampamentos/2024/D%27RIP%20MELON.md)
 - [De Todas as Fôrmas](../Acampamentos/2023/De%20Todas%20as%20F%C3%B4rmas.md)

@@ -1,0 +1,37 @@
+name: 🏞️ Local de Acampamento
+description: Avisar os Contribuidores de um local de acampamento que falta na Wikinácios, ou de acampamentos que se fizeram num local que já tem ficha.
+title: "[Local] "
+labels: ["local"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        As fichas dos locais de acampamento (indicações, contactos, mapa) são páginas restritas, cifradas, só editadas pelos Contribuidores. **Este pedido fica público** — por isso não escreva aqui indicações para chegar ao local, coordenadas, nem contactos de proprietários. Envie essa informação **em privado** a [Pedro Vicente](https://neteinstein.github.io/Campinacios/Pessoas/P/Pedro%20Vicente.html) ou [Tiago Bahia](https://neteinstein.github.io/Campinacios/Pessoas/T/Tiago%20Bahia.html), nunca aqui.
+  - type: input
+    id: nome
+    attributes:
+      label: Local
+      description: A localidade e o concelho, como deve aparecer no título da ficha.
+      placeholder: Murtinheira (Vila Nova do Ceira)
+    validations:
+      required: true
+  - type: textarea
+    id: acampamentos
+    attributes:
+      label: Acampamentos que lá se fizeram
+      description: Um por linha, "Ano - Acampamento".
+      placeholder: |
+        2008 - OrienTu
+        2008 - Êxodo
+  - type: textarea
+    id: fontes
+    attributes:
+      label: De onde vem esta informação?
+      description: Esteve lá? Ajuda a confirmar antes dos Contribuidores criarem ou completarem a ficha.
+  - type: checkboxes
+    id: privacidade
+    attributes:
+      label: Antes de enviar
+      options:
+        - label: Não incluí indicações para chegar ao local, coordenadas nem contactos de proprietários ou responsáveis — essa informação vai em privado aos Contribuidores, nunca neste pedido.
+          required: true

@@ -1,5 +1,7 @@
 # Director
 
+Ver também o [Manual do Director](../Movimento/Manual%20do%20Director.md), com os conselhos e procedimentos para dirigir um acampamento, e o [Manual de Funções](../Movimento/Manual%20de%20Fun%C3%A7%C3%B5es.md).
+
 - Ser director é magnífico e é muito compensador quando se é coadjuvado por uma equipa de animadores que permite um contacto frequente com todos os que estão no acampamento.
 - O ideal é ser mais “Director – Animador” do que “Director – Director”, isto é, não ser o tipo que está sempre sentado num banquinho com ar de “soberano” e a quem se levam os assuntos. Deve circular e a qualquer momento, fazer o que for preciso; Sentir-se bem e estimular as pessoas a fazerem aquilo que fazem melhor.
 - Tal como todos os líderes deve a todo o momento passar uma visão optimista para os animadores e participantes, isto dará maior estabilidade ao grupo e até mais aceitação à sua liderança.
@@ -250,6 +252,7 @@
 - [Manas Vasconcelos](../Pessoas/M/Manas%20Vasconcelos.md)
 - [Mangueira Nice](../Acampamentos/2025/Mangueira%20Nice.md)
 - [Manual de Funções](../Movimento/Manual%20de%20Fun%C3%A7%C3%B5es.md)
+- [Manual do Director](../Movimento/Manual%20do%20Director.md)
 - [Manuel Cordeiro Ferreira](../Pessoas/M/Manuel%20Cordeiro%20Ferreira.md)
 - [Maravilha-te](../Acampamentos/2018/Maravilha-te.md)
 - [Maria Amorim](../Pessoas/M/Maria%20Amorim.md)

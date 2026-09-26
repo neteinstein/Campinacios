@@ -9,7 +9,7 @@ Animadores dos Campinácios
 - [Animadores do CSJB](Animadores%20do%20CSJB.md)
 - [Jesuítas](Jesu%C3%ADtas.md)
 
-## Páginas nesta categoria (524)
+## Páginas nesta categoria (525)
 
 - [Afonso Barrocas](../Pessoas/A/Afonso%20Barrocas.md)
 - [Afonso Carvalho](../Pessoas/A/Afonso%20Carvalho.md)
@@ -77,6 +77,7 @@ Animadores dos Campinácios
 - [Bernardo Narciso](../Pessoas/B/Bernardo%20Narciso.md)
 - [Bruno Azevedo](../Pessoas/B/Bruno%20Azevedo.md)
 - [Bruno Costa](../Pessoas/B/Bruno%20Costa.md)
+- [Bruno Nobre](../Pessoas/B/Bruno%20Nobre.md)
 - [Camila Martins](../Pessoas/C/Camila%20Martins.md)
 - [Carla Carneiro](../Pessoas/C/Carla%20Carneiro.md)
 - [Carla Ferreira](../Pessoas/C/Carla%20Ferreira.md)
