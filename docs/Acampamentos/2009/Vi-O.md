@@ -11,7 +11,7 @@ last_editor: "Silvinha"
 
 # Vi-O
 
-O Vi-O decorreu entre os dias 22 e 31 de Agosto de 2009 em Cornicovo (Penacova), sendo um acampamento de [Triciclos](../../Categorias/Triciclos.md).
+O Vi-O decorreu entre os dias 22 e 31 de Agosto de 2009 em [Cornicovo (Penacova)](../../Restrito/Locais%20de%20Acampamento/Cornicovo%20%28Penacova%29.md), sendo um acampamento de [Triciclos](../../Categorias/Triciclos.md).
 
 ### Animadores
 

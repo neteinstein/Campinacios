@@ -11,7 +11,7 @@ last_editor: "Tnbahia"
 
 # Caroço
 
-O Caroço decorreu de 15 a 24 de Agosto de 1999 em Porto da Balsa.
+O Caroço decorreu de 15 a 24 de Agosto de 1999 em [Porto da Balsa](../../Restrito/Locais%20de%20Acampamento/Porto%20da%20Balsa.md).
 
 ### Animadores
 

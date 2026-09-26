@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Bora Bora
 
-Bora Bora foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que se realizou de 27 de Julho a 5 de Agosto na Murtinheira.
+Bora Bora foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que se realizou de 27 de Julho a 5 de Agosto na [Murtinheira](../../Restrito/Locais%20de%20Acampamento/Murtinheira%20%28Vila%20Nova%20do%20Ceira%29.md).
 
 ### Animadores
 

@@ -11,7 +11,7 @@ last_editor: "Tnbahia"
 
 # Pavio
 
-O Pavio foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) que decorreu de 26 de Agosto a 4 de Setembro de 2000 em Várzea da Ovelha.
+O Pavio foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) que decorreu de 26 de Agosto a 4 de Setembro de 2000 em [Várzea da Ovelha](../../Restrito/Locais%20de%20Acampamento/V%C3%A1rzea%20da%20Ovelha%20e%20Aliviada%20%28Marco%20de%20Canaveses%29.md).
 
 ### Animadores
 

@@ -11,7 +11,7 @@ last_editor: "Tnbahia"
 
 # Bublix
 
-O Bublix decorreu entre os dias 29 de Julho e 7 de Agosto de 2009 em Digueifel (Arganil), sendo um acampamento de [Triciclos](../../Categorias/Triciclos.md).
+O Bublix decorreu entre os dias 29 de Julho e 7 de Agosto de 2009 em [Digueifel (Arganil)](../../Restrito/Locais%20de%20Acampamento/Digueifel%20%28Arganil%29.md), sendo um acampamento de [Triciclos](../../Categorias/Triciclos.md).
 
 ### Animadores
 

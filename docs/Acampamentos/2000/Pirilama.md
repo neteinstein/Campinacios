@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Pirilama
 
-O Pirilama foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que decorreu de 29 de Julho a 7 de Agosto de 2000 em Várzea da Ovelha.
+O Pirilama foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que decorreu de 29 de Julho a 7 de Agosto de 2000 em [Várzea da Ovelha](../../Restrito/Locais%20de%20Acampamento/V%C3%A1rzea%20da%20Ovelha%20e%20Aliviada%20%28Marco%20de%20Canaveses%29.md).
 
 ### Animadores
 

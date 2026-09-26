@@ -146,6 +146,7 @@ last_editor: "Neteinstein"
 - [Francisco Silva Rodrigues](../Pessoas/F/Francisco%20Silva%20Rodrigues.md)
 - [Gaivota](../Acampamentos/2005/Gaivota.md)
 - [Gipsy Kings](../Acampamentos/1999/Gipsy%20Kings.md)
+- [Gordurosa](../Acampamentos/2000/Gordurosa.md)
 - [Guadalupe Oliveira](../Pessoas/G/Guadalupe%20Oliveira.md)
 - [Guilherme Ribeiro](../Pessoas/G/Guilherme%20Ribeiro.md)
 - [Génesis 2003 d.C.](../Acampamentos/2003/G%C3%A9nesis%202003%20d.C..md)

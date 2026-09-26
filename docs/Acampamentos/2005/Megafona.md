@@ -11,7 +11,7 @@ last_editor: "Tnbahia"
 
 # Megafona
 
-Megafona foi um acampamento de Trotinetas que se realizou em Digueifel
+Megafona foi um acampamento de Trotinetas que se realizou em [Digueifel](../../Restrito/Locais%20de%20Acampamento/Digueifel%20%28Arganil%29.md)
 
 ### Animadores
 

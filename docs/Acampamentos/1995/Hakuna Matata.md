@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Hakuna Matata
 
-O Hakuna Matata decorreu em Porto da Balsa de 2 a 11 de Setembro de 1995.
+O Hakuna Matata decorreu em [Porto da Balsa](../../Restrito/Locais%20de%20Acampamento/Porto%20da%20Balsa.md) de 2 a 11 de Setembro de 1995.
 
 ### Animadores
 

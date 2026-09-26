@@ -438,4 +438,3 @@ Animadores dos Campinácios
 - [Koalas](../Acampamentos/1999/Koalas.md)
 - [Pedreira](../Acampamentos/1989/Pedreira.md)
 - [Shampum de Pessêgo](../Acampamentos/2001/Shampum%20de%20Pess%C3%AAgo.md)
-- [Wikinácios](../index.md)

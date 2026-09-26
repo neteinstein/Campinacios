@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Agroal
 
-Este acampamento de [Trotinetas](../../Categorias/Trotinetas.md) decorreu no Agroal (Tomar), entre os dias 20 e 29 de Julho de 1992.
+Este acampamento de [Trotinetas](../../Categorias/Trotinetas.md) decorreu no [Agroal (Tomar)](../../Restrito/Locais%20de%20Acampamento/Agroal%20%28Tomar%29.md), entre os dias 20 e 29 de Julho de 1992.
 
 ### Animadores
 

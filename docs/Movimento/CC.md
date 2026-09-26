@@ -14,4 +14,3 @@ O Colégio das Caldinhas é o complexo educativo constituído pelo conjunto das 
 - [Ana Paula Gomes](../Pessoas/A/Ana%20Paula%20Gomes.md)
 - [Campinácios](Campin%C3%A1cios.md)
 - [Sílvia Lobo](../Pessoas/S/S%C3%ADlvia%20Lobo.md)
-- [Wikinácios](../index.md)

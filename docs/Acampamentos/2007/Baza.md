@@ -11,7 +11,7 @@ last_editor: "Tnbahia"
 
 # Baza
 
-Baza foi um acampamento de Bicicletas realizado de 7 a 16 de Agosto na Murtinheira.
+Baza foi um acampamento de Bicicletas realizado de 7 a 16 de Agosto na [Murtinheira](../../Restrito/Locais%20de%20Acampamento/Murtinheira%20%28Vila%20Nova%20do%20Ceira%29.md).
 
 ### Animadores
 

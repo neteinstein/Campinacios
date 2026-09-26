@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Lufa
 
-O Lufa decorreu em Alvoco das Várzeas. Este acampamento decorreu em simultâneo com o outro campo de triciclos desse ano, no mesmo local.
+O Lufa decorreu em [Alvoco das Várzeas](../../Restrito/Locais%20de%20Acampamento/Alvoco%20das%20V%C3%A1rzeas%20%28Oliveira%20do%20Hospital%29.md). Este acampamento decorreu em simultâneo com o outro campo de triciclos desse ano, no mesmo local.
 
 ### Animadores
 

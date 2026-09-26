@@ -11,7 +11,7 @@ last_editor: "Tnbahia"
 
 # Êxodo
 
-O Êxodo foi o acampamento de [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) do ano 2008 realizado em Serpins.
+O Êxodo foi o acampamento de [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) do ano 2008 realizado em [Serpins](../../Restrito/Locais%20de%20Acampamento/Ribeira%20do%20Conde%20%28Serpins%29.md).
 
 ### Animadores
 

@@ -15,7 +15,7 @@ last_editor: "Neteinstein"
 
 O Era Uma Vez... foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) que surgiu da necessidade de dar resposta à enorme quantidade de suplentes que se verificaram com a existência de um único acampamento de [Lambretas](../../Categorias/Lambretas.md). Assim, a [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) decidiu-se pela realização de um acampamento extraordinário no ano de 2008, que se realizou de 3 a 11 de Setembro.
 
-Realizou-se na Quinta da Mata (Ponte da Barca).
+Realizou-se na [Quinta da Mata (Ponte da Barca)](../../Restrito/Locais%20de%20Acampamento/Quinta%20da%20Mata%20%28Ponte%20da%20Barca%29.md).
 
 ### Animadores
 

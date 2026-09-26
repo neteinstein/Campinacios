@@ -12,7 +12,7 @@ last_editor: "Neteinstein"
 # OrienTu
 
 [🖼️ Logótipo do OrienTu](../../Wikin%C3%A1cios/Imagens/OrienTu.jpg.md)
-O OrienTu foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que decorreu entre 5 e 14 de Agosto na Murtinheira
+O OrienTu foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que decorreu entre 5 e 14 de Agosto na [Murtinheira](../../Restrito/Locais%20de%20Acampamento/Murtinheira%20%28Vila%20Nova%20do%20Ceira%29.md)
 
 Foi também o primeiro acampamento a promover um serão conjunto entre acampamentos de escalões diferentes, juntando-se na Murtinheira, ao OrienTu, o [Êxodo](%C3%8Axodo.md)!
 

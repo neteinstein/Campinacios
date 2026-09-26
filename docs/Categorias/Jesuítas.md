@@ -45,7 +45,6 @@ Jesuítas que animam ou animaram acampamentos de Campinácios
 ## Páginas que ligam para aqui
 
 - [Campinácios](../Movimento/Campin%C3%A1cios.md)
-- [Wikinácios](../index.md)
 
 ---
 

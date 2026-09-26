@@ -25,7 +25,6 @@ last_editor: "Tnbahia"
 - [Constância](../../Acampamentos/1991/Const%C3%A2ncia.md)
 - [Ferrugenta](../../Acampamentos/1989/Ferrugenta.md)
 - [Pedreira](../../Acampamentos/1989/Pedreira.md)
-- [Wikinácios](../../index.md)
 
 ---
 

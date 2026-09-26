@@ -30,7 +30,6 @@ Este acampamento organizado pelo CAIC na casa da Serra da Estrela, para os seus 
 - [Manuel Paiva](../../Pessoas/M/Manuel%20Paiva.md)
 - [Maria Manuel Urbano](../../Pessoas/M/Maria%20Manuel%20Urbano.md)
 - [Paula Ferrand](../../Pessoas/P/Paula%20Ferrand.md)
-- [Wikinácios](../../index.md)
 
 ---
 

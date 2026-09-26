@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Fragas de S.Simão 94
 
-Este acampamento de [Trotinetas](../../Categorias/Trotinetas.md) decorreu 19 a 28 de Julho de 1994 em Fragas de S. Simão (Figueiró dos Vinhos).
+Este acampamento de [Trotinetas](../../Categorias/Trotinetas.md) decorreu 19 a 28 de Julho de 1994 em [Fragas de S. Simão (Figueiró dos Vinhos)](../../Restrito/Locais%20de%20Acampamento/Fragas%20de%20S.%20Sim%C3%A3o%20%28Figueir%C3%B3%20dos%20Vinhos%29.md).
 
 ### Animadores
 

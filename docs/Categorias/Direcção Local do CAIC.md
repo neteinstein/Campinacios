@@ -178,7 +178,6 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [Paulo Duarte](../Pessoas/P/Paulo%20Duarte.md)
 - [Rita Simões](../Pessoas/R/Rita%20Sim%C3%B5es.md)
 - [Sérgio Carvalho](../Pessoas/S/S%C3%A9rgio%20Carvalho.md)
-- [Wikinácios](../index.md)
 
 ---
 

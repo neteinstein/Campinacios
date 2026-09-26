@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Tabuadelas II
 
-O Tabuadelas II foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que decorreu de 2 a 8 de Setembro na povoação de Tabuadelas (Vieira do Minho). Terminou mais cedo do que o previsto (11 de Setembro) devido à chuva.
+O Tabuadelas II foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que decorreu de 2 a 8 de Setembro na povoação de [Tabuadelas (Vieira do Minho)](../../Restrito/Locais%20de%20Acampamento/Tabuadelas%20%28Vieira%20do%20Minho%29.md). Terminou mais cedo do que o previsto (11 de Setembro) devido à chuva.
 
 ### Animadores
 

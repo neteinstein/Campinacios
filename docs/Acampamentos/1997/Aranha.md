@@ -11,7 +11,7 @@ last_editor: "Tnbahia"
 
 # Aranha
 
-O Aranha foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que decorreu de 3 a 12 de Agosto de 1997 na Quinta da Parada.
+O Aranha foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que decorreu de 3 a 12 de Agosto de 1997 na [Quinta da Parada](../../Restrito/Locais%20de%20Acampamento/Quinta%20da%20Parada%20%28Arcos%20de%20Valdevez%29.md).
 
 ### Animadores
 

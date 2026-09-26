@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Falésia
 
-Falésia foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que se realizou em Poço de Corga (Castanheira de Pêra).
+Falésia foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que se realizou em [Poço de Corga](../../Restrito/Locais%20de%20Acampamento/Po%C3%A7o%20de%20Corga%20%28Castanheira%20de%20P%C3%AAra%29.md) (Castanheira de Pêra).
 
 ### Animadores
 

@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Pimpolhos
 
-O Pimpolhos foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que decorreu na Sibana.
+O Pimpolhos foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que decorreu na [Sibana](../../Restrito/Locais%20de%20Acampamento/Sibana%20%28Vila%20Nova%20do%20Ceira%29.md).
 
 ### Animadores
 

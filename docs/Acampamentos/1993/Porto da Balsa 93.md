@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Porto da Balsa 93
 
-Este acampamento de Lambretas realizou-se em Porto da Balsa em 1993.
+Este acampamento de Lambretas realizou-se em [Porto da Balsa](../../Restrito/Locais%20de%20Acampamento/Porto%20da%20Balsa.md) em 1993.
 
 ### Animadores
 

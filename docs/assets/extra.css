@@ -65,3 +65,204 @@
   height: 9px;
   border-radius: 50%;
 }
+
+/* Home page: the layout and colours of the wiki's Página principal. */
+:root {
+  --wk-banner-bg: #f2f5fd;
+  --wk-banner-border: #c7d0f8;
+  --wk-box-bg: #ffffff;
+  --wk-box-border: #cedff2;
+  --wk-blue: #cedff2;
+  --wk-blue-border: #b1cdeb;
+  --wk-yellow: #f0f3cd;
+  --wk-yellow-border: #dddda4;
+  --wk-green: #cef2e8;
+  --wk-green-border: #8be0c9;
+  --wk-index-bg: #ccd5f4;
+  --wk-index-border: #778fe1;
+  --wk-rule: #aaaaaa;
+  --wk-head-fg: #000000;
+}
+
+[data-md-color-scheme="slate"] {
+  --wk-banner-bg: #1f2438;
+  --wk-banner-border: #3a4570;
+  --wk-box-bg: var(--md-default-bg-color);
+  --wk-box-border: #34405e;
+  --wk-blue: #253552;
+  --wk-blue-border: #3b5580;
+  --wk-yellow: #3a3a22;
+  --wk-yellow-border: #5c5c34;
+  --wk-green: #1f3b35;
+  --wk-green-border: #2f6b5c;
+  --wk-index-bg: #262e4d;
+  --wk-index-border: #4a5a9c;
+  --wk-rule: #555b6e;
+  --wk-head-fg: var(--md-default-fg-color);
+}
+
+.md-typeset .wk-title {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+.md-typeset .wk-top {
+  text-align: right;
+  font-size: 0.85em;
+  margin: 0 0 2px;
+}
+
+.md-typeset .wk-banner {
+  background: var(--wk-banner-bg);
+  border: 1px solid var(--wk-banner-border);
+  padding: 7px 10px 9px;
+  margin-bottom: 8px;
+  display: flow-root;
+  clear: both;  /* below the floating "edit" button */
+}
+
+.md-typeset .wk-count {
+  float: right;
+  font-size: 0.85em;
+  margin-left: 1em;
+}
+
+.md-typeset .wk-welcome {
+  font-size: 1.6em;
+  line-height: 1.3;
+}
+
+.md-typeset .wk-tagline {
+  padding: 2px 0 0 20px;
+  font-size: 0.9em;
+}
+
+.md-typeset .wk-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 3fr) minmax(0, 2fr);
+  gap: 8px;
+  align-items: start;
+}
+
+.md-typeset .wk-col {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  min-width: 0;
+}
+
+.md-typeset .wk-box {
+  background: var(--wk-box-bg);
+  border: 1px solid var(--wk-box-border);
+  border-radius: 10px;
+  padding: 5px 8px 2px;
+  font-size: 0.9em;
+}
+
+.md-typeset .wk-box > p,
+.md-typeset .wk-box > ul {
+  margin: 0.6em 0;
+}
+
+.md-typeset .wk-head {
+  border-radius: 10px;
+  padding: 2px 7px;
+  font-weight: 700;
+  border: 1px solid var(--wk-blue-border);
+  background: var(--wk-blue);
+  margin: 0 0 0.4em;
+  font-size: 1.05em;
+}
+
+.md-typeset .wk-head a {
+  color: var(--wk-head-fg);
+}
+
+.md-typeset .wk-yellow .wk-head {
+  background: var(--wk-yellow);
+  border-color: var(--wk-yellow-border);
+}
+
+.md-typeset .wk-green .wk-head {
+  background: var(--wk-green);
+  border-color: var(--wk-green-border);
+}
+
+.md-typeset .wk-more {
+  text-align: right;
+  margin: 0 0 0.6em;
+}
+
+.md-typeset .wk-index {
+  background: var(--wk-index-bg);
+  border: 1px solid var(--wk-index-border);
+  border-radius: 10px;
+  padding: 5px;
+  font-size: 0.85em;
+  line-height: 1.45;
+}
+
+.md-typeset .wk-section {
+  background: var(--wk-box-bg);
+  padding: 5px 8px 5px 5%;
+  border-bottom: 1px dashed var(--wk-rule);
+}
+
+.md-typeset .wk-section:first-child {
+  border-radius: 8px 8px 0 0;
+}
+
+.md-typeset .wk-section:last-child {
+  border-radius: 0 0 8px 8px;
+  border-bottom: 0;
+}
+
+@media screen and (max-width: 60em) {
+  .md-typeset .wk-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+/* Restricted pages (assets/restrito.js) */
+.md-typeset .wiki-restrito:not(.aberto) {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 6px;
+  padding: 0.2em 1em 1em;
+}
+
+.md-typeset .wiki-restrito-form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6em 1em;
+  align-items: center;
+}
+
+.md-typeset .wiki-restrito-form input[type="password"] {
+  font: inherit;
+  margin-left: 0.4em;
+  padding: 0.3em 0.5em;
+  border: 1px solid var(--md-default-fg-color--lighter);
+  border-radius: 4px;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+}
+
+.md-typeset .wiki-restrito-form .lembrar {
+  font-size: 0.9em;
+}
+
+.md-typeset .wiki-restrito-form .erro,
+.md-typeset .wiki-restrito > .erro {
+  flex-basis: 100%;
+  margin: 0;
+  color: #c62828;
+}
+
+.md-typeset .wiki-restrito-barra {
+  font-size: 0.8em;
+  color: var(--md-default-fg-color--light);
+}

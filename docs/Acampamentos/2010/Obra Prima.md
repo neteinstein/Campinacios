@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Obra Prima
 
-O 'Obra Prima' foi um campo de Formação que decorreu entre os dias 26 Julho e 1 de Agosto de 2010 em Vila da Ponte (Montalegre).
+O 'Obra Prima' foi um campo de Formação que decorreu entre os dias 26 Julho e 1 de Agosto de 2010 em [Vila da Ponte (Montalegre)](../../Restrito/Locais%20de%20Acampamento/Vila%20da%20Ponte%20%28Montalegre%29.md).
 
 ### Animadores
 

@@ -13,7 +13,7 @@ last_editor: "Neteinstein"
 
 # CAmpIC 91
 
-O CAmpIC foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que decorreu de 17 a 26 de Julho de 1991, em Alagoa (Arganil).
+O CAmpIC foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que decorreu de 17 a 26 de Julho de 1991, em [Alagoa](../../Restrito/Locais%20de%20Acampamento/Alagoa%20%28Arganil%29.md) (Arganil).
 
 ### Animadores
 

@@ -29,7 +29,6 @@ Maria Manuel Urbano foi uma das animadoras do Colégio da Imaculada Conceição.
 - [CAmpIC 89](../../Acampamentos/1989/CAmpIC%2089.md)
 - [Campinácios](../../Movimento/Campin%C3%A1cios.md)
 - [Camtil](../../Movimento/Camtil.md)
-- [Wikinácios](../../index.md)
 
 ---
 

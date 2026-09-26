@@ -18,4 +18,3 @@ P. [José Manuel Lopes](../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md) sj
 - [Campinácios](Campin%C3%A1cios.md)
 - [José Manuel Lopes](../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md)
 - [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)
-- [Wikinácios](../index.md)

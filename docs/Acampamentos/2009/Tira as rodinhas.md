@@ -11,7 +11,7 @@ last_editor: "Silvinha"
 
 # Tira as rodinhas
 
-O Tira as rodinhas decorreu entre os dias 22 e 31 de Agosto de 2009 em Digueifel (Arganil), sendo um acampamento de [Bicicletas](../../Categorias/Bicicletas.md).
+O Tira as rodinhas decorreu entre os dias 22 e 31 de Agosto de 2009 em [Digueifel (Arganil)](../../Restrito/Locais%20de%20Acampamento/Digueifel%20%28Arganil%29.md), sendo um acampamento de [Bicicletas](../../Categorias/Bicicletas.md).
 
 ### Animadores
 

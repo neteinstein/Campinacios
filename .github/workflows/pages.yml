@@ -23,7 +23,7 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
-      - run: mkdocs build
+      - run: mkdocs build --strict  # a broken link stops the deploy
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
@@ -35,5 +35,16 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      # With "Deploy from a branch", GitHub also runs its own Jekyll build of
+      # the repository, which replaces this site with a broken one.
+      - name: Confirmar que o GitHub Pages publica a partir desta Action
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          source=$(gh api "repos/$GITHUB_REPOSITORY/pages" --jq .build_type)
+          if [ "$source" != "workflow" ]; then
+            echo "::error title=GitHub Pages mal configurado::Em Settings → Pages → Build and deployment, mude Source para \"GitHub Actions\" e volte a correr esta Action. Com \"Deploy from a branch\" o GitHub publica uma versão Jekyll do repositório por cima deste site."
+            exit 1
+          fi
       - id: deployment
         uses: actions/deploy-pages@v4

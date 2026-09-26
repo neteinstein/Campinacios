@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Jangada
 
-O Jangada foi um acampamento de Triciclos que decorreu de 1 a 10 de Agosto de 2002 no Lugar do Barco (Refóios do Lima).
+O Jangada foi um acampamento de Triciclos que decorreu de 1 a 10 de Agosto de 2002 no [Lugar do Barco](../../Restrito/Locais%20de%20Acampamento/Lugar%20do%20Barco%20%28Ref%C3%B3ios%20do%20Lima%29.md) (Refóios do Lima).
 
 ### Animadores
 

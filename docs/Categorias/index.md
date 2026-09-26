@@ -53,9 +53,11 @@ As categorias da Wikinácios.
 - [Jesuítas](Jesu%C3%ADtas.md)
 - [Lambretas](Lambretas.md)
 - [Livros](Livros.md)
+- [Locais de Acampamento](Locais%20de%20Acampamento.md) 🔒
 - [Manuais](Manuais.md)
 - [Piadas](Piadas.md)
 - [Pré-Acampamentos](Pr%C3%A9-Acampamentos.md)
+- [Restrita](Restrita.md) 🔒
 - [Secretários da DN](Secret%C3%A1rios%20da%20DN.md)
 - [Triciclos](Triciclos.md)
 - [Trotinetas](Trotinetas.md)

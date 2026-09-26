@@ -14,4 +14,3 @@ Aluno dos Colégios da Companhia de Jesus que se inscreveu para participar num a
 ## Páginas que ligam para aqui
 
 - [Animador](Animador.md)
-- [Wikinácios](../index.md)

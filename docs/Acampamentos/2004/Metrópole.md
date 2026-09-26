@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Metrópole
 
-O Metrópole decorreu na Sibana de 24 de Julho a 2 de Agosto de 2004 e foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md).
+O Metrópole decorreu na [Sibana](../../Restrito/Locais%20de%20Acampamento/Sibana%20%28Vila%20Nova%20do%20Ceira%29.md) de 24 de Julho a 2 de Agosto de 2004 e foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md).
 
 ### Animadores
 

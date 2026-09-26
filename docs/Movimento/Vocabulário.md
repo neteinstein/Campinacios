@@ -22,10 +22,6 @@ Aqui se apresentam alguns termos utilizados num acampamento que são úteis à s
     - Zona de lavagens
     - Cozinha
 
-## Páginas que ligam para aqui
-
-- [Wikinácios](../index.md)
-
 ---
 
 **Categorias:** [História](../Categorias/Hist%C3%B3ria.md)

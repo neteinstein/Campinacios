@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Gaivota
 
-Este acampamento de [Bicicletas](../../Categorias/Bicicletas.md) realizou de 12 a 21 de Agosto de 2005 em Vila da Ponte (Montalegre).
+Este acampamento de [Bicicletas](../../Categorias/Bicicletas.md) realizou de 12 a 21 de Agosto de 2005 em [Vila da Ponte](../../Restrito/Locais%20de%20Acampamento/Vila%20da%20Ponte%20%28Montalegre%29.md) (Montalegre).
 
 ### Animadores
 

@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Fornelos
 
-O Fornelos foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que decorreu na Fornelos (Barragem da Caniçada) de 5 a 14 de Setembro de 1992.
+O Fornelos foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que decorreu na [Fornelos (Barragem da Caniçada)](../../Restrito/Locais%20de%20Acampamento/Fornelos%20%28Barragem%20da%20Cani%C3%A7ada%29.md) de 5 a 14 de Setembro de 1992.
 
 ### Animadores
 

@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Lambretas 94
 
-Este acampamento de [Lambretas](../../Categorias/Lambretas.md) decorreu de 27 de Julho a 5 de Agosto de 1994 em Vila Boa do Bispo (Marco de Canaveses).
+Este acampamento de [Lambretas](../../Categorias/Lambretas.md) decorreu de 27 de Julho a 5 de Agosto de 1994 em [Vila Boa do Bispo (Marco de Canaveses)](../../Restrito/Locais%20de%20Acampamento/Vila%20Boa%20do%20Bispo%20%28Marco%20de%20Canaveses%29.md).
 
 ### Animadores
 

@@ -19,7 +19,6 @@ last_editor: "Tnbahia"
 - [Campinácios](../../Movimento/Campin%C3%A1cios.md)
 - [Camtil](../../Movimento/Camtil.md)
 - [Ferrugenta](../../Acampamentos/1989/Ferrugenta.md)
-- [Wikinácios](../../index.md)
 
 ---
 

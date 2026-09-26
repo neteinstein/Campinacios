@@ -70,7 +70,6 @@ Acampamentos do escalão Trotinetas - Alunos do 7º e 8º anos de escolaridade
 - [Torneira](../Acampamentos/1997/Torneira.md)
 - [Trotinetas 93](../Acampamentos/1993/Trotinetas%2093.md)
 - [Wally](../Acampamentos/1994/Wally.md)
-- [Wikinácios](../index.md)
 
 ---
 

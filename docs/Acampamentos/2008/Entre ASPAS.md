@@ -12,7 +12,7 @@ last_editor: "Neteinstein"
 # Entre ASPAS
 
 Entre ASPAS significa: Entre Amigos Sempre Prontos a Amar e Servir.
-O Entre ASPAS decorreu entre os dias 5 a 14 de Agosto de 2008 na Quinta da Mata (Ponte da Barca), sendo um acampamento de [Triciclos](../../Categorias/Triciclos.md).
+O Entre ASPAS decorreu entre os dias 5 a 14 de Agosto de 2008 na [Quinta da Mata (Ponte da Barca)](../../Restrito/Locais%20de%20Acampamento/Quinta%20da%20Mata%20%28Ponte%20da%20Barca%29.md), sendo um acampamento de [Triciclos](../../Categorias/Triciclos.md).
 
 ### Animadores
 

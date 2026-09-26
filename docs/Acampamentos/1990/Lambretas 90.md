@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Lambretas 90
 
-Este acampamento de [Lambretas](../../Categorias/Lambretas.md) decorreu de 19 a 28 de Julho de 1990 em Fornelos (Barragem da Caniçada).
+Este acampamento de [Lambretas](../../Categorias/Lambretas.md) decorreu de 19 a 28 de Julho de 1990 em [Fornelos (Barragem da Caniçada)](../../Restrito/Locais%20de%20Acampamento/Fornelos%20%28Barragem%20da%20Cani%C3%A7ada%29.md).
 
 ### Animadores
 

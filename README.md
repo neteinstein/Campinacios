@@ -1,14 +1,12 @@
 # Wikinácios
 
-> Arquivo da **Wikinácios**, a wiki dos Campinácios (2009–2010), convertida para Markdown e publicada como site no GitHub Pages. Como foi feito e como o publicar: [Sobre este arquivo](docs/Wikin%C3%A1cios/Sobre%20este%20arquivo.md).
+> Arquivo da **Wikinácios**, a wiki dos Campinácios (2009–2010), convertida para Markdown e publicada como site em <https://neteinstein.github.io/Campinacios/>. Como foi feito, como o publicar e como ler as páginas restritas: [Sobre este arquivo](docs/Wikin%C3%A1cios/Sobre%20este%20arquivo.md).
 
-Bem-vindo(a) à **Wikinácios**, a enciclopédia livre sobre [Campinácios](docs/Movimento/Campin%C3%A1cios.md) que [(quase) todos podem editar](docs/Wikin%C3%A1cios/Ajuda/Conte%C3%BAdos.md).
+[Bem-vindo(a)](docs/Movimento/Boas-vindas.md) à **Wikinacios**, a enciclopédia livre sobre Campinácios que [(quase) todos podem editar](docs/Wikin%C3%A1cios/Ajuda/Conte%C3%BAdos.md).
 
-[Boas-vindas](docs/Movimento/Boas-vindas.md) &middot; [Ajuda](docs/Wikin%C3%A1cios/Ajuda/Conte%C3%BAdos.md) &middot; [Perguntas Frequentes](docs/Movimento/FAQ.md) &middot; [Contactos](docs/Movimento/Contactos.md)
+[Boas-vindas](docs/Movimento/Boas-vindas.md) | [Ajuda](docs/Wikin%C3%A1cios/Ajuda/Conte%C3%BAdos.md) | [Perguntas Frequentes](docs/Movimento/FAQ.md) | [Contactos](docs/Movimento/Contactos.md)
 
 ## Explorar
-
-616 artigos:
 
 - [Acampamentos, por ano](docs/Acampamentos/index.md)
 - [Pessoas, de A a Z](docs/Pessoas/index.md)
@@ -17,20 +15,23 @@ Bem-vindo(a) à **Wikinácios**, a enciclopédia livre sobre [Campinácios](docs
 - [Movimento](docs/Movimento/index.md)
 - [Categorias](docs/Categorias/index.md)
 - [Sobre a wiki](docs/Wikin%C3%A1cios/index.md)
+- [Todos os artigos](docs/Todos%20os%20artigos.md)
 - [Grafo de ligações](docs/Grafo.md)
 
 ## Secções
 
-- **[Campinácios](docs/Movimento/Campin%C3%A1cios.md)** — [História](docs/Movimento/Campin%C3%A1cios.md) &middot; [Cargos](docs/Categorias/Cargos.md) &middot; [Temas do Ano](docs/Movimento/Temas%20do%20Ano.md) &middot; Locais de Acampamento
+- **[Campinácios](docs/Movimento/Campin%C3%A1cios.md)** — [História](docs/Movimento/Campin%C3%A1cios.md) &middot; [Cargos](docs/Categorias/Cargos.md) &middot; [Temas do Ano](docs/Movimento/Temas%20do%20Ano.md) &middot; [Locais de Acampamento](docs/Categorias/Locais%20de%20Acampamento.md)
 - **[Acampamentos](docs/Categorias/Acampamentos.md)** — [Triciclos](docs/Categorias/Triciclos.md) &middot; [Trotinetas](docs/Categorias/Trotinetas.md) &middot; [Bicicletas](docs/Categorias/Bicicletas.md) &middot; [Lambretas](docs/Categorias/Lambretas.md) &middot; [Calhambeques](docs/Categorias/Calhambeques.md) &middot; [Formação de Animadores](docs/Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md)
 - **[Encontros](docs/Categorias/Encontros%20Nacionais.md)** — [Encontros Nacionais](docs/Categorias/Encontros%20Nacionais.md) &middot; [Encontros Nacionais de Animadores](docs/Categorias/Encontros%20Nacionais%20de%20Animadores.md)
 - **[Animadores](docs/Categorias/Animadores.md)** e **[Jesuítas](docs/Categorias/Jesu%C3%ADtas.md)** — [Animadores do CAIC](docs/Categorias/Animadores%20do%20CAIC.md) &middot; [Animadores do CC](docs/Categorias/Animadores%20do%20CC.md) &middot; [Animadores do CSJB](docs/Categorias/Animadores%20do%20CSJB.md)
 - **[Direcção Nacional](docs/Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)** — [Direcção Local do CAIC](docs/Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) &middot; [Direcção Local do CC](docs/Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) &middot; [Direcção Local do CSJB](docs/Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
+- **[Áreas Restrictas](docs/Restrito/%C3%81reas%20Restrictas.md)** — [Direcção Nacional](docs/Restrito/Restrito%20%C3%A0%20DN.md) &middot; [Directores](docs/Restrito/Restrito%20aos%20Directores.md) &middot; [Staff](docs/Movimento/Staff.md)
 - **[Amigos](docs/Movimento/Campin%C3%A1cios.md)** — [Camtil](docs/Movimento/Camtil.md) &middot; [Gambozinos](docs/Movimento/Gambozinos.md) &middot; [Florinhas](docs/Acampamentos/1994/Florinhas.md)
 - **[Vocabulário](docs/Movimento/Vocabul%C3%A1rio.md)** — [Animador](docs/Movimento/Animador.md) &middot; [Jesuíta](docs/Movimento/Jesu%C3%ADta.md) &middot; [Participante](docs/Movimento/Participante.md) &middot; [Cantinácio](docs/Movimento/Cantin%C3%A1cio.md) &middot; [Culinácio](docs/Movimento/Culin%C3%A1cio.md) &middot; [mais...](docs/Movimento/Vocabul%C3%A1rio.md)
-- **[Contactos](docs/Movimento/Contactos.md)** — [Direcção Nacional](docs/Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) &middot; [Direcção Local do CAIC](docs/Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) &middot; [Direcção Local do CC](docs/Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) &middot; [Direcção Local do CSJB](docs/Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) &middot; [Contactos dos Animadores](docs/Movimento/Contactos.md)
+- **[Contactos](docs/Movimento/Contactos.md)** — [Direcção Nacional](docs/Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) &middot; [Direcção Local do CAIC](docs/Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) &middot; [Direcção Local do CC](docs/Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) &middot; [Direcção Local do CSJB](docs/Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) &middot; [Contactos dos Animadores](docs/Movimento/Contactos.md)
 - **[Legislação](docs/Movimento/Legisla%C3%A7%C3%A3o.md)** — [Legislação de Acampamentos Ocasionais](docs/Movimento/Legisla%C3%A7%C3%A3o.md)
 - **[Staff](docs/Movimento/Staff.md)** — [Edu](docs/Pessoas/A/Ant%C3%B3nio%20Queiroz%20Martins.md) &middot; [Filipe Barroso](docs/Pessoas/F/Filipe%20Barroso.md) &middot; [Pedro Vicente](docs/Pessoas/P/Pedro%20Vicente.md) &middot; [Sílvia Lobo](docs/Pessoas/S/S%C3%ADlvia%20Lobo.md) &middot;[Tiago Bahia](docs/Pessoas/T/Tiago%20Bahia.md)
+- **[Todos os artigos](docs/Todos%20os%20artigos.md)**
 
 ## Como tudo começou...
 

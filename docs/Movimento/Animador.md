@@ -136,4 +136,3 @@ Tem que haver uma diversidade e complementação dos vários membros da família
 ## Páginas que ligam para aqui
 
 - [Vocabulário](Vocabul%C3%A1rio.md)
-- [Wikinácios](../index.md)

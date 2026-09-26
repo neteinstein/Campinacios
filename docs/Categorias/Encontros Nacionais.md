@@ -19,7 +19,3 @@ Encontros Nacionais
 - [Encontro Nacional de 2008](../Encontros/Encontro%20Nacional%20de%202008.md)
 - [Encontro de Lambretas 94](../Encontros/Encontro%20de%20Lambretas%2094.md)
 - [Encontrão](../Encontros/Encontr%C3%A3o.md)
-
-## Páginas que ligam para aqui
-
-- [Wikinácios](../index.md)

@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Caldiclos
 
-Este acampamento de [Triciclos](../../Categorias/Triciclos.md) decorreu de 12 a 21 de Agosto de 1994 em Fonte de Nena (Caldelas).
+Este acampamento de [Triciclos](../../Categorias/Triciclos.md) decorreu de 12 a 21 de Agosto de 1994 em [Fonte de Nena](../../Restrito/Locais%20de%20Acampamento/Fonte%20de%20Nena%20%28Caldelas%29.md) (Caldelas).
 
 ### Animadores
 

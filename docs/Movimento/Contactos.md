@@ -81,7 +81,3 @@ Telef.: 217 519 000
 Fax: 217 599 835
 
 URL: http://www.csjb.pt
-
-## Páginas que ligam para aqui
-
-- [Wikinácios](../index.md)

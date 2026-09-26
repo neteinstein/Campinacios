@@ -162,7 +162,6 @@ last_editor: "Neteinstein"
 - [Waaassuuup](../Acampamentos/2001/Waaassuuup.md)
 - [Walkabout](../Acampamentos/2010/Walkabout.md)
 - [Wally](../Acampamentos/1994/Wally.md)
-- [Wikinácios](../index.md)
 - [Xii Tava Kuase Lá...!](../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md)
 - [Ídolo](../Acampamentos/2004/%C3%8Ddolo.md)
 

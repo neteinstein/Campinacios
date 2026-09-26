@@ -13,7 +13,7 @@ last_editor: "Neteinstein"
 
 # Alfa
 
-O Alfa foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que decorreu em Caldas de S. Paulo.
+O Alfa foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que decorreu em [Caldas de S. Paulo](../../Restrito/Locais%20de%20Acampamento/Caldas%20de%20S.%20Paulo%20%28Oliveira%20do%20Hospital%29.md).
 
 ### Animadores
 

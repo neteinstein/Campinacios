@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Em Busca da CaraBela
 
-Este acampamento decorreu de 25 de Julho a 3 de Agosto de 2006 em Vila da Ponte (Montalegre).
+Este acampamento decorreu de 25 de Julho a 3 de Agosto de 2006 em [Vila da Ponte](../../Restrito/Locais%20de%20Acampamento/Vila%20da%20Ponte%20%28Montalegre%29.md) (Montalegre).
 
 ### Animadores
 

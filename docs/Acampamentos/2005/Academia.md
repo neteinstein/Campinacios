@@ -11,7 +11,7 @@ last_editor: "Tnbahia"
 
 # Academia
 
-Academia foi um acampamento de Triciclos que se realizou em Digueifel
+Academia foi um acampamento de Triciclos que se realizou em [Digueifel](../../Restrito/Locais%20de%20Acampamento/Digueifel%20%28Arganil%29.md)
 
 ### Animadores
 

@@ -11,7 +11,7 @@ last_editor: "Neteinstein"
 
 # Trotinetas 93
 
-Este acampamento de [Trotinetas](../../Categorias/Trotinetas.md) decorreu de 20 a 29 de Julho de 1993 na Barragem de Santa Clara.
+Este acampamento de [Trotinetas](../../Categorias/Trotinetas.md) decorreu de 20 a 29 de Julho de 1993 na [Barragem de Santa Clara](../../Restrito/Locais%20de%20Acampamento/Barragem%20de%20Santa%20Clara.md).
 
 ### Animadores
 

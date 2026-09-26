@@ -36,7 +36,6 @@ last_editor: "Neteinstein"
 - [Florinhas](../../Acampamentos/1994/Florinhas.md)
 - [Francisco Costa Macedo](../F/Francisco%20Costa%20Macedo.md)
 - [Pedreira](../../Acampamentos/1989/Pedreira.md)
-- [Wikinácios](../../index.md)
 
 ---
 
