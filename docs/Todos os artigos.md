@@ -1,6 +1,6 @@
 # Todos os artigos
 
-657 artigos e, em itálico, os 112 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+656 artigos e, em itálico, os 112 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -749,7 +749,6 @@
 - [Sofia Azevedo Cardoso](Pessoas/S/Sofia%20Azevedo%20Cardoso.md)
 - [Sofia Fonseca](Pessoas/S/Sofia%20Fonseca.md)
 - [Soraia Ramos](Pessoas/S/Soraia%20Ramos.md)
-- [Staff](Movimento/Staff.md)
 - *Sugo* → [Hugo Rafael Ferreira](Pessoas/H/Hugo%20Rafael%20Ferreira.md)
 - [Surpresa](Acampamentos/2001/Surpresa.md)
 - [Survivor](Acampamentos/2009/Survivor.md)

@@ -36,7 +36,7 @@ Não se toleram alterações persistentes de 2 utilizadores no mesmo artigo, ima
 Estamos numa ditadura, as imposições feitas pelos administradores deste sítio são lei.
 
 **5. Quem manda?**<br>
-Ver [Staff](../../Movimento/Staff.md)
+O Staff: [Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md) e [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md).
 
 ## Como adicionar conteúdo?
 
@@ -49,7 +49,7 @@ dentro da pasta `docs/`, e o site actualiza-se sozinho um ou dois minutos
 depois de cada alteração entrar no ramo `main`.
 
 Para editar é preciso uma conta no GitHub, que é gratuita. Quem tem
-permissão de escrita no repositório (o [Staff](../../Movimento/Staff.md))
+permissão de escrita no repositório (o Staff: [Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md) e [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md))
 grava as alterações directamente. Os outros fazem uma proposta de alteração
 (*pull request*) que o Staff revê e aceita: as regras acima continuam a
 valer.
