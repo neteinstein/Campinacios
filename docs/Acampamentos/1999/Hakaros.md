@@ -5,6 +5,7 @@ O Hakaros foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Cristovão Andrade](../../Pessoas/C/Cristov%C3%A3o%20Andrade.md)
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - Tiago Brandão Rodrigues
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Domingos Freitas](../../Pessoas/D/Domingos%20Freitas.md) sj
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - João Ruela Branco, [Pedro Pessoa](../../Pessoas/P/Pedro%20Pessoa.md), Raquel Mesquita, [Maria Margarida Sancho](../../Pessoas/M/Maria%20Margarida%20Sancho.md)
 
