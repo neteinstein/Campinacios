@@ -14,6 +14,7 @@
 
 ## Páginas que ligam para aqui
 
+- [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
 - [Incrível](../../Acampamentos/2009/Incr%C3%ADvel.md)
 - [Rita Fonseca](../R/Rita%20Fonseca.md)
 - [Walkabout](../../Acampamentos/2010/Walkabout.md)

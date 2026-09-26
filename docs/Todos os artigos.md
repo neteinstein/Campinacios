@@ -1,6 +1,6 @@
 # Todos os artigos
 
-659 artigos e, em itálico, os 114 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+659 artigos e, em itálico, os 116 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -565,6 +565,7 @@
 - [Márcio Ricardo](Pessoas/M/M%C3%A1rcio%20Ricardo.md)
 - [Mário Carvalho](Pessoas/M/M%C3%A1rio%20Carvalho.md)
 - [Mário Magalhães](Pessoas/M/M%C3%A1rio%20Magalh%C3%A3es.md)
+- *Mário Pedro* → [Mário Carvalho](Pessoas/M/M%C3%A1rio%20Carvalho.md)
 - [Megafona](Acampamentos/2005/Megafona.md)
 - [Metrópole](Acampamentos/2004/Metr%C3%B3pole.md)
 - *Mi* → [Fernando Miguel Guimarães](Pessoas/F/Fernando%20Miguel%20Guimar%C3%A3es.md)
@@ -753,6 +754,7 @@
 - [Sofia Amaral](Pessoas/S/Sofia%20Amaral.md)
 - [Sofia Azevedo Cardoso](Pessoas/S/Sofia%20Azevedo%20Cardoso.md)
 - [Sofia Fonseca](Pessoas/S/Sofia%20Fonseca.md)
+- *Sofia Pinelas* → [Ana Sofia Pinelas](Pessoas/A/Ana%20Sofia%20Pinelas.md)
 - [Soraia Ramos](Pessoas/S/Soraia%20Ramos.md)
 - *Sugo* → [Hugo Rafael Ferreira](Pessoas/H/Hugo%20Rafael%20Ferreira.md)
 - [Surpresa](Acampamentos/2001/Surpresa.md)
