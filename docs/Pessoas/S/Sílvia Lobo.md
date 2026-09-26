@@ -21,6 +21,7 @@ Frequentou o [CC](../../Movimento/CC.md) de 1994 a 2008. Animadora desde 2008 at
 
 ## Páginas que ligam para aqui
 
+- [Contribuidores](../../Wikin%C3%A1cios/Contribuidores.md)
 - [Obra Prima](../../Acampamentos/2010/Obra%20Prima.md)
 - [Tira as rodinhas](../../Acampamentos/2009/Tira%20as%20rodinhas.md)
 
