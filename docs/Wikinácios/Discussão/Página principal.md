@@ -1,6 +1,6 @@
 # Página principal
 
-[ToDo](../../Restrito/ToDo.md)
+ToDo
 
 Done:
 

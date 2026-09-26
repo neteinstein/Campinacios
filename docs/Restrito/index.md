@@ -4,7 +4,4 @@ Páginas que na wiki eram de acesso restrito (Direcção Nacional e Directores).
 
 - [Locais de Acampamento](Locais%20de%20Acampamento/index.md) (37)
 
-- [Restrito aos Directores](Restrito%20aos%20Directores.md) 🔒
-- [Restrito à DN](Restrito%20%C3%A0%20DN.md) 🔒
-- [ToDo](ToDo.md) 🔒
 - [Áreas Restrictas](%C3%81reas%20Restrictas.md)

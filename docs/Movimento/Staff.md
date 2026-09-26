@@ -11,7 +11,7 @@ Tal como na Wikipédia, que nos inspirou, toda a gente pode modificar este síti
 
 ## Área Restrita
 
-[ToDo](../Restrito/ToDo.md)
+ToDo
 
 ## Páginas que ligam para aqui
 

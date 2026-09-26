@@ -148,8 +148,14 @@ CATEGORY_NS, IMAGE_NS, TEMPLATE_NS = 14, 6, 10
 # pages hold directions and private phone numbers of land owners); they are
 # published encrypted.
 PRIVATE_CATEGORIES = {'Restrita', 'Locais de Acampamento'}
-# MediaWiki's own "successfully installed" page, never part of the wiki.
-SKIP_PAGES = {(0, 'Main Page')}
+# MediaWiki's own "successfully installed" page, never part of the wiki, and
+# the 2009 to-do notes of the site's staff.
+SKIP_PAGES = {(0, 'Main Page'), (0, 'ToDo')}
+# Pages whose only content was a link to the camp sites: links to them go
+# straight there.
+RETIRED_PAGES = {(0, 'Restrito à DN'): (CATEGORY_NS, 'Locais de Acampamento'),
+                 (0, 'Restrito aos Directores'):
+                     (CATEGORY_NS, 'Locais de Acampamento')}
 # [[Especial:...]] pages that have a counterpart on the site.
 SPECIAL_PAGES = {'allpages': 'todos', 'newpages': 'todos',
                  'whatlinkshere': 'backlinks'}
@@ -243,7 +249,10 @@ tentar adivinhá-la sem limite, por isso deve ser longa e aleatória.
 - Contas de utilizador, palavras-passe, registos, páginas apagadas e o
   histórico de revisões, incluindo o autor e a data da última edição de
   cada página.
-- A página "Main Page", que era a página de instalação do MediaWiki.
+- A página "Main Page", que era a página de instalação do MediaWiki, e as
+  páginas restritas *ToDo* (notas internas do Staff, de 2009), *Restrito à
+  DN* e *Restrito aos Directores* (só tinham uma ligação para os locais de
+  acampamento, para onde as ligações a elas apontam agora).
 - As imagens: o backup só tem a base de dados, por isso as páginas das
   imagens mostram apenas a descrição e os dados do ficheiro original.
 
@@ -998,6 +1007,8 @@ def main(dump, root='.', password=None):
         m = re.match(r'\s*#REDIRECT\s*\[\[([^\]|]+)', p['text'], flags=re.I)
         if p['redirect'] and m:
             redirects[key] = parse_target(m.group(1).lstrip(':'))
+    for key, target in RETIRED_PAGES.items():
+        redirects[key] = (*target, '')
 
     def resolve(ns, title, anchor=''):
         seen = set()

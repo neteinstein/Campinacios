@@ -3,7 +3,7 @@
 <div class="wk-top" markdown="span">[Boas-vindas](Movimento/Boas-vindas.md) | [Ajuda](Wikin%C3%A1cios/Ajuda/Conte%C3%BAdos.md) | [Perguntas Frequentes](Movimento/FAQ.md) | [Contactos](Movimento/Contactos.md)</div>
 
 <div class="wk-banner" markdown>
-<div class="wk-count" markdown="span">**[657 artigos](Todos%20os%20artigos.md)**</div>
+<div class="wk-count" markdown="span">**[654 artigos](Todos%20os%20artigos.md)**</div>
 <div class="wk-welcome" markdown="span">[Bem-vindo(a)](Movimento/Boas-vindas.md) à **Wikinacios**,</div>
 <div class="wk-tagline" markdown="span">a enciclopédia livre sobre Campinácios que [(quase) todos podem editar](Wikin%C3%A1cios/Ajuda/Conte%C3%BAdos.md).</div>
 </div>
@@ -58,7 +58,7 @@ Ainda neste ano de 1989, no mês de Setembro, realizou-se o [Pedreira](Acampamen
 <div class="wk-section" markdown="span">**[Encontros](Categorias/Encontros%20Nacionais.md)**<br>[Encontros Nacionais](Categorias/Encontros%20Nacionais.md) &middot; [Encontros Nacionais de Animadores](Categorias/Encontros%20Nacionais%20de%20Animadores.md)</div>
 <div class="wk-section" markdown="span">**[Animadores](Categorias/Animadores.md)** e **[Jesuítas](Categorias/Jesu%C3%ADtas.md)**<br>[Animadores do CAIC](Categorias/Animadores%20do%20CAIC.md) &middot; [Animadores do CC](Categorias/Animadores%20do%20CC.md) &middot; [Animadores do CSJB](Categorias/Animadores%20do%20CSJB.md)</div>
 <div class="wk-section" markdown="span">**[Direcção Nacional](Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)**<br>[Direcção Local do CAIC](Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) &middot; [Direcção Local do CC](Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) &middot; [Direcção Local do CSJB](Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)</div>
-<div class="wk-section" markdown="span">**[Áreas Restrictas](Restrito/%C3%81reas%20Restrictas.md)**<br>[Direcção Nacional](Restrito/Restrito%20%C3%A0%20DN.md) &middot; [Directores](Restrito/Restrito%20aos%20Directores.md) &middot; [Staff](Movimento/Staff.md)</div>
+<div class="wk-section" markdown="span">**[Áreas Restrictas](Restrito/%C3%81reas%20Restrictas.md)**<br>[Direcção Nacional](Categorias/Locais%20de%20Acampamento.md) &middot; [Directores](Categorias/Locais%20de%20Acampamento.md) &middot; [Staff](Movimento/Staff.md)</div>
 <div class="wk-section" markdown="span">**[Amigos](Movimento/Campin%C3%A1cios.md)**<br>[Camtil](Movimento/Camtil.md) &middot; [Gambozinos](Movimento/Gambozinos.md) &middot; [Florinhas](Acampamentos/1994/Florinhas.md)</div>
 <div class="wk-section" markdown="span">**[Vocabulário](Movimento/Vocabul%C3%A1rio.md)**<br>[Animador](Movimento/Animador.md) &middot; [Jesuíta](Movimento/Jesu%C3%ADta.md) &middot; [Participante](Movimento/Participante.md) &middot; [Cantinácio](Movimento/Cantin%C3%A1cio.md) &middot; [Culinácio](Movimento/Culin%C3%A1cio.md) &middot; [mais...](Movimento/Vocabul%C3%A1rio.md)</div>
 <div class="wk-section" markdown="span">**[Contactos](Movimento/Contactos.md)**<br>[Direcção Nacional](Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) &middot; [Direcção Local do CAIC](Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) &middot; [Direcção Local do CC](Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) &middot; [Direcção Local do CSJB](Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) &middot; [Contactos dos Animadores](Movimento/Contactos.md)</div>
