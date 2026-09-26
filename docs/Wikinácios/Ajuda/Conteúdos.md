@@ -36,11 +36,11 @@ Não se toleram alterações persistentes de 2 utilizadores no mesmo artigo, ima
 Estamos numa ditadura, as imposições feitas pelos administradores deste sítio são lei.
 
 **5. Quem manda?**<br>
-O Staff: [Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md) e [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md).
+Os [Contribuidores](../Contribuidores.md): [Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md) e [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md).
 
 ## Como adicionar conteúdo?
 
-Não tem conta no GitHub, ou prefere não mexer nos ficheiros? [Envie a informação](Enviar%20informa%C3%A7%C3%A3o.md) por um formulário ou por um modelo de texto, e o Staff põe-na no site.
+Não tem conta no GitHub, ou prefere não mexer nos ficheiros? [Envie a informação](Enviar%20informa%C3%A7%C3%A3o.md) por um formulário ou por um modelo de texto, e os [Contribuidores](../Contribuidores.md) põem-na no site.
 
 A Wikinácios já não corre em MediaWiki: é um site feito a partir dos
 ficheiros do repositório
@@ -51,9 +51,9 @@ dentro da pasta `docs/`, e o site actualiza-se sozinho um ou dois minutos
 depois de cada alteração entrar no ramo `main`.
 
 Para editar é preciso uma conta no GitHub, que é gratuita. Quem tem
-permissão de escrita no repositório (o Staff: [Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md) e [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md))
+permissão de escrita no repositório (os [Contribuidores](../Contribuidores.md): [Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md) e [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md))
 grava as alterações directamente. Os outros fazem uma proposta de alteração
-(*pull request*) que o Staff revê e aceita: as regras acima continuam a
+(*pull request*) que os Contribuidores revêem e aceitam: as regras acima continuam a
 valer.
 
 ### Como se edita um artigo?

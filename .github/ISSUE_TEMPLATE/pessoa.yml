@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Obrigado por ajudar a guardar a história dos Campinácios! Preencha o que souber e deixe o resto em branco: o Staff trata de o pôr no site.
+        Obrigado por ajudar a guardar a história dos Campinácios! Preencha o que souber e deixe o resto em branco: os Contribuidores tratam de o pôr no site.
 
         **Este pedido e a página ficam públicos.** Só envie informação sobre outra pessoa se ela concordar, e não escreva contactos (telefone, e-mail, morada).
   - type: dropdown

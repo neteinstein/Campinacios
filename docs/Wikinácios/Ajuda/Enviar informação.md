@@ -1,8 +1,8 @@
 # Enviar informação
 
 Sabe alguma coisa sobre um acampamento ou uma pessoa que falta na
-Wikinácios, ou que está errada? Envie-a por um destes modelos e o Staff
-põe-na no site. Preencha só o que souber.
+Wikinácios, ou que está errada? Envie-a por um destes modelos e os
+[Contribuidores](../Contribuidores.md) põem-na no site. Preencha só o que souber.
 
 ## Com conta no GitHub
 
@@ -19,7 +19,7 @@ outra pessoa se ela concordar.
 
 ## Sem conta no GitHub
 
-Copie o modelo, preencha o que souber e envie-o a alguém do Staff:
+Copie o modelo, preencha o que souber e envie-o a alguém dos [Contribuidores](../Contribuidores.md):
 [Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md) ou
 [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md).
 
