@@ -82,6 +82,7 @@ Respondendo à pergunta inicial… ganhei tudo… o que é importante pelo menos
 
 - [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
 - [Caminho](../../Acampamentos/2009/Caminho.md)
+- [Campinácios](../../Movimento/Campin%C3%A1cios.md)
 - [Conteúdos](../../Wikin%C3%A1cios/Ajuda/Conte%C3%BAdos.md)
 - [Contribuidores](../../Wikin%C3%A1cios/Contribuidores.md)
 - [Encontro Nacional de 2007](../../Encontros/Encontro%20Nacional%20de%202007.md)
