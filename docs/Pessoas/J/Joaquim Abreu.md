@@ -20,6 +20,7 @@ Joaquim Alfredo Matos Abreu, nascido a 21 de Maio de 1984, é animador do CC.
 ## Páginas que ligam para aqui
 
 - [Baza](../../Acampamentos/2007/Baza.md)
+- [Contribuidores](../../Wikin%C3%A1cios/Contribuidores.md)
 - [Falésia](../../Acampamentos/2005/Fal%C3%A9sia.md)
 - [OrienTu](../../Acampamentos/2008/OrienTu.md)
 - [Origami](../../Acampamentos/2006/Origami.md)
