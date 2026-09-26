@@ -8,7 +8,7 @@ Páginas sobre a própria wiki: ajuda, políticas, predefinições e discussões
 
 - [Ajuda](Ajuda/index.md) (1)
 - [Discussão](Discuss%C3%A3o/index.md) (1)
-- [Predefinições](Predefini%C3%A7%C3%B5es/index.md) (4)
+- [Predefinições](Predefini%C3%A7%C3%B5es/index.md) (1)
 
 - [Apoio](Apoio.md)
 - [Contribuidores](Contribuidores.md)

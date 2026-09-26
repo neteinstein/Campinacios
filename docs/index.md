@@ -12,7 +12,7 @@
 <div class="wk-col" markdown>
 
 <div class="wk-box wk-blue" markdown>
-<div class="wk-head" markdown="span">[Como tudo começou...](Wikin%C3%A1cios/Predefini%C3%A7%C3%B5es/Em%20destaque.md)</div>
+<div class="wk-head" markdown="span">Como tudo começou...</div>
 
 Os CAMPINÁCIOS são um movimento de acampamentos de férias estreitamente ligado à Companhia de Jesus mas, especificamente integrado na vida pastoral dos seus três colégios existentes em Portugal: Colégio das Caldinhas ([CC](Movimento/CC.md))*, Colégio S. João de Brito ([CSJB](Movimento/CSJB.md)) e Colégio da Imaculada Conceição ([CAIC](Movimento/CAIC.md)).
 
@@ -30,7 +30,7 @@ Ainda neste ano de 1989, no mês de Setembro, realizou-se o [Pedreira](Acampamen
 </div>
 
 <div class="wk-box wk-yellow" markdown>
-<div class="wk-head" markdown="span">[Sabia que..](Wikin%C3%A1cios/Predefini%C3%A7%C3%B5es/Sabia%20que.md)</div>
+<div class="wk-head" markdown="span">Sabia que...</div>
 
 - ... **[Lourenço Eiró](Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj**, já animava em 1989?
 - ... **[São Martinho](Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)** é a animadora com mais acampamentos como [Mamã](Cargos/Mam%C3%A3.md)?
@@ -44,7 +44,7 @@ Ainda neste ano de 1989, no mês de Setembro, realizou-se o [Pedreira](Acampamen
 <div class="wk-col" markdown>
 
 <div class="wk-box wk-green" markdown>
-<div class="wk-head" markdown="span">[Eventos recentes](Wikin%C3%A1cios/Predefini%C3%A7%C3%B5es/Eventos%20actuais.md)</div>
+<div class="wk-head" markdown="span">Eventos recentes</div>
 
 - **6 de Janeiro de 2009**<br>Inicia-se a [Revolução Campinácios v2.0](Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md) com nova página e o início da Wikinácios!
 - **25 de Novembro de 2009**<br>É oficialmente divulgada a Wikinácios com 630 artigos, sendo a primeira das grandes mudanças da Revolução a ser divulgada!
