@@ -7,7 +7,7 @@
     - 1990 [Alfa](../../Acampamentos/1990/Alfa.md)
     - 1993 [Ermal](../../Acampamentos/1993/Ermal.md)
     - 1995 [Lambretas 95](../../Acampamentos/1995/Lambretas%2095.md)
-    - 1996 Piolheira
+    - 1996 [Piolheira](../../Acampamentos/1996/Piolheira.md)
 - **Animador**
     - 1997 [Torneira](../../Acampamentos/1997/Torneira.md)
     - 1998 [Canja](../../Acampamentos/1998/Canja.md)
@@ -15,6 +15,7 @@
 ## Páginas que ligam para aqui
 
 - [Canja](../../Acampamentos/1998/Canja.md)
+- [Piolheira](../../Acampamentos/1996/Piolheira.md)
 
 ---
 

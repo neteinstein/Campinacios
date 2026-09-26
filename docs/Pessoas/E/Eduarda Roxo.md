@@ -1,0 +1,18 @@
+# Eduarda Roxo
+
+### Acampamentos
+
+- **Animador(a):**
+    - 2021 [Superfishie](../../Acampamentos/2021/Superfishie.md) - [Director](../../Cargos/Director.md)
+    - 2023 [CRUZZ](../../Acampamentos/2023/CRUZZ.md) - [Director](../../Cargos/Director.md)
+
+## Páginas que ligam para aqui
+
+- [CRUZZ](../../Acampamentos/2023/CRUZZ.md)
+- [Superfishie](../../Acampamentos/2021/Superfishie.md)
+
+---
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |

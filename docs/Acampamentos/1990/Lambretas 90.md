@@ -4,8 +4,12 @@ Este acampamento de [Lambretas](../../Categorias/Lambretas.md) decorreu de 19 a 
 
 ### Animadores
 
-- [Director](../../Cargos/Director.md) - José Murteira sj
+- [Director](../../Cargos/Director.md) - [José Murteira](../../Pessoas/J/Jos%C3%A9%20Murteira.md) sj
 - [Tia](../../Cargos/Tio.md) - Manuela Santos Silva
+
+## Páginas que ligam para aqui
+
+- [José Murteira](../../Pessoas/J/Jos%C3%A9%20Murteira.md)
 
 ---
 

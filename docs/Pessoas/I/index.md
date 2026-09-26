@@ -9,6 +9,7 @@
 - [Inês Serra Ferreira](In%C3%AAs%20Serra%20Ferreira.md)
 - [Inês Turras](In%C3%AAs%20Turras.md)
 - [Irina Ramos](Irina%20Ramos.md)
+- [Isabel Fonseca](Isabel%20Fonseca.md)
 - [Isabel Girão](Isabel%20Gir%C3%A3o.md)
 - [Isabel Neves](Isabel%20Neves.md)
 - [Isabel Reis](Isabel%20Reis.md)

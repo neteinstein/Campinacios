@@ -1,0 +1,16 @@
+# Manas Vasconcelos
+
+### Acampamentos
+
+- **Animador(a):**
+    - 2024 [Barracada](../../Acampamentos/2024/Barracada.md) - [Director](../../Cargos/Director.md)
+
+## Páginas que ligam para aqui
+
+- [Barracada](../../Acampamentos/2024/Barracada.md)
+
+---
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |

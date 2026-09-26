@@ -24,6 +24,7 @@ Filipe Próspero, é desde 2005 um dos animadores do Colégio São João de Brit
     - 2008 [OrienTu](../../Acampamentos/2008/OrienTu.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2009 [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md) - [Director](../../Cargos/Director.md)
     - 2011 [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
+    - 2012 [Nheca Nheca no Macacão](../../Acampamentos/2012/Nheca%20Nheca%20no%20Macac%C3%A3o.md) - [Director](../../Cargos/Director.md)
 
 ### Cantinácio
 
@@ -44,6 +45,7 @@ Foi um dos gestores da página dos Campinácios de 2007 a 2009.
 - [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md)
 - [Inês Próspero](../I/In%C3%AAs%20Pr%C3%B3spero.md)
 - [Long Tao](../../Acampamentos/2006/Long%20Tao.md)
+- [Nheca Nheca no Macacão](../../Acampamentos/2012/Nheca%20Nheca%20no%20Macac%C3%A3o.md)
 - [OrienTu](../../Acampamentos/2008/OrienTu.md)
 
 ---

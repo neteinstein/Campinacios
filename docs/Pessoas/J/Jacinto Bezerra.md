@@ -10,7 +10,7 @@ Jacinto Bezerra, é animador do CC desde 2003.
 
 - **Participante**
     - 1996 [Caldelas](../../Acampamentos/1996/Caldelas.md)
-    - 1997 Alvoco
+    - 1997 [Alvoco](../../Acampamentos/1997/Alvoco%2097.md)
     - 1999 [Caroço](../../Acampamentos/1999/Caro%C3%A7o.md)
     - 2000 [Tranquilo](../../Acampamentos/2000/Tranquilo.md)
     - 2002 [Projecto Canguru](../../Acampamentos/2002/Projecto%20Canguru.md)
@@ -27,6 +27,7 @@ Jacinto Bezerra, é animador do CC desde 2003.
 
 ## Páginas que ligam para aqui
 
+- [Alvoco 97](../../Acampamentos/1997/Alvoco%2097.md)
 - [Bike Just Do It](../../Acampamentos/2008/Bike%20Just%20Do%20It.md)
 - [Descola](../../Acampamentos/2004/Descola.md)
 - [Fófinhos](../../Acampamentos/2005/F%C3%B3finhos.md)
