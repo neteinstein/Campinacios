@@ -29,6 +29,9 @@ Tiago Neves Bahia, nascido a 6 de Março de 1987, é animador do CC desde 2005.
     - 2008 [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2009 [Survivor](../../Acampamentos/2009/Survivor.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2010 [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md) - [Director](../../Cargos/Director.md)
+    - 2011 [Olha, Isto Aqui é uma Estátua](../../Acampamentos/2011/Olha%2C%20Isto%20Aqui%20%C3%A9%20uma%20Est%C3%A1tua.md) - [Director](../../Cargos/Director.md)
+    - 2012 [Limpopolus](../../Acampamentos/2012/Limpopolus.md) - [Director](../../Cargos/Director.md)
+    - 2015 [Someonelfie](../../Acampamentos/2015/Someonelfie.md) - [Director](../../Cargos/Director.md)
 
 ## Páginas que ligam para aqui
 
@@ -37,10 +40,13 @@ Tiago Neves Bahia, nascido a 6 de Março de 1987, é animador do CC desde 2005.
 - [Contribuidores](../../Wikin%C3%A1cios/Contribuidores.md)
 - [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md)
 - [Enviar informação](../../Wikin%C3%A1cios/Ajuda/Enviar%20informa%C3%A7%C3%A3o.md)
+- [Limpopolus](../../Acampamentos/2012/Limpopolus.md)
 - [Long Tao](../../Acampamentos/2006/Long%20Tao.md)
 - [Manual do Director](../../Movimento/Manual%20do%20Director.md)
+- [Olha, Isto Aqui é uma Estátua](../../Acampamentos/2011/Olha%2C%20Isto%20Aqui%20%C3%A9%20uma%20Est%C3%A1tua.md)
 - [Protected page guidelines](../../Wikin%C3%A1cios/Protected%20page%20guidelines.md)
 - [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
+- [Someonelfie](../../Acampamentos/2015/Someonelfie.md)
 - [Survivor](../../Acampamentos/2009/Survivor.md)
 - [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md)
 

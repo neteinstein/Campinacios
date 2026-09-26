@@ -19,6 +19,7 @@ Também conhecido por Zebra
     - 2006 [Nómada](../../Acampamentos/2006/N%C3%B3mada.md) - [Director](../../Cargos/Director.md)
     - 2008 [Eureka](../../Acampamentos/2008/Eureka.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2010 [Walkabout](../../Acampamentos/2010/Walkabout.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+    - 2011 [Olha, Isto Aqui é uma Estátua](../../Acampamentos/2011/Olha%2C%20Isto%20Aqui%20%C3%A9%20uma%20Est%C3%A1tua.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
 ## Páginas que ligam para aqui
 
@@ -27,12 +28,13 @@ Também conhecido por Zebra
 - [Jangada](../../Acampamentos/2002/Jangada.md)
 - [Metrópole](../../Acampamentos/2004/Metr%C3%B3pole.md)
 - [Nómada](../../Acampamentos/2006/N%C3%B3mada.md)
+- [Olha, Isto Aqui é uma Estátua](../../Acampamentos/2011/Olha%2C%20Isto%20Aqui%20%C3%A9%20uma%20Est%C3%A1tua.md)
 - [Rastilho](../../Acampamentos/2003/Rastilho.md)
 - [Walkabout](../../Acampamentos/2010/Walkabout.md)
 
 ---
 
-**Outros nomes:** Zebra
+**Outros nomes:** Zebra · Zé Maria Brito
 
 | Categorias |
 | --- |

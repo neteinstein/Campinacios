@@ -1,0 +1,23 @@
+# BEM CHEIO
+
+**BEM CHEIO** foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) realizado em 2019. O tema do ano foi *Enche a tua vida de alegria*.
+
+### Animadores
+
+- [Director](../../Cargos/Director.md) - [Pedro Mendonça](../../Pessoas/P/Pedro%20Mendon%C3%A7a.md)
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Nuno Branco](../../Pessoas/N/Nuno%20Branco.md) sj
+- [Capelinho](../../Cargos/Capelinho.md) - [Manuel Sérvulo Rodrigues](../../Pessoas/M/Manuel%20S%C3%A9rvulo%20Rodrigues.md) nsj
+
+## Páginas que ligam para aqui
+
+- [Manuel Sérvulo Rodrigues](../../Pessoas/M/Manuel%20S%C3%A9rvulo%20Rodrigues.md)
+- [Nuno Branco](../../Pessoas/N/Nuno%20Branco.md)
+- [Pedro Mendonça](../../Pessoas/P/Pedro%20Mendon%C3%A7a.md)
+
+---
+
+| Categorias |
+| --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 2019](../../Categorias/Acampamentos%20de%202019.md) |
+| [Bicicletas](../../Categorias/Bicicletas.md) |

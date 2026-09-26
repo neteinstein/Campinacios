@@ -1,0 +1,22 @@
+# Vasco Teixeira
+
+### Acampamentos
+
+- **Animador:**
+    - 2018 [Maravilha-te](../../Acampamentos/2018/Maravilha-te.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+    - 2019 [Zapping](../../Acampamentos/2019/Zapping.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+    - 2021 [E a Glória Adensa-se](../../Acampamentos/2021/E%20a%20Gl%C3%B3ria%20Adensa-se.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+    - 2023 [Perc'Urso](../../Acampamentos/2023/Perc%27Urso.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+
+## Páginas que ligam para aqui
+
+- [E a Glória Adensa-se](../../Acampamentos/2021/E%20a%20Gl%C3%B3ria%20Adensa-se.md)
+- [Maravilha-te](../../Acampamentos/2018/Maravilha-te.md)
+- [Perc'Urso](../../Acampamentos/2023/Perc%27Urso.md)
+- [Zapping](../../Acampamentos/2019/Zapping.md)
+
+---
+
+| Categorias |
+| --- |
+| [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |

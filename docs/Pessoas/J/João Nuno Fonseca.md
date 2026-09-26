@@ -10,7 +10,11 @@
     - 2008 [Êxodo](../../Acampamentos/2008/%C3%8Axodo.md)
 
 - **Animador:**
-    - Passaportas - Adjunto
+    - 2010 [Passaportas](../../Acampamentos/2010/Passaportas.md) - Adjunto
+
+## Páginas que ligam para aqui
+
+- [Passaportas](../../Acampamentos/2010/Passaportas.md)
 
 ---
 

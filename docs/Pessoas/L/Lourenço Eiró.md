@@ -30,6 +30,7 @@ Lourenço Eiró foi um dos fundadores dos [Campinácios](../../Movimento/Campin%
     - 2008 [Êxodo](../../Acampamentos/2008/%C3%8Axodo.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2009 [Caminho](../../Acampamentos/2009/Caminho.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2010 [Obra Prima](../../Acampamentos/2010/Obra%20Prima.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+    - 2011 [Pedrogulho](../../Acampamentos/2011/Pedrogulho.md) - [Director](../../Cargos/Director.md)
 
 ## Páginas que ligam para aqui
 
@@ -50,6 +51,7 @@ Lourenço Eiró foi um dos fundadores dos [Campinácios](../../Movimento/Campin%
 - [Obra Prima](../../Acampamentos/2010/Obra%20Prima.md)
 - [Pavio](../../Acampamentos/2000/Pavio.md)
 - [Pedreira](../../Acampamentos/1989/Pedreira.md)
+- [Pedrogulho](../../Acampamentos/2011/Pedrogulho.md)
 - [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
 - [Surpresa](../../Acampamentos/2001/Surpresa.md)
 - [Tribal](../../Acampamentos/1992/Tribal.md)

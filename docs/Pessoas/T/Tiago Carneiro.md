@@ -17,6 +17,7 @@ Tiago Reis Carneiro, nascido a 22 de Maio de 1987, é animador do CC desde 2005.
     - 2008 [Arethë](../../Acampamentos/2008/Areth%C3%AB.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2008 [Era Uma Vez...](../../Acampamentos/2008/Era%20Uma%20Vez....md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2009 [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2011 [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md) - [Director](../../Cargos/Director.md)
 
 ## Páginas que ligam para aqui
 
@@ -25,6 +26,7 @@ Tiago Reis Carneiro, nascido a 22 de Maio de 1987, é animador do CC desde 2005.
 - [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md)
 - [M&M](../../Acampamentos/2007/M%26M.md)
 - [Nómada](../../Acampamentos/2006/N%C3%B3mada.md)
+- [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md)
 
 ---
 
