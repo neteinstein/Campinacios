@@ -82,6 +82,7 @@ Respondendo à pergunta inicial… ganhei tudo… o que é importante pelo menos
 
 ## Páginas que ligam para aqui
 
+- [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
 - [Caminho](../../Acampamentos/2009/Caminho.md)
 - [Conteúdos](../../Wikin%C3%A1cios/Ajuda/Conte%C3%BAdos.md)
 - [Contribuidores](../../Wikin%C3%A1cios/Contribuidores.md)
@@ -91,6 +92,8 @@ Respondendo à pergunta inicial… ganhei tudo… o que é importante pelo menos
 - [Filipe Barroso](../F/Filipe%20Barroso.md)
 - [Gaivota](../../Acampamentos/2005/Gaivota.md)
 - [Long Tao](../../Acampamentos/2006/Long%20Tao.md)
+- [Manual de Funções](../../Movimento/Manual%20de%20Fun%C3%A7%C3%B5es.md)
+- [Manual do Director](../../Movimento/Manual%20do%20Director.md)
 - [OPA](../../Acampamentos/2007/OPA.md)
 - [OrienTu](../../Acampamentos/2008/OrienTu.md)
 - [Patos](../../Acampamentos/2004/Patos.md)

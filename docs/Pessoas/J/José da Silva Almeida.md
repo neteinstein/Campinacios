@@ -36,6 +36,8 @@
 - [Diz Que Sim](../../Acampamentos/2007/Diz%20Que%20Sim.md)
 - [GANZA](../../Acampamentos/1997/GANZA.md)
 - [Gaivota](../../Acampamentos/2005/Gaivota.md)
+- [Manual de Funções](../../Movimento/Manual%20de%20Fun%C3%A7%C3%B5es.md)
+- [Manual do Director](../../Movimento/Manual%20do%20Director.md)
 - [Patos](../../Acampamentos/2004/Patos.md)
 - [Pimpolhos](../../Acampamentos/2003/Pimpolhos.md)
 - [Shampum de Pessêgo](../../Acampamentos/2001/Shampum%20de%20Pess%C3%AAgo.md)

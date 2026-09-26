@@ -128,4 +128,5 @@ Tem que haver uma diversidade e complementação dos vários membros da família
 
 ## Páginas que ligam para aqui
 
+- [Manual de Funções](Manual%20de%20Fun%C3%A7%C3%B5es.md)
 - [Vocabulário](Vocabul%C3%A1rio.md)
