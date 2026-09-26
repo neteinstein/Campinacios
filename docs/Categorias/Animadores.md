@@ -9,7 +9,7 @@ Animadores dos Campinácios
 - [Animadores do CSJB](Animadores%20do%20CSJB.md)
 - [Jesuítas](Jesu%C3%ADtas.md)
 
-## Páginas nesta categoria (405)
+## Páginas nesta categoria (408)
 
 - [Alexandra Silva](../Pessoas/A/Alexandra%20Silva.md)
 - [Amílcar Sousa](../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
@@ -212,6 +212,7 @@ Animadores dos Campinácios
 - [João Coimbra](../Pessoas/J/Jo%C3%A3o%20Coimbra.md)
 - [João Cortês Ferreira](../Pessoas/J/Jo%C3%A3o%20Cort%C3%AAs%20Ferreira.md)
 - [João Currais](../Pessoas/J/Jo%C3%A3o%20Currais.md)
+- [João Eiró](../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md)
 - [João Freire de Andrade](../Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md)
 - [João Monteiro](../Pessoas/J/Jo%C3%A3o%20Monteiro.md)
 - [João Nuno Fonseca](../Pessoas/J/Jo%C3%A3o%20Nuno%20Fonseca.md)
@@ -376,6 +377,7 @@ Animadores dos Campinácios
 - [Sara Fernandes](../Pessoas/S/Sara%20Fernandes.md)
 - [Sara Micaela Pinto](../Pessoas/S/Sara%20Micaela%20Pinto.md)
 - [Sara Moinhos](../Pessoas/S/Sara%20Moinhos.md)
+- [Sara Oom](../Pessoas/S/Sara%20Oom.md)
 - [Sara Póvoa](../Pessoas/S/Sara%20P%C3%B3voa.md)
 - [Sara Ramalho](../Pessoas/S/Sara%20Ramalho.md)
 - [Sara Rita Sampaio](../Pessoas/S/Sara%20Rita%20Sampaio.md)
@@ -397,6 +399,7 @@ Animadores dos Campinácios
 - [Telma Pinto](../Pessoas/T/Telma%20Pinto.md)
 - [Telmo Teixeira](../Pessoas/T/Telmo%20Teixeira.md)
 - [Teresa Aguiar](../Pessoas/T/Teresa%20Aguiar.md)
+- [Teresa Cortês Ferreira](../Pessoas/T/Teresa%20Cort%C3%AAs%20Ferreira.md)
 - [Teresa Fonseca](../Pessoas/T/Teresa%20Fonseca.md)
 - [Teresa Martinho](../Pessoas/T/Teresa%20Martinho.md)
 - [Teresa Mendes](../Pessoas/T/Teresa%20Mendes.md)
