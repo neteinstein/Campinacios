@@ -1,25 +1,25 @@
 /* Theme colours sampled from the Campinácios logo (tent + sun emblem):
    red #e11b1c, bright green #008d00, dark green #004e01, yellow #fcd704,
-   brown #95411f. Primary is the badge red; accent is the tent's shaded
-   green, chosen for its contrast against light and dark backgrounds. */
+   brown #95411f. Primary is the tent's green; accent is the badge red,
+   chosen for its contrast against light and dark backgrounds. */
 [data-md-color-primary="custom"] {
-  --md-primary-fg-color: #e11b1c;
-  --md-primary-fg-color--light: #ff5b4d;
-  --md-primary-fg-color--dark: #a30d0e;
+  --md-primary-fg-color: #006b00;
+  --md-primary-fg-color--light: #4caf50;
+  --md-primary-fg-color--dark: #003f00;
   --md-primary-bg-color: #ffffff;
   --md-primary-bg-color--light: hsla(0, 0%, 100%, 0.7);
 }
 
 [data-md-color-accent="custom"] {
-  --md-accent-fg-color: #157a2c;
-  --md-accent-fg-color--transparent: #157a2c1a;
+  --md-accent-fg-color: #e11b1c;
+  --md-accent-fg-color--transparent: #e11b1c1a;
   --md-accent-bg-color: #ffffff;
   --md-accent-bg-color--light: hsla(0, 0%, 100%, 0.7);
 }
 
 [data-md-color-scheme="slate"][data-md-color-accent="custom"] {
-  --md-accent-fg-color: #4fd67a;
-  --md-accent-fg-color--transparent: #4fd67a1a;
+  --md-accent-fg-color: #ff6f6a;
+  --md-accent-fg-color--transparent: #ff6f6a1a;
 }
 
 /* The graph page has no table of contents: give its width to the graph.
