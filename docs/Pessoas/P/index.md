@@ -1,5 +1,6 @@
 # P
 
+- [Padre Pina](Padre%20Pina.md)
 - [Patrícia Cabaço](Patr%C3%ADcia%20Caba%C3%A7o.md)
 - [Patrícia Lima](Patr%C3%ADcia%20Lima.md)
 - [Paula Ferrand](Paula%20Ferrand.md)
@@ -11,6 +12,7 @@
 - [Paulo Mesquita](Paulo%20Mesquita.md)
 - [Paulo Pimenta](Paulo%20Pimenta.md)
 - [Paulo Teia](Paulo%20Teia.md)
+- [Paulo Tremoço](Paulo%20Tremo%C3%A7o.md)
 - [Pedro Amado](Pedro%20Amado.md)
 - [Pedro Caetano](Pedro%20Caetano.md)
 - [Pedro Cameira](Pedro%20Cameira.md)

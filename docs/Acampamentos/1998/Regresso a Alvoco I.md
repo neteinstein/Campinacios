@@ -4,10 +4,10 @@ Este acampamento decorreu em [Alvoco das Várzeas](../../Restrito/Locais%20de%20
 
 ### Animadores
 
-- [Director](../../Cargos/Director.md) - Paulo Tremoço
+- [Director](../../Cargos/Director.md) - [Paulo Tremoço](../../Pessoas/P/Paulo%20Tremo%C3%A7o.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [São Martinho](../../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Zé Lopes](../../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md) sj
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Raquel Mesquita
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Raquel Mesquita](../../Pessoas/R/Raquel%20Mesquita.md)
 
 ## Páginas que ligam para aqui
 
@@ -16,6 +16,8 @@ Este acampamento decorreu em [Alvoco das Várzeas](../../Restrito/Locais%20de%20
 - [José Manuel Lopes](../../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md)
 - [José Miguel Fernandes](../../Pessoas/J/Jos%C3%A9%20Miguel%20Fernandes.md)
 - [Mariana Franco](../../Pessoas/M/Mariana%20Franco.md)
+- [Paulo Tremoço](../../Pessoas/P/Paulo%20Tremo%C3%A7o.md)
+- [Raquel Mesquita](../../Pessoas/R/Raquel%20Mesquita.md)
 
 ---
 

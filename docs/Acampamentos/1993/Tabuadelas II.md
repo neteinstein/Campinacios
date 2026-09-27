@@ -8,13 +8,16 @@ O Tabuadelas II foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.m
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Otília Azevedo](../../Pessoas/O/Ot%C3%ADlia%20Azevedo.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - Rui Pedro
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Gonçalo Eiró](../../Pessoas/G/Gon%C3%A7alo%20Eir%C3%B3.md) sj
-- [Tia](../../Cargos/Tio.md) - Cláudia Montenegro
+- [Tia](../../Cargos/Tio.md) - [Cláudia Montenegro](../../Pessoas/C/Cl%C3%A1udia%20Montenegro.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Zinho](../../Pessoas/E/Eduardo%20Rodrigues.md), [Perrú](../../Pessoas/P/Pedro%20Rocha%20Mendes.md) e [Filipe Queiroz e Melo](../../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Pedro Castro](../../Pessoas/P/Pedro%20Castro.md), Rafael, Alex, [Carla Gapo](../../Pessoas/C/Carla%20Gapo.md), Andreia e Joana Silva
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Pedro Castro](../../Pessoas/P/Pedro%20Castro.md), Rafael, [Alex](../../Pessoas/A/Alex.md), [Carla Gapo](../../Pessoas/C/Carla%20Gapo.md), [Andreia](../../Pessoas/A/Andreia.md) e Joana Silva
 
 ## Páginas que ligam para aqui
 
+- [Alex](../../Pessoas/A/Alex.md)
 - [Amílcar Sousa](../../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
+- [Andreia](../../Pessoas/A/Andreia.md)
+- [Cláudia Montenegro](../../Pessoas/C/Cl%C3%A1udia%20Montenegro.md)
 - [Eduardo Rodrigues](../../Pessoas/E/Eduardo%20Rodrigues.md)
 - [Filipe Queiroz e Melo](../../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md)
 - [Gonçalo Eiró](../../Pessoas/G/Gon%C3%A7alo%20Eir%C3%B3.md)

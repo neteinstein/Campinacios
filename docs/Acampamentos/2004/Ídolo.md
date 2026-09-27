@@ -7,7 +7,7 @@ O Ídolo foi um acampamento de Trotinetas, que decorreu de 3 a 12 de Agosto de 2
 - [Director](../../Cargos/Director.md) - [Pedro Pinheiro](../../Pessoas/P/Pedro%20Pinheiro.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Ana Pinto da Costa](../../Pessoas/A/Ana%20Pinto%20da%20Costa.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Renato Costa](../../Pessoas/R/Renato%20Costa.md)
-- [Capelão](../../Cargos/Capel%C3%A3o.md) - Zeca Lima sj e [Nuno Branco](../../Pessoas/N/Nuno%20Branco.md) sj
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Zeca Lima](../../Pessoas/Z/Zeca%20Lima.md) sj e [Nuno Branco](../../Pessoas/N/Nuno%20Branco.md) sj
 - [Tias](../../Cargos/Tio.md) - [Teresa Santos](../../Pessoas/T/Teresa%20Santos.md), [Sílvia Reis](../../Pessoas/S/S%C3%ADlvia%20Reis.md) e [Sílvia Ferreira](../../Pessoas/S/S%C3%ADlvia%20Alexandra.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Rui Junqueira](../../Pessoas/R/Rui%20Junqueira.md) e [Vasco Vasconcelos](../../Pessoas/V/Vasco%20Vasconcelos.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Joana Sá](../../Pessoas/J/Joana%20S%C3%A1.md), [Catarina Alves](../../Pessoas/C/Catarina%20Alves.md), [Caramela](../../Pessoas/J/Joana%20Martins.md), [Ricardo Oliveira](../../Pessoas/R/Ricardo%20Oliveira.md), [Bernardo Mendonça](../../Pessoas/B/Bernardo%20Mendon%C3%A7a.md) e [Luís Azevedo](../../Pessoas/L/Lu%C3%ADs%20Azevedo.md)
@@ -38,6 +38,7 @@ O Ídolo foi um acampamento de Trotinetas, que decorreu de 3 a 12 de Agosto de 2
 - [Teresa Santos](../../Pessoas/T/Teresa%20Santos.md)
 - [Tiago Pimenta](../../Pessoas/T/Tiago%20Pimenta.md)
 - [Vasco Vasconcelos](../../Pessoas/V/Vasco%20Vasconcelos.md)
+- [Zeca Lima](../../Pessoas/Z/Zeca%20Lima.md)
 
 ---
 

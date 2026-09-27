@@ -7,17 +7,20 @@ O Waaassuuup foi um acampamento de Bicicletas que decorreu de 4 a 13 de Agosto d
 - [Director](../../Cargos/Director.md) - [Tiago Figueira](../../Pessoas/T/Tiago%20Figueira.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - Kiki
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Gonçalo Belo](../../Pessoas/G/Gon%C3%A7alo%20Belo.md)
-- [Capelão](../../Cargos/Capel%C3%A3o.md) - Hermínio Vitorino sj
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Hermínio Vitorino](../../Pessoas/H/Herm%C3%ADnio%20Vitorino.md) sj
 - [Tios](../../Cargos/Tio.md) - [Joana Ferreira](../../Pessoas/J/Joana%20Ferreira.md) e [Ricardo Lopes](../../Pessoas/R/Ricardo%20Lopes.md)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [João Regueiras](../../Pessoas/J/Jo%C3%A3o%20Regueiras.md), [Gonçalo Frade](../../Pessoas/G/Gon%C3%A7alo%20Frade.md) e Alex
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Bé, Simão, [Joana Nunes](../../Pessoas/J/Joana%20Nunes.md), [Rita Reis](../../Pessoas/R/Rita%20Reis.md), [João Coimbra](../../Pessoas/J/Jo%C3%A3o%20Coimbra.md) e [Marta Carneiro](../../Pessoas/M/Marta%20Carneiro.md)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [João Regueiras](../../Pessoas/J/Jo%C3%A3o%20Regueiras.md), [Gonçalo Frade](../../Pessoas/G/Gon%C3%A7alo%20Frade.md) e [Alex](../../Pessoas/A/Alex.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Bé](../../Pessoas/B/B%C3%A9.md), Simão, [Joana Nunes](../../Pessoas/J/Joana%20Nunes.md), [Rita Reis](../../Pessoas/R/Rita%20Reis.md), [João Coimbra](../../Pessoas/J/Jo%C3%A3o%20Coimbra.md) e [Marta Carneiro](../../Pessoas/M/Marta%20Carneiro.md)
 
 ## Páginas que ligam para aqui
 
+- [Alex](../../Pessoas/A/Alex.md)
 - [António Amaral](../../Pessoas/A/Ant%C3%B3nio%20Amaral.md)
+- [Bé](../../Pessoas/B/B%C3%A9.md)
 - [Francisco Silva Rodrigues](../../Pessoas/F/Francisco%20Silva%20Rodrigues.md)
 - [Gonçalo Belo](../../Pessoas/G/Gon%C3%A7alo%20Belo.md)
 - [Gonçalo Frade](../../Pessoas/G/Gon%C3%A7alo%20Frade.md)
+- [Hermínio Vitorino](../../Pessoas/H/Herm%C3%ADnio%20Vitorino.md)
 - [João Coimbra](../../Pessoas/J/Jo%C3%A3o%20Coimbra.md)
 - [João Regueiras](../../Pessoas/J/Jo%C3%A3o%20Regueiras.md)
 - [Madalena Mariz](../../Pessoas/M/Madalena%20Mariz.md)
