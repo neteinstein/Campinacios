@@ -15,9 +15,9 @@ public site, and tell the sender what happened.
 
 ## 1. Get it
 
-- One issue: `issue_read` (method `get`, then `get_comments` for later
-  corrections) on owner `neteinstein`, repo `Campinacios`.
-- Pending ones: `list_issues` with state `OPEN`, keeping titles that start
+- One issue: read it on GitHub, `neteinstein/Campinacios`, including its
+  comments (later corrections often arrive there).
+- Pending ones: list the repo's open issues, keeping titles that start
   with `[Acampamento]`, `[Pessoa]`, `[Pessoas em Acampamentos]`,
   `[Participantes]` or `[Local]`.
 - Pasted text: lines `Campo: valor`, in the template's order.
@@ -96,7 +96,8 @@ publishes (to `main`), then confirm the "Publicar site" workflow deployed.
 For an issue, comment in Portuguese: thank them, link the pages on the site
 (`https://neteinstein.github.io/Campinacios/<caminho>.html`, spaces as
 `%20`), and say what was left out and why (private data, a name you still
-need to confirm…). End the comment with the attribution footer. Then close
+need to confirm…). Sign the comment with whatever attribution your tool
+requires when posting on someone's behalf, if any. Then close
 the issue as completed — or, if you need something from the sender, ask
 only that and leave it open. For pasted text, report the same to the user
 in chat.

@@ -42,9 +42,9 @@ linked in, and the plain-text mentions. For example:
 > "Ana Martins" já existe: animadora do CSJB desde 2005 (Nómada 2006,
 > Entre ASPAS 2008, Caminho 2009…). É a mesma pessoa?
 
-Offer one option per candidate plus "outra pessoa" (use AskUserQuestion
-when available). For plain-text mentions, ask which of them are this
-person when the name is common.
+Offer one option per candidate plus "outra pessoa" (use a multiple-choice
+prompt if your tool supports one). For plain-text mentions, ask which of
+them are this person when the name is common.
 
 ## 3a. Same person: link
 
