@@ -4,10 +4,10 @@ O Dilúvio foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) que 
 
 ### Animadores
 
-- [Director](../../Cargos/Director.md) - Luís Ferreira do Amaral sj
+- [Director](../../Cargos/Director.md) - [Luís Ferreira do Amaral](../../Pessoas/L/Lu%C3%ADs%20Ferreira%20do%20Amaral.md) sj
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Rita Antunes](../../Pessoas/R/Rita%20Antunes.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) e [Capelão](../../Cargos/Capel%C3%A3o.md) - [José da Silva Almeida](../../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md) sj
-- [Tia](../../Cargos/Tio.md) - Vera Cunha
+- [Tia](../../Cargos/Tio.md) - [Vera Cunha](../../Pessoas/V/Vera%20Cunha.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - Pedro, António Pedro, [Gonçalo Frade](../../Pessoas/G/Gon%C3%A7alo%20Frade.md), Inês, Cristina Costa
 
 ## Páginas que ligam para aqui
@@ -17,8 +17,10 @@ O Dilúvio foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) que 
 - [Irina Ramos](../../Pessoas/I/Irina%20Ramos.md)
 - [José Pedro Ferreira](../../Pessoas/J/Jos%C3%A9%20Pedro%20Ferreira.md)
 - [José da Silva Almeida](../../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
+- [Luís Ferreira do Amaral](../../Pessoas/L/Lu%C3%ADs%20Ferreira%20do%20Amaral.md)
 - [Nuno Carvalho](../../Pessoas/N/Nuno%20Carvalho.md)
 - [Pedro Pinheiro](../../Pessoas/P/Pedro%20Pinheiro.md)
+- [Vera Cunha](../../Pessoas/V/Vera%20Cunha.md)
 - [Vítor Fernandes](../../Pessoas/V/V%C3%ADtor%20Fernandes.md)
 
 ---

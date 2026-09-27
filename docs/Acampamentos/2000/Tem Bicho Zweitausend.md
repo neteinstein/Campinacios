@@ -7,7 +7,7 @@ O Tem Bicho Zweitausend foi um acampamento de Trotinetas que decorreu entre 19 e
 - [Director](../../Cargos/Director.md) - [Gonçalo Belo](../../Pessoas/G/Gon%C3%A7alo%20Belo.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Majó](../../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Diana Gapo](../../Pessoas/D/Diana%20Gapo.md)
-- [Capelão](../../Cargos/Capel%C3%A3o.md) - Virgílio sj
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Virgílio](../../Pessoas/V/Virg%C3%ADlio.md) sj
 - [Tias](../../Cargos/Tio.md) - [Ana Geão](../../Pessoas/A/Ana%20Ge%C3%A3o.md) e [Kiki](../../Pessoas/M/Maria%20Cristina%20Leal.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Diogo Romão](../../Pessoas/D/Diogo%20Rom%C3%A3o.md), [Gonçalo Frade](../../Pessoas/G/Gon%C3%A7alo%20Frade.md) e Pedro Teixeira
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Ana Vacas](../../Pessoas/A/Ana%20Vacas.md), [Joana Nunes](../../Pessoas/J/Joana%20Nunes.md), [Joana Saraiva](../../Pessoas/J/Joana%20Saraiva.md), [João Coimbra](../../Pessoas/J/Jo%C3%A3o%20Coimbra.md), [Marta Carneiro](../../Pessoas/M/Marta%20Carneiro.md) e Nuno Antunes
@@ -32,6 +32,7 @@ Zweitausend é o nome alemão para o número 2000 (dois mil).
 - [Mafalda Coelho](../../Pessoas/M/Mafalda%20Coelho.md)
 - [Maria João Simões](../../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
 - [Marta Carneiro](../../Pessoas/M/Marta%20Carneiro.md)
+- [Virgílio](../../Pessoas/V/Virg%C3%ADlio.md)
 
 ---
 

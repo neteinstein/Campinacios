@@ -5,15 +5,19 @@ Acampamento de [Lambretas](../../Categorias/Lambretas.md) que decorreu em [Verim
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [José Manuel Filgueiras](../../Pessoas/J/Jos%C3%A9%20Manuel%20Filgueiras.md)
-- [Mamã](../../Cargos/Mam%C3%A3.md) - Rosinha Dias Costa
-- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - Miguel Nogueira
-- [Capelão](../../Cargos/Capel%C3%A3o.md) - Luís Proença sj
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [Rosinha Dias Costa](../../Pessoas/R/Rosinha%20Dias%20Costa.md)
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Miguel Nogueira](../../Pessoas/M/Miguel%20Nogueira.md)
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Proença](../../Pessoas/L/Lu%C3%ADs%20Proen%C3%A7a.md) sj
 - [Tia](../../Cargos/Tio.md) - Manuela Silva
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Marcos Matos
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Marcos Matos](../../Pessoas/M/Marcos%20Matos.md)
 
 ## Páginas que ligam para aqui
 
 - [José Manuel Filgueiras](../../Pessoas/J/Jos%C3%A9%20Manuel%20Filgueiras.md)
+- [Luís Proença](../../Pessoas/L/Lu%C3%ADs%20Proen%C3%A7a.md)
+- [Marcos Matos](../../Pessoas/M/Marcos%20Matos.md)
+- [Miguel Nogueira](../../Pessoas/M/Miguel%20Nogueira.md)
+- [Rosinha Dias Costa](../../Pessoas/R/Rosinha%20Dias%20Costa.md)
 
 ---
 

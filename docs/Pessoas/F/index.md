@@ -9,6 +9,8 @@
 - [Filipa Marcelino](Filipa%20Marcelino.md)
 - [Filipa Valle](Filipa%20Valle.md)
 - [Filipe Barroso](Filipe%20Barroso.md)
+- [Filipe Condado](Filipe%20Condado.md)
+- [Filipe Faleiro](Filipe%20Faleiro.md)
 - [Filipe Lima](Filipe%20Lima.md)
 - [Filipe Martins](Filipe%20Martins.md)
 - [Filipe Matos](Filipe%20Matos.md)
@@ -38,3 +40,4 @@
 - [Fábio Teixeira](F%C3%A1bio%20Teixeira.md)
 - [Fátima Paulino](F%C3%A1tima%20Paulino.md)
 - [Frederico Cardoso de Lemos](Frederico%20Cardoso%20de%20Lemos.md)
+- [Frederico Ferreira](Frederico%20Ferreira.md)

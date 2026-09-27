@@ -5,11 +5,15 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Vítor Fernandes](../../Pessoas/V/V%C3%ADtor%20Fernandes.md)
-- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - TiaGO Reis
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [TiaGO Reis](../../Pessoas/T/TiaGO%20Reis.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - ----
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - -----
 - [Capelinho](../../Cargos/Capelinho.md) - -----
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - -----
+
+## Páginas que ligam para aqui
+
+- [TiaGO Reis](../../Pessoas/T/TiaGO%20Reis.md)
 
 ---
 
