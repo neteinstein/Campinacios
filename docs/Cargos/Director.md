@@ -285,6 +285,7 @@ Ver também o [Manual do Director](../Movimento/Manual%20do%20Director.md), com 
 - [OrienTu](../Acampamentos/2008/OrienTu.md)
 - [Origami](../Acampamentos/2006/Origami.md)
 - [P'la Tua Mão](../Acampamentos/2022/P%27la%20Tua%20M%C3%A3o.md)
+- [Paim](../Acampamentos/1999/Paim.md)
 - [PaKasaDele](../Acampamentos/2010/PaKasaDele.md)
 - [ParTijolo](../Acampamentos/2024/ParTijolo.md)
 - [Parada](../Acampamentos/1995/Parada.md)

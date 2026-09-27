@@ -6,7 +6,7 @@ O Pavio foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) que dec
 
 - [Director](../../Cargos/Director.md) - [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Rita Antunes](../../Pessoas/R/Rita%20Antunes.md)
-- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - José Rui Sampaio
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [José Rui Sampaio](../../Pessoas/J/Jos%C3%A9%20Rui%20Sampaio.md)
 - [Tia](../../Cargos/Tio.md) - [Marta Santos](../../Pessoas/M/Marta%20Santos.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - Gabriela Poças, [Guida](../../Pessoas/M/Margarida%20Rodrigues.md), [Sofia Azevedo Cardoso](../../Pessoas/S/Sofia%20Azevedo%20Cardoso.md) e Tiago Cunha Ferreira
 
@@ -14,6 +14,7 @@ O Pavio foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) que dec
 
 - [Bernardo Mendonça](../../Pessoas/B/Bernardo%20Mendon%C3%A7a.md)
 - [Bruno Azevedo](../../Pessoas/B/Bruno%20Azevedo.md)
+- [José Rui Sampaio](../../Pessoas/J/Jos%C3%A9%20Rui%20Sampaio.md)
 - [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
 - [Margarida Rodrigues](../../Pessoas/M/Margarida%20Rodrigues.md)
 - [Marta Santos](../../Pessoas/M/Marta%20Santos.md)

@@ -2,6 +2,7 @@
 
 ### Animadores
 
+- [Director](../../Cargos/Director.md) - [José Rui Sampaio](../../Pessoas/J/Jos%C3%A9%20Rui%20Sampaio.md)
 - [Tias](../../Cargos/Tio.md) - [Lúcia Vaz Pato](../../Pessoas/L/L%C3%BAcia%20Vaz%20Pato.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Ricardo Lopes](../../Pessoas/R/Ricardo%20Lopes.md)
 
@@ -13,6 +14,7 @@
 - [Eduardo Lima](../../Pessoas/E/Eduardo%20Lima.md)
 - [Joana Cardoso](../../Pessoas/J/Joana%20Cardoso.md)
 - [Joana Ferreira da Silva](../../Pessoas/J/Joana%20Ferreira%20da%20Silva.md)
+- [José Rui Sampaio](../../Pessoas/J/Jos%C3%A9%20Rui%20Sampaio.md)
 - [Lúcia Vaz Pato](../../Pessoas/L/L%C3%BAcia%20Vaz%20Pato.md)
 - [Ricardo Lopes](../../Pessoas/R/Ricardo%20Lopes.md)
 - [Teresa Santos](../../Pessoas/T/Teresa%20Santos.md)
