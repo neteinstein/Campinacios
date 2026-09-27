@@ -22,6 +22,13 @@
   --md-accent-fg-color--transparent: #ff6f6a1a;
 }
 
+/* The header keeps the full-strength green in both schemes, but body
+   links need a lighter shade against the near-black slate background
+   to clear WCAG contrast (the dark green reads at ~2.4:1 there). */
+[data-md-color-scheme="slate"][data-md-color-primary="custom"] {
+  --md-typeset-a-color: #4caf50;
+}
+
 /* The graph page has no table of contents: give its width to the graph.
    Nor do the restricted pages (their headings are encrypted), and the home
    page, like the wiki's, also uses the navigation's width (pages carry no
