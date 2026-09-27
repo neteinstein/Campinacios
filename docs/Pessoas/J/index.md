@@ -55,6 +55,7 @@
 - [Jorge Ramos](Jorge%20Ramos.md)
 - [José Alexandre](Jos%C3%A9%20Alexandre.md)
 - [José António Lima](Jos%C3%A9%20Ant%C3%B3nio%20Lima.md)
+- [José Araújo](Jos%C3%A9%20Ara%C3%BAjo.md)
 - [José Augusto Rosa](Jos%C3%A9%20Augusto%20Rosa.md)
 - [José Carlos Miranda](Jos%C3%A9%20Carlos%20Miranda.md)
 - [José da Silva Almeida](Jos%C3%A9%20da%20Silva%20Almeida.md)
