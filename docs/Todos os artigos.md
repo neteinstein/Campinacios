@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1078 artigos e, em itálico, os 138 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1080 artigos e, em itálico, os 138 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -628,6 +628,7 @@
 - [Jorge Ramos](Pessoas/J/Jorge%20Ramos.md)
 - [José Alexandre](Pessoas/J/Jos%C3%A9%20Alexandre.md)
 - [José António Lima](Pessoas/J/Jos%C3%A9%20Ant%C3%B3nio%20Lima.md)
+- [José Araújo](Pessoas/J/Jos%C3%A9%20Ara%C3%BAjo.md)
 - [José Augusto Rosa](Pessoas/J/Jos%C3%A9%20Augusto%20Rosa.md)
 - [José Carlos Miranda](Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md)
 - [José da Silva Almeida](Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
@@ -1014,6 +1015,7 @@
 - *Rafa Azevedo* → [Rafaela Azevedo](Pessoas/R/Rafaela%20Azevedo.md)
 - [Rafa Mano](Pessoas/R/Rafa%20Mano.md)
 - [Rafael Carecho](Pessoas/R/Rafael%20Carecho.md)
+- [Rafael Lucas Pires](Pessoas/R/Rafael%20Lucas%20Pires.md)
 - [Rafael Rebordão](Pessoas/R/Rafael%20Rebord%C3%A3o.md)
 - [Rafaela Azevedo](Pessoas/R/Rafaela%20Azevedo.md)
 - [Rafaela Lúcio](Pessoas/R/Rafaela%20L%C3%BAcio.md)
