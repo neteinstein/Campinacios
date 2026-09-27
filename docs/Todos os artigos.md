@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1077 artigos e, em itálico, os 137 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1078 artigos e, em itálico, os 138 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -97,6 +97,7 @@
 - [António Andrade](Pessoas/A/Ant%C3%B3nio%20Andrade.md)
 - [António Coimbra](Pessoas/A/Ant%C3%B3nio%20Coimbra.md)
 - [António Ferreira da Silva](Pessoas/A/Ant%C3%B3nio%20Ferreira%20da%20Silva.md)
+- [António Júlio Trigueiros](Pessoas/A/Ant%C3%B3nio%20J%C3%BAlio%20Trigueiros.md)
 - [António Leal](Pessoas/A/Ant%C3%B3nio%20Leal.md)
 - [António Manuel](Pessoas/A/Ant%C3%B3nio%20Manuel.md)
 - [António Matias](Pessoas/A/Ant%C3%B3nio%20Matias.md)
@@ -1200,6 +1201,7 @@
 - [Tira as rodinhas](Acampamentos/2009/Tira%20as%20rodinhas.md)
 - [Tita](Pessoas/T/Tita.md)
 - [Tiw-y-moy](Acampamentos/1998/Tiw-y-moy.md)
+- *Tojú* → [António Júlio Trigueiros](Pessoas/A/Ant%C3%B3nio%20J%C3%BAlio%20Trigueiros.md)
 - [Tomás Costa](Pessoas/T/Tom%C3%A1s%20Costa.md)
 - [Tomás Cunha Ferreira](Pessoas/T/Tom%C3%A1s%20Cunha%20Ferreira.md)
 - [Tomás Ribeiro](Pessoas/T/Tom%C3%A1s%20Ribeiro.md)
