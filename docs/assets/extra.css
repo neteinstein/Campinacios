@@ -1,3 +1,34 @@
+/* Theme colours sampled from the Campinácios logo (tent + sun emblem):
+   red #e11b1c, bright green #008d00, dark green #004e01, yellow #fcd704,
+   brown #95411f. Primary is the tent's green; accent is the badge red,
+   chosen for its contrast against light and dark backgrounds. */
+[data-md-color-primary="custom"] {
+  --md-primary-fg-color: #006b00;
+  --md-primary-fg-color--light: #4caf50;
+  --md-primary-fg-color--dark: #003f00;
+  --md-primary-bg-color: #ffffff;
+  --md-primary-bg-color--light: hsla(0, 0%, 100%, 0.7);
+}
+
+[data-md-color-accent="custom"] {
+  --md-accent-fg-color: #e11b1c;
+  --md-accent-fg-color--transparent: #e11b1c1a;
+  --md-accent-bg-color: #ffffff;
+  --md-accent-bg-color--light: hsla(0, 0%, 100%, 0.7);
+}
+
+[data-md-color-scheme="slate"][data-md-color-accent="custom"] {
+  --md-accent-fg-color: #ff6f6a;
+  --md-accent-fg-color--transparent: #ff6f6a1a;
+}
+
+/* The header keeps the full-strength green in both schemes, but body
+   links need a lighter shade against the near-black slate background
+   to clear WCAG contrast (the dark green reads at ~2.4:1 there). */
+[data-md-color-scheme="slate"][data-md-color-primary="custom"] {
+  --md-typeset-a-color: #4caf50;
+}
+
 /* The graph page has no table of contents: give its width to the graph.
    Nor do the restricted pages (their headings are encrypted), and the home
    page, like the wiki's, also uses the navigation's width (pages carry no
