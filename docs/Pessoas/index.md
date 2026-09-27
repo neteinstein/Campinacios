@@ -2,7 +2,7 @@
 
 Animadores, jesuítas e outras pessoas do movimento, por ordem alfabética.
 
-- [A](A/index.md) (75)
+- [A](A/index.md) (76)
 - [B](B/index.md) (15)
 - [C](C/index.md) (47)
 - [D](D/index.md) (30)
