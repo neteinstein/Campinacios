@@ -4,10 +4,12 @@
 > `docs/`, não entra no site publicado). Registamos aqui o resultado da
 > vasculhada às equipas de animação de todos os acampamentos (Setembro de
 > 2026): 123 nomes sem ambiguidade foram já transformados em páginas
-> (ver PR #24). Os 81 abaixo ficaram por resolver por colidirem — com uma
+> (ver PR #24). Dos 81 que ficaram por resolver por colidirem — com uma
 > página já existente, com uma menção com outro nome já ligado, ou entre
-> si — pelo que precisam de confirmação pessoa a pessoa antes de se criar
-> ou ligar qualquer página, seguindo o processo do skill `nova-pessoa`.
+> si —, "Araújo sj"/"José Araújo sj" e "Rafael"/"Rafael Lucas Pires" já
+> foram confirmados e ligados (PR #33); restam 77, que precisam de
+> confirmação pessoa a pessoa antes de se criar ou ligar qualquer página,
+> seguindo o processo do skill `nova-pessoa`.
 >
 > Apagar cada entrada (ou o ficheiro inteiro) à medida que for resolvida.
 
@@ -16,14 +18,16 @@ aparecem (ano/nome).
 
 ## Bandeira, Araújo, Capelães (sj)
 
-- **Araújo sj** — 1992/Tribal
-- **José Araújo sj** — 1990/Alfa, 1991/CAmpIC 91, 1995/Campo Ibérico
+> ~~"Araújo sj" (1992/Tribal) = "José Araújo sj" (1990/Alfa, 1991/CAmpIC 91,
+> 1995/Campo Ibérico)~~ — confirmado, resolvido em
+> [José Araújo](../docs/Pessoas/J/Jos%C3%A9%20Ara%C3%BAjo.md)
+> (neteinstein/Campinacios#33).
+
 - **Linda Araújo** — 2000/Gordurosa, 2001/Shampum de Pessêgo, 2003/Pimpolhos
 - **Rosarinho Araújo** — 1989/Pedreira, 1991/Constância
 
-  → "Araújo" sozinho pode ser o mesmo que "José Araújo sj"? E "Linda Araújo"/
-  "Rosarinho Araújo" são apelidos de família ou coincidência? Precisa de
-  confirmação pessoa a pessoa.
+  → São apelidos de família de José Araújo (Capelão sj) ou coincidência?
+  Precisa de confirmação pessoa a pessoa.
 
 - **Francisco Campos sj** — 2006/Nómada
 - **Pedro Dias sj** — 2008/Eureka
@@ -103,8 +107,6 @@ aparecem (ano/nome).
   1996/Caldelas (quase certo: mesma pessoa)
 - **Marina** — 2000/Gordurosa · **Marina Freitas** — 1997/Torneira
 - **Nuno Antunes** — 2000/Tem Bicho Zweitausend, 2001/Quatro Patas
-- **Rafael** — 1993/Tabuadelas II · **Rafael Lucas Pires** — 1991/Constância,
-  1994/Wally
 - **Rita Maria** — 2000/Tranquilo
 - **Simão** — 2000/Gordurosa, 2001/Waaassuuup, 2002/Piripetroporco,
   2004/Descola · **Simão Nabais** — 2003/Cabala
