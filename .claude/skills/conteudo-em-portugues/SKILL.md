@@ -17,10 +17,11 @@ spelling, or a stray English sentence in a new page or issue form.
 
 This is about the **site's own content**: `docs/`, `.github/ISSUE_TEMPLATE/`,
 `README.md` and `mkdocs.yml`'s visible strings (nav titles, theme labels).
-It does not apply to `.claude/skills/`, `scripts/` or any other project
+It does not apply to `.claude/skills/`, `AGENTS.md`,
+`.github/copilot-instructions.md`, `scripts/` or any other project
 tooling — those are written in English, this project's own convention for
-instructions to Claude and for code, and translating them would work
-against every other skill in this repo.
+instructions to coding agents (Claude, Copilot or any other) and for code,
+and translating them would work against every other skill in this repo.
 
 ## Before writing
 
