@@ -30,6 +30,7 @@
 - [Animador](../Movimento/Animador.md)
 - [Antestreia](../Acampamentos/2022/Antestreia.md)
 - [António Ferreira da Silva](../Pessoas/A/Ant%C3%B3nio%20Ferreira%20da%20Silva.md)
+- [António Júlio Trigueiros](../Pessoas/A/Ant%C3%B3nio%20J%C3%BAlio%20Trigueiros.md)
 - [António Pamplona](../Pessoas/A/Ant%C3%B3nio%20Pamplona.md)
 - [António Sant'Ana](../Pessoas/A/Ant%C3%B3nio%20Sant%27Ana.md)
 - [António Santos Lourenço](../Pessoas/A/Ant%C3%B3nio%20Santos%20Louren%C3%A7o.md)
