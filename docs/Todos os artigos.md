@@ -1,6 +1,6 @@
 # Todos os artigos
 
-953 artigos e, em itálico, os 137 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+954 artigos e, em itálico, os 137 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -592,6 +592,7 @@
 - [José Pedro Ferreira](Pessoas/J/Jos%C3%A9%20Pedro%20Ferreira.md)
 - [José Pedro Nunes](Pessoas/J/Jos%C3%A9%20Pedro%20Nunes.md)
 - [José Pedro Tomaz](Pessoas/J/Jos%C3%A9%20Pedro%20Tomaz.md)
+- [José Rui Sampaio](Pessoas/J/Jos%C3%A9%20Rui%20Sampaio.md)
 - *José Silva* → [José da Silva Almeida](Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
 - *José Silva Almeida* → [José da Silva Almeida](Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
 - *JPC* → [João Pedro Carlos](Pessoas/J/Jo%C3%A3o%20Pedro%20Carlos.md)

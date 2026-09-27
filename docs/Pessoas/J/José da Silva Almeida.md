@@ -12,7 +12,7 @@
 ### Acampamentos
 
 - **Animador**
-    - 1997 [GANZA](../../Acampamentos/1997/GANZA.md) - [Director](../../Cargos/Director.md)
+    - 1997 [GANZA](../../Acampamentos/1997/GANZA.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 1998 [Calinadas](../../Acampamentos/1998/Calinadas.md) - [Director](../../Cargos/Director.md)
     - 1999 [Dilúvio](../../Acampamentos/1999/Dil%C3%BAvio.md) - [Director Adjunto](../../Cargos/Director-Adjunto.md) e [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2001 [Shampum de Pessêgo](../../Acampamentos/2001/Shampum%20de%20Pess%C3%AAgo.md) - [Director](../../Cargos/Director.md)

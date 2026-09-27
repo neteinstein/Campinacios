@@ -60,6 +60,7 @@
 - [José Pedro Ferreira](Jos%C3%A9%20Pedro%20Ferreira.md)
 - [José Pedro Nunes](Jos%C3%A9%20Pedro%20Nunes.md)
 - [José Pedro Tomaz](Jos%C3%A9%20Pedro%20Tomaz.md)
+- [José Rui Sampaio](Jos%C3%A9%20Rui%20Sampaio.md)
 - [João Azevedo](Jo%C3%A3o%20Azevedo.md)
 - [João Branco](Jo%C3%A3o%20Branco.md)
 - [João Coimbra](Jo%C3%A3o%20Coimbra.md)

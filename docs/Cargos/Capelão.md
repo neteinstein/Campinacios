@@ -112,6 +112,7 @@
 - [Francisco Mota](../Pessoas/F/Francisco%20Mota.md)
 - [Frederico Cardoso de Lemos](../Pessoas/F/Frederico%20Cardoso%20de%20Lemos.md)
 - [Fófinhos](../Acampamentos/2005/F%C3%B3finhos.md)
+- [GANZA](../Acampamentos/1997/GANZA.md)
 - [Gaivota](../Acampamentos/2005/Gaivota.md)
 - [Gipsy Kings](../Acampamentos/1999/Gipsy%20Kings.md)
 - [Gonçalo Eiró](../Pessoas/G/Gon%C3%A7alo%20Eir%C3%B3.md)
