@@ -4,7 +4,11 @@ Este acampamento de [Bicicletas](../../Categorias/Bicicletas.md) decorreu de 1 a
 
 ### Animadores
 
-- [Director](../../Cargos/Director.md) - Filipe Condado
+- [Director](../../Cargos/Director.md) - [Filipe Condado](../../Pessoas/F/Filipe%20Condado.md)
+
+## Páginas que ligam para aqui
+
+- [Filipe Condado](../../Pessoas/F/Filipe%20Condado.md)
 
 ---
 

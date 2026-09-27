@@ -6,19 +6,24 @@ Acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que decorreu de 8 a 
 
 - [Director](../../Cargos/Director.md) - [Zé Lopes](../../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md) sj
 - [Mamã](../../Cargos/Mam%C3%A3.md) - Maria João Pinheiro
-- [Director Adjunto](../../Cargos/Director-Adjunto.md) - José Marques
+- [Director Adjunto](../../Cargos/Director-Adjunto.md) - [José Marques](../../Pessoas/J/Jos%C3%A9%20Marques.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Manuel Paiva](../../Pessoas/M/Manuel%20Paiva.md) sj
 - [Tio](../../Cargos/Tio.md) - [João Pessoa](../../Pessoas/J/Jo%C3%A3o%20Pessoa.md)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Carlos Ruiz](../../Pessoas/C/Carlos%20Ruiz.md) e Maria Amorosa Lopes
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - José Manuel, Sofia Rebelo, Maria Manuel, Teresa Cardoso, António Manuel e Francisco Xavier
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Carlos Ruiz](../../Pessoas/C/Carlos%20Ruiz.md) e [Maria Amorosa Lopes](../../Pessoas/M/Maria%20Amorosa%20Lopes.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - José Manuel, [Sofia Rebelo](../../Pessoas/S/Sofia%20Rebelo.md), Maria Manuel, [Teresa Cardoso](../../Pessoas/T/Teresa%20Cardoso.md), [António Manuel](../../Pessoas/A/Ant%C3%B3nio%20Manuel.md) e Francisco Xavier
 
 ## Páginas que ligam para aqui
 
+- [António Manuel](../../Pessoas/A/Ant%C3%B3nio%20Manuel.md)
 - [Carlos Ruiz](../../Pessoas/C/Carlos%20Ruiz.md)
 - [José Manuel Lopes](../../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md)
 - [João Pessoa](../../Pessoas/J/Jo%C3%A3o%20Pessoa.md)
+- [José Marques](../../Pessoas/J/Jos%C3%A9%20Marques.md)
 - [Manuel Paiva](../../Pessoas/M/Manuel%20Paiva.md)
+- [Maria Amorosa Lopes](../../Pessoas/M/Maria%20Amorosa%20Lopes.md)
 - [Marta Gonçalves](../../Pessoas/M/Marta%20Gon%C3%A7alves.md)
+- [Sofia Rebelo](../../Pessoas/S/Sofia%20Rebelo.md)
+- [Teresa Cardoso](../../Pessoas/T/Teresa%20Cardoso.md)
 
 ---
 

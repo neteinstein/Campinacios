@@ -5,7 +5,7 @@ Graal III foi um acampamento de [Formação de Animadores](../../Categorias/Form
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [António Valério](../../Pessoas/A/Ant%C3%B3nio%20Val%C3%A9rio.md) sj
-- [Mamã](../../Cargos/Mam%C3%A3.md) - Sandra Raimundo
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [Sandra Raimundo](../../Pessoas/S/Sandra%20Raimundo.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Sérgio Lopes](../../Pessoas/S/S%C3%A9rgio%20Lopes.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj
 
@@ -26,6 +26,7 @@ Graal III foi um acampamento de [Formação de Animadores](../../Categorias/Form
 - [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
 - [Martinho Lucas Pires](../../Pessoas/M/Martinho%20Lucas%20Pires.md)
 - [Rita Lourenço](../../Pessoas/R/Rita%20Louren%C3%A7o.md)
+- [Sandra Raimundo](../../Pessoas/S/Sandra%20Raimundo.md)
 - [Sérgio Lopes](../../Pessoas/S/S%C3%A9rgio%20Lopes.md)
 - [Tiago Gonçalves](../../Pessoas/T/Tiago%20Gon%C3%A7alves.md)
 - [Tânia Rodrigues](../../Pessoas/T/T%C3%A2nia%20Rodrigues.md)

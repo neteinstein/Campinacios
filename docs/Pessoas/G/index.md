@@ -1,13 +1,16 @@
 # G
 
+- [Gabriela Poças](Gabriela%20Po%C3%A7as.md)
 - [Gonçalo Belo](Gon%C3%A7alo%20Belo.md)
 - [Gonçalo Eiró](Gon%C3%A7alo%20Eir%C3%B3.md)
 - [Gonçalo Fonseca](Gon%C3%A7alo%20Fonseca.md)
 - [Gonçalo Fonseca Carvalho](Gon%C3%A7alo%20Fonseca%20Carvalho.md)
+- [Gonçalo Forte Vaz](Gon%C3%A7alo%20Forte%20Vaz.md)
 - [Gonçalo Frade](Gon%C3%A7alo%20Frade.md)
 - [Gonçalo Garcia](Gon%C3%A7alo%20Garcia.md)
 - [Gonçalo Graça](Gon%C3%A7alo%20Gra%C3%A7a.md)
 - [Gonçalo Luís Carvalho](Gon%C3%A7alo%20Lu%C3%ADs%20Carvalho.md)
+- [Gonçalo Machado](Gon%C3%A7alo%20Machado.md)
 - [Gonçalo Pedrosa](Gon%C3%A7alo%20Pedrosa.md)
 - [Gonçalo Sá](Gon%C3%A7alo%20S%C3%A1.md)
 - [Gonçalo Vaz Pedro](Gon%C3%A7alo%20Vaz%20Pedro.md)

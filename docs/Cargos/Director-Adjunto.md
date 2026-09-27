@@ -113,6 +113,7 @@
 - [Gordurosa](../Acampamentos/2000/Gordurosa.md)
 - [Graal III](../Acampamentos/2007/Graal%20III.md)
 - [Génesis 2003 d.C.](../Acampamentos/2003/G%C3%A9nesis%202003%20d.C..md)
+- [Hakaros](../Acampamentos/1999/Hakaros.md)
 - [Heitor Rosa](../Pessoas/H/Heitor%20Rosa.md)
 - [Henrique Mota Amaral](../Pessoas/H/Henrique%20Mota%20Amaral.md)
 - [Iháquesermais](../Acampamentos/2009/Ih%C3%A1quesermais.md)

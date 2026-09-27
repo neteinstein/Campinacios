@@ -7,10 +7,10 @@ O Cabala foi um acampamento de Bicicletas que decorreu de 2 a 11 de Agosto de 20
 - [Director](../../Cargos/Director.md) - [João Coimbra](../../Pessoas/J/Jo%C3%A3o%20Coimbra.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Majó](../../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [JPC](../../Pessoas/J/Jo%C3%A3o%20Pedro%20Carlos.md)
-- [Capelão](../../Cargos/Capel%C3%A3o.md) - Rui Nunes sj
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Rui Nunes](../../Pessoas/R/Rui%20Nunes.md) sj
 - [Tias](../../Cargos/Tio.md) - [Ana Pinto da Costa](../../Pessoas/A/Ana%20Pinto%20da%20Costa.md) e [Sara Ramalho](../../Pessoas/S/Sara%20Ramalho.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Kiko](../../Pessoas/F/Francisco%20Almeida%20%28Kiko%29.md) e [João Reis](../../Pessoas/J/Jo%C3%A3o%20Reis.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Isa Neves, [Madalena Reis](../../Pessoas/M/Madalena%20Reis.md), Ana Rita Lynce, Simão Nabais, [Filipa Granado](../../Pessoas/F/Filipa%20Granado.md) e [Joana Cardoso](../../Pessoas/J/Joana%20Cardoso.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Isa Neves](../../Pessoas/I/Isa%20Neves.md), [Madalena Reis](../../Pessoas/M/Madalena%20Reis.md), Ana Rita Lynce, Simão Nabais, [Filipa Granado](../../Pessoas/F/Filipa%20Granado.md) e [Joana Cardoso](../../Pessoas/J/Joana%20Cardoso.md)
 
 ## Páginas que ligam para aqui
 
@@ -24,6 +24,7 @@ O Cabala foi um acampamento de Bicicletas que decorreu de 2 a 11 de Agosto de 20
 - [Filipe Próspero](../../Pessoas/F/Filipe%20Pr%C3%B3spero.md)
 - [Francisco Almeida (Kiko)](../../Pessoas/F/Francisco%20Almeida%20%28Kiko%29.md)
 - [Inês Turras](../../Pessoas/I/In%C3%AAs%20Turras.md)
+- [Isa Neves](../../Pessoas/I/Isa%20Neves.md)
 - [Joana Cardoso](../../Pessoas/J/Joana%20Cardoso.md)
 - [Joana Gomes](../../Pessoas/J/Joana%20Gomes.md)
 - [José Miguel Fernandes](../../Pessoas/J/Jos%C3%A9%20Miguel%20Fernandes.md)
@@ -32,6 +33,7 @@ O Cabala foi um acampamento de Bicicletas que decorreu de 2 a 11 de Agosto de 20
 - [Maria João Simões](../../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
 - [Martinho Lucas Pires](../../Pessoas/M/Martinho%20Lucas%20Pires.md)
 - [Mário Carvalho](../../Pessoas/M/M%C3%A1rio%20Carvalho.md)
+- [Rui Nunes](../../Pessoas/R/Rui%20Nunes.md)
 
 ---
 

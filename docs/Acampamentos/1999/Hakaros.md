@@ -5,9 +5,9 @@ O Hakaros foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Cristovão Andrade](../../Pessoas/C/Cristov%C3%A3o%20Andrade.md)
-- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - Tiago Brandão Rodrigues
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Tiago Brandão Rodrigues](../../Pessoas/T/Tiago%20Brand%C3%A3o%20Rodrigues.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Domingos Freitas](../../Pessoas/D/Domingos%20Freitas.md) sj
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - João Ruela Branco, [Pedro Pessoa](../../Pessoas/P/Pedro%20Pessoa.md), Raquel Mesquita, [Maria Margarida Sancho](../../Pessoas/M/Maria%20Margarida%20Sancho.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - João Ruela Branco, [Pedro Pessoa](../../Pessoas/P/Pedro%20Pessoa.md), [Raquel Mesquita](../../Pessoas/R/Raquel%20Mesquita.md), [Maria Margarida Sancho](../../Pessoas/M/Maria%20Margarida%20Sancho.md)
 
 ## Páginas que ligam para aqui
 
@@ -19,6 +19,8 @@ O Hakaros foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que
 - [João Quintela](../../Pessoas/J/Jo%C3%A3o%20Quintela.md)
 - [Maria Fernandes](../../Pessoas/M/Maria%20Fernandes.md)
 - [Maria Margarida Sancho](../../Pessoas/M/Maria%20Margarida%20Sancho.md)
+- [Raquel Mesquita](../../Pessoas/R/Raquel%20Mesquita.md)
+- [Tiago Brandão Rodrigues](../../Pessoas/T/Tiago%20Brand%C3%A3o%20Rodrigues.md)
 
 ---
 
