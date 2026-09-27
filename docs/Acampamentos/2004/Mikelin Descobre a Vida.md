@@ -8,7 +8,7 @@ O Mikelin Descobre a Vida foi um campo de Lambretas que decorreu de 16 a 25 de A
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Constança Cordeiro Ferreira](../../Pessoas/C/Constan%C3%A7a%20Pereira%20da%20Silva.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md) sj
 - [Tia](../../Cargos/Tio.md) - [Filipa Granado](../../Pessoas/F/Filipa%20Granado.md)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - Tachi sj, [João Regueiras](../../Pessoas/J/Jo%C3%A3o%20Regueiras.md), [JPC](../../Pessoas/J/Jo%C3%A3o%20Pedro%20Carlos.md), [Luís Pereira](../../Pessoas/L/Lu%C3%ADs%20Pereira.md), [Paulo Braga](../../Pessoas/P/Paulo%20Braga.md), Carlos Pereira da Silva, [Carolina Silva](../../Pessoas/C/Carolina%20Silva.md)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Tachi](../../Pessoas/T/Tachi.md) sj, [João Regueiras](../../Pessoas/J/Jo%C3%A3o%20Regueiras.md), [JPC](../../Pessoas/J/Jo%C3%A3o%20Pedro%20Carlos.md), [Luís Pereira](../../Pessoas/L/Lu%C3%ADs%20Pereira.md), [Paulo Braga](../../Pessoas/P/Paulo%20Braga.md), [Carlos Pereira da Silva](../../Pessoas/C/Carlos%20Pereira%20da%20Silva.md), [Carolina Silva](../../Pessoas/C/Carolina%20Silva.md)
 
 ## Páginas que ligam para aqui
 
@@ -20,6 +20,7 @@ O Mikelin Descobre a Vida foi um campo de Lambretas que decorreu de 16 a 25 de A
 - [António Valério](../../Pessoas/A/Ant%C3%B3nio%20Val%C3%A9rio.md)
 - [Bernardo Narciso](../../Pessoas/B/Bernardo%20Narciso.md)
 - [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
+- [Carlos Pereira da Silva](../../Pessoas/C/Carlos%20Pereira%20da%20Silva.md)
 - [Carolina Silva](../../Pessoas/C/Carolina%20Silva.md)
 - [Constança Pereira da Silva](../../Pessoas/C/Constan%C3%A7a%20Pereira%20da%20Silva.md)
 - [Diogo Torcato](../../Pessoas/D/Diogo%20Torcato.md)
@@ -40,6 +41,7 @@ O Mikelin Descobre a Vida foi um campo de Lambretas que decorreu de 16 a 25 de A
 - [Paulo Braga](../../Pessoas/P/Paulo%20Braga.md)
 - [Pedro Rodrigues](../../Pessoas/P/Pedro%20Rodrigues.md)
 - [Rita Turras](../../Pessoas/R/Rita%20Turras.md)
+- [Tachi](../../Pessoas/T/Tachi.md)
 - [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md)
 - [Tiago Carneiro](../../Pessoas/T/Tiago%20Carneiro.md)
 - [Tiago Madeira](../../Pessoas/T/Tiago%20Madeira.md)

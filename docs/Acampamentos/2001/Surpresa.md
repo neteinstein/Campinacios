@@ -5,7 +5,7 @@ O Surpresa foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que 
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj
-- [Mamã](../../Cargos/Mam%C3%A3.md) - Juliana Silva
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [Juliana Silva](../../Pessoas/J/Juliana%20Silva.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Pedro Pinheiro](../../Pessoas/P/Pedro%20Pinheiro.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [João Paulo Moinhos](../../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md)
 - [Tias](../../Cargos/Tio.md) - [Diana Quintela](../../Pessoas/D/Diana%20Quintela.md) e [Ana Pinto da Costa](../../Pessoas/A/Ana%20Pinto%20da%20Costa.md)
@@ -22,6 +22,7 @@ O Surpresa foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que 
 - [Joana Fonseca](../../Pessoas/J/Joana%20Fonseca.md)
 - [José Pedro Ferreira](../../Pessoas/J/Jos%C3%A9%20Pedro%20Ferreira.md)
 - [João Paulo Moinhos](../../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md)
+- [Juliana Silva](../../Pessoas/J/Juliana%20Silva.md)
 - [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
 - [Manuel Vilhena](../../Pessoas/M/Manuel%20Vilhena.md)
 - [Margarida Maury](../../Pessoas/M/Margarida%20Maury.md)

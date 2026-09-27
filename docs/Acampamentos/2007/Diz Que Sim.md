@@ -8,7 +8,7 @@ Diz Que Sim foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) fei
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Patrícia Cabaço](../../Pessoas/P/Patr%C3%ADcia%20Caba%C3%A7o.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Carlos Rodrigues](../../Pessoas/C/Carlos%20Rodrigues.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [José da Silva Almeida](../../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md) sj
-- [Capelinho](../../Cargos/Capelinho.md) - Gonçalo Machado sj
+- [Capelinho](../../Cargos/Capelinho.md) - [Gonçalo Machado](../../Pessoas/G/Gon%C3%A7alo%20Machado.md) sj
 - [Tia](../../Cargos/Tio.md) - [Inês Patrício](../../Pessoas/I/In%C3%AAs%20Patr%C3%ADcio.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Eduardo Almeida](../../Pessoas/E/Eduardo%20Almeida.md), [Francisca Mendes](../../Pessoas/F/Francisca%20Mendes.md), [Manuel Vilhena](../../Pessoas/M/Manuel%20Vilhena.md), [Joana Gomes](../../Pessoas/J/Joana%20Gomes.md) e [Mariana Gonçalves](../../Pessoas/M/Mariana%20Gon%C3%A7alves.md)
 
@@ -28,6 +28,7 @@ Diz Que Sim foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) fei
 - [Francisco Carvalho](../../Pessoas/F/Francisco%20Carvalho.md)
 - [Francisco Moitinho Almeida](../../Pessoas/F/Francisco%20Moitinho%20Almeida.md)
 - [Gonçalo Fonseca Carvalho](../../Pessoas/G/Gon%C3%A7alo%20Fonseca%20Carvalho.md)
+- [Gonçalo Machado](../../Pessoas/G/Gon%C3%A7alo%20Machado.md)
 - [Inês Patrício](../../Pessoas/I/In%C3%AAs%20Patr%C3%ADcio.md)
 - [Joana Almeida](../../Pessoas/J/Joana%20Almeida.md)
 - [Joana Ferreira da Silva](../../Pessoas/J/Joana%20Ferreira%20da%20Silva.md)

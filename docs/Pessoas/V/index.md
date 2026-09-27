@@ -1,10 +1,16 @@
 # V
 
 - [Vasco Lucas Pires](Vasco%20Lucas%20Pires.md)
+- [Vasco Meneses](Vasco%20Meneses.md)
 - [Vasco Romão](Vasco%20Rom%C3%A3o.md)
 - [Vasco Teixeira](Vasco%20Teixeira.md)
+- [Vasco Themudo](Vasco%20Themudo.md)
 - [Vasco Vasconcelos](Vasco%20Vasconcelos.md)
 - [Vânia Carvalho](V%C3%A2nia%20Carvalho.md)
+- [Vera Cunha](Vera%20Cunha.md)
+- [Vera Eiró](Vera%20Eir%C3%B3.md)
 - [Vicente Goes](Vicente%20Goes.md)
+- [Virgílio](Virg%C3%ADlio.md)
 - [Vítor Fernandes](V%C3%ADtor%20Fernandes.md)
+- [Vítor Lamosa](V%C3%ADtor%20Lamosa.md)
 - [Vítor Leite](V%C3%ADtor%20Leite.md)

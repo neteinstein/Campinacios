@@ -7,7 +7,7 @@ Campo de Formação que decorreu na casa de Singeverga na Páscoa de 2005.
 - [Director](../../Cargos/Director.md) - [Zebra](../../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md) sj
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Joana Silva](../../Pessoas/J/Joana%20Ferreira%20da%20Silva.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Manuel Vilhena](../../Pessoas/M/Manuel%20Vilhena.md)
-- [Capelão](../../Cargos/Capel%C3%A3o.md) - Zé Frazão sj, Marco Cunha sj e [José da Silva Almeida](../../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md) sj
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - Zé Frazão sj, [Marco Cunha](../../Pessoas/M/Marco%20Cunha.md) sj e [José da Silva Almeida](../../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md) sj
 - [Tia](../../Cargos/Tio.md) - [Rita Roxo](../../Pessoas/R/Rita%20Roxo.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Joana Cardoso](../../Pessoas/J/Joana%20Cardoso.md) e [Rui Junqueira](../../Pessoas/R/Rui%20Junqueira.md)
 
@@ -30,6 +30,7 @@ Campo de Formação que decorreu na casa de Singeverga na Páscoa de 2005.
 - [Madalena Mariz](../../Pessoas/M/Madalena%20Mariz.md)
 - [Mafalda Coelho](../../Pessoas/M/Mafalda%20Coelho.md)
 - [Manuel Vilhena](../../Pessoas/M/Manuel%20Vilhena.md)
+- [Marco Cunha](../../Pessoas/M/Marco%20Cunha.md)
 - [Pedro Rodrigues](../../Pessoas/P/Pedro%20Rodrigues.md)
 - [Rita Roxo](../../Pessoas/R/Rita%20Roxo.md)
 - [Rui Junqueira](../../Pessoas/R/Rui%20Junqueira.md)

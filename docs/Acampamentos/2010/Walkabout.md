@@ -12,7 +12,7 @@ Originalmente a palavra walkabout referia-se a um rito de passagem que os aborig
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Ana Simões](../../Pessoas/A/Ana%20Sim%C3%B5es.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [José Maria Brito](../../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md)
-- [Capelinho](../../Cargos/Capelinho.md) - Ricardo Dias
+- [Capelinho](../../Cargos/Capelinho.md) - [Ricardo Dias](../../Pessoas/R/Ricardo%20Dias.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Filipe Barroso](../../Pessoas/F/Filipe%20Barroso.md), [Jacinto Bezerra](../../Pessoas/J/Jacinto%20Bezerra.md), [Diogo Carneiro](../../Movimento/Desambigua%C3%A7%C3%A3o/Diogo%20Carneiro.md), [Hugo Ferreira](../../Pessoas/H/Hugo%20Ferreira.md), [Cecília Miranda](../../Pessoas/C/Cec%C3%ADlia%20Miranda.md), [Sara Fernandes](../../Pessoas/S/Sara%20Fernandes.md), [Joana Fonseca](../../Pessoas/J/Joana%20Fonseca.md)
 
 ## Páginas que ligam para aqui
@@ -27,6 +27,7 @@ Originalmente a palavra walkabout referia-se a um rito de passagem que os aborig
 - [Joana Fonseca](../../Pessoas/J/Joana%20Fonseca.md)
 - [José Maria Brito](../../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md)
 - [Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md)
+- [Ricardo Dias](../../Pessoas/R/Ricardo%20Dias.md)
 - [Sara Fernandes](../../Pessoas/S/Sara%20Fernandes.md)
 
 ---
