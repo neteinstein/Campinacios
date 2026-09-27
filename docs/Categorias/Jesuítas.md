@@ -2,12 +2,13 @@
 
 Jesuítas que animam ou animaram acampamentos de Campinácios
 
-## Páginas nesta categoria (62)
+## Páginas nesta categoria (63)
 
 - ["Para Educar Melhor - Campos de férias inacianos"](../Movimento/Para%20Educar%20Melhor%20-%20Campos%20de%20f%C3%A9rias%20inacianos.md)
 - [Afonso Espregueira](../Pessoas/A/Afonso%20Espregueira.md)
 - [Andreas Lind](../Pessoas/A/Andreas%20Lind.md)
 - [António Ferreira da Silva](../Pessoas/A/Ant%C3%B3nio%20Ferreira%20da%20Silva.md)
+- [António Júlio Trigueiros](../Pessoas/A/Ant%C3%B3nio%20J%C3%BAlio%20Trigueiros.md)
 - [António Pamplona](../Pessoas/A/Ant%C3%B3nio%20Pamplona.md)
 - [António Sant'Ana](../Pessoas/A/Ant%C3%B3nio%20Sant%27Ana.md)
 - [António Santos Lourenço](../Pessoas/A/Ant%C3%B3nio%20Santos%20Louren%C3%A7o.md)
