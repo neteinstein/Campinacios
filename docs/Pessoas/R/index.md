@@ -2,6 +2,7 @@
 
 - [Rafa Mano](Rafa%20Mano.md)
 - [Rafael Carecho](Rafael%20Carecho.md)
+- [Rafael Lucas Pires](Rafael%20Lucas%20Pires.md)
 - [Rafael Rebordão](Rafael%20Rebord%C3%A3o.md)
 - [Rafaela Azevedo](Rafaela%20Azevedo.md)
 - [Rafaela Lúcio](Rafaela%20L%C3%BAcio.md)
