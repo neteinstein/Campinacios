@@ -10,7 +10,7 @@ O Tabuadelas II foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.m
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Gonçalo Eiró](../../Pessoas/G/Gon%C3%A7alo%20Eir%C3%B3.md) sj
 - [Tia](../../Cargos/Tio.md) - [Cláudia Montenegro](../../Pessoas/C/Cl%C3%A1udia%20Montenegro.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Zinho](../../Pessoas/E/Eduardo%20Rodrigues.md), [Perrú](../../Pessoas/P/Pedro%20Rocha%20Mendes.md) e [Filipe Queiroz e Melo](../../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Pedro Castro](../../Pessoas/P/Pedro%20Castro.md), Rafael, [Alex](../../Pessoas/A/Alex.md), [Carla Gapo](../../Pessoas/C/Carla%20Gapo.md), [Andreia](../../Pessoas/A/Andreia.md) e Joana Silva
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Pedro Castro](../../Pessoas/P/Pedro%20Castro.md), [Rafael Lucas Pires](../../Pessoas/R/Rafael%20Lucas%20Pires.md), [Alex](../../Pessoas/A/Alex.md), [Carla Gapo](../../Pessoas/C/Carla%20Gapo.md), [Andreia](../../Pessoas/A/Andreia.md) e Joana Silva
 
 ## Páginas que ligam para aqui
 
@@ -26,6 +26,7 @@ O Tabuadelas II foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.m
 - [Marta Santos](../../Pessoas/M/Marta%20Santos.md)
 - [Otília Azevedo](../../Pessoas/O/Ot%C3%ADlia%20Azevedo.md)
 - [Pedro Castro](../../Pessoas/P/Pedro%20Castro.md)
+- [Rafael Lucas Pires](../../Pessoas/R/Rafael%20Lucas%20Pires.md)
 - [Sérgio Carvalho](../../Pessoas/S/S%C3%A9rgio%20Carvalho.md)
 - [Telma Pinto](../../Pessoas/T/Telma%20Pinto.md)
 
