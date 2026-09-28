@@ -2,7 +2,7 @@
 
 Animadores do Colégio das Caldinhas
 
-## Páginas nesta categoria (142)
+## Páginas nesta categoria (143)
 
 - [Amílcar Sousa](../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
 - [Ana Carolina Bardi](../Pessoas/A/Ana%20Carolina%20Bardi.md)
@@ -55,6 +55,7 @@ Animadores do Colégio das Caldinhas
 - [Elias Oliveira](../Pessoas/E/Elias%20Oliveira.md)
 - [Fernando Miguel Guimarães](../Pessoas/F/Fernando%20Miguel%20Guimar%C3%A3es.md)
 - [Francisco Almeida (Kiko)](../Pessoas/F/Francisco%20Almeida%20%28Kiko%29.md)
+- [Francisco Barroso](../Pessoas/F/Francisco%20Barroso.md)
 - [Francisco Silva](../Pessoas/F/Francisco%20Silva.md)
 - [Fábio Teixeira](../Pessoas/F/F%C3%A1bio%20Teixeira.md)
 - [Hugo Ferreira](../Pessoas/H/Hugo%20Ferreira.md)
