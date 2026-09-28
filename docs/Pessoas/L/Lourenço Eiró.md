@@ -36,6 +36,7 @@ Lourenço Eiró foi um dos fundadores dos [Campinácios](../../Movimento/Campin%
 
 - [Academia](../../Acampamentos/2005/Academia.md)
 - [Apoio](../../Wikin%C3%A1cios/Apoio.md)
+- [Assistentes Nacionais](../../Categorias/Assistentes%20Nacionais.md)
 - [CIFA II](../../Acampamentos/Sem%20data/CIFA%20II.md)
 - [Cagácios](../../Acampamentos/Sem%20data/Cag%C3%A1cios.md)
 - [Caminho](../../Acampamentos/2009/Caminho.md)
@@ -43,6 +44,7 @@ Lourenço Eiró foi um dos fundadores dos [Campinácios](../../Movimento/Campin%
 - [Caroço](../../Acampamentos/1999/Caro%C3%A7o.md)
 - [Cinena](../../Acampamentos/2001/Cinena.md)
 - [Constância](../../Acampamentos/1991/Const%C3%A2ncia.md)
+- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - [Graal I](../../Acampamentos/2002/Graal%20I.md)
 - [Graal II](../../Acampamentos/2003/Graal%20II.md)
 - [Graal III](../../Acampamentos/2007/Graal%20III.md)

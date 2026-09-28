@@ -13,6 +13,7 @@
 - [Barracada](../../Acampamentos/2024/Barracada.md)
 - [Chuva ó Chave](../../Acampamentos/2023/Chuva%20%C3%B3%20Chave.md)
 - [De Todas as Fôrmas](../../Acampamentos/2023/De%20Todas%20as%20F%C3%B4rmas.md)
+- [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
 - [Zapping](../../Acampamentos/2019/Zapping.md)
 
 ---
@@ -20,3 +21,4 @@
 | Categorias |
 | --- |
 | [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |
+| [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) |

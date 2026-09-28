@@ -15,6 +15,7 @@ Ana Carolina Santos é desde 2008 um das animadoras do Colégio da Imaculada Con
 
 ## Páginas que ligam para aqui
 
+- [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md)
 - [Tira as rodinhas](../../Acampamentos/2009/Tira%20as%20rodinhas.md)
 
 ---
@@ -23,3 +24,4 @@ Ana Carolina Santos é desde 2008 um das animadoras do Colégio da Imaculada Con
 | --- |
 | [Animadores](../../Categorias/Animadores.md) |
 | [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |
+| [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) |

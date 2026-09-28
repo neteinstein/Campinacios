@@ -8,6 +8,8 @@ Já teve outras designações como por exemplo: Quadros Nacionais (1991/1992) Eq
 
 Até ao ano 2000/2001 a Direcção Nacional era uma das Direcções Locais sendo esta função rotativa. Apesar disso participavam das reuniões nacionais todas as DL's e o Assistente Nacional.
 
+Em Julho de 2019 o CAIC fechou; a [Direcção Local do CAIC](Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) manteve-se com os animadores do colégio que já faziam parte do Movimento até ao ano 2022/2023. Desde 2023/2024 a Direcção Nacional conta apenas com as Direcções Locais do CC e do CSJB.
+
 Para efeitos de coerência apresentamos aqui como Direcção Nacional todos os elementos que estavam presentes nas reuniões nacionais e não só o que era chamado na altura de Direcção Nacional.
 
 ### Competências
@@ -25,12 +27,161 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 ## Direcção Nacional 2026/2027
 
 - **Assistente Nacional**: [Vasco Lucas Pires](../Pessoas/V/Vasco%20Lucas%20Pires.md) sj
-- **DL-CC**: [Vicente Goes](../Pessoas/V/Vicente%20Goes.md) sj (Assistente Local do CC)
+- **Coordenador Nacional**: [Dinis Braga da Cruz](../Pessoas/D/Dinis%20Braga%20da%20Cruz.md)
+- **Coordenador Adjunto**: [Fernando Monteiro](../Pessoas/F/Fernando%20Monteiro.md)
+- **DL-CC**: Daniela Gonçalves (Coordenadora da DL) e [Vicente Goes](../Pessoas/V/Vicente%20Goes.md) sj
+- **DL-CSJB**: Matilde Pereira (Matchi) (Coordenadora da DL) e [Miguel Melo Ribeiro](../Pessoas/M/Miguel%20Melo.md) sj
+- **Departamentos**:
+    - Comunicação: Nuno Ferreira (Broski)
+    - Ecónomo: [Martim Nunes](../Pessoas/M/Martim%20Nunes.md)
+    - Locais de Campo: Pablo Fernandes
+    - Transportes: [Francisca Crujeira](../Pessoas/F/Francisca%20Crujeira.md)
+    - Angariação de Fundos: Francisca Serrano
+    - GARFO (Formação): Beatriz Picciochi
+    - Delegado SPC: Mariana Ramalho
 
 ## Direcção Nacional 2025/2026
 
 - **Assistente Nacional**: [Vasco Lucas Pires](../Pessoas/V/Vasco%20Lucas%20Pires.md) sj
-- **DL-CC**: [Vasco Lucas Pires](../Pessoas/V/Vasco%20Lucas%20Pires.md) sj (Assistente Local do CC)
+- **Coordenador Nacional**: [Guilherme Balhau](../Pessoas/G/Guilherme%20Balhau.md)
+- **Coordenadora Adjunta**: [Sofia Ângelo](../Pessoas/S/Sofia%20%C3%82ngelo.md)
+- **DL-CC**: [Fernando Monteiro](../Pessoas/F/Fernando%20Monteiro.md) (Coordenador da DL) e [Vasco Lucas Pires](../Pessoas/V/Vasco%20Lucas%20Pires.md) sj
+- **DL-CSJB**: Margarida Tavares (Mogui) (Coordenadora da DL) e [Eduardo Amaral](../Pessoas/E/Eduardo%20Amaral.md) sj
+- **Departamentos**:
+    - Comunicação: Nuno Ferreira (Broski)
+    - Ecónomo: [Martim Nunes](../Pessoas/M/Martim%20Nunes.md)
+    - Locais de Campo: [Jaime Lucas Pires](../Pessoas/J/Jaime%20Lucas%20Pires.md)
+    - Transportes: Manuel Vassalo
+    - Angariação de Fundos: [Beatriz Maia](../Pessoas/B/Beatriz%20Maia.md)
+    - GARFO (Formação): Francisco Carneiro
+    - Delegado SPC: Joana Branco da Silva
+
+## Direcção Nacional 2024/2025
+
+- **Assistente Nacional**: [Carlos Miranda](../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md) sj
+- **Coordenador Nacional**: [Guilherme Balhau](../Pessoas/G/Guilherme%20Balhau.md)
+- **Coordenadora Adjunta**: [Sofia Ângelo](../Pessoas/S/Sofia%20%C3%82ngelo.md)
+- **DL-CC**: [Afonso Carvalho](../Pessoas/A/Afonso%20Carvalho.md) (Coordenador da DL) e [Domingos Perloiro](../Pessoas/D/Domingos%20Perloiro.md) sj
+- **DL-CSJB**: Maria Solla (Coordenadora da DL) e [Eduardo Amaral](../Pessoas/E/Eduardo%20Amaral.md) sj
+- **Departamentos**:
+    - Comunicação: [Concha Sampaio Soares](../Pessoas/C/Concha%20Sampaio%20Soares.md)
+    - Ecónomo: João Afonso Sousa
+    - Locais de Campo: [Fernando Monteiro](../Pessoas/F/Fernando%20Monteiro.md)
+    - Transportes: [Miguel Teixeira](../Pessoas/M/Miguel%20Teixeira.md)
+    - Delegado SPC: Joana Branco da Silva
+
+## Direcção Nacional 2023/2024
+
+- **Assistente Nacional**: [Carlos Miranda](../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md) sj
+- **Coordenador Nacional**: [Jaime Lucas Pires](../Pessoas/J/Jaime%20Lucas%20Pires.md)
+- **Coordenadora Adjunta**: Maria Silva (Malú)
+- **DL-CC**: [Francisco Ilhão](../Pessoas/F/Francisco%20Ilh%C3%A3o.md) (Coordenador da DL) e [Domingos Perloiro](../Pessoas/D/Domingos%20Perloiro.md) sj
+- **DL-CSJB**: [António Neves](../Pessoas/A/Ant%C3%B3nio%20Neves.md) (Coordenador da DL) e [Filipe Lima](../Pessoas/F/Filipe%20Lima.md) sj
+
+## Direcção Nacional 2022/2023
+
+- **Assistente Nacional**: [António Pamplona](../Pessoas/A/Ant%C3%B3nio%20Pamplona.md) sj
+- **Coordenador Nacional**: João Afonso Sousa
+- **Coordenador Adjunto**: [Jaime Lucas Pires](../Pessoas/J/Jaime%20Lucas%20Pires.md)
+- **DL-CC**: Tiago Vidal (Coordenador da DL) e [Afonso Espregueira](../Pessoas/A/Afonso%20Espregueira.md) sj
+- **DL-CAIC**: Leonor Cardoso (Coordenadora da DL)
+- **DL-CSJB**: [Carmo Ribeiro Corrêa (Chumi)](../Pessoas/C/Carmo%20Ribeiro%20Corr%C3%AAa.md) (Coordenadora da DL) e [Filipe Lima](../Pessoas/F/Filipe%20Lima.md) sj
+
+## Direcção Nacional 2021/2022
+
+- **Assistente Nacional**: [Luís Onofre](../Pessoas/L/Lu%C3%ADs%20Onofre.md) sj
+- **Coordenadora Nacional**: Joana Ferreira
+- **DL-CC**: [Rafaela Azevedo](../Pessoas/R/Rafaela%20Azevedo.md) (Coordenadora da DL) e [Afonso Espregueira](../Pessoas/A/Afonso%20Espregueira.md) sj
+- **DL-CAIC**: Leonor Cardoso (Coordenadora da DL)
+- **DL-CSJB**: [Isabel Fonseca](../Pessoas/I/Isabel%20Fonseca.md) (Coordenadora da DL) e [Vasco Teixeira](../Pessoas/V/Vasco%20Teixeira.md) sj
+
+## Direcção Nacional 2020/2021
+
+- **Assistente Nacional**: [Luís Onofre](../Pessoas/L/Lu%C3%ADs%20Onofre.md) sj
+- **Coordenadora Nacional**: Joana Ferreira
+- **DL-CC**: [Rita Sousa](../Pessoas/R/Rita%20Sousa.md) (Coordenadora da DL) e [Samuel Beirão](../Pessoas/S/Samuel%20Beir%C3%A3o.md) sj
+- **DL-CAIC**: [Eduarda Roxo](../Pessoas/E/Eduarda%20Roxo.md) (Coordenadora da DL)
+- **DL-CSJB**: [Vasco Teixeira](../Pessoas/V/Vasco%20Teixeira.md) sj
+
+## Direcção Nacional 2019/2020
+
+- **Assistente Nacional**: [Luís Onofre](../Pessoas/L/Lu%C3%ADs%20Onofre.md) sj
+- **Coordenadora Nacional**: [Joana Dias Coelho](../Pessoas/J/Joana%20Coelho.md)
+- **DL-CC**: [Mariana Salazar](../Pessoas/M/Mariana%20Salazar.md) (Coordenadora da DL) e [António Santos Lourenço](../Pessoas/A/Ant%C3%B3nio%20Santos%20Louren%C3%A7o.md) sj
+- **DL-CAIC**: [Pedro Amado](../Pessoas/P/Pedro%20Amado.md) (Coordenador da DL)
+- **DL-CSJB**: [Vasco Teixeira](../Pessoas/V/Vasco%20Teixeira.md) sj
+
+## Direcção Nacional 2018/2019
+
+- **Assistente Nacional**: [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md) sj
+- **Coordenadora Nacional**: [Helena Cunha e Carmo](../Pessoas/H/Helena%20Cunha%20e%20Carmo.md)
+- **DL-CC**: [Nuno Mesquita](../Pessoas/N/Nuno%20Mesquita.md) (Coordenador da DL) e [Luís Onofre](../Pessoas/L/Lu%C3%ADs%20Onofre.md) sj
+- **DL-CAIC**: [Pedro Amado](../Pessoas/P/Pedro%20Amado.md) (Coordenador da DL) e [António Santos Lourenço](../Pessoas/A/Ant%C3%B3nio%20Santos%20Louren%C3%A7o.md) sj
+- **DL-CSJB**: [Pedro Santos](../Pessoas/P/Pedro%20Santos.md) (Coordenador da DL) e [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md) sj
+
+## Direcção Nacional 2017/2018
+
+- **Assistente Nacional**: [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md) sj
+- **Coordenadora Nacional**: [Helena Cunha e Carmo](../Pessoas/H/Helena%20Cunha%20e%20Carmo.md)
+- **DL-CC**: [Joana Dias Coelho](../Pessoas/J/Joana%20Coelho.md) (Coordenadora da DL) e [Samuel Afonso](../Pessoas/S/Samuel%20Afonso.md) sj
+- **DL-CAIC**: [André Trigo](../Pessoas/A/Andr%C3%A9%20Trigo.md) (Coordenador da DL) e [Carlos Miranda](../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md) sj
+- **DL-CSJB**: [Pedro Santos](../Pessoas/P/Pedro%20Santos.md) (Coordenador da DL) e [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md) sj
+
+## Direcção Nacional 2016/2017
+
+- **Assistente Nacional**: [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md) sj
+- **Coordenadora Nacional**: [Sílvia Lobo](../Pessoas/S/S%C3%ADlvia%20Lobo.md)
+- **DL-CC**: [Sofia Pinelas](../Pessoas/A/Ana%20Sofia%20Pinelas.md) (Coordenadora da DL) e [Samuel Afonso](../Pessoas/S/Samuel%20Afonso.md) sj
+- **DL-CAIC**: [Carlos Miranda](../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md) sj
+- **DL-CSJB**: [Afonso Oom](../Pessoas/A/Afonso%20Oom.md) (Coordenador da DL) e [Ricardo Batista](../Pessoas/R/Ricardo%20Batista.md) sj
+
+## Direcção Nacional 2015/2016
+
+- **Assistente Nacional**: [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md) sj
+- **Coordenador Nacional**: [João Eiró](../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md)
+- **DL-CC**: [Sofia Pinelas](../Pessoas/A/Ana%20Sofia%20Pinelas.md) (Coordenadora da DL) e [Nelson Faria](../Pessoas/N/Nelson%20Faria.md) sj
+- **DL-CAIC**: [Joana Matos](../Pessoas/J/Joana%20Matos.md) (Coordenadora da DL) e [Carlos Miranda](../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md) sj
+- **DL-CSJB**: [João Cativo](../Pessoas/J/Jo%C3%A3o%20Captivo.md) (Coordenador da DL) e [António Pamplona](../Pessoas/A/Ant%C3%B3nio%20Pamplona.md) sj
+
+## Direcção Nacional 2014/2015
+
+- **Assistente Nacional**: [Luís Onofre](../Pessoas/L/Lu%C3%ADs%20Onofre.md) sj
+- **Coordenador Nacional**: [Paulo Cardoso](../Pessoas/P/Paulo%20Cardoso.md)
+- **DL-CC**: [Sílvia Lobo](../Pessoas/S/S%C3%ADlvia%20Lobo.md) (Coordenadora da DL) e [Nelson Faria](../Pessoas/N/Nelson%20Faria.md) sj
+- **DL-CAIC**: [João Manuel Silva](../Pessoas/J/Jo%C3%A3o%20Manuel%20Silva.md) sj
+- **DL-CSJB**: [João Cativo](../Pessoas/J/Jo%C3%A3o%20Captivo.md) (Coordenador da DL) e [António Pamplona](../Pessoas/A/Ant%C3%B3nio%20Pamplona.md) sj
+
+## Direcção Nacional 2013/2014
+
+- **Assistente Nacional**: [Luís Onofre](../Pessoas/L/Lu%C3%ADs%20Onofre.md) sj
+- **Coordenador Nacional**: [Paulo Cardoso](../Pessoas/P/Paulo%20Cardoso.md)
+- **DL-CC**: [Sílvia Lobo](../Pessoas/S/S%C3%ADlvia%20Lobo.md) (Coordenadora da DL) e [José Maria Brito](../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md) sj
+- **DL-CAIC**: [Rafael Carecho](../Pessoas/R/Rafael%20Carecho.md) (Coordenador da DL) e [João Manuel Silva](../Pessoas/J/Jo%C3%A3o%20Manuel%20Silva.md) sj
+- **DL-CSJB**: [João Eiró](../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md) (Coordenador da DL) e João Brandão sj
+
+## Direcção Nacional 2012/2013
+
+- **Assistente Nacional**: [Luís Onofre](../Pessoas/L/Lu%C3%ADs%20Onofre.md) sj
+- **Coordenador Nacional**: [Filipe Próspero](../Pessoas/F/Filipe%20Pr%C3%B3spero.md)
+- **DL-CC**: [Paulo Cardoso](../Pessoas/P/Paulo%20Cardoso.md) (Coordenador da DL) e [José Maria Brito](../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md) sj
+- **DL-CAIC**: João de Brito sj
+- **DL-CSJB**: João Brandão sj
+
+## Direcção Nacional 2011/2012
+
+- **Assistente Nacional**: [Luís Onofre](../Pessoas/L/Lu%C3%ADs%20Onofre.md) sj
+- **Coordenador Nacional**: [Filipe Próspero](../Pessoas/F/Filipe%20Pr%C3%B3spero.md)
+- **DL-CC**: [Paulo Cardoso](../Pessoas/P/Paulo%20Cardoso.md) (Coordenador da DL) e [José Maria Brito](../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md) sj
+- **DL-CAIC**: [Rafael Carecho](../Pessoas/R/Rafael%20Carecho.md) (Coordenador da DL) e Ricardo Barroso sj
+- **DL-CSJB**: [Bernardo Caldas](../Pessoas/B/Bernardo%20Caldas.md) (Coordenador da DL) e [Andreas Lind](../Pessoas/A/Andreas%20Lind.md) sj
+
+## Direcção Nacional 2010/2011
+
+- **Assistente Nacional**: [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj
+- **Coordenador Nacional**: [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md)
+- **DL-CC**: [João Paulo Moinhos](../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md) (Coordenador da DL) e [Vasco Themudo](../Pessoas/V/Vasco%20Themudo.md) sj
+- **DL-CAIC**: [Francisco Martins](../Pessoas/F/Francisco%20Martins.md) sj
+- **DL-CSJB**: [Andreas Lind](../Pessoas/A/Andreas%20Lind.md) sj
 
 ## Direcção Nacional 2009/2010
 
@@ -167,14 +318,16 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 - [Direcções Locais](Direc%C3%A7%C3%B5es%20Locais.md)
 - [Secretários da DN](Secret%C3%A1rios%20da%20DN.md)
 
-## Páginas nesta categoria (57)
+## Páginas nesta categoria (75)
 
 - [Amílcar Sousa](../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
 - [Ana Simões](../Pessoas/A/Ana%20Sim%C3%B5es.md)
 - [Andreia Gil](../Pessoas/A/Andreia%20Gil.md)
 - [Andreia Magalhães](../Pessoas/A/Andreia%20Magalh%C3%A3es.md)
+- [António Pamplona](../Pessoas/A/Ant%C3%B3nio%20Pamplona.md)
 - [António Queiroz Martins](../Pessoas/A/Ant%C3%B3nio%20Queiroz%20Martins.md)
 - [António Sant'Ana](../Pessoas/A/Ant%C3%B3nio%20Sant%27Ana.md)
+- [Beatriz Maia](../Pessoas/B/Beatriz%20Maia.md)
 - [Bruno Costa](../Pessoas/B/Bruno%20Costa.md)
 - [Carla Resende](../Pessoas/C/Carla%20Resende.md)
 - [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md)
@@ -184,11 +337,15 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 - [Carlos Ruiz](../Pessoas/C/Carlos%20Ruiz.md)
 - [Conceição Martinho](../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)
 - [Concha Líbano Monteiro](../Pessoas/C/Concha%20L%C3%ADbano%20Monteiro.md)
+- [Concha Sampaio Soares](../Pessoas/C/Concha%20Sampaio%20Soares.md)
 - [Constança Pereira da Silva](../Pessoas/C/Constan%C3%A7a%20Pereira%20da%20Silva.md)
+- [Dinis Braga da Cruz](../Pessoas/D/Dinis%20Braga%20da%20Cruz.md)
 - [Domingos Freitas](../Pessoas/D/Domingos%20Freitas.md)
 - [Eduardo Rodrigues](../Pessoas/E/Eduardo%20Rodrigues.md)
+- [Fernando Monteiro](../Pessoas/F/Fernando%20Monteiro.md)
 - [Filipe Próspero](../Pessoas/F/Filipe%20Pr%C3%B3spero.md)
 - [Filipe Queiroz e Melo](../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md)
+- [Francisca Crujeira](../Pessoas/F/Francisca%20Crujeira.md)
 - [Francisca Mendes](../Pessoas/F/Francisca%20Mendes.md)
 - [Francisco Martins](../Pessoas/F/Francisco%20Martins.md)
 - [Francisco Rodrigues (CAIC)](../Pessoas/F/Francisco%20Rodrigues%20%28CAIC%29.md)
@@ -198,17 +355,24 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 - [Gonçalo Frade](../Pessoas/G/Gon%C3%A7alo%20Frade.md)
 - [Gonçalo Graça](../Pessoas/G/Gon%C3%A7alo%20Gra%C3%A7a.md)
 - [Gonçalo Vaz Pedro](../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md)
+- [Guilherme Balhau](../Pessoas/G/Guilherme%20Balhau.md)
+- [Helena Cunha e Carmo](../Pessoas/H/Helena%20Cunha%20e%20Carmo.md)
 - [Isabel Girão](../Pessoas/I/Isabel%20Gir%C3%A3o.md)
+- [Jaime Lucas Pires](../Pessoas/J/Jaime%20Lucas%20Pires.md)
+- [Joana Coelho](../Pessoas/J/Joana%20Coelho.md)
 - [Joana Dias](../Pessoas/J/Joana%20Dias.md)
 - [Joana Gomes](../Pessoas/J/Joana%20Gomes.md)
 - [Joana Lima](../Pessoas/J/Joana%20Lima.md)
 - [José Augusto Rosa](../Pessoas/J/Jos%C3%A9%20Augusto%20Rosa.md)
+- [José Carlos Miranda](../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md)
 - [José Luís Silva](../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Silva.md)
 - [José Manuel Lopes](../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md)
 - [José Maria Brito](../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md)
 - [José da Silva Almeida](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
+- [João Eiró](../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md)
 - [João Paulo Moinhos](../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md)
 - [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
+- [Luís Onofre](../Pessoas/L/Lu%C3%ADs%20Onofre.md)
 - [Manuel Cordeiro Ferreira](../Pessoas/M/Manuel%20Cordeiro%20Ferreira.md)
 - [Manuel Paiva](../Pessoas/M/Manuel%20Paiva.md)
 - [Manuel Vilhena](../Pessoas/M/Manuel%20Vilhena.md)
@@ -216,13 +380,18 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 - [Maria Manuel Urbano](../Pessoas/M/Maria%20Manuel%20Urbano.md)
 - [Mariana Roxo](../Pessoas/M/Mariana%20Roxo.md)
 - [Marta Carneiro](../Pessoas/M/Marta%20Carneiro.md)
+- [Martim Nunes](../Pessoas/M/Martim%20Nunes.md)
 - [Miguel Leite Martins](../Pessoas/M/Miguel%20Leite%20Martins.md)
+- [Miguel Teixeira](../Pessoas/M/Miguel%20Teixeira.md)
 - [Otília Azevedo](../Pessoas/O/Ot%C3%ADlia%20Azevedo.md)
+- [Paulo Cardoso](../Pessoas/P/Paulo%20Cardoso.md)
 - [Pedro Cameira](../Pessoas/P/Pedro%20Cameira.md)
 - [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)
 - [Ricardo Neves](../Pessoas/R/Ricardo%20Neves.md)
 - [Rodrigo Queiroz e Melo](../Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md)
+- [Sofia Ângelo](../Pessoas/S/Sofia%20%C3%82ngelo.md)
 - [Sérgio Carvalho](../Pessoas/S/S%C3%A9rgio%20Carvalho.md)
+- [Sílvia Lobo](../Pessoas/S/S%C3%ADlvia%20Lobo.md)
 - [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md)
 - [Vasco Lucas Pires](../Pessoas/V/Vasco%20Lucas%20Pires.md)
 - [Vicente Goes](../Pessoas/V/Vicente%20Goes.md)
@@ -232,19 +401,25 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 - [Amílcar Sousa](../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
 - [Andreia Gil](../Pessoas/A/Andreia%20Gil.md)
 - [Andreia Magalhães](../Pessoas/A/Andreia%20Magalh%C3%A3es.md)
+- [António Pamplona](../Pessoas/A/Ant%C3%B3nio%20Pamplona.md)
 - [António Queiroz Martins](../Pessoas/A/Ant%C3%B3nio%20Queiroz%20Martins.md)
 - [António Sant'Ana](../Pessoas/A/Ant%C3%B3nio%20Sant%27Ana.md)
+- [Beatriz Maia](../Pessoas/B/Beatriz%20Maia.md)
 - [Bruno Costa](../Pessoas/B/Bruno%20Costa.md)
 - [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md)
 - [Carlos Miguel Albuquerque](../Pessoas/C/Carlos%20Miguel%20Albuquerque.md)
 - [Carlos Ruiz](../Pessoas/C/Carlos%20Ruiz.md)
 - [Concha Líbano Monteiro](../Pessoas/C/Concha%20L%C3%ADbano%20Monteiro.md)
+- [Concha Sampaio Soares](../Pessoas/C/Concha%20Sampaio%20Soares.md)
 - [Constança Pereira da Silva](../Pessoas/C/Constan%C3%A7a%20Pereira%20da%20Silva.md)
+- [Dinis Braga da Cruz](../Pessoas/D/Dinis%20Braga%20da%20Cruz.md)
 - [Domingos Freitas](../Pessoas/D/Domingos%20Freitas.md)
 - [Eduardo Rodrigues](../Pessoas/E/Eduardo%20Rodrigues.md)
 - [Era Uma Vez...](../Acampamentos/2008/Era%20Uma%20Vez....md)
+- [Fernando Monteiro](../Pessoas/F/Fernando%20Monteiro.md)
 - [Filipe Próspero](../Pessoas/F/Filipe%20Pr%C3%B3spero.md)
 - [Filipe Queiroz e Melo](../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md)
+- [Francisca Crujeira](../Pessoas/F/Francisca%20Crujeira.md)
 - [Francisca Mendes](../Pessoas/F/Francisca%20Mendes.md)
 - [Francisco Martins](../Pessoas/F/Francisco%20Martins.md)
 - [Gonçalo Belo](../Pessoas/G/Gon%C3%A7alo%20Belo.md)
@@ -252,18 +427,25 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 - [Gonçalo Frade](../Pessoas/G/Gon%C3%A7alo%20Frade.md)
 - [Gonçalo Graça](../Pessoas/G/Gon%C3%A7alo%20Gra%C3%A7a.md)
 - [Gonçalo Vaz Pedro](../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md)
+- [Guilherme Balhau](../Pessoas/G/Guilherme%20Balhau.md)
+- [Helena Cunha e Carmo](../Pessoas/H/Helena%20Cunha%20e%20Carmo.md)
 - [Isabel Girão](../Pessoas/I/Isabel%20Gir%C3%A3o.md)
+- [Jaime Lucas Pires](../Pessoas/J/Jaime%20Lucas%20Pires.md)
+- [Joana Coelho](../Pessoas/J/Joana%20Coelho.md)
 - [Joana Dias](../Pessoas/J/Joana%20Dias.md)
 - [Joana Gomes](../Pessoas/J/Joana%20Gomes.md)
 - [Joana Lima](../Pessoas/J/Joana%20Lima.md)
 - [José Augusto Rosa](../Pessoas/J/Jos%C3%A9%20Augusto%20Rosa.md)
+- [José Carlos Miranda](../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md)
 - [José Luís Silva](../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Silva.md)
 - [José Manuel Lopes](../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md)
 - [José Maria Brito](../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md)
 - [José da Silva Almeida](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
+- [João Eiró](../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md)
 - [João Goulão](../Pessoas/J/Jo%C3%A3o%20Goul%C3%A3o.md)
 - [João Paulo Moinhos](../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md)
 - [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
+- [Luís Onofre](../Pessoas/L/Lu%C3%ADs%20Onofre.md)
 - [Manual de Deliberações](../Movimento/Manual%20de%20Delibera%C3%A7%C3%B5es.md)
 - [Manual do Director](../Movimento/Manual%20do%20Director.md)
 - [Manuel Cordeiro Ferreira](../Pessoas/M/Manuel%20Cordeiro%20Ferreira.md)
@@ -272,14 +454,19 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 - [Maria Manuel Urbano](../Pessoas/M/Maria%20Manuel%20Urbano.md)
 - [Mariana Roxo](../Pessoas/M/Mariana%20Roxo.md)
 - [Marta Carneiro](../Pessoas/M/Marta%20Carneiro.md)
+- [Martim Nunes](../Pessoas/M/Martim%20Nunes.md)
 - [Miguel Leite Martins](../Pessoas/M/Miguel%20Leite%20Martins.md)
+- [Miguel Teixeira](../Pessoas/M/Miguel%20Teixeira.md)
 - [Otília Azevedo](../Pessoas/O/Ot%C3%ADlia%20Azevedo.md)
+- [Paulo Cardoso](../Pessoas/P/Paulo%20Cardoso.md)
 - [Pedro Cameira](../Pessoas/P/Pedro%20Cameira.md)
 - [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)
 - [Revolução Campinácios v2.0](../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
 - [Ricardo Neves](../Pessoas/R/Ricardo%20Neves.md)
 - [Rodrigo Queiroz e Melo](../Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md)
+- [Sofia Ângelo](../Pessoas/S/Sofia%20%C3%82ngelo.md)
 - [Sérgio Carvalho](../Pessoas/S/S%C3%A9rgio%20Carvalho.md)
+- [Sílvia Lobo](../Pessoas/S/S%C3%ADlvia%20Lobo.md)
 - [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md)
 - [Vasco Lucas Pires](../Pessoas/V/Vasco%20Lucas%20Pires.md)
 - [Vicente Goes](../Pessoas/V/Vicente%20Goes.md)

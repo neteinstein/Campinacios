@@ -10,6 +10,7 @@
 ## Páginas que ligam para aqui
 
 - [A Partir](../../Acampamentos/2023/A%20Partir.md)
+- [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
 - [ReviraBolta](../../Acampamentos/2022/ReviraBolta.md)
 - [Superfishie](../../Acampamentos/2021/Superfishie.md)
 
@@ -18,3 +19,4 @@
 | Categorias |
 | --- |
 | [Animadores](../../Categorias/Animadores.md) |
+| [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) |
