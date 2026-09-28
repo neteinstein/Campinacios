@@ -25,6 +25,7 @@
 - [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - [Graal I](../../Acampamentos/2002/Graal%20I.md)
 - [Graal II](../../Acampamentos/2003/Graal%20II.md)
+- [I Encontro Nacional de Animadores](../../Encontros/I%20Encontro%20Nacional%20de%20Animadores.md)
 - [Liberata](../../Acampamentos/2000/Liberata.md)
 - [Pontes](../../Acampamentos/2001/Pontes.md)
 - [Trolliciclos](../../Acampamentos/2004/Trolliciclos.md)
@@ -32,7 +33,7 @@
 
 ---
 
-**Outros nomes:** Zé Frazão
+**Outros nomes:** José Correia Frazão · Zé Frazão
 
 | Categorias |
 | --- |

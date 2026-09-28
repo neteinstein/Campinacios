@@ -37,14 +37,16 @@ Lourenço Eiró foi um dos fundadores dos [Campinácios](../../Movimento/Campin%
 - [Academia](../../Acampamentos/2005/Academia.md)
 - [Apoio](../../Wikin%C3%A1cios/Apoio.md)
 - [Assistentes Nacionais](../../Categorias/Assistentes%20Nacionais.md)
-- [CIFA II](../../Acampamentos/Sem%20data/CIFA%20II.md)
 - [Cagácios](../../Acampamentos/Sem%20data/Cag%C3%A1cios.md)
 - [Caminho](../../Acampamentos/2009/Caminho.md)
 - [Campinácios](../../Movimento/Campin%C3%A1cios.md)
 - [Caroço](../../Acampamentos/1999/Caro%C3%A7o.md)
+- [CIFA II](../../Acampamentos/Sem%20data/CIFA%20II.md)
 - [Cinena](../../Acampamentos/2001/Cinena.md)
 - [Constância](../../Acampamentos/1991/Const%C3%A2ncia.md)
 - [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
+- [Encontro Nacional de Animadores 2007](../../Encontros/Encontro%20Nacional%20de%20Animadores%202007.md)
+- [Êxodo](../../Acampamentos/2008/%C3%8Axodo.md)
 - [Graal I](../../Acampamentos/2002/Graal%20I.md)
 - [Graal II](../../Acampamentos/2003/Graal%20II.md)
 - [Graal III](../../Acampamentos/2007/Graal%20III.md)
@@ -58,7 +60,6 @@ Lourenço Eiró foi um dos fundadores dos [Campinácios](../../Movimento/Campin%
 - [Surpresa](../../Acampamentos/2001/Surpresa.md)
 - [Tribal](../../Acampamentos/1992/Tribal.md)
 - [Trotinetas 93](../../Acampamentos/1993/Trotinetas%2093.md)
-- [Êxodo](../../Acampamentos/2008/%C3%8Axodo.md)
 
 ---
 
