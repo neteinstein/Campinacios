@@ -9,7 +9,7 @@ Animadores dos Campinácios
 - [Animadores do CSJB](Animadores%20do%20CSJB.md)
 - [Jesuítas](Jesu%C3%ADtas.md)
 
-## Páginas nesta categoria (654)
+## Páginas nesta categoria (656)
 
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Afonso Barrocas](../Pessoas/A/Afonso%20Barrocas.md)
@@ -192,6 +192,7 @@ Animadores dos Campinácios
 - [Francisca Crujeira](../Pessoas/F/Francisca%20Crujeira.md)
 - [Francisca Mendes](../Pessoas/F/Francisca%20Mendes.md)
 - [Francisco Almeida (Kiko)](../Pessoas/F/Francisco%20Almeida%20%28Kiko%29.md)
+- [Francisco Barroso](../Pessoas/F/Francisco%20Barroso.md)
 - [Francisco Carvalho](../Pessoas/F/Francisco%20Carvalho.md)
 - [Francisco Costa Macedo](../Pessoas/F/Francisco%20Costa%20Macedo.md)
 - [Francisco Dioniz Barroso Loureiro](../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
@@ -264,6 +265,7 @@ Animadores dos Campinácios
 - [Joana Dias](../Pessoas/J/Joana%20Dias.md)
 - [Joana Ferreira](../Pessoas/J/Joana%20Ferreira.md)
 - [Joana Ferreira (2019)](../Pessoas/J/Joana%20Ferreira%20%282019%29.md)
+- [Joana Ferreira (CC)](../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 - [Joana Ferreira da Silva](../Pessoas/J/Joana%20Ferreira%20da%20Silva.md)
 - [Joana Fonseca](../Pessoas/J/Joana%20Fonseca.md)
 - [Joana Godinho](../Pessoas/J/Joana%20Godinho.md)

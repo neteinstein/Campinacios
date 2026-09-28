@@ -12,6 +12,15 @@ in two, and linking a name to the wrong page merges two people. So search
 first, let the user decide, and leave the pages so the next reader can't
 mix them up either.
 
+## "SJ" is not part of a name
+
+"SJ" (Sociedade de Jesus) after a name is a title, not part of it. Never
+include it in a page title, a link label, an `Outros nomes` entry, or any
+other place a name is being treated as a name (search terms, disambiguation
+notes, etc.). It may only appear as plain, unlinked text written right
+after the person's name in running prose (e.g. "o Padre André Fontes, SJ,
+animou..."), never as, or inside, a link.
+
 ## 1. Search
 
 For every person being added or named:
@@ -58,7 +67,12 @@ them are this person when the name is common.
 - Plain-text mentions the user confirmed become links.
 - On the person's page, add the camp to the list (`    - <ano> [Camp](…)`
   under **Participante**, or `… - [Cargo](…)` under **Animador/Animadora**)
-  and to `## Páginas que ligam para aqui` (sorted by title).
+  and to `## Páginas que ligam para aqui` (sorted by title). A camp under
+  **Participante** for someone who already has a page as Animador(a) is
+  fine to add even outside Calhambeques/Formação de Animadores — the page
+  itself proves they're an adult, which is what that privacy restriction
+  (`processar-contributo` skill, step 2) exists to protect; it does not
+  apply to them.
 - If the match was only plain text (no page yet) and a page is wanted,
   create it (4) and link those mentions.
 

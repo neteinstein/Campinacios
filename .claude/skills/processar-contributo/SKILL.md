@@ -38,7 +38,14 @@ children.
 - Never publish phone numbers, e-mails, street addresses, directions to a
   camp site, owners' contacts, or names of participants under 18 (any
   escalão but Calhambeques and Formação de Animadores). If the issue itself
-  contains them, tell the user so they can edit or hide it.
+  contains them, tell the user so they can edit or hide it. Exception: someone
+  who already has a page as Animador(a) is a confirmed adult (you have to be
+  one to be an Animador), so their own participation in an earlier camp can
+  be published even outside Calhambeques/Formação de Animadores — add it
+  wherever it's mentioned (their page, a submission, a camp roster). Never
+  add a *new* participant name to a restricted-escalão camp on this basis —
+  only add camps for a person who already clears the bar with their own
+  Animador page.
 - Directions and contacts for a camp site belong in its encrypted page
   (`scripts/restrito.py abrir` / `fechar`, see
   `docs/Wikinácios/Sobre este arquivo.md`): ask the user before adding
@@ -63,12 +70,14 @@ children.
   `nova-pessoa`) or leave that line for later. Add the line on both sides:
   the camp's `### Animadores`/`### Participantes` and the person's
   `### Acampamentos`, plus the backlink on each page.
-- **Participantes de um Acampamento**: only for a camp whose escalão is
-  Calhambeques or Formação de Animadores (check the camp's page or
-  category; if it's another escalão, the names are minors and must not be
-  published — ask instead). Add each participant to the camp's
-  `### Participantes` and, for those with a page, the camp to their
-  `### Acampamentos`.
+- **Participantes de um Acampamento**: for a camp whose escalão is
+  Calhambeques or Formação de Animadores, add each participant to the
+  camp's `### Participantes` and, for those with a page, the camp to their
+  `### Acampamentos`. For any other escalão, the names are minors and must
+  not be published — **except** a name that already has a page as
+  Animador(a): that page proves they're an adult, so add them as usual
+  (camp's `### Participantes` and their own `### Acampamentos`). Everyone
+  else on a restricted-escalão camp: ask instead of publishing.
 - **Remoção de Informação**: a request to remove, correct or hide the
   sender's own data. Verify it is about the sender (or someone who
   authorised them) before acting — if that's unclear, ask rather than

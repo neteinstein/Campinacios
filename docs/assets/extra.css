@@ -366,3 +366,42 @@
   font-size: 0.8em;
   text-align: right;
 }
+
+/* Tabelas da Direcção Nacional e das Direcções Locais */
+.md-typeset .wk-direccao .md-typeset__table,
+.md-typeset .wk-direccao table:not([class]) {
+  display: table;
+  width: 100%;
+}
+.md-typeset .wk-direccao table:not([class]) {
+  font-size: .72rem;
+}
+.md-typeset .wk-direccao table:not([class]) td {
+  vertical-align: top;
+}
+.md-typeset .wk-direccao table:not([class]) tbody tr:nth-child(even) {
+  background-color: var(--md-default-fg-color--lightest);
+}
+.md-typeset .wk-direccao table:not([class]) td:first-child {
+  white-space: nowrap;
+  width: 1%;
+}
+.md-typeset .wk-direccao table:not([class]) td:first-child em {
+  font-size: .85em;
+  color: var(--md-default-fg-color--light);
+  white-space: normal;
+}
+.md-typeset .wk-dn table:not([class]) thead {
+  display: none;
+}
+.md-typeset .wk-dn table:not([class]) td:first-child {
+  width: 11rem;
+  white-space: normal;
+}
+.md-typeset .wk-direccao:not(.wk-dn) table:not([class]) td:nth-child(2),
+.md-typeset .wk-direccao:not(.wk-dn) table:not([class]) td:nth-child(3) {
+  min-width: 8rem;
+}
+.md-typeset .wk-direccao:not(.wk-dn) table:not([class]) td:nth-child(4) {
+  min-width: 14rem;
+}

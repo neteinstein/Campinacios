@@ -21,6 +21,7 @@
 ## Páginas que ligam para aqui
 
 - [Baza](../../Acampamentos/2007/Baza.md)
+- [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
 - [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md)
 - [Marta Reis](../M/Marta%20Reis.md)
 - [OrienTu](../../Acampamentos/2008/OrienTu.md)
