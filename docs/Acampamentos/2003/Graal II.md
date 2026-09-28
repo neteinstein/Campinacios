@@ -6,7 +6,7 @@ O Graal II foi um acampamento de [Formação de Animadores](../../Categorias/For
 
 - [Director](../../Cargos/Director.md) - [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Joana Osório](../../Pessoas/J/Joana%20Os%C3%B3rio.md)
-- [Capelão](../../Cargos/Capel%C3%A3o.md) - Zé Frazão sj
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [José Frazão](../../Pessoas/J/Jos%C3%A9%20Fraz%C3%A3o.md) sj
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Sérgio Carvalho](../../Pessoas/S/S%C3%A9rgio%20Carvalho.md) sj, [Luís Pereira](../../Pessoas/L/Lu%C3%ADs%20Pereira.md), Alexandra Gonçalves, [Martim Cunha Ferreira](../../Pessoas/M/Martim%20Cunha%20Ferreira.md), [Manuel Vilhena](../../Pessoas/M/Manuel%20Vilhena.md), [Rita Simões](../../Pessoas/R/Rita%20Sim%C3%B5es.md) e [Daniela Ribeiro](../../Pessoas/D/Daniela%20Ribeiro.md)
 
 ## Páginas que ligam para aqui
@@ -24,6 +24,7 @@ O Graal II foi um acampamento de [Formação de Animadores](../../Categorias/For
 - [Inês Próspero](../../Pessoas/I/In%C3%AAs%20Pr%C3%B3spero.md)
 - [Jacinto Bezerra](../../Pessoas/J/Jacinto%20Bezerra.md)
 - [Joana Martins](../../Pessoas/J/Joana%20Martins.md)
+- [José Frazão](../../Pessoas/J/Jos%C3%A9%20Fraz%C3%A3o.md)
 - [Leonardo Carvalho](../../Pessoas/L/Leonardo%20Carvalho.md)
 - [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
 - [Luís Pereira](../../Pessoas/L/Lu%C3%ADs%20Pereira.md)

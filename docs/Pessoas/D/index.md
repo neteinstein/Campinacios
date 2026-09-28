@@ -1,9 +1,11 @@
 # D
 
+- [Daniela Gonçalves](Daniela%20Gon%C3%A7alves.md)
 - [Daniela Machado](Daniela%20Machado.md)
 - [Daniela Ribeiro](Daniela%20Ribeiro.md)
 - [David Cruz e Silva](David%20Cruz%20e%20Silva.md)
 - [Diana Conceição](Diana%20Concei%C3%A7%C3%A3o.md)
+- [Diana Duarte](Diana%20Duarte.md)
 - [Diana Gapo](Diana%20Gapo.md)
 - [Diana Pereira](Diana%20Pereira.md)
 - [Diana Quintela](Diana%20Quintela.md)
@@ -22,6 +24,7 @@
 - [Diogo Reis](Diogo%20Reis.md)
 - [Diogo Romão](Diogo%20Rom%C3%A3o.md)
 - [Diogo Torcato](Diogo%20Torcato.md)
+- [Domingos Freire de Andrade](Domingos%20Freire%20de%20Andrade.md)
 - [Domingos Freitas](Domingos%20Freitas.md)
 - [Domingos Perloiro](Domingos%20Perloiro.md)
 - [Du](Du.md)

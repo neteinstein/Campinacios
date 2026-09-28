@@ -36,6 +36,8 @@ Gonçalo Vaz Pedro, é desde 2006, um dos animadores do Colégio da Imaculada Co
 ## Páginas que ligam para aqui
 
 - [Baba Yetu](../../Acampamentos/2010/Baba%20Yetu.md)
+- [Encontro Nacional de Animadores 2007](../../Encontros/Encontro%20Nacional%20de%20Animadores%202007.md)
+- [Êxodo](../../Acampamentos/2008/%C3%8Axodo.md)
 - [Fiat'ársea](../../Acampamentos/2014/Fiat%27%C3%A1rsea.md)
 - [OPA](../../Acampamentos/2007/OPA.md)
 - [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md)
@@ -43,7 +45,6 @@ Gonçalo Vaz Pedro, é desde 2006, um dos animadores do Colégio da Imaculada Co
 - [Supérate](../../Acampamentos/2017/Sup%C3%A9rate.md)
 - [Susana Vaz Pedro](../S/Susana%20Vaz%20Pedro.md)
 - [Vi-O](../../Acampamentos/2009/Vi-O.md)
-- [Êxodo](../../Acampamentos/2008/%C3%8Axodo.md)
 
 ---
 

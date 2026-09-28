@@ -17,6 +17,7 @@
 
 - [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md)
 - [Falésia](../../Acampamentos/2005/Fal%C3%A9sia.md)
+- [I Encontro Nacional de Animadores](../../Encontros/I%20Encontro%20Nacional%20de%20Animadores.md)
 - [Lembras-te?](../../Acampamentos/2009/Lembras-te.md)
 - [M&M](../../Acampamentos/2007/M%26M.md)
 - [Origami](../../Acampamentos/2006/Origami.md)
