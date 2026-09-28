@@ -58,7 +58,12 @@ them are this person when the name is common.
 - Plain-text mentions the user confirmed become links.
 - On the person's page, add the camp to the list (`    - <ano> [Camp](…)`
   under **Participante**, or `… - [Cargo](…)` under **Animador/Animadora**)
-  and to `## Páginas que ligam para aqui` (sorted by title).
+  and to `## Páginas que ligam para aqui` (sorted by title). A camp under
+  **Participante** for someone who already has a page as Animador(a) is
+  fine to add even outside Calhambeques/Formação de Animadores — the page
+  itself proves they're an adult, which is what that privacy restriction
+  (`processar-contributo` skill, step 2) exists to protect; it does not
+  apply to them.
 - If the match was only plain text (no page yet) and a page is wanted,
   create it (4) and link those mentions.
 
