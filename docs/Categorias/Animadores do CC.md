@@ -2,12 +2,13 @@
 
 Animadores do Colégio das Caldinhas
 
-## Páginas nesta categoria (151)
+## Páginas nesta categoria (154)
 
 - [Amílcar Sousa](../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
 - [Ana Carolina Bardi](../Pessoas/A/Ana%20Carolina%20Bardi.md)
 - [Ana Geão](../Pessoas/A/Ana%20Ge%C3%A3o.md)
 - [Ana Junqueira](../Pessoas/A/Ana%20Junqueira.md)
+- [Ana Lima](../Pessoas/A/Ana%20Lima.md)
 - [Ana Luísa Reis](../Pessoas/A/Ana%20Lu%C3%ADsa%20Reis.md)
 - [Ana Paula Gomes](../Pessoas/A/Ana%20Paula%20Gomes.md)
 - [Ana Paula Sampaio](../Pessoas/A/Ana%20Paula%20Sampaio.md)
@@ -92,6 +93,7 @@ Animadores do Colégio das Caldinhas
 - [José Manuel Filgueiras](../Pessoas/J/Jos%C3%A9%20Manuel%20Filgueiras.md)
 - [José Miguel Fernandes](../Pessoas/J/Jos%C3%A9%20Miguel%20Fernandes.md)
 - [José Pedro Ferreira](../Pessoas/J/Jos%C3%A9%20Pedro%20Ferreira.md)
+- [Juliana Costa](../Pessoas/J/Juliana%20Costa.md)
 - [Juliana Fernandes](../Pessoas/J/Juliana%20Fernandes.md)
 - [Lúcia Ribeiro](../Pessoas/L/L%C3%BAcia%20Ribeiro.md)
 - [Luís Azevedo](../Pessoas/L/Lu%C3%ADs%20Azevedo.md)
@@ -112,6 +114,7 @@ Animadores do Colégio das Caldinhas
 - [Marta Reis](../Pessoas/M/Marta%20Reis.md)
 - [Marta Santos](../Pessoas/M/Marta%20Santos.md)
 - [Marta Vilela](../Pessoas/M/Marta%20Vilela.md)
+- [Miguel Areias](../Pessoas/M/Miguel%20Areias.md)
 - [Miguel Machado](../Pessoas/M/Miguel%20Machado.md)
 - [Miguel Melo](../Pessoas/M/Miguel%20Melo.md)
 - [Miguel Monteiro Martins](../Pessoas/M/Miguel%20Monteiro%20Martins.md)
