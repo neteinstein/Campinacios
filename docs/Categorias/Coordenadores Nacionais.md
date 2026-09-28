@@ -11,8 +11,8 @@ Coordena os trabalhos da Direcção, coordena e gere a comunicação entre as 3 
 - 2024/2025 - [Guilherme Balhau](../Pessoas/G/Guilherme%20Balhau.md)
 - 2023/2024 - [Jaime Lucas Pires](../Pessoas/J/Jaime%20Lucas%20Pires.md)
 - 2022/2023 - João Afonso Sousa
-- 2021/2022 - Joana Ferreira
-- 2020/2021 - Joana Ferreira
+- 2021/2022 - [Joana Ferreira](../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
+- 2020/2021 - [Joana Ferreira](../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 - 2019/2020 - [Joana Dias Coelho](../Pessoas/J/Joana%20Coelho.md)
 - 2018/2019 - [Helena Cunha e Carmo](../Pessoas/H/Helena%20Cunha%20e%20Carmo.md)
 - 2017/2018 - [Helena Cunha e Carmo](../Pessoas/H/Helena%20Cunha%20e%20Carmo.md)
@@ -41,7 +41,7 @@ Coordena os trabalhos da Direcção, coordena e gere a comunicação entre as 3 
 - 1994/1995 - [Concha Líbano Monteiro](../Pessoas/C/Concha%20L%C3%ADbano%20Monteiro.md)
 - 1993/1994 - [Concha Líbano Monteiro](../Pessoas/C/Concha%20L%C3%ADbano%20Monteiro.md)
 
-## Páginas nesta categoria (18)
+## Páginas nesta categoria (19)
 
 - [Conceição Martinho](../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)
 - [Concha Líbano Monteiro](../Pessoas/C/Concha%20L%C3%ADbano%20Monteiro.md)
@@ -52,6 +52,7 @@ Coordena os trabalhos da Direcção, coordena e gere a comunicação entre as 3 
 - [Helena Cunha e Carmo](../Pessoas/H/Helena%20Cunha%20e%20Carmo.md)
 - [Jaime Lucas Pires](../Pessoas/J/Jaime%20Lucas%20Pires.md)
 - [Joana Coelho](../Pessoas/J/Joana%20Coelho.md)
+- [Joana Ferreira (CC)](../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 - [José Manuel Filgueiras](../Pessoas/J/Jos%C3%A9%20Manuel%20Filgueiras.md)
 - [João Eiró](../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md)
 - [João Paulo Moinhos](../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md)
@@ -72,6 +73,7 @@ Coordena os trabalhos da Direcção, coordena e gere a comunicação entre as 3 
 - [Helena Cunha e Carmo](../Pessoas/H/Helena%20Cunha%20e%20Carmo.md)
 - [Jaime Lucas Pires](../Pessoas/J/Jaime%20Lucas%20Pires.md)
 - [Joana Coelho](../Pessoas/J/Joana%20Coelho.md)
+- [Joana Ferreira (CC)](../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 - [João Eiró](../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md)
 - [João Paulo Moinhos](../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md)
 - [Maria João Simões](../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)

@@ -2,7 +2,7 @@
 
 Animadores do Colégio das Caldinhas
 
-## Páginas nesta categoria (141)
+## Páginas nesta categoria (142)
 
 - [Amílcar Sousa](../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
 - [Ana Carolina Bardi](../Pessoas/A/Ana%20Carolina%20Bardi.md)
@@ -65,6 +65,7 @@ Animadores do Colégio das Caldinhas
 - [Joana Almeida](../Pessoas/J/Joana%20Almeida.md)
 - [Joana Costa](../Pessoas/J/Joana%20Costa.md)
 - [Joana Dias](../Pessoas/J/Joana%20Dias.md)
+- [Joana Ferreira (CC)](../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 - [Joana Martins](../Pessoas/J/Joana%20Martins.md)
 - [Joana Reis](../Pessoas/J/Joana%20Reis.md)
 - [Joaquim Abreu](../Pessoas/J/Joaquim%20Abreu.md)

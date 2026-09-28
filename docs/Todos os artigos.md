@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1085 artigos e, em itálico, os 144 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1087 artigos e, em itálico, os 144 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -563,8 +563,10 @@
 - [Joana Costa](Pessoas/J/Joana%20Costa.md)
 - [Joana Dias](Pessoas/J/Joana%20Dias.md)
 - *Joana Dias Coelho* → [Joana Coelho](Pessoas/J/Joana%20Coelho.md)
+- [Joana Ferreira](Movimento/Desambigua%C3%A7%C3%A3o/Joana%20Ferreira.md)
 - [Joana Ferreira](Pessoas/J/Joana%20Ferreira.md)
 - [Joana Ferreira (2019)](Pessoas/J/Joana%20Ferreira%20%282019%29.md)
+- [Joana Ferreira (CC)](Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 - [Joana Ferreira da Silva](Pessoas/J/Joana%20Ferreira%20da%20Silva.md)
 - [Joana Fonseca](Pessoas/J/Joana%20Fonseca.md)
 - [Joana Godinho](Pessoas/J/Joana%20Godinho.md)
