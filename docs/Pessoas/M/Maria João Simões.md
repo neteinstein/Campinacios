@@ -42,6 +42,7 @@ Maria João Simões, mais conhecida por Majo, é desde 1996 uma das animadoras d
 - [Falésia](../../Acampamentos/2005/Fal%C3%A9sia.md)
 - [GANZA](../../Acampamentos/1997/GANZA.md)
 - [Gipsy Kings](../../Acampamentos/1999/Gipsy%20Kings.md)
+- [I Encontro Nacional de Animadores](../../Encontros/I%20Encontro%20Nacional%20de%20Animadores.md)
 - [Megafona](../../Acampamentos/2005/Megafona.md)
 - [OPA](../../Acampamentos/2007/OPA.md)
 - [Patos](../../Acampamentos/2004/Patos.md)

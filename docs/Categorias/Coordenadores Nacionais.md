@@ -10,7 +10,7 @@ Coordena os trabalhos da Direcção, coordena e gere a comunicação entre as 3 
 - 2025/2026 - [Guilherme Balhau](../Pessoas/G/Guilherme%20Balhau.md)
 - 2024/2025 - [Guilherme Balhau](../Pessoas/G/Guilherme%20Balhau.md)
 - 2023/2024 - [Jaime Lucas Pires](../Pessoas/J/Jaime%20Lucas%20Pires.md)
-- 2022/2023 - João Afonso Sousa
+- 2022/2023 - [João Afonso Sousa](../Pessoas/J/Jo%C3%A3o%20Afonso%20Sousa.md)
 - 2021/2022 - [Joana Ferreira](../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 - 2020/2021 - [Joana Ferreira](../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 - 2019/2020 - [Joana Dias Coelho](../Pessoas/J/Joana%20Coelho.md)
@@ -41,7 +41,7 @@ Coordena os trabalhos da Direcção, coordena e gere a comunicação entre as 3 
 - 1994/1995 - [Concha Líbano Monteiro](../Pessoas/C/Concha%20L%C3%ADbano%20Monteiro.md)
 - 1993/1994 - [Concha Líbano Monteiro](../Pessoas/C/Concha%20L%C3%ADbano%20Monteiro.md)
 
-## Páginas nesta categoria (19)
+## Páginas nesta categoria (20)
 
 - [Conceição Martinho](../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)
 - [Concha Líbano Monteiro](../Pessoas/C/Concha%20L%C3%ADbano%20Monteiro.md)
@@ -53,9 +53,10 @@ Coordena os trabalhos da Direcção, coordena e gere a comunicação entre as 3 
 - [Jaime Lucas Pires](../Pessoas/J/Jaime%20Lucas%20Pires.md)
 - [Joana Coelho](../Pessoas/J/Joana%20Coelho.md)
 - [Joana Ferreira (CC)](../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
-- [José Manuel Filgueiras](../Pessoas/J/Jos%C3%A9%20Manuel%20Filgueiras.md)
+- [João Afonso Sousa](../Pessoas/J/Jo%C3%A3o%20Afonso%20Sousa.md)
 - [João Eiró](../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md)
 - [João Paulo Moinhos](../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md)
+- [José Manuel Filgueiras](../Pessoas/J/Jos%C3%A9%20Manuel%20Filgueiras.md)
 - [Maria João Simões](../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
 - [Miguel Leite Martins](../Pessoas/M/Miguel%20Leite%20Martins.md)
 - [Paulo Cardoso](../Pessoas/P/Paulo%20Cardoso.md)

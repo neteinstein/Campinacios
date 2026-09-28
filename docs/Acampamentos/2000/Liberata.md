@@ -4,7 +4,7 @@ O Liberata foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) qu
 
 ### Animadores
 
-- [Director](../../Cargos/Director.md) - Zé Frazão sj
+- [Director](../../Cargos/Director.md) - [José Frazão](../../Pessoas/J/Jos%C3%A9%20Fraz%C3%A3o.md) sj
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Sugo](../../Pessoas/H/Hugo%20Rafael%20Ferreira.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Sérgio Carvalho](../../Pessoas/S/S%C3%A9rgio%20Carvalho.md) e [Genito](../../Pessoas/J/Jos%C3%A9%20Eug%C3%A9nio%20Lopes.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Raquel Ferreira](../../Pessoas/R/Raquel%20Ferreira.md), [Renato Lopes](../../Pessoas/R/Renato%20Lopes.md)
@@ -16,6 +16,7 @@ O Liberata foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) qu
 - [Analisa Lucas](../../Pessoas/A/Analisa%20Lucas.md)
 - [Elias Oliveira](../../Pessoas/E/Elias%20Oliveira.md)
 - [Joana Amado](../../Pessoas/J/Joana%20Amado.md)
+- [José Frazão](../../Pessoas/J/Jos%C3%A9%20Fraz%C3%A3o.md)
 - [Soraia Ramos](../../Pessoas/S/Soraia%20Ramos.md)
 - [Tiago Carneiro](../../Pessoas/T/Tiago%20Carneiro.md)
 

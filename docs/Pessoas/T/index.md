@@ -22,6 +22,7 @@
 - [Tiago Monteiro](Tiago%20Monteiro.md)
 - [Tiago Pimenta](Tiago%20Pimenta.md)
 - [TiaGO Reis](TiaGO%20Reis.md)
+- [Tiago Vidal](Tiago%20Vidal.md)
 - [Tigas](Tigas.md)
 - [Tita](Tita.md)
 - [Tomás Costa](Tom%C3%A1s%20Costa.md)

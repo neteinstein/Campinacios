@@ -22,6 +22,7 @@
 - [Casca de Banana](../../Acampamentos/2005/Casca%20de%20Banana.md)
 - [Eureka](../../Acampamentos/2008/Eureka.md)
 - [Génesis 2003 d.C.](../../Acampamentos/2003/G%C3%A9nesis%202003%20d.C..md)
+- [I Encontro Nacional de Animadores](../../Encontros/I%20Encontro%20Nacional%20de%20Animadores.md)
 - [Piripetroporco](../../Acampamentos/2002/Piripetroporco.md)
 - [Terra do Nunca](../../Acampamentos/2005/Terra%20do%20Nunca.md)
 - [XS](../../Acampamentos/2006/XS.md)

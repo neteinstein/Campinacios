@@ -33,6 +33,7 @@ Rita Simões é desde 2002, uma das animadoras do Colégio da Imaculada Conceiç
 - [Descola](../../Acampamentos/2004/Descola.md)
 - [Gaivota](../../Acampamentos/2005/Gaivota.md)
 - [Graal II](../../Acampamentos/2003/Graal%20II.md)
+- [I Encontro Nacional de Animadores](../../Encontros/I%20Encontro%20Nacional%20de%20Animadores.md)
 - [Vi-O](../../Acampamentos/2009/Vi-O.md)
 
 ---
