@@ -4,9 +4,10 @@ Cânticos religiosos para as eucaristias, orações e momentos de reflexão.
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (61 músicas)
+## Índice (62 músicas)
 
 - [A PALAVRA É DEUS EM NÓS](#a-palavra-e-deus-em-nos)
+- [APRENDIZ DE VIAJANTE](#aprendiz-de-viajante) — Nuno Tovar de Lemos sj
 - [AVÉ MARIA](#ave-maria)
 - [AVÉ MARIA ESTRELA DA MANHÃ](#ave-maria-estrela-da-manha)
 - [AVÉ MARIA, GRATIA PLENA](#ave-maria-gratia-plena)
@@ -81,6 +82,69 @@ Aleluia, a palavra é Deus em nós
 Aleluia, aleluia, aleluia
      Lá        Fá#m RéMi  Lá
 Aleluia, aleluia, aleluia
+```
+
+### APRENDIZ DE VIAJANTE {#aprendiz-de-viajante}
+
+*Nuno Tovar de Lemos sj*
+
+```text
+Eu tive um sonho e quando acordei,
+Viajei no tempo e desejei:
+
+      Entregar-Te a vida,
+      Entender a taça toda a transbordar
+      Cantei!
+      E mais além
+      Subindo as estrelas do céu
+      Descendo ao fundo da Terra
+      Só Contigo eu vou
+      Embalado nos Teus passos vou
+      Abandonado em teus abraços sou
+      Um aprendiz de viajante e até
+      Me perco em Ti.
+
+Fui por atalhos em que me afastei,
+Mas tu chamaste e eu desejei:
+
+      Entregar-Te a vida,
+      Entender a taça toda a transbordar
+      Cantei!
+      E mais além
+      Subindo as estrelas do céu
+      Descendo ao fundo da Terra
+      Só Contigo eu vou
+      Embalado nos Teus passos vou
+      Abandonado em teus abraços sou
+      Um aprendiz de viajante e até
+      Me perco em Ti.
+
+Deixei-Te à porta e quando voltei
+Vi que esperavas e desejei
+
+      Entregar-Te a vida,
+      Entender a taça toda a transbordar
+      Cantei!
+      E mais além
+      Subindo estrelas no céu
+      Descendo ao fundo da Terra
+      Só Contigo eu vou
+      Embalado nos Teus passos vou
+      Abandonado em teus abraços sou
+      Um aprendiz de viajante e até
+      Me perco em Ti.
+
+E se algum dia me afastar de ti,
+E se algum dia me esquecer de nós,
+Vem procurar me onde eu estiver
+Não penses que eu sei ser sem ti,
+Pois sou apenas um aprendiz de Viajante
+
+E se algum dia me afastar de ti,
+E se algum dia me esquecer de nós,
+Vem procurarme onde eu estiver
+Não penses que eu sei ser sem ti
+Pois sou apenas um aprendiz de Viajante
 ```
 
 ### AVÉ MARIA {#ave-maria}
