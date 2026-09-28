@@ -2,6 +2,7 @@
 
 - [Padre Pina](Padre%20Pina.md)
 - [Patrícia Cabaço](Patr%C3%ADcia%20Caba%C3%A7o.md)
+- [Patrícia Costa](Patr%C3%ADcia%20Costa.md)
 - [Patrícia Lima](Patr%C3%ADcia%20Lima.md)
 - [Paula Ferrand](Paula%20Ferrand.md)
 - [Paula Gonçalves](Paula%20Gon%C3%A7alves.md)

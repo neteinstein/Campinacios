@@ -67,14 +67,14 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 ### Direcção Local 2000/2001
 
 - [Carla Resende](../Pessoas/C/Carla%20Resende.md) (Coordenadora da DL)
-- Zé Frazão sj
+- [José Frazão](../Pessoas/J/Jos%C3%A9%20Fraz%C3%A3o.md) sj
 - [Sugo](../Pessoas/H/Hugo%20Rafael%20Ferreira.md)
 - [Francisco Lopes](../Pessoas/F/Francisco%20Lopes.md)
 
 ### Direcção Local 1999/2000
 
 - [Carla Resende](../Pessoas/C/Carla%20Resende.md) (Coordenadora da DL)
-- Zé Frazão sj
+- [José Frazão](../Pessoas/J/Jos%C3%A9%20Fraz%C3%A3o.md) sj
 - [Sugo](../Pessoas/H/Hugo%20Rafael%20Ferreira.md)
 
 ### Direcção Local 1998/1999
@@ -104,13 +104,13 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 ### Equipa Coordenadora 1994/1995
 
 - [São Martinho](../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md) (Coordenadora)
-- Abel Bandeira sj
+- [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md) sj
 - [Carla Gapo](../Pessoas/C/Carla%20Gapo.md)
 
 ### Equipa Coordenadora 1993/1994
 
 - [São Martinho](../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md) (Coordenadora)
-- Abel Bandeira sj
+- [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md) sj
 - [Carla Gapo](../Pessoas/C/Carla%20Gapo.md)
 
 ### Direcção Colegial 1991/1992
@@ -119,8 +119,9 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [Carlos Lopes](../Pessoas/C/Carlos%20Lopes.md)
 - [Maria Manuel Urbano](../Pessoas/M/Maria%20Manuel%20Urbano.md)
 
-## Páginas nesta categoria (27)
+## Páginas nesta categoria (29)
 
+- [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Ana Simões](../Pessoas/A/Ana%20Sim%C3%B5es.md)
 - [António Sant'Ana](../Pessoas/A/Ant%C3%B3nio%20Sant%27Ana.md)
 - [Beatriz Miranda](../Pessoas/B/Beatriz%20Miranda.md)
@@ -135,9 +136,10 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [Hugo Rafael Ferreira](../Pessoas/H/Hugo%20Rafael%20Ferreira.md)
 - [Joana Lima](../Pessoas/J/Joana%20Lima.md)
 - [Joana Sá](../Pessoas/J/Joana%20S%C3%A1.md)
-- [José Eugénio Lopes](../Pessoas/J/Jos%C3%A9%20Eug%C3%A9nio%20Lopes.md)
-- [José Pascoal](../Pessoas/J/Jos%C3%A9%20Pascoal.md)
 - [José da Silva Almeida](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
+- [José Eugénio Lopes](../Pessoas/J/Jos%C3%A9%20Eug%C3%A9nio%20Lopes.md)
+- [José Frazão](../Pessoas/J/Jos%C3%A9%20Fraz%C3%A3o.md)
+- [José Pascoal](../Pessoas/J/Jos%C3%A9%20Pascoal.md)
 - [Manuel Paiva](../Pessoas/M/Manuel%20Paiva.md)
 - [Maria João Simões](../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
 - [Maria Manuel Urbano](../Pessoas/M/Maria%20Manuel%20Urbano.md)
