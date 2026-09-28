@@ -12,6 +12,8 @@
 - [Alexandre Alípio](Alexandre%20Al%C3%ADpio.md)
 - [Alexandre Correia](Alexandre%20Correia.md)
 - [Alice Rodrigues](Alice%20Rodrigues.md)
+- [Amadeu Pinto](Amadeu%20Pinto.md)
+- [Américo Mendes](Am%C3%A9rico%20Mendes.md)
 - [Amílcar Sousa](Am%C3%ADlcar%20Sousa.md)
 - [Ana Bela](Ana%20Bela.md)
 - [Ana Carolina Bardi](Ana%20Carolina%20Bardi.md)

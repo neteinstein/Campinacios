@@ -4,7 +4,7 @@ Reúne músicas e canções dos Campinácios e não só.
 
 Um novo Cantinácio foi lançado após anos e anos de tentativas.
 
-Aqui ficam algumas músicas gravadas por João Monteiro para efeitos nostalgicos. 
+Aqui ficam algumas músicas gravadas por [João Monteiro](../Pessoas/J/Jo%C3%A3o%20Monteiro.md) para efeitos nostalgicos. 
 
 ## Músicas
 

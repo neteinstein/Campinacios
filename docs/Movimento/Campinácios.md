@@ -62,11 +62,11 @@ Foi na noite de sábado para domingo. Tinham chegado sexta e os trabalhos tinham
 ### Os primeiros acampamentos
 
 Em Julho de 1989, na Serra da Estrela (casa das Mimosas), o ([CAIC](CAIC.md)), de Cernache, organiza o [CAmpIC 89](../Acampamentos/1989/CAmpIC%2089.md), um acampamento para os alunos do colégio. Neste acampamento o padre [Manuel Paiva](../Pessoas/M/Manuel%20Paiva.md) SJ propôs inserir como participantes, além dos alunos do [CAIC](CAIC.md), alunos dos outros dois colégios da Companhia de Jesus: [CSJB](CSJB.md) e [CC](CC.md). A equipa de animação deste acampamento era constituída por: [José Manuel Lopes](../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md) SJ ([Director](../Cargos/Director.md)), [Maria Manuel Urbano](../Pessoas/M/Maria%20Manuel%20Urbano.md) ([Directora-Adjunta](../Cargos/Director-Adjunto.md)), [Manuel Paiva](../Pessoas/M/Manuel%20Paiva.md) SJ ([Capelão](../Cargos/Capel%C3%A3o.md)), [Paula Ferrand](../Pessoas/P/Paula%20Ferrand.md) ([Mamã](../Cargos/Mam%C3%A3.md)) e [João Pessoa](../Pessoas/J/Jo%C3%A3o%20Pessoa.md) ([Tio](../Cargos/Tio.md)).
-Como a experiência foi muito positiva, os directores dos três colégios – padre Jorge Manuel Sena ([CSJB](CSJB.md)), padre Amadeu Pinto ([CC](CC.md)) e padre Américo Mendes ([CAIC](CAIC.md)) – por proposta dos Magisteriantes dos três colégios e do padre [Manuel Paiva](../Pessoas/M/Manuel%20Paiva.md), decidiram formalizar dando continuidade a esta experiência como actividade pastoral inter-colegial.
+Como a experiência foi muito positiva, os directores dos três colégios – padre [Jorge Manuel Sena](../Pessoas/J/Jorge%20Manuel%20Sena.md) ([CSJB](CSJB.md)), padre [Amadeu Pinto](../Pessoas/A/Amadeu%20Pinto.md) ([CC](CC.md)) e padre [Américo Mendes](../Pessoas/A/Am%C3%A9rico%20Mendes.md) ([CAIC](CAIC.md)) – por proposta dos Magisteriantes dos três colégios e do padre [Manuel Paiva](../Pessoas/M/Manuel%20Paiva.md), decidiram formalizar dando continuidade a esta experiência como actividade pastoral inter-colegial.
 
 Assim, ainda neste mês de Julho, o [CSJB](CSJB.md) organiza o [Ferrugenta](../Acampamentos/1989/Ferrugenta.md), um acampamento de férias no Rossio ao sul do Tejo para alunos dos três colégios. Este será o primeiro acampamento inter-colegial, mas ainda sem a designação de CAMPINÁCIOS formalizada como movimento dos colégios. Este acampamento de férias teve como tema: “pelos frutos se conhece a árvore”. A equipa de animação era assim constituída: [Carlos Azevedo Mendes](../Pessoas/C/Carlos%20Azevedo%20Mendes.md) SJ ([Director](../Cargos/Director.md)), [Domingos Freitas](../Pessoas/D/Domingos%20Freitas.md) SJ ([Director-Adjunto](../Cargos/Director-Adjunto.md) e [Capelão](../Cargos/Capel%C3%A3o.md)) e [Concha Líbano Monteiro](../Pessoas/C/Concha%20L%C3%ADbano%20Monteiro.md) ([Mamã](../Cargos/Mam%C3%A3.md)).
 
-Ainda neste ano de 1989, no mês de Setembro, realizou-se o [Pedreira](../Acampamentos/1989/Pedreira.md), mais um acampamento de férias que teve a seguinte direcção: [Domingos Freitas](../Pessoas/D/Domingos%20Freitas.md) SJ ([Director](../Cargos/Director.md) e [Capelão](../Cargos/Capel%C3%A3o.md)), [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) ([Director-Adjunto](../Cargos/Director-Adjunto.md)), Mafalda Aleixo ([Mamã](../Cargos/Mam%C3%A3.md)), Sandra Rodrigues ([Tia](../Cargos/Tio.md)). Como animadores estiveram: [Carlos Lopes](../Pessoas/C/Carlos%20Lopes.md), [Carlos Ruiz](../Pessoas/C/Carlos%20Ruiz.md), [Filipe Queiroz e Melo](../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md), Jorge Nunes, Bernardo Perloiro, [Filipe Queiroz e Melo](../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md), Rosarinho Araújo, [Cristina Cabeça](../Pessoas/C/Cristina%20Cabe%C3%A7a.md) e Maria Manuel Martins.
+Ainda neste ano de 1989, no mês de Setembro, realizou-se o [Pedreira](../Acampamentos/1989/Pedreira.md), mais um acampamento de férias que teve a seguinte direcção: [Domingos Freitas](../Pessoas/D/Domingos%20Freitas.md) SJ ([Director](../Cargos/Director.md) e [Capelão](../Cargos/Capel%C3%A3o.md)), [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) ([Director-Adjunto](../Cargos/Director-Adjunto.md)), Mafalda Aleixo ([Mamã](../Cargos/Mam%C3%A3.md)), [Sandra Rodrigues](../Pessoas/S/Sandra%20Rodrigues.md) ([Tia](../Cargos/Tio.md)). Como animadores estiveram: [Carlos Lopes](../Pessoas/C/Carlos%20Lopes.md), [Carlos Ruiz](../Pessoas/C/Carlos%20Ruiz.md), [Filipe Queiroz e Melo](../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md), Jorge Nunes, Bernardo Perloiro, [Filipe Queiroz e Melo](../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md), Rosarinho Araújo, [Cristina Cabeça](../Pessoas/C/Cristina%20Cabe%C3%A7a.md) e Maria Manuel Martins.
 
 ### A consolidação dos Campinácios
 
@@ -86,14 +86,18 @@ Após este encontro, os CAMPINÁCIOS como movimento foi ganhando alguma estabili
 
 ## Páginas que ligam para aqui
 
+- [Amadeu Pinto](../Pessoas/A/Amadeu%20Pinto.md)
+- [Américo Mendes](../Pessoas/A/Am%C3%A9rico%20Mendes.md)
 - [Conteúdos](../Wikin%C3%A1cios/Conte%C3%BAdos.md)
 - [Florinhas](../Acampamentos/1994/Florinhas.md)
 - [Gambozinos](Gambozinos.md)
 - [Jambo 99](../Acampamentos/1999/Jambo%2099.md)
+- [Jorge Manuel Sena](../Pessoas/J/Jorge%20Manuel%20Sena.md)
 - [José Manuel Lopes](../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md)
 - [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
 - [Manual de Funções](Manual%20de%20Fun%C3%A7%C3%B5es.md)
 - [Manual do Director](Manual%20do%20Director.md)
+- [Sandra Rodrigues](../Pessoas/S/Sandra%20Rodrigues.md)
 - [Sobre](../Wikin%C3%A1cios/index.md)
 
 ---
