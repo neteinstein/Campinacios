@@ -4,16 +4,56 @@ Músicas nascidas nos acampamentos dos [Campinácios](../Campin%C3%A1cios.md).
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (6 músicas)
+## Índice (9 músicas)
 
+- [ABRE-TE AO SONHO](#abre-te-ao-sonho) — Hino do Campo Long Tao (2006)
 - [APRENDER A SER](#aprender-a-ser)
+- [BELO DO HINO](#belo-do-hino) — Hino do Campo Caminho (2009)
 - [CAMPINÁCIOS](#campinacios)
 - [O DIA EM QUE APRENDI A VOAR](#o-dia-em-que-aprendi-a-voar)
-- [PÁRA E REPARA](#para-e-repara)
+- [PÁRA E REPARA](#para-e-repara) — Campo Graal II (2003)
 - [POEMA LINDO](#poema-lindo) — Campo Mountain Bike (Chico Maria)
 - [SÓIS HÁ MUITOS](#sois-ha-muitos)
+- [VEM ACUDIR](#vem-acudir) — Hino da Novela do Campo Long Tao (2006)
 
 ## Músicas
+
+### ABRE-TE AO SONHO {#abre-te-ao-sonho}
+
+*Hino do Campo [Long Tao](../../Acampamentos/2006/Long%20Tao.md) (2006)*
+
+```text
+Abre-te ao sonho,
+Conduz a tua vida
+Tens em ti um mundo
+A nau está de partida
+
+Trilha a tua história,
+Saboreia as coisas boas,
+No meio da tormenta
+Tens um porto de abrigo
+
+Eu estou aqui por ti
+Não me esqueci de ti
+
+Vai, descobre a tua china
+Esse sonho que tens para dar
+Vem, solta essas amarras
+Até onde me iras tu levar XAVIER
+
+Long Tao 2006
+Um campo de aventura
+Somos mais de 36
+E estamos à procura
+
+Eu estou aqui por ti
+Não me esqueci de ti
+
+Vai, descobre a tua china
+Esse sonho que tens para dar
+Vem, solta essas amarras
+Até onde me iras tu levar XAVIER
+```
 
 ### APRENDER A SER {#aprender-a-ser}
 
@@ -27,6 +67,47 @@ E canto assim, uohoh
 Por isso canto cada vez pior,
 Sou um horror, uohoh
 Eu sou cantor, uohoh
+```
+
+### BELO DO HINO {#belo-do-hino}
+
+*Hino do Campo [Caminho](../../Acampamentos/2009/Caminho.md) (2009)*
+
+```text
+Refrão:
+Senhor, Quem és tu? (Senhor)
+Qual é o meu caminho?
+Oh..
+Senhor, quem és tu? (Senhor)
+Quem és tu senhor.
+
+Sinto-Te em mim
+Num sorriso, num abraço
+Onde a gravidade encontra o chão
+E no silêncio a oração
+
+Passo pelo mundo,
+Venço os meus medos
+Grito em segredo
+Só falta saber…
+
+Refrão
+
+Calha bem ,
+Estar atento aos outros
+Estender a mão, abrir o coração,
+Bora lá assumir o compromisso…
+
+Onde anda a verdade?
+Qual é a nossa realidade?
+Grito em segredo
+Só falta saber…
+
+Ref.
+
+Tac tac tac “Abraço rima com palhaço..” Tac Tac Tac
+
+Ref.
 ```
 
 ### CAMPINÁCIOS {#campinacios}
@@ -128,6 +209,8 @@ FA*- x03213
 
 ### PÁRA E REPARA {#para-e-repara}
 
+*Campo [Graal II](../../Acampamentos/2003/Graal%20II.md) (2003)*
+
 ```text
 Pára e Repara
 O que andas tu para aí a viver
@@ -163,6 +246,42 @@ Não tenhas medo
 Eu estou contigo
 Juntos vamos caminhar
 Juntos vamos caminhar...
+```
+
+Outra versão da letra, tal como foi cantada no Campo Graal II:
+
+```text
+Pára e Repara
+O que andas tu pr’aí a viver
+Ao que sabe o teu dia-a-dia
+Qto queres tu ficar a saber
+
+REF:
+Vem descobrir o que Deus quer de ti
+Tens uma história a traçar
+Caminhos por cruzar
+Uma vida pra fazer valer
+
+Tens uma luta a travar
+Entre o BEM e o MAL
+Tu tens que optar
+Vai doer há sempre algo a largar
+Tens que escolher
+O que queres tu fazer
+
+REF:
+
+Vem ver o DOM e a GRAÇA
+de ter Cristo a teu lado a caminhar
+agora é estar atento e sentires-te a crescer
+aperta bem o sinto agora é a valer
+
+REF
+
+Agora abre-se o mundo
+Não tenhas medo
+Eu estou contigo
+Juntos vamos caminhar.
 ```
 
 ### POEMA LINDO {#poema-lindo}
@@ -224,4 +343,43 @@ Vê o que te cresce por dentro
 Que é alimentador, que é uma brasa
 Vai dar-te ao mundo aos que vivem
 Em tormento...
+```
+
+### VEM ACUDIR {#vem-acudir}
+
+*Hino da Novela do Campo [Long Tao](../../Acampamentos/2006/Long%20Tao.md) (2006)*
+
+```text
+E                                          G#m
+Oh Floribella, vem cá vem cá
+               C#m                  A
+A novela está começar
+F#m
+        Já deu telejornal
+        A                         B     E
+Deixa os peúgos a secar
+
+Tremoço a ficar mole, Sôr Vítor no tintol
+Morangos com açúcar já não dá
+Tenho uma vela acesa, eu tive uma surpresa
+O Noddy apareceu cá
+
+        Vem sacudire, veio a abanar
+        O espinafre pelo ar
+        Há Favas com Chouriço
+        E grelo para ‘companhar
+
+E                                     G#m
+Os piratas da banheira. içaram a bandeira
+C#m              A         B
+O mar parece nunca mais ter fim
+B
+Por terra, mar e céu, pelo sol e sem chapéu
+A               B       E
+O tesouro está mim
+
+        Já acabou, ‘tamos no ir
+        Amanha nós tamos cá
+        O pano vai subir…
+        E mais animação vem lá
 ```
