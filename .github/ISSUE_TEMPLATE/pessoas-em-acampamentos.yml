@@ -9,6 +9,14 @@ body:
         Use este formulário quando a pessoa e o acampamento já têm página na Wikinácios e só falta ligar os dois. Para uma pessoa nova ou um acampamento novo, use os formulários "🙋 Pessoa" ou "🏕️ Acampamento".
 
         **Este pedido fica público.**
+  - type: input
+    id: contribuidor
+    attributes:
+      label: O seu nome
+      description: Para lhe dar crédito na lista de Contribuidores.
+      placeholder: Maria João Simões
+    validations:
+      required: true
   - type: textarea
     id: ligacoes
     attributes:

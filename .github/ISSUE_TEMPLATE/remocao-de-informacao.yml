@@ -9,6 +9,14 @@ body:
         Este formulário é para pedir a remoção, correcção ou ocultação de informação sobre **si próprio(a)**. Os [Contribuidores](https://neteinstein.github.io/Campinacios/Wikin%C3%A1cios/Contribuidores.html) tratam do pedido o mais depressa possível.
 
         **Este pedido fica público no GitHub.** Não escreva aqui contactos (telefone, e-mail, morada) nem outra informação sensível: descreva só o que quer que seja removido ou alterado. Para algo que prefira não escrever num pedido público, contacte directamente [Pedro Vicente](https://neteinstein.github.io/Campinacios/Pessoas/P/Pedro%20Vicente.html) ou [Tiago Bahia](https://neteinstein.github.io/Campinacios/Pessoas/T/Tiago%20Bahia.html).
+  - type: input
+    id: contribuidor
+    attributes:
+      label: O seu nome
+      description: Para os Contribuidores saberem quem pediu.
+      placeholder: Maria João Simões
+    validations:
+      required: true
   - type: dropdown
     id: tipo
     attributes:
