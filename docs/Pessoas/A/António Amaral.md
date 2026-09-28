@@ -21,10 +21,10 @@
 
 ## Páginas que ligam para aqui
 
+- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
 - [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md)
 - [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md)
 - [Falésia](../../Acampamentos/2005/Fal%C3%A9sia.md)
-- [I Encontro Nacional de Animadores](../../Encontros/I%20Encontro%20Nacional%20de%20Animadores.md)
 - [Long Tao](../../Acampamentos/2006/Long%20Tao.md)
 - [Survivor](../../Acampamentos/2009/Survivor.md)
 

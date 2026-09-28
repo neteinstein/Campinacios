@@ -21,8 +21,8 @@ João Paulo Moinhos, nascido a 6 de Maio de 1963, é o elemento há mais tempo n
 ## Páginas que ligam para aqui
 
 - [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
+- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
 - [Graal I](../../Acampamentos/2002/Graal%20I.md)
-- [I Encontro Nacional de Animadores](../../Encontros/I%20Encontro%20Nacional%20de%20Animadores.md)
 - [Sara Moinhos](../S/Sara%20Moinhos.md)
 - [Surpresa](../../Acampamentos/2001/Surpresa.md)
 

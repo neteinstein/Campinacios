@@ -24,11 +24,11 @@ Joana Sá foi de 2000 a 2005 uma das animadoras do Colégio da Imaculada Concei�
 
 ## Páginas que ligam para aqui
 
-- [I Encontro Nacional de Animadores](../../Encontros/I%20Encontro%20Nacional%20de%20Animadores.md)
-- [Ídolo](../../Acampamentos/2004/%C3%8Ddolo.md)
+- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
 - [Jangada](../../Acampamentos/2002/Jangada.md)
 - [Pimpolhos](../../Acampamentos/2003/Pimpolhos.md)
 - [Pontes](../../Acampamentos/2001/Pontes.md)
+- [Ídolo](../../Acampamentos/2004/%C3%8Ddolo.md)
 
 ---
 
