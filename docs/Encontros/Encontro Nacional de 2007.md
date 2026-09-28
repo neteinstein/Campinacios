@@ -2,6 +2,8 @@
 
 O Encontro Nacional de 2007 realizou-se no CAIC tendo como Imaginarium a Gália de Astérix e Obélix.
 
+[![Bailarinos de fogo a actuar de noite, com poi e bastões em chamas](../assets/imagens/Encontro%20Nacional%20de%202007.png)](../assets/imagens/Encontro%20Nacional%20de%202007.png)
+
 Teve como particularidade apostar em ter animadores dos 3 colégios a organizar os momentos, tendo aberto inscrições para cada secção a que os animadores se podiam candidatar.
 
 ## Organização
