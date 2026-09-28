@@ -1,5 +1,7 @@
 # Francisco Dioniz Barroso Loureiro
 
+*Nota: Este artigo é sobre Francisco Dioniz Barroso Loureiro, conhecido como Loureiro, animador do CAIC nascido em 2001 (Barroso é o apelido que adoptou depois de casar). Se procura Francisco Barroso, conhecido como Dinha, animador do CC nascido em 2006, consulte [Francisco Barroso](Francisco%20Barroso.md).*
+
 Francisco Dioniz Barroso Loureiro, conhecido como Loureiro, é animador do CAIC.
 
 ### Acampamentos
