@@ -22,7 +22,7 @@
 - [Constança Pereira da Silva](../C/Constan%C3%A7a%20Pereira%20da%20Silva.md)
 - [Descola](../../Acampamentos/2004/Descola.md)
 - [Diogo Cordeiro Ferreira](../D/Diogo%20Cordeiro%20Ferreira.md)
-- [I Encontro Nacional de Animadores](../../Encontros/I%20Encontro%20Nacional%20de%20Animadores.md)
+- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
 - [Megafona](../../Acampamentos/2005/Megafona.md)
 
 ---

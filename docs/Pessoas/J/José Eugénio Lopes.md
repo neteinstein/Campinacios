@@ -21,8 +21,8 @@ José Eugénio Lopes mais conhecido por Genito foi de 2001 a 2006 um dos animado
 
 ## Páginas que ligam para aqui
 
+- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
 - [Falésia](../../Acampamentos/2005/Fal%C3%A9sia.md)
-- [I Encontro Nacional de Animadores](../../Encontros/I%20Encontro%20Nacional%20de%20Animadores.md)
 - [Liberata](../../Acampamentos/2000/Liberata.md)
 - [Patos](../../Acampamentos/2004/Patos.md)
 - [Pimpolhos](../../Acampamentos/2003/Pimpolhos.md)

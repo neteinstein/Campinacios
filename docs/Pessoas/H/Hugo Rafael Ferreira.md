@@ -20,8 +20,8 @@ Hugo Rafael Ferreira foi de 1996 a 2008 um dos animadores do Colégio da Imacula
 
 ## Páginas que ligam para aqui
 
+- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
 - [Gurugnu](../../Acampamentos/2000/Gurugnu.md)
-- [I Encontro Nacional de Animadores](../../Encontros/I%20Encontro%20Nacional%20de%20Animadores.md)
 - [Koalas](../../Acampamentos/1999/Koalas.md)
 - [Liberata](../../Acampamentos/2000/Liberata.md)
 - [Raquel Ferreira](../R/Raquel%20Ferreira.md)

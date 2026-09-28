@@ -11,8 +11,8 @@
 
 ## Páginas que ligam para aqui
 
+- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
 - [Gipsy Kings](../../Acampamentos/1999/Gipsy%20Kings.md)
-- [I Encontro Nacional de Animadores](../../Encontros/I%20Encontro%20Nacional%20de%20Animadores.md)
 - [Koalas](../../Acampamentos/1999/Koalas.md)
 - [Pimpolhos](../../Acampamentos/2003/Pimpolhos.md)
 - [Shampum de Pessêgo](../../Acampamentos/2001/Shampum%20de%20Pess%C3%AAgo.md)

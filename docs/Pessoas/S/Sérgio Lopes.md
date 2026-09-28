@@ -21,8 +21,8 @@ Sérgio Lopes é um dos animadores do Colégio da Imaculada Conceição.
 
 ## Páginas que ligam para aqui
 
+- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
 - [Graal III](../../Acampamentos/2007/Graal%20III.md)
-- [I Encontro Nacional de Animadores](../../Encontros/I%20Encontro%20Nacional%20de%20Animadores.md)
 - [TSI](../../Acampamentos/2008/TSI.md)
 
 ---

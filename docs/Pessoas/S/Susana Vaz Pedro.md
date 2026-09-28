@@ -26,9 +26,9 @@ Susana Vaz Pedro é desde 2002, uma das animadoras do Colégio da Imaculada Conc
 ## Páginas que ligam para aqui
 
 - [Baza](../../Acampamentos/2007/Baza.md)
+- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
 - [Falésia](../../Acampamentos/2005/Fal%C3%A9sia.md)
 - [Gonçalo Vaz Pedro](../G/Gon%C3%A7alo%20Vaz%20Pedro.md)
-- [I Encontro Nacional de Animadores](../../Encontros/I%20Encontro%20Nacional%20de%20Animadores.md)
 - [OrienTu](../../Acampamentos/2008/OrienTu.md)
 - [Origami](../../Acampamentos/2006/Origami.md)
 - [Pimpolhos](../../Acampamentos/2003/Pimpolhos.md)

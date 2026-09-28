@@ -1,6 +1,6 @@
-# I Encontro Nacional de Animadores
+# Encontro Nacional de Animadores 2004
 
-O I Encontro Nacional de Animadores realizou-se em 11 e 12 de Dezembro de 2004, em Schoenstatt (Gafanha da Nazaré).
+O Encontro Nacional de Animadores de 2004 realizou-se em 11 e 12 de Dezembro de 2004, em Schoenstatt (Gafanha da Nazaré).
 
 ## Participantes
 
@@ -103,14 +103,14 @@ O I Encontro Nacional de Animadores realizou-se em 11 e 12 de Dezembro de 2004, 
 - [Joana Ferreira da Silva](../Pessoas/J/Joana%20Ferreira%20da%20Silva.md)
 - [Joana Lima](../Pessoas/J/Joana%20Lima.md)
 - [Joana Sá](../Pessoas/J/Joana%20S%C3%A1.md)
-- [João Paulo Moinhos](../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md)
-- [João Pedro Carlos](../Pessoas/J/Jo%C3%A3o%20Pedro%20Carlos.md)
-- [João Quintela](../Pessoas/J/Jo%C3%A3o%20Quintela.md)
 - [Joaquim Abreu](../Pessoas/J/Joaquim%20Abreu.md)
 - [José da Silva Almeida](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
 - [José Eugénio Lopes](../Pessoas/J/Jos%C3%A9%20Eug%C3%A9nio%20Lopes.md)
 - [José Frazão](../Pessoas/J/Jos%C3%A9%20Fraz%C3%A3o.md)
 - [José Maria Brito](../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md)
+- [João Paulo Moinhos](../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md)
+- [João Pedro Carlos](../Pessoas/J/Jo%C3%A3o%20Pedro%20Carlos.md)
+- [João Quintela](../Pessoas/J/Jo%C3%A3o%20Quintela.md)
 - [Juliana Costa](../Pessoas/J/Juliana%20Costa.md)
 - [Lara Fernandes](../Pessoas/L/Lara%20Fernandes.md)
 - [Leonardo Carvalho](../Pessoas/L/Leonardo%20Carvalho.md)
@@ -129,11 +129,11 @@ O I Encontro Nacional de Animadores realizou-se em 11 e 12 de Dezembro de 2004, 
 - [Rita Simões](../Pessoas/R/Rita%20Sim%C3%B5es.md)
 - [Rita Turras](../Pessoas/R/Rita%20Turras.md)
 - [Sara Marques](../Pessoas/S/Sara%20Marques.md)
+- [Soraia Ramos](../Pessoas/S/Soraia%20Ramos.md)
+- [Susana Vaz Pedro](../Pessoas/S/Susana%20Vaz%20Pedro.md)
 - [Sérgio Carvalho](../Pessoas/S/S%C3%A9rgio%20Carvalho.md)
 - [Sérgio Lopes](../Pessoas/S/S%C3%A9rgio%20Lopes.md)
 - [Sílvia Alexandra](../Pessoas/S/S%C3%ADlvia%20Alexandra.md)
-- [Soraia Ramos](../Pessoas/S/Soraia%20Ramos.md)
-- [Susana Vaz Pedro](../Pessoas/S/Susana%20Vaz%20Pedro.md)
 - [Vítor Fernandes](../Pessoas/V/V%C3%ADtor%20Fernandes.md)
 
 ---

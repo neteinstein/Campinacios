@@ -15,7 +15,7 @@ Cláudia Coelho foi de 2002 a 2005 um das animadoras do Colégio da Imaculada Co
 
 ## Páginas que ligam para aqui
 
-- [I Encontro Nacional de Animadores](../../Encontros/I%20Encontro%20Nacional%20de%20Animadores.md)
+- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
 - [Patos](../../Acampamentos/2004/Patos.md)
 
 ---
