@@ -110,5 +110,6 @@
 - [João Rosa](Jo%C3%A3o%20Rosa.md)
 - [João Salgueiro](Jo%C3%A3o%20Salgueiro.md)
 - [João Silvestre](Jo%C3%A3o%20Silvestre.md)
+- [Juliana Costa](Juliana%20Costa.md)
 - [Juliana Fernandes](Juliana%20Fernandes.md)
 - [Juliana Silva](Juliana%20Silva.md)

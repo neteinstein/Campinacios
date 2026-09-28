@@ -2,7 +2,7 @@
 
 Animadores do Colégio da Imaculada Conceição
 
-## Páginas nesta categoria (107)
+## Páginas nesta categoria (108)
 
 - [Alexandra Silva](../Pessoas/A/Alexandra%20Silva.md)
 - [Ana Carolina Santos](../Pessoas/A/Ana%20Carolina%20Santos.md)
@@ -100,6 +100,7 @@ Animadores do Colégio da Imaculada Conceição
 - [Sandra Branco](../Pessoas/S/Sandra%20Branco.md)
 - [Sara Antunes](../Pessoas/S/Sara%20Antunes.md)
 - [Sara Fernandes](../Pessoas/S/Sara%20Fernandes.md)
+- [Sara Marques](../Pessoas/S/Sara%20Marques.md)
 - [Sara Micaela Pinto](../Pessoas/S/Sara%20Micaela%20Pinto.md)
 - [Sara Póvoa](../Pessoas/S/Sara%20P%C3%B3voa.md)
 - [Sérgio Lopes](../Pessoas/S/S%C3%A9rgio%20Lopes.md)

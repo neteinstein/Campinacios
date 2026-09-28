@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1131 artigos e, em itálico, os 150 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1136 artigos e, em itálico, os 150 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -47,6 +47,7 @@
 - [Ana Geão](Pessoas/A/Ana%20Ge%C3%A3o.md)
 - [Ana Isabel Catalão](Pessoas/A/Ana%20Isabel%20Catal%C3%A3o.md)
 - [Ana Junqueira](Pessoas/A/Ana%20Junqueira.md)
+- [Ana Lima](Pessoas/A/Ana%20Lima.md)
 - [Ana Luísa Reis](Pessoas/A/Ana%20Lu%C3%ADsa%20Reis.md)
 - [Ana Luísa Santos](Pessoas/A/Ana%20Lu%C3%ADsa%20Santos.md)
 - [Ana Marques](Pessoas/A/Ana%20Marques.md)
@@ -377,6 +378,7 @@
 - [Encontro Nacional de 1995](Encontros/Encontro%20Nacional%20de%201995.md)
 - [Encontro Nacional de 1998](Encontros/Encontro%20Nacional%20de%201998.md)
 - [Encontro Nacional de 2004](Encontros/Encontro%20Nacional%20de%202004.md)
+- [Encontro Nacional de 2006](Encontros/Encontro%20Nacional%20de%202006.md)
 - [Encontro Nacional de 2007](Encontros/Encontro%20Nacional%20de%202007.md)
 - [Encontro Nacional de 2008](Encontros/Encontro%20Nacional%20de%202008.md)
 - [Encontro Nacional de Animadores 2007](Encontros/Encontro%20Nacional%20de%20Animadores%202007.md)
@@ -695,6 +697,7 @@
 - *José Silva* → [José da Silva Almeida](Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
 - *José Silva Almeida* → [José da Silva Almeida](Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
 - *JPC* → [João Pedro Carlos](Pessoas/J/Jo%C3%A3o%20Pedro%20Carlos.md)
+- [Juliana Costa](Pessoas/J/Juliana%20Costa.md)
 - [Juliana Fernandes](Pessoas/J/Juliana%20Fernandes.md)
 - [Juliana Silva](Pessoas/J/Juliana%20Silva.md)
 
@@ -893,6 +896,7 @@
 - *Mi* → [Fernando Miguel Guimarães](Pessoas/F/Fernando%20Miguel%20Guimar%C3%A3es.md)
 - [Michael](Pessoas/M/Michael.md)
 - [Miguel Almeida](Pessoas/M/Miguel%20Almeida.md)
+- [Miguel Areias](Pessoas/M/Miguel%20Areias.md)
 - [Miguel Braga](Pessoas/M/Miguel%20Braga.md)
 - [Miguel Carneiro](Pessoas/M/Miguel%20Carneiro.md)
 - [Miguel D'Orey](Pessoas/M/Miguel%20D%27Orey.md)
@@ -1158,6 +1162,7 @@
 - [Sara Antunes](Pessoas/S/Sara%20Antunes.md)
 - [Sara Croca](Pessoas/S/Sara%20Croca.md)
 - [Sara Fernandes](Pessoas/S/Sara%20Fernandes.md)
+- [Sara Marques](Pessoas/S/Sara%20Marques.md)
 - [Sara Micaela Pinto](Pessoas/S/Sara%20Micaela%20Pinto.md)
 - [Sara Moinhos](Pessoas/S/Sara%20Moinhos.md)
 - [Sara Oom](Pessoas/S/Sara%20Oom.md)
