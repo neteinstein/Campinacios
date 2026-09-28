@@ -2,7 +2,7 @@
 
 Animadores do Colégio do Colégio São João de Brito
 
-## Páginas nesta categoria (173)
+## Páginas nesta categoria (174)
 
 - [Ana Martins](../Pessoas/A/Ana%20Martins.md)
 - [Ana Pais](../Pessoas/A/Ana%20Pais.md)
@@ -44,6 +44,7 @@ Animadores do Colégio do Colégio São João de Brito
 - [Francisco Costa Macedo](../Pessoas/F/Francisco%20Costa%20Macedo.md)
 - [Francisco Moitinho Almeida](../Pessoas/F/Francisco%20Moitinho%20Almeida.md)
 - [Francisco Penetra](../Pessoas/F/Francisco%20Penetra.md)
+- [Francisco Rodrigues (Pica)](../Pessoas/F/Francisco%20Rodrigues%20%28Pica%29.md)
 - [Francisco Silva Rodrigues](../Pessoas/F/Francisco%20Silva%20Rodrigues.md)
 - [Gonçalo Belo](../Pessoas/G/Gon%C3%A7alo%20Belo.md)
 - [Gonçalo Fonseca Carvalho](../Pessoas/G/Gon%C3%A7alo%20Fonseca%20Carvalho.md)

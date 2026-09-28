@@ -9,6 +9,7 @@
 ## Páginas que ligam para aqui
 
 - [Cabala](../../Acampamentos/2003/Cabala.md)
+- [I Encontro Nacional de Animadores](../../Encontros/I%20Encontro%20Nacional%20de%20Animadores.md)
 - [Mikelin Descobre a Vida](../../Acampamentos/2004/Mikelin%20Descobre%20a%20Vida.md)
 - [Patos](../../Acampamentos/2004/Patos.md)
 - [Piripetroporco](../../Acampamentos/2002/Piripetroporco.md)

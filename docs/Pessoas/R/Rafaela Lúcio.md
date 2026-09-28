@@ -9,6 +9,7 @@
 ## Páginas que ligam para aqui
 
 - [Fófinhos](../../Acampamentos/2005/F%C3%B3finhos.md)
+- [I Encontro Nacional de Animadores](../../Encontros/I%20Encontro%20Nacional%20de%20Animadores.md)
 - [Pimpolhos](../../Acampamentos/2003/Pimpolhos.md)
 
 ---

@@ -39,6 +39,7 @@
 - [Francisco Mota](Francisco%20Mota.md)
 - [Francisco Penetra](Francisco%20Penetra.md)
 - [Francisco Rodrigues (CAIC)](Francisco%20Rodrigues%20%28CAIC%29.md)
+- [Francisco Rodrigues (Pica)](Francisco%20Rodrigues%20%28Pica%29.md)
 - [Francisco Seabra](Francisco%20Seabra.md)
 - [Francisco Silva](Francisco%20Silva.md)
 - [Francisco Silva Rodrigues](Francisco%20Silva%20Rodrigues.md)

@@ -34,6 +34,7 @@ Ana Simões é, desde 2004, um dos animadores do Colégio da Imaculada Conceiç�
 ## Páginas que ligam para aqui
 
 - [Gaivota](../../Acampamentos/2005/Gaivota.md)
+- [I Encontro Nacional de Animadores](../../Encontros/I%20Encontro%20Nacional%20de%20Animadores.md)
 - [OPA](../../Acampamentos/2007/OPA.md)
 - [Rita Simões](../R/Rita%20Sim%C3%B5es.md)
 - [TSI](../../Acampamentos/2008/TSI.md)

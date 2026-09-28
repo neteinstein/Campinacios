@@ -22,6 +22,7 @@
 ## Páginas que ligam para aqui
 
 - [Diz Que Sim](../../Acampamentos/2007/Diz%20Que%20Sim.md)
+- [I Encontro Nacional de Animadores](../../Encontros/I%20Encontro%20Nacional%20de%20Animadores.md)
 - [Rita Mendes](../R/Rita%20Mendes.md)
 - [Teresa Mendes](../T/Teresa%20Mendes.md)
 - [Xii Tava Kuase Lá...!](../../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md)
