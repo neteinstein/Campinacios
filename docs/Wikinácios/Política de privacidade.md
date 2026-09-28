@@ -24,19 +24,19 @@ guardada só no `sessionStorage` (até fechar o separador) ou, escolhendo
 
 ## Editar ou enviar informação
 
-Editar uma página, abrir uma *pull request* ou preencher um dos
-[formulários de contributo](Conte%C3%BAdos.md#enviar-informacao) exige
-uma conta no GitHub. O que fizer com essa conta no GitHub — comentários,
-*commits*, *pull requests*, endereço IP das suas ligações — é gerido pelo
-GitHub e está sujeito à política de privacidade do GitHub, não a esta. O
-texto que publicar assim, o seu nome de utilizador do GitHub e a data ficam
-**públicos** no histórico do repositório, para sempre: o Git guarda todas as
-versões, mesmo depois de uma alteração ou remoção posterior.
+Editar uma página, abrir uma *pull request* ou
+[pedir uma alteração](Conte%C3%BAdos.md#pedir-uma-alteracao) por um dos
+formulários exige uma conta no GitHub. O que fizer com essa conta no GitHub
+— comentários, *commits*, *pull requests*, endereço IP das suas ligações —
+é gerido pelo GitHub e está sujeito à política de privacidade do GitHub,
+não a esta. O texto que publicar assim, o seu nome de utilizador do GitHub
+e a data ficam **públicos** no histórico do repositório, para sempre: o Git
+guarda todas as versões, mesmo depois de uma alteração ou remoção
+posterior.
 
 Quem prefere não usar o GitHub pode enviar a informação em privado a um dos
-[Contribuidores](Contribuidores.md), por um dos
-[modelos de texto](Conte%C3%BAdos.md#enviar-informacao); são os
-Contribuidores que a publicam depois, com o mesmo efeito.
+[Contribuidores](Contribuidores.md); são eles que a publicam depois, com o
+mesmo efeito.
 
 ## Dados pessoais nas páginas
 

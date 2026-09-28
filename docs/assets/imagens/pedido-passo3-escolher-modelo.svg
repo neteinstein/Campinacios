@@ -1,0 +1,34 @@
+<svg viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="800" height="320" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="24" y="36" fill="#1f2328" font-size="20" font-weight="bold">Get started</text>
+  <text x="24" y="58" fill="#57606a" font-size="13">Escolha o modelo que corresponde ao que quer pedir</text>
+
+  <g>
+    <rect x="24" y="76" width="752" height="46" rx="6" fill="#fff8f0" stroke="#cf222e" stroke-width="2"/>
+    <text x="40" y="105" fill="#1f2328" font-size="15">🏕️ Acampamento — um acampamento novo, ou informação para um que já existe</text>
+    <rect x="660" y="86" width="100" height="26" rx="5" fill="#2da44e"/>
+    <text x="675" y="103" fill="#ffffff" font-size="12">Get started</text>
+    <ellipse cx="710" cy="99" rx="65" ry="20" fill="none" stroke="#cf222e" stroke-width="2.5"/>
+  </g>
+
+  <g>
+    <rect x="24" y="130" width="752" height="40" fill="#ffffff" stroke="#eaeef2" stroke-width="1"/>
+    <text x="40" y="155" fill="#57606a" font-size="14">🙋 Pessoa — um animador, jesuíta ou outra pessoa do movimento</text>
+  </g>
+  <g>
+    <rect x="24" y="170" width="752" height="40" fill="#ffffff" stroke="#eaeef2" stroke-width="1"/>
+    <text x="40" y="195" fill="#57606a" font-size="14">🔗 Pessoas em Acampamentos — ligar uma pessoa a um acampamento</text>
+  </g>
+  <g>
+    <rect x="24" y="210" width="752" height="40" fill="#ffffff" stroke="#eaeef2" stroke-width="1"/>
+    <text x="40" y="235" fill="#57606a" font-size="14">🙋 Participantes de um Acampamento</text>
+  </g>
+  <g>
+    <rect x="24" y="250" width="752" height="40" fill="#ffffff" stroke="#eaeef2" stroke-width="1"/>
+    <text x="40" y="275" fill="#57606a" font-size="14">🏞️ Local de Acampamento &#183; 🔒 Remoção de Informação</text>
+  </g>
+
+  <path d="M700 122 L700 60" stroke="#cf222e" stroke-width="0" />
+  <rect x="20" y="296" width="760" height="20" fill="#ffffff"/>
+  <text x="40" y="312" fill="#1f2328" font-size="15" font-weight="bold">3. Escolha o modelo certo e clique em "Get started"</text>
+</svg>
