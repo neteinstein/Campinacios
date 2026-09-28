@@ -204,6 +204,7 @@
 - [Camtil](Movimento/Camtil.md)
 - [Canja](Acampamentos/1998/Canja.md)
 - [Cantinácio](Movimento/Cantin%C3%A1cio.md)
+- [Cantinácio: Campinácios](Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md)
 - [Cantinácio: Camtil](Movimento/Cantin%C3%A1cio/Camtil.md)
 - [Cantinácio: Cânticos](Movimento/Cantin%C3%A1cio/C%C3%A2nticos.md)
 - [Cantinácio: Escalas](Movimento/Cantin%C3%A1cio/Escalas.md)
