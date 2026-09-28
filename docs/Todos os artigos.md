@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1140 artigos e, em itálico, os 150 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1139 artigos e, em itálico, os 150 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -433,7 +433,6 @@
 - [Filipe Próspero](Pessoas/F/Filipe%20Pr%C3%B3spero.md)
 - [Filipe Queiroz e Melo](Pessoas/F/Filipe%20Queiroz%20e%20Melo.md)
 - [Filomena Vicente](Pessoas/F/Filomena%20Vicente.md)
-- [Fim-de-Semana de Espiritualidade e Encontro 2006](Formacao/Fim-de-Semana%20de%20Espiritualidade%20e%20Encontro%202006.md)
 - [FINO 99](Acampamentos/1999/FINO%2099.md)
 - [Florinhas](Acampamentos/1994/Florinhas.md)
 - [Foca-te](Acampamentos/2022/Foca-te.md)
