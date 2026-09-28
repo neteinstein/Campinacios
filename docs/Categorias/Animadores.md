@@ -9,7 +9,7 @@ Animadores dos Campinácios
 - [Animadores do CSJB](Animadores%20do%20CSJB.md)
 - [Jesuítas](Jesu%C3%ADtas.md)
 
-## Páginas nesta categoria (652)
+## Páginas nesta categoria (653)
 
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Afonso Barrocas](../Pessoas/A/Afonso%20Barrocas.md)
@@ -188,6 +188,7 @@ Animadores dos Campinácios
 - [Francisca Crujeira](../Pessoas/F/Francisca%20Crujeira.md)
 - [Francisca Mendes](../Pessoas/F/Francisca%20Mendes.md)
 - [Francisco Almeida (Kiko)](../Pessoas/F/Francisco%20Almeida%20%28Kiko%29.md)
+- [Francisco Barroso](../Pessoas/F/Francisco%20Barroso.md)
 - [Francisco Carvalho](../Pessoas/F/Francisco%20Carvalho.md)
 - [Francisco Costa Macedo](../Pessoas/F/Francisco%20Costa%20Macedo.md)
 - [Francisco Dioniz Barroso Loureiro](../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
