@@ -9,6 +9,14 @@ body:
         Obrigado por ajudar a guardar a história dos Campinácios! Preencha o que souber e deixe o resto em branco: os Contribuidores tratam de o pôr no site.
 
         **Este pedido fica público.** Não escreva contactos (telefones, e-mails, moradas), indicações para chegar aos locais de campo nem nomes de participantes menores de idade.
+  - type: input
+    id: contribuidor
+    attributes:
+      label: O seu nome
+      description: Para lhe dar crédito na lista de Contribuidores.
+      placeholder: Maria João Simões
+    validations:
+      required: true
   - type: dropdown
     id: tipo
     attributes:
