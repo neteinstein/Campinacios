@@ -8,6 +8,7 @@
 
 ## Páginas que ligam para aqui
 
+- [Francisco Dioniz Barroso Loureiro](../../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
 - [Nuno Mesquita](../../Pessoas/N/Nuno%20Mesquita.md)
 
 ---

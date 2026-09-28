@@ -12,6 +12,7 @@
 ## Páginas que ligam para aqui
 
 - [Afonso Espregueira](../../Pessoas/A/Afonso%20Espregueira.md)
+- [Francisco Dioniz Barroso Loureiro](../../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
 - [João Neto](../../Pessoas/J/Jo%C3%A3o%20Neto.md)
 - [Kiko Alves da Silva](../../Pessoas/K/Kiko%20Alves%20da%20Silva.md)
 - [Mogui](../../Pessoas/M/Mogui.md)

@@ -14,6 +14,7 @@
 - [Carlos Carvalho](../../Pessoas/C/Carlos%20Carvalho.md)
 - [Carminho Simões de Almeida](../../Pessoas/C/Carminho%20Sim%C3%B5es%20de%20Almeida.md)
 - [Fernando Monteiro](../../Pessoas/F/Fernando%20Monteiro.md)
+- [Francisco Dioniz Barroso Loureiro](../../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
 - [Jaime Lucas Pires](../../Pessoas/J/Jaime%20Lucas%20Pires.md)
 
 ---
