@@ -8,6 +8,14 @@ body:
       value: |
         As fichas dos locais de acampamento (indicações, contactos, mapa) são páginas restritas, cifradas, só editadas pelos Contribuidores. **Este pedido fica público** — por isso não escreva aqui indicações para chegar ao local, coordenadas, nem contactos de proprietários. Envie essa informação **em privado** a [Pedro Vicente](https://neteinstein.github.io/Campinacios/Pessoas/P/Pedro%20Vicente.html) ou [Tiago Bahia](https://neteinstein.github.io/Campinacios/Pessoas/T/Tiago%20Bahia.html), nunca aqui.
   - type: input
+    id: contribuidor
+    attributes:
+      label: O seu nome
+      description: Para lhe dar crédito na lista de Contribuidores.
+      placeholder: Maria João Simões
+    validations:
+      required: true
+  - type: input
     id: nome
     attributes:
       label: Local

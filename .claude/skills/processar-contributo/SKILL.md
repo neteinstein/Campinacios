@@ -98,7 +98,24 @@ children.
 - Where the submission contradicts the site, show both versions and ask;
   don't overwrite silently. Don't fill in what the sender left blank.
 
-## 4. Check and publish
+## 4. Credit the sender
+
+Each issue processed (Remoção excepted — it removes information, it doesn't
+add it) earns its submitter — the form's "O seu nome" field, or "Contribuidor"
+in pasted text — one contribution in `docs/Wikinácios/Contribuidores.md`,
+listed alphabetically by first name:
+
+- Already listed there: add 1 to their count.
+- Not listed: search them with the `nova-pessoa` skill's `procurar` first —
+  link to their page if they already have one, otherwise add their name as
+  plain text — and insert a new line `- Nome: 1 contribuição` in
+  alphabetical order. Don't create a page just for this.
+- Field left blank (older issues, from before this field existed): add 1 to
+  "Desconhecidos" instead.
+
+One contribution per issue, no matter how many pages it touched.
+
+## 5. Check and publish
 
 Run the validators of the skills you used and `mkdocs build --strict`.
 Commit mentioning the issue ("… (issue #12)").
@@ -114,7 +131,7 @@ Commit mentioning the issue ("… (issue #12)").
   Picking up one more issue for an already-open PR: add its `Closes #N` to
   the PR body too.
 
-## 5. Answer the sender
+## 6. Answer the sender
 
 Whichever path was used, comment in Portuguese on every issue picked up —
 **this step is never skipped**: thank them, and say plainly what changed

@@ -10,6 +10,14 @@ body:
 
         **Este pedido fica público.**
   - type: input
+    id: contribuidor
+    attributes:
+      label: O seu nome
+      description: Para lhe dar crédito na lista de Contribuidores.
+      placeholder: Maria João Simões
+    validations:
+      required: true
+  - type: input
     id: acampamento
     attributes:
       label: Acampamento
