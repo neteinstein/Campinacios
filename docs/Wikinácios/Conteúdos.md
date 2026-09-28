@@ -14,33 +14,81 @@ A ideia é guardar a máxima informação sobre cada acampamento/encontro, como 
 
 ## Regras
 
-Antes de mais é necessário ter a noção que para escrever um artigo aqui devemos seguir algumas regras. E porque?
-Primeiro que tudo porque quando andamos a navegar por uma categoria, por exemplo [Animadores](../Categorias/Animadores.md) estamos à espera que cada um dos animadores tenha a mesma organização para ser mais fácil de ler... isto aplica-se a tudo o resto.
+Os artigos seguem regras de organização e escrita, para ficarem todos
+parecidos e fáceis de ler — ver [Regras de Conteúdo](Regras%20de%20Conte%C3%BAdo.md).
+São seguidas pelos [Contribuidores](Contribuidores.md) quando escrevem ou
+publicam um artigo; quem só quer [pedir uma alteração](#pedir-uma-alteracao)
+não precisa de as conhecer.
 
-### As 5 Regras
+## Como pedir uma alteração? {#pedir-uma-alteracao}
 
-**1. Categorias**<br>
-As categorias tem o nome no plural.
+Sabe alguma coisa sobre um acampamento ou uma pessoa que falta na
+Wikinácios, ou que está errada? Não precisa de mexer em ficheiros nem de
+saber Markdown: basta abrir um pedido (uma *issue*) no GitHub a dizer o que
+quer que se acrescente, corrija ou remova. Um dos
+[Contribuidores](Contribuidores.md) trata depois de pôr a informação no
+site.
 
-**2. Artigos**<br>
-Os artigos sobre animadores, acampamentos, tema do ano, CIFAs, ou qualquer outro tema devem seguir o esquema dos artigos anteriores, ou seja, para escreverem algo abram outro artigo do mesmo tema, vão a editar, copiem, colem e alterem OS DADOS e não o esquema.
+1.  Abra a página de pedidos:
+    [github.com/neteinstein/Campinacios/issues](https://github.com/neteinstein/Campinacios/issues).
+    Se nunca usou o GitHub, é preciso criar uma conta (gratuita) — o próprio
+    site pede para o fazer quando carregar em **Sign up**.
 
-Os artigos pretendem descrever um tema, ou assunto singular, que não contém vários eventos. Por exemplo [OrienTu](../Acampamentos/2008/OrienTu.md) é um acampamento único, faz sentido que seja posto num artigo e não seja uma categoria.
+    ![Abrir o separador Issues do repositório](<../assets/imagens/pedido-passo1-issues.svg>)
 
-Acampamentos, fizemos já centenas... dai faz sentido que seja uma categoria onde apareça a explicar o que é um acampamento e os vários que já fizemos.
+2.  Carregue no botão verde **New issue**.
 
-**3.Alterações**<br>
-Não se toleram alterações persistentes de 2 utilizadores no mesmo artigo, imaginem um adiciona um acampamento o outro remove, e entram num ciclo persistente assim...
+    ![Carregar em New issue](<../assets/imagens/pedido-passo2-novo-pedido.svg>)
 
-**4. Quem manda aqui somos nós**<br>
-Estamos numa ditadura, as imposições feitas pelos administradores deste sítio são lei.
+3.  Escolha o modelo que corresponde ao que quer pedir (Acampamento, Pessoa,
+    Local de Acampamento...) e carregue em **Get started**.
 
-**5. Quem manda?**<br>
-Os [Contribuidores](Contribuidores.md): [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) e [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md).
+    ![Escolher o modelo certo](<../assets/imagens/pedido-passo3-escolher-modelo.svg>)
 
-## Como adicionar conteúdo?
+4.  Preencha só o que souber — os campos que não sabe ficam em branco — e
+    carregue em **Submit new issue**.
 
-Não tem conta no GitHub, ou prefere não mexer nos ficheiros? Veja como [enviar a informação](#enviar-informacao) por um formulário ou por um modelo de texto, e os [Contribuidores](Contribuidores.md) põem-na no site.
+    ![Preencher e enviar o pedido](<../assets/imagens/pedido-passo4-enviar.svg>)
+
+E está feito: o pedido fica visível aos Contribuidores, que o revêem e
+acrescentam a informação ao site. Não precisa de fazer mais nada.
+
+Os modelos disponíveis:
+
+- [🏕️ Acampamento](https://github.com/neteinstein/Campinacios/issues/new?template=acampamento.yml):
+  um acampamento novo, ou informação para um que já existe.
+- [🙋 Pessoa](https://github.com/neteinstein/Campinacios/issues/new?template=pessoa.yml):
+  um animador, jesuíta ou outra pessoa do movimento, nova ou que já tem
+  página.
+- [🔗 Pessoas em Acampamentos](https://github.com/neteinstein/Campinacios/issues/new?template=pessoas-em-acampamentos.yml):
+  ligar uma pessoa e um acampamento que já têm página (quem animou o quê,
+  quem esteve lá).
+- [🙋 Participantes de um Acampamento](https://github.com/neteinstein/Campinacios/issues/new?template=participantes.yml):
+  a lista de participantes de um Calhambeques ou Formação de Animadores
+  que já tem página.
+- [🏞️ Local de Acampamento](https://github.com/neteinstein/Campinacios/issues/new?template=local-de-acampamento.yml):
+  avisar que falta a ficha de um local, ou que local se usou num
+  acampamento — **nunca com indicações, coordenadas ou contactos**, que
+  ficam para depois, em privado com os Contribuidores.
+- [🔒 Remoção de Informação](https://github.com/neteinstein/Campinacios/issues/new?template=remocao-de-informacao.yml):
+  pedir que a sua própria informação seja removida, corrigida ou ocultada
+  do site.
+
+O que se envia por um pedido do GitHub fica público. Não escreva contactos
+(telefones, e-mails, moradas), indicações para chegar aos locais de campo
+nem nomes de participantes menores de idade, e só envie informação sobre
+outra pessoa se ela concordar.
+
+Prefere não usar o GitHub, ou tem coisas privadas a dizer (indicações,
+coordenadas, contactos)? Escreva antes a um dos
+[Contribuidores](Contribuidores.md):
+[Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) ou
+[Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md).
+
+## Editar directamente
+
+Quem tem conta no GitHub e prefere editar os ficheiros do site pode fazê-lo
+directamente, sem passar por um pedido.
 
 A Wikinácios já não corre em MediaWiki: é um site feito a partir dos
 ficheiros do repositório
@@ -138,108 +186,6 @@ Na página da categoria-mãe, acrescente a subcategoria à secção
 Estão cifradas e não se editam no GitHub. Ver
 [Sobre este arquivo](Sobre%20este%20arquivo.md#páginas-restritas).
 
-### Enviar informação sem editar {#enviar-informacao}
-
-Sabe alguma coisa sobre um acampamento ou uma pessoa que falta na
-Wikinácios, ou que está errada? Envie-a por um destes modelos e os
-[Contribuidores](Contribuidores.md) põem-na no site. Preencha só o que souber.
-
-#### Com conta no GitHub
-
-- [🏕️ Acampamento](https://github.com/neteinstein/Campinacios/issues/new?template=acampamento.yml):
-  um acampamento novo, ou informação para um que já existe.
-- [🙋 Pessoa](https://github.com/neteinstein/Campinacios/issues/new?template=pessoa.yml):
-  um animador, jesuíta ou outra pessoa do movimento, nova ou que já tem
-  página.
-- [🔗 Pessoas em Acampamentos](https://github.com/neteinstein/Campinacios/issues/new?template=pessoas-em-acampamentos.yml):
-  ligar uma pessoa e um acampamento que já têm página (quem animou o quê,
-  quem esteve lá).
-- [🙋 Participantes de um Acampamento](https://github.com/neteinstein/Campinacios/issues/new?template=participantes.yml):
-  a lista de participantes de um Calhambeques ou Formação de Animadores
-  que já tem página.
-- [🏞️ Local de Acampamento](https://github.com/neteinstein/Campinacios/issues/new?template=local-de-acampamento.yml):
-  avisar que falta a ficha de um local, ou que local se usou num
-  acampamento — **nunca com indicações, coordenadas ou contactos**, que
-  ficam para o passo seguinte.
-- [🔒 Remoção de Informação](https://github.com/neteinstein/Campinacios/issues/new?template=remocao-de-informacao.yml):
-  pedir que a sua própria informação seja removida, corrigida ou ocultada
-  do site.
-
-O que se envia assim fica público no GitHub. Não escreva contactos
-(telefones, e-mails, moradas), indicações para chegar aos locais de campo
-nem nomes de participantes menores de idade, e só envie informação sobre
-outra pessoa se ela concordar. As fichas dos locais de acampamento são
-páginas restritas: as indicações, coordenadas e contactos vão sempre em
-privado aos Contribuidores, nunca num destes pedidos.
-
-#### Sem conta no GitHub
-
-Copie o modelo, preencha o que souber e envie-o a alguém dos [Contribuidores](Contribuidores.md):
-[Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) ou
-[Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md).
-
-##### Acampamento
-
-```text
-Acampamento novo, ou correcção de um que já existe:
-Nome do acampamento:
-Ano:
-Escalão (Triciclos, Trotinetas, Bicicletas, Lambretas, Calhambeques, Formação):
-Datas:
-Local (só a localidade e o concelho):
-Imaginário ou tema:
-Equipa de animação (um por linha, "Cargo - Nome"):
-Participantes (só Calhambeques e Formação de Animadores):
-História, hino, peripécias:
-De onde vem esta informação:
-```
-
-##### Pessoa
-
-```text
-Pessoa nova, ou correcção de uma que já tem página:
-Nome completo:
-Outros nomes e alcunhas:
-Colégio (CAIC, CC, CSJB):
-Papel (participante, animador, jesuíta, Direcção Local, Direcção Nacional):
-Acampamentos como participante (um por linha, "Ano - Acampamento"):
-Formação (um por linha, "Ano - Acampamento"):
-Acampamentos como animador (um por linha, "Ano - Acampamento - Cargo"):
-Cargos no movimento:
-Outras informações:
-A pessoa concorda que isto fique público no site (sim/não):
-```
-
-##### Pessoas em Acampamentos
-
-```text
-Pessoas e acampamentos (um por linha, "Ano - Acampamento - Pessoa - Papel"):
-De onde vem esta informação:
-```
-
-##### Participantes de um Acampamento
-
-```text
-Acampamento (nome e ano, só Calhambeques ou Formação de Animadores):
-Participantes (um nome por linha, maiores de idade e que concordem):
-De onde vem esta informação:
-```
-
-##### Local de Acampamento
-
-```text
-Local (localidade e concelho):
-Como chegar:
-Contactos (proprietário ou responsável, telefone):
-Condições (água, electricidade, casas de banho, sombra, capacidade):
-Acampamentos que lá se fizeram (um por linha, "Ano - Acampamento"):
-De onde vem esta informação:
-```
-
-Este modelo pode ir directamente aos Contribuidores com as indicações e os
-contactos, porque é enviado em privado — nunca os escreva num pedido do
-GitHub.
-
 ## Modelos
 
 Esquemas prontos a copiar para os artigos mais comuns, com a informação que
@@ -247,8 +193,8 @@ cada um precisa e os cuidados a ter. Copie o bloco (botão no canto do
 bloco), cole-o no ficheiro e substitua o que está entre `« »`. Apague as
 linhas de que não sabe nada, em vez de as deixar vazias ou de inventar.
 
-Sem conta no GitHub? Reúna a mesma informação e
-[envie-a](#enviar-informacao) aos Contribuidores.
+Não tem conta no GitHub ou prefere não editar ficheiros? Reúna a mesma
+informação e [peça a alteração](#pedir-uma-alteracao) por um pedido.
 
 - [Acampamento novo, com a equipa de animação](#acampamento-novo)
 - [Pessoa nova](#pessoa-nova)
