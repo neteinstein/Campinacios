@@ -2,6 +2,8 @@
 
 O Graal II foi um acampamento de [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) que decorreu de 9 a 18 de Agosto de 2003  no [Lugar do Barco](../../Restrito/Locais%20de%20Acampamento/Lugar%20do%20Barco%20%28Ref%C3%B3ios%20do%20Lima%29.md) (Refóios do Lima).
 
+Foi neste campo que se cantou a música "Pára e Repara" (ver [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#para-e-repara)).
+
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj
