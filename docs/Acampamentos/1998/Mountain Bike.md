@@ -5,7 +5,7 @@
 - [Director](../../Cargos/Director.md) - [Martim Cunha Ferreira](../../Pessoas/M/Martim%20Cunha%20Ferreira.md)
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - Chico Maria, Zé Rui Santos
 
-Foi neste campo que foi composta a música "Poema Lindo" por Chico Maria.
+Foi neste campo que foi composta a música ["Poema Lindo"](https://campinacios.pedrovicente.pt/Movimento/Cantin%C3%A1cio.html) por Chico Maria.
 
 ## Páginas que ligam para aqui
 
