@@ -22,6 +22,16 @@ Para efeitos de coerência apresentamos aqui como Direcção Nacional todos os e
 
 As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Deliberações](../Movimento/Manual%20de%20Delibera%C3%A7%C3%B5es.md), que reúne as orientações e excepções já discutidas para não voltarem a sê-lo.
 
+## Direcção Nacional 2026/2027
+
+- **Assistente Nacional**: [Vasco Lucas Pires](../Pessoas/V/Vasco%20Lucas%20Pires.md) sj
+- **DL-CC**: [Vicente Goes](../Pessoas/V/Vicente%20Goes.md) sj (Assistente Local do CC)
+
+## Direcção Nacional 2025/2026
+
+- **Assistente Nacional**: [Vasco Lucas Pires](../Pessoas/V/Vasco%20Lucas%20Pires.md) sj
+- **DL-CC**: [Vasco Lucas Pires](../Pessoas/V/Vasco%20Lucas%20Pires.md) sj (Assistente Local do CC)
+
 ## Direcção Nacional 2009/2010
 
 - **Assistente Nacional**:[Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj
@@ -157,7 +167,7 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 - [Direcções Locais](Direc%C3%A7%C3%B5es%20Locais.md)
 - [Secretários da DN](Secret%C3%A1rios%20da%20DN.md)
 
-## Páginas nesta categoria (55)
+## Páginas nesta categoria (57)
 
 - [Amílcar Sousa](../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
 - [Ana Simões](../Pessoas/A/Ana%20Sim%C3%B5es.md)
@@ -214,6 +224,8 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 - [Rodrigo Queiroz e Melo](../Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md)
 - [Sérgio Carvalho](../Pessoas/S/S%C3%A9rgio%20Carvalho.md)
 - [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md)
+- [Vasco Lucas Pires](../Pessoas/V/Vasco%20Lucas%20Pires.md)
+- [Vicente Goes](../Pessoas/V/Vicente%20Goes.md)
 
 ## Páginas que ligam para aqui
 
@@ -269,5 +281,7 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 - [Rodrigo Queiroz e Melo](../Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md)
 - [Sérgio Carvalho](../Pessoas/S/S%C3%A9rgio%20Carvalho.md)
 - [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md)
+- [Vasco Lucas Pires](../Pessoas/V/Vasco%20Lucas%20Pires.md)
+- [Vicente Goes](../Pessoas/V/Vicente%20Goes.md)
 - [Vítor Fernandes](../Pessoas/V/V%C3%ADtor%20Fernandes.md)
 - [Áreas Restrictas](../Restrito/%C3%81reas%20Restrictas.md)

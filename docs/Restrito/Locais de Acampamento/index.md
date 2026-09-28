@@ -29,6 +29,7 @@
 - [Quinta Sto António do Rio Zézere (Covilhã)](Quinta%20Sto%20Ant%C3%B3nio%20do%20Rio%20Z%C3%A9zere%20%28Covilh%C3%A3%29.md) 🔒
 - [Ribeira do Conde (Serpins)](Ribeira%20do%20Conde%20%28Serpins%29.md) 🔒
 - [Santa Margarida (Constância)](Santa%20Margarida%20%28Const%C3%A2ncia%29.md) 🔒
+- [Sequeiros (Braga)](Sequeiros%20%28Braga%29.md) 🔒
 - [Serra de Arga (Paredes de Coura)](Serra%20de%20Arga%20%28Paredes%20de%20Coura%29.md) 🔒
 - [Sibana (Vila Nova do Ceira)](Sibana%20%28Vila%20Nova%20do%20Ceira%29.md) 🔒
 - [Tabuadelas (Vieira do Minho)](Tabuadelas%20%28Vieira%20do%20Minho%29.md) 🔒

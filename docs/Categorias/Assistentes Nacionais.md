@@ -4,6 +4,7 @@ Assistentes Nacionais do Movimento
 
 ### Assistentes Nacionais
 
+- 2025/2026 a 2026/2027 [Vasco Lucas Pires](../Pessoas/V/Vasco%20Lucas%20Pires.md) sj
 - 2009/2010 [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj
 - 2008/2009 [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj
 - 2007/2008 [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj
@@ -18,13 +19,14 @@ Assistentes Nacionais do Movimento
 - 1998/1999 [Zé Lopes](../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md) sj / [Domingos Freitas](../Pessoas/D/Domingos%20Freitas.md) sj
 - 1997/1998 [Zé Lopes](../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md) sj
 
-## Páginas nesta categoria (5)
+## Páginas nesta categoria (6)
 
 - [António Sant'Ana](../Pessoas/A/Ant%C3%B3nio%20Sant%27Ana.md)
 - [Domingos Freitas](../Pessoas/D/Domingos%20Freitas.md)
 - [José Manuel Lopes](../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md)
 - [José da Silva Almeida](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
 - [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
+- [Vasco Lucas Pires](../Pessoas/V/Vasco%20Lucas%20Pires.md)
 
 ## Páginas que ligam para aqui
 
@@ -34,6 +36,7 @@ Assistentes Nacionais do Movimento
 - [José da Silva Almeida](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
 - [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
 - [Revolução Campinácios v2.0](../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
+- [Vasco Lucas Pires](../Pessoas/V/Vasco%20Lucas%20Pires.md)
 
 ---
 

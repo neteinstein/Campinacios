@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1080 artigos e, em itálico, os 138 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1081 artigos e, em itálico, os 140 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -496,6 +496,7 @@
 - [Hakaros](Acampamentos/1999/Hakaros.md)
 - [Hakuna Matata](Acampamentos/1995/Hakuna%20Matata.md)
 - *Heitor* → [Heitor Rosa](Pessoas/H/Heitor%20Rosa.md)
+- *Heitor Ramos Rosa* → [Heitor Rosa](Pessoas/H/Heitor%20Rosa.md)
 - [Heitor Rosa](Pessoas/H/Heitor%20Rosa.md)
 - [Hélder Sousa](Pessoas/H/H%C3%A9lder%20Sousa.md)
 - [Helena Cunha e Carmo](Pessoas/H/Helena%20Cunha%20e%20Carmo.md)
@@ -686,6 +687,7 @@
 - [Lembras-te?](Acampamentos/2009/Lembras-te.md)
 - [Leonardo Carvalho](Pessoas/L/Leonardo%20Carvalho.md)
 - [Leonor Simões](Pessoas/L/Leonor%20Sim%C3%B5es.md)
+- [Leonor Vala](Pessoas/L/Leonor%20Vala.md)
 - [Level Up](Acampamentos/2022/Level%20Up.md)
 - [Liberata](Acampamentos/2000/Liberata.md)
 - [Lídia Couto](Pessoas/L/L%C3%ADdia%20Couto.md)
@@ -886,7 +888,7 @@
 - *Nini* → [Teresa Mendes](Pessoas/T/Teresa%20Mendes.md)
 - [Ninja Por Não Estar](Acampamentos/2002/Ninja%20Por%20N%C3%A3o%20Estar.md)
 - [Non Nobis](Acampamentos/2026/Non%20Nobis.md)
-- [Nonô Vala](Pessoas/N/Non%C3%B4%20Vala.md)
+- *Nonô* → [Leonor Vala](Pessoas/L/Leonor%20Vala.md)
 - [Nossa Senhora da Graça (Sabugal, Guarda)](Restrito/Locais%20de%20Acampamento/Nossa%20Senhora%20da%20Gra%C3%A7a%20%28Sabugal%2C%20Guarda%29.md) 🔒
 - [Nómada](Acampamentos/2006/N%C3%B3mada.md)
 - [Nuno Branco](Pessoas/N/Nuno%20Branco.md)
@@ -1111,6 +1113,7 @@
 - [Sebastião Caldas](Pessoas/S/Sebasti%C3%A3o%20Caldas.md)
 - [Sem Truques](Acampamentos/2025/Sem%20Truques.md)
 - [Sentido](Acampamentos/2014/Sentido.md)
+- [Sequeiros (Braga)](Restrito/Locais%20de%20Acampamento/Sequeiros%20%28Braga%29.md) 🔒
 - *Serpins* → [Ribeira do Conde (Serpins)](Restrito/Locais%20de%20Acampamento/Ribeira%20do%20Conde%20%28Serpins%29.md) 🔒
 - *Serra de Arga* → [Serra de Arga (Paredes de Coura)](Restrito/Locais%20de%20Acampamento/Serra%20de%20Arga%20%28Paredes%20de%20Coura%29.md) 🔒
 - [Serra de Arga (Paredes de Coura)](Restrito/Locais%20de%20Acampamento/Serra%20de%20Arga%20%28Paredes%20de%20Coura%29.md) 🔒

@@ -88,16 +88,34 @@ children.
 ## 4. Check and publish
 
 Run the validators of the skills you used and `mkdocs build --strict`.
-Commit mentioning the issue ("… (issue #12)") and push the way this repo
-publishes (to `main`), then confirm the "Publicar site" workflow deployed.
+Commit mentioning the issue ("… (issue #12)").
+
+- Pushing straight to `main`: push, then confirm the "Publicar site"
+  workflow deployed.
+- Working through a pull request (the usual case when several issues are
+  picked up together, or the repo asks for review before publishing): push
+  to the branch and open or update the PR. **Always link every issue the PR
+  resolves in its body**, with a `Closes #N` (or `Closes #34, Closes #35, …`
+  for several) per issue — GitHub then closes each one automatically the
+  moment the PR merges, so don't close them by hand while the PR is open.
+  Picking up one more issue for an already-open PR: add its `Closes #N` to
+  the PR body too.
 
 ## 5. Answer the sender
 
-For an issue, comment in Portuguese: thank them, link the pages on the site
-(`https://neteinstein.github.io/Campinacios/<caminho>.html`, spaces as
-`%20`), and say what was left out and why (private data, a name you still
-need to confirm…). Sign the comment with whatever attribution your tool
-requires when posting on someone's behalf, if any. Then close
-the issue as completed — or, if you need something from the sender, ask
-only that and leave it open. For pasted text, report the same to the user
-in chat.
+Whichever path was used, comment in Portuguese on every issue picked up —
+**this step is never skipped**: thank them, and say plainly what changed
+(the pages touched, what was added/renamed/linked) and what was left out
+and why (private data, a name you still need to confirm…). Link the
+pages on the site (`https://neteinstein.github.io/Campinacios/<caminho>.html`,
+spaces as `%20`). Sign the comment with whatever attribution your tool
+requires when posting on someone's behalf, if any.
+
+- Direct push to `main`: close the issue as completed — or, if you need
+  something from the sender, ask only that and leave it open.
+- Pull request: say the changes are in the PR (link it) and that the issue
+  closes automatically once it merges; leave the issue open (don't close it
+  by hand — that would double up with the `Closes #N` on merge). If you
+  still need something from the sender, ask only that, in the same comment.
+
+For pasted text, report the same to the user in chat.
