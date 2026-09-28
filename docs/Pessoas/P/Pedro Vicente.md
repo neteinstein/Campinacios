@@ -33,6 +33,7 @@ Frequentou o [CAIC](../../Movimento/CAIC.md) de 1995 a 2003. Animador desde 2003
     - 2009 [Caminho](../../Acampamentos/2009/Caminho.md)  - [Director](../../Cargos/Director.md)
     - 2010 [Walkabout](../../Acampamentos/2010/Walkabout.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2011 [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md) - [Director](../../Cargos/Director.md)
+    - 2012 [Limpopolus](../../Acampamentos/2012/Limpopolus.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
 ### Campinacios.org
 
@@ -86,10 +87,12 @@ Respondendo à pergunta inicial… ganhei tudo… o que é importante pelo menos
 - [Conteúdos](../../Wikin%C3%A1cios/Conte%C3%BAdos.md)
 - [Contribuidores](../../Wikin%C3%A1cios/Contribuidores.md)
 - [Encontro Nacional de 2007](../../Encontros/Encontro%20Nacional%20de%202007.md)
+- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
 - [Encontro Nacional de Animadores 2007](../../Encontros/Encontro%20Nacional%20de%20Animadores%202007.md)
 - [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md)
 - [Filipe Barroso](../F/Filipe%20Barroso.md)
 - [Gaivota](../../Acampamentos/2005/Gaivota.md)
+- [Limpopolus](../../Acampamentos/2012/Limpopolus.md)
 - [Long Tao](../../Acampamentos/2006/Long%20Tao.md)
 - [Manual de Funções](../../Movimento/Manual%20de%20Fun%C3%A7%C3%B5es.md)
 - [Manual do Director](../../Movimento/Manual%20do%20Director.md)

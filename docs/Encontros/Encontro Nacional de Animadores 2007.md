@@ -2,6 +2,8 @@
 
 O Encontro Nacional de Animadores de 2007 realizou-se em 31 de Outubro e 1 de Novembro, no Santuário de Schoenstatt (Gafanha da Nazaré, Ílhavo).
 
+[![Cartaz do Encontro Nacional de Animadores: um pôr-do-sol sobre a praia, com as datas «31 de Outubro e 1 de Novembro» e o local «Gafanha da Nazaré»](../assets/imagens/Encontro%20Nacional%20de%20Animadores%202007.png)](../assets/imagens/Encontro%20Nacional%20de%20Animadores%202007.png)
+
 Cada Direcção Local organizou o transporte dos seus animadores a partir do respectivo Colégio (CSJB, CAIC e Caldinhas). O programa incluiu acolhimento e jantar na chegada, Bons Dias Senhor, um passeio até à praia, um pic-nic, uma conversa com a Direcção Nacional e a Missa do ENA.
 
 ## Organização

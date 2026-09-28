@@ -9,7 +9,7 @@ Animadores dos Campinácios
 - [Animadores do CSJB](Animadores%20do%20CSJB.md)
 - [Jesuítas](Jesu%C3%ADtas.md)
 
-## Páginas nesta categoria (681)
+## Páginas nesta categoria (682)
 
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Afonso Barrocas](../Pessoas/A/Afonso%20Barrocas.md)
@@ -47,6 +47,7 @@ Animadores dos Campinácios
 - [Ana Quaresma](../Pessoas/A/Ana%20Quaresma.md)
 - [Ana Reis Sá](../Pessoas/A/Ana%20Reis%20S%C3%A1.md)
 - [Ana Ribeiro](../Pessoas/A/Ana%20Ribeiro.md)
+- [Ana Rita Costa](../Pessoas/A/Ana%20Rita%20Costa.md)
 - [Ana Rocha](../Pessoas/A/Ana%20Rocha.md)
 - [Ana Salgado](../Pessoas/A/Ana%20Salgado.md)
 - [Ana Simões](../Pessoas/A/Ana%20Sim%C3%B5es.md)

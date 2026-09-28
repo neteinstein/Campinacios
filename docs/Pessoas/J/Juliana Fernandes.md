@@ -13,6 +13,7 @@ Juliana Fernandes, nascida a 22 de Junho de 1987, é animadora do CC desde 2005.
     - 2008 [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md) - [Tia](../../Cargos/Tio.md)
     - 2009 [Survivor](../../Acampamentos/2009/Survivor.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2009 [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
+    - 2012 [Limpopolus](../../Acampamentos/2012/Limpopolus.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
 ## Páginas que ligam para aqui
 
@@ -20,6 +21,7 @@ Juliana Fernandes, nascida a 22 de Junho de 1987, é animadora do CC desde 2005.
 - [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
 - [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
 - [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md)
+- [Limpopolus](../../Acampamentos/2012/Limpopolus.md)
 - [Nómada](../../Acampamentos/2006/N%C3%B3mada.md)
 - [Survivor](../../Acampamentos/2009/Survivor.md)
 
