@@ -2,6 +2,14 @@
 
 Orgão responsável pela dinamização de actividades e coordenação de animadores no Colégio das Caldinhas.
 
+### Direcção Local 2026/2027
+
+- [Vicente Goes](../Pessoas/V/Vicente%20Goes.md) sj (Assistente)
+
+### Direcção Local 2025/2026
+
+- [Vasco Lucas Pires](../Pessoas/V/Vasco%20Lucas%20Pires.md) sj (Assistente)
+
 ### Direcção Local 2009/2010
 
 - [João Paulo Moinhos](../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md) (Coordenador da DL)
@@ -112,7 +120,7 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [José Manuel Filgueiras](../Pessoas/J/Jos%C3%A9%20Manuel%20Filgueiras.md) (Director Executivo)
 - Joana Marques Dias (Directora Executiva Adjunta)
 
-## Páginas nesta categoria (34)
+## Páginas nesta categoria (36)
 
 - [Amílcar Sousa](../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
 - [Ana Luísa Reis](../Pessoas/A/Ana%20Lu%C3%ADsa%20Reis.md)
@@ -147,6 +155,8 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [Rui Ribeiro](../Pessoas/R/Rui%20Ribeiro.md)
 - [Sérgio Carvalho](../Pessoas/S/S%C3%A9rgio%20Carvalho.md)
 - [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md)
+- [Vasco Lucas Pires](../Pessoas/V/Vasco%20Lucas%20Pires.md)
+- [Vicente Goes](../Pessoas/V/Vicente%20Goes.md)
 - [Vítor Fernandes](../Pessoas/V/V%C3%ADtor%20Fernandes.md)
 
 ## Páginas que ligam para aqui
@@ -184,6 +194,8 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [Rui Ribeiro](../Pessoas/R/Rui%20Ribeiro.md)
 - [Sérgio Carvalho](../Pessoas/S/S%C3%A9rgio%20Carvalho.md)
 - [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md)
+- [Vasco Lucas Pires](../Pessoas/V/Vasco%20Lucas%20Pires.md)
+- [Vicente Goes](../Pessoas/V/Vicente%20Goes.md)
 - [Vítor Fernandes](../Pessoas/V/V%C3%ADtor%20Fernandes.md)
 
 ---

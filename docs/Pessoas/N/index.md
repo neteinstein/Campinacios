@@ -2,7 +2,6 @@
 
 - [Natacha Soares](Natacha%20Soares.md)
 - [Nelson Faria](Nelson%20Faria.md)
-- [Nonô Vala](Non%C3%B4%20Vala.md)
 - [Nuno Branco](Nuno%20Branco.md)
 - [Nuno Carrolo](Nuno%20Carrolo.md)
 - [Nuno Carvalho](Nuno%20Carvalho.md)

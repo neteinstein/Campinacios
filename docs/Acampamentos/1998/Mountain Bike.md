@@ -3,10 +3,14 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Martim Cunha Ferreira](../../Pessoas/M/Martim%20Cunha%20Ferreira.md)
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - Chico Maria, Zé Rui Santos
+
+Foi neste campo que foi composta a música "Poema Lindo" por Chico Maria (ver [Cantinácio](../../Movimento/Cantin%C3%A1cio.md)).
 
 ## Páginas que ligam para aqui
 
 - [Ana Salgado](../../Pessoas/A/Ana%20Salgado.md)
+- [Cantinácio](../../Movimento/Cantin%C3%A1cio.md)
 - [Eduardo Almeida](../../Pessoas/E/Eduardo%20Almeida.md)
 - [Inês Serra Ferreira](../../Pessoas/I/In%C3%AAs%20Serra%20Ferreira.md)
 - [Irina Ramos](../../Pessoas/I/Irina%20Ramos.md)
