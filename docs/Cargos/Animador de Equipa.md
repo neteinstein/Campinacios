@@ -87,6 +87,7 @@
 - [Caldas de S.Paulo](../Acampamentos/1990/Caldas%20de%20S.Paulo.md)
 - [Caldelas](../Acampamentos/1996/Caldelas.md)
 - [Camila Martins](../Pessoas/C/Camila%20Martins.md)
+- [Chama de Novo](../Acampamentos/2019/Chama%20de%20Novo.md)
 - [Canja](../Acampamentos/1998/Canja.md)
 - [Carla Carneiro](../Pessoas/C/Carla%20Carneiro.md)
 - [Carlos Rodrigues](../Pessoas/C/Carlos%20Rodrigues.md)
