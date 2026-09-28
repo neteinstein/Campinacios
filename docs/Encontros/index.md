@@ -3,6 +3,7 @@
 Encontros Nacionais e Encontros Nacionais de Animadores.
 
 - [Encontro de Lambretas 94](Encontro%20de%20Lambretas%2094.md)
+- [Encontro Nacional 2000 (Encontrão)](Encontro%20Nacional%202000%20%28Encontr%C3%A3o%29.md)
 - [Encontro Nacional 2010](Encontro%20Nacional%202010.md)
 - [Encontro Nacional de 1995](Encontro%20Nacional%20de%201995.md)
 - [Encontro Nacional de 1998](Encontro%20Nacional%20de%201998.md)
@@ -10,8 +11,7 @@ Encontros Nacionais e Encontros Nacionais de Animadores.
 - [Encontro Nacional de 2006](Encontro%20Nacional%20de%202006.md)
 - [Encontro Nacional de 2007](Encontro%20Nacional%20de%202007.md)
 - [Encontro Nacional de 2008](Encontro%20Nacional%20de%202008.md)
+- [Encontro Nacional de Animadores 2004](Encontro%20Nacional%20de%20Animadores%202004.md)
+- [Encontro Nacional de Animadores 2005](Encontro%20Nacional%20de%20Animadores%202005.md)
 - [Encontro Nacional de Animadores 2007](Encontro%20Nacional%20de%20Animadores%202007.md)
 - [Encontro Nacional de Animadores 2009](Encontro%20Nacional%20de%20Animadores%202009.md)
-- [Encontrão](Encontr%C3%A3o.md)
-- [I Encontro Nacional de Animadores](I%20Encontro%20Nacional%20de%20Animadores.md)
-- [II Encontro Nacional de Animadores](II%20Encontro%20Nacional%20de%20Animadores.md)

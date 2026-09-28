@@ -9,7 +9,7 @@
 
 ## Páginas que ligam para aqui
 
-- [I Encontro Nacional de Animadores](../../Encontros/I%20Encontro%20Nacional%20de%20Animadores.md)
+- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
 - [Long Tao](../../Acampamentos/2006/Long%20Tao.md)
 
 ---

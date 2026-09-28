@@ -26,7 +26,7 @@ Animador do CC desde 2004.
 
 - [Academia](../../Acampamentos/2005/Academia.md)
 - [Bike Just Do It](../../Acampamentos/2008/Bike%20Just%20Do%20It.md)
-- [I Encontro Nacional de Animadores](../../Encontros/I%20Encontro%20Nacional%20de%20Animadores.md)
+- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
 - [Lembras-te?](../../Acampamentos/2009/Lembras-te.md)
 - [M&M](../../Acampamentos/2007/M%26M.md)
 - [Obra Prima](../../Acampamentos/2010/Obra%20Prima.md)
