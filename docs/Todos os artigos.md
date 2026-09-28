@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1136 artigos e, em itálico, os 150 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1140 artigos e, em itálico, os 150 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -64,6 +64,7 @@
 - [Ana Quaresma](Pessoas/A/Ana%20Quaresma.md)
 - [Ana Reis Sá](Pessoas/A/Ana%20Reis%20S%C3%A1.md)
 - [Ana Ribeiro](Pessoas/A/Ana%20Ribeiro.md)
+- [Ana Rita Costa](Pessoas/A/Ana%20Rita%20Costa.md)
 - [Ana Rocha](Pessoas/A/Ana%20Rocha.md)
 - [Ana Salgado](Pessoas/A/Ana%20Salgado.md)
 - [Ana Simões](Pessoas/A/Ana%20Sim%C3%B5es.md)
@@ -383,6 +384,7 @@
 - [Encontro Nacional de 2008](Encontros/Encontro%20Nacional%20de%202008.md)
 - [Encontro Nacional de Animadores 2004](Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
 - [Encontro Nacional de Animadores 2005](Encontros/Encontro%20Nacional%20de%20Animadores%202005.md)
+- [Encontro Nacional de Animadores 2006](Encontros/Encontro%20Nacional%20de%20Animadores%202006.md)
 - [Encontro Nacional de Animadores 2007](Encontros/Encontro%20Nacional%20de%20Animadores%202007.md)
 - [Encontro Nacional de Animadores 2009](Encontros/Encontro%20Nacional%20de%20Animadores%202009.md)
 - [Entre ASPAS](Acampamentos/2008/Entre%20ASPAS.md)
@@ -431,6 +433,7 @@
 - [Filipe Próspero](Pessoas/F/Filipe%20Pr%C3%B3spero.md)
 - [Filipe Queiroz e Melo](Pessoas/F/Filipe%20Queiroz%20e%20Melo.md)
 - [Filomena Vicente](Pessoas/F/Filomena%20Vicente.md)
+- [Fim-de-Semana de Espiritualidade e Encontro 2006](Formacao/Fim-de-Semana%20de%20Espiritualidade%20e%20Encontro%202006.md)
 - [FINO 99](Acampamentos/1999/FINO%2099.md)
 - [Florinhas](Acampamentos/1994/Florinhas.md)
 - [Foca-te](Acampamentos/2022/Foca-te.md)

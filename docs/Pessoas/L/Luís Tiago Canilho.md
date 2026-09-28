@@ -16,6 +16,7 @@ Luís Tiago Canilho é desde 2001 um dos animadores do Colégio da Imaculada Con
     - 2004 [Trolliciclos](../../Acampamentos/2004/Trolliciclos.md) - [Director Adjunto](../../Cargos/Director-Adjunto.md)
     - 2005 [Gaivota](../../Acampamentos/2005/Gaivota.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2009 [Incrível](../../Acampamentos/2009/Incr%C3%ADvel.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2010 [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
 
 ## Páginas que ligam para aqui
 

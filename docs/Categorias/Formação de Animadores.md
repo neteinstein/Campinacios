@@ -2,7 +2,7 @@
 
 Acampamentos de Formação de Animadores - Destinados a antigos alunos dos colégios da Companhia de Jesus em Portugal com vista a formar novos animadores para o movimento.
 
-## Páginas nesta categoria (31)
+## Páginas nesta categoria (32)
 
 - [Antestreia](../Acampamentos/2022/Antestreia.md)
 - [Ara](../Acampamentos/2011/Ara.md)
@@ -14,6 +14,7 @@ Acampamentos de Formação de Animadores - Destinados a antigos alunos dos colé
 - [Caminho](../Acampamentos/2009/Caminho.md)
 - [Camp & Nácios, S.A](../Acampamentos/2013/Camp%20%26%20N%C3%A1cios%2C%20S.A.md)
 - [Casca de Banana](../Acampamentos/2005/Casca%20de%20Banana.md)
+- [Fim-de-Semana de Espiritualidade e Encontro 2006](../Formacao/Fim-de-Semana%20de%20Espiritualidade%20e%20Encontro%202006.md)
 - [FINO 99](../Acampamentos/1999/FINO%2099.md)
 - [Graal I](../Acampamentos/2002/Graal%20I.md)
 - [Graal II](../Acampamentos/2003/Graal%20II.md)
@@ -42,6 +43,7 @@ Acampamentos de Formação de Animadores - Destinados a antigos alunos dos colé
 - [Ara](../Acampamentos/2011/Ara.md)
 - [Caminho](../Acampamentos/2009/Caminho.md)
 - [Camp & Nácios, S.A](../Acampamentos/2013/Camp%20%26%20N%C3%A1cios%2C%20S.A.md)
+- [Fim-de-Semana de Espiritualidade e Encontro 2006](../Formacao/Fim-de-Semana%20de%20Espiritualidade%20e%20Encontro%202006.md)
 - [Graal I](../Acampamentos/2002/Graal%20I.md)
 - [Graal II](../Acampamentos/2003/Graal%20II.md)
 - [Graal III](../Acampamentos/2007/Graal%20III.md)
