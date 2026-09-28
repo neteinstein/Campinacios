@@ -49,6 +49,7 @@
 - [Johnny Sousa](Johnny%20Sousa.md)
 - [Jorge Casanova](Jorge%20Casanova.md)
 - [Jorge Gonçalves](Jorge%20Gon%C3%A7alves.md)
+- [Jorge Manuel Sena](Jorge%20Manuel%20Sena.md)
 - [Jorge Moreira](Jorge%20Moreira.md)
 - [Jorge Neves](Jorge%20Neves.md)
 - [Jorge Nunes](Jorge%20Nunes.md)

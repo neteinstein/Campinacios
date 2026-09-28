@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1081 artigos e, em itálico, os 140 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1085 artigos e, em itálico, os 141 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -37,6 +37,8 @@
 - [Alvoco das Várzeas (Oliveira do Hospital)](Restrito/Locais%20de%20Acampamento/Alvoco%20das%20V%C3%A1rzeas%20%28Oliveira%20do%20Hospital%29.md) 🔒
 - [Alvoco II](Acampamentos/1999/Alvoco%20II.md)
 - [ÁmenDoing](Acampamentos/2013/%C3%81menDoing.md)
+- [Amadeu Pinto](Pessoas/A/Amadeu%20Pinto.md)
+- [Américo Mendes](Pessoas/A/Am%C3%A9rico%20Mendes.md)
 - [Amílcar Sousa](Pessoas/A/Am%C3%ADlcar%20Sousa.md)
 - [Ana Bela](Pessoas/A/Ana%20Bela.md)
 - [Ana Carolina Bardi](Pessoas/A/Ana%20Carolina%20Bardi.md)
@@ -433,6 +435,7 @@
 - [Francisco Carvalho](Pessoas/F/Francisco%20Carvalho.md)
 - [Francisco Cortês Ferreira](Pessoas/F/Francisco%20Cort%C3%AAs%20Ferreira.md)
 - [Francisco Costa Macedo](Pessoas/F/Francisco%20Costa%20Macedo.md)
+- [Francisco Dioniz Barroso Loureiro](Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
 - [Francisco Ilhão](Pessoas/F/Francisco%20Ilh%C3%A3o.md)
 - [Francisco Lopes](Pessoas/F/Francisco%20Lopes.md)
 - [Francisco Maia](Pessoas/F/Francisco%20Maia.md)
@@ -623,6 +626,7 @@
 - *Jonifa* → [João Freire de Andrade](Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md)
 - [Jorge Casanova](Pessoas/J/Jorge%20Casanova.md)
 - [Jorge Gonçalves](Pessoas/J/Jorge%20Gon%C3%A7alves.md)
+- [Jorge Manuel Sena](Pessoas/J/Jorge%20Manuel%20Sena.md)
 - [Jorge Moreira](Pessoas/J/Jorge%20Moreira.md)
 - [Jorge Neves](Pessoas/J/Jorge%20Neves.md)
 - [Jorge Nunes](Pessoas/J/Jorge%20Nunes.md)
@@ -698,6 +702,7 @@
 - [Limpopolus](Acampamentos/2012/Limpopolus.md)
 - [Long Tao](Acampamentos/2006/Long%20Tao.md)
 - *Loura* → [Lourenço Barjona](Pessoas/L/Louren%C3%A7o%20Barjona.md)
+- *Loureiro* → [Francisco Dioniz Barroso Loureiro](Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
 - [Lourenço Barjona](Pessoas/L/Louren%C3%A7o%20Barjona.md)
 - [Lourenço Beato](Pessoas/L/Louren%C3%A7o%20Beato.md)
 - [Lourenço Eiró](Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)

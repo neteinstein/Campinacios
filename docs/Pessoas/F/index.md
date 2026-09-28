@@ -24,6 +24,7 @@
 - [Francisco Carvalho](Francisco%20Carvalho.md)
 - [Francisco Cortês Ferreira](Francisco%20Cort%C3%AAs%20Ferreira.md)
 - [Francisco Costa Macedo](Francisco%20Costa%20Macedo.md)
+- [Francisco Dioniz Barroso Loureiro](Francisco%20Dioniz%20Barroso%20Loureiro.md)
 - [Francisco Ilhão](Francisco%20Ilh%C3%A3o.md)
 - [Francisco Lopes](Francisco%20Lopes.md)
 - [Francisco Maia](Francisco%20Maia.md)
