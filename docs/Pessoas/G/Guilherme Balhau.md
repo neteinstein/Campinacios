@@ -8,9 +8,13 @@
 ## Páginas que ligam para aqui
 
 - [Astérix e Obélerdos](../../Acampamentos/2024/Ast%C3%A9rix%20e%20Ob%C3%A9lerdos.md)
+- [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md)
+- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 
 ---
 
 | Categorias |
 | --- |
 | [Animadores](../../Categorias/Animadores.md) |
+| [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |

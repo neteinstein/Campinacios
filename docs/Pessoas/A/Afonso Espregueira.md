@@ -12,6 +12,7 @@
 ## Páginas que ligam para aqui
 
 - [Cibicleta Como És](../../Acampamentos/2023/Cibicleta%20Como%20%C3%89s.md)
+- [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
 - [Limpo Pó](../../Acampamentos/2022/Limpo%20P%C3%B3.md)
 - [SimBasta](../../Acampamentos/2019/SimBasta.md)
 - [Sinfonia](../../Acampamentos/2021/Sinfonia.md)
@@ -22,3 +23,4 @@
 | Categorias |
 | --- |
 | [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |
+| [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) |

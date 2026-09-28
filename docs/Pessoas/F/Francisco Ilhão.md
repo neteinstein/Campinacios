@@ -10,6 +10,7 @@
 ## Páginas que ligam para aqui
 
 - [Ca Ganda Tanga](../../Acampamentos/2026/Ca%20Ganda%20Tanga.md)
+- [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
 - [Fight Club](../../Acampamentos/2024/Fight%20Club.md)
 - [Perc'Urso](../../Acampamentos/2023/Perc%27Urso.md)
 
@@ -18,3 +19,4 @@
 | Categorias |
 | --- |
 | [Animadores](../../Categorias/Animadores.md) |
+| [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) |

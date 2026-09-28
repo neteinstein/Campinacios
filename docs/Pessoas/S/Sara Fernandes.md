@@ -23,6 +23,7 @@ Sara Fernandes mais conhecida por Duda é desde 2008, uma das animadoras do Col�
 ## Páginas que ligam para aqui
 
 - [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
+- [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md)
 - [Talithá Kum](../../Acampamentos/2009/Talith%C3%A1%20Kum.md)
 - [Walkabout](../../Acampamentos/2010/Walkabout.md)
 
@@ -32,3 +33,4 @@ Sara Fernandes mais conhecida por Duda é desde 2008, uma das animadoras do Col�
 | --- |
 | [Animadores](../../Categorias/Animadores.md) |
 | [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |
+| [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) |
