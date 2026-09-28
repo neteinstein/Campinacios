@@ -2,6 +2,7 @@
 
 - [Vasco Lucas Pires](Vasco%20Lucas%20Pires.md)
 - [Vasco Meneses](Vasco%20Meneses.md)
+- [Vasco Neves](Vasco%20Neves.md)
 - [Vasco Romão](Vasco%20Rom%C3%A3o.md)
 - [Vasco Teixeira](Vasco%20Teixeira.md)
 - [Vasco Themudo](Vasco%20Themudo.md)

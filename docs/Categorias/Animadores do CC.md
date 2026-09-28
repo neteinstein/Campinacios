@@ -2,7 +2,7 @@
 
 Animadores do Colégio das Caldinhas
 
-## Páginas nesta categoria (143)
+## Páginas nesta categoria (151)
 
 - [Amílcar Sousa](../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
 - [Ana Carolina Bardi](../Pessoas/A/Ana%20Carolina%20Bardi.md)
@@ -26,7 +26,9 @@ Animadores do Colégio das Caldinhas
 - [Andreia Magalhães](../Pessoas/A/Andreia%20Magalh%C3%A3es.md)
 - [Andreia Mendes](../Pessoas/A/Andreia%20Mendes.md)
 - [Andreia Pereira](../Pessoas/A/Andreia%20Pereira.md)
+- [Ariana Couto](../Pessoas/A/Ariana%20Couto.md)
 - [Artur Correia](../Pessoas/A/Artur%20Correia.md)
+- [Beatriz Miguel](../Pessoas/B/Beatriz%20Miguel.md)
 - [Bruno Azevedo](../Pessoas/B/Bruno%20Azevedo.md)
 - [Bruno Costa](../Pessoas/B/Bruno%20Costa.md)
 - [Carla Carneiro](../Pessoas/C/Carla%20Carneiro.md)
@@ -42,6 +44,7 @@ Animadores do Colégio das Caldinhas
 - [Cristina Lopo Monteiro](../Pessoas/C/Cristina%20Lopo%20Monteiro.md)
 - [Cristovão Andrade](../Pessoas/C/Cristov%C3%A3o%20Andrade.md)
 - [Cristóvão Teixeira](../Pessoas/C/Crist%C3%B3v%C3%A3o%20Teixeira.md)
+- [Daniela Gonçalves](../Pessoas/D/Daniela%20Gon%C3%A7alves.md)
 - [Daniela Machado](../Pessoas/D/Daniela%20Machado.md)
 - [Diana Pereira](../Pessoas/D/Diana%20Pereira.md)
 - [Diana Quintela](../Pessoas/D/Diana%20Quintela.md)
@@ -58,6 +61,7 @@ Animadores do Colégio das Caldinhas
 - [Francisco Almeida (Kiko)](../Pessoas/F/Francisco%20Almeida%20%28Kiko%29.md)
 - [Francisco Barroso](../Pessoas/F/Francisco%20Barroso.md)
 - [Francisco Silva](../Pessoas/F/Francisco%20Silva.md)
+- [Gabriel Ponte](../Pessoas/G/Gabriel%20Ponte.md)
 - [Hélder Sousa](../Pessoas/H/H%C3%A9lder%20Sousa.md)
 - [Hugo Ferreira](../Pessoas/H/Hugo%20Ferreira.md)
 - [Irina Ramos](../Pessoas/I/Irina%20Ramos.md)
@@ -100,6 +104,7 @@ Animadores do Colégio das Caldinhas
 - [Manuel Matos](../Pessoas/M/Manuel%20Matos.md)
 - [Manuel Silva](../Pessoas/M/Manuel%20Silva.md)
 - [Maria Cortês Ferreira](../Pessoas/M/Maria%20Cort%C3%AAs%20Ferreira.md)
+- [Maria do Carmo Cunha e Carmo](../Pessoas/M/Maria%20do%20Carmo%20Cunha%20e%20Carmo.md)
 - [Mariana Cardoso](../Pessoas/M/Mariana%20Cardoso.md)
 - [Mário Carvalho](../Pessoas/M/M%C3%A1rio%20Carvalho.md)
 - [Mário Magalhães](../Pessoas/M/M%C3%A1rio%20Magalh%C3%A3es.md)
@@ -146,6 +151,7 @@ Animadores do Colégio das Caldinhas
 - [Tiago Carneiro](../Pessoas/T/Tiago%20Carneiro.md)
 - [Tiago Gonçalves](../Pessoas/T/Tiago%20Gon%C3%A7alves.md)
 - [Tiago Monteiro](../Pessoas/T/Tiago%20Monteiro.md)
+- [Tiago Vidal](../Pessoas/T/Tiago%20Vidal.md)
 - [Vânia Carvalho](../Pessoas/V/V%C3%A2nia%20Carvalho.md)
 - [Vítor Fernandes](../Pessoas/V/V%C3%ADtor%20Fernandes.md)
 - [Vítor Leite](../Pessoas/V/V%C3%ADtor%20Leite.md)
