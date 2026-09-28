@@ -8,6 +8,7 @@
 
 ## Páginas que ligam para aqui
 
+- [Francisco Dioniz Barroso Loureiro](../../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
 - [João Eiró](../../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md)
 
 ---
