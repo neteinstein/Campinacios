@@ -3,6 +3,9 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Martim Cunha Ferreira](../../Pessoas/M/Martim%20Cunha%20Ferreira.md)
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - Chico Maria, Zé Rui Santos
+
+Foi neste campo que foi composta a música "Poema Lindo" por Chico Maria.
 
 ## Páginas que ligam para aqui
 

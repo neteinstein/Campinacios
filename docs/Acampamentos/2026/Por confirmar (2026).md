@@ -1,6 +1,6 @@
 # Por confirmar (2026)
 
-O nome deste acampamento de [Lambretas](../../Categorias/Lambretas.md) de 2026 está por confirmar. O tema do ano foi *Escolhe a melhor parte*.
+O nome deste acampamento de [Lambretas](../../Categorias/Lambretas.md) de 2026 está por confirmar. Decorreu em [Agroal (Tomar)](../../Restrito/Locais%20de%20Acampamento/Agroal%20%28Tomar%29.md). O tema do ano foi *Escolhe a melhor parte*.
 
 ### Animadores
 
@@ -13,6 +13,7 @@ O nome deste acampamento de [Lambretas](../../Categorias/Lambretas.md) de 2026 e
 ## Páginas que ligam para aqui
 
 - [Afonso Barrocas](../../Pessoas/A/Afonso%20Barrocas.md)
+- [Agroal (Tomar)](../../Restrito/Locais%20de%20Acampamento/Agroal%20%28Tomar%29.md)
 - [Beatriz Mesquita](../../Pessoas/B/Beatriz%20Mesquita.md)
 - [Carlos Carvalho](../../Pessoas/C/Carlos%20Carvalho.md)
 - [Diogo Martins](../../Pessoas/D/Diogo%20Martins.md)

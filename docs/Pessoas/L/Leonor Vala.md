@@ -1,4 +1,4 @@
-# Nonô Vala
+# Leonor Vala
 
 ### Acampamentos
 
@@ -10,6 +10,8 @@
 - [Ca Ganda Tanga](../../Acampamentos/2026/Ca%20Ganda%20Tanga.md)
 
 ---
+
+**Outros nomes:** Nonô
 
 | Categorias |
 | --- |
