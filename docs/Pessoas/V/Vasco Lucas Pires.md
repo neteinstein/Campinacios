@@ -2,7 +2,7 @@
 
 ### Cargos
 
-- 2025/2026 Assistente Local do CC
+- 2025/2026 Assistente da [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
 - 2025/2026 a 2026/2027 [Assistente Nacional](../../Categorias/Assistentes%20Nacionais.md)
 
 ### Acampamentos
@@ -22,6 +22,8 @@
 ## Páginas que ligam para aqui
 
 - [Descola (2018)](../../Acampamentos/2018/Descola%20%282018%29.md)
+- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
+- [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
 - [Jaime Lucas Pires](../J/Jaime%20Lucas%20Pires.md)
 - [Margarida Valle](../M/Margarida%20Valle.md)
 - [Mergulha](../../Acampamentos/2015/Mergulha.md)
@@ -36,3 +38,5 @@
 | --- |
 | [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |
 | [Assistentes Nacionais](../../Categorias/Assistentes%20Nacionais.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |
+| [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) |
