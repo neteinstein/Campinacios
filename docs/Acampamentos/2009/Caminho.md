@@ -4,6 +4,8 @@ O Caminho foi o acampamento de [Formação de Animadores](../../Categorias/Forma
 
 Foi o primeiro acampamento de formação a ter um director leigo.
 
+O hino deste campo foi a música "Belo do Hino" (ver [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#belo-do-hino)).
+
 Em comemoração dos 20 anos de Campinácios, foram convidados os fundadores presentes na casa das mimosas para o primeiro serão do acampamento.
 
 ## Animadores
