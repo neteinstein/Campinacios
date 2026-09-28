@@ -48,7 +48,7 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 
 - [Rita Sousa](../Pessoas/R/Rita%20Sousa.md) (Coordenadora da DL)
 - [Samuel Beirão](../Pessoas/S/Samuel%20Beir%C3%A3o.md) sj
-- Joana Ferreira
+- [Joana Ferreira](../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 - Carmo Cunha e Carmo
 
 ### Direcção Local 2019/2020
@@ -58,7 +58,7 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [Rita Sousa](../Pessoas/R/Rita%20Sousa.md)
 - Renato Sousa
 - [Gonçalo Sá](../Pessoas/G/Gon%C3%A7alo%20S%C3%A1.md)
-- Joana Ferreira
+- [Joana Ferreira](../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 
 ### Direcção Local 2018/2019
 
@@ -66,7 +66,7 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [Luís Onofre](../Pessoas/L/Lu%C3%ADs%20Onofre.md) sj
 - [Miguel Carneiro](../Pessoas/M/Miguel%20Carneiro.md)
 - [Mariana Salazar](../Pessoas/M/Mariana%20Salazar.md)
-- Joana Ferreira
+- [Joana Ferreira](../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 
 ### Direcção Local 2017/2018
 
@@ -236,7 +236,7 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [José Manuel Filgueiras](../Pessoas/J/Jos%C3%A9%20Manuel%20Filgueiras.md) (Director Executivo)
 - Joana Marques Dias (Directora Executiva Adjunta)
 
-## Páginas nesta categoria (65)
+## Páginas nesta categoria (66)
 
 - [Afonso Carvalho](../Pessoas/A/Afonso%20Carvalho.md)
 - [Afonso Espregueira](../Pessoas/A/Afonso%20Espregueira.md)
@@ -269,6 +269,7 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [Jacinto Bezerra](../Pessoas/J/Jacinto%20Bezerra.md)
 - [Joana Coelho](../Pessoas/J/Joana%20Coelho.md)
 - [Joana Dias](../Pessoas/J/Joana%20Dias.md)
+- [Joana Ferreira (CC)](../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 - [José Augusto Rosa](../Pessoas/J/Jos%C3%A9%20Augusto%20Rosa.md)
 - [José Luís Fernandes](../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Fernandes.md)
 - [José Luís Silva](../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Silva.md)
@@ -336,6 +337,7 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [Jacinto Bezerra](../Pessoas/J/Jacinto%20Bezerra.md)
 - [Joana Coelho](../Pessoas/J/Joana%20Coelho.md)
 - [Joana Dias](../Pessoas/J/Joana%20Dias.md)
+- [Joana Ferreira (CC)](../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 - [José Augusto Rosa](../Pessoas/J/Jos%C3%A9%20Augusto%20Rosa.md)
 - [José Luís Fernandes](../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Fernandes.md)
 - [José Luís Silva](../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Silva.md)

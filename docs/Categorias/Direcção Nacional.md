@@ -90,7 +90,7 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 ## Direcção Nacional 2021/2022
 
 - **Assistente Nacional**: [Luís Onofre](../Pessoas/L/Lu%C3%ADs%20Onofre.md) sj
-- **Coordenadora Nacional**: Joana Ferreira
+- **Coordenadora Nacional**: [Joana Ferreira](../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 - **DL-CC**: [Rafaela Azevedo](../Pessoas/R/Rafaela%20Azevedo.md) (Coordenadora da DL) e [Afonso Espregueira](../Pessoas/A/Afonso%20Espregueira.md) sj
 - **DL-CAIC**: Leonor Cardoso (Coordenadora da DL)
 - **DL-CSJB**: [Isabel Fonseca](../Pessoas/I/Isabel%20Fonseca.md) (Coordenadora da DL) e [Vasco Teixeira](../Pessoas/V/Vasco%20Teixeira.md) sj
@@ -98,7 +98,7 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 ## Direcção Nacional 2020/2021
 
 - **Assistente Nacional**: [Luís Onofre](../Pessoas/L/Lu%C3%ADs%20Onofre.md) sj
-- **Coordenadora Nacional**: Joana Ferreira
+- **Coordenadora Nacional**: [Joana Ferreira](../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 - **DL-CC**: [Rita Sousa](../Pessoas/R/Rita%20Sousa.md) (Coordenadora da DL) e [Samuel Beirão](../Pessoas/S/Samuel%20Beir%C3%A3o.md) sj
 - **DL-CAIC**: [Eduarda Roxo](../Pessoas/E/Eduarda%20Roxo.md) (Coordenadora da DL)
 - **DL-CSJB**: [Vasco Teixeira](../Pessoas/V/Vasco%20Teixeira.md) sj
@@ -181,7 +181,7 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 - **Coordenador Nacional**: [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md)
 - **DL-CC**: [João Paulo Moinhos](../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md) (Coordenador da DL) e [Vasco Themudo](../Pessoas/V/Vasco%20Themudo.md) sj
 - **DL-CAIC**: [Francisco Martins](../Pessoas/F/Francisco%20Martins.md) sj
-- **DL-CSJB**: [Andreas Lind](../Pessoas/A/Andreas%20Lind.md) sj
+- **DL-CSJB**: [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md) sj
 
 ## Direcção Nacional 2009/2010
 
@@ -318,7 +318,7 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 - [Direcções Locais](Direc%C3%A7%C3%B5es%20Locais.md)
 - [Secretários da DN](Secret%C3%A1rios%20da%20DN.md)
 
-## Páginas nesta categoria (75)
+## Páginas nesta categoria (76)
 
 - [Amílcar Sousa](../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
 - [Ana Simões](../Pessoas/A/Ana%20Sim%C3%B5es.md)
@@ -361,6 +361,7 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 - [Jaime Lucas Pires](../Pessoas/J/Jaime%20Lucas%20Pires.md)
 - [Joana Coelho](../Pessoas/J/Joana%20Coelho.md)
 - [Joana Dias](../Pessoas/J/Joana%20Dias.md)
+- [Joana Ferreira (CC)](../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 - [Joana Gomes](../Pessoas/J/Joana%20Gomes.md)
 - [Joana Lima](../Pessoas/J/Joana%20Lima.md)
 - [José Augusto Rosa](../Pessoas/J/Jos%C3%A9%20Augusto%20Rosa.md)
@@ -433,6 +434,7 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 - [Jaime Lucas Pires](../Pessoas/J/Jaime%20Lucas%20Pires.md)
 - [Joana Coelho](../Pessoas/J/Joana%20Coelho.md)
 - [Joana Dias](../Pessoas/J/Joana%20Dias.md)
+- [Joana Ferreira (CC)](../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 - [Joana Gomes](../Pessoas/J/Joana%20Gomes.md)
 - [Joana Lima](../Pessoas/J/Joana%20Lima.md)
 - [José Augusto Rosa](../Pessoas/J/Jos%C3%A9%20Augusto%20Rosa.md)
