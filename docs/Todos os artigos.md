@@ -371,9 +371,9 @@
 - [Emanuel Lopes](Pessoas/E/Emanuel%20Lopes.md)
 - [Emanuela Ottavi](Pessoas/E/Emanuela%20Ottavi.md)
 - [EmCena](Acampamentos/2022/EmCena.md)
-- [Encontrão](Encontros/Encontr%C3%A3o.md)
 - [Encontrei-te](Acampamentos/2015/Encontrei-te.md)
 - [Encontro de Lambretas 94](Encontros/Encontro%20de%20Lambretas%2094.md)
+- [Encontro Nacional 2000 (Encontrão)](Encontros/Encontro%20Nacional%202000%20%28Encontr%C3%A3o%29.md)
 - [Encontro Nacional 2010](Encontros/Encontro%20Nacional%202010.md)
 - [Encontro Nacional de 1995](Encontros/Encontro%20Nacional%20de%201995.md)
 - [Encontro Nacional de 1998](Encontros/Encontro%20Nacional%20de%201998.md)
@@ -381,6 +381,8 @@
 - [Encontro Nacional de 2006](Encontros/Encontro%20Nacional%20de%202006.md)
 - [Encontro Nacional de 2007](Encontros/Encontro%20Nacional%20de%202007.md)
 - [Encontro Nacional de 2008](Encontros/Encontro%20Nacional%20de%202008.md)
+- [Encontro Nacional de Animadores 2004](Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
+- [Encontro Nacional de Animadores 2005](Encontros/Encontro%20Nacional%20de%20Animadores%202005.md)
 - [Encontro Nacional de Animadores 2007](Encontros/Encontro%20Nacional%20de%20Animadores%202007.md)
 - [Encontro Nacional de Animadores 2009](Encontros/Encontro%20Nacional%20de%20Animadores%202009.md)
 - [Entre ASPAS](Acampamentos/2008/Entre%20ASPAS.md)
@@ -535,9 +537,7 @@
 
 ## I
 
-- [I Encontro Nacional de Animadores](Encontros/I%20Encontro%20Nacional%20de%20Animadores.md)
 - [Ide](Acampamentos/2015/Ide.md)
-- [II Encontro Nacional de Animadores](Encontros/II%20Encontro%20Nacional%20de%20Animadores.md)
 - [Iháquesermais](Acampamentos/2009/Ih%C3%A1quesermais.md)
 - [Incrível](Acampamentos/2009/Incr%C3%ADvel.md)
 - [Inês Amorim](Pessoas/I/In%C3%AAs%20Amorim.md)

@@ -16,8 +16,8 @@ Ana Curto foi uma das animadoras do Colégio da Imaculada Conceição.
 ## Páginas que ligam para aqui
 
 - [Encontro de Lambretas 94](../../Encontros/Encontro%20de%20Lambretas%2094.md)
+- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
 - [Gordurosa](../../Acampamentos/2000/Gordurosa.md)
-- [I Encontro Nacional de Animadores](../../Encontros/I%20Encontro%20Nacional%20de%20Animadores.md)
 - [Koalas](../../Acampamentos/1999/Koalas.md)
 - [Shampum de Pessêgo](../../Acampamentos/2001/Shampum%20de%20Pess%C3%AAgo.md)
 - [Trolliciclos](../../Acampamentos/2004/Trolliciclos.md)
