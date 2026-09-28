@@ -295,6 +295,7 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 | **DL-CC** | [João Paulo Moinhos](../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md) (Coordenador da DL), [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md) (Coordenador da DN) e [João Goulão](../Pessoas/J/Jo%C3%A3o%20Goul%C3%A3o.md) sj |
 | **DL-CAIC** | [Gonçalo Vaz Pedro](../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md) (Coordenador da DL) e [Mariana Roxo](../Pessoas/M/Mariana%20Roxo.md) (Secretária da DN) |
 | **DL-CSJB** | [Ricardo Neves](../Pessoas/R/Ricardo%20Neves.md) (Coordenador da DL) e [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md) sj |
+| **Consultor** | [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) |
 
 </div>
 
