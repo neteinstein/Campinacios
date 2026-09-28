@@ -11,6 +11,7 @@ Foi neste campo que foi composta a música "Poema Lindo" por Chico Maria (ver [C
 
 - [Ana Salgado](../../Pessoas/A/Ana%20Salgado.md)
 - [Cantinácio](../../Movimento/Cantin%C3%A1cio.md)
+- [Cantinácio: Campinácios](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md)
 - [Eduardo Almeida](../../Pessoas/E/Eduardo%20Almeida.md)
 - [Inês Serra Ferreira](../../Pessoas/I/In%C3%AAs%20Serra%20Ferreira.md)
 - [Irina Ramos](../../Pessoas/I/Irina%20Ramos.md)
