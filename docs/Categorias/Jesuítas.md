@@ -2,10 +2,12 @@
 
 Jesuítas que animam ou animaram acampamentos de Campinácios
 
-## Páginas nesta categoria (64)
+## Páginas nesta categoria (67)
 
 - ["Para Educar Melhor - Campos de férias inacianos"](../Movimento/Para%20Educar%20Melhor%20-%20Campos%20de%20f%C3%A9rias%20inacianos.md)
 - [Afonso Espregueira](../Pessoas/A/Afonso%20Espregueira.md)
+- [Amadeu Pinto](../Pessoas/A/Amadeu%20Pinto.md)
+- [Américo Mendes](../Pessoas/A/Am%C3%A9rico%20Mendes.md)
 - [Andreas Lind](../Pessoas/A/Andreas%20Lind.md)
 - [António Ferreira da Silva](../Pessoas/A/Ant%C3%B3nio%20Ferreira%20da%20Silva.md)
 - [António Júlio Trigueiros](../Pessoas/A/Ant%C3%B3nio%20J%C3%BAlio%20Trigueiros.md)
@@ -39,6 +41,7 @@ Jesuítas que animam ou animaram acampamentos de Campinácios
 - [Gonçalo Eiró](../Pessoas/G/Gon%C3%A7alo%20Eir%C3%B3.md)
 - [Gonçalo Fonseca](../Pessoas/G/Gon%C3%A7alo%20Fonseca.md)
 - [Gonçalo Pedrosa](../Pessoas/G/Gon%C3%A7alo%20Pedrosa.md)
+- [Jorge Manuel Sena](../Pessoas/J/Jorge%20Manuel%20Sena.md)
 - [José Araújo](../Pessoas/J/Jos%C3%A9%20Ara%C3%BAjo.md)
 - [José Carlos Miranda](../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md)
 - [José Lima](../Pessoas/J/Jos%C3%A9%20Lima.md)

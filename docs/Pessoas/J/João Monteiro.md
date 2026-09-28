@@ -19,6 +19,7 @@ João Pedro Azevedo Lopes Monteiro, nascido a 2 de Julho de 1986, é animador do
 
 ## Páginas que ligam para aqui
 
+- [Cantinácio](../../Movimento/Cantin%C3%A1cio.md)
 - [Incrível](../../Acampamentos/2009/Incr%C3%ADvel.md)
 - [M&M](../../Acampamentos/2007/M%26M.md)
 - [TufarfarAway](../../Acampamentos/2008/TufarfarAway.md)

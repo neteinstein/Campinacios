@@ -9,6 +9,7 @@
 ## Páginas que ligam para aqui
 
 - [Alfa](../../Acampamentos/1990/Alfa.md)
+- [Campinácios](../../Movimento/Campin%C3%A1cios.md)
 - [Pedreira](../../Acampamentos/1989/Pedreira.md)
 
 ---
