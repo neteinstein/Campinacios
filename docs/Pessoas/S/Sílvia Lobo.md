@@ -22,6 +22,9 @@ Frequentou o [CC](../../Movimento/CC.md) de 1994 a 2008. Animadora desde 2008 at
 ## Páginas que ligam para aqui
 
 - [Contribuidores](../../Wikin%C3%A1cios/Contribuidores.md)
+- [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md)
+- [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
+- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - [Obra Prima](../../Acampamentos/2010/Obra%20Prima.md)
 - [Tira as rodinhas](../../Acampamentos/2009/Tira%20as%20rodinhas.md)
 
@@ -31,3 +34,6 @@ Frequentou o [CC](../../Movimento/CC.md) de 1994 a 2008. Animadora desde 2008 at
 | --- |
 | [Animadores](../../Categorias/Animadores.md) |
 | [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |
+| [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md) |
+| [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) |
+| [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |

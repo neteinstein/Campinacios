@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1093 artigos e, em itálico, os 144 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1096 artigos e, em itálico, os 148 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -206,6 +206,7 @@
 - [Catarina Godinho](Pessoas/C/Catarina%20Godinho.md)
 - [Catarina Meireles](Pessoas/C/Catarina%20Meireles.md)
 - [Cátia Silva](Pessoas/C/C%C3%A1tia%20Silva.md)
+- *Chumi* → [Carmo Ribeiro Corrêa](Pessoas/C/Carmo%20Ribeiro%20Corr%C3%AAa.md)
 - [Clara Sampaio](Pessoas/C/Clara%20Sampaio.md)
 - [Cláudia Montenegro](Pessoas/C/Cl%C3%A1udia%20Montenegro.md)
 - [Cristina Rebordão](Pessoas/C/Cristina%20Rebord%C3%A3o.md)
@@ -308,6 +309,7 @@
 - [Digueifel (Arganil)](Restrito/Locais%20de%20Acampamento/Digueifel%20%28Arganil%29.md) 🔒
 - [Digueifire](Acampamentos/2012/Digueifire.md)
 - [Dilúvio](Acampamentos/1999/Dil%C3%BAvio.md)
+- *Dinha* → [Francisco Barroso](Pessoas/F/Francisco%20Barroso.md)
 - [Dinis Braga da Cruz](Pessoas/D/Dinis%20Braga%20da%20Cruz.md)
 - [Diogo Belo](Pessoas/D/Diogo%20Belo.md)
 - [Diogo Carneiro](Movimento/Desambigua%C3%A7%C3%A3o/Diogo%20Carneiro.md)
@@ -433,6 +435,7 @@
 - [Francisca Mendes](Pessoas/F/Francisca%20Mendes.md)
 - [Francisco Almeida](Movimento/Desambigua%C3%A7%C3%A3o/Francisco%20Almeida.md)
 - [Francisco Almeida (Kiko)](Pessoas/F/Francisco%20Almeida%20%28Kiko%29.md)
+- [Francisco Barroso](Pessoas/F/Francisco%20Barroso.md)
 - [Francisco Carvalho](Pessoas/F/Francisco%20Carvalho.md)
 - [Francisco Cortês Ferreira](Pessoas/F/Francisco%20Cort%C3%AAs%20Ferreira.md)
 - [Francisco Costa Macedo](Pessoas/F/Francisco%20Costa%20Macedo.md)
@@ -562,8 +565,11 @@
 - [Joana Coelho](Pessoas/J/Joana%20Coelho.md)
 - [Joana Costa](Pessoas/J/Joana%20Costa.md)
 - [Joana Dias](Pessoas/J/Joana%20Dias.md)
+- *Joana Dias Coelho* → [Joana Coelho](Pessoas/J/Joana%20Coelho.md)
+- [Joana Ferreira](Movimento/Desambigua%C3%A7%C3%A3o/Joana%20Ferreira.md)
 - [Joana Ferreira](Pessoas/J/Joana%20Ferreira.md)
 - [Joana Ferreira (2019)](Pessoas/J/Joana%20Ferreira%20%282019%29.md)
+- [Joana Ferreira (CC)](Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 - [Joana Ferreira da Silva](Pessoas/J/Joana%20Ferreira%20da%20Silva.md)
 - [Joana Fonseca](Pessoas/J/Joana%20Fonseca.md)
 - [Joana Godinho](Pessoas/J/Joana%20Godinho.md)
@@ -588,6 +594,7 @@
 - *Joana Viana Lopes* → [Joana Ferreira da Silva](Pessoas/J/Joana%20Ferreira%20da%20Silva.md)
 - [Joana Videira](Pessoas/J/Joana%20Videira.md)
 - [João Captivo](Pessoas/J/Jo%C3%A3o%20Captivo.md)
+- *João Cativo* → [João Captivo](Pessoas/J/Jo%C3%A3o%20Captivo.md)
 - [João Correia](Pessoas/J/Jo%C3%A3o%20Correia.md)
 - [João Cruz](Pessoas/J/Jo%C3%A3o%20Cruz.md)
 - [João de Brito](Pessoas/J/Jo%C3%A3o%20de%20Brito.md)

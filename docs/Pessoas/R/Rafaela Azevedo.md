@@ -11,6 +11,7 @@
 ## Páginas que ligam para aqui
 
 - [A Partir](../../Acampamentos/2023/A%20Partir.md)
+- [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
 - [Do Ignício](../../Acampamentos/2021/Do%20Ign%C3%ADcio.md)
 - [Zapping](../../Acampamentos/2019/Zapping.md)
 - [À Grande e à Francesa](../../Acampamentos/2022/%C3%80%20Grande%20e%20%C3%A0%20Francesa.md)
@@ -22,3 +23,4 @@
 | Categorias |
 | --- |
 | [Animadores](../../Categorias/Animadores.md) |
+| [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) |

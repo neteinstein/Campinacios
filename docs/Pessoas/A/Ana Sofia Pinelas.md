@@ -17,6 +17,7 @@
 ## Páginas que ligam para aqui
 
 - [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
+- [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
 - [Suga](../../Acampamentos/2014/Suga.md)
 - [Survivor](../../Acampamentos/2009/Survivor.md)
 - [ÁmenDoing](../../Acampamentos/2013/%C3%81menDoing.md)
@@ -29,3 +30,4 @@
 | --- |
 | [Animadores](../../Categorias/Animadores.md) |
 | [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |
+| [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) |

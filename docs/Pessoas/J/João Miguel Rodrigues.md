@@ -8,6 +8,7 @@
 
 ## Páginas que ligam para aqui
 
+- [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
 - [Mostra Garra](../../Acampamentos/2016/Mostra%20Garra.md)
 - [Supérate](../../Acampamentos/2017/Sup%C3%A9rate.md)
 
@@ -18,3 +19,4 @@
 | Categorias |
 | --- |
 | [Animadores](../../Categorias/Animadores.md) |
+| [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) |

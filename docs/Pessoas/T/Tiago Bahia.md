@@ -43,6 +43,8 @@ Tiago Neves Bahia, nascido a 6 de Março de 1987, é animador do CC desde 2005.
 - [Baza](../../Acampamentos/2007/Baza.md)
 - [Conteúdos](../../Wikin%C3%A1cios/Conte%C3%BAdos.md)
 - [Contribuidores](../../Wikin%C3%A1cios/Contribuidores.md)
+- [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md)
+- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md)
 - [Limpopolus](../../Acampamentos/2012/Limpopolus.md)
 - [Long Tao](../../Acampamentos/2006/Long%20Tao.md)
