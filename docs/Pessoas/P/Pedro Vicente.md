@@ -2,7 +2,7 @@
 
 Pedro Vicente nasceu a 26 de Maio de 1985.
 
-Frequentou o [CAIC](../../Movimento/CAIC.md) de 1995 a 2003. Animador desde 2003 até hoje.
+Frequentou o [CAIC](../../Movimento/CAIC.md) de 1995 a 2003. Animador de 2003 até 2012.
 
 ## História dentro do movimento
 
