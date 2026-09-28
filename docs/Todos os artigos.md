@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1087 artigos e, em itálico, os 144 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1088 artigos e, em itálico, os 145 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -309,6 +309,7 @@
 - [Digueifel (Arganil)](Restrito/Locais%20de%20Acampamento/Digueifel%20%28Arganil%29.md) 🔒
 - [Digueifire](Acampamentos/2012/Digueifire.md)
 - [Dilúvio](Acampamentos/1999/Dil%C3%BAvio.md)
+- *Dinha* → [Francisco Barroso](Pessoas/F/Francisco%20Barroso.md)
 - [Dinis Braga da Cruz](Pessoas/D/Dinis%20Braga%20da%20Cruz.md)
 - [Diogo Belo](Pessoas/D/Diogo%20Belo.md)
 - [Diogo Carneiro](Movimento/Desambigua%C3%A7%C3%A3o/Diogo%20Carneiro.md)
@@ -433,6 +434,7 @@
 - [Francisca Mendes](Pessoas/F/Francisca%20Mendes.md)
 - [Francisco Almeida](Movimento/Desambigua%C3%A7%C3%A3o/Francisco%20Almeida.md)
 - [Francisco Almeida (Kiko)](Pessoas/F/Francisco%20Almeida%20%28Kiko%29.md)
+- [Francisco Barroso](Pessoas/F/Francisco%20Barroso.md)
 - [Francisco Carvalho](Pessoas/F/Francisco%20Carvalho.md)
 - [Francisco Cortês Ferreira](Pessoas/F/Francisco%20Cort%C3%AAs%20Ferreira.md)
 - [Francisco Costa Macedo](Pessoas/F/Francisco%20Costa%20Macedo.md)
