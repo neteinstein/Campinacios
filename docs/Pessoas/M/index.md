@@ -98,6 +98,7 @@
 - [Matilde Pereira](Matilde%20Pereira.md)
 - [Michael](Michael.md)
 - [Miguel Almeida](Miguel%20Almeida.md)
+- [Miguel Areias](Miguel%20Areias.md)
 - [Miguel Braga](Miguel%20Braga.md)
 - [Miguel Carneiro](Miguel%20Carneiro.md)
 - [Miguel D'Orey](Miguel%20D%27Orey.md)
