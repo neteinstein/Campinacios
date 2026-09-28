@@ -2,7 +2,7 @@
 
 O Encontro Nacional de Animadores de 2004 realizou-se em 11 e 12 de Dezembro de 2004, em Schoenstatt (Gafanha da Nazaré).
 
-Foi o primeiro Encontro Nacional de Animadores, organizado pelo então [Assistente Nacional](../Categorias/Assistentes%20Nacionais.md) [José Silva](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md) sj e pelo [Coordenador Nacional](../Categorias/Coordenadores%20Nacionais.md) [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md).
+Foi o primeiro Encontro Nacional de Animadores, organizado pelo então [Assistente Nacional](../Categorias/Assistentes%20Nacionais.md) [José Silva](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md) sj.
 
 ## Participantes
 
@@ -125,7 +125,6 @@ Foi o primeiro Encontro Nacional de Animadores, organizado pelo então [Assisten
 - [Miguel Areias](../Pessoas/M/Miguel%20Areias.md)
 - [Miguel Machado](../Pessoas/M/Miguel%20Machado.md)
 - [Nuno Carrolo](../Pessoas/N/Nuno%20Carrolo.md)
-- [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)
 - [Rafaela Lúcio](../Pessoas/R/Rafaela%20L%C3%BAcio.md)
 - [Ricardo Amado](../Pessoas/R/Ricardo%20Amado.md)
 - [Rita Roxo](../Pessoas/R/Rita%20Roxo.md)
