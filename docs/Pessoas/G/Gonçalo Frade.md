@@ -25,6 +25,7 @@
 - [Dilúvio](../../Acampamentos/1999/Dil%C3%BAvio.md)
 - [Gipsy Kings](../../Acampamentos/1999/Gipsy%20Kings.md)
 - [Gordurosa](../../Acampamentos/2000/Gordurosa.md)
+- [I Encontro Nacional de Animadores](../../Encontros/I%20Encontro%20Nacional%20de%20Animadores.md)
 - [Koalas](../../Acampamentos/1999/Koalas.md)
 - [Pimpolhos](../../Acampamentos/2003/Pimpolhos.md)
 - [Projecto Canguru](../../Acampamentos/2002/Projecto%20Canguru.md)

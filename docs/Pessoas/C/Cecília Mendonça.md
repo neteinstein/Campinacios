@@ -19,6 +19,7 @@
 
 - [Baúmerang](../../Acampamentos/2007/Ba%C3%BAmerang.md)
 - [Gaivota](../../Acampamentos/2005/Gaivota.md)
+- [I Encontro Nacional de Animadores](../../Encontros/I%20Encontro%20Nacional%20de%20Animadores.md)
 - [Metrópole](../../Acampamentos/2004/Metr%C3%B3pole.md)
 - [Xii Tava Kuase Lá...!](../../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md)
 
