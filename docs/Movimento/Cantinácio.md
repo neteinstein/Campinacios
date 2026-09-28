@@ -4,9 +4,17 @@ Reúne músicas e canções dos Campinácios e não só.
 
 Um novo Cantinácio foi lançado após anos e anos de tentativas.
 
-Aqui ficam algumas músicas gravadas por [João Monteiro](../Pessoas/J/Jo%C3%A3o%20Monteiro.md) para efeitos nostalgicos. 
+## Letras e acordes
 
-## Músicas
+- [Cânticos](Cantin%C3%A1cio/C%C3%A2nticos.md) — 61 cânticos para as eucaristias e orações
+- [Camtil](Cantin%C3%A1cio/Camtil.md) — 29 músicas nascidas nos acampamentos
+- [Portuguesas](Cantin%C3%A1cio/Portuguesas.md) — 65 músicas portuguesas
+- [Estrangeiras](Cantin%C3%A1cio/Estrangeiras.md) — 89 músicas estrangeiras
+- [Escalas](Cantin%C3%A1cio/Escalas.md) — como mudar uma música de tom
+
+## Gravações
+
+Aqui ficam algumas músicas gravadas por [João Monteiro](../Pessoas/J/Jo%C3%A3o%20Monteiro.md) para efeitos nostalgicos. 
 
 <audio controls src="../assets/musicas/Cantin%C3%A1cio/02%20-%20Everybody%20Bate%20Palmas.mp3"></audio> 02 - Everybody Bate Palmas
 
