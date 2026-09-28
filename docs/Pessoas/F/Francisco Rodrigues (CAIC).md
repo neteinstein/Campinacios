@@ -2,6 +2,8 @@
 
 Francisco Rodrigues foi um dos animadores do Colégio da Imaculada Conceição.
 
+*Nota: Há outras pessoas chamadas Francisco Rodrigues: ver [Francisco Rodrigues](../../Movimento/Desambigua%C3%A7%C3%A3o/Francisco%20Rodrigues.md).*
+
 ## História dentro do movimento
 
 ### Acampamentos

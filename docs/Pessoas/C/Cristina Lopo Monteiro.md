@@ -13,6 +13,7 @@ Cristina Lopo Monteiro, nascida a 4 de Julho de 1983 foi animadora do CC.
 
 ## Páginas que ligam para aqui
 
+- [I Encontro Nacional de Animadores](../../Encontros/I%20Encontro%20Nacional%20de%20Animadores.md)
 - [Jangada](../../Acampamentos/2002/Jangada.md)
 - [Rastilho](../../Acampamentos/2003/Rastilho.md)
 

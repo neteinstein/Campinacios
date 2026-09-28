@@ -22,6 +22,7 @@ Soraia Ramos, é desde 2003 uma das animadoras do Colégio das Caldinhas
 ## Páginas que ligam para aqui
 
 - [Falésia](../../Acampamentos/2005/Fal%C3%A9sia.md)
+- [I Encontro Nacional de Animadores](../../Encontros/I%20Encontro%20Nacional%20de%20Animadores.md)
 - [Irina Ramos](../I/Irina%20Ramos.md)
 
 ---

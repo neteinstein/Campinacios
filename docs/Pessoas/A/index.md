@@ -77,4 +77,5 @@
 - [António Santos Lourenço](Ant%C3%B3nio%20Santos%20Louren%C3%A7o.md)
 - [António Sérgio](Ant%C3%B3nio%20S%C3%A9rgio.md)
 - [António Valério](Ant%C3%B3nio%20Val%C3%A9rio.md)
+- [Ariana Couto](Ariana%20Couto.md)
 - [Artur Correia](Artur%20Correia.md)

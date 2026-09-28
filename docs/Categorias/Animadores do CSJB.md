@@ -2,7 +2,7 @@
 
 Animadores do Colégio do Colégio São João de Brito
 
-## Páginas nesta categoria (164)
+## Páginas nesta categoria (174)
 
 - [Ana Martins](../Pessoas/A/Ana%20Martins.md)
 - [Ana Pais](../Pessoas/A/Ana%20Pais.md)
@@ -29,6 +29,7 @@ Animadores do Colégio do Colégio São João de Brito
 - [Diogo Faria](../Pessoas/D/Diogo%20Faria.md)
 - [Diogo Romão](../Pessoas/D/Diogo%20Rom%C3%A3o.md)
 - [Diogo Torcato](../Pessoas/D/Diogo%20Torcato.md)
+- [Domingos Freire de Andrade](../Pessoas/D/Domingos%20Freire%20de%20Andrade.md)
 - [Filipa Caldas](../Pessoas/F/Filipa%20Caldas.md)
 - [Filipa Granado](../Pessoas/F/Filipa%20Granado.md)
 - [Filipa Lynce](../Pessoas/F/Filipa%20Lynce.md)
@@ -43,6 +44,7 @@ Animadores do Colégio do Colégio São João de Brito
 - [Francisco Costa Macedo](../Pessoas/F/Francisco%20Costa%20Macedo.md)
 - [Francisco Moitinho Almeida](../Pessoas/F/Francisco%20Moitinho%20Almeida.md)
 - [Francisco Penetra](../Pessoas/F/Francisco%20Penetra.md)
+- [Francisco Rodrigues (Pica)](../Pessoas/F/Francisco%20Rodrigues%20%28Pica%29.md)
 - [Francisco Silva Rodrigues](../Pessoas/F/Francisco%20Silva%20Rodrigues.md)
 - [Gonçalo Belo](../Pessoas/G/Gon%C3%A7alo%20Belo.md)
 - [Gonçalo Fonseca Carvalho](../Pessoas/G/Gon%C3%A7alo%20Fonseca%20Carvalho.md)
@@ -61,6 +63,7 @@ Animadores do Colégio do Colégio São João de Brito
 - [Isabel Neves](../Pessoas/I/Isabel%20Neves.md)
 - [Joana Cardim](../Pessoas/J/Joana%20Cardim.md)
 - [Joana Cardoso](../Pessoas/J/Joana%20Cardoso.md)
+- [Joana Catalão](../Pessoas/J/Joana%20Catal%C3%A3o.md)
 - [Joana Ferreira da Silva](../Pessoas/J/Joana%20Ferreira%20da%20Silva.md)
 - [Joana Fonseca](../Pessoas/J/Joana%20Fonseca.md)
 - [Joana Gomes](../Pessoas/J/Joana%20Gomes.md)
@@ -69,6 +72,7 @@ Animadores do Colégio do Colégio São João de Brito
 - [Joana Osório](../Pessoas/J/Joana%20Os%C3%B3rio.md)
 - [Joana Saraiva](../Pessoas/J/Joana%20Saraiva.md)
 - [Joana Trigo da Roza](../Pessoas/J/Joana%20Trigo%20da%20Roza.md)
+- [João Afonso Sousa](../Pessoas/J/Jo%C3%A3o%20Afonso%20Sousa.md)
 - [João Azevedo](../Pessoas/J/Jo%C3%A3o%20Azevedo.md)
 - [João Branco](../Pessoas/J/Jo%C3%A3o%20Branco.md)
 - [João Coimbra](../Pessoas/J/Jo%C3%A3o%20Coimbra.md)
@@ -89,6 +93,7 @@ Animadores do Colégio do Colégio São João de Brito
 - [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
 - [Lúcia Vaz Pato](../Pessoas/L/L%C3%BAcia%20Vaz%20Pato.md)
 - [Luís Godinho](../Pessoas/L/Lu%C3%ADs%20Godinho.md)
+- [Luís Monteiro](../Pessoas/L/Lu%C3%ADs%20Monteiro.md)
 - [Luis Pereira](../Pessoas/L/Luis%20Pereira.md)
 - [Madalena Mariz](../Pessoas/M/Madalena%20Mariz.md)
 - [Madalena Pereira](../Pessoas/M/Madalena%20Pereira.md)
@@ -103,6 +108,7 @@ Animadores do Colégio do Colégio São João de Brito
 - [Margarida Maury](../Pessoas/M/Margarida%20Maury.md)
 - [Margarida Morais](../Pessoas/M/Margarida%20Morais.md)
 - [Margarida Pires](../Pessoas/M/Margarida%20Pires.md)
+- [Margarida Tavares](../Pessoas/M/Margarida%20Tavares.md)
 - [Margarida Vieira](../Pessoas/M/Margarida%20Vieira.md)
 - [Maria Ana Silva](../Pessoas/M/Maria%20Ana%20Silva.md)
 - [Maria Cristina Leal](../Pessoas/M/Maria%20Cristina%20Leal.md)
@@ -111,7 +117,9 @@ Animadores do Colégio do Colégio São João de Brito
 - [Maria Fernandes](../Pessoas/M/Maria%20Fernandes.md)
 - [Maria Freire de Andrade](../Pessoas/M/Maria%20Freire%20de%20Andrade.md)
 - [Maria José Peres](../Pessoas/M/Maria%20Jos%C3%A9%20Peres.md)
+- [Maria Líbano Monteiro](../Pessoas/M/Maria%20L%C3%ADbano%20Monteiro.md)
 - [Maria Margarida Sancho](../Pessoas/M/Maria%20Margarida%20Sancho.md)
+- [Maria Solla](../Pessoas/M/Maria%20Solla.md)
 - [Mariana Cordeiro Ferreira](../Pessoas/M/Mariana%20Cordeiro%20Ferreira.md)
 - [Mariana Gama](../Pessoas/M/Mariana%20Gama.md)
 - [Mariana Gonçalves](../Pessoas/M/Mariana%20Gon%C3%A7alves.md)
@@ -127,6 +135,7 @@ Animadores do Colégio do Colégio São João de Brito
 - [Marta Torres Rodrigues](../Pessoas/M/Marta%20Torres%20Rodrigues.md)
 - [Martim Cunha Ferreira](../Pessoas/M/Martim%20Cunha%20Ferreira.md)
 - [Martinho Lucas Pires](../Pessoas/M/Martinho%20Lucas%20Pires.md)
+- [Matilde Pereira](../Pessoas/M/Matilde%20Pereira.md)
 - [Miguel Leite Martins](../Pessoas/M/Miguel%20Leite%20Martins.md)
 - [Miguel Martins Monteiro](../Pessoas/M/Miguel%20Martins%20Monteiro.md)
 - [Natacha Soares](../Pessoas/N/Natacha%20Soares.md)
@@ -167,6 +176,7 @@ Animadores do Colégio do Colégio São João de Brito
 - [Teresa Mendes](../Pessoas/T/Teresa%20Mendes.md)
 - [Tiago Figueira](../Pessoas/T/Tiago%20Figueira.md)
 - [Tomás Silva](../Pessoas/T/Tom%C3%A1s%20Silva.md)
+- [Vasco Neves](../Pessoas/V/Vasco%20Neves.md)
 - [Vasco Romão](../Pessoas/V/Vasco%20Rom%C3%A3o.md)
 
 ---
