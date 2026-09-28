@@ -39,6 +39,7 @@
 - [Ana Quaresma](Ana%20Quaresma.md)
 - [Ana Reis Sá](Ana%20Reis%20S%C3%A1.md)
 - [Ana Ribeiro](Ana%20Ribeiro.md)
+- [Ana Rita Costa](Ana%20Rita%20Costa.md)
 - [Ana Rocha](Ana%20Rocha.md)
 - [Ana Salgado](Ana%20Salgado.md)
 - [Ana Simões](Ana%20Sim%C3%B5es.md)
