@@ -10,6 +10,7 @@
 
 ## Páginas que ligam para aqui
 
+- [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
 - [Já Percebi](../../Acampamentos/2017/J%C3%A1%20Percebi.md)
 - [Maravilha-te](../../Acampamentos/2018/Maravilha-te.md)
 - [Prega Fundo](../../Acampamentos/2021/Prega%20Fundo.md)
@@ -20,3 +21,4 @@
 | Categorias |
 | --- |
 | [Animadores](../../Categorias/Animadores.md) |
+| [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) |

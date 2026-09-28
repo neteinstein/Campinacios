@@ -7,6 +7,7 @@
 
 ## Páginas que ligam para aqui
 
+- [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
 - [TufarfarAway](../../Acampamentos/2008/TufarfarAway.md)
 
 ---
@@ -14,3 +15,4 @@
 | Categorias |
 | --- |
 | [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |
+| [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) |

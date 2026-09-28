@@ -42,6 +42,8 @@ Foi um dos gestores da página dos Campinácios de 2007 a 2009.
 
 - [Baza](../../Acampamentos/2007/Baza.md)
 - [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
+- [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md)
+- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md)
 - [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md)
 - [Inês Próspero](../I/In%C3%AAs%20Pr%C3%B3spero.md)
@@ -58,3 +60,4 @@ Foi um dos gestores da página dos Campinácios de 2007 a 2009.
 | [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) |
 | [Coordenador Local do CSJB](../../Categorias/Coordenador%20Local%20do%20CSJB.md) |
 | [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |
+| [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md) |

@@ -14,6 +14,7 @@
 
 - [Bublix](../../Acampamentos/2009/Bublix.md)
 - [Ca Ganda Tanga](../../Acampamentos/2026/Ca%20Ganda%20Tanga.md)
+- [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
 - [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md)
 - [Gaivota](../../Acampamentos/2005/Gaivota.md)
 - [Vesp'á Luz](../../Acampamentos/2021/Vesp%27%C3%A1%20Luz.md)
@@ -28,3 +29,4 @@
 | [Animadores](../../Categorias/Animadores.md) |
 | [Animadores do CC](../../Categorias/Animadores%20do%20CC.md) |
 | [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |
+| [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) |
