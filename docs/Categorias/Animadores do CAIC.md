@@ -2,7 +2,7 @@
 
 Animadores do Colégio da Imaculada Conceição
 
-## Páginas nesta categoria (99)
+## Páginas nesta categoria (100)
 
 - [Alexandra Silva](../Pessoas/A/Alexandra%20Silva.md)
 - [Ana Carolina Santos](../Pessoas/A/Ana%20Carolina%20Santos.md)
@@ -29,6 +29,7 @@ Animadores do Colégio da Imaculada Conceição
 - [Diogo Reis](../Pessoas/D/Diogo%20Reis.md)
 - [Fernando Ventura](../Pessoas/F/Fernando%20Ventura.md)
 - [Filomena Vicente](../Pessoas/F/Filomena%20Vicente.md)
+- [Francisco Dioniz Barroso Loureiro](../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
 - [Francisco Lopes](../Pessoas/F/Francisco%20Lopes.md)
 - [Francisco Rodrigues (CAIC)](../Pessoas/F/Francisco%20Rodrigues%20%28CAIC%29.md)
 - [Fábio Simões](../Pessoas/F/F%C3%A1bio%20Sim%C3%B5es.md)

@@ -1,14 +1,16 @@
 ---
 name: processar-contributo
-description: Process information sent in for the Wikinácios — the GitHub issues opened with the "🏕️ Acampamento", "🙋 Pessoa", "🔗 Pessoas em Acampamentos", "🙋 Participantes de um Acampamento" or "🏞️ Local de Acampamento" forms of neteinstein/Campinacios (titles "[Acampamento] …" / "[Pessoa] …" / "[Pessoas em Acampamentos] …" / "[Participantes] …" / "[Local] …"), or the same text templates (docs/Wikinácios/Ajuda/Enviar informação.md) pasted in chat or forwarded by the Contribuidores. Use it whenever the user says "processa o issue #12", "há contributos novos?", "trata dos formulários pendentes", pastes a filled template, or mentions submissions, pedidos or issues from the site.
+description: Process information sent in for the Wikinácios — the GitHub issues opened with the "🏕️ Acampamento", "🙋 Pessoa", "🔗 Pessoas em Acampamentos", "🙋 Participantes de um Acampamento", "🏞️ Local de Acampamento" or "🔒 Remoção de Informação" forms of neteinstein/Campinacios (titles "[Acampamento] …" / "[Pessoa] …" / "[Pessoas em Acampamentos] …" / "[Participantes] …" / "[Local] …" / "[Remoção] …"), or the same text templates (docs/Wikinácios/Conteúdos.md#enviar-informacao) pasted in chat or forwarded by the Contribuidores. Use it whenever the user says "processa o issue #12", "há contributos novos?", "trata dos formulários pendentes", pastes a filled template, or mentions submissions, pedidos or issues from the site.
 ---
 
 # Processing a submission
 
-People send camps, people and the links between them through five GitHub
-issue forms (`.github/ISSUE_TEMPLATE/acampamento.yml`, `pessoa.yml`,
+People send camps, people, the links between them, and requests to remove
+their own data through six GitHub issue forms
+(`.github/ISSUE_TEMPLATE/acampamento.yml`, `pessoa.yml`,
 `pessoas-em-acampamentos.yml`, `participantes.yml`,
-`local-de-acampamento.yml`) or as text with the same fields. Your job is to
+`local-de-acampamento.yml`, `remocao-de-informacao.yml`) or as text with
+the same fields. Your job is to
 turn one into site pages the way the
 `novo-acampamento` and `nova-pessoa` skills do, keep private data off the
 public site, and tell the sender what happened.
@@ -19,7 +21,7 @@ public site, and tell the sender what happened.
   comments (later corrections often arrive there).
 - Pending ones: list the repo's open issues, keeping titles that start
   with `[Acampamento]`, `[Pessoa]`, `[Pessoas em Acampamentos]`,
-  `[Participantes]` or `[Local]`.
+  `[Participantes]`, `[Local]` or `[Remoção]`.
 - Pasted text: lines `Campo: valor`, in the template's order.
 
 A form issue has one `### <pergunta>` heading per field; `_No response_`
@@ -67,6 +69,17 @@ children.
   published — ask instead). Add each participant to the camp's
   `### Participantes` and, for those with a page, the camp to their
   `### Acampamentos`.
+- **Remoção de Informação**: a request to remove, correct or hide the
+  sender's own data. Verify it is about the sender (or someone who
+  authorised them) before acting — if that's unclear, ask rather than
+  guess. Apply the change (delete the page or the specific detail,
+  fix the error) the same way a correction to that content type would be
+  applied, following `novo-acampamento` or `nova-pessoa` as relevant, and
+  fix every page that still links to what was removed. If removing a
+  person's page entirely would break camp rosters or other pages that
+  depend on it, ask the user how to handle those links (leave the name as
+  plain text, or ask the requester what they'd prefer) rather than leaving
+  broken links.
 - **Local de Acampamento**: the issue form never carries directions,
   coordinates or contacts (its own text warns against it), so treat it as
   a request to create or complete the encrypted ficha, not as the ficha's

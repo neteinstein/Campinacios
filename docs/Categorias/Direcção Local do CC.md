@@ -116,12 +116,13 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 
 ### Direcção Colegial 1990
 
-- Amadeu Pinto sj (como Director do INA))
+- [Amadeu Pinto](../Pessoas/A/Amadeu%20Pinto.md) sj (como Director do INA))
 - [José Manuel Filgueiras](../Pessoas/J/Jos%C3%A9%20Manuel%20Filgueiras.md) (Director Executivo)
 - Joana Marques Dias (Directora Executiva Adjunta)
 
-## Páginas nesta categoria (36)
+## Páginas nesta categoria (37)
 
+- [Amadeu Pinto](../Pessoas/A/Amadeu%20Pinto.md)
 - [Amílcar Sousa](../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
 - [Ana Luísa Reis](../Pessoas/A/Ana%20Lu%C3%ADsa%20Reis.md)
 - [Andreia Gil](../Pessoas/A/Andreia%20Gil.md)
@@ -161,6 +162,7 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 
 ## Páginas que ligam para aqui
 
+- [Amadeu Pinto](../Pessoas/A/Amadeu%20Pinto.md)
 - [Amílcar Sousa](../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
 - [Ana Luísa Reis](../Pessoas/A/Ana%20Lu%C3%ADsa%20Reis.md)
 - [Andreia Gil](../Pessoas/A/Andreia%20Gil.md)

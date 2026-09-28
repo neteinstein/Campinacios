@@ -14,6 +14,7 @@
 
 - [Bruno Nobre](../../Pessoas/B/Bruno%20Nobre.md)
 - [Formiga](../../Pessoas/F/Formiga.md)
+- [Francisco Dioniz Barroso Loureiro](../../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
 - [Gonçalo Pedrosa](../../Pessoas/G/Gon%C3%A7alo%20Pedrosa.md)
 - [Joana Ferreira (2019)](../../Pessoas/J/Joana%20Ferreira%20%282019%29.md)
 - [Maria Vieira](../../Pessoas/M/Maria%20Vieira.md)
