@@ -109,6 +109,7 @@ nav:
   - "Cargos": Cargos/index.md
   - "Categorias": Categorias/index.md
   - "Encontros": Encontros/index.md
+  - "Formação": Formacao/index.md
   - "Movimento":
     - Movimento/index.md
     - "Desambiguação": Movimento/Desambiguação/index.md

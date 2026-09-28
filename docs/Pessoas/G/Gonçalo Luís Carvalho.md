@@ -14,11 +14,13 @@ Gonçalo Carvalho, é desde 2005 um dos animadores do Colégio da Imaculada Conc
     - 2006 [Nómada](../../Acampamentos/2006/N%C3%B3mada.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2007 [Baza](../../Acampamentos/2007/Baza.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2008 [TufarfarAway](../../Acampamentos/2008/TufarfarAway.md) - [Director Adjunto](../../Cargos/Director-Adjunto.md)
+    - 2012 [Limpopolus](../../Acampamentos/2012/Limpopolus.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
 
 ## Páginas que ligam para aqui
 
 - [Baza](../../Acampamentos/2007/Baza.md)
 - [Gonçalo Carvalho](../../Movimento/Desambigua%C3%A7%C3%A3o/Gon%C3%A7alo%20Carvalho.md)
+- [Limpopolus](../../Acampamentos/2012/Limpopolus.md)
 - [Nómada](../../Acampamentos/2006/N%C3%B3mada.md)
 - [TufarfarAway](../../Acampamentos/2008/TufarfarAway.md)
 

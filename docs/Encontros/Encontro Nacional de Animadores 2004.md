@@ -2,6 +2,8 @@
 
 O Encontro Nacional de Animadores de 2004 realizou-se em 11 e 12 de Dezembro de 2004, em Schoenstatt (Gafanha da Nazaré).
 
+Foi o primeiro Encontro Nacional de Animadores, organizado pelo então [Assistente Nacional](../Categorias/Assistentes%20Nacionais.md) [José Silva](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md) sj.
+
 ## Participantes
 
 ### CSJB

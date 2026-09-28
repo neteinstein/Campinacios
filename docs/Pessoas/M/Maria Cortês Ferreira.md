@@ -21,6 +21,7 @@ Maria Mendes Cortês Ferreira, nascida a 6 de Março de 1985, é desde 2003 anim
     - 2008 [OrienTu](../../Acampamentos/2008/OrienTu.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2009 [Caminho](../../Acampamentos/2009/Caminho.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2011 [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
+    - 2012 [Limpopolus](../../Acampamentos/2012/Limpopolus.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
 
 ### Família
 
@@ -32,6 +33,7 @@ Maria Mendes Cortês Ferreira, nascida a 6 de Março de 1985, é desde 2003 anim
 - [Caminho](../../Acampamentos/2009/Caminho.md)
 - [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md)
 - [João Cortês Ferreira](../J/Jo%C3%A3o%20Cort%C3%AAs%20Ferreira.md)
+- [Limpopolus](../../Acampamentos/2012/Limpopolus.md)
 - [Long Tao](../../Acampamentos/2006/Long%20Tao.md)
 - [OPA](../../Acampamentos/2007/OPA.md)
 - [OrienTu](../../Acampamentos/2008/OrienTu.md)

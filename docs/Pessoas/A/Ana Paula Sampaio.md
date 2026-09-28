@@ -14,6 +14,7 @@ Animadora do CC desde 2005.
     - 2008 [Bike Just Do It](../../Acampamentos/2008/Bike%20Just%20Do%20It.md) - [Directora-Adjunta](../../Cargos/Director-Adjunto.md)
     - 2009 [Survivor](../../Acampamentos/2009/Survivor.md) - [Directora](../../Cargos/Director.md)
     - 2010 [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
+    - 2012 [Limpopolus](../../Acampamentos/2012/Limpopolus.md) - [Capelinha](../../Cargos/Capelinho.md)
 
 ### Família
 
@@ -23,6 +24,7 @@ Animadora do CC desde 2005.
 
 - [Baúmerang](../../Acampamentos/2007/Ba%C3%BAmerang.md)
 - [Bike Just Do It](../../Acampamentos/2008/Bike%20Just%20Do%20It.md)
+- [Limpopolus](../../Acampamentos/2012/Limpopolus.md)
 - [Sara Rita Sampaio](../S/Sara%20Rita%20Sampaio.md)
 - [Survivor](../../Acampamentos/2009/Survivor.md)
 - [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md)

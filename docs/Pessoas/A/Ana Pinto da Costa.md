@@ -1,5 +1,7 @@
 # Ana Pinto da Costa
 
+*Nota: Este artigo é sobre Ana Luísa de Oliveira Pinto da Costa, animadora do CC desde os anos 90. Se procura Ana Rita Costa, animadora do Limpopolus (2012), consulte [Ana Rita Costa](Ana%20Rita%20Costa.md).*
+
 Ana Luísa de Oliveira Pinto da Costa, nascida a 17 de Agosto de 1981 é animadora do CC.
 
 ### Acampamentos

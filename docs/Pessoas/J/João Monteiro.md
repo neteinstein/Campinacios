@@ -16,11 +16,13 @@ João Pedro Azevedo Lopes Monteiro, nascido a 2 de Julho de 1986, é animador do
     - 2007 [M&M](../../Acampamentos/2007/M%26M.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2008 [TufarfarAway](../../Acampamentos/2008/TufarfarAway.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2009 [Incrível](../../Acampamentos/2009/Incr%C3%ADvel.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2012 [Limpopolus](../../Acampamentos/2012/Limpopolus.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
 ## Páginas que ligam para aqui
 
 - [Cantinácio](../../Movimento/Cantin%C3%A1cio.md)
 - [Incrível](../../Acampamentos/2009/Incr%C3%ADvel.md)
+- [Limpopolus](../../Acampamentos/2012/Limpopolus.md)
 - [M&M](../../Acampamentos/2007/M%26M.md)
 - [TufarfarAway](../../Acampamentos/2008/TufarfarAway.md)
 - [XS](../../Acampamentos/2006/XS.md)

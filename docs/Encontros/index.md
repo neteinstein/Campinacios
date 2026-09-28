@@ -13,5 +13,6 @@ Encontros Nacionais e Encontros Nacionais de Animadores.
 - [Encontro Nacional de 2008](Encontro%20Nacional%20de%202008.md)
 - [Encontro Nacional de Animadores 2004](Encontro%20Nacional%20de%20Animadores%202004.md)
 - [Encontro Nacional de Animadores 2005](Encontro%20Nacional%20de%20Animadores%202005.md)
+- [Encontro Nacional de Animadores 2006](Encontro%20Nacional%20de%20Animadores%202006.md)
 - [Encontro Nacional de Animadores 2007](Encontro%20Nacional%20de%20Animadores%202007.md)
 - [Encontro Nacional de Animadores 2009](Encontro%20Nacional%20de%20Animadores%202009.md)
