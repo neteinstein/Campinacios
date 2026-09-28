@@ -4,8 +4,9 @@ Músicas nascidas nos acampamentos dos [Campinácios](../Campin%C3%A1cios.md).
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (5 músicas)
+## Índice (6 músicas)
 
+- [APRENDER A SER](#aprender-a-ser)
 - [CAMPINÁCIOS](#campinacios)
 - [O DIA EM QUE APRENDI A VOAR](#o-dia-em-que-aprendi-a-voar)
 - [PÁRA E REPARA](#para-e-repara)
@@ -13,6 +14,20 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [SÓIS HÁ MUITOS](#sois-ha-muitos)
 
 ## Músicas
+
+### APRENDER A SER {#aprender-a-ser}
+
+```text
+Eu canto por ser jovem como a planta
+E a malta canta, uohoh
+É ter este cancro na garganta,
+Ter esta dor, uohoh
+Eu acho que há um fungo em mim,
+E canto assim, uohoh
+Por isso canto cada vez pior,
+Sou um horror, uohoh
+Eu sou cantor, uohoh
+```
 
 ### CAMPINÁCIOS {#campinacios}
 
