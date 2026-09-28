@@ -1,0 +1,47 @@
+name: 🔒 Remoção de Informação
+description: Pedir que a sua própria informação seja removida, corrigida ou ocultada da Wikinácios.
+title: "[Remoção] "
+labels: ["remocao", "privacidade"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Este formulário é para pedir a remoção, correcção ou ocultação de informação sobre **si próprio(a)**. Os [Contribuidores](https://neteinstein.github.io/Campinacios/Wikin%C3%A1cios/Contribuidores.html) tratam do pedido o mais depressa possível.
+
+        **Este pedido fica público no GitHub.** Não escreva aqui contactos (telefone, e-mail, morada) nem outra informação sensível: descreva só o que quer que seja removido ou alterado. Para algo que prefira não escrever num pedido público, contacte directamente [Pedro Vicente](https://neteinstein.github.io/Campinacios/Pessoas/P/Pedro%20Vicente.html) ou [Tiago Bahia](https://neteinstein.github.io/Campinacios/Pessoas/T/Tiago%20Bahia.html).
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: O que quer pedir?
+      options:
+        - Remover por completo a página sobre mim
+        - Remover só parte da informação sobre mim
+        - Corrigir uma informação errada sobre mim
+        - Deixar de aparecer ligado a um ou mais acampamentos
+        - Outro
+    validations:
+      required: true
+  - type: input
+    id: pagina
+    attributes:
+      label: Página ou nome
+      description: O nome como aparece no site, para os Contribuidores encontrarem a página.
+      placeholder: Maria João Simões
+    validations:
+      required: true
+  - type: textarea
+    id: pedido
+    attributes:
+      label: O que quer que seja removido, corrigido ou alterado
+      description: Descreva o pedido. Não precisa de dizer porquê, mas ajuda a resolvê-lo mais depressa.
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmacao
+    attributes:
+      label: Antes de enviar
+      options:
+        - label: Este pedido é sobre mim, ou tenho autorização da pessoa em causa para o fazer.
+          required: true
+        - label: Não incluí contactos (telefone, e-mail, morada) neste pedido.
+          required: true
