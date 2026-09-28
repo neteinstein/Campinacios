@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1139 artigos e, em itálico, os 150 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1140 artigos e, em itálico, os 150 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -952,6 +952,7 @@
 - [Non Nobis](Acampamentos/2026/Non%20Nobis.md)
 - *Nonô* → [Leonor Vala](Pessoas/L/Leonor%20Vala.md)
 - [Nossa Senhora da Graça (Sabugal, Guarda)](Restrito/Locais%20de%20Acampamento/Nossa%20Senhora%20da%20Gra%C3%A7a%20%28Sabugal%2C%20Guarda%29.md) 🔒
+- [Notícias](Movimento/Not%C3%ADcias.md)
 - [Nómada](Acampamentos/2006/N%C3%B3mada.md)
 - [Nuno Branco](Pessoas/N/Nuno%20Branco.md)
 - [Nuno Carrolo](Pessoas/N/Nuno%20Carrolo.md)
