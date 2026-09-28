@@ -4,11 +4,12 @@ Músicas nascidas nos acampamentos dos [Campinácios](../Campin%C3%A1cios.md).
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (3 músicas)
+## Índice (4 músicas)
 
 - [CAMPINÁCIOS](#campinacios)
 - [O DIA EM QUE APRENDI A VOAR](#o-dia-em-que-aprendi-a-voar)
 - [PÁRA E REPARA](#para-e-repara)
+- [POEMA LINDO](#poema-lindo) — Campo Mountain Bike (Chico Maria)
 
 ## Músicas
 
@@ -146,4 +147,34 @@ Não tenhas medo
 Eu estou contigo
 Juntos vamos caminhar
 Juntos vamos caminhar...
+```
+
+### POEMA LINDO {#poema-lindo}
+
+*Campo [Mountain Bike](../../Acampamentos/1998/Mountain%20Bike.md) (Chico Maria)*
+
+```text
+Ré7m
+Ré*                  Sim
+Quero um poema lindo
+Fa#m                 Sol
+Quero muito alguém
+Ré*                  Sim
+Que se passa não sei digo sorrindo
+Fa#m                 Sol
+Queria que viesses também
+
+Ré     Lá      Sim     Sol
+Já sei porque te amo e amei
+Ré     Lá      Sim     Sol
+Parti à descoberta e achei
+Ré     Lá      Sim     Sol
+Vivi sem saber de ti
+Mim    Lá      Ré      Sol   Ré
+E agora vou estar aqui por ti.
+
+Deixo tudo andar
+Já não consigo pensar
+Sem saber fazes me rir
+Dás-me força para explodir.
 ```
