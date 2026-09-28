@@ -4,12 +4,13 @@ Músicas nascidas nos acampamentos dos [Campinácios](../Campin%C3%A1cios.md).
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (4 músicas)
+## Índice (5 músicas)
 
 - [CAMPINÁCIOS](#campinacios)
 - [O DIA EM QUE APRENDI A VOAR](#o-dia-em-que-aprendi-a-voar)
 - [PÁRA E REPARA](#para-e-repara)
 - [POEMA LINDO](#poema-lindo) — Campo Mountain Bike (Chico Maria)
+- [SÓIS HÁ MUITOS](#sois-ha-muitos)
 
 ## Músicas
 
@@ -177,4 +178,35 @@ Deixo tudo andar
 Já não consigo pensar
 Sem saber fazes me rir
 Dás-me força para explodir.
+```
+
+### SÓIS HÁ MUITOS {#sois-ha-muitos}
+
+```text
+Enquanto a vida de todos corre,
+Acordas vivo com uma Missão
+Cada dia um sol novo se descobre,
+Só um Deus teu Pai, teu Irmão
+
+Cada ser tem o seu ideal,
+E qual duvidas de qual o certo
+Algo te brilha de especial
+É o Amor de Deus, vai em frente
+Sê esperto!
+
+      E ainda te digo, sóis há muitos,
+      Mas este, mas este é o nosso (2x)
+
+Num mundo frio e muito incerto,
+De céu enevoada e poucas abertas
+Tens a tua missão,
+algo de muito concreto,
+espalhar o amor e a fé,
+coisas boas como estas
+
+E agora vai, salta fora de casa,
+Vê o que te cresce por dentro
+Que é alimentador, que é uma brasa
+Vai dar-te ao mundo aos que vivem
+Em tormento...
 ```
