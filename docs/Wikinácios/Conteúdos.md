@@ -161,6 +161,9 @@ Wikinácios, ou que está errada? Envie-a por um destes modelos e os
   avisar que falta a ficha de um local, ou que local se usou num
   acampamento — **nunca com indicações, coordenadas ou contactos**, que
   ficam para o passo seguinte.
+- [🔒 Remoção de Informação](https://github.com/neteinstein/Campinacios/issues/new?template=remocao-de-informacao.yml):
+  pedir que a sua própria informação seja removida, corrigida ou ocultada
+  do site.
 
 O que se envia assim fica público no GitHub. Não escreva contactos
 (telefones, e-mails, moradas), indicações para chegar aos locais de campo
