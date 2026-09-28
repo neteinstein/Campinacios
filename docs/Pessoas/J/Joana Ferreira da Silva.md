@@ -2,6 +2,8 @@
 
 Joana Silva ou,depois de casada, Joana Viana Lopes.
 
+*Nota: Este artigo é sobre Joana Ferreira da Silva, animadora de 2002 a 2007. Se procura Joana Branco da Silva, Delegada SPC da Direcção Nacional em 2024/2025, consulte [Joana Branco da Silva](Joana%20Branco%20da%20Silva.md).*
+
 ### Acampamentos
 
 - **Participante:**

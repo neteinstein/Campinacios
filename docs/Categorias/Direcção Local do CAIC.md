@@ -12,16 +12,16 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 
 | Ano | Coordenação | Assistente Local | Outros membros |
 | --- | --- | --- | --- |
-| **2022/2023** | Leonor Cardoso | — | — |
-| **2021/2022** | Leonor Cardoso | — | — |
+| **2022/2023** | [Leonor Cardoso](../Pessoas/L/Leonor%20Cardoso.md) | — | — |
+| **2021/2022** | [Leonor Cardoso](../Pessoas/L/Leonor%20Cardoso.md) | — | — |
 | **2020/2021** | [Eduarda Roxo](../Pessoas/E/Eduarda%20Roxo.md) | — | — |
 | **2019/2020** | [Pedro Amado](../Pessoas/P/Pedro%20Amado.md) | — | — |
 | **2018/2019** | [Pedro Amado](../Pessoas/P/Pedro%20Amado.md) | [António Santos Lourenço](../Pessoas/A/Ant%C3%B3nio%20Santos%20Louren%C3%A7o.md) sj | — |
-| **2017/2018** | [André Trigo](../Pessoas/A/Andr%C3%A9%20Trigo.md) | [Carlos Miranda](../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md) sj | Miguel Navarro, Diana Duarte, Panão |
-| **2016/2017** | — | [Carlos Miranda](../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md) sj | [André Trigo](../Pessoas/A/Andr%C3%A9%20Trigo.md), Fernando Navarro |
+| **2017/2018** | [André Trigo](../Pessoas/A/Andr%C3%A9%20Trigo.md) | [Carlos Miranda](../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md) sj | [Miguel Navarro](../Pessoas/M/Miguel%20Navarro.md), [Diana Duarte](../Pessoas/D/Diana%20Duarte.md), [Panão](../Pessoas/P/Pan%C3%A3o.md) |
+| **2016/2017** | — | [Carlos Miranda](../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md) sj | [André Trigo](../Pessoas/A/Andr%C3%A9%20Trigo.md), [Fernando Navarro](../Pessoas/F/Fernando%20Navarro.md) |
 | **2015/2016** | [Joana Matos](../Pessoas/J/Joana%20Matos.md) | [Carlos Miranda](../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md) sj | — |
 | **2014/2015** | — | [João Manuel Silva](../Pessoas/J/Jo%C3%A3o%20Manuel%20Silva.md) sj | — |
-| **2013/2014** | [Rafael Carecho](../Pessoas/R/Rafael%20Carecho.md) | [João Manuel Silva](../Pessoas/J/Jo%C3%A3o%20Manuel%20Silva.md) sj | [Sara Fernandes](../Pessoas/S/Sara%20Fernandes.md), Marcelo Vieira, [Ana Carolina Santos](../Pessoas/A/Ana%20Carolina%20Santos.md) |
+| **2013/2014** | [Rafael Carecho](../Pessoas/R/Rafael%20Carecho.md) | [João Manuel Silva](../Pessoas/J/Jo%C3%A3o%20Manuel%20Silva.md) sj | [Sara Fernandes](../Pessoas/S/Sara%20Fernandes.md), [Marcelo Vieira](../Pessoas/M/Marcelo%20Vieira.md), [Ana Carolina Santos](../Pessoas/A/Ana%20Carolina%20Santos.md) |
 | **2012/2013** | — | [João de Brito](../Pessoas/J/Jo%C3%A3o%20de%20Brito.md) sj | — |
 | **2011/2012** | [Rafael Carecho](../Pessoas/R/Rafael%20Carecho.md) | [Ricardo Barroso](../Pessoas/R/Ricardo%20Barroso.md) sj | — |
 | **2009/2011** | [Marta Carneiro](../Pessoas/M/Marta%20Carneiro.md) | [Francisco Martins](../Pessoas/F/Francisco%20Martins.md) sj | [Joana Lima](../Pessoas/J/Joana%20Lima.md), [Gonçalo Vaz Pedro](../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md), [Pascoal](../Pessoas/J/Jos%C3%A9%20Pascoal.md) |
@@ -45,7 +45,7 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 
 </div>
 
-## Páginas nesta categoria (41)
+## Páginas nesta categoria (47)
 
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Ana Carolina Santos](../Pessoas/A/Ana%20Carolina%20Santos.md)
@@ -59,7 +59,9 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [Carlos Lopes](../Pessoas/C/Carlos%20Lopes.md)
 - [Carlos Rodrigues](../Pessoas/C/Carlos%20Rodrigues.md)
 - [Conceição Martinho](../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)
+- [Diana Duarte](../Pessoas/D/Diana%20Duarte.md)
 - [Eduarda Roxo](../Pessoas/E/Eduarda%20Roxo.md)
+- [Fernando Navarro](../Pessoas/F/Fernando%20Navarro.md)
 - [Francisco Martins](../Pessoas/F/Francisco%20Martins.md)
 - [Francisco Rodrigues (CAIC)](../Pessoas/F/Francisco%20Rodrigues%20%28CAIC%29.md)
 - [Gonçalo Vaz Pedro](../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md)
@@ -67,18 +69,22 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [Joana Lima](../Pessoas/J/Joana%20Lima.md)
 - [Joana Matos](../Pessoas/J/Joana%20Matos.md)
 - [Joana Sá](../Pessoas/J/Joana%20S%C3%A1.md)
+- [João de Brito](../Pessoas/J/Jo%C3%A3o%20de%20Brito.md)
+- [João Manuel Silva](../Pessoas/J/Jo%C3%A3o%20Manuel%20Silva.md)
 - [José Carlos Miranda](../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md)
+- [José da Silva Almeida](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
 - [José Eugénio Lopes](../Pessoas/J/Jos%C3%A9%20Eug%C3%A9nio%20Lopes.md)
 - [José Frazão](../Pessoas/J/Jos%C3%A9%20Fraz%C3%A3o.md)
 - [José Pascoal](../Pessoas/J/Jos%C3%A9%20Pascoal.md)
-- [José da Silva Almeida](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
-- [João Manuel Silva](../Pessoas/J/Jo%C3%A3o%20Manuel%20Silva.md)
-- [João de Brito](../Pessoas/J/Jo%C3%A3o%20de%20Brito.md)
+- [Leonor Cardoso](../Pessoas/L/Leonor%20Cardoso.md)
 - [Manuel Paiva](../Pessoas/M/Manuel%20Paiva.md)
+- [Marcelo Vieira](../Pessoas/M/Marcelo%20Vieira.md)
 - [Maria João Simões](../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
 - [Maria Manuel Urbano](../Pessoas/M/Maria%20Manuel%20Urbano.md)
 - [Mariana Roxo](../Pessoas/M/Mariana%20Roxo.md)
 - [Marta Carneiro](../Pessoas/M/Marta%20Carneiro.md)
+- [Miguel Navarro](../Pessoas/M/Miguel%20Navarro.md)
+- [Panão](../Pessoas/P/Pan%C3%A3o.md)
 - [Paulo Duarte](../Pessoas/P/Paulo%20Duarte.md)
 - [Pedro Amado](../Pessoas/P/Pedro%20Amado.md)
 - [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)
