@@ -27,6 +27,10 @@
 - Autor
     - ["Para Educar Melhor - Campos de férias inacianos"](../../Movimento/Para%20Educar%20Melhor%20-%20Campos%20de%20f%C3%A9rias%20inacianos.md)
 
+## Ligações externas
+
+- [Página antiga sobre os Campinácios](https://www.geocities.ws/iosef_sj/campinacios.htm) (Geocities)
+
 ## Páginas que ligam para aqui
 
 - ["Para Educar Melhor - Campos de férias inacianos"](../../Movimento/Para%20Educar%20Melhor%20-%20Campos%20de%20f%C3%A9rias%20inacianos.md)
