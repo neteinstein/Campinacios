@@ -1,6 +1,6 @@
 # Xiè-Xiè Kung Fa
 
-**Xiè-Xiè Kung Fa** foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) realizado em 2026. O tema do ano foi *Escolhe a melhor parte*.
+**Xiè-Xiè Kung Fa** foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) realizado em 2026 em [Sequeiros (Braga)](../../Restrito/Locais%20de%20Acampamento/Sequeiros%20%28Braga%29.md). O tema do ano foi *Escolhe a melhor parte*.
 
 ### Animadores
 
@@ -15,6 +15,7 @@
 - [Dinis Braga da Cruz](../../Pessoas/D/Dinis%20Braga%20da%20Cruz.md)
 - [Duarte Nifo](../../Pessoas/D/Duarte%20Nifo.md)
 - [Laura Barra](../../Pessoas/L/Laura%20Barra.md)
+- [Sequeiros (Braga)](../../Restrito/Locais%20de%20Acampamento/Sequeiros%20%28Braga%29.md)(../../Pessoas/L/Laura%20Barra.md)
 
 ---
 

@@ -6,6 +6,7 @@
 - [Laura Barra](Laura%20Barra.md)
 - [Leonardo Carvalho](Leonardo%20Carvalho.md)
 - [Leonor Simões](Leonor%20Sim%C3%B5es.md)
+- [Leonor Vala](Leonor%20Vala.md)
 - [Lídia Couto](L%C3%ADdia%20Couto.md)
 - [Lígia Encarnação](L%C3%ADgia%20Encarna%C3%A7%C3%A3o.md)
 - [Liliana](Liliana.md)

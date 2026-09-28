@@ -1,6 +1,6 @@
 # Oh Pai, Keshumo
 
-**Oh Pai, Keshumo** foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) realizado em 2026. O tema do ano foi *Escolhe a melhor parte*.
+**Oh Pai, Keshumo** foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) realizado em 2026 em [Sequeiros (Braga)](../../Restrito/Locais%20de%20Acampamento/Sequeiros%20%28Braga%29.md). O tema do ano foi *Escolhe a melhor parte*.
 
 ### Animadores
 
@@ -18,6 +18,7 @@
 - [José Carlos Miranda](../../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md)
 - [Lourenço Beato](../../Pessoas/L/Louren%C3%A7o%20Beato.md)
 - [Marga Faria](../../Pessoas/M/Marga%20Faria.md)
+- [Sequeiros (Braga)](../../Restrito/Locais%20de%20Acampamento/Sequeiros%20%28Braga%29.md)
 - [Zé Guedes](../../Pessoas/Z/Z%C3%A9%20Guedes.md)
 
 ---

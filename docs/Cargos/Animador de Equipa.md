@@ -83,6 +83,7 @@
 - [Bublix](../Acampamentos/2009/Bublix.md)
 - [CAmpIC 89](../Acampamentos/1989/CAmpIC%2089.md)
 - [Cabala](../Acampamentos/2003/Cabala.md)
+- [Ca Ganda Tanga](../Acampamentos/2026/Ca%20Ganda%20Tanga.md)
 - [Caldas de S.Paulo](../Acampamentos/1990/Caldas%20de%20S.Paulo.md)
 - [Caldelas](../Acampamentos/1996/Caldelas.md)
 - [Camila Martins](../Pessoas/C/Camila%20Martins.md)
