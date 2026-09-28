@@ -118,7 +118,7 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 
 - [Paulo Cardoso](../Pessoas/P/Paulo%20Cardoso.md) (Coordenador da DL)
 - [José Maria Brito](../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md) sj
-- [Ana Reis](../Pessoas/A/Ana%20Lu%C3%ADsa%20Reis.md)
+- Ana Reis
 - [Sílvia Lobo](../Pessoas/S/S%C3%ADlvia%20Lobo.md)
 
 ### Direcção Local 2010/2011
