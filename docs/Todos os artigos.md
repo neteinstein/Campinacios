@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1085 artigos e, em itálico, os 141 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1087 artigos e, em itálico, os 144 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -206,6 +206,7 @@
 - [Catarina Godinho](Pessoas/C/Catarina%20Godinho.md)
 - [Catarina Meireles](Pessoas/C/Catarina%20Meireles.md)
 - [Cátia Silva](Pessoas/C/C%C3%A1tia%20Silva.md)
+- *Chumi* → [Carmo Ribeiro Corrêa](Pessoas/C/Carmo%20Ribeiro%20Corr%C3%AAa.md)
 - [Clara Sampaio](Pessoas/C/Clara%20Sampaio.md)
 - [Cláudia Montenegro](Pessoas/C/Cl%C3%A1udia%20Montenegro.md)
 - [Cristina Rebordão](Pessoas/C/Cristina%20Rebord%C3%A3o.md)
@@ -561,8 +562,11 @@
 - [Joana Coelho](Pessoas/J/Joana%20Coelho.md)
 - [Joana Costa](Pessoas/J/Joana%20Costa.md)
 - [Joana Dias](Pessoas/J/Joana%20Dias.md)
+- *Joana Dias Coelho* → [Joana Coelho](Pessoas/J/Joana%20Coelho.md)
+- [Joana Ferreira](Movimento/Desambigua%C3%A7%C3%A3o/Joana%20Ferreira.md)
 - [Joana Ferreira](Pessoas/J/Joana%20Ferreira.md)
 - [Joana Ferreira (2019)](Pessoas/J/Joana%20Ferreira%20%282019%29.md)
+- [Joana Ferreira (CC)](Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 - [Joana Ferreira da Silva](Pessoas/J/Joana%20Ferreira%20da%20Silva.md)
 - [Joana Fonseca](Pessoas/J/Joana%20Fonseca.md)
 - [Joana Godinho](Pessoas/J/Joana%20Godinho.md)
@@ -586,6 +590,7 @@
 - *Joana Viana Lopes* → [Joana Ferreira da Silva](Pessoas/J/Joana%20Ferreira%20da%20Silva.md)
 - [Joana Videira](Pessoas/J/Joana%20Videira.md)
 - [João Captivo](Pessoas/J/Jo%C3%A3o%20Captivo.md)
+- *João Cativo* → [João Captivo](Pessoas/J/Jo%C3%A3o%20Captivo.md)
 - [João Correia](Pessoas/J/Jo%C3%A3o%20Correia.md)
 - [João Cruz](Pessoas/J/Jo%C3%A3o%20Cruz.md)
 - [João Delicado](Pessoas/J/Jo%C3%A3o%20Delicado.md)

@@ -20,8 +20,11 @@
 ## Páginas que ligam para aqui
 
 - [Arethë](../../Acampamentos/2008/Areth%C3%AB.md)
+- [Assistentes Nacionais](../../Categorias/Assistentes%20Nacionais.md)
 - [CRUZZ](../../Acampamentos/2023/CRUZZ.md)
 - [Caldorado](../../Acampamentos/2024/Caldorado.md)
+- [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
+- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
 - [Exipto](../../Acampamentos/2025/Exipto.md)
 - [Por confirmar (2026)](../../Acampamentos/2026/Por%20confirmar%20%282026%29.md)
@@ -35,3 +38,4 @@
 | [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |
 | [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md) |
 | [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |
+| [Assistentes Nacionais](../../Categorias/Assistentes%20Nacionais.md) |
