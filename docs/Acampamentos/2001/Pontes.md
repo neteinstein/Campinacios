@@ -4,7 +4,7 @@ O Pontes foi um acampamento de Trotinetas que decorreu de 2 a 11 de Agosto de 20
 
 ### Animadores
 
-- [Director](../../Cargos/Director.md) - Zé Frazão sj
+- [Director](../../Cargos/Director.md) - [José Frazão](../../Pessoas/J/Jos%C3%A9%20Fraz%C3%A3o.md) sj
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Isabel Santos](../../Pessoas/I/Isabel%20Santos.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Sérgio Carvalho](../../Pessoas/S/S%C3%A9rgio%20Carvalho.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Zeca Lima](../../Pessoas/Z/Zeca%20Lima.md) sj
@@ -19,6 +19,7 @@ O Pontes foi um acampamento de Trotinetas que decorreu de 2 a 11 de Agosto de 20
 - [Isabel Santos](../../Pessoas/I/Isabel%20Santos.md)
 - [Joana Sá](../../Pessoas/J/Joana%20S%C3%A1.md)
 - [Joana Videira](../../Pessoas/J/Joana%20Videira.md)
+- [José Frazão](../../Pessoas/J/Jos%C3%A9%20Fraz%C3%A3o.md)
 - [João Freire de Andrade](../../Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md)
 - [Luís Tiago Canilho](../../Pessoas/L/Lu%C3%ADs%20Tiago%20Canilho.md)
 - [Martinho Lucas Pires](../../Pessoas/M/Martinho%20Lucas%20Pires.md)

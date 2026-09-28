@@ -84,7 +84,7 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 
 - [Rodrigo Queiroz e Melo](../Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md) (Coordenador da DL)
 - [Gonçalo Graça](../Pessoas/G/Gon%C3%A7alo%20Gra%C3%A7a.md)
-- Filipa Lynce
+- [Filipa Lynce](../Pessoas/F/Filipa%20Lynce.md)
 
 ### Equipa Local 1996/1997
 
@@ -96,7 +96,7 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 
 - [Carlos Ruiz](../Pessoas/C/Carlos%20Ruiz.md) (Coordenador)
 - [Filipe Queiroz e Melo](../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md)
-- [Perrú](../Pessoas/P/Pedro%20Rocha%20Mendes.md) / Maria José Peres
+- [Perrú](../Pessoas/P/Pedro%20Rocha%20Mendes.md) / [Maria José Peres](../Pessoas/M/Maria%20Jos%C3%A9%20Peres.md)
 
 ### Equipa Coordenadora 1994/1995
 
@@ -116,7 +116,7 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [Francisco Costa Macedo](../Pessoas/F/Francisco%20Costa%20Macedo.md) sj
 - [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
 
-## Páginas nesta categoria (26)
+## Páginas nesta categoria (28)
 
 - [António Queiroz Martins](../Pessoas/A/Ant%C3%B3nio%20Queiroz%20Martins.md)
 - [Bernardo Narciso](../Pessoas/B/Bernardo%20Narciso.md)
@@ -124,6 +124,7 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [Carlos Ruiz](../Pessoas/C/Carlos%20Ruiz.md)
 - [Constança Pereira da Silva](../Pessoas/C/Constan%C3%A7a%20Pereira%20da%20Silva.md)
 - [Diogo Faria](../Pessoas/D/Diogo%20Faria.md)
+- [Filipa Lynce](../Pessoas/F/Filipa%20Lynce.md)
 - [Filipe Próspero](../Pessoas/F/Filipe%20Pr%C3%B3spero.md)
 - [Filipe Queiroz e Melo](../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md)
 - [Francisca Mendes](../Pessoas/F/Francisca%20Mendes.md)
@@ -132,12 +133,13 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [Gonçalo Frade](../Pessoas/G/Gon%C3%A7alo%20Frade.md)
 - [Gonçalo Graça](../Pessoas/G/Gon%C3%A7alo%20Gra%C3%A7a.md)
 - [Joana Gomes](../Pessoas/J/Joana%20Gomes.md)
-- [José Maria Brito](../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md)
-- [José da Silva Almeida](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
 - [João Freire de Andrade](../Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md)
+- [José da Silva Almeida](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
+- [José Maria Brito](../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md)
 - [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
 - [Manuel Cordeiro Ferreira](../Pessoas/M/Manuel%20Cordeiro%20Ferreira.md)
 - [Manuel Vilhena](../Pessoas/M/Manuel%20Vilhena.md)
+- [Maria José Peres](../Pessoas/M/Maria%20Jos%C3%A9%20Peres.md)
 - [Martinho Lucas Pires](../Pessoas/M/Martinho%20Lucas%20Pires.md)
 - [Miguel Leite Martins](../Pessoas/M/Miguel%20Leite%20Martins.md)
 - [Miguel Monteiro Martins](../Pessoas/M/Miguel%20Monteiro%20Martins.md)

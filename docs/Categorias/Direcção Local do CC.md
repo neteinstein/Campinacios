@@ -88,7 +88,7 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 
 - [José Manuel Filgueiras](../Pessoas/J/Jos%C3%A9%20Manuel%20Filgueiras.md) (Coordenador da DL)
 - [Isabel Girão](../Pessoas/I/Isabel%20Gir%C3%A3o.md)
-- Hélder Sousa
+- [Hélder Sousa](../Pessoas/H/H%C3%A9lder%20Sousa.md)
 - [Otília Azevedo](../Pessoas/O/Ot%C3%ADlia%20Azevedo.md)
 - [Pedro Castro](../Pessoas/P/Pedro%20Castro.md)
 
@@ -97,13 +97,13 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [José Manuel Filgueiras](../Pessoas/J/Jos%C3%A9%20Manuel%20Filgueiras.md) (Responsável)
 - [Eduardo Rodrigues](../Pessoas/E/Eduardo%20Rodrigues.md)
 - [Otília Azevedo](../Pessoas/O/Ot%C3%ADlia%20Azevedo.md)
-- Jorge Moreira sj
+- [Jorge Moreira](../Pessoas/J/Jorge%20Moreira.md) sj
 - [Bruno Costa](../Pessoas/B/Bruno%20Costa.md)
 
 ### Equipa Coordenadora 1993/1994
 
 - [Mico](../Pessoas/A/Am%C3%ADlcar%20Sousa.md) (Responsável)
-- Jorge Moreira sj
+- [Jorge Moreira](../Pessoas/J/Jorge%20Moreira.md) sj
 - [José Manuel Filgueiras](../Pessoas/J/Jos%C3%A9%20Manuel%20Filgueiras.md)
 - [Otília Azevedo](../Pessoas/O/Ot%C3%ADlia%20Azevedo.md)
 - [Andreia Mendes](../Pessoas/A/Andreia%20Mendes.md)
@@ -112,15 +112,15 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 
 - [José Manuel Filgueiras](../Pessoas/J/Jos%C3%A9%20Manuel%20Filgueiras.md) (Coordenador)
 - [Gonçalo Eiró](../Pessoas/G/Gon%C3%A7alo%20Eir%C3%B3.md) sj
-- Joana Marques Dias
+- [Joana Dias](../Pessoas/J/Joana%20Dias.md)
 
 ### Direcção Colegial 1990
 
 - [Amadeu Pinto](../Pessoas/A/Amadeu%20Pinto.md) sj (como Director do INA))
 - [José Manuel Filgueiras](../Pessoas/J/Jos%C3%A9%20Manuel%20Filgueiras.md) (Director Executivo)
-- Joana Marques Dias (Directora Executiva Adjunta)
+- [Joana Dias](../Pessoas/J/Joana%20Dias.md) (Directora Executiva Adjunta)
 
-## Páginas nesta categoria (37)
+## Páginas nesta categoria (39)
 
 - [Amadeu Pinto](../Pessoas/A/Amadeu%20Pinto.md)
 - [Amílcar Sousa](../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
@@ -135,17 +135,19 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [Diogo José Nunes Carneiro](../Pessoas/D/Diogo%20Jos%C3%A9%20Nunes%20Carneiro.md)
 - [Eduardo Rodrigues](../Pessoas/E/Eduardo%20Rodrigues.md)
 - [Gonçalo Eiró](../Pessoas/G/Gon%C3%A7alo%20Eir%C3%B3.md)
+- [Hélder Sousa](../Pessoas/H/H%C3%A9lder%20Sousa.md)
 - [Irina Ramos](../Pessoas/I/Irina%20Ramos.md)
 - [Isabel Girão](../Pessoas/I/Isabel%20Gir%C3%A3o.md)
 - [Isabel Reis](../Pessoas/I/Isabel%20Reis.md)
 - [Jacinto Bezerra](../Pessoas/J/Jacinto%20Bezerra.md)
 - [Joana Dias](../Pessoas/J/Joana%20Dias.md)
+- [João Paulo Moinhos](../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md)
+- [João Quintela](../Pessoas/J/Jo%C3%A3o%20Quintela.md)
+- [Jorge Moreira](../Pessoas/J/Jorge%20Moreira.md)
 - [José Augusto Rosa](../Pessoas/J/Jos%C3%A9%20Augusto%20Rosa.md)
 - [José Luís Fernandes](../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Fernandes.md)
 - [José Luís Silva](../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Silva.md)
 - [José Manuel Filgueiras](../Pessoas/J/Jos%C3%A9%20Manuel%20Filgueiras.md)
-- [João Paulo Moinhos](../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md)
-- [João Quintela](../Pessoas/J/Jo%C3%A3o%20Quintela.md)
 - [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
 - [Otília Azevedo](../Pessoas/O/Ot%C3%ADlia%20Azevedo.md)
 - [Paulo Teia](../Pessoas/P/Paulo%20Teia.md)

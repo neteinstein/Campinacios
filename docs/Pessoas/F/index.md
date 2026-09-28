@@ -6,6 +6,7 @@
 - [Fernando Ventura](Fernando%20Ventura.md)
 - [Filipa Caldas](Filipa%20Caldas.md)
 - [Filipa Granado](Filipa%20Granado.md)
+- [Filipa Lynce](Filipa%20Lynce.md)
 - [Filipa Marcelino](Filipa%20Marcelino.md)
 - [Filipa Valle](Filipa%20Valle.md)
 - [Filipe Barroso](Filipe%20Barroso.md)

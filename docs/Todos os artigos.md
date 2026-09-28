@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1085 artigos e, em itálico, os 141 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1093 artigos e, em itálico, os 144 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -403,6 +403,7 @@
 - [Fight Club](Acampamentos/2024/Fight%20Club.md)
 - [Filipa Caldas](Pessoas/F/Filipa%20Caldas.md)
 - [Filipa Granado](Pessoas/F/Filipa%20Granado.md)
+- [Filipa Lynce](Pessoas/F/Filipa%20Lynce.md)
 - [Filipa Marcelino](Pessoas/F/Filipa%20Marcelino.md)
 - [Filipa Valle](Pessoas/F/Filipa%20Valle.md)
 - [Filipe Barroso](Pessoas/F/Filipe%20Barroso.md)
@@ -570,6 +571,7 @@
 - [Joana Lacerda](Pessoas/J/Joana%20Lacerda.md)
 - [Joana Lima](Pessoas/J/Joana%20Lima.md)
 - [Joana Manaia](Pessoas/J/Joana%20Manaia.md)
+- *Joana Marques Dias* → [Joana Dias](Pessoas/J/Joana%20Dias.md)
 - [Joana Martins](Pessoas/J/Joana%20Martins.md)
 - [Joana Matos](Pessoas/J/Joana%20Matos.md)
 - [Joana Moraes](Pessoas/J/Joana%20Moraes.md)
@@ -588,6 +590,7 @@
 - [João Captivo](Pessoas/J/Jo%C3%A3o%20Captivo.md)
 - [João Correia](Pessoas/J/Jo%C3%A3o%20Correia.md)
 - [João Cruz](Pessoas/J/Jo%C3%A3o%20Cruz.md)
+- [João de Brito](Pessoas/J/Jo%C3%A3o%20de%20Brito.md)
 - [João Delicado](Pessoas/J/Jo%C3%A3o%20Delicado.md)
 - [João Manuel Silva](Pessoas/J/Jo%C3%A3o%20Manuel%20Silva.md)
 - [João Miguel Rodrigues](Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md)
@@ -642,6 +645,7 @@
 - [José Fernandes](Movimento/Desambigua%C3%A7%C3%A3o/Jos%C3%A9%20Fernandes.md)
 - [José Ferreira](Movimento/Desambigua%C3%A7%C3%A3o/Jos%C3%A9%20Ferreira.md)
 - *José Filgueiras* → [José Manuel Filgueiras](Pessoas/J/Jos%C3%A9%20Manuel%20Filgueiras.md)
+- [José Frazão](Pessoas/J/Jos%C3%A9%20Fraz%C3%A3o.md)
 - [José Lima](Pessoas/J/Jos%C3%A9%20Lima.md)
 - [José Luís Canêlhas](Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Can%C3%AAlhas.md)
 - [José Luís Fernandes](Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Fernandes.md)
@@ -753,6 +757,7 @@
 - [Magui](Pessoas/M/Magui.md)
 - [Maior Evento de Sempre em Portugal, Maior Até que a Mega Feijoada da Ponte Vasco da Gama](Acampamentos/2023/Maior%20Evento%20de%20Sempre%20em%20Portugal%2C%20Maior%20At%C3%A9%20que%20a%20Mega%20Feijoada%20da%20Ponte%20Vasco%20da%20Gama.md)
 - [Marco António](Pessoas/M/Marco%20Ant%C3%B3nio.md)
+- [Marco Conceição](Pessoas/M/Marco%20Concei%C3%A7%C3%A3o.md)
 - [Marco Cunha](Pessoas/M/Marco%20Cunha.md)
 - [Marco Frazão](Pessoas/M/Marco%20Fraz%C3%A3o.md)
 - [Marcos Matos](Pessoas/M/Marcos%20Matos.md)
@@ -805,6 +810,7 @@
 - [Maria João Rodrigues](Pessoas/M/Maria%20Jo%C3%A3o%20Rodrigues.md)
 - [Maria João Simões](Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
 - [Maria José Moreira](Pessoas/M/Maria%20Jos%C3%A9%20Moreira.md)
+- [Maria José Peres](Pessoas/M/Maria%20Jos%C3%A9%20Peres.md)
 - [Maria Machado Lima](Pessoas/M/Maria%20Machado%20Lima.md)
 - [Maria Manuel Urbano](Pessoas/M/Maria%20Manuel%20Urbano.md)
 - [Maria Margarida Sancho](Pessoas/M/Maria%20Margarida%20Sancho.md)
@@ -932,6 +938,7 @@
 - [Passaportas](Acampamentos/2010/Passaportas.md)
 - [Patos](Acampamentos/2004/Patos.md)
 - [Patrícia Cabaço](Pessoas/P/Patr%C3%ADcia%20Caba%C3%A7o.md)
+- [Patrícia Costa](Pessoas/P/Patr%C3%ADcia%20Costa.md)
 - [Patrícia Lima](Pessoas/P/Patr%C3%ADcia%20Lima.md)
 - [Paula Ferrand](Pessoas/P/Paula%20Ferrand.md)
 - [Paula Gonçalves](Pessoas/P/Paula%20Gon%C3%A7alves.md)
@@ -1043,12 +1050,14 @@
 - [Renato Gonçalves](Pessoas/R/Renato%20Gon%C3%A7alves.md)
 - [Renato Lobo](Pessoas/R/Renato%20Lobo.md)
 - [Renato Lopes](Pessoas/R/Renato%20Lopes.md)
+- [Renato Sousa](Pessoas/R/Renato%20Sousa.md)
 - [Repeat a História](Acampamentos/2025/Repeat%20a%20Hist%C3%B3ria.md)
 - [ReviraBolta](Acampamentos/2022/ReviraBolta.md)
 - [Revolução](Acampamentos/2014/Revolu%C3%A7%C3%A3o.md)
 - [Revolução Campinácios v2.0](Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
 - [Ribeira do Conde (Serpins)](Restrito/Locais%20de%20Acampamento/Ribeira%20do%20Conde%20%28Serpins%29.md) 🔒
 - [Ricardo Amado](Pessoas/R/Ricardo%20Amado.md)
+- [Ricardo Barroso](Pessoas/R/Ricardo%20Barroso.md)
 - [Ricardo Batista](Pessoas/R/Ricardo%20Batista.md)
 - [Ricardo Dias](Pessoas/R/Ricardo%20Dias.md)
 - [Ricardo Lopes](Pessoas/R/Ricardo%20Lopes.md)
@@ -1286,6 +1295,8 @@
 ## Z
 
 - [Zapping](Acampamentos/2019/Zapping.md)
+- *Zé Ferreira* → [José Emanuel Ferreira](Pessoas/J/Jos%C3%A9%20Emanuel%20Ferreira.md)
+- *Zé Frazão* → [José Frazão](Pessoas/J/Jos%C3%A9%20Fraz%C3%A3o.md)
 - *Zeca* → [José Lima](Pessoas/J/Jos%C3%A9%20Lima.md)
 - [Zé Guedes](Pessoas/Z/Z%C3%A9%20Guedes.md)
 - *Zé Maria Brito* → [José Maria Brito](Pessoas/J/Jos%C3%A9%20Maria%20Brito.md)

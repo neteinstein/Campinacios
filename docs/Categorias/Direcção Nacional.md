@@ -104,14 +104,14 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 
 - **Assistente Nacional**: [Domingos Freitas](../Pessoas/D/Domingos%20Freitas.md) sj
 - **DL-CC**: [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj (Coordenador da DL) , [José Luís Silva](../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Silva.md), [Diana Quintela](../Pessoas/D/Diana%20Quintela.md) e [Sérgio Carvalho](../Pessoas/S/S%C3%A9rgio%20Carvalho.md)
-- **DL-CAIC**: [Carla Resende](../Pessoas/C/Carla%20Resende.md) (Coordenadora da DL), Zé Frazão sj, [Sugo](../Pessoas/H/Hugo%20Rafael%20Ferreira.md) e [Francisco Lopes](../Pessoas/F/Francisco%20Lopes.md)
+- **DL-CAIC**: [Carla Resende](../Pessoas/C/Carla%20Resende.md) (Coordenadora da DL), [José Frazão](../Pessoas/J/Jos%C3%A9%20Fraz%C3%A3o.md) sj, [Sugo](../Pessoas/H/Hugo%20Rafael%20Ferreira.md) e [Francisco Lopes](../Pessoas/F/Francisco%20Lopes.md)
 - **DL-CSJB/DN**: [Miguel Martins](../Pessoas/M/Miguel%20Leite%20Martins.md) (Coordenador da DL/DN), [Gonçalo Belo](../Pessoas/G/Gon%C3%A7alo%20Belo.md) (Secretário da DN), [Tiago Figueira](../Pessoas/T/Tiago%20Figueira.md) e [Gonçalo Frade](../Pessoas/G/Gon%C3%A7alo%20Frade.md)
 
 ## Direcção Nacional 1999/2000
 
 - **Assistente Nacional**: [Domingos Freitas](../Pessoas/D/Domingos%20Freitas.md) sj
 - **DL-CC**: [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj (Coordenador da DL) , [José Luís Silva](../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Silva.md) e [José Augusto Rosa](../Pessoas/J/Jos%C3%A9%20Augusto%20Rosa.md)
-- **DL-CAIC**: [Carla Resende](../Pessoas/C/Carla%20Resende.md) (Coordenadora da DL), [Sugo](../Pessoas/H/Hugo%20Rafael%20Ferreira.md) e Zé Frazão sj
+- **DL-CAIC**: [Carla Resende](../Pessoas/C/Carla%20Resende.md) (Coordenadora da DL), [Sugo](../Pessoas/H/Hugo%20Rafael%20Ferreira.md) e [José Frazão](../Pessoas/J/Jos%C3%A9%20Fraz%C3%A3o.md) sj
 - **DL-CSJB/DN**: [Constança Cordeiro Ferreira](../Pessoas/C/Constan%C3%A7a%20Pereira%20da%20Silva.md) (Coordenadora da DL/DN e Secretária da DN), [Miguel Martins](../Pessoas/M/Miguel%20Leite%20Martins.md) e [Gonçalo Frade](../Pessoas/G/Gon%C3%A7alo%20Frade.md)
 
 ## Direcção Nacional 1998/1999
@@ -126,7 +126,7 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 - **Assistente Nacional**: [Zé Lopes](../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md) sj / [Domingos Freitas](../Pessoas/D/Domingos%20Freitas.md) sj
 - **DL-CC**: [José Augusto Rosa](../Pessoas/J/Jos%C3%A9%20Augusto%20Rosa.md) (Coordenador da DL) , [Otília Azevedo](../Pessoas/O/Ot%C3%ADlia%20Azevedo.md) e [Sérgio Carvalho](../Pessoas/S/S%C3%A9rgio%20Carvalho.md)
 - **DL-CAIC/DN**: [São Martinho](../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md) (Coordenadora da DL/DN), [Carla Resende](../Pessoas/C/Carla%20Resende.md) (Secretária da DN) e [Francisco Rodrigues](../Movimento/Desambigua%C3%A7%C3%A3o/Francisco%20Rodrigues.md)
-- **DL-CSJB**: [Rodrigo Queiroz e Melo](../Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md) (Coordenador da DL), [Gonçalo Graça](../Pessoas/G/Gon%C3%A7alo%20Gra%C3%A7a.md) e Filipa Lynce
+- **DL-CSJB**: [Rodrigo Queiroz e Melo](../Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md) (Coordenador da DL), [Gonçalo Graça](../Pessoas/G/Gon%C3%A7alo%20Gra%C3%A7a.md) e [Filipa Lynce](../Pessoas/F/Filipa%20Lynce.md)
 
 ## Direcção Nacional 1996/1997
 
@@ -136,22 +136,22 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 
 ## Direcção Nacional 1995/1996
 
-- **DL-CC/DN**: [José Manuel Filgueiras](../Pessoas/J/Jos%C3%A9%20Manuel%20Filgueiras.md) (Coordenador da DL/DN), [Isabel Girão](../Pessoas/I/Isabel%20Gir%C3%A3o.md) e Hélder Sousa
+- **DL-CC/DN**: [José Manuel Filgueiras](../Pessoas/J/Jos%C3%A9%20Manuel%20Filgueiras.md) (Coordenador da DL/DN), [Isabel Girão](../Pessoas/I/Isabel%20Gir%C3%A3o.md) e [Hélder Sousa](../Pessoas/H/H%C3%A9lder%20Sousa.md)
 - **DL-CAIC**: [São Martinho](../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md) (Coordenadora da DL), [Carla Resende](../Pessoas/C/Carla%20Resende.md) e [Ricardo Simões](../Pessoas/R/Ricardo%20Sim%C3%B5es.md)
-- **DL-CSJB**: [Carlos Ruiz](../Pessoas/C/Carlos%20Ruiz.md) (Coordenador da DL), [Perrú](../Pessoas/P/Pedro%20Rocha%20Mendes.md) / Maria José Peres e [Filipe Queiroz e Melo](../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md)
+- **DL-CSJB**: [Carlos Ruiz](../Pessoas/C/Carlos%20Ruiz.md) (Coordenador da DL), [Perrú](../Pessoas/P/Pedro%20Rocha%20Mendes.md) / [Maria José Peres](../Pessoas/M/Maria%20Jos%C3%A9%20Peres.md) e [Filipe Queiroz e Melo](../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md)
 
 ## Direcção Nacional 1994/1995
 
-- **Equipa Nacional**: [Concha Líbano Monteiro](../Pessoas/C/Concha%20L%C3%ADbano%20Monteiro.md), João Muñoz e José Araújo sj
-- **CC**: [José Manuel Filgueiras](../Pessoas/J/Jos%C3%A9%20Manuel%20Filgueiras.md) (Coordenador da DL), [Eduardo Rodrigues](../Pessoas/E/Eduardo%20Rodrigues.md) e Jorge Moreira sj
-- **CAIC**: [São Martinho](../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md) (Coordenadora da DL), Abel Bandeira sj e [Carla Gapo](../Pessoas/C/Carla%20Gapo.md)
+- **Equipa Nacional**: [Concha Líbano Monteiro](../Pessoas/C/Concha%20L%C3%ADbano%20Monteiro.md), [João Muñoz](../Pessoas/J/Jo%C3%A3o%20Mu%C3%B1oz.md) e [José Araújo](../Pessoas/J/Jos%C3%A9%20Ara%C3%BAjo.md) sj
+- **CC**: [José Manuel Filgueiras](../Pessoas/J/Jos%C3%A9%20Manuel%20Filgueiras.md) (Coordenador da DL), [Eduardo Rodrigues](../Pessoas/E/Eduardo%20Rodrigues.md) e [Jorge Moreira](../Pessoas/J/Jorge%20Moreira.md) sj
+- **CAIC**: [São Martinho](../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md) (Coordenadora da DL), [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md) sj e [Carla Gapo](../Pessoas/C/Carla%20Gapo.md)
 - **CSJB**: [Rodrigo Queiroz e Melo](../Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md) (Coordenador da DL), [Carlos Ruiz](../Pessoas/C/Carlos%20Ruiz.md) e [Perrú](../Pessoas/P/Pedro%20Rocha%20Mendes.md)
 
 ## Direcção Nacional 1993/1994
 
-- **Equipa Nacional**: [Concha Líbano Monteiro](../Pessoas/C/Concha%20L%C3%ADbano%20Monteiro.md), João Muñoz e José Araújo sj
-- **CC**: [Amílcar Sousa](../Pessoas/A/Am%C3%ADlcar%20Sousa.md) (Coordenador da DL), [José Manuel Filgueiras](../Pessoas/J/Jos%C3%A9%20Manuel%20Filgueiras.md) e Jorge Moreira sj
-- **CAIC**: [São Martinho](../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md) (Coordenadora da DL), Abel Bandeira sj e [Carla Gapo](../Pessoas/C/Carla%20Gapo.md)
+- **Equipa Nacional**: [Concha Líbano Monteiro](../Pessoas/C/Concha%20L%C3%ADbano%20Monteiro.md), [João Muñoz](../Pessoas/J/Jo%C3%A3o%20Mu%C3%B1oz.md) e [José Araújo](../Pessoas/J/Jos%C3%A9%20Ara%C3%BAjo.md) sj
+- **CC**: [Amílcar Sousa](../Pessoas/A/Am%C3%ADlcar%20Sousa.md) (Coordenador da DL), [José Manuel Filgueiras](../Pessoas/J/Jos%C3%A9%20Manuel%20Filgueiras.md) e [Jorge Moreira](../Pessoas/J/Jorge%20Moreira.md) sj
+- **CAIC**: [São Martinho](../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md) (Coordenadora da DL), [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md) sj e [Carla Gapo](../Pessoas/C/Carla%20Gapo.md)
 - **CSJB**: [Rodrigo Queiroz e Melo](../Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md) (Coordenador da DL), [Carlos Ruiz](../Pessoas/C/Carlos%20Ruiz.md) e [Perrú](../Pessoas/P/Pedro%20Rocha%20Mendes.md)
 
 ## Direcção Nacional 1991/1992
@@ -167,8 +167,9 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 - [Direcções Locais](Direc%C3%A7%C3%B5es%20Locais.md)
 - [Secretários da DN](Secret%C3%A1rios%20da%20DN.md)
 
-## Páginas nesta categoria (57)
+## Páginas nesta categoria (65)
 
+- [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Amílcar Sousa](../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
 - [Ana Simões](../Pessoas/A/Ana%20Sim%C3%B5es.md)
 - [Andreia Gil](../Pessoas/A/Andreia%20Gil.md)
@@ -187,6 +188,7 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 - [Constança Pereira da Silva](../Pessoas/C/Constan%C3%A7a%20Pereira%20da%20Silva.md)
 - [Domingos Freitas](../Pessoas/D/Domingos%20Freitas.md)
 - [Eduardo Rodrigues](../Pessoas/E/Eduardo%20Rodrigues.md)
+- [Filipa Lynce](../Pessoas/F/Filipa%20Lynce.md)
 - [Filipe Próspero](../Pessoas/F/Filipe%20Pr%C3%B3spero.md)
 - [Filipe Queiroz e Melo](../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md)
 - [Francisca Mendes](../Pessoas/F/Francisca%20Mendes.md)
@@ -198,21 +200,27 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 - [Gonçalo Frade](../Pessoas/G/Gon%C3%A7alo%20Frade.md)
 - [Gonçalo Graça](../Pessoas/G/Gon%C3%A7alo%20Gra%C3%A7a.md)
 - [Gonçalo Vaz Pedro](../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md)
+- [Hélder Sousa](../Pessoas/H/H%C3%A9lder%20Sousa.md)
 - [Isabel Girão](../Pessoas/I/Isabel%20Gir%C3%A3o.md)
 - [Joana Dias](../Pessoas/J/Joana%20Dias.md)
 - [Joana Gomes](../Pessoas/J/Joana%20Gomes.md)
 - [Joana Lima](../Pessoas/J/Joana%20Lima.md)
+- [João Muñoz](../Pessoas/J/Jo%C3%A3o%20Mu%C3%B1oz.md)
+- [João Paulo Moinhos](../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md)
+- [Jorge Moreira](../Pessoas/J/Jorge%20Moreira.md)
+- [José Araújo](../Pessoas/J/Jos%C3%A9%20Ara%C3%BAjo.md)
 - [José Augusto Rosa](../Pessoas/J/Jos%C3%A9%20Augusto%20Rosa.md)
+- [José da Silva Almeida](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
+- [José Frazão](../Pessoas/J/Jos%C3%A9%20Fraz%C3%A3o.md)
 - [José Luís Silva](../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Silva.md)
 - [José Manuel Lopes](../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md)
 - [José Maria Brito](../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md)
-- [José da Silva Almeida](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
-- [João Paulo Moinhos](../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md)
 - [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
 - [Manuel Cordeiro Ferreira](../Pessoas/M/Manuel%20Cordeiro%20Ferreira.md)
 - [Manuel Paiva](../Pessoas/M/Manuel%20Paiva.md)
 - [Manuel Vilhena](../Pessoas/M/Manuel%20Vilhena.md)
 - [Maria João Simões](../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
+- [Maria José Peres](../Pessoas/M/Maria%20Jos%C3%A9%20Peres.md)
 - [Maria Manuel Urbano](../Pessoas/M/Maria%20Manuel%20Urbano.md)
 - [Mariana Roxo](../Pessoas/M/Mariana%20Roxo.md)
 - [Marta Carneiro](../Pessoas/M/Marta%20Carneiro.md)
