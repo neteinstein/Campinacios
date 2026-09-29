@@ -16,7 +16,7 @@
 
 ### Online
 
-Fez, com o [Paulo Correia](../P/Paulo%20Correia.md), a [página original dos Campinácios](../../Movimento/Online.md#pagina-original) na Internet.
+Geriu a [página original dos Campinácios](../../Movimento/Online.md#pagina-original) na Internet depois de o [Paulo Correia](../P/Paulo%20Correia.md) a ter criado, e passou-a mais tarde ao [Pedro Vicente](../P/Pedro%20Vicente.md) e ao [Filipe Próspero](../F/Filipe%20Pr%C3%B3spero.md).
 
 ### Família
 
@@ -25,8 +25,10 @@ Fez, com o [Paulo Correia](../P/Paulo%20Correia.md), a [página original dos Cam
 ## Páginas que ligam para aqui
 
 - [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md)
+- [Filipe Próspero](../F/Filipe%20Pr%C3%B3spero.md)
 - [Online](../../Movimento/Online.md)
 - [Paulo Correia](../P/Paulo%20Correia.md)
+- [Pedro Vicente](../P/Pedro%20Vicente.md)
 - [Renato Costa](../R/Renato%20Costa.md)
 - [Survivor](../../Acampamentos/2009/Survivor.md)
 
