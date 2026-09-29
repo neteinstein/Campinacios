@@ -4,7 +4,7 @@ Músicas nascidas nos acampamentos dos [Campinácios](../Campin%C3%A1cios.md).
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (9 músicas)
+## Índice (10 músicas)
 
 - [ABRE-TE AO SONHO](#abre-te-ao-sonho) — Hino do Campo Long Tao (2006)
 - [APRENDER A SER](#aprender-a-ser)
@@ -13,6 +13,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [O DIA EM QUE APRENDI A VOAR](#o-dia-em-que-aprendi-a-voar)
 - [PÁRA E REPARA](#para-e-repara) — Campo Graal II (2003)
 - [POEMA LINDO](#poema-lindo) — Campo Mountain Bike (Chico Maria)
+- [RADROCA](#radroca) — adaptação de uma música do Camtil
 - [SÓIS HÁ MUITOS](#sois-ha-muitos)
 - [VEM ACUDIR](#vem-acudir) — Hino da Novela do Campo Long Tao (2006)
 
@@ -312,6 +313,43 @@ Deixo tudo andar
 Já não consigo pensar
 Sem saber fazes me rir
 Dás-me força para explodir.
+```
+
+### RADROCA {#radroca}
+
+*Adaptação de uma música do [Camtil](../Camtil.md)*
+
+```text
+Acorda aí, acorda vai,
+Levanta-me essa bunda
+Sai cicleta feio
+E siga p'ra desbunda,
+És atrofiado, porco deslavado
+Não tens o que fazer
+A mamã põe-te a encher..
+'Cause
+
+Rf.:   Fá                       Sib
+      Sai cicleta, o dia está ai [ele está ai, ele está ai, ele está ai]
+      Dó                                  Fá
+      Lava os dentes e faz um xixi [tiqui,   tiqui, tiqui, tiiii]
+      Despacha-te p'ró pequeno-almoço
+      Ou és rápido ou levas um coço
+
+Canta aí, canta vai, vibra borracho
+Move se és fêmea, baila se és macho
+Andas a viver com o cérebro ardente,
+yo, baza para a roda com um spirit diferente
+'Cause
+
+REFRÃO
+
+Vibra aí, vibra vai,
+Sente estas rimas,
+deste movimento que tu tanto estimas,
+Não digas que não o conheces 'cause I don't believe
+Nele há-de haver sempre algo que te cative,
+'Cause
 ```
 
 ### SÓIS HÁ MUITOS {#sois-ha-muitos}
