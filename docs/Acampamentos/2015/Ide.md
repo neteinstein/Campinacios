@@ -7,12 +7,14 @@
 - [Director](../../Cargos/Director.md) - [Miguel França Martins](../../Pessoas/M/Miguel%20Fran%C3%A7a%20Martins.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Filipa Caldas](../../Pessoas/F/Filipa%20Caldas.md)
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md)
 
 ## Páginas que ligam para aqui
 
 - [Filipa Caldas](../../Pessoas/F/Filipa%20Caldas.md)
 - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
 - [Miguel França Martins](../../Pessoas/M/Miguel%20Fran%C3%A7a%20Martins.md)
+- [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md)
 
 ---
 

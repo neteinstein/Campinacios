@@ -329,11 +329,12 @@ O «Nome do acampamento» foi um acampamento de [«Escalão»](<../Categorias/«
 
 Depois de gravar, acrescente o acampamento também em:
 
-1. `docs/Categorias/Acampamentos.md`: na tabela, na linha do ano e debaixo
-   do escalão; e na lista *Páginas nesta categoria*, por ordem alfabética,
+1. `docs/Categorias/Acampamentos.md` e `docs/Acampamentos/index.md`, que
+   mostra o mesmo conteúdo: na tabela, na linha do ano e debaixo do
+   escalão; e na lista *Páginas nesta categoria*, por ordem alfabética,
    somando 1 ao número entre parênteses.
 2. `docs/Acampamentos/«ano»/index.md` (`- [Nome](<Nome.md>) — Escalão`, por
-   ordem alfabética) e o número do ano em `docs/Acampamentos/index.md`.
+   ordem alfabética).
 3. `docs/Categorias/Acampamentos de «ano».md` e a página do escalão em
    `docs/Categorias/`.
 4. O artigo de cada pessoa da equipa (ver

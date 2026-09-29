@@ -11,11 +11,13 @@ For each camp page docs/Acampamentos/<ano>/<nome>.md it checks:
   1. docs/Categorias/Acampamentos.md
        a. the row of <ano> in the camps-by-year table links to it
        b. the "Páginas nesta categoria (N)" list links to it
-  2. docs/Acampamentos/index.md has "- [<ano>](<ano>/index.md) (N)"
-  3. docs/Acampamentos/<ano>/index.md links to it
-  4. mkdocs.yml has <ano> in the navigation
+  2. docs/Acampamentos/<ano>/index.md links to it
+  3. mkdocs.yml has <ano> in the navigation
 
-and, for the whole site, that every "(N)" count above matches its list.
+and, for the whole site, that the "(N)" count matches its list and that
+docs/Acampamentos/index.md, which shows the same content as the category,
+mirrors it: the same camps in each year's table row, the same page list
+and the same count.
 
 Usage:
     python3 .claude/skills/novo-acampamento/scripts/validar.py <camp.md> ...
@@ -34,8 +36,8 @@ ROOT = Path(__file__).resolve().parents[4]
 DOCS = ROOT / 'docs'
 CAMPS = DOCS / 'Acampamentos'
 CATEGORY = DOCS / 'Categorias' / 'Acampamentos.md'
-YEARS_INDEX = CAMPS / 'index.md'
-UNDATED = 'Sem data'  # camps without a year: no table row, no year entry
+MIRROR = CAMPS / 'index.md'  # same table and page list as CATEGORY
+UNDATED = 'Sem data'  # camps without a year: no table row
 
 LINK = re.compile(r'\]\((<[^>]+>|[^)\s]+)\)')
 
@@ -64,6 +66,12 @@ def year_of(camp):
     return camp.parent.name
 
 
+def table_rows(text):
+    """The camps-by-year table: {year: that row's text}."""
+    return {m.group(1): m.group(0) for m in
+            re.finditer(r'^\| (\d{4}) \|.*$', text, re.M)}
+
+
 def camp_pages():
     return sorted(p for p in CAMPS.glob('*/*.md') if p.name != 'index.md')
 
@@ -71,14 +79,10 @@ def camp_pages():
 def check(camps):
     """Problems per camp (list of strings) and site-wide count problems."""
     cat_text = CATEGORY.read_text(encoding='utf-8')
-    years_text = YEARS_INDEX.read_text(encoding='utf-8')
     nav = (ROOT / 'mkdocs.yml').read_text(encoding='utf-8')
-    rows = {m.group(1): m.group(0) for m in
-            re.finditer(r'^\| (\d{4}) \|.*$', cat_text, re.M)}
+    rows = table_rows(cat_text)
     count, members = section_list(cat_text, 'Páginas nesta categoria')
     member_files = targets('\n'.join(members), CATEGORY)
-    year_entries = {m.group(1): int(m.group(2)) for m in re.finditer(
-        r'^- \[([^\]]+)\]\([^)]*index\.md\) \((\d+)\)$', years_text, re.M)}
 
     general = []
     if count is None:
@@ -87,16 +91,7 @@ def check(camps):
     elif count != len(members):
         general.append(f'{CATEGORY.relative_to(ROOT)}: diz "Páginas nesta '
                        f'categoria ({count})" mas a lista tem {len(members)}')
-    for folder in sorted(p for p in CAMPS.iterdir() if p.is_dir()):
-        n = len([p for p in folder.glob('*.md') if p.name != 'index.md'])
-        label = folder.name
-        if label not in year_entries:
-            general.append(f'{YEARS_INDEX.relative_to(ROOT)}: falta o ano '
-                           f'"{label}"')
-        elif year_entries[label] != n:
-            general.append(f'{YEARS_INDEX.relative_to(ROOT)}: {label} diz '
-                           f'({year_entries[label]}) mas a pasta tem {n} '
-                           'acampamentos')
+    general += mirror_problems(rows, count, member_files)
 
     problems = {}
     for camp in camps:
@@ -126,6 +121,45 @@ def check(camps):
         if found:
             problems[camp] = found
     return problems, general
+
+
+def mirror_problems(rows, count, member_files):
+    """Where docs/Acampamentos/index.md differs from the category page."""
+    rel_m, rel_c = MIRROR.relative_to(ROOT), CATEGORY.relative_to(ROOT)
+    text = MIRROR.read_text(encoding='utf-8')
+    out = []
+    mirror_rows = table_rows(text)
+    for year in sorted(set(rows) | set(mirror_rows)):
+        if year not in mirror_rows:
+            out.append(f'{rel_m}: falta a linha de {year} da tabela '
+                       f'(está em {rel_c})')
+        elif year not in rows:
+            out.append(f'{rel_m}: tem a linha de {year} da tabela, que '
+                       f'falta em {rel_c}')
+        else:
+            mine = targets(mirror_rows[year], MIRROR)
+            theirs = targets(rows[year], CATEGORY)
+            for f in sorted(theirs - mine):
+                out.append(f'{rel_m}: a linha de {year} da tabela não tem '
+                           f'{f.relative_to(ROOT)} (está em {rel_c})')
+            for f in sorted(mine - theirs):
+                out.append(f'{rel_m}: a linha de {year} da tabela tem '
+                           f'{f.relative_to(ROOT)}, que falta em {rel_c}')
+    m_count, m_members = section_list(text, 'Páginas nesta categoria')
+    m_files = targets('\n'.join(m_members), MIRROR)
+    if m_count is None:
+        out.append(f'{rel_m}: falta a lista "## Páginas nesta categoria (N)"')
+        return out
+    if m_count != count:
+        out.append(f'{rel_m}: diz "Páginas nesta categoria ({m_count})" e '
+                   f'{rel_c} diz ({count})')
+    for f in sorted(member_files - m_files):
+        out.append(f'{rel_m}: "Páginas nesta categoria" não tem '
+                   f'{f.relative_to(ROOT)} (está em {rel_c})')
+    for f in sorted(m_files - member_files):
+        out.append(f'{rel_m}: "Páginas nesta categoria" tem '
+                   f'{f.relative_to(ROOT)}, que falta em {rel_c}')
+    return out
 
 
 # Gaps already in the wiki when it was converted (the table and the category
