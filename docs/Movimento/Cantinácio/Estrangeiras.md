@@ -4,8 +4,9 @@ Músicas estrangeiras, sobretudo em inglês, para cantar à fogueira.
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (89 músicas)
+## Índice (97 músicas)
 
+- [500 MILES](#500-miles) — Hey West
 - [A HARD DAY’S NIGHT](#a-hard-days-night) — The Beatles (John Lennon e Paul McCartney)
 - [ALL MY LOVING](#all-my-loving) — The Beatles (John Lennon e Paul McCartney)
 - [ALL YOU NEED IS LOVE](#all-you-need-is-love) — The Beatles (John Lennon e Paul McCartney)
@@ -16,18 +17,23 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [AS TEARS GO BY](#as-tears-go-by) — Rolling Stones (M. Jagger, Richards, Oldham)
 - [BABY CAN I HOLD YOU TONIGHT](#baby-can-i-hold-you-tonight) — Tracy Chapman
 - [BABY I LOVE YOUR WAY](#baby-i-love-your-way)
+- [BEAUTIFULL](#beautifull)
 - [BINGO](#bingo)
+- [BLESS THE LORD](#bless-the-lord) — Taizé
 - [BRIDGE OVER TROUBLED WATER](#bridge-over-troubled-water) — Paul Simon
 - [BROUSSE](#brousse)
 - [CIELITO LINDO](#cielito-lindo)
 - [COUNTRY ROAD](#country-road)
+- [DE NOCHE](#de-noche) — Taizé
 - [DREAM](#dream) — B. Bryant / Everly Brothers
+- [EL ALMA QUE ANDA EN EL AMOR](#el-alma-que-anda-en-el-amor) — Taizé
 - [EL CONDOR PASA](#el-condor-pasa) — P. Simon, D. Robles e J. M. hberg
+- [ESPIRITU DE DIOS](#espiritu-de-dios)
 - [EVERY BREATH YOU TAKE](#every-breath-you-take) — Sting / The Police
 - [FATHER AND SON](#father-and-son) — Cat Stevens
 - [FIRE AND RAIN](#fire-and-rain) — James Taylor
-- [500 MILES](#500-miles) — Hey West
 - [GUANTANAMERA](#guantanamera)
+- [HAPPY DAY](#happy-day)
 - [HAVE YOU EVER SEEN THE RAIN](#have-you-ever-seen-the-rain)
 - [HELP](#help) — The Beatles (John Lennon e Paul McCartney)
 - [HEY JUDE](#hey-jude) — The Beatles (John Lennon e Paul McCartney)
@@ -39,6 +45,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [IMAGINE](#imagine) — John Lennon
 - [IRONIC](#ironic) — Alanis Morissete
 - [I WANT TO HOLD YOUR HAND](#i-want-to-hold-your-hand) — The Beatles (John Lennon e Paul McCartney)
+- [JESUS REMEMBER ME](#jesus-remember-me) — Taizé
 - [JET PLANE](#jet-plane) — Peter, Paul & Mary
 - [KILLING ME SOFTLY](#killing-me-softly) — Roberta Flack
 - [KNOCKIN’ ON HEAVEN’S DOOR](#knockin-on-heavens-door) — Bob Dylan
@@ -50,6 +57,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [LINGER](#linger) — Cranberries (Dolores O’Riordan e Noel Hogan)
 - [LOOSING MY RELIGION](#loosing-my-religion) — R.E.M. (Berry, Buck, Mills e Stipe)
 - [LOVE ME TENDER](#love-me-tender) — Matscn e Elvis Presley
+- [MAS ALLÁ](#mas-alla)
 - [MICHELLE](#michelle) — The Beatles (John Lennon e Paul McCartney)
 - [MORE THAN WORDS](#more-than-words) — Extreme
 - [MORNING HAS BROKEN](#morning-has-broken) — Eleanor Farjeon / Cat Stevens
@@ -76,9 +84,9 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [SUGAR](#sugar)
 - [SUNDAY BLOODY SUNDAY](#sunday-bloody-sunday) — U2
 - [TEARS IN HEAVEN](#tears-in-heaven) — Eric Clapton
+- [THE 59TH STREET BRIDGE SONG](#the-59th-street-bridge-song) — Paul Simon
 - [THE BOXER](#the-boxer) — Paul Simon
 - [THE DOCK OF THE BAY](#the-dock-of-the-bay) — Otis Redding e Stefan Lee Cropper
-- [THE 59TH STREET BRIDGE SONG](#the-59th-street-bridge-song) — Paul Simon
 - [THE MAN WHO SOLD THE WORLD](#the-man-who-sold-the-world) — Nirvana
 - [THE RIVER](#the-river) — Bruce Springsteen
 - [THE SOUNDS OF SILENCE](#the-sounds-of-silence) — Paul Simon
@@ -86,9 +94,9 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [VALSINHA](#valsinha) — Vinicius de Moraes / Chico Buarque
 - [VINCENT](#vincent) — Don McLean
 - [WHERE THE STREETS HAVE NO NAME](#where-the-streets-have-no-name) — U2 (Brian Eno e Bono)
+- [WILD WORLD](#wild-world) — Cat Stevens
 - [WISH YOU WERE HERE](#wish-you-were-here) — Pink Floyd
 - [WITH OR WITHOUT YOU](#with-or-without-you) — U2 (Brian Eno e Bono)
-- [WILD WORLD](#wild-world) — Cat Stevens
 - [WONDERFUL TONIGHT](#wonderful-tonight) — Eric Clapton
 - [WONDERFUL WORLD](#wonderful-world) — Sam Cook
 - [WONDERFUL WORLD](#wonderful-world-2) — Louis Armstrong, Weiss e Thiele
@@ -97,6 +105,48 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [YOU’VE GOT A FRIEND](#youve-got-a-friend) — Carole King
 
 ## Músicas
+
+### 500 MILES {#500-miles}
+
+*Hey West*
+
+```text
+          Dó                           Lám
+If you miss the train I’m on
+             Rém                   Fá
+You will know that I’m gone
+             Rém                        Sol
+You can hear the whistle blow
+   Fá           Sol
+A hundred miles
+
+      A hundred miles, a hundred miles
+      A hundred miles, a hundred miles
+                   Rém                     Sol
+      You can hear the whistle blow
+         Fá           Dó
+      A hundred miles
+
+Lord I’m one, Lord I’m two
+Lord I’m three, Lord I’m four
+Lord I’m five hundred miles
+From my home
+
+      Five hundred miles, five hundred miles
+      Five hundred miles, five hundred miles
+      Lord I’m five hundred miles
+      From my home
+
+Not a shirt on my back
+Not a penny to my name
+Lord I cannot go on home
+This old way
+
+      This old way, this old way
+      This old way, this old way
+      Lord I cannot go on home
+      This old way
+```
 
 ### A HARD DAY’S NIGHT {#a-hard-days-night}
 
@@ -510,6 +560,27 @@ Clouds are stalking islands in the sun,
 I wish I can get one out of season.
 ```
 
+### BEAUTIFULL {#beautifull}
+
+```text
+Ré           Lá
+Beautifull, beautifull,
+Sim      Sol
+Jesus is beatifull
+      Ré               Sim
+And Jesus makes beautifull
+Sol              Lá
+things of my life
+Ré          Lá
+Carefully, touching me,
+Sim            Sol
+Causing my eyes to see
+       Ré               Sim
+That Jesus makes beautifull
+Sol          Lá  Ré
+Things of my life.
+```
+
 ### BINGO {#bingo}
 
 ```text
@@ -532,6 +603,21 @@ And Bingo was his name
      And Bingo was his name
 
 B…I…N…G…O!
+```
+
+### BLESS THE LORD {#bless-the-lord}
+
+*Taizé*
+
+```text
+Rém       Sol         Rém
+Bless the Lord my soul
+      Sib             Dó   Fá Lá
+And bless God’s holy name
+Rém       Sol         Rém
+Bless the Lord my soul
+       Sib          Dó  Rém
+Who leads me into life
 ```
 
 ### BRIDGE OVER TROUBLED WATER {#bridge-over-troubled-water}
@@ -680,6 +766,21 @@ Driving down the road I get the felling
 That I should have been home yesterday, yesterday
 ```
 
+### DE NOCHE {#de-noche}
+
+*Taizé*
+
+```text
+    Rém                    Sib
+De noche iremos, de  noche
+      Dó            Solm   Lá
+que para encontrar la fuente
+Rém   Dó          Fá  Lá
+sólo la sed nos alumbra
+Lá       Sib         Lá
+Sólo la sed nos alumbra
+```
+
 ### DREAM {#dream}
 
 *B. Bryant / Everly Brothers*
@@ -729,6 +830,18 @@ All I have to do is
       Dream…
 ```
 
+### EL ALMA QUE ANDA EN EL AMOR {#el-alma-que-anda-en-el-amor}
+
+*Taizé*
+
+```text
+Dó#m
+   Fá#m    Dó#m Mi   Lá       Ré     Mi     Fá#m
+El alma que anda en amor ni cansa ni se cansa.
+Sim Mi Lá Ré Sim Ré Mi
+O………………...o………..
+```
+
 ### EL CONDOR PASA {#el-condor-pasa}
 
 *P. Simon, D. Robles e J. M. hberg*
@@ -765,6 +878,19 @@ Yes I would if I only could I surely would
       He gives the world it’s saddest sound
       It’s saddest sound
       It’s saddest sound
+```
+
+### ESPIRITU DE DIOS {#espiritu-de-dios}
+
+```text
+               Rém
+Espiritu de Dios
+             Dó
+Llena mi vida
+            Sib Solm
+Llena mi al - ma
+             Lá  Lá7
+Llena mi ser (2x)
 ```
 
 ### EVERY BREATH YOU TAKE {#every-breath-you-take}
@@ -885,48 +1011,6 @@ Sweet dreams and flying machines in pieces on the ground
       But I always thought that I’d see you again
 ```
 
-### 500 MILES {#500-miles}
-
-*Hey West*
-
-```text
-          Dó                           Lám
-If you miss the train I’m on
-             Rém                   Fá
-You will know that I’m gone
-             Rém                        Sol
-You can hear the whistle blow
-   Fá           Sol
-A hundred miles
-
-      A hundred miles, a hundred miles
-      A hundred miles, a hundred miles
-                   Rém                     Sol
-      You can hear the whistle blow
-         Fá           Dó
-      A hundred miles
-
-Lord I’m one, Lord I’m two
-Lord I’m three, Lord I’m four
-Lord I’m five hundred miles
-From my home
-
-      Five hundred miles, five hundred miles
-      Five hundred miles, five hundred miles
-      Lord I’m five hundred miles
-      From my home
-
-Not a shirt on my back
-Not a penny to my name
-Lord I cannot go on home
-This old way
-
-      This old way, this old way
-      This old way, this old way
-      Lord I cannot go on home
-      This old way
-```
-
 ### GUANTANAMERA {#guantanamera}
 
 ```text
@@ -961,6 +1045,36 @@ El arroyo de la sierra
 Me complace más que el mar
 El arroyo de la sierra
 Me complace más que el mar
+```
+
+### HAPPY DAY {#happy-day}
+
+```text
+Mi Lá Mi Lá
+
+Mi                                 Lá
+Oh happy day (Oh happy day)
+               Mi                  Dó#
+Oh happy day (Oh happy day)
+                  Fá#m                      Si
+When Jesus washed (When Jesus washed)
+                  Fá#m                      Si
+When Jesus washed (When Jesus washed)
+                  Fá#m                      Si
+When Jesus washed (When Jesus washed)
+                              Mi                   Lá
+He washed my sins away (Oh happy day)
+               Mi                  Lá
+Oh happy day (Oh happy day)
+
+Mi                            Lá                    Mi
+He taught me how to watch, fight and pray,
+Lá          Mi
+fight and pray
+Mi                      Lá     Mi
+And live rejoicing every day
+Lá     Mi
+Every day
 ```
 
 ### HAVE YOU EVER SEEN THE RAIN {#have-you-ever-seen-the-rain}
@@ -1424,6 +1538,21 @@ When I feel that something,
 I wanna hold your hand  (3x)
            Fá           Sol           Fá       Dó
 I wanna hold your hand
+```
+
+### JESUS REMEMBER ME {#jesus-remember-me}
+
+*Taizé*
+
+```text
+Mi        Fá#m
+Jesus remember me
+Si                                  Mi
+when you come into your kingdom
+Dó#m   Lá
+Jesus remember me
+Si                                  Mi
+when you come into your kingdom
 ```
 
 ### JET PLANE {#jet-plane}
@@ -1896,6 +2025,23 @@ Everywhere you go
       For my darling, I love you
       Fá    Sol    Sol7  Dó
       And I always will
+```
+
+### MAS ALLÁ {#mas-alla}
+
+```text
+        Ré              Lá              Sim
+Mas allá de mis miedos, mas allá
+         Fá#m   Sol
+De mi inseguridad
+           Mim            Lá
+Quiero darte una respuesta
+          Ré            Lá             Sim
+Aquí estoy para hacer tu voluntad
+                   Fá#m        Sol
+Para que mi amor sea decirte sí
+Mim   Lá  Ré
+Hasta el final
 ```
 
 ### MICHELLE {#michelle}
@@ -3225,6 +3371,46 @@ I must be strong, and carry on
 ‘Cause I know I don’t belong here in heaven.
 ```
 
+### THE 59TH STREET BRIDGE SONG {#the-59th-street-bridge-song}
+
+*Paul Simon*
+
+```text
+     Ré           Lá
+Slow down,
+      Mi              Lá
+You move too fast
+You’ve got to make the morning last
+Just kickin’ down the cobblestones
+Lookin’ for fun and
+Feelin’ groovy
+
+           Ré    Lá   Mi            Lá
+Parararararara feelin’ groovy
+
+Hello lamppost
+What cha knowing?
+I’ve come to watch your flowers growing.
+Ain’t cha got no rhymes for me?
+Dootin’ doo-doo,
+Feelin’ groovy
+
+Parararararara feelin’ groovy
+
+          Ré               Lá
+I got no deeds to do,
+         Sim               Lá
+No promises to keep.
+      Ré                  Lá                Sim7        Lá
+I’m dappled and drowsy and ready to sleep
+             Ré                  Lá                Sim7      Lá
+Let the morning time drop all its petals on me,
+           Ré          Lá
+Life, I love you,
+         Sim         Lá
+All is groovy.
+```
+
 ### THE BOXER {#the-boxer}
 
 *Paul Simon*
@@ -3356,46 +3542,6 @@ Two thousand miles I’ve run
 Just to make this dock my own
 
      So,  I’m just gonna sit on the dock of the bay…
-```
-
-### THE 59TH STREET BRIDGE SONG {#the-59th-street-bridge-song}
-
-*Paul Simon*
-
-```text
-     Ré           Lá
-Slow down,
-      Mi              Lá
-You move too fast
-You’ve got to make the morning last
-Just kickin’ down the cobblestones
-Lookin’ for fun and
-Feelin’ groovy
-
-           Ré    Lá   Mi            Lá
-Parararararara feelin’ groovy
-
-Hello lamppost
-What cha knowing?
-I’ve come to watch your flowers growing.
-Ain’t cha got no rhymes for me?
-Dootin’ doo-doo,
-Feelin’ groovy
-
-Parararararara feelin’ groovy
-
-          Ré               Lá
-I got no deeds to do,
-         Sim               Lá
-No promises to keep.
-      Ré                  Lá                Sim7        Lá
-I’m dappled and drowsy and ready to sleep
-             Ré                  Lá                Sim7      Lá
-Let the morning time drop all its petals on me,
-           Ré          Lá
-Life, I love you,
-         Sim         Lá
-All is groovy.
 ```
 
 ### THE MAN WHO SOLD THE WORLD {#the-man-who-sold-the-world}
@@ -3784,6 +3930,56 @@ Where the streets have no name
      (It’s all I can do)
 ```
 
+### WILD WORLD {#wild-world}
+
+*Cat Stevens*
+
+```text
+      Lám                                                   Sol
+
+Now that I’ve lost everything to you
+
+                                                          Fá
+
+You say you want to start something new
+
+                                                Mi
+
+And it’s braking my heart your living
+Baby I’m grieving
+      Lám                                                        Sol
+But if you want to leave take good care
+                                                           Fá
+Hope you have a lot of nice things to wear
+                                      Mi         Sol
+Then a lot of nice things turn bad out there
+
+                    Dó       Sol                        Fá
+      Oh! Baby, baby it’s a wild world
+                    Sol                          Fá                      Dó
+      It’s hard to get by just up on a smile
+            Sol                        Fá
+      Oh! Baby, baby it’s a wild world
+                    Sol                    Fá                            Dó
+      I’ll always remember you like a child girl
+
+You know I’ve seen a lot what the world can do
+And it’s braking my heart in two
+‘Cause I never want to see you sad girl
+Don’t be a bad girl
+But if you want to leave take good care
+Hope you make a lot of friends out there
+Just remember there’s a lot of bad everywhere
+
+      Oh! Baby, baby it’s a wild world…
+
+But if you want to leave take good care
+Hope you make a lot of friends out there
+Just remember there’s a lot of bad everywhere
+
+      Oh! Baby, baby it’s a wild world…
+```
+
 ### WISH YOU WERE HERE {#wish-you-were-here}
 
 *Pink Floyd*
@@ -3874,56 +4070,6 @@ And nothing left to lose
      I can’t live with or without you
 
      With or without you…
-```
-
-### WILD WORLD {#wild-world}
-
-*Cat Stevens*
-
-```text
-      Lám                                                   Sol
-
-Now that I’ve lost everything to you
-
-                                                          Fá
-
-You say you want to start something new
-
-                                                Mi
-
-And it’s braking my heart your living
-Baby I’m grieving
-      Lám                                                        Sol
-But if you want to leave take good care
-                                                           Fá
-Hope you have a lot of nice things to wear
-                                      Mi         Sol
-Then a lot of nice things turn bad out there
-
-                    Dó       Sol                        Fá
-      Oh! Baby, baby it’s a wild world
-                    Sol                          Fá                      Dó
-      It’s hard to get by just up on a smile
-            Sol                        Fá
-      Oh! Baby, baby it’s a wild world
-                    Sol                    Fá                            Dó
-      I’ll always remember you like a child girl
-
-You know I’ve seen a lot what the world can do
-And it’s braking my heart in two
-‘Cause I never want to see you sad girl
-Don’t be a bad girl
-But if you want to leave take good care
-Hope you make a lot of friends out there
-Just remember there’s a lot of bad everywhere
-
-      Oh! Baby, baby it’s a wild world…
-
-But if you want to leave take good care
-Hope you make a lot of friends out there
-Just remember there’s a lot of bad everywhere
-
-      Oh! Baby, baby it’s a wild world…
 ```
 
 ### WONDERFUL TONIGHT {#wonderful-tonight}

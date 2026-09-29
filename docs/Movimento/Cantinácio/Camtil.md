@@ -4,7 +4,7 @@ Músicas nascidas nos acampamentos do [Camtil](../Camtil.md), com o acampamento 
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (29 músicas)
+## Índice (30 músicas)
 
 - [ÁGUA VIVA](#agua-viva) — Aranhiços 84 (Quim Pê C. Costa, Paulo e Frederico Ramirez)
 - [A NOSSA ALDEIA](#a-nossa-aldeia) — Verão 83 (Manuel Mancelos / Miguel Carvalho)
@@ -27,6 +27,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [PÊRA MADURA](#pera-madura) — Carlos A. Mendes e Anía Ramirez / Os Conchas
 - [QUANDO ALGUÉM TE BATE À PORTA](#quando-alguem-te-bate-a-porta) — Tremelgas 94 - Vila Nova do Ceira (Nuno Tovar de Lemos)
 - [QUANTO MAIS TRABALHAS](#quanto-mais-trabalhas)
+- [RADROCA](#radroca)
 - [SALTA PUTO](#salta-puto) — Aranhiços 89 - Guilhofrei
 - [SEI LÁ](#sei-la) — Tremelgas 92 - Mimosas
 - [SOMOS ARANHIÇOS](#somos-aranhicos) — CIFA 95 - Vila Nova de Mil Fontes
@@ -874,6 +875,41 @@ Meu amor, ama-me de facto
 Guarda-te p´ra mim não vás ao sindicato.
 Meu amor, dá-me um piparote
 Agarra-me com força como ao teu serrote.
+```
+
+### RADROCA {#radroca}
+
+```text
+Acorda aí, acorda vai,
+Levanta-me essa bunda
+Sai cicleta feio
+E siga p'ra desbunda,
+És atrofiado, porco deslavado
+Não tens o que fazer
+A mamã põe-te a encher..
+'Cause
+
+Rf.:   Fá                       Sib
+      Sai cicleta, o dia está ai [ele está ai, ele está ai, ele está ai]
+      Dó                                  Fá
+      Lava os dentes e faz um xixi [tiqui,   tiqui, tiqui, tiiii]
+      Despacha-te p'ró pequeno-almoço
+      Ou és rápido ou levas um coço
+
+Canta aí, canta vai, vibra borracho
+Move se és fêmea, baila se és macho
+Andas a viver com o cérebro ardente,
+yo, baza para a roda com um spirit diferente
+'Cause
+
+REFRÃO
+
+Vibra aí, vibra vai,
+Sente estas rimas,
+deste movimento que tu tanto estimas,
+Não digas que não o conheces 'cause I don't believe
+Nele há-de haver sempre algo que te cative,
+'Cause
 ```
 
 ### SALTA PUTO {#salta-puto}
