@@ -64,7 +64,7 @@ Ainda neste ano de 1989, no mês de Setembro, realizou-se o [Pedreira](Acampamen
 <div class="wk-section" markdown="span">**[Vocabulário](Movimento/Vocabul%C3%A1rio.md)**<br>[Animador](Movimento/Animador.md) &middot; [Jesuíta](Movimento/Jesu%C3%ADta.md) &middot; [Participante](Movimento/Participante.md) &middot; [Culinácio](Movimento/Culin%C3%A1cio.md) &middot; [mais...](Movimento/Vocabul%C3%A1rio.md)</div>
 <div class="wk-section" markdown="span">**[Legislação](Movimento/Legisla%C3%A7%C3%A3o.md)**<br>[Legislação de Acampamentos Ocasionais](Movimento/Legisla%C3%A7%C3%A3o.md)</div>
 <div class="wk-section" markdown="span">**Online**<br>[Página oficial](https://www.campinacios.pt) &middot; [YouTube](https://www.youtube.com/@campinacios) &middot; [Instagram](https://www.instagram.com/campinacios/) &middot; [Facebook](https://www.facebook.com/campinacios/?locale=pt_PT) &middot; [Notícias](Movimento/Not%C3%ADcias.md)</div>
-<div class="wk-section" markdown="span">**[Contribuidores](Wikin%C3%A1cios/Contribuidores.md)**<br>[António Queiroz Martins](Pessoas/A/Ant%C3%B3nio%20Queiroz%20Martins.md) &middot; [Filipe Barroso](Pessoas/F/Filipe%20Barroso.md) &middot; [Joaquim Abreu](Pessoas/J/Joaquim%20Abreu.md) &middot; [Pedro Vicente](Pessoas/P/Pedro%20Vicente.md) &middot; [Sílvia Lobo](Pessoas/S/S%C3%ADlvia%20Lobo.md) &middot; [Tiago Bahia](Pessoas/T/Tiago%20Bahia.md)</div>
+<div class="wk-section" markdown="span">**[Contribuidores](Wikin%C3%A1cios/Contribuidores.md)**</div>
 <div class="wk-section" markdown="span">**[Todos os artigos](Todos%20os%20artigos.md)**</div>
 </div>
 
