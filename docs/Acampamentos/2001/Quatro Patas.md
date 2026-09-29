@@ -1,11 +1,18 @@
 # Quatro Patas
 
+Foi neste campo que foi composta a música "O André e a Cecília" por Manel Matos (ver [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#o-andre-e-a-cecilia)).
+
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - Nuno Antunes
 
+### Participantes
+
+- [Cecília Miranda](../../Pessoas/C/Cec%C3%ADlia%20Miranda.md)
+
 ## Páginas que ligam para aqui
 
+- [Cecília Miranda](../../Pessoas/C/Cec%C3%ADlia%20Miranda.md)
 - [Filipe Barroso](../../Pessoas/F/Filipe%20Barroso.md)
 - [Inês Turras](../../Pessoas/I/In%C3%AAs%20Turras.md)
 - [Joana Reis](../../Pessoas/J/Joana%20Reis.md)
