@@ -4,7 +4,7 @@ Reúne músicas e canções dos Campinácios e não só.
 
 Um novo Cantinácio foi lançado após anos e anos de tentativas, as músicas abaixo podem não reflectir essa nova versão.
 
-## Letras e acordes
+## Letras e acordes (627 músicas)
 
 - [Cânticos](Cantin%C3%A1cio/C%C3%A2nticos.md) — 214 cânticos para as eucaristias e orações
 - [Camtil](Cantin%C3%A1cio/Camtil.md) — 74 músicas nascidas nos acampamentos
