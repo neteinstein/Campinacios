@@ -16,3 +16,4 @@ Encontros Nacionais e Encontros Nacionais de Animadores.
 - [Encontro Nacional de Animadores 2006](Encontro%20Nacional%20de%20Animadores%202006.md)
 - [Encontro Nacional de Animadores 2007](Encontro%20Nacional%20de%20Animadores%202007.md)
 - [Encontro Nacional de Animadores 2009](Encontro%20Nacional%20de%20Animadores%202009.md)
+- [Fim-de-Semana de Espiritualidade e Encontro 2006](Fim-de-Semana%20de%20Espiritualidade%20e%20Encontro%202006.md)
