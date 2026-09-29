@@ -4,7 +4,7 @@ Músicas portuguesas (e algumas brasileiras) para cantar à fogueira.
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (144 músicas)
+## Índice (143 músicas)
 
 - [A BANDA](#a-banda) — Chico Buarque
 - [A CARTA](#a-carta) — Tiago Bettencourt
@@ -75,7 +75,6 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [JÁ ESTOU DE REGRESSO, AMOR](#ja-estou-de-regresso-amor) — Os Quatro e Meia
 - [JARDINS PROIBIDOS](#jardins-proibidos) — Paulo Gonzo
 - [JEREMIAS, O FORA-DA-LEI](#jeremias-o-fora-da-lei) — Jorge Palma
-- [JOVEM COMO A PLANTA](#jovem-como-a-planta)
 - [JUST GIRLS](#just-girls) — Amarguinhas
 - [LADO LUNAR](#lado-lunar) — Carlos Tê / Rui Veloso
 - [LAMBRETA](#lambreta) — António Zambujo
@@ -3693,43 +3692,6 @@ Gosta de brincar com o destino e nem o próprio inferno o apavora
 Não estando disposto a esperar que a humanidade venha alguma vez a ser melhor
 Jeremias escolheu o seu lugar do lado de fora
 Jeremias escolheu o seu lugar do lado de fora
-```
-
-### JOVEM COMO A PLANTA {#jovem-como-a-planta}
-
-```text
-   Dó                          Sol
-Eu canto por ser jovem como a planta
-           Fá       Sol
-E a malta canta, uô-ô!
-  Dó                    Sol
-É ter este cancro na garganta
-         FáSol
-Ter esta dor!
-    Dó                           Sol
-Eu acho que é um fungo que há em mim
-          FáSol
-E canto assim!
-    Dó                   Sol
-Por isso canto cada vez pior
-           FáSol
-Sou um horror!
-         Dó   Sol Fá Sol
-E sou cantor
-          Dó   Sol Fá Sol
-Sou um horror!
-
-*Eu mando por ser jovem como a planta
-E a malta canta, uô-ô!
-É ter este apito na garganta
-Ter esta dor!
-Eu acho que é um fungo que há em mim
-E mando assim!
-Por isso mando cada vez pior
-Sou um horror!
-Sou director!
-Sou um horror!
-*  Adaptação  Camtílica
 ```
 
 ### JUST GIRLS {#just-girls}
