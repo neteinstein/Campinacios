@@ -4,13 +4,14 @@ Músicas nascidas nos acampamentos dos [Campinácios](../Campin%C3%A1cios.md).
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (12 músicas)
+## Índice (13 músicas)
 
 - [ABRE-TE AO SONHO](#abre-te-ao-sonho) — Hino do Campo Long Tao (2006)
 - [APRENDER A SER](#aprender-a-ser)
 - [BELO DO HINO](#belo-do-hino) — Hino do Campo Caminho (2009)
 - [CAMPINÁCIOS](#campinacios)
 - [JOVEM COMO A PLANTA](#jovem-como-a-planta)
+- [O ANDRÉ E A CECÍLIA](#o-andre-e-a-cecilia) — Campo Quatro Patas (2001) (Manel Matos)
 - [O DIA EM QUE APRENDI A VOAR](#o-dia-em-que-aprendi-a-voar)
 - [PÃO COM MANTEIGA](#pao-com-manteiga)
 - [PÁRA E REPARA](#para-e-repara) — Campo Graal II (2003)
@@ -207,6 +208,30 @@ Sou um horror!
 Sou director!
 Sou um horror!
 *  Adaptação  Camtílica
+```
+
+### [O ANDRÉ E A CECÍLIA](../../Pessoas/C/Cec%C3%ADlia%20Miranda.md) {#o-andre-e-a-cecilia}
+
+*Manel Matos — música nascida no campo [Quatro Patas](../../Acampamentos/2001/Quatro%20Patas.md) (2001)*
+
+```text
+    Dó        Fá
+O André e a Cecília
+ Sol           Dó
+A beber um chá de tília
+    Dó           Fá
+A Cecília e o André
+    Sol        Dó
+A beberem um café
+
+Oh meu amor, minha paixão
+És o meu avião (2x)
+
+Um, dois, três, quatro
+
+És a marmelada do meu pão
+És fofinha como o algodão
+És o sangue que circula no meu coração
 ```
 
 ### O DIA EM QUE APRENDI A VOAR {#o-dia-em-que-aprendi-a-voar}
