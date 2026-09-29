@@ -426,6 +426,7 @@
 - [Fibrovital](Acampamentos/1996/Fibrovital.md)
 - *Fichas de Jogo* → [Caderno de Jogos](Movimento/Caderno%20de%20Jogos.md)
 - [Fight Club](Acampamentos/2024/Fight%20Club.md)
+- [Fim-de-Semana de Espiritualidade e Encontro 2006](Encontros/Fim-de-Semana%20de%20Espiritualidade%20e%20Encontro%202006.md)
 - [Filipa Caldas](Pessoas/F/Filipa%20Caldas.md)
 - [Filipa Granado](Pessoas/F/Filipa%20Granado.md)
 - [Filipa Lynce](Pessoas/F/Filipa%20Lynce.md)
