@@ -2,7 +2,7 @@
 
 **Triciclos 1** foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) realizado em 1997 em [Alvoco das Várzeas (Oliveira do Hospital)](../../Restrito/Locais%20de%20Acampamento/Alvoco%20das%20V%C3%A1rzeas%20%28Oliveira%20do%20Hospital%29.md), para os participantes do 5.º ano. Decorreu no mesmo terreno e ao mesmo tempo que o [Triciclos 2](Triciclos%202.md), para os participantes do 6.º ano.
 
-*Curiosidade: os dois acampamentos foram feitos em simultâneo, um de cada lado do rio, e em ambos a mamã foi a São Martinho.*
+*Curiosidade: os dois acampamentos foram feitos em simultâneo, lado a lado, separados por 50 metros, e em ambos a mamã foi a São Martinho.*
 
 ### Animadores
 
