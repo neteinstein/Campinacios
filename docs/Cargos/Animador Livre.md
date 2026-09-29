@@ -191,6 +191,7 @@
 - [Shampum de Pessêgo](../Acampamentos/2001/Shampum%20de%20Pess%C3%AAgo.md)
 - [Sofia Azevedo Cardoso](../Pessoas/S/Sofia%20Azevedo%20Cardoso.md)
 - [Sofia Fonseca](../Pessoas/S/Sofia%20Fonseca.md)
+- [Someonelfie](../Acampamentos/2015/Someonelfie.md)
 - [Supérate](../Acampamentos/2017/Sup%C3%A9rate.md)
 - [Surpresa](../Acampamentos/2001/Surpresa.md)
 - [Survivor](../Acampamentos/2009/Survivor.md)

@@ -9,7 +9,7 @@ Animadores dos Campinácios
 - [Animadores do CSJB](Animadores%20do%20CSJB.md)
 - [Jesuítas](Jesu%C3%ADtas.md)
 
-## Páginas nesta categoria (682)
+## Páginas nesta categoria (683)
 
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Afonso Barrocas](../Pessoas/A/Afonso%20Barrocas.md)
@@ -639,6 +639,7 @@ Animadores dos Campinácios
 - [Sofia Amaral](../Pessoas/S/Sofia%20Amaral.md)
 - [Sofia Ângelo](../Pessoas/S/Sofia%20%C3%82ngelo.md)
 - [Sofia Azevedo Cardoso](../Pessoas/S/Sofia%20Azevedo%20Cardoso.md)
+- [Sofia Fernandes](../Pessoas/S/Sofia%20Fernandes.md)
 - [Sofia Fonseca](../Pessoas/S/Sofia%20Fonseca.md)
 - [Sofia Rebelo](../Pessoas/S/Sofia%20Rebelo.md)
 - [Sónia Ferreira](../Pessoas/S/S%C3%B3nia%20Ferreira.md)
