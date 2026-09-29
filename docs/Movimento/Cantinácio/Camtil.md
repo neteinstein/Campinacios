@@ -4,7 +4,7 @@ Músicas nascidas nos acampamentos do [Camtil](../Camtil.md), com o acampamento 
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (30 músicas)
+## Índice (32 músicas)
 
 - [ÁGUA VIVA](#agua-viva) — Aranhiços 84 (Quim Pê C. Costa, Paulo e Frederico Ramirez)
 - [A NOSSA ALDEIA](#a-nossa-aldeia) — Verão 83 (Manuel Mancelos / Miguel Carvalho)
@@ -25,11 +25,13 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [OUVI DIZER QUE OS ARANHIÇOS](#ouvi-dizer-que-os-aranhicos) — CIFA 95 - Vila Nova de Mil Fontes
 - [PAI NATAL](#pai-natal) — Melgas 87 (João Tiago Batalha / João Peleteiro)
 - [PÊRA MADURA](#pera-madura) — Carlos A. Mendes e Anía Ramirez / Os Conchas
+- [PERDOA-ME SENHOR](#perdoa-me-senhor) — CIFA 95 - Vila Nova de Mil Fontes (Rita Castel’Branco)
 - [QUANDO ALGUÉM TE BATE À PORTA](#quando-alguem-te-bate-a-porta) — Tremelgas 94 - Vila Nova do Ceira (Nuno Tovar de Lemos)
 - [QUANTO MAIS TRABALHAS](#quanto-mais-trabalhas)
-- [RADROCA](#radroca)
 - [SALTA PUTO](#salta-puto) — Aranhiços 89 - Guilhofrei
 - [SEI LÁ](#sei-la) — Tremelgas 92 - Mimosas
+- [SENHOR, EIS-ME AQUI](#senhor-eis-me-aqui) — Tremelgas sem Guarida - 1994
+- [SÓ AVANÇA QUEM REPARTE](#so-avanca-quem-reparte) — Margarida Reduto / Xico Lemos
 - [SOMOS ARANHIÇOS](#somos-aranhicos) — CIFA 95 - Vila Nova de Mil Fontes
 - [SONHO](#sonho) — Melgas 92 - Várzea da Ovelha (Ana Castelo / “ERA UMA VEZ O ESPAÇO”)
 - [SÓ TEMOS DEZ DIAS](#so-temos-dez-dias) — Tremelgas 93 - Verim (Rafael Patrício e Ana Castelo)
@@ -805,6 +807,55 @@ Tanto prazer eu inté córo
       Oh meu Amor  ------  Minha Querida...
 ```
 
+### PERDOA-ME SENHOR {#perdoa-me-senhor}
+
+*CIFA 95 - Vila Nova de Mil Fontes (Rita Castel’Branco)*
+
+```text
+      Dó
+Perdoa-me, Senhor
+                                                        Mim
+Às vezes esqueço que daí olhas por nós
+                 Lám                                         Rém
+E não me lembro de parar e ouvir-Te a voz
+                 Fá                           Sol
+Ando num mundo em que não sinto
+                      Fá                          Sol
+Em que me escondo e em que minto
+            Lám  Mim
+Fico menor
+
+Perdoa-me, Senhor
+Por pedras que eu atiro sem notar
+E em cada pedra um irmão estou a magoar
+A deixar marcas que não saram
+A fazer feridas que não param
+De sangrar
+
+Perdoa-me, Senhor
+Eu tenho tanto que já nem sei dar valor
+
+Às vezes esqueço que há quem viva bem pior
+
+Se em vez de eu me lamentar
+Visse o tanto que há para dar
+Era melhor
+
+Ajuda-me, Senhor
+A ver a esperança quando à volta tudo é dor
+A ganhar força e a voltar a acreditar
+Eu já perdi a confiança
+Já não sou mais uma criança
+Não sei sonhar
+
+Perdoa-me, Senhor
+Por fechar a minha mão sem a estender
+Por não lembrar que devo dar sem receber
+E em vez de sim Te digo não
+Por isso peço o Teu perdão,
+Senhor
+```
+
 ### QUANDO ALGUÉM TE BATE À PORTA {#quando-alguem-te-bate-a-porta}
 
 *Tremelgas 94 - Vila Nova do Ceira (Nuno Tovar de Lemos)*
@@ -875,41 +926,6 @@ Meu amor, ama-me de facto
 Guarda-te p´ra mim não vás ao sindicato.
 Meu amor, dá-me um piparote
 Agarra-me com força como ao teu serrote.
-```
-
-### RADROCA {#radroca}
-
-```text
-Acorda aí, acorda vai,
-Levanta-me essa bunda
-Sai cicleta feio
-E siga p'ra desbunda,
-És atrofiado, porco deslavado
-Não tens o que fazer
-A mamã põe-te a encher..
-'Cause
-
-Rf.:   Fá                       Sib
-      Sai cicleta, o dia está ai [ele está ai, ele está ai, ele está ai]
-      Dó                                  Fá
-      Lava os dentes e faz um xixi [tiqui,   tiqui, tiqui, tiiii]
-      Despacha-te p'ró pequeno-almoço
-      Ou és rápido ou levas um coço
-
-Canta aí, canta vai, vibra borracho
-Move se és fêmea, baila se és macho
-Andas a viver com o cérebro ardente,
-yo, baza para a roda com um spirit diferente
-'Cause
-
-REFRÃO
-
-Vibra aí, vibra vai,
-Sente estas rimas,
-deste movimento que tu tanto estimas,
-Não digas que não o conheces 'cause I don't believe
-Nele há-de haver sempre algo que te cative,
-'Cause
 ```
 
 ### SALTA PUTO {#salta-puto}
@@ -986,6 +1002,80 @@ Quero-lhe falar, quero-lhe falar
       Foi assim que começou
                Fá                      Dó
       Esse fogo que os ateou!
+```
+
+### SENHOR, EIS-ME AQUI {#senhor-eis-me-aqui}
+
+*Tremelgas sem Guarida - 1994*
+
+```text
+Dó  Sol  Dó  Sol
+
+Dó Sol                      Dó
+Senhor, eis-me aqui
+Sol              Dó
+O que me cerca
+Sol                     Dó
+Tudo o que eu sou
+      Sol            Dó  Sol  Dó  Sol
+Foi feito por Ti
+
+Dó          Sol               Dó
+Senhor, Tu me ensinaste
+    Sol                     Dó
+Tudo o que aprendi
+Sol                Dó
+Tu deste a força
+           Sol              Dó  Sol  Dó  Sol
+P´ra estarmos aqui
+
+     Fá                 Ré
+     Eu Te agradeço
+     Mim                    Sol
+     Pelo ar que respiro
+     Fá                       Ré
+     Pelo sol que ilumina
+     Mim                Sol
+     A terra que piso...
+
+Senhor, eis-me aqui
+O que me cerca
+Tudo o que eu sou
+Foi feito por Ti
+```
+
+### SÓ AVANÇA QUEM REPARTE {#so-avanca-quem-reparte}
+
+*Margarida Reduto / Xico Lemos*
+
+```text
+           Ré               Si7     Mim           Lá7      Ré
+Os meus passos pouco seguros,
+              Si7    Mim                Lá7      Dó
+Meu horizonte, às vezes magoado,
+              Sim             Mi    Sim
+Maria que andaste só,
+Dó     Sol                         Lám     Sim
+És a claridade deste andar.
+
+        Sol                     Sim  Lá#mLám
+      Senhor Tu estás aí,
+                      Ré7                   Mim
+      Queres dizer-me alguma coisa,
+      Fá              Dó    Lám                  Mi
+      Quando hesito, sei que me empurras,
+      Quando avanço, és Tu que andas,
+      Quando me dou, és Tu que dás.
+
+Enquanto ando, Deus não tem pressa,
+Não fico p´ra trás, nem esqueço ninguém
+Avanço a Teu lado, Senhor,
+E os meus pés fazem o Teu caminho.
+
+Mesmo quando, dou um passo atrás,
+Sei que posso, sempre re-partir,
+Reparto tudo o que sou,
+Faço do meu tempo a minha entrega.
 ```
 
 ### SOMOS ARANHIÇOS {#somos-aranhicos}
