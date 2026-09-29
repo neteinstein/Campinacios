@@ -4,12 +4,13 @@ Músicas nascidas nos acampamentos dos [Campinácios](../Campin%C3%A1cios.md).
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (13 músicas)
+## Índice (14 músicas)
 
 - [ABRE-TE AO SONHO](#abre-te-ao-sonho) — Hino do Campo Long Tao (2006)
 - [APRENDER A SER](#aprender-a-ser)
 - [BELO DO HINO](#belo-do-hino) — Hino do Campo Caminho (2009)
 - [CAMPINÁCIOS](#campinacios)
+- [HINO DE CAMPO](#hino-de-campo) — Campo OPA (2007)
 - [JOVEM COMO A PLANTA](#jovem-como-a-planta)
 - [O ANDRÉ E A CECÍLIA](#o-andre-e-a-cecilia) — Campo Quatro Patas (2001) (Manel Matos)
 - [O DIA EM QUE APRENDI A VOAR](#o-dia-em-que-aprendi-a-voar)
@@ -171,6 +172,38 @@ Afinal... ali estava a  oportunidade de emergir!
 
 Lá* - x02120
 Ré* - xx0222
+```
+
+### HINO DE CAMPO {#hino-de-campo}
+
+*Hino do Campo [OPA](../../Acampamentos/2007/OPA.md) (2007)*
+
+```text
+O dia acordou cinzento
+Triste como tudo
+Desafiaste o vento
+E foste mudar o mundo
+
+Uuuuuuoooooooooo
+
+REFRÃO:
+Onde pára a Atlântida?
+Para fora tens de ir,
+Onde pára a Atlântida?
+Vamos lá descobrir...
+
+Bravo jovem Atlânte
+Que da água emergiste
+Dá-te aos outros, sê marcante
+Prova que Deus existe!
+
+Uuuuuuoooooooooo
+
+REFRÃO
+
+OPA!!!! PARA FORA AQUI E AGORA!!!!
+
+REFRÃO
 ```
 
 ### JOVEM COMO A PLANTA {#jovem-como-a-planta}

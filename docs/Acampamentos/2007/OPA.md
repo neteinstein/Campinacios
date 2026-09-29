@@ -2,6 +2,8 @@
 
 O OPA foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que decorreu entre 5 e 14 de Agosto em [Serpins](../../Restrito/Locais%20de%20Acampamento/Ribeira%20do%20Conde%20%28Serpins%29.md).
 
+O hino deste campo foi o "Hino de Campo" (ver [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#hino-de-campo)).
+
 [![Grupo de animadores trajados a rigor no acampamento: rei e rainha da Atlântida, guarda real e mago encapuçado, diante de uma bandeira azul e amarela](../../assets/imagens/OPA.jpg)](../../assets/imagens/OPA.jpg)
 
 ## Animadores
