@@ -5,6 +5,7 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Pê Fonseca](../../Pessoas/P/Pedro%20Fonseca.md)
+- [Mamã](../../Cargos/Mam%C3%A3.md) - Maria Líbano Monteiro
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
 
 ## Páginas que ligam para aqui
