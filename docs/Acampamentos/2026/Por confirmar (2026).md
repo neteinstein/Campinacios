@@ -7,6 +7,8 @@ O nome deste acampamento de [Lambretas](../../Categorias/Lambretas.md) de 2026 e
 - [Director](../../Cargos/Director.md) - [Afonso Barrocas](../../Pessoas/A/Afonso%20Barrocas.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Bea Mesquita](../../Pessoas/B/Beatriz%20Mesquita.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Rui Duarte](../../Pessoas/R/Rui%20Duarte.md)
+- [Tia](../../Cargos/Tio.md) - Luísa Faria (Lu), Cata Silveira
+- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Rita Caeiro, Jéssica Barra, Maria Dias Rodrigues, Inês Guimarães, Diogo Rêgo, Lourenço Matias (Ló), António Almeida (Toni)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Carvalho](../../Pessoas/C/Carlos%20Carvalho.md) sj
 - [Capelinho](../../Cargos/Capelinho.md) - [Diogo Martins](../../Pessoas/D/Diogo%20Martins.md) nsj
 
