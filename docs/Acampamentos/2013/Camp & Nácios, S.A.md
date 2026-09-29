@@ -7,9 +7,11 @@
 - [Director](../../Cargos/Director.md) - [Paulo Cardoso](../../Pessoas/P/Paulo%20Cardoso.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Ana Paula Sampaio](../../Pessoas/A/Ana%20Paula%20Sampaio.md)
 
 ## Páginas que ligam para aqui
 
+- [Ana Paula Sampaio](../../Pessoas/A/Ana%20Paula%20Sampaio.md)
 - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
 - [Paulo Cardoso](../../Pessoas/P/Paulo%20Cardoso.md)
 - [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md)
