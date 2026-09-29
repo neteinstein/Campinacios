@@ -24,7 +24,7 @@ Era uma vez... a Atlântida, uma cidade avançada, que tinha o seu Rei, Rainha, 
 
 Como uma civilização avançada, a Atlântida tinha uma tradição de passagem que envolvia conhecer outras civilizações, pessoas e tradições para que se pudesse crescer vendo pessoas/culturas variadas.
 
-Para isso, era preciso que a própria pessoa já se conhecesse bem suficiente, para estar aberta a elas... os Magos, tinham a capacidade de conseguir ajuda-las a fazer isso.
+Para isso, era preciso que a própria pessoa já se conhecesse bem suficiente, para estar aberta a elas... os Magos, tinham a capacidade de conseguir ajudá-las a fazer isso.
 
 Assim sendo, a cada 100 anos, o Rei mandava emergir a Atlântida para que os Aprendizes dos 7 Sábios se espalhassem pelo mundo para começarem a sua passagem, no entanto, isso só acontecia quando todos os Sábios informavam o Rei que os seus aprendizes estavam preparados, e ele achava que era a altura certa.
 
