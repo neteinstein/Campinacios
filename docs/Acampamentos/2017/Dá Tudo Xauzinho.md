@@ -5,10 +5,12 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Zé Pedro Carneiro](../../Pessoas/Z/Z%C3%A9%20Pedro%20Carneiro.md)
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md)
 
 ## Páginas que ligam para aqui
 
 - [Francisco Dioniz Barroso Loureiro](../../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
+- [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md)
 - [Zé Pedro Carneiro](../../Pessoas/Z/Z%C3%A9%20Pedro%20Carneiro.md)
 
 ---
