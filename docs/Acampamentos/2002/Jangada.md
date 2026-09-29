@@ -30,6 +30,7 @@ O Jangada foi um acampamento de Triciclos que decorreu de 1 a 10 de Agosto de 20
 - [Pedro Castro](../../Pessoas/P/Pedro%20Castro.md)
 - [Pedro Pinheiro](../../Pessoas/P/Pedro%20Pinheiro.md)
 - [Ricardo Oliveira](../../Pessoas/R/Ricardo%20Oliveira.md)
+- [Rui Junqueira](../../Pessoas/R/Rui%20Junqueira.md)
 - [Sara Fernandes](../../Pessoas/S/Sara%20Fernandes.md)
 - [Sara Rita Sampaio](../../Pessoas/S/Sara%20Rita%20Sampaio.md)
 - [Sílvia Alexandra](../../Pessoas/S/S%C3%ADlvia%20Alexandra.md)

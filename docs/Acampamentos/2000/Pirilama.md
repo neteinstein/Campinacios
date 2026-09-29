@@ -18,9 +18,12 @@ O Pirilama foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que 
 - [Francisco Silva](../../Pessoas/F/Francisco%20Silva.md)
 - [Frederico Ferreira](../../Pessoas/F/Frederico%20Ferreira.md)
 - [Gonçalo Forte Vaz](../../Pessoas/G/Gon%C3%A7alo%20Forte%20Vaz.md)
+- [Joana Osório](../../Pessoas/J/Joana%20Os%C3%B3rio.md)
+- [João Rosa](../../Pessoas/J/Jo%C3%A3o%20Rosa.md)
 - [Juliana Silva](../../Pessoas/J/Juliana%20Silva.md)
 - [Margarida Matias](../../Pessoas/M/Margarida%20Matias.md)
 - [Mariana Turras](../../Pessoas/M/Mariana%20Turras.md)
+- [Martim Cunha Ferreira](../../Pessoas/M/Martim%20Cunha%20Ferreira.md)
 - [Pedro Pinheiro](../../Pessoas/P/Pedro%20Pinheiro.md)
 - [Rui Junqueira](../../Pessoas/R/Rui%20Junqueira.md)
 

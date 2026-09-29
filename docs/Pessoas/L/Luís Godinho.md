@@ -16,6 +16,7 @@
 
 - [Canja](../../Acampamentos/1998/Canja.md)
 - [Piolheira](../../Acampamentos/1996/Piolheira.md)
+- [Torneira](../../Acampamentos/1997/Torneira.md)
 
 ---
 

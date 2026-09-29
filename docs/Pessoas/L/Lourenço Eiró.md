@@ -8,8 +8,11 @@ Lourenço Eiró foi um dos fundadores dos [Campinácios](../../Movimento/Campin%
 - 2007/2010 - Membro da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - 1999/2001 - Membro da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - 1999/2001 - Coordenador da [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
+- 1999 - Coordenador do [Jambo 99](../../Acampamentos/1999/Jambo%2099.md)
 - 1991/1992 - Membro da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - 1991/1992 - Membro da [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
+- 1991/1992 - Coordenador do [Cagácios](../../Acampamentos/Sem%20data/Cag%C3%A1cios.md)
+- 1991 - Coordenador do [CIFA II](../../Acampamentos/Sem%20data/CIFA%20II.md)
 
 ### Acampamentos
 

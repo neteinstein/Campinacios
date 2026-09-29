@@ -7,7 +7,9 @@ Gustavo Gapo foi um dos animadores do Colégio da Imaculada Conceição.
 - **Participante**
     - ?
 - **Animador**
-    - ?
+    - 1992 [Agroal](../../Acampamentos/1992/Agroal.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 1994 [Caldiclos](../../Acampamentos/1994/Caldiclos.md)
+    - 1996 [Fibrovital](../../Acampamentos/1996/Fibrovital.md) - [Director](../../Cargos/Director.md)
 
 ## Páginas que ligam para aqui
 

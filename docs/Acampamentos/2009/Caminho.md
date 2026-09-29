@@ -139,6 +139,7 @@ Ref.
 - [Joana Cardim](../../Pessoas/J/Joana%20Cardim.md)
 - [Joana Costa](../../Pessoas/J/Joana%20Costa.md)
 - [Joana Martins](../../Pessoas/J/Joana%20Martins.md)
+- [João Cortês Ferreira](../../Pessoas/J/Jo%C3%A3o%20Cort%C3%AAs%20Ferreira.md)
 - [Jorge Ramos](../../Pessoas/J/Jorge%20Ramos.md)
 - [José Pascoal](../../Pessoas/J/Jos%C3%A9%20Pascoal.md)
 - [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)

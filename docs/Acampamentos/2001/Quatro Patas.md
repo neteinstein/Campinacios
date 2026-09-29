@@ -3,6 +3,7 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - Nuno Antunes
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [José Maria Brito](../../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md)
 
 ## Páginas que ligam para aqui
 

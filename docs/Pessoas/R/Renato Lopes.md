@@ -15,6 +15,7 @@ Renato Lopes foi de 1998 a 2004 um dos animadores do Colégio da Imaculada Conce
 - **Animador:**
     - 1999 - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2000 - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2000 [Liberata](../../Acampamentos/2000/Liberata.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2001 [Pontes](../../Acampamentos/2001/Pontes.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2004 [Troliciclos](../../Acampamentos/2004/Trolliciclos.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 

@@ -7,7 +7,7 @@ Luís Tiago Canilho é desde 2001 um dos animadores do Colégio da Imaculada Con
 ### Acampamentos
 
 - **Participante:**
-    - 1998 [Covas](../../Acampamentos/1997/Covas.md)
+    - 1998 [98 Covas](../../Acampamentos/1998/98%20Covas.md)
 - **Formação:**
     - Nenhum
 - **Animador**:

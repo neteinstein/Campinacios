@@ -39,6 +39,10 @@ matching work:
   and ask the user before creating a page or linking a name — never guess
   whether two same-named people are the same person. Validate with
   `python3 .claude/skills/nova-pessoa/scripts/pessoas.py verificar ...`.
+  Sempre que mexer em pessoas ou equipas de campos, corra também
+  `python3 .claude/skills/nova-pessoa/scripts/pessoas.py reciprocas <páginas>`
+  (ou `--todos`): os animadores têm de estar ligados nos dois sentidos; os
+  participantes não aparecem nos campos.
 - **`.claude/skills/processar-contributo/SKILL.md`** — turning a GitHub
   issue (or pasted template) submitted through
   `.github/ISSUE_TEMPLATE/*.yml` into site pages, via the two skills

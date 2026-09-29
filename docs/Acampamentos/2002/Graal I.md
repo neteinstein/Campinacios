@@ -19,6 +19,7 @@ O Graal I foi um acampamento de [Formação de Animadores](../../Categorias/Form
 - [João Paulo Moinhos](../../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md)
 - [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
 - [Luís Azevedo](../../Pessoas/L/Lu%C3%ADs%20Azevedo.md)
+- [Luís Pereira](../../Pessoas/L/Lu%C3%ADs%20Pereira.md)
 - [Marta Vilela](../../Pessoas/M/Marta%20Vilela.md)
 - [Miguel Fonseca](../../Pessoas/M/Miguel%20Fonseca.md)
 - [Renato Costa](../../Pessoas/R/Renato%20Costa.md)

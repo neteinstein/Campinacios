@@ -24,6 +24,7 @@ Campo de Formação que decorreu na casa de Singeverga na Páscoa de 2005.
 - [Francisca Mendes](../../Pessoas/F/Francisca%20Mendes.md)
 - [Francisco Silva Rodrigues](../../Pessoas/F/Francisco%20Silva%20Rodrigues.md)
 - [Joana Cardoso](../../Pessoas/J/Joana%20Cardoso.md)
+- [Joana Ferreira da Silva](../../Pessoas/J/Joana%20Ferreira%20da%20Silva.md)
 - [José da Silva Almeida](../../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
 - [José Frazão](../../Pessoas/J/Jos%C3%A9%20Fraz%C3%A3o.md)
 - [José Maria Brito](../../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md)

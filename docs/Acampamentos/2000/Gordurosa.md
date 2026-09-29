@@ -25,6 +25,7 @@ Este acampamento de Bicicletas realizou em [Santa Margarida](../../Restrito/Loca
 - [Padre Pina](../../Pessoas/P/Padre%20Pina.md)
 - [Ricardo Rodrigues](../../Pessoas/R/Ricardo%20Rodrigues.md)
 - [Susana Vaz Pedro](../../Pessoas/S/Susana%20Vaz%20Pedro.md)
+- [Tiago Figueira](../../Pessoas/T/Tiago%20Figueira.md)
 
 ---
 

@@ -7,7 +7,7 @@ O Farol foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) reali
 - [Director](../../Cargos/Director.md) - [Pedro Pinheiro](../../Pessoas/P/Pedro%20Pinheiro.md)
 - [Director Adjunto](../../Cargos/Director-Adjunto.md) - [Renato Costa](../../Pessoas/R/Renato%20Costa.md)
 - [Tia](../../Cargos/Tio.md) - [Teresa Santos](../../Pessoas/T/Teresa%20Santos.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Sílvia Reis](../../Pessoas/S/S%C3%ADlvia%20Reis.md), [Ricardo Oliveira](../../Pessoas/R/Ricardo%20Oliveira.md), [Sílvia Alexandra](../../Pessoas/S/S%C3%ADlvia%20Alexandra.md), [Bernardo Mendonça](../../Pessoas/B/Bernardo%20Mendon%C3%A7a.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Sílvia Reis](../../Pessoas/S/S%C3%ADlvia%20Reis.md), [Ricardo Oliveira](../../Pessoas/R/Ricardo%20Oliveira.md), [Sílvia Alexandra](../../Pessoas/S/S%C3%ADlvia%20Alexandra.md), [Bernardo Mendonça](../../Pessoas/B/Bernardo%20Mendon%C3%A7a.md) e [Joana Sá](../../Pessoas/J/Joana%20S%C3%A1.md)
 
 ## Páginas que ligam para aqui
 

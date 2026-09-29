@@ -23,6 +23,7 @@ O Origami foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que
 - [João Quintela](../../Pessoas/J/Jo%C3%A3o%20Quintela.md)
 - [Mafalda Pereira](../../Pessoas/M/Mafalda%20Pereira.md)
 - [Pedro Lucas](../../Pessoas/P/Pedro%20Lucas.md)
+- [Pedro Rocha Mendes](../../Pessoas/P/Pedro%20Rocha%20Mendes.md)
 - [Rita Luís](../../Pessoas/R/Rita%20Lu%C3%ADs.md)
 - [Sofia Amaral](../../Pessoas/S/Sofia%20Amaral.md)
 - [Susana Vaz Pedro](../../Pessoas/S/Susana%20Vaz%20Pedro.md)

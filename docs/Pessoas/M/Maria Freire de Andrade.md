@@ -4,6 +4,11 @@ Maria Freire de Andrade é antiga aluna do Colégio S. João de Brito, é animad
 
 É irmã do [João Freire de Andrade](../J/Jo%C3%A3o%20Freire%20de%20Andrade.md) e do Domingos Freire de Andrade.
 
+### Acampamentos
+
+- **Animadora:**
+    - 2010 [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
+
 ## Páginas que ligam para aqui
 
 - [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)

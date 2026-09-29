@@ -8,6 +8,7 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Mogui](../../Pessoas/M/Mogui.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Kiko Alves da Silva](../../Pessoas/K/Kiko%20Alves%20da%20Silva.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Afonso Espregueira](../../Pessoas/A/Afonso%20Espregueira.md) sj
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Francisco Dioniz Barroso Loureiro](../../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
 
 ## Páginas que ligam para aqui
 

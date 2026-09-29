@@ -20,6 +20,7 @@ Rita Simões é desde 2002, uma das animadoras do Colégio da Imaculada Conceiç
 - **Animador:**
     - 2003 [Graal II](../../Acampamentos/2003/Graal%20II.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
     - 2004 [Troliciclos](../../Acampamentos/2004/Trolliciclos.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2004 [Descola](../../Acampamentos/2004/Descola.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2005 [Gaivota](../../Acampamentos/2005/Gaivota.md) - [Tia](../../Cargos/Tio.md)
     - 2009 [Vi-O](../../Acampamentos/2009/Vi-O.md) - [Directora-Adjunta](../../Cargos/Director-Adjunto.md)
 
@@ -34,6 +35,7 @@ Rita Simões é desde 2002, uma das animadoras do Colégio da Imaculada Conceiç
 - [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
 - [Gaivota](../../Acampamentos/2005/Gaivota.md)
 - [Graal II](../../Acampamentos/2003/Graal%20II.md)
+- [Trolliciclos](../../Acampamentos/2004/Trolliciclos.md)
 - [Vi-O](../../Acampamentos/2009/Vi-O.md)
 
 ---

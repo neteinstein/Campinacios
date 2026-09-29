@@ -15,6 +15,7 @@
 ## Páginas que ligam para aqui
 
 - [José Ferreira](../../Movimento/Desambigua%C3%A7%C3%A3o/Jos%C3%A9%20Ferreira.md)
+- [Vi-O](../../Acampamentos/2009/Vi-O.md)
 
 ---
 

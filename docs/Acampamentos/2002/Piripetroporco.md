@@ -29,7 +29,11 @@ O Piripetroporco foi um acampamento de Trotinetas que decorreu de 4 a 13 de Agos
 - [Madalena Saraiva](../../Pessoas/M/Madalena%20Saraiva.md)
 - [Manuel Vilhena](../../Pessoas/M/Manuel%20Vilhena.md)
 - [Marta Carneiro](../../Pessoas/M/Marta%20Carneiro.md)
+- [Nuno Carrolo](../../Pessoas/N/Nuno%20Carrolo.md)
+- [Pedro Rocha Mendes](../../Pessoas/P/Pedro%20Rocha%20Mendes.md)
+- [Sílvia Sepúlveda](../../Pessoas/S/S%C3%ADlvia%20Sep%C3%BAlveda.md)
 - [Sónia Ferreira](../../Pessoas/S/S%C3%B3nia%20Ferreira.md)
+- [Tiago Figueira](../../Pessoas/T/Tiago%20Figueira.md)
 - [Tiago Monteiro](../../Pessoas/T/Tiago%20Monteiro.md)
 
 ---

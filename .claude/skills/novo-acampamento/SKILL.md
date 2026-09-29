@@ -86,8 +86,13 @@ For a rename, move or deletion, update the same places the other way round.
 
 ```sh
 python3 .claude/skills/novo-acampamento/scripts/validar.py "docs/Acampamentos/<ano>/<Nome>.md"
+python3 .claude/skills/nova-pessoa/scripts/pessoas.py reciprocas "docs/Acampamentos/<ano>/<Nome>.md"
 mkdocs build --strict
 ```
+
+`reciprocas` confirma que cada pessoa da equipa tem o campo na sua página
+(e o campo nas suas "Páginas que ligam para aqui"), e o contrário. Os
+participantes não entram no campo: o campo só lista a equipa.
 
 The validator checks the table row, the category list and its count, that
 `docs/Acampamentos/index.md` has the same table rows, page list and count

@@ -23,6 +23,7 @@ O Gispsy Kings foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md
 - [Gonçalo Belo](../../Pessoas/G/Gon%C3%A7alo%20Belo.md)
 - [Gonçalo Frade](../../Pessoas/G/Gon%C3%A7alo%20Frade.md)
 - [Guadalupe Oliveira](../../Pessoas/G/Guadalupe%20Oliveira.md)
+- [Joana Nunes](../../Pessoas/J/Joana%20Nunes.md)
 - [João Coimbra](../../Pessoas/J/Jo%C3%A3o%20Coimbra.md)
 - [João Currais](../../Pessoas/J/Jo%C3%A3o%20Currais.md)
 - [João Regueiras](../../Pessoas/J/Jo%C3%A3o%20Regueiras.md)
