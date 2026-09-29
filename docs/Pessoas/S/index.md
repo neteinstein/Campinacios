@@ -23,6 +23,7 @@
 - [Sofia Amaral](Sofia%20Amaral.md)
 - [Sofia Ângelo](Sofia%20%C3%82ngelo.md)
 - [Sofia Azevedo Cardoso](Sofia%20Azevedo%20Cardoso.md)
+- [Sofia Fernandes](Sofia%20Fernandes.md)
 - [Sofia Fonseca](Sofia%20Fonseca.md)
 - [Sofia Rebelo](Sofia%20Rebelo.md)
 - [Sónia Ferreira](S%C3%B3nia%20Ferreira.md)

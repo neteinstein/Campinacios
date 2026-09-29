@@ -19,6 +19,7 @@ Frequentou o CC de 1995 a 2008. Animadora desde 2008 até hoje.
 - **Animadora:**
     - 2009 [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
     - 2010 [Passaportas](../../Acampamentos/2010/Passaportas.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2015 [Someonelfie](../../Acampamentos/2015/Someonelfie.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
 ### Família
 
@@ -28,6 +29,7 @@ Frequentou o CC de 1995 a 2008. Animadora desde 2008 até hoje.
 
 - [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md)
 - [Passaportas](../../Acampamentos/2010/Passaportas.md)
+- [Someonelfie](../../Acampamentos/2015/Someonelfie.md)
 
 ---
 

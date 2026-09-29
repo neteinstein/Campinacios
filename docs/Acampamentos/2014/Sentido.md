@@ -5,10 +5,12 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [João Eiró](../../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md)
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
 
 ## Páginas que ligam para aqui
 
 - [João Eiró](../../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md)
+- [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
 
 ---
 

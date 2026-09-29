@@ -5,9 +5,11 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Paulo Cardoso](../../Pessoas/P/Paulo%20Cardoso.md)
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
 
 ## Páginas que ligam para aqui
 
+- [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
 - [Paulo Cardoso](../../Pessoas/P/Paulo%20Cardoso.md)
 
 ---
