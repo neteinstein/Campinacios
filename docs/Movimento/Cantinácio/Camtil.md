@@ -4,7 +4,7 @@ Músicas nascidas nos acampamentos do [Camtil](../Camtil.md), com o acampamento 
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (71 músicas)
+## Índice (70 músicas)
 
 - [30 ANOS](#30-anos)
 - [ABENÇOAI SENHOR](#abencoai-senhor) — (alternativa: We Will Rock You - Queen)
@@ -43,7 +43,6 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [MARCHA DA CAMTIL](#marcha-da-camtil) — Melgas III 2003 (Marta e Kiko Pupo)
 - [NÃO QUERO ESTAR AQUI](#nao-quero-estar-aqui) — Melgas III 2016 (Stand By Me)
 - [NHA TERRA](#nha-terra) — Cabo Verde 99
-- [O ANDRÉ E A CECÍLIA](#o-andre-e-a-cecilia) — Manel Matos (com a Cecília Miranda)
 - [OBRIGADO PELO PÃO](#obrigado-pelo-pao)
 - [O ESSENCIAL](#o-essencial) — Tremelgas 90 - Tibães
 - [O FRANGO E A GALINHA](#o-frango-e-a-galinha) — Aranhiços 2005 (Carlitos)
@@ -1563,30 +1562,6 @@ Ensinaste-me a dançar
 Uma história que ouvi contar
 Ô nha terra perdida no mar
 Cabo Verde, partir e ficar
-```
-
-### O ANDRÉ E A CECÍLIA {#o-andre-e-a-cecilia}
-
-*Manel Matos (a Cecília é a [Cecília Miranda](../../Pessoas/C/Cec%C3%ADlia%20Miranda.md))*
-
-```text
-    Dó        Fá
-O André e a Cecília
- Sol           Dó
-A beber um chá de tília
-    Dó           Fá
-A Cecília e o André
-    Sol        Dó
-A beberem um café
-
-Oh meu amor, minha paixão
-És o meu avião (2x)
-
-Um, dois, três, quatro
-
-És a marmelada do meu pão
-És fofinha como o algodão
-És o sangue que circula no meu coração
 ```
 
 ### OBRIGADO PELO PÃO {#obrigado-pelo-pao}
