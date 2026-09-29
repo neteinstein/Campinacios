@@ -10,7 +10,7 @@ O Vi-O decorreu entre os dias 22 e 31 de Agosto de 2009 em [Cornicovo (Penacova)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Pedro Cameira](../../Pessoas/P/Pedro%20Cameira.md) sj
 - [Tia](../../Cargos/Tio.md) - [Joana Costa](../../Pessoas/J/Joana%20Costa.md)
 - [Tio](../../Cargos/Tio.md) - [Mário Pedro](../../Pessoas/M/M%C3%A1rio%20Carvalho.md)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Jorge Ramos](../../Pessoas/J/Jorge%20Ramos.md), [Diogo Belo](../../Pessoas/D/Diogo%20Belo.md), [José Ferreira](../../Movimento/Desambigua%C3%A7%C3%A3o/Jos%C3%A9%20Ferreira.md)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Jorge Ramos](../../Pessoas/J/Jorge%20Ramos.md), [Diogo Belo](../../Pessoas/D/Diogo%20Belo.md), [José Ferreira](../../Pessoas/J/Jos%C3%A9%20Emanuel%20Ferreira.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Pipa](../../Pessoas/F/Filipa%20Caldas.md), [Catarina Durão Barroso](../../Pessoas/C/Catarina%20Dur%C3%A3o%20Barroso.md), [Alexandra Silva](../../Pessoas/A/Alexandra%20Silva.md), [Ana Pais](../../Pessoas/A/Ana%20Pais.md),  [Joana Almeida](../../Pessoas/J/Joana%20Almeida.md), [José António Lima](../../Pessoas/J/Jos%C3%A9%20Ant%C3%B3nio%20Lima.md)
 
 ## Páginas que ligam para aqui

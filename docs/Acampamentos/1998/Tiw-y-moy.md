@@ -7,7 +7,7 @@ Foi realizado em Porto da Balsa, na Serra do Açor, tendo tido uma caminha muito
 - [Director](../../Cargos/Director.md) - [Gonçalo Graça](../../Pessoas/G/Gon%C3%A7alo%20Gra%C3%A7a.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Diana Quintela](../../Pessoas/D/Diana%20Quintela.md)
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - [João Regueiras](../../Pessoas/J/Jo%C3%A3o%20Regueiras.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Sofia Azevedo Cardoso](../../Pessoas/S/Sofia%20Azevedo%20Cardoso.md), [Lúcia Vaz Pato](../../Pessoas/L/L%C3%BAcia%20Vaz%20Pato.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Sofia Azevedo Cardoso](../../Pessoas/S/Sofia%20Azevedo%20Cardoso.md), [Lúcia Vaz Pato](../../Pessoas/L/L%C3%BAcia%20Vaz%20Pato.md) e [Diana Gapo](../../Pessoas/D/Diana%20Gapo.md)
 
 ### Curiosidades
 

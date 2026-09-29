@@ -14,6 +14,7 @@
 ## Páginas que ligam para aqui
 
 - [TiaGO Reis](../../Pessoas/T/TiaGO%20Reis.md)
+- [Vítor Fernandes](../../Pessoas/V/V%C3%ADtor%20Fernandes.md)
 
 ---
 

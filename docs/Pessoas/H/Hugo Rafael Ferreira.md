@@ -12,6 +12,8 @@ Hugo Rafael Ferreira foi de 1996 a 2008 um dos animadores do Colégio da Imacula
     - Nenhum
 - **Animador:**
     - 1999 [Koalas](../../Acampamentos/1999/Koalas.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2000 [Gurugnu](../../Acampamentos/2000/Gurugnu.md) - [Director](../../Cargos/Director.md)
+    - 2000 [Liberata](../../Acampamentos/2000/Liberata.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2004 [Trolliciclos](../../Acampamentos/2004/Trolliciclos.md) - [Director](../../Cargos/Director.md)
 
 ### Família

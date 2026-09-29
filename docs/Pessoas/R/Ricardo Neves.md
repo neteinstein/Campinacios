@@ -20,6 +20,7 @@
     - 2007 [Baza](../../Acampamentos/2007/Baza.md) - [Director Adjunto](../../Cargos/Director-Adjunto.md)
     - 2008 [Eureka](../../Acampamentos/2008/Eureka.md) - [Director](../../Cargos/Director.md)
     - 2009 [Bublix](../../Acampamentos/2009/Bublix.md) - [Director](../../Cargos/Director.md)
+    - 2010 [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
 
 ## Páginas que ligam para aqui
 

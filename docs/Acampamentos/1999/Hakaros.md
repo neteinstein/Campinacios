@@ -21,6 +21,7 @@ O Hakaros foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que
 - [Maria Fernandes](../../Pessoas/M/Maria%20Fernandes.md)
 - [Maria Margarida Sancho](../../Pessoas/M/Maria%20Margarida%20Sancho.md)
 - [Marta Gonçalves](../../Pessoas/M/Marta%20Gon%C3%A7alves.md)
+- [Pedro Pessoa](../../Pessoas/P/Pedro%20Pessoa.md)
 - [Raquel Mesquita](../../Pessoas/R/Raquel%20Mesquita.md)
 - [Tiago Brandão Rodrigues](../../Pessoas/T/Tiago%20Brand%C3%A3o%20Rodrigues.md)
 

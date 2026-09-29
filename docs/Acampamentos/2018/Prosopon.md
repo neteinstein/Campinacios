@@ -9,6 +9,7 @@
 ## Páginas que ligam para aqui
 
 - [Renato Lobo](../../Pessoas/R/Renato%20Lobo.md)
+- [Vicente Goes](../../Pessoas/V/Vicente%20Goes.md)
 
 ---
 

@@ -8,7 +8,7 @@ Realizou-se na [Quinta da Mata (Ponte da Barca)](../../Restrito/Locais%20de%20Ac
 
 - [Director](../../Cargos/Director.md) - [João Goulão](../../Pessoas/J/Jo%C3%A3o%20Goul%C3%A3o.md) sj
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Ana Ribeiro](../../Pessoas/A/Ana%20Ribeiro.md)
-- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Pica](../../Movimento/Desambigua%C3%A7%C3%A3o/Pica.md)
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Pica](../../Pessoas/F/Francisco%20Silva%20Rodrigues.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [António Valério](../../Pessoas/A/Ant%C3%B3nio%20Val%C3%A9rio.md) sj
 - [Tia](../../Cargos/Tio.md) - [Mafalda Coelho](../../Pessoas/M/Mafalda%20Coelho.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Ana Martins](../../Pessoas/A/Ana%20Martins.md), [Madalena Mariz](../../Pessoas/M/Madalena%20Mariz.md), [Vítor Fernandes](../../Pessoas/V/V%C3%ADtor%20Fernandes.md), [Tiago Carneiro](../../Pessoas/T/Tiago%20Carneiro.md), [Bruno Azevedo](../../Pessoas/B/Bruno%20Azevedo.md) e [Pedro Snow](../../Pessoas/P/Pedro%20Snow.md)

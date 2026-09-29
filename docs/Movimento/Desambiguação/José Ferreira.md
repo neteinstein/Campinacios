@@ -9,8 +9,6 @@
 
 ## Páginas que ligam para aqui
 
-- [Vi-O](../../Acampamentos/2009/Vi-O.md)
-
 ---
 
 | Categorias |

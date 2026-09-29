@@ -14,6 +14,7 @@
 
 ## Páginas que ligam para aqui
 
+- [Academia](../../Acampamentos/2005/Academia.md)
 - [Inês Turras](../I/In%C3%AAs%20Turras.md)
 - [Mariana Turras](../M/Mariana%20Turras.md)
 - [Rita Turras](../R/Rita%20Turras.md)

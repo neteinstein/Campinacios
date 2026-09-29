@@ -17,6 +17,7 @@ Foi neste campo que foi composta a música "Poema Lindo" por Chico Maria (ver [C
 - [Irina Ramos](../../Pessoas/I/Irina%20Ramos.md)
 - [Joana Sá](../../Pessoas/J/Joana%20S%C3%A1.md)
 - [Marta Carneiro](../../Pessoas/M/Marta%20Carneiro.md)
+- [Martim Cunha Ferreira](../../Pessoas/M/Martim%20Cunha%20Ferreira.md)
 
 ---
 

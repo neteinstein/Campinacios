@@ -48,6 +48,7 @@ Este acampamento de [Lambretas](../../Categorias/Lambretas.md) realizou em [Vila
 - [Nuno Branco](../../Pessoas/N/Nuno%20Branco.md)
 - [Pedro Jorge Ramos](../../Pessoas/P/Pedro%20Jorge%20Ramos.md)
 - [Renato Costa](../../Pessoas/R/Renato%20Costa.md)
+- [Rui Junqueira](../../Pessoas/R/Rui%20Junqueira.md)
 - [Sílvia Reis](../../Pessoas/S/S%C3%ADlvia%20Reis.md)
 - [Tiago Gonçalves](../../Pessoas/T/Tiago%20Gon%C3%A7alves.md)
 - [Tânia Rodrigues](../../Pessoas/T/T%C3%A2nia%20Rodrigues.md)

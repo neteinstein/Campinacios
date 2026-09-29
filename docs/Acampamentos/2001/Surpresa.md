@@ -24,6 +24,7 @@ O Surpresa foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que 
 - [João Paulo Moinhos](../../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md)
 - [Juliana Silva](../../Pessoas/J/Juliana%20Silva.md)
 - [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
+- [Madalena Reis](../../Pessoas/M/Madalena%20Reis.md)
 - [Manuel Vilhena](../../Pessoas/M/Manuel%20Vilhena.md)
 - [Margarida Maury](../../Pessoas/M/Margarida%20Maury.md)
 - [Nuno Carvalho](../../Pessoas/N/Nuno%20Carvalho.md)

@@ -20,6 +20,7 @@ O Pavio foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) que dec
 - [Margarida Rodrigues](../../Pessoas/M/Margarida%20Rodrigues.md)
 - [Marta Santos](../../Pessoas/M/Marta%20Santos.md)
 - [Ricardo Oliveira](../../Pessoas/R/Ricardo%20Oliveira.md)
+- [Rita Antunes](../../Pessoas/R/Rita%20Antunes.md)
 - [Sofia Azevedo Cardoso](../../Pessoas/S/Sofia%20Azevedo%20Cardoso.md)
 - [Sílvia Reis](../../Pessoas/S/S%C3%ADlvia%20Reis.md)
 

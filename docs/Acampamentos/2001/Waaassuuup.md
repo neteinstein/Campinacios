@@ -21,6 +21,8 @@ O Waaassuuup foi um acampamento de Bicicletas que decorreu de 4 a 13 de Agosto d
 - [Gonçalo Belo](../../Pessoas/G/Gon%C3%A7alo%20Belo.md)
 - [Gonçalo Frade](../../Pessoas/G/Gon%C3%A7alo%20Frade.md)
 - [Hermínio Vitorino](../../Pessoas/H/Herm%C3%ADnio%20Vitorino.md)
+- [Joana Ferreira](../../Pessoas/J/Joana%20Ferreira.md)
+- [Joana Nunes](../../Pessoas/J/Joana%20Nunes.md)
 - [João Coimbra](../../Pessoas/J/Jo%C3%A3o%20Coimbra.md)
 - [João Regueiras](../../Pessoas/J/Jo%C3%A3o%20Regueiras.md)
 - [Madalena Mariz](../../Pessoas/M/Madalena%20Mariz.md)
@@ -30,6 +32,7 @@ O Waaassuuup foi um acampamento de Bicicletas que decorreu de 4 a 13 de Agosto d
 - [Ricardo Neves](../../Pessoas/R/Ricardo%20Neves.md)
 - [Rita Reis](../../Pessoas/R/Rita%20Reis.md)
 - [Soraia Ramos](../../Pessoas/S/Soraia%20Ramos.md)
+- [Tiago Figueira](../../Pessoas/T/Tiago%20Figueira.md)
 
 ---
 

@@ -6,7 +6,7 @@ O Nómada foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que
 
 - [Director](../../Cargos/Director.md) - [Zebra](../../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md) sj
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Ana Salgado](../../Pessoas/A/Ana%20Salgado.md)
-- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Pica](../../Movimento/Desambigua%C3%A7%C3%A3o/Pica.md)
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Pica](../../Pessoas/F/Francisco%20Silva%20Rodrigues.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj e Francisco Campos sj
 - [Tias](../../Cargos/Tio.md) - [Diana Pereira](../../Pessoas/D/Diana%20Pereira.md) e [Juliana Fernandes](../../Pessoas/J/Juliana%20Fernandes.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Bernardo Mendonça](../../Pessoas/B/Bernardo%20Mendon%C3%A7a.md), [Zé Aves](../../Pessoas/J/Jos%C3%A9%20Miguel%20Fernandes.md) e [Gonçalo Carvalho](../../Pessoas/G/Gon%C3%A7alo%20Lu%C3%ADs%20Carvalho.md)

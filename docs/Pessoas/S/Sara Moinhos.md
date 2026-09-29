@@ -7,6 +7,8 @@
     - 2005 [Megafona](../../Acampamentos/2005/Megafona.md)
     - 2007 [Baúmerang](../../Acampamentos/2007/Ba%C3%BAmerang.md)
     - 2008 [Era Uma Vez...](../../Acampamentos/2008/Era%20Uma%20Vez....md)
+- **Animador(a):**
+    - 2010 [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
 
 ### Família
 

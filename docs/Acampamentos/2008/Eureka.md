@@ -6,7 +6,7 @@ O Eureka foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) e de
 
 - [Director](../../Cargos/Director.md) - [Ricardo Neves](../../Pessoas/R/Ricardo%20Neves.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Mafalda Coelho](../../Pessoas/M/Mafalda%20Coelho.md)
-- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Pica](../../Movimento/Desambigua%C3%A7%C3%A3o/Pica.md)
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Pica](../../Pessoas/F/Francisco%20Silva%20Rodrigues.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Zebra](../../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md) sj e Pedro Dias sj
 - [Tia](../../Cargos/Tio.md) - [Joana Cardoso](../../Pessoas/J/Joana%20Cardoso.md)
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - [Zé Aves](../../Pessoas/J/Jos%C3%A9%20Miguel%20Fernandes.md), [Filipe Barroso](../../Pessoas/F/Filipe%20Barroso.md)

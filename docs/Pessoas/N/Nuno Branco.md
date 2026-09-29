@@ -3,6 +3,7 @@
 ### Acampamentos
 
 - **Animador**
+    - 2004 [Ídolo](../../Acampamentos/2004/%C3%8Ddolo.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2005 [Fófinhos](../../Acampamentos/2005/F%C3%B3finhos.md) - [Capelinho](../../Cargos/Capelinho.md)
     - 2006 [Xii Tava Kuase Lá...!](../../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md) - [Capelinho](../../Cargos/Capelinho.md)
     - 2007 [Baúmerang](../../Acampamentos/2007/Ba%C3%BAmerang.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)

@@ -15,6 +15,7 @@ CIFA é um acrónimo para Curso Intensivo de Formação de Animadores. Em 91/92 
 - [Filipe Queiroz e Melo](../../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md)
 - [Gonçalo Eiró](../../Pessoas/G/Gon%C3%A7alo%20Eir%C3%B3.md)
 - [José Manuel Filgueiras](../../Pessoas/J/Jos%C3%A9%20Manuel%20Filgueiras.md)
+- [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
 
 ---
 

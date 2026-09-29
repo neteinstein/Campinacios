@@ -8,6 +8,7 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Carminho Simões de Almeida](../../Pessoas/C/Carminho%20Sim%C3%B5es%20de%20Almeida.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Nando Monteiro](../../Pessoas/F/Fernando%20Monteiro.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Carvalho](../../Pessoas/C/Carlos%20Carvalho.md) sj
+- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Francisco Dioniz Barroso Loureiro](../../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
 
 ## Páginas que ligam para aqui
 

@@ -11,6 +11,7 @@
 
 - **Animador:**
     - 2009 [Tira as rodinhas](../../Acampamentos/2009/Tira%20as%20rodinhas.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2010 [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
 
 ## Páginas que ligam para aqui
 

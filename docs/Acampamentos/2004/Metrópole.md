@@ -30,6 +30,7 @@ O Metrópole decorreu na [Sibana](../../Restrito/Locais%20de%20Acampamento/Siban
 - [Gonçalo Machado](../../Pessoas/G/Gon%C3%A7alo%20Machado.md)
 - [Gonçalo Vaz Pedro](../../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md)
 - [Joana Ferreira da Silva](../../Pessoas/J/Joana%20Ferreira%20da%20Silva.md)
+- [Joana Nunes](../../Pessoas/J/Joana%20Nunes.md)
 - [José Maria Brito](../../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md)
 - [João Nuno Fonseca](../../Pessoas/J/Jo%C3%A3o%20Nuno%20Fonseca.md)
 - [Manuel Vilhena](../../Pessoas/M/Manuel%20Vilhena.md)
@@ -37,6 +38,8 @@ O Metrópole decorreu na [Sibana](../../Restrito/Locais%20de%20Acampamento/Siban
 - [Mariana Roxo](../../Pessoas/M/Mariana%20Roxo.md)
 - [Marta Carneiro](../../Pessoas/M/Marta%20Carneiro.md)
 - [Patrícia Cabaço](../../Pessoas/P/Patr%C3%ADcia%20Caba%C3%A7o.md)
+- [Ricardo Amado](../../Pessoas/R/Ricardo%20Amado.md)
+- [Tiago Figueira](../../Pessoas/T/Tiago%20Figueira.md)
 - [Tiago Gonçalves](../../Pessoas/T/Tiago%20Gon%C3%A7alves.md)
 
 ---
