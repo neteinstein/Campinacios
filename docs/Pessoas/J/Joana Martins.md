@@ -24,6 +24,7 @@ Joana Maria da Silva Martins, nascida a 4 de Outubro de 1985, é animadora do CC
 
 ## Páginas que ligam para aqui
 
+- [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
 - [Caminho](../../Acampamentos/2009/Caminho.md)
 - [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md)
 - [Gaivota](../../Acampamentos/2005/Gaivota.md)
