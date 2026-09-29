@@ -9,6 +9,7 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Formiga](../../Pessoas/F/Formiga.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Bruno Nobre](../../Pessoas/B/Bruno%20Nobre.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Gonçalo Pedrosa](../../Pessoas/G/Gon%C3%A7alo%20Pedrosa.md) sj
+- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Francisco Dioniz Barroso Loureiro](../../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
 
 ## Páginas que ligam para aqui
 

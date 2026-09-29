@@ -45,6 +45,7 @@ Tiago Neves Bahia, nascido a 6 de Março de 1987, é animador do CC desde 2005.
 - [Conteúdos](../../Wikin%C3%A1cios/Conte%C3%BAdos.md)
 - [Contribuidores](../../Wikin%C3%A1cios/Contribuidores.md)
 - [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md)
+- [Dá Tudo Xauzinho](../../Acampamentos/2017/D%C3%A1%20Tudo%20Xauzinho.md)
 - [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - [Dá Tudo Xauzinho](../../Acampamentos/2017/D%C3%A1%20Tudo%20Xauzinho.md)
 - [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md)

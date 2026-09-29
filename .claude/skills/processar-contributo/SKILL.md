@@ -67,17 +67,23 @@ children.
 - **Pessoas em Acampamentos**: each "Ano - Acampamento - Pessoa - Papel"
   line needs both the camp and the person to already have a page — if
   either doesn't, ask whether to create it (via `novo-acampamento` /
-  `nova-pessoa`) or leave that line for later. Add the line on both sides:
-  the camp's `### Animadores`/`### Participantes` and the person's
-  `### Acampamentos`, plus the backlink on each page.
-- **Participantes de um Acampamento**: for a camp whose escalão is
-  Calhambeques or Formação de Animadores, add each participant to the
-  camp's `### Participantes` and, for those with a page, the camp to their
-  `### Acampamentos`. For any other escalão, the names are minors and must
-  not be published — **except** a name that already has a page as
-  Animador(a): that page proves they're an adult, so add them as usual
-  (camp's `### Participantes` and their own `### Acampamentos`). Everyone
-  else on a restricted-escalão camp: ask instead of publishing.
+  `nova-pessoa`) or leave that line for later. Um animador escreve-se nos
+  dois lados: na equipa do campo (`### Animadores`) e em `### Acampamentos`
+  da pessoa. Um Participante ou quem esteve em Formação escreve-se só na
+  página da pessoa: o campo só tem a equipa. Em todos os casos, cada página
+  entra em "Páginas que ligam para aqui" da outra.
+- **Participantes de um Acampamento**: os participantes nunca se
+  acrescentam à página do campo, que só tem a equipa de animação. Num campo
+  de Calhambeques ou Formação de Animadores, cada participante que já tem
+  página ganha o campo em `### Acampamentos` (**Participante**, ou
+  **Formação** num campo de Formação de Animadores), e o campo ganha-o em
+  "Páginas que ligam para aqui". Para quem ainda não tem página, pergunte
+  ao utilizador se se cria (`nova-pessoa`); se não, o nome não se publica.
+  Noutro escalão os nomes são de menores e não se publicam — **excepto**
+  quem já tem página como Animador(a), que prova que é adulto: acrescente o
+  campo à página dessa pessoa, como acima. Toda a outra pessoa num campo de
+  escalão restrito: pergunte em vez de publicar. As secções
+  `### Participantes` que já existem em alguns campos ficam como estão.
 - **Remoção de Informação**: a request to remove, correct or hide the
   sender's own data. Verify it is about the sender (or someone who
   authorised them) before acting — if that's unclear, ask rather than

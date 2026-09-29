@@ -4,7 +4,7 @@ Bora Bora foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que s
 
 ### Animadores
 
-- [Director](../../Cargos/Director.md) - [Pica](../../Movimento/Desambigua%C3%A7%C3%A3o/Pica.md)
+- [Director](../../Cargos/Director.md) - [Pica](../../Pessoas/F/Francisco%20Silva%20Rodrigues.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Diana Pereira](../../Pessoas/D/Diana%20Pereira.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Diogo Torcato](../../Pessoas/D/Diogo%20Torcato.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md) sj

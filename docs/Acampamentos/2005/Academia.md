@@ -9,7 +9,7 @@ Academia foi um acampamento de Triciclos que se realizou em [Digueifel](../../Re
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Gonçalo Garcia](../../Pessoas/G/Gon%C3%A7alo%20Garcia.md)
 - [Tias](../../Cargos/Tio.md) - [Andreia Pereira](../../Pessoas/A/Andreia%20Pereira.md) e [Mafalda Pereira](../../Pessoas/M/Mafalda%20Pereira.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md)- [Francisco Penetra](../../Pessoas/F/Francisco%20Penetra.md) e [Pedro Rodrigues](../../Pessoas/P/Pedro%20Rodrigues.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [João Quintela](../../Pessoas/J/Jo%C3%A3o%20Quintela.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [João Quintela](../../Pessoas/J/Jo%C3%A3o%20Quintela.md), [Pedro Turras](../../Pessoas/P/Pedro%20Turras.md) e [Rita Turras](../../Pessoas/R/Rita%20Turras.md)
 
 ## Páginas que ligam para aqui
 

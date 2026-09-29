@@ -4,7 +4,7 @@ Este acampamento de [Trotinetas](../../Categorias/Trotinetas.md) decorreu 19 a 2
 
 ### Animadores
 
-- [Director](../../Cargos/Director.md) - [Hugo Coelho](../../Pessoas/H/Hugo%20Coelho.md)
+- [Director](../../Cargos/Director.md) - [Hugo Coelho](../../Pessoas/H/Hugo%20Coelho.md) e [Paulo Pimenta](../../Pessoas/P/Paulo%20Pimenta.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [São Martinho](../../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [José Alexandre](../../Pessoas/J/Jos%C3%A9%20Alexandre.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Zé Lopes](../../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md) sj
@@ -14,7 +14,10 @@ Este acampamento de [Trotinetas](../../Categorias/Trotinetas.md) decorreu 19 a 2
 
 ## Páginas que ligam para aqui
 
+- [Ana Marques](../../Pessoas/A/Ana%20Marques.md)
+- [Carla Resende](../../Pessoas/C/Carla%20Resende.md)
 - [Conceição Martinho](../../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)
+- [Fátima Paulino](../../Pessoas/F/F%C3%A1tima%20Paulino.md)
 - [Hugo Coelho](../../Pessoas/H/Hugo%20Coelho.md)
 - [Inês Serra Ferreira](../../Pessoas/I/In%C3%AAs%20Serra%20Ferreira.md)
 - [João Correia](../../Pessoas/J/Jo%C3%A3o%20Correia.md)
@@ -22,6 +25,8 @@ Este acampamento de [Trotinetas](../../Categorias/Trotinetas.md) decorreu 19 a 2
 - [José Manuel Lopes](../../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md)
 - [Martim](../../Pessoas/M/Martim.md)
 - [Paulo Pimenta](../../Pessoas/P/Paulo%20Pimenta.md)
+- [Ricardo Simões](../../Pessoas/R/Ricardo%20Sim%C3%B5es.md)
+- [Teresa Martinho](../../Pessoas/T/Teresa%20Martinho.md)
 - [Xico](../../Pessoas/X/Xico.md)
 
 ---

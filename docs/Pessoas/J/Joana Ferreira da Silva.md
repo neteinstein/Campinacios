@@ -18,6 +18,7 @@ Joana Silva ou,depois de casada, Joana Viana Lopes.
     - 2003 [Genesis](../../Acampamentos/2003/G%C3%A9nesis%202003%20d.C..md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2004 [Metrópole](../../Acampamentos/2004/Metr%C3%B3pole.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2005 [Terra do Nunca](../../Acampamentos/2005/Terra%20do%20Nunca.md) - [Directora](../../Cargos/Director.md)
+    - 2005 [Casca de Banana](../../Acampamentos/2005/Casca%20de%20Banana.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2006 [XS](../../Acampamentos/2006/XS.md) - [Directora](../../Cargos/Director.md)
     - 2007 [Diz Que Sim](../../Acampamentos/2007/Diz%20Que%20Sim.md) - [Directora](../../Cargos/Director.md)
 

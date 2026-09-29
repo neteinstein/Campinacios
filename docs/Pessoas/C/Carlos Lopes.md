@@ -2,6 +2,13 @@
 
 Carlos Lopes foi um dos animadores do Colégio da Imaculada Conceição.
 
+### Acampamentos
+
+- **Animador:**
+    - 1989 [Pedreira](../../Acampamentos/1989/Pedreira.md)
+    - 1990 [Alfa](../../Acampamentos/1990/Alfa.md)
+    - 1991 [CAmpIC 91](../../Acampamentos/1991/CAmpIC%2091.md) - [Director](../../Cargos/Director.md)
+
 ## Páginas que ligam para aqui
 
 - [Alfa](../../Acampamentos/1990/Alfa.md)

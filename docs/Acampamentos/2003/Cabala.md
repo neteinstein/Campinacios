@@ -27,13 +27,17 @@ O Cabala foi um acampamento de Bicicletas que decorreu de 2 a 11 de Agosto de 20
 - [Isa Neves](../../Pessoas/I/Isa%20Neves.md)
 - [Joana Cardoso](../../Pessoas/J/Joana%20Cardoso.md)
 - [Joana Gomes](../../Pessoas/J/Joana%20Gomes.md)
+- [João Pedro Carlos](../../Pessoas/J/Jo%C3%A3o%20Pedro%20Carlos.md)
+- [João Reis](../../Pessoas/J/Jo%C3%A3o%20Reis.md)
 - [José Miguel Fernandes](../../Pessoas/J/Jos%C3%A9%20Miguel%20Fernandes.md)
 - [João Coimbra](../../Pessoas/J/Jo%C3%A3o%20Coimbra.md)
 - [Juliana Fernandes](../../Pessoas/J/Juliana%20Fernandes.md)
+- [Madalena Reis](../../Pessoas/M/Madalena%20Reis.md)
 - [Maria João Simões](../../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
 - [Martinho Lucas Pires](../../Pessoas/M/Martinho%20Lucas%20Pires.md)
 - [Mário Carvalho](../../Pessoas/M/M%C3%A1rio%20Carvalho.md)
 - [Rui Nunes](../../Pessoas/R/Rui%20Nunes.md)
+- [Sara Ramalho](../../Pessoas/S/Sara%20Ramalho.md)
 
 ---
 

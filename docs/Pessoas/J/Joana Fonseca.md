@@ -12,6 +12,12 @@
     - 2009 [Incrível](../../Acampamentos/2009/Incr%C3%ADvel.md) - [Tia](../../Cargos/Tio.md)
     - 2010 [Walkabout](../../Acampamentos/2010/Walkabout.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
+### Acampamentos
+
+- **Animadora:**
+    - 2009 [Incrível](../../Acampamentos/2009/Incr%C3%ADvel.md) - [Tia](../../Cargos/Tio.md)
+    - 2010 [Walkabout](../../Acampamentos/2010/Walkabout.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
+
 ## Páginas que ligam para aqui
 
 - [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)

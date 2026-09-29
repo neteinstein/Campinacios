@@ -16,7 +16,7 @@
     - 1995 [Benfeita 95](../../Acampamentos/1995/Benfeita%2095.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 1996 [Caldelas](../../Acampamentos/1996/Caldelas.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 1997 [Aranha](../../Acampamentos/1997/Aranha.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
-    - 1998 [Covas](../../Acampamentos/1997/Covas.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 1998 [98 Covas](../../Acampamentos/1998/98%20Covas.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 1998 [Além](../../Acampamentos/1998/Al%C3%A9m.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 1999 [Gipsy Kings](../../Acampamentos/1999/Gipsy%20Kings.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2000 [Gordurosa](../../Acampamentos/2000/Gordurosa.md) - [Director](../../Cargos/Director.md)
