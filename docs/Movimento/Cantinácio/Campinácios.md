@@ -16,7 +16,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [PÃO COM MANTEIGA](#pao-com-manteiga)
 - [PÁRA E REPARA](#para-e-repara) — Campo Graal II (2003)
 - [POEMA LINDO](#poema-lindo) — Campo Mountain Bike (Chico Maria)
-- [RADROCA](#radroca) — adaptação de uma música do Camtil
+- [RADROCA](#radroca) — adaptação de uma música do Camtil para o Gaivota 2005
 - [SÓIS HÁ MUITOS](#sois-ha-muitos)
 - [VEM ACUDIR](#vem-acudir) — Hino da Novela do Campo Long Tao (2006)
 
@@ -421,7 +421,7 @@ Dás-me força para explodir.
 
 ### RADROCA {#radroca}
 
-*Adaptação de uma música do [Camtil](../Camtil.md)*
+*Adaptação de uma música do [Camtil](../Camtil.md) para o [Gaivota](../../Acampamentos/2005/Gaivota.md) (2005)*
 
 ```text
 Acorda aí, acorda vai,
