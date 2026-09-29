@@ -1,6 +1,6 @@
 # GANZA
 
-O nome deste acampamento é acrónimo de: **G**rupo de **A**nimadores **N**a **Z**ona de **A**lferrarede.
+O nome deste acampamento é acrónimo de: **G**rupo de **A**migos **N**a **Z**ona de **A**lferrarede.
 
 ### Animadores
 
