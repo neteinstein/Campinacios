@@ -7,6 +7,9 @@
 - [Director](../../Cargos/Director.md) - [Lourenço Beato](../../Pessoas/L/Louren%C3%A7o%20Beato.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Marga Faria](../../Pessoas/M/Marga%20Faria.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Zé Guedes](../../Pessoas/Z/Z%C3%A9%20Guedes.md)
+- [Tia](../../Cargos/Tio.md) - Teresa Cannas, Marta Martins
+- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Ana Isabel Martins, Manuel Cardoso, Daniela Gonçalves, José Cabelo, Carolina Morão (Káká), Mariana Cortez
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - Martim Nunes (Tina), Matilde Silva, Pedro Oliveira (Oli), Guilherme Balhau
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Miranda](../../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Francisco Cortês Ferreira](../../Pessoas/F/Francisco%20Cort%C3%AAs%20Ferreira.md) sj
 - [Capelinho](../../Cargos/Capelinho.md) - [Diogo Maria Carvalho](../../Pessoas/D/Diogo%20Maria%20Carvalho.md) nsj
