@@ -68,44 +68,6 @@ Voltam para o mundo, ousando tentar fazer a diferença! (Fim do campo)
 
 *Fim da História*
 
-## Hino
-
-O dia acordou cinzento
-
-Triste como tudo
-
-Desafiaste o vento
-
-E foste mudar o mundo
-
-Uuuuuuoooooooooo
-
-REFRÃO:
-
-Onde pára a Atlântida?
-
-Para fora tens de ir,
-
-Onde pára a Atlântida?
-
-Vamos lá descobrir...
-
-Bravo jovem Atlânte
-
-Que da água emergiste
-
-Dá-te aos outros, sê marcante
-
-Prova que Deus existe!
-
-Uuuuuuoooooooooo
-
-REFRÃO
-
-OPA!!!! PARA FORA AQUI E AGORA!!!!
-
-REFRÃO
-
 ## Amigo Secreto
 
 Secreto,
