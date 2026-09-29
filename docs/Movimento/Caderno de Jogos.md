@@ -11,6 +11,8 @@ necessário, a duração, os objectivos e as regras. Complementa o
   [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md), tendo como modelo os arquivos de jogos
   do Arquivo do [CAIC](CAIC.md).
 - A versão aqui transcrita é a de 18 de Outubro de 2012.
+- Os jogos de [Jogos Tradicionais](#jogos-tradicionais) em diante foram acrescentados mais
+  tarde, a partir de fichas de jogo individuais que não tinham entrado nessa versão.
 - A maioria dos autores dos jogos ficaram perdidos no tempo e podem não ser recuperáveis.
   Deixamos aqui uma referência a quem os ajudou a ser adicionados aqui, e caso seja conhecido
   adicionaremos o autor com essa mesma indicação.
@@ -1251,6 +1253,223 @@ pintar a cara de cada animador; música; papel de cenário; tesoura; mochila; m�
 do filme, para o número de miúdos de uma equipa; um alguidar e uma toalha; papéis pequenos,
 um para cada participante; canetas; papéis com sentimentos e papéis com frases; micado
 gigante.
+
+## Jogos Tradicionais
+
+*Adicionado por: desconhecido*
+
+Três jogos tradicionais, jogados por equipas.
+
+- *Escalada escorregadia* — **Duração:** 5 minutos por equipa. **Objectivo:** manter o
+  equilíbrio e chegar ao topo em 5 minutos. **Material:** uma lona e uma corda ensaboada,
+  com alguns nós para se poder subir agarrado a ela. Numa inclinação estende-se a lona, um
+  pouco molhada e também ensaboada; cada equipa tem de a subir enquanto se conta o tempo.
+  Ver também *A língua do dragão*, no [Banzai](#banzai).
+- *Cantil* — **Material:** cantis. Divide-se o campo em 2 metades e faz-se uma estafeta:
+  cada um corre o mais depressa que puder até ao cantil, dá-lhe 10 a 12 voltas e corre de
+  volta para a sua equipa, tocando na mão do corredor seguinte. Ganha a equipa mais rápida.
+- *Garrafa cheia* — **Duração:** 10 minutos por jogada. **Objectivo:** encher uma garrafa
+  com água o mais depressa possível. **Material:** palhinhas; garrafas (de vinho, por
+  exemplo); bacias com água. As equipas estão em fila; cada participante corre até à bacia,
+  enche a boca de água, vai até à garrafa da sua equipa e enche-a o mais rapidamente
+  possível. Ao regressar à linha de partida vai para o fim da fila e toca na mão do
+  participante seguinte, que parte para encher a boca.
+
+## Pega a Galinha
+
+*Adicionado por: [Martinho Lucas Pires](../Pessoas/M/Martinho%20Lucas%20Pires.md)*
+
+**Data da ficha:** 18 de Junho de 2007.
+
+**Material:** lenços de equipa; corda ou fita; um chapéu branco.
+
+**Objectivo:** como o nome indica, apanhar uma galinha.
+
+**Preparação:** escolhe-se um sítio espaçoso e delimita-se com a fita ou a corda um grande
+círculo. Dentro dele, cada equipa faz uma roda, com todos virados para fora, e prendem os
+pulsos aos colegas do lado com os lenços de equipa (que não magoam); só dois membros de cada
+equipa ficam de pulso livre. As equipas espalham-se à volta do círculo, separadas por alguma
+distância, excepto uma, que vai para o centro. No esquema da ficha, com 7 equipas, ficam à
+volta a vermelha, a verde, a laranja, a verde-escura, a amarela e a azul-bebé (por esta
+ordem, no sentido contrário ao dos ponteiros do relógio), e a roxa no centro.
+
+**Jogo:** a Galinha é um membro da última equipa do percurso (a azul-bebé, no esquema) e
+distingue-se pelo chapéu branco. Começa o jogo dentro da roda — a "capoeira" — da primeira
+equipa (a vermelha). As equipas de fora jogam contra a do centro: quando se apita, têm de
+levar a Galinha de capoeira em capoeira, no sentido contrário ao dos ponteiros do relógio,
+desde a primeira equipa até à última. Ao chegar ao pé da equipa seguinte, abrem as "portas"
+e deixam a Galinha passar para a outra capoeira. Mas cada equipa tem só um minuto para
+passar a Galinha à seguinte; se não o conseguir, tem de a deixar fugir. A Galinha só anda ao
+pé-coxinho.
+
+**Pega a Galinha!** Quando a Galinha foge da roda, a equipa do centro tem um minuto e meio
+para a apanhar, e só pode "abrir as portas" quando estiver perto dela. A Galinha não pode
+sair do círculo, e as outras equipas ficam paradas no seu lugar ("frisadas", de *freeze*).
+
+**Pontuação:** se a Galinha fizer o percurso todo, todas as equipas de fora ganham 2 pontos;
+se não, cada capoeira que a conseguiu passar à seguinte ganha 1 ponto; se a equipa do centro
+a apanhar, ganha 3 pontos. Ganha a equipa com mais pontos.
+
+**FAQ (Frequentes Alucinações Questionáveis):**
+
+- *O tempo tem de ser mesmo um minuto para passar a Galinha e minuto e meio para a apanhar?*
+  Não, é o tempo base: os animadores ajustam-no ao terreno, ao espaço e ao escalão. Mas a
+  equipa do centro tem de ter mais tempo para apanhar a Galinha, que anda à solta (embora ao
+  pé-coxinho), e o tempo para a passar de equipa em equipa deve ser curto, mas possível com
+  alguma dificuldade.
+- *E se uma equipa, em vez de fechar a roda à volta da Galinha, corre com um espaço aberto?*
+  Os dois elementos de pulso livre têm de dar as mãos enquanto a Galinha está na sua capoeira
+  e só as largam quando a passarem à equipa seguinte.
+- *A Galinha pode ficar parada na passagem de uma equipa para a outra? E a equipa pode andar
+  sem estar fechada?* Não: a Galinha tem de andar, ao pé-coxinho. Quando entra na capoeira
+  seguinte, esta fecha-se logo, e só depois de estar fechada é que a equipa pode começar a
+  andar.
+- *Como se vê se as equipas estão a cumprir as regras?* Há pelo menos dois animadores a fazer
+  de árbitros; um tem o apito, e vão vendo e aplicando as regras.
+- *E se não se puder usar um participante como Galinha?* Usa-se um animador ou uma animadora
+  (de equipa, tio ou tia).
+
+Qualquer outra dúvida: resolvam-na.
+
+## Noite de Terror
+
+*Adicionado por: [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md),
+[Bernardo Narciso](../Pessoas/B/Bernardo%20Narciso.md) e
+[Maria Ferreira](../Pessoas/M/Maria%20Cort%C3%AAs%20Ferreira.md)*
+
+**Nome de guerra:** O Roubo do Tridente. **Duração:** 2 horas.
+
+**Objectivo:** fazer desaparecer o medo do escuro, através do confronto com ele. O jogo
+começa com vários sustos e acaba com palhaçadas.
+
+**Material:** caracterização facial (tintas); caracterização para cada uma das personagens;
+o tridente do rei; alguma coisa para comer no fim.
+
+**Regras:** 10 a 15 minutos depois de os participantes irem para as tendas, aparecem nas
+tendas 2 ou 3 animadores, ainda sem caracterização, a dizer que o tridente do rei foi roubado
+por alguém no fim da caminhada e que o rei está furioso. Os participantes dividem-se por
+equipas para encontrar o tridente: o ladrão foi encurralado no sítio de campo — não fugiu
+para lá das tendas nem para lá do sítio de jogos —, por isso não faz sentido irem nessas
+direcções. Os animadores distribuem as equipas de modo a que cada uma siga por um caminho
+diferente; até soar o apito, que significa que o tridente foi encontrado, as equipas devem
+continuar a movimentar-se.
+
+Os restantes animadores já estão caracterizados e espalhados pelo sítio de campo, em
+posições-chave — perto da zona de banhos (para ninguém ir parar à água), perto das saídas do
+campo… —, pregando sustos a quem vai passando. Um dos animadores tem o tridente (auxiliado
+por outro, para não ser apanhado) e aparece de vez em quando, sem NUNCA se deixar apanhar,
+assustando sempre.
+
+Algum tempo depois, como combinado, os animadores deixam de assustar e passam a fazer
+palhaçadas para pôr os participantes a rir — isto é vital para que o objectivo se cumpra.
+Pouco depois soa o apito e todos se reúnem na roda, onde o rei, já com o seu tridente,
+agradece a ajuda. Há alguma coisa para quem tem fome, e é hora de dormir.
+
+## Assalto aos Himalaias
+
+*Adicionado por: desconhecido*
+
+*Também conhecido por Assalto ao Castelo Chinês.*
+
+**Participantes:** todos, com animadores à mistura. **Duração:** 60 a 90 minutos (pode
+alongar-se ou encurtar-se conforme a necessidade).
+
+**Regras:** o jogo faz-se por rondas. Em cada ronda, uma equipa está dentro do Castelo e
+deve defendê-lo dos invasores (as restantes equipas e os animadores). Funciona como o jogo do
+Assalto ao Castelo: o invasor tem de entrar no Castelo sem ser identificado pelos defensores.
+Cada ronda dura cerca de 10 minutos e começa com um apito; o apito volta a soar a meio da
+ronda, outra vez quando faltarem 1 a 2 minutos, e uma quarta vez para acabar a ronda. No fim
+de cada ronda contam-se os invasores que conseguiram entrar no Castelo; ganha a equipa que,
+a defender, deixar entrar menos invasores.
+
+**Disposições:** o Castelo deve ficar, de preferência, no topo de uma colina — se a colina
+tiver socalcos, ainda melhor. Os animadores podem participar como invasores e/ou ficar dentro
+do Castelo. No fim pode fazer-se uma ronda com os animadores a defender, mas então tem de ser
+impossível os participantes entrarem — afinal, somos os animadores!
+
+**Material:** lanternas (de preferência potentes); fita para delimitar o Castelo e o terreno
+de jogo; roupa escura.
+
+## Super Mário
+
+*Adicionado por: desconhecido*
+
+Quatro jogos com o tema do Super Mário, pensados para 7 equipas (uma cor e um cogumelo por
+equipa).
+
+- *Caça ao cogumelo* — **Duração:** 20 minutos (cerca de 5 para decifrar o poema, o resto
+  para a procura). **Objectivo:** encontrar o cogumelo escondido algures no campo.
+  **Material:** 7 placas de esferovite recortadas em forma de cogumelo e pintadas. Cada
+  equipa, em alturas diferentes, percorre o sítio de campo seguindo pistas dadas em forma de
+  poema, à procura do seu cogumelo.
+- *Mário Kart* — **Duração:** 10 minutos, no máximo. **Objectivo:** eliminar os outros pares
+  de "carrinho de mão" acertando-lhes com uma esponja, que marca a pessoa no sítio onde
+  acerta. **Material:** 7 esponjas quaisquer, com tinta diluída (7 cores, uma por equipa). Os
+  pares de "carrinho de mão" são formados ao acaso ou escolhidos pelos participantes: o
+  "carrinho" é o único que pode ser atingido para o par perder, e a "mão" é a única que pode
+  atirar a esponja. Cada par tem duas vidas: quando perde a primeira, o "carrinho" passa a
+  "mão" e a "mão" a "carrinho".
+- *Mário Land-River* — **Duração:** 5 a 7 minutos. **Objectivo:** chegar ao destino no menor
+  tempo possível. **Material:** um objecto por equipa (pode ser o cogumelo que encontraram).
+  Um membro de cada equipa, escolhido ao acaso, tem de levar o objecto a nado pelo rio,
+  fazendo um percurso definido.
+- *Mário e Luigi* — **Duração:** 20 minutos, no máximo, por jogada. **Objectivo:** trazer
+  para a própria base o objecto que está na base da outra equipa. **Material:** um objecto
+  por equipa (pode ser, outra vez, o cogumelo). O campo é dividido em dois e os jogadores
+  correm 2 a 2, de mãos dadas. Há 2 pares (um de cada equipa) que fazem de monstros e andam a
+  imobilizar os outros pares durante a jogada; um par imobilizado só pode continuar quando
+  soar o apito, que toca a cada 2 minutos. A equipa tem de trazer o objecto de volta para a
+  sua base.
+
+## Cacahuete Show
+
+*Adicionado por: desconhecido*
+
+*Também conhecido por Jogo dos Talentos ou Jogo do Ernesto; não confundir com os
+[Talentos](#talentos).*
+
+**Participantes:** todos, por turnos. **Duração:** 45 a 75 minutos (pode encurtar-se ou
+alongar-se conforme a necessidade).
+
+**Regras:**
+
+1. Chama-se um participante de cada equipa.
+2. Cada concorrente tira um cartão à sorte, sem ver o verso.
+3. Todos viram o cartão para o público ao mesmo tempo.
+4. O concorrente a quem saiu o cartão "penalização" sofre, com a sua equipa, a penalização
+   desse turno, que é anunciada antes de os cartões serem virados.
+5. Depois da penalização volta-se ao ponto 1, chamando participantes diferentes de cada
+   equipa.
+
+**Disposições:** o público fica em anfiteatro, com os concorrentes à sua frente. O ritmo de
+cada turno tem de ser rápido, sem tempos mortos. As penalizações devem envolver todos os
+membros da equipa penalizada.
+
+**Penalizações sugeridas:** sketch caído do céu (30 segundos de preparação); sketch com
+palavras obrigatórias; fita-cola na boca até ao fim do jogo; ficar a cargo de encher os
+tempos mortos entre a atribuição de cada penalização e o seu cumprimento (música,
+mini-sketches…); cantar uma música só com uma vogal; etc.
+
+**Material:** papelaria e cartonagem diversa (para os cartões); adereços (roupas e
+quejandos).
+
+## Jogos Aquáticos
+
+*Adicionado por: [Caramela](../Pessoas/J/Joana%20Martins.md) e Gonçalo*
+
+**Duração:** 1 hora a 1h30, incluindo o tempo de banho.
+
+**Objectivo:** uma gincana com várias provas dentro de água, em que as equipas competem:
+pequenas estafetas que toda a equipa, ou apenas um membro, tem de ultrapassar.
+
+**Material:** lenços (para tapar os olhos); farinha; luvas; seringas; salsichas de piscina;
+paus de madeira com esponja na ponta (para uma espécie de luta em que se tenta derrubar o
+adversário); balões de água; insufláveis; bóias e outro material de piscina que a malta
+tenha; corda (para delimitar zonas); sacos de plástico para fazer bandeiras; se possível,
+barras de esferovite que sirvam de jangada.
+
+**Nota:** na ficha, os jogos estão só "mais ou menos pensados": as provas vão sendo
+inventadas consoante o material que se arranjar e as condições do sítio.
 
 ## Compilação e agradecimentos
 

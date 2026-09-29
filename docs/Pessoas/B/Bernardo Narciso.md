@@ -20,6 +20,7 @@
 
 ## Páginas que ligam para aqui
 
+- [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
 - [Caminho](../../Acampamentos/2009/Caminho.md)
 - [Gaivota](../../Acampamentos/2005/Gaivota.md)
 - [Long Tao](../../Acampamentos/2006/Long%20Tao.md)
