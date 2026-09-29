@@ -7,7 +7,7 @@
 - [Director](../../Cargos/Director.md) - [Afonso Carvalho](../../Pessoas/A/Afonso%20Carvalho.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Laura Barra](../../Pessoas/L/Laura%20Barra.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Dinis Braga da Cruz](../../Pessoas/D/Dinis%20Braga%20da%20Cruz.md)
-- [Tia](../../Cargos/Tio.md) - Rita Ângelo, Francisca Serrano (Fan)
+- [Tia](../../Cargos/Tio.md) - [Rita Ângelo](../../Pessoas/R/Rita%20%C3%82ngelo.md), Francisca Serrano (Fan)
 - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Joana Catalão, Pilar Corrêa, Manuel Cruz, Miguel Poço, Bea Bettencourt, Margarida Ferreira, Madureira
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - Luís Monteiro, Francisco Barroso (Dinha), Leonor Dias, Chico Carneiro
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Duarte Nifo](../../Pessoas/D/Duarte%20Nifo.md) sj
@@ -18,7 +18,8 @@
 - [Dinis Braga da Cruz](../../Pessoas/D/Dinis%20Braga%20da%20Cruz.md)
 - [Duarte Nifo](../../Pessoas/D/Duarte%20Nifo.md)
 - [Laura Barra](../../Pessoas/L/Laura%20Barra.md)
-- [Sequeiros (Braga)](../../Restrito/Locais%20de%20Acampamento/Sequeiros%20%28Braga%29.md)(../../Pessoas/L/Laura%20Barra.md)
+- [Rita Ângelo](../../Pessoas/R/Rita%20%C3%82ngelo.md)
+- [Sequeiros (Braga)](../../Restrito/Locais%20de%20Acampamento/Sequeiros%20%28Braga%29.md)
 
 ---
 
