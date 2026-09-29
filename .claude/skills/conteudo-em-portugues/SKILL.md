@@ -1,6 +1,6 @@
 ---
 name: conteudo-em-portugues
-description: Keep everything committed to the Wikinácios site itself — page text under docs/, the GitHub issue forms, README.md and mkdocs.yml — in the site's own European (pre-1990) Portuguese, never English or Brazilian Portuguese. Use it as the last check before any `git commit`/`git push` in this repo that touches those files, whenever asked "está em português?", "isto pode ficar em inglês?" or similar, and when processing a submission (issue or pasted template) that arrived partly in English or in a different Portuguese. It does not apply to skills, scripts or other project tooling, which stay in English by this project's own convention.
+description: Manter em português europeu (ortografia anterior a 1990), nunca em inglês nem em português do Brasil, tudo o que se escreve no Wikinácios — o texto das páginas em docs/, os formulários de issue do GitHub, o README.md e o mkdocs.yml — e também tudo o resto que um agente escreve neste projecto: mensagens de commit, títulos e descrições de pull requests, comentários no GitHub e texto novo em skills, scripts ou outras ferramentas. Usar como última verificação antes de qualquer `git commit`/`git push` neste repositório, antes de abrir ou editar um pull request, sempre que perguntarem "está em português?", "isto pode ficar em inglês?" ou semelhante, e ao processar uma submissão (issue ou modelo colado) que chegou em parte em inglês ou noutro português.
 ---
 
 # Writing and committing in Portuguese
@@ -17,11 +17,15 @@ spelling, or a stray English sentence in a new page or issue form.
 
 This is about the **site's own content**: `docs/`, `.github/ISSUE_TEMPLATE/`,
 `README.md` and `mkdocs.yml`'s visible strings (nav titles, theme labels).
-It does not apply to `.claude/skills/`, `AGENTS.md`,
-`.github/copilot-instructions.md`, `scripts/` or any other project
-tooling — those are written in English, this project's own convention for
-instructions to coding agents (Claude, Copilot or any other) and for code,
-and translating them would work against every other skill in this repo.
+A mesma regra aplica-se a tudo o resto que um agente escreve neste
+projecto (a "Regra da língua" do `AGENTS.md`): mensagens de commit,
+títulos e descrições de pull requests, comentários e respostas no GitHub,
+e texto novo em `.claude/skills/`, `AGENTS.md`,
+`.github/copilot-instructions.md` ou `scripts/` são sempre em português
+europeu, nunca em inglês. Só fica como está o que não se traduz: nomes
+próprios, letras e títulos de músicas em inglês, nomes de ficheiros,
+comandos e identificadores de código. As ferramentas que ainda estão em
+inglês passam para português quando forem editadas.
 
 ## Before writing
 
