@@ -18,6 +18,8 @@ O hino deste campo foi o "Hino de Campo" (ver [Cantinácio](../../Movimento/Cant
 
 ## Imaginarium
 
+Como todas as histórias começam:
+
 Era uma vez... a Atlântida, uma cidade avançada, que tinha o seu Rei, Rainha, Chefe da Guarda Real e respectiva guarda real, Princesa Safira e Jade, Mago, Sábios e seus Aprendizes.
 
 Como uma civilização avançada, a Atlântida tinha uma tradição de passagem que envolvia conhecer outras civilizações, pessoas e tradições para que se pudesse crescer vendo pessoas/culturas variadas.
@@ -30,13 +32,13 @@ Era sempre uma surpresa, ninguém sabia bem quando o Rei o ia fazer, o que fazia
 
 Durante o tempo em que esperavam aumentavam o conhecimento de si mesmos e do restante grupo que estava prestes a partir.
 
-(...)
+---
 
 "É hoje" - diz o Rei, enquanto a Atlântida emerge do fundo das águas. (Dia da caminhada)
 
 A jornada começou, eles estão prontos para começar a viagem, e o Rei anuncia que segundo a tradição, irá com a restante corte e Magos junto com os Sábios e Aprendizes, acompanhando-os nessa viagem.
 
-(...)
+---
 
 A viagem começa... até que chegamos a:
 
@@ -52,7 +54,7 @@ A viagem começa... até que chegamos a:
 - Itália
 [Fé e Festa]
 
-(...)
+---
 
 Estava na altura dos aprendizes regressarem a Atlântida... já tinham crescido, e aprendido imensas coisas através das quais a Atlântida podia crescer e melhorar ainda mais...
 
@@ -62,7 +64,9 @@ O rei, que pensariam que iria recusar a decisão deles diz:
 
 "Parabéns! Agora são de facto sábios, o mundo espera-vos!"
 
-Voltam para o mundo, ousando tentar fazer a diferença!
+Voltam para o mundo, ousando tentar fazer a diferença! (Fim do campo)
+
+*Fim da História*
 
 ## Hino
 
