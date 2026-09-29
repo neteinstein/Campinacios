@@ -9,6 +9,7 @@
 ### Acampamentos
 
 - **Participante**
+    - 1997 [Triciclos 1](../../Acampamentos/1997/Triciclos%201.md)
     - 2003 [Rastilho](../../Acampamentos/2003/Rastilho.md)
     - 2004 [Mikelin Descobre a Vida](../../Acampamentos/2004/Mikelin%20Descobre%20a%20Vida.md)
 - **Animador**
@@ -23,6 +24,7 @@
 - [Gaivota](../../Acampamentos/2005/Gaivota.md)
 - [Long Tao](../../Acampamentos/2006/Long%20Tao.md)
 - [OPA](../../Acampamentos/2007/OPA.md)
+- [Triciclos 1](../../Acampamentos/1997/Triciclos%201.md)
 
 ---
 
