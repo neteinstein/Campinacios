@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1140 artigos e, em itálico, os 150 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1142 artigos e, em itálico, os 150 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -625,6 +625,7 @@
 - [João Brandão](Pessoas/J/Jo%C3%A3o%20Brand%C3%A3o.md)
 - [João Captivo](Pessoas/J/Jo%C3%A3o%20Captivo.md)
 - *João Cativo* → [João Captivo](Pessoas/J/Jo%C3%A3o%20Captivo.md)
+- [João Carlos Onofre](Pessoas/J/Jo%C3%A3o%20Carlos%20Onofre.md)
 - [João Correia](Pessoas/J/Jo%C3%A3o%20Correia.md)
 - [João Cruz](Pessoas/J/Jo%C3%A3o%20Cruz.md)
 - [João de Brito](Pessoas/J/Jo%C3%A3o%20de%20Brito.md)
@@ -1211,6 +1212,7 @@
 - [Sofia Amaral](Pessoas/S/Sofia%20Amaral.md)
 - [Sofia Ângelo](Pessoas/S/Sofia%20%C3%82ngelo.md)
 - [Sofia Azevedo Cardoso](Pessoas/S/Sofia%20Azevedo%20Cardoso.md)
+- [Sofia Fernandes](Pessoas/S/Sofia%20Fernandes.md)
 - [Sofia Fonseca](Pessoas/S/Sofia%20Fonseca.md)
 - *Sofia Pinelas* → [Ana Sofia Pinelas](Pessoas/A/Ana%20Sofia%20Pinelas.md)
 - [Sofia Rebelo](Pessoas/S/Sofia%20Rebelo.md)

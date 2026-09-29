@@ -39,6 +39,7 @@
 - [João Afonso Sousa](Jo%C3%A3o%20Afonso%20Sousa.md)
 - [João Brandão](Jo%C3%A3o%20Brand%C3%A3o.md)
 - [João Captivo](Jo%C3%A3o%20Captivo.md)
+- [João Carlos Onofre](Jo%C3%A3o%20Carlos%20Onofre.md)
 - [João Correia](Jo%C3%A3o%20Correia.md)
 - [João Cruz](Jo%C3%A3o%20Cruz.md)
 - [João de Brito](Jo%C3%A3o%20de%20Brito.md)
