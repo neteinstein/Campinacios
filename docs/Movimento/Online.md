@@ -26,6 +26,8 @@ Na página principal lia-se:
 >
 > A direcção dos Campinácios deseja-te uma **Boa Navegação**.
 
+Outra cópia, guardada pelo Arquivo.pt a 24 de Setembro de 2009 no endereço campinacios.loyola.pt: [ver no Arquivo.pt](https://arquivo.pt/wayback/20090924173834/http://campinacios.loyola.pt/home.html).
+
 Tinha secções de Notícias, Documentos, História, Actividades, Testemunhos, Livro de Visitas (*Guestbook*), Agenda, Fotos, Músicas, Links, FAQ e Contactos, uma *newsletter* por email e um canal de IRC, #Campinacios. Entre as últimas notícias estavam a divulgação dos directores de 2007 e de 2008 e das equipas e fotos dos acampamentos do Verão de 2007, e ainda o CD do Encontro Nacional de 2004, que se podia descarregar. Em 2009 anunciava-se «uma nova página mais dinâmica e activa para breve»: foi a [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md).
 
 ---
