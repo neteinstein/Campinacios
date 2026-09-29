@@ -210,7 +210,7 @@ Sou um horror!
 *  Adaptação  Camtílica
 ```
 
-### [O ANDRÉ E A CECÍLIA](../../Pessoas/C/Cec%C3%ADlia%20Miranda.md) {#o-andre-e-a-cecilia}
+### O ANDRÉ E A [CECÍLIA](../../Pessoas/C/Cec%C3%ADlia%20Miranda.md) {#o-andre-e-a-cecilia}
 
 *Manel Matos — música nascida no campo [Quatro Patas](../../Acampamentos/2001/Quatro%20Patas.md) (2001)*
 
