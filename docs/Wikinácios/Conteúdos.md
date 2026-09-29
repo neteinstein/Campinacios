@@ -64,8 +64,8 @@ Os modelos disponíveis:
   ligar uma pessoa e um acampamento que já têm página (quem animou o quê,
   quem esteve lá).
 - [🙋 Participantes de um Acampamento](https://github.com/neteinstein/Campinacios/issues/new?template=participantes.yml):
-  a lista de participantes de um Calhambeques ou Formação de Animadores
-  que já tem página.
+  quem participou num Calhambeques ou Formação de Animadores que já tem
+  página (fica no artigo de cada pessoa, não no do acampamento).
 - [🏞️ Local de Acampamento](https://github.com/neteinstein/Campinacios/issues/new?template=local-de-acampamento.yml):
   avisar que falta a ficha de um local, ou que local se usou num
   acampamento — **nunca com indicações, coordenadas ou contactos**, que
@@ -271,7 +271,7 @@ conhecido, em `docs/Acampamentos/Sem data/`). Exemplos:
 | Local | não | O nome da ficha do local: ver [Local de acampamento](#local-de-acampamento) |
 | Tema do ano, imaginário | não | Texto livre |
 | Hino, história, curiosidades, blogue | não | Texto livre |
-| Participantes | não | Ver [Participantes de um acampamento](#participantes) |
+| Participantes | não | Não vão no artigo do acampamento: ver [Participantes de um acampamento](#participantes) |
 
 ```markdown
 # «Nome do acampamento»
@@ -432,8 +432,10 @@ Depois de gravar, acrescente a pessoa também em:
 ### Pessoas em acampamentos {#pessoas-em-acampamentos}
 
 Para dizer que uma pessoa esteve num acampamento: como animador (com o
-cargo), na formação ou como participante. A mesma informação escreve-se
-**nos dois artigos**, no do acampamento e no da pessoa.
+cargo), na formação ou como participante. Um animador escreve-se **nos dois
+artigos**, na equipa do acampamento e no artigo da pessoa. Quem esteve como
+participante ou na formação escreve-se só no artigo da pessoa: o artigo do
+acampamento só tem a equipa de animação.
 
 | Informação | Obrigatória? | Como se escreve |
 | --- | --- | --- |
@@ -450,10 +452,6 @@ No artigo do acampamento (`docs/Acampamentos/«ano»/«Acampamento».md`):
 ### Animadores
 
 - [«Cargo»](<../Cargos/«Cargo».md>) - [«Nome»](<../Pessoas/«Inicial»/«Nome».md>)
-
-### Participantes
-
-- [«Nome»](<../Pessoas/«Inicial»/«Nome».md>)
 
 ## Páginas que ligam para aqui
 
@@ -490,6 +488,9 @@ No artigo da pessoa (`docs/Pessoas/«Inicial»/«Nome».md`):
       linha ("Tios - A e B") em vez de repetir o cargo.
     - Num acampamento de Formação de Animadores, quem lá foi formar-se fica
       em **Formação** no seu artigo, não em **Participante**.
+    - Participantes e formação não se acrescentam ao acampamento; mas o
+      acampamento ganha a pessoa em *Páginas que ligam para aqui*, porque o
+      artigo dela liga para ele.
     - No artigo da pessoa, os acampamentos vão por ordem de ano; em
       *Páginas que ligam para aqui*, por ordem alfabética.
     - Se a pessoa ou o acampamento não tiver artigo, escreva o nome sem
@@ -614,10 +615,10 @@ Depois de gravar, acrescente o local também em:
 
 ### Participantes de um acampamento {#participantes}
 
-Os participantes vão no artigo do acampamento, na secção `### Participantes`,
-a seguir aos animadores; quem tem artigo ganha também a linha no seu artigo
-(ver [Pessoas em acampamentos](#pessoas-em-acampamentos)). Exemplo:
-[Esperança](../Acampamentos/2011/Esperan%C3%A7a.md).
+Os participantes não vão no artigo do acampamento, que só tem a equipa de
+animação. Cada participante que tem artigo ganha o acampamento na sua lista,
+em **Participante** (ou em **Formação**, num acampamento de Formação de
+Animadores); ver [Pessoas em acampamentos](#pessoas-em-acampamentos).
 
 | Informação | Obrigatória? | Como se escreve |
 | --- | --- | --- |
@@ -625,11 +626,13 @@ a seguir aos animadores; quem tem artigo ganha também a linha no seu artigo
 | Participantes | sim | Um por linha, com o nome e o apelido; quem já tem artigo, com o título do artigo |
 | Acordo | sim | Só de quem é maior de idade e concorda em aparecer |
 
-```markdown
-### Participantes
+No artigo de cada participante (`docs/Pessoas/«Inicial»/«Nome».md`):
 
-- [«Nome»](<../Pessoas/«Inicial»/«Nome».md>)
-- «Nome de quem não tem artigo»
+```markdown
+### Acampamentos
+
+- **Participante:**
+    - «ano» [«Acampamento»](<../Acampamentos/«ano»/«Acampamento».md>)
 ```
 
 !!! warning "Cuidados"
@@ -637,13 +640,10 @@ a seguir aos animadores; quem tem artigo ganha também a linha no seu artigo
     - Só se escrevem os participantes dos Calhambeques e da Formação de
       Animadores, que já são ou vão ser animadores. Nunca nomes de
       participantes menores de idade.
-    - Cada participante com artigo escreve-se como o título do artigo, com
-      ligação; quem não tem artigo fica só com o nome. Não é preciso criar
-      um artigo para cada participante.
-    - Veja se a pessoa ainda não está na lista, às vezes com a alcunha ou
-      só com um apelido, antes de a acrescentar.
-    - Um participante por linha, de preferência por ordem alfabética.
-    - Quem tem artigo ganha o acampamento na sua lista (**Participante**,
-      ou **Formação** num acampamento de Formação de Animadores) e o
-      acampamento em *Páginas que ligam para aqui*; e o acampamento ganha a
-      pessoa na sua lista *Páginas que ligam para aqui*.
+    - Quem ainda não tem artigo só fica registado se se lhe criar um (ver
+      [Pessoa nova](#pessoa-nova)); os Contribuidores perguntam antes de o
+      fazer. Não se escreve o nome solto no artigo do acampamento.
+    - Veja se a pessoa já tem artigo, às vezes com a alcunha ou só com um
+      apelido, antes de criar outro.
+    - O acampamento ganha a pessoa na sua lista *Páginas que ligam para
+      aqui*, e a pessoa ganha o acampamento na dela.
