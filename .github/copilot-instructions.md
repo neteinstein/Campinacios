@@ -11,8 +11,11 @@ Quick reminders specific to this checklist:
 
 - Site content (`docs/`, `.github/ISSUE_TEMPLATE/`, `README.md`,
   `mkdocs.yml` visible strings) must be written in European (pre-1990)
-  Portuguese — never English or Brazilian Portuguese. Tooling and docs
-  like this file stay in English.
+  Portuguese — never English or Brazilian Portuguese.
+- Regra da língua (ver `AGENTS.md`): tudo o que escreves neste projecto —
+  mensagens de commit, títulos e descrições de pull requests, comentários
+  no GitHub e texto novo nas ferramentas — é sempre em português europeu,
+  nunca em inglês.
 - Before adding or linking a person, search for existing pages with
   `python3 .claude/skills/nova-pessoa/scripts/pessoas.py procurar "Nome"`
   and ask before assuming two same-named people are the same, or that they
