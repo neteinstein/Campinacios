@@ -1,6 +1,6 @@
 ---
 name: novo-acampamento
-description: Add a camp (acampamento) to the Wikinácios site in this repo and validate it is listed everywhere a camp must appear — above all in the camps-by-year table and page list of docs/Categorias/Acampamentos.md and under its year in docs/Acampamentos/index.md. Use this whenever a camp page under docs/Acampamentos/ is created, renamed, moved to another year or deleted, e.g. "add a new camp in 2012 called X", "novo acampamento", "cria o campo Y de Bicicletas", "this camp was actually in 2008", even if the user only gives a name, a year and a team and never mentions the lists.
+description: Add a camp (acampamento) to the Wikinácios site in this repo and validate it is listed everywhere a camp must appear — above all in the camps-by-year table and page list of docs/Categorias/Acampamentos.md and in its copy, docs/Acampamentos/index.md. Use this whenever a camp page under docs/Acampamentos/ is created, renamed, moved to another year or deleted, e.g. "add a new camp in 2012 called X", "novo acampamento", "cria o campo Y de Bicicletas", "this camp was actually in 2008", even if the user only gives a name, a year and a team and never mentions the lists.
 ---
 
 # Adding a camp to the Wikinácios
@@ -58,9 +58,9 @@ browse:
     if unknown);
   - `## Páginas nesta categoria (N)`: insert the link in title order and
     add 1 to N.
-- **`docs/Acampamentos/index.md`**: the year's line
-  `- [<ano>](<ano>/index.md) (N)`, with N = camps in that folder (a new year
-  gets a new line in order).
+- **`docs/Acampamentos/index.md`**: shows the same content as
+  `docs/Categorias/Acampamentos.md` (the same table, subcategories and page
+  list, links written the same way), so make the same two edits there.
 
 And the rest of the year and cross-references:
 
@@ -89,9 +89,9 @@ python3 .claude/skills/novo-acampamento/scripts/validar.py "docs/Acampamentos/<a
 mkdocs build --strict
 ```
 
-The validator checks the table row, the category list and its count, the
-year's line and count in `docs/Acampamentos/index.md`, the year's index and
-the nav. Fix every `ERRO` and run it again until it prints `OK`; then the
+The validator checks the table row, the category list and its count, that
+`docs/Acampamentos/index.md` has the same table rows, page list and count
+as the category, the year's index and the nav. Fix every `ERRO` and run it again until it prints `OK`; then the
 strict build catches any broken link. `validar.py --todos` checks every
 camp; gaps the original wiki already had are listed in `legado.txt` and
 don't fail — never add a new camp there.

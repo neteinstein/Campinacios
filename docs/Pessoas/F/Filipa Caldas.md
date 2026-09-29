@@ -14,9 +14,11 @@ Filipa Maria Gomes Pereira Lemos Caldas, conhecida por Pipa e também por Caldin
     - 2008 [Êxodo](../../Acampamentos/2008/%C3%8Axodo.md)
 - **Animador:**
     - 2009 [Vi-O](../../Acampamentos/2009/Vi-O.md)- [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2015 [Ide](../../Acampamentos/2015/Ide.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
 ## Páginas que ligam para aqui
 
+- [Ide](../../Acampamentos/2015/Ide.md)
 - [Vi-O](../../Acampamentos/2009/Vi-O.md)
 
 ---

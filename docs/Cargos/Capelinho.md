@@ -29,6 +29,7 @@
 - [Ricardo Batista](../Pessoas/R/Ricardo%20Batista.md)
 - [Rui Ribeiro](../Pessoas/R/Rui%20Ribeiro.md)
 - [SimBasta](../Acampamentos/2019/SimBasta.md)
+- [Someonelfie](../Acampamentos/2015/Someonelfie.md)
 - [Walkabout](../Acampamentos/2010/Walkabout.md)
 
 ---
