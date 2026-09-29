@@ -6,11 +6,11 @@ Um novo Cantinácio foi lançado após anos e anos de tentativas.
 
 ## Letras e acordes
 
-- [Cânticos](Cantin%C3%A1cio/C%C3%A2nticos.md) — 62 cânticos para as eucaristias e orações
-- [Camtil](Cantin%C3%A1cio/Camtil.md) — 29 músicas nascidas nos acampamentos
+- [Cânticos](Cantin%C3%A1cio/C%C3%A2nticos.md) — 186 cânticos para as eucaristias e orações
+- [Camtil](Cantin%C3%A1cio/Camtil.md) — 30 músicas nascidas nos acampamentos
 - [Campinácios](Cantin%C3%A1cio/Campin%C3%A1cios.md) — 9 músicas nascidas nos acampamentos
 - [Portuguesas](Cantin%C3%A1cio/Portuguesas.md) — 65 músicas portuguesas
-- [Estrangeiras](Cantin%C3%A1cio/Estrangeiras.md) — 89 músicas estrangeiras
+- [Estrangeiras](Cantin%C3%A1cio/Estrangeiras.md) — 97 músicas estrangeiras
 - [Escalas](Cantin%C3%A1cio/Escalas.md) — como mudar uma música de tom
 
 ## Gravações
