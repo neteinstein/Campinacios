@@ -14,6 +14,10 @@
     - 2008 [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2009 [Survivor](../../Acampamentos/2009/Survivor.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
+### Online
+
+Fez, com o Paulo Correia, a [página original dos Campinácios](../../Movimento/Online.md#pagina-original) na Internet.
+
 ### Família
 
 É irmão do [Renato Costa](../R/Renato%20Costa.md).
@@ -21,6 +25,7 @@
 ## Páginas que ligam para aqui
 
 - [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md)
+- [Online](../../Movimento/Online.md)
 - [Renato Costa](../R/Renato%20Costa.md)
 - [Survivor](../../Acampamentos/2009/Survivor.md)
 
