@@ -3150,6 +3150,23 @@ Minh'alma canta de gozo
 Pois na minha pequenez
         Fá               Sol
 Se detiveram seus olhos
+Lám                   Mim
+E o Santo e Poderoso
+Lám                   Sol
+Espera hoje por meu sim
+Lám                     Mim
+Minha alma canta de gozo
+Fá     Sol                Dó
+Maravilhas fez em mim
+
+Maravilhas fez em mim
+Da alma brota o meu canto
+O Senhor me amou
+Como aos lírios do campo
+E por seu Espírito Santo
+Ele habita hoje em mim
+Que não pare nunca este canto
+Maravilhas fez em mim
 ```
 
 ### MEU TUDO (SAL DA TERRA) {#meu-tudo-sal-da-terra}
@@ -4350,6 +4367,15 @@ Ninguém te ama como eu
 Ninguém te ama como eu
 Foi por ti, só por ti, porque te amo
 Ninguém te ama como eu
+
+Eu sei bem o que tu dizes
+Mesmo que às vezes não me fales
+Eu sei bem o que tu sentes
+Mesmo que tu não partilhes
+A teu lado caminharei
+Junto a ti sempre estive
+Tenho sido o teu apoio
+Fui o teu melhor amigo
 ```
 
 ### QUEIRA EU O QUE DEUS QUER {#queira-eu-o-que-deus-quer}

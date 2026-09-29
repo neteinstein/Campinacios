@@ -2,6 +2,8 @@
 
 O OPA foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que decorreu entre 5 e 14 de Agosto em [Serpins](../../Restrito/Locais%20de%20Acampamento/Ribeira%20do%20Conde%20%28Serpins%29.md).
 
+O hino deste campo foi o "Hino de Campo" (ver [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#hino-de-campo)).
+
 [![Grupo de animadores trajados a rigor no acampamento: rei e rainha da Atlântida, guarda real e mago encapuçado, diante de uma bandeira azul e amarela](../../assets/imagens/OPA.jpg)](../../assets/imagens/OPA.jpg)
 
 ## Animadores
@@ -16,11 +18,13 @@ O OPA foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que dec
 
 ## Imaginarium
 
+Como todas as histórias começam:
+
 Era uma vez... a Atlântida, uma cidade avançada, que tinha o seu Rei, Rainha, Chefe da Guarda Real e respectiva guarda real, Princesa Safira e Jade, Mago, Sábios e seus Aprendizes.
 
 Como uma civilização avançada, a Atlântida tinha uma tradição de passagem que envolvia conhecer outras civilizações, pessoas e tradições para que se pudesse crescer vendo pessoas/culturas variadas.
 
-Para isso, era preciso que a própria pessoa já se conhecesse bem suficiente, para estar aberta a elas... os Magos, tinham a capacidade de conseguir ajuda-las a fazer isso.
+Para isso, era preciso que a própria pessoa já se conhecesse bem suficiente, para estar aberta a elas... os Magos, tinham a capacidade de conseguir ajudá-las a fazer isso.
 
 Assim sendo, a cada 100 anos, o Rei mandava emergir a Atlântida para que os Aprendizes dos 7 Sábios se espalhassem pelo mundo para começarem a sua passagem, no entanto, isso só acontecia quando todos os Sábios informavam o Rei que os seus aprendizes estavam preparados, e ele achava que era a altura certa.
 
@@ -28,13 +32,13 @@ Era sempre uma surpresa, ninguém sabia bem quando o Rei o ia fazer, o que fazia
 
 Durante o tempo em que esperavam aumentavam o conhecimento de si mesmos e do restante grupo que estava prestes a partir.
 
-(...)
+---
 
 "É hoje" - diz o Rei, enquanto a Atlântida emerge do fundo das águas. (Dia da caminhada)
 
 A jornada começou, eles estão prontos para começar a viagem, e o Rei anuncia que segundo a tradição, irá com a restante corte e Magos junto com os Sábios e Aprendizes, acompanhando-os nessa viagem.
 
-(...)
+---
 
 A viagem começa... até que chegamos a:
 
@@ -50,7 +54,7 @@ A viagem começa... até que chegamos a:
 - Itália
 [Fé e Festa]
 
-(...)
+---
 
 Estava na altura dos aprendizes regressarem a Atlântida... já tinham crescido, e aprendido imensas coisas através das quais a Atlântida podia crescer e melhorar ainda mais...
 
@@ -60,45 +64,9 @@ O rei, que pensariam que iria recusar a decisão deles diz:
 
 "Parabéns! Agora são de facto sábios, o mundo espera-vos!"
 
-Voltam para o mundo, ousando tentar fazer a diferença!
+Voltam para o mundo, ousando tentar fazer a diferença! (Fim do campo)
 
-## Hino
-
-O dia acordou cinzento
-
-Triste como tudo
-
-Desafiaste o vento
-
-E foste mudar o mundo
-
-Uuuuuuoooooooooo
-
-REFRÃO:
-
-Onde pára a Atlântida?
-
-Para fora tens de ir,
-
-Onde pára a Atlântida?
-
-Vamos lá descobrir...
-
-Bravo jovem Atlânte
-
-Que da água emergiste
-
-Dá-te aos outros, sê marcante
-
-Prova que Deus existe!
-
-Uuuuuuoooooooooo
-
-REFRÃO
-
-OPA!!!! PARA FORA AQUI E AGORA!!!!
-
-REFRÃO
+*Fim da História*
 
 ## Amigo Secreto
 
