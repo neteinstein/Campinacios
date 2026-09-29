@@ -14,6 +14,10 @@
     - 2008 [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2009 [Survivor](../../Acampamentos/2009/Survivor.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
+### Online
+
+Geriu a [página original dos Campinácios](../../Movimento/Online.md#pagina-original) na Internet depois de o [Paulo Correia](../P/Paulo%20Correia.md) a ter criado, e passou-a mais tarde ao [Pedro Vicente](../P/Pedro%20Vicente.md) e ao [Filipe Próspero](../F/Filipe%20Pr%C3%B3spero.md).
+
 ### Família
 
 É irmão do [Renato Costa](../R/Renato%20Costa.md).
@@ -21,6 +25,10 @@
 ## Páginas que ligam para aqui
 
 - [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md)
+- [Filipe Próspero](../F/Filipe%20Pr%C3%B3spero.md)
+- [Online](../../Movimento/Online.md)
+- [Paulo Correia](../P/Paulo%20Correia.md)
+- [Pedro Vicente](../P/Pedro%20Vicente.md)
 - [Renato Costa](../R/Renato%20Costa.md)
 - [Survivor](../../Acampamentos/2009/Survivor.md)
 

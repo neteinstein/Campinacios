@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1147 artigos e, em itálico, os 154 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1149 artigos e, em itálico, os 154 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -977,6 +977,7 @@
 - [Obra Prima](Acampamentos/2010/Obra%20Prima.md)
 - [Oh Pai, Keshumo](Acampamentos/2026/Oh%20Pai%2C%20Keshumo.md)
 - [Olha, Isto Aqui é uma Estátua](Acampamentos/2011/Olha%2C%20Isto%20Aqui%20%C3%A9%20uma%20Est%C3%A1tua.md)
+- [Online](Movimento/Online.md)
 - [OPA](Acampamentos/2007/OPA.md)
 - [OrienTu](Acampamentos/2008/OrienTu.md)
 - [Origami](Acampamentos/2006/Origami.md)
@@ -1008,6 +1009,7 @@
 - [Paula Gonçalves](Pessoas/P/Paula%20Gon%C3%A7alves.md)
 - [Paulo Braga](Pessoas/P/Paulo%20Braga.md)
 - [Paulo Cardoso](Pessoas/P/Paulo%20Cardoso.md)
+- [Paulo Correia](Pessoas/P/Paulo%20Correia.md)
 - [Paulo Duarte](Pessoas/P/Paulo%20Duarte.md)
 - [Paulo Gonçalves](Pessoas/P/Paulo%20Gon%C3%A7alves.md)
 - [Paulo Mesquita](Pessoas/P/Paulo%20Mesquita.md)

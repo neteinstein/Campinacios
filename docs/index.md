@@ -3,7 +3,7 @@
 <div class="wk-top" markdown="span">[Boas-vindas](Movimento/Boas-vindas.md) | [Ajuda](Wikin%C3%A1cios/Conte%C3%BAdos.md) | [Perguntas Frequentes](Movimento/FAQ.md) | [Contactos](Movimento/Contactos.md)</div>
 
 <div class="wk-banner" markdown>
-<div class="wk-count" markdown="span">**[1138 artigos](Todos%20os%20artigos.md)**</div>
+<div class="wk-count" markdown="span">**[1140 artigos](Todos%20os%20artigos.md)**</div>
 <div class="wk-welcome" markdown="span">[Bem-vindo(a)](Movimento/Boas-vindas.md) à **Wikinacios**,</div>
 <div class="wk-tagline" markdown="span">a enciclopédia livre sobre Campinácios que [(quase) todos podem editar](Wikin%C3%A1cios/Conte%C3%BAdos.md).</div>
 </div>
@@ -63,7 +63,7 @@ Ainda neste ano de 1989, no mês de Setembro, realizou-se o [Pedreira](Acampamen
 <div class="wk-section" markdown="span">**[Amigos](Movimento/Campin%C3%A1cios.md)**<br>[Camtil](Movimento/Camtil.md) &middot; [Gambozinos](Movimento/Gambozinos.md) &middot; [Florinhas](Acampamentos/1994/Florinhas.md)</div>
 <div class="wk-section" markdown="span">**[Vocabulário](Movimento/Vocabul%C3%A1rio.md)**<br>[Animador](Movimento/Animador.md) &middot; [Jesuíta](Movimento/Jesu%C3%ADta.md) &middot; [Participante](Movimento/Participante.md) &middot; [Culinácio](Movimento/Culin%C3%A1cio.md) &middot; [mais...](Movimento/Vocabul%C3%A1rio.md)</div>
 <div class="wk-section" markdown="span">**[Legislação](Movimento/Legisla%C3%A7%C3%A3o.md)**<br>[Legislação de Acampamentos Ocasionais](Movimento/Legisla%C3%A7%C3%A3o.md)</div>
-<div class="wk-section" markdown="span">**Online**<br>[Página oficial](https://www.campinacios.pt) &middot; [YouTube](https://www.youtube.com/@campinacios) &middot; [Instagram](https://www.instagram.com/campinacios/) &middot; [Facebook](https://www.facebook.com/campinacios/?locale=pt_PT) &middot; [Notícias](Movimento/Not%C3%ADcias.md)</div>
+<div class="wk-section" markdown="span">**[Online](Movimento/Online.md)**<br>[Página oficial](https://www.campinacios.pt) &middot; [YouTube](https://www.youtube.com/@campinacios) &middot; [Instagram](https://www.instagram.com/campinacios/) &middot; [Facebook](https://www.facebook.com/campinacios/?locale=pt_PT) &middot; [Notícias](Movimento/Not%C3%ADcias.md)</div>
 <div class="wk-section" markdown="span">**[Contribuidores](Wikin%C3%A1cios/Contribuidores.md)**</div>
 <div class="wk-section" markdown="span">**[Todos os artigos](Todos%20os%20artigos.md)**</div>
 </div>
