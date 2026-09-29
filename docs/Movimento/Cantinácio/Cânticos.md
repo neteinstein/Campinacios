@@ -4,11 +4,13 @@ Cânticos religiosos para as eucaristias, orações e momentos de reflexão.
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (183 músicas)
+## Índice (214 músicas)
 
 - [A BONDADE DO SENHOR](#a-bondade-do-senhor)
 - [ADORAMUS TE CHRISTE](#adoramus-te-christe) — Taizé
 - [ADORAMUS TE DOMINE](#adoramus-te-domine) — Taizé
+- [AGORA É HORA](#agora-e-hora) — Filipa Andrade
+- [AGRADECE A DEUS](#agradece-a-deus)
 - [ÁGUA](#agua)
 - [ALELUIA 17](#aleluia-17) — Taizé
 - [ALELUIA 7](#aleluia-7) — Taizé
@@ -18,12 +20,14 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [ALELUIA (CRISTO ESTÁ CONNOSCO)](#aleluia-cristo-esta-connosco)
 - [ALELUIA (DÓ MAIOR)](#aleluia-do-maior)
 - [ALELUIA (SENZENINA)](#aleluia-senzenina)
+- [AMAR](#amar) — Schoenstatt
 - [AMAR-TE A TI SENHOR](#amar-te-a-ti-senhor)
 - [A PALAVRA É DEUS EM NÓS](#a-palavra-e-deus-em-nos)
 - [A PAZ VAI CORRENDO](#a-paz-vai-correndo)
 - [APRENDIZ DE VIAJANTE](#aprendiz-de-viajante) — Nuno Tovar de Lemos sj
 - [A TUA PALAVRA SENHOR](#a-tua-palavra-senhor)
 - [AVÉ MARIA](#ave-maria)
+- [AVÉ MARIA DE MEDUGORGE](#ave-maria-de-medugorge)
 - [AVÉ MARIA ESTRELA DA MANHÃ](#ave-maria-estrela-da-manha)
 - [AVÉ MARIA, GRATIA PLENA](#ave-maria-gratia-plena)
 - [BENDIZ ALMA MINHA](#bendiz-alma-minha)
@@ -31,11 +35,15 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [CAMINHANDO PELA VIDA](#caminhando-pela-vida)
 - [CAMINHAREI](#caminharei)
 - [CAMINHO](#caminho)
+- [CANÇÃO DE MARIA](#cancao-de-maria) — Francisco Tavares- Dedicado ao Coro do CUMN
 - [CANTA ALELUIA](#canta-aleluia)
 - [CANTAI ALEGREMOS O SENHOR](#cantai-alegremos-o-senhor)
 - [CANTAI ALELUIA](#cantai-aleluia)
 - [CANTAREI](#cantarei)
 - [CANTAREI AO SENHOR](#cantarei-ao-senhor) — Taizé
+- [CELEBREMOS](#celebremos)
+- [COMEI DO PÃO](#comei-do-pao) — Jacques Berthier (Compositor Francês)
+- [COMO A TERRA](#como-a-terra)
 - [COMO O PAI ME AMOU](#como-o-pai-me-amou)
 - [COMO O PÃO QUE SE PARTE](#como-o-pao-que-se-parte)
 - [COMO SÃO BELOS](#como-sao-belos)
@@ -47,9 +55,12 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [CONTA AS ESTRELAS](#conta-as-estrelas)
 - [CONTIGO MARIA](#contigo-maria)
 - [CONVERSÃO](#conversao)
+- [CORÇA](#corca) — P. Nuno Tovar de Lemos sj
 - [CORDEIRO DE DEUS](#cordeiro-de-deus)
 - [CRISTO REI DA GLÓRIA](#cristo-rei-da-gloria)
+- [DÁ A PAZ](#da-a-paz)
 - [DÁ-ME UMA RAZÃO](#da-me-uma-razao)
+- [DÁ-NOS A TUA PAZ](#da-nos-a-tua-paz)
 - [DÁ-NOS UM CORAÇÃO](#da-nos-um-coracao)
 - [DEIXA A LUZ DO CÉU ENTRAR](#deixa-a-luz-do-ceu-entrar)
 - [DEUS DE BELEZA](#deus-de-beleza)
@@ -61,6 +72,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [EGO SUM PAUPER](#ego-sum-pauper)
 - [É IMPOSSÍVEL](#e-impossivel)
 - [EIS QUE NA DOR](#eis-que-na-dor)
+- [EMBARCAR](#embarcar) — P. Nuno Tovar De Lemos sj
 - [EM NOME DO PAI](#em-nome-do-pai)
 - [ENTREGA](#entrega)
 - [É O MEU CORPO](#e-o-meu-corpo)
@@ -78,6 +90,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [FELIZES OS QUE AMAM O SENHOR](#felizes-os-que-amam-o-senhor)
 - [FICA ENTRE NÓS](#fica-entre-nos)
 - [FICA JUNTO A NÓS](#fica-junto-a-nos)
+- [GLÓRIA A DEUS](#gloria-a-deus)
 - [GLÓRIA (TAIZÉ)](#gloria-taize) — Taizé
 - [GRÃO DE TRIGO](#grao-de-trigo)
 - [GUIADO PELA MÃO](#guiado-pela-mao)
@@ -90,19 +103,24 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [JUBILATE ALLELUIA](#jubilate-alleluia) — Taizé
 - [JUBILATE, SERVITE](#jubilate-servite)
 - [KIMBU](#kimbu)
+- [KYRIE](#kyrie)
 - [KYRIE ELEISON](#kyrie-eleison)
 - [LAUDATE DOMINUM](#laudate-dominum) — Taizé
 - [LAUDATE OMNES GENTES](#laudate-omnes-gentes) — Taizé
 - [LOUVADO SEJAS](#louvado-sejas)
+- [LUZ TERNA E SUAVE](#luz-terna-e-suave) — (Cardeal John Henry Newman)
 - [MÃE](#mae)
 - [MAGNIFICAT](#magnificat) — Taizé
 - [MARAVILHAS](#maravilhas)
+- [MEU TUDO (SAL DA TERRA)](#meu-tudo-sal-da-terra) — Simplus
 - [MISERICORDIAS DOMINI](#misericordias-domini) — Taizé
 - [MOSTRA-ME SENHOR](#mostra-me-senhor)
+- [NADA É IMPOSSÍVEL PARA TI](#nada-e-impossivel-para-ti) — Luís Roquette e Pedro Castro
 - [NADA NOS SEPARARÁ](#nada-nos-separara)
 - [NADA TE TURBE](#nada-te-turbe) — Taizé
 - [NÃO HÁ SOLIDÃO](#nao-ha-solidao)
 - [NÃO SEI COMO LOUVAR-TE](#nao-sei-como-louvar-te)
+- [NAQUELA NOITE](#naquela-noite) — P. Tarcísio Morais sdb
 - [NAS TUAS MÃOS SENHOR](#nas-tuas-maos-senhor)
 - [NAS TUAS MÃOS (TAIZÉ)](#nas-tuas-maos-taize) — Taizé
 - [NINGUÉM MAIS QUE A DEUS](#ninguem-mais-que-a-deus)
@@ -119,22 +137,29 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [O SENHOR É A MINHA FORÇA](#o-senhor-e-a-minha-forca) — Taizé
 - [O SENHOR É MEU PASTOR](#o-senhor-e-meu-pastor) — Nuno Tovar de Lemos
 - [OUVI A NOSSA ORAÇÃO](#ouvi-a-nossa-oracao)
+- [PAI](#pai)
 - [PAI NOSSO GALEGO](#pai-nosso-galego)
 - [PAI QUE ESTÁS NO CÉU](#pai-que-estas-no-ceu)
 - [PAI SANTO, EU TE ADORO](#pai-santo-eu-te-adoro)
+- [PARTO CONFIANTE](#parto-confiante)
 - [PEDACINHO DE DEUS](#pedacinho-de-deus)
 - [PERDOA SENHOR](#perdoa-senhor)
+- [PERDOA SENHOR O NOSSO DIA](#perdoa-senhor-o-nosso-dia)
 - [PEREGRINO](#peregrino)
 - [PERMANECE EM MIM](#permanece-em-mim)
+- [PORQUE TODA A VIDA VEM DE TI](#porque-toda-a-vida-vem-de-ti) — Jésed- Verbum Dei
 - [PREPARAI O CAMINHO AO SENHOR](#preparai-o-caminho-ao-senhor)
 - [PRINCIPALMENTE](#principalmente)
 - [QUANDO TE ENCONTRO DESCANSO](#quando-te-encontro-descanso)
 - [QUANTO ESPEREI ESTE MOMENTO](#quanto-esperei-este-momento)
+- [QUEIRA EU O QUE DEUS QUER](#queira-eu-o-que-deus-quer) — Luís Palha
+- [QUEM AS MÃOS ESTENDE](#quem-as-maos-estende)
 - [QUEM NOS SEPARARÁ DO SEU AMOR](#quem-nos-separara-do-seu-amor)
 - [QUERO LOUVAR-TE](#quero-louvar-te)
 - [QUERO SER COMO TU](#quero-ser-como-tu)
 - [RAZÃO DE SER](#razao-de-ser) — Ir. Maria do Céu
 - [RECADO](#recado)
+- [SABOR DA MAÇÃ](#sabor-da-maca) — Pe. Duarte Rosado sj
 - [SANTO (CABO VERDE)](#santo-cabo-verde)
 - [SANTO (DEUS DO UNIVERSO)](#santo-deus-do-universo)
 - [SANTO (DUAS VOZES)](#santo-duas-vozes)
@@ -160,10 +185,13 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [SENHOR TEM PIEDADE DE NÓS](#senhor-tem-piedade-de-nos)
 - [SENHOR TENDE PIEDADE (ALENTEJANO)](#senhor-tende-piedade-alentejano)
 - [SENHOR TENDE PIEDADE (KUMBAYA)](#senhor-tende-piedade-kumbaya)
+- [SENHOR TU ÉS A LUZ](#senhor-tu-es-a-luz)
 - [SENHOR TU FASCINAS-ME!](#senhor-tu-fascinas-me)
 - [SENHOR VENHO HOJE AQUI DEIXAR](#senhor-venho-hoje-aqui-deixar)
 - [SE TU QUISERES SER FELIZ](#se-tu-quiseres-ser-feliz)
 - [SHEMA ISRAEL](#shema-israel)
+- [SIYAHAMBA](#siyahamba) — (música Sul-Africana “We are marching”)
+- [SÓ DEUS BASTA](#so-deus-basta)
 - [SÓ POR TI JESUS](#so-por-ti-jesus)
 - [SOPRO LEVE](#sopro-leve)
 - [SURREXIT CHRISTUS](#surrexit-christus) — Taizé
@@ -181,6 +209,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [VEM INTEIRO SENHOR](#vem-inteiro-senhor) — Ir. Maria do Céu
 - [VEM SENHOR](#vem-senhor)
 - [VEM SENHOR JESUS](#vem-senhor-jesus)
+- [VEM VIVER EM NÓS](#vem-viver-em-nos)
 - [VENHO PARA APRENDER A SER SANTO](#venho-para-aprender-a-ser-santo)
 - [VENI LUMEN](#veni-lumen) — Taizé
 - [VENITE EXULTEMUS DOMINUM](#venite-exultemus-dominum) — Taizé
@@ -189,6 +218,8 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [VIM AQUI](#vim-aqui)
 - [VINHO E PÃO](#vinho-e-pao)
 - [VIVA A DEUS (SENHOR TENDE PIEDADE)](#viva-a-deus-senhor-tende-piedade)
+- [VIVEREI](#viverei)
+- [VOU-TE MOSTRAR](#vou-te-mostrar) — Simplus
 
 ## Músicas
 
@@ -245,6 +276,57 @@ redemisti mun-dum.
 ```text
 Dó Sol Lám  Fá           Sol        Dó
 Oh....          Adoramus Te Domine
+```
+
+### AGORA É HORA {#agora-e-hora}
+
+*Filipa Andrade*
+
+```text
+Travessão  1ª  casa
+ Mi     Sol#m
+Agora é hora
+         Lá            Si7
+De oferecer todo o meu ser
+Na tristeza, na pobreza
+Na alegria de cada dia
+
+Mi    Sol#m            Dó#m
+É tão pouco o que oferecemos
+     Lá         Si7
+Mas é tudo o que temos (2x)
+
+Agora é hora
+De dizer obrigado
+Ao Senhor, que é amor
+Nossa vida, nosso calor
+
+É tão pouco o que oferecemos
+Mas é tudo o que temos (2x)
+
+Agora é hora
+```
+
+### AGRADECE A DEUS {#agradece-a-deus}
+
+```text
+Ré          Mi
+Agradece a Deus
+     Sol           Ré
+Pela vida* que te deu
+                        Mi
+Pára romeiro e louva a Deus,
+     Sol             Ré
+Pela vida*, louva a Deus
+
+Ré  Lám            Ré
+Por cada passo que dás
+Lám                   Fá
+Inventa Deus lá dos céus
+Lám                Mim          Sol
+Mil passagens, mil portas de marfim
+        Lá     Lá7
+Só p’ra ti
 ```
 
 ### ÁGUA {#agua}
@@ -405,6 +487,56 @@ Aleluia, aleluia
 
 Glória ao Senhor
 Porque Ele é bom (2 x)
+```
+
+### AMAR {#amar}
+
+*Schoenstatt*
+
+```text
+Travessão  1ª  casa
+Ré  Lá  Sim  Sol
+Sol Ré         Fá#m
+Senhor, eu não quero sentir
+          Dó
+Que o Teu mandamento de amor
+  Sol
+É só uma obrigação
+Mim
+Mas que ele venha de dentro
+Sol           Lá7
+Eu quero ser o Teu instrumento
+
+Senhor, quero ser feliz
+Amando os meus irmão
+De uma forma natural
+Quero sorrir e quero chorar
+Com o que me deste para desfrutar
+
+Ré   Fá#m                       Sim
+Amar, eu quero aprender a amar
+             Lá      Sol
+Porque eu nasci para amar
+   Mim
+Ao dar-me o teu Sopro Divino
+  Sol                Lá7
+Marcaste o meu ideal
+
+Ré
+Amar, eu quero aprender a amar
+Porque eu nasci para amar
+Para saber que estou vivo
+Porque há algo Teu que eu sei dar
+    Ré
+O amor
+
+Senhor, quero descobrir
+Que há algo Teu que me deste
+Que posso partilhar
+E abraçar confiante a vida
+Sabendo que vou fazer-te feliz
+
+Amar, eu quero aprender a amar (…)
 ```
 
 ### AMAR-TE A TI SENHOR {#amar-te-a-ti-senhor}
@@ -568,6 +700,37 @@ Perdão concede mais uma vez
       Seja a rezar, Avé Maria
 ```
 
+### AVÉ MARIA DE MEDUGORGE {#ave-maria-de-medugorge}
+
+```text
+Ré           Lá             Sol Lá
+Todo o dia eu espero
+Ré               Lá         Sol             Lá
+Que esta hora chegue enfim
+Ré            Lá         Fá#             Sim
+Para sentir que o Teu olhar
+          Sol          Lá              Ré
+Descansa agora em mim
+
+
+Ré Lá     RéLá Ré  Lá  Sol  Lá
+Avé Maria, Gratia Plena
+Ré       Lá   Fá# Sim  Sol      Lá      Ré
+Dominus Tecum, Benedicta Tu
+
+
+Venho confiar-Te
+O que eu tenho e o que sou
+P‟las mãos chegue a Jesus
+E tudo quanto dou
+
+
+Levo a confiança
+Que o Teu amor deixou
+Olha por mim, Mãe de Jesus
+Contigo agora esto
+```
+
 ### AVÉ MARIA ESTRELA DA MANHÃ {#ave-maria-estrela-da-manha}
 
 ```text
@@ -721,6 +884,52 @@ Assim conseguirás
 Chegar a ser feliz
 ```
 
+### CANÇÃO DE MARIA {#cancao-de-maria}
+
+*Francisco Tavares- Dedicado ao Coro do CUMN*
+
+```text
+Sol     Sol/Fá#   Mim Ré
+Teu pai Te fez em mimE pôs nos olhos teus
+O brilho de Deus
+Dó         Sim    Lám
+Teu pai Te pôs em mim,
+És filho de Deus
+Ré
+                                                    Ré
+Te fez assim
+O brilho de Deus
+
+Cresceste dentro de mim
+Vives tão dentro de mim
+           Ré
+Queimas no centro de mim
+Choras nos braços meus
+         Dó
+Jesus, o brilho de Deus
+   Sim
+És filho de Deus
+  Lám             Ré
+O brilho de Deus
+
+Sol              Ré
+Descansa em mim, Jesus
+Si7             Mim
+Dorme no meu embalar
+Lám                  Ré
+Não tens que chorar
+Sol              Ré
+Ouve Teu Pai a dizer
+     Dó                Sim
+Em segredo “não tenhas medo”
+Lám
+Comigo a Teu lado
+Ré/Fá#*        Sol
+Não tens que temer.
+
+*Ré/Fá#:  2x023x
+```
+
 ### CANTA ALELUIA {#canta-aleluia}
 
 ```text
@@ -858,6 +1067,111 @@ Sol       Dó        Lám        Ré
 Nele encontro a minha alegria
 Sol       Dó        Lám        Si7
 Nele encontro a minha alegria
+```
+
+### CELEBREMOS {#celebremos}
+
+```text
+   Lá    Sim Ré    Lá
+Cantemos a Nosso Senhor
+Lá       Sim  Sol  Ré   Lá
+Um canto novo pois Seu amor
+Dó#m      Ré       Lá
+É grande por todos nós
+Sim   Dó#m Ré       Mi        Mi7
+Vamos hoje ao seu encontro
+
+Louvemos juntos Nosso Senhor
+Demos graças a Nosso Pai
+Que nos oferece Jesus
+Pelo Seu Espírito Santo
+
+     Lá    Sim Mi          Lá     Sim Ré
+Celebremos o Senhor que dá vida
+Dó#7       Fá#m Ré Lá Mi   Lá
+O ressuscitado, Cristo Senhor (2x)
+```
+
+### COMEI DO PÃO {#comei-do-pao}
+
+*Jacques Berthier (Compositor Francês)*
+
+```text
+Sol      Dó  Lám       Ré
+Comei do pão, bebei do vinho
+Sim             Mim      Ré
+Quem vem a mim não terá fome
+Sol      Ré   Mim      Sim
+Comei do pão, bebei do vinho
+Dó             Ré       Sol
+Quem vem a mim não terá sede
+
+Mim             Si7
+Eu sou o pão da vida
+  Dó      Lám       Ré
+O pão que desceu do Céu
+
+Quem comer deste pão
+Viverá para a eternidade
+
+Todo o que viver em mim
+Terá vida em abundância
+
+O pão que desceu do Céu
+É para dar a vida ao Mundo
+
+Vinde todos e comei
+Comei e jamais tereis fome
+```
+
+### COMO A TERRA {#como-a-terra}
+
+```text
+                  Sol
+                                           Dó                         Sol
+Como a terra espera a chuva que a fecunde e a mantenha
+                                                                   Dó                                 Ré
+Como a areia do deserto fala ao vento que a acompanha
+                   Dó
+
+
+   Ré
+Como a corsa corre e salta até achar onde beber.
+         Sol
+   Ré         Sol         Ré                 Sol    Sol7
+Esperamos o Senhor até Ele aparecer,
+
+
+
+Dó
+               Ré
+         Sol           Sol7
+Vem Senhor Jesus, ó vem depressa!
+Dó
+                Ré                     Sol
+Vem Senhor Jesus ó vem depressa!
+
+
+
+Como o guarda pela aurora esperamos o Senhor,
+Como alguém espera atento o seu amigo com ardor,
+Como a palma espera o vento até chegar o entardecer,
+Esperamos o Senhor, até Ele aparecer,
+
+
+
+Vem Senhor Jesus, ó vem depressa!
+Vem Senhor Jesus, ó vem depressa!
+
+
+Como a flor chama o sol, que sempre a alumia
+Como a noite e as estrelas chamam sempre um novo dia
+Como o dia chama a noite e como a noite o amanhecer
+Esperamos o Senhor, até Ele aparecer
+
+
+Vem Senhor Jesus, ó vem depressa!
+Vem Senhor Jesus, ó vem depressa!
 ```
 
 ### COMO O PAI ME AMOU {#como-o-pai-me-amou}
@@ -1268,6 +1582,24 @@ Vem gritar que um fogo arde em nós
 E a Promessa avança
 ```
 
+### CORÇA {#corca}
+
+*P. Nuno Tovar de Lemos sj*
+
+```text
+Assim como uma corça
+    Sol Mim   Lá
+Suspira pelas águas
+ Ré       Ré/Dó#  Sim
+Assim suspira a minha alma
+       Sol Lá     Ré
+P’lo espirito de Deus
+
+Ó enche-me Espirito
+Enche-me Espirito
+Enche-me Espirito de Deus (2x)
+```
+
 ### CORDEIRO DE DEUS {#cordeiro-de-deus}
 
 ```text
@@ -1319,6 +1651,41 @@ Ré    Lá     Ré
 Vem, vem, vem Senhor Jesus
 ```
 
+### DÁ A PAZ {#da-a-paz}
+
+```text
+            Dó        Sol  Fá         Dó
+Dá a paz irmão, dá a paz
+      Fá                    Sol                    Lám
+Constrói-a no teu coração
+                          Mim                 Fá
+E com o teu gesto afirmarás
+                             Sol
+Que queres a paz
+
+Que a tua paz, irmão, seja um dom
+É o melhor sinal de amor
+Que tu nos podes oferecer,
+Abraço de paz.
+
+
+Dó    Sol  Lám
+Paz na Terra
+Dó    Sol     Lám
+Paz nas alturas
+     Fá                           Sol      Dó
+Que o gozo eterno reine
+    Fá                                 Sol
+Nos nossos corações.
+
+
+Paz na Terra
+Paz nas alturas
+Que o gozo eterno reine
+    Fá                       Sol       Dó
+Nos nossos corações
+```
+
 ### DÁ-ME UMA RAZÃO {#da-me-uma-razao}
 
 ```text
@@ -1350,6 +1717,22 @@ Eu irei pela estrada
 Anunciar
 Que Tu virás
 Jesus Cristo, Senhor
+```
+
+### DÁ-NOS A TUA PAZ {#da-nos-a-tua-paz}
+
+```text
+Lá
+Dá-nos Tua paz
+           Sim
+Dá-nos Tua paz
+Ré                    Lá
+Ó Senhor, dá-nos Tua paz
+   Mi          Ré            Lá
+Fica aqui, Senhor, perto de nós (bis)
+          Sol Fá   Dó
+Que a Tua paz reinará (bis)
+Mi  Ré  Lá
 ```
 
 ### DÁ-NOS UM CORAÇÃO {#da-nos-um-coracao}
@@ -1641,6 +2024,54 @@ Em um só povo renascidos
 No mesmo espírito fortes
 Proclamaremos no mundo
 O Senhor está vivo!
+```
+
+### EMBARCAR {#embarcar}
+
+*P. Nuno Tovar De Lemos sj*
+
+```text
+Lá7M                                 Sim
+Embarcar deixar p’ra trás os sonhos certos
+ Mi7                Lá7M
+Arriscar tudo em Ti
+                                  Sim
+Abrir asas grandes e deixar que sopres
+              Mi7                      Lá7
+E à noite os dois, trocar estrelas no Céu
+          Fá#m             Sim            Mi7
+Que posso dar a alguém que deu a vida por mim
+Lá7M Fá#m Sim Mi7
+O que te darei se até a força de dar vem de TI
+
+Ré           Mi7
+Falarei de Ti a todos
+Lá7M            Fá#m           Sim
+Gritarei que és bom e Santo e tudo mais
+   Mi7   Lá7M     Lá7
+Só cresce junto a Ti (2x)
+
+Navegar p’lo mar e acordar com as ondas
+Ser forte só em Ti
+Pisar ilhas novas, acampar na praia
+E á noite os dois
+Trocar estrelas no Céu
+
+Que posso dar a alguém que deu a vida por mim
+O que Te darei se até a força de dar vem de ti
+
+Falarei de Ti a todos (...)
+
+Passar e deixar que pensem que eu sou louco
+Por falar só de Ti
+Cantar notas novas, inventar palavras
+E à noite os dois
+Trocar estrelas no Céu
+
+Que posso dar a alguém que deu a vida por mim
+O que te darei se até a força de dar vem de ti
+
+Falarei de Ti a todos (...)
 ```
 
 ### EM NOME DO PAI {#em-nome-do-pai}
@@ -2186,6 +2617,41 @@ Contigo somos nascentes de água pura
 Se estás presente o deserto florirá
 ```
 
+### GLÓRIA A DEUS {#gloria-a-deus}
+
+```text
+Sol
+                 Sol                                    Dó
+Glória a Deus, glória, glória a Deus
+                 Sol                                   Ré
+Glória a Deus, lá no alto dos Céus
+                 Sol                                    Dó
+Glória a Deus, glória, glória a Deus
+                Sol                Ré                   Sol
+E paz na Terra aos homens de bem
+
+
+
+                     Sol                                  Dó                   Sol
+Glória a Deus nosso Pai, Senhor omnipotente,
+             Dó                           Ré
+Criador do Céu, da Terra e toda a gente
+
+Vos louvamos, bendizemos, adoramos Senhor
+Damos graças ao poder da Vossa glória e amor
+
+Glória a Deus, glória (…)
+
+Glória ao Filho unigénito homem nosso irmão,
+Emanuel, Deus connosco, nossa vida e salvação
+
+Nossa esperança e nossa paz é o Cristo Salvador
+Pela nova aliança do amor libertador
+
+Glória ao Espírito Santo, Senhor que dá a vida
+Amor do Pai e do Filho que ao amor convida
+```
+
 ### GLÓRIA (TAIZÉ) {#gloria-taize}
 
 *Taizé*
@@ -2495,6 +2961,20 @@ A-a-a-a-aleluia
 A-a-a-a-aleluia
 ```
 
+### KYRIE {#kyrie}
+
+```text
+Dóm Sol#  Sol7 Dóm
+Kyrie Eleison (3x)
+Kyrie Eleison (3x)
+
+Christ Eleison (3x)
+Christ Eleison (3x)
+
+Kyrie Eleison (3x)
+Kyrie Eleison (3x)
+```
+
 ### KYRIE ELEISON {#kyrie-eleison}
 
 ```text
@@ -2567,6 +3047,57 @@ Pelos homens lançados na aventura
 De semearem a felicidade
 ```
 
+### LUZ TERNA E SUAVE {#luz-terna-e-suave}
+
+*(Cardeal John Henry Newman)*
+
+```text
+               Lá
+Que importa Senhor
+Se é tão longe para mim
+                         Mi
+A praia onde tenho de chegar
+Se sobre mim levar
+   Mi7                       Lá
+Pousada a clara luz do Teu olhar
+
+        Fá#m
+Hoje te peço Senhor
+Ré            Mi7       Lá
+Para seres a luz que me ilumina
+        Ré          Mi7
+Na plenitude da Tua luz divina
+
+Lá            Ré              Mi
+Luz terna e suave no meio da noite
+               Mi7             Lá
+(Luz terna e suave no meio da noite)
+Ré             Mi
+Leva-nos mais longe (Leva-nos mais longe)
+Fá#m        Ré Fá#m   Ré       Mi
+Não temos aqui uma morada permanente
+              Ré Mi7
+Leva-nos mais longe
+Lá            Ré  Mi7         Lá
+Luz terna e suave no meio da noite
+
+E não me deixarás abandonado
+
+Esquece Senhor
+Os meus passos mal andados
+Meu desamor
+Perdoa os meus pecados
+Eu sei que vai raiar a madrugada
+E não me deixarás abandonado
+
+Se tu me dás a mão, Senhor
+Os meus passos serão firmes no andar
+Leva-nos mais longe
+Para até ti chegar
+
+Luz terna e suave (…)
+```
+
 ### MÃE {#mae}
 
 ```text
@@ -2621,6 +3152,39 @@ Pois na minha pequenez
 Se detiveram seus olhos
 ```
 
+### MEU TUDO (SAL DA TERRA) {#meu-tudo-sal-da-terra}
+
+*Simplus*
+
+```text
+Ré Ré/Dó#*          Sim
+Senti-Te mesmo do nada
+Sol               Lá7
+Experienciei a loucura da solidão das trevas
+Fá#m         Sim
+Sabia-Te presente
+  Sol Lá7    Ré     Ré7
+Sabia-Te paciente
+
+Sol         Lá               Ré     Ré7
+Por Ti eu quero ser sal da terra
+Sol        Lá     Fá#m      Sim
+Por Ti eu quero ser luz do mundo
+     Sol Lá         Ré Ré/Dó#  Sim
+Percebi que sem Ti não sou eu
+      Sol       Lá             Ré
+Descobri que conTigo posso ser eu
+
+Quando por fim já quase num grito
+Chamei por Ti, já me tinha conquistado
+És aquele que espera
+Aquele que sempre alcança
+
+Por Ti eu quero ser sal da terra (...)
+
+Ré/Dó#*:  x4x230
+```
+
 ### MISERICORDIAS DOMINI {#misericordias-domini}
 
 *Taizé*
@@ -2642,6 +3206,44 @@ Ré              Lá        Sim Fá#m Sol
 Para que eu queira fazer
              Ré   Sol       Lá
 Só o que for a tua vontade.
+```
+
+### NADA É IMPOSSÍVEL PARA TI {#nada-e-impossivel-para-ti}
+
+*Luís Roquette e Pedro Castro*
+
+```text
+  Ré                     Sol
+A minha vida é, uma vida calma
+Ré
+Foi-me enviado um anjo
+                    Sol
+Que entrou em minha casa
+Mim     Ré/Fá# * Dó9               Lá7
+Avé Maria(aaaa) Deus está contigo(oooo)
+
+        Ré       Ré/Dó#
+“Porquê eu? Como eu?”
+       Sim         Lá          Sol
+“Porque nada é impossivel para Ti!” (2x)
+
+Ré                       Sol
+Não tenhas medo, porque foste escolhida
+Ré
+Para acolher o filho de Deus,
+  Sol                Ré/Fá#
+O reino dos Céus
+    Mim          Ré/Fá#      Dó9                Lá7
+Que não terá fim (im), e que hoje vive em mim
+
+“Porquê eu? Como eu?”
+“Porque nada é impossivel para Ti”
+
+*  Dó9:  x32033
+
+*  Ré/F#:  2x023x
+
+*  Ré/C#:  x4x230
 ```
 
 ### NADA NOS SEPARARÁ {#nada-nos-separara}
@@ -2734,6 +3336,45 @@ Graças por Tua palavra, graças pelo amor
 Graças por Nossa Mãe, graças Te dou, Senhor
 Graças por meus irmãos, graças pelo perdão
 Graças porque nos queres juntos em Ti, Senhor
+```
+
+### NAQUELA NOITE {#naquela-noite}
+
+*P. Tarcísio Morais sdb*
+
+```text
+Sol
+Naquela noite
+Ré/Fá#
+Em que ele era entregue
+Mim
+Tomou o Pão e o Cálice
+       Sim
+Dando graças dizendo
+         Dó                 Sol
+que este pão é corpo do meu corpo
+       Dó                         Ré
+E este cálice é sangue da nova aliança
+
+Sol              Ré/Fá#
+Fazei em minha memória
+              Mim
+Em memória de Mim
+               Sim
+O que eu vos disser
+      Dó                         Sol
+Porque sempre que comerdes deste pão
+                 Ré       Mib Meio  Diminuto *
+E beberdes deste vinho
+     Mim           Sim
+Lembrareis a Minha morte
+            Dó     Lám      Ré
+Até ao novo dia da ressurreição
+Fazei em minha memória
+      Dó
+Tudo aquilo que Eu
+           Ré       Sol
+Tudo o que Eu vos disser
 ```
 
 ### NAS TUAS MÃOS SENHOR {#nas-tuas-maos-senhor}
@@ -3226,6 +3867,53 @@ Dá-nos teu amor
 A tua verdade (A tua verdade)
 ```
 
+### PAI {#pai}
+
+```text
+Dó       Fá    Sol       Dó
+Pai, assim Te vou chamar
+   Fá    Sol Dó       Lám
+Do universo és Senhor
+   Fá           Sol
+Mas não sinto distância
+Dó
+Em Ti
+Fá    Sol Dó
+Para me abrigar
+     Fá      Sol   Dó        Lám
+Estendeste o manto protector
+    Fá           Sol     Sol7
+Num abraço de esperança
+
+               Fá      Sol Dó     Dó7
+E sei que és o meu melhor amigo
+          Fá     Sol Dó       Dó7
+E levo-Te dentro do meu ser
+                 Fá      Sol   Dó     Dó7
+Onde quer que eu vá Tu vens comigo
+                Fá    Sol    Dó    Lám
+Teu Espírito em mim irá, me guiará
+                      Fá
+Um Pai que sempre estará
+Sol     Dó
+Aonde eu vá
+
+Pai, o pão de cada dia
+Fá  Dó
+Liberta a minha alma
+Eu peço confiante e sei
+                                     Fá     Dó
+Que não devo temer
+De todo o rancor
+O amanhã, a dor ou a alegria
+                                Fá          Dó
+Ensina-me a aceitar sem medoPara que possa caber o teu
+O que a vida trouxer
+     Sol
+amor
+E sei que és o meu melhor amigo(…)
+```
+
 ### PAI NOSSO GALEGO {#pai-nosso-galego}
 
 ```text
@@ -3293,6 +3981,42 @@ Como eu Te amo
 Como eu Te amo
 ```
 
+### PARTO CONFIANTE {#parto-confiante}
+
+```text
+Dó                 Fá
+Parto confiante
+                Sol                          Dó
+Com a graça que me deste
+       Lám                    Ré
+Ao teu lado, Senhor
+    Sol                  Dó    Dó7
+O amor prevalece
+
+
+Fá           Sol         Dó                       Lám
+Ao Senhor ofereço o meu caminho
+       Fá                      Sol
+Andando até Maria,
+Mi                       Lám Fá
+Nunca irei sozinho
+        Dó           Sol
+Senhora da Lapa,
+     Lám               Sol
+Para Ti eu caminho.
+
+
+Em Tuas mãos entrego
+Toda a  minha vida
+Ofereço-a pelos passos
+Desta estrada percorrida
+
+Os dons que recebi
+Quero partilhar
+Com aqueles que comigo
+Até Ti querem chegar
+```
+
 ### PEDACINHO DE DEUS {#pedacinho-de-deus}
 
 ```text
@@ -3350,6 +4074,32 @@ Contudo faz-nos sentir
 Perdoar é esquecer a antiga guerra
 E partindo recomeçar de novo
 Como o sol que sempre beija a terra
+```
+
+### PERDOA SENHOR O NOSSO DIA {#perdoa-senhor-o-nosso-dia}
+
+```text
+        Mi           Sol#m                Lá
+Perdoa, Senhor, o nosso dia
+          Mi                  Lá                  Si7
+A ausência de gestos corajosos
+         Dó#m           Sol#m
+          Lá
+A fraqueza dos actos consentidos
+     Mi                      Si7                       Mi
+A vida dos momentos mal amados.
+
+
+Perdoa o espaço que Te não demos
+Perdoa porque não nos libertámos
+Perdoa as correntes que pusemos
+Em Ti, Senhor, porque não ousamos.
+
+
+Contudo faz-nos sentir
+Perdoar é esquecer a antiga guerra
+E partindo recomeçar de novo
+Como o sol, que sempre beija a Terra.
 ```
 
 ### PEREGRINO {#peregrino}
@@ -3428,6 +4178,21 @@ Suas vinhas e o vale como porta de esperança
 
 E eu lhe direi "tu és Meu povo",
 Me responderá "Tu o meu Deus"
+```
+
+### PORQUE TODA A VIDA VEM DE TI {#porque-toda-a-vida-vem-de-ti}
+
+*Jésed- Verbum Dei*
+
+```text
+       Ré     Sol  Lá        Sim
+Porque toda a vida vem de ti
+Sol    Ré   Sol    Lá
+Em tua luz, vejo a luz
+       Ré     Sol  Lá        Sim
+Porque toda a vida vem de ti
+Sol   Lá    Sol   Lá    Ré
+E tua luz, faz-me ver a luz
 ```
 
 ### PREPARAI O CAMINHO AO SENHOR {#preparai-o-caminho-ao-senhor}
@@ -3587,6 +4352,53 @@ Foi por ti, só por ti, porque te amo
 Ninguém te ama como eu
 ```
 
+### QUEIRA EU O QUE DEUS QUER {#queira-eu-o-que-deus-quer}
+
+*Luís Palha*
+
+```text
+Dó                   Sol
+Mas que descanso é viver
+     Fá
+A morrer todos os dias por ir
+Dó                 Sol
+Contra o Próprio querer
+     Fá
+Esquecer o que se queria
+    Lám    Sol     Fá
+E querer O que Deus quer
+        Lám Sol     Fá
+Queira eu o que Deus quer
+```
+
+### QUEM AS MÃOS ESTENDE {#quem-as-maos-estende}
+
+```text
+Ré
+Quem as mãos estende
+     Sol Lá7     Ré
+Quem sabe dar valor
+       Sim      Mim
+E quem nunca se cansa
+Lá7      Ré
+Sabe de amor
+
+Quem cada manhã
+Saúda alegre o sol
+Quem é forte, quem vive
+Sabe de amor
+
+Quem não se retira
+Quem cuida com amor
+Quem as portas não fecha
+Sabe de amor
+
+Quem tem escondida
+Sua força numa cruz
+É porque recebeu
+De Deus essa luz
+```
+
 ### QUEM NOS SEPARARÁ DO SEU AMOR {#quem-nos-separara-do-seu-amor}
 
 ```text
@@ -3744,6 +4556,68 @@ Senhora aceita tudo o que é meu
 Aqui me encontro ajoelhado
               Mi               Lám
 Assim me dou ao Filho Teu
+```
+
+### SABOR DA MAÇÃ {#sabor-da-maca}
+
+*Pe. Duarte Rosado sj*
+
+```text
+Ré                  Ré7
+Quem é que fez o mundo
+       Sol                    Ré
+Quem inventou o sabor da maçã
+Sim                      Fá#m   Sol
+Quem é que inventou as estrelas
+       Ré      Lá7        Ré7
+Quem levanta o sol pela manhã
+
+ Ré
+Tudo isto
+Ré
+Mesmo sem
+Ré     Ré7
+Se não o recebo
+Ré
+Nunca o sabe
+
+Quantas vezes
+Sem nunca de
+Quem é que
+P’ra gostares
+
+Quem é que inventou a vida
+Quem é que vestiu as flores
+Quem encena o pôr do sol
+Quem é que inventou as cores
+
+Tudo isto m
+
+Quem é que faz bater as ondas
+Quem - faz as árvores crescer
+Quem é que inventou a água
+E me faz a mim viver
+
+Sol
+me é dado
+         Lá7
+eu o merecer
+Sol     Solm
+como um dom
+ Lá7       Ré
+rei agradecer
+
+bate o coração
+pender de mim
+sou eu p’ra ti
+de mim assim
+
+Quem é que faz girar a terra
+Quem é que encheu o mar
+Quem pintou de azul o céu
+Quem foi o primeiro a amar
+
+e é dado (...)
 ```
 
 ### SANTO (CABO VERDE) {#santo-cabo-verde}
@@ -4386,6 +5260,19 @@ Cristo tende piedade...
 Senhor tende piedade...
 ```
 
+### SENHOR TU ÉS A LUZ {#senhor-tu-es-a-luz}
+
+```text
+  Dó      Sol   Lám
+Senhor tu és a luz
+       Fá             Sol
+Que ilumina a terra inteira
+   Dó Sol Lám
+Tu és a luz
+       Fá           Sol Dó
+Que ilumina a minha vida
+```
+
 ### SENHOR TU FASCINAS-ME! {#senhor-tu-fascinas-me}
 
 ```text
@@ -4470,6 +5357,66 @@ Adonai Ehad
 Escuta Israel o Senhor é o nosso Deus
 Fá     Sol  Dó                      Fá     Mi   Lám
 Um é o Senhor  (Repetição: Um é o Senhor)
+```
+
+### SIYAHAMBA {#siyahamba}
+
+*(música Sul-Africana “We are marching”)*
+
+```text
+Siyahamba ekukhanyeni Kwenkos
+    Si7                   Mi
+Siyahamba ekukhanyeni Kwenkos (2x)
+  Mi7
+(anyen kwenkos)
+    Lá
+Siyahamba (hamba)
+    Mi
+Siyahamba (hamba)
+    Si7                   Mi
+Siyahamba ekukhanyeni Kwenkos (bis)
+
+We are marching in the light of God
+We are marching in the light of God (bis)
+(the light of God)
+
+We are marching (marching)
+We are marching (marching)
+We are marching in the light of God (bis)
+```
+
+### SÓ DEUS BASTA {#so-deus-basta}
+
+```text
+Sol      Ré
+Tu nada temas
+Dó         Ré
+Nada te espante
+Sol        Ré
+Pois tudo passa
+Dó         Ré
+Deus nunca muda
+
+Mim   Sim
+A paciência
+Dó      Sol
+Tudo alcança
+Mim             Dó
+Quem a Deus tem
+Lám       Ré
+Nada lhe falta
+
+        Sol    Ré
+Só Deus Basta
+        Dó     Ré
+Só Deus Basta
+        Mim       Dó
+Só Deus basta
+      Ré      Ré7
+Aleluia (2x)
+
+      Sol
+Aleluia
 ```
 
 ### SÓ POR TI JESUS {#so-por-ti-jesus}
@@ -5001,6 +5948,17 @@ Como a palma espera o vento ao chegar o entardecer
 Esperamos o Senhor até Ele aparecer
 ```
 
+### VEM VIVER EM NÓS {#vem-viver-em-nos}
+
+```text
+Ré    Ré/Dó#* Sim
+Vem viver em nós Senhor
+Sol   Mim    Lá7
+Vem viver em nós (2x)
+
+Ré/Dó#*:  x4x23
+```
+
 ### VENHO PARA APRENDER A SER SANTO {#venho-para-aprender-a-ser-santo}
 
 ```text
@@ -5370,4 +6328,70 @@ Cristo tende piedade de nós,
 Cristo tende piedade de nós
 Senhor tende piedade de nós,
 Senhor tende piedade de nós
+```
+
+### VIVEREI {#viverei}
+
+```text
+Fá Sol  Fá Sol
+Senhor, Senhor
+      Dó   Sol           Ré           Mim
+Quero-te pedir perdão (pedir perdão)
+               Lá7          Mim
+Senhor tem piedade (de nós)
+               Lá7          Rém
+Cristo tem piedade (de nós)
+               Sol Dó
+Senhor tem piedade de nós
+
+E assim (viverei), viverei
+Ó Senhor para te encontrar
+(para Te encontrar)
+
+Para amar-Te Sempre (viverei)
+Adorar-Te sempre (viverei)
+E seguir-Te sempre, Viverei
+Senhor (senhor)
+Senhor (senhor)
+```
+
+### VOU-TE MOSTRAR {#vou-te-mostrar}
+
+*Simplus*
+
+```text
+Travessão  3ª  casa
+Lám       Sol                 Fá
+Vou-te mostrar que as árvores riem p’ra ti
+Lám       Sol                  Fá
+Vou-te mostrar que as estrelas dão sinais de si
+Lám       Sol                 Fá
+Vou-te mostrar que o sol te aquece e te abraça
+Lám   Sol             Fá
+E que tudo não passa de um saber viver
+        Dó       Dó   Sim9* Fá
+E contemplar...
+
+Dó        Sim9*             Fá
+Olha à tua volta e pensa em Deus
+ Dó            Sim9*            Fá
+Aquele que deu tudo e tudo aos seus
+Lám                 Sim9*         Fá
+Entrega-Lhe o teu estar e o teu olhar
+
+            Ré7m*                Sol
+E sem o reparar, Ele vai-te abraçar
+Mi7       Lám    Sol Fá
+Vai-te ajudar
+
+Vou-te mostrar que isto basta p’ra viver
+Vou-te mostrar que nada mais tu vais querer ter
+Que nada mais tu vais querer ser
+Apenas aquele que quer crescer
+
+Olha a tua volta em pensa em Deus (…)
+
+Sim9:  x2x030
+
+Ré7m:  xx0211
 ```

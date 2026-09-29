@@ -4,42 +4,179 @@ Músicas nascidas nos acampamentos do [Camtil](../Camtil.md), com o acampamento 
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (32 músicas)
+## Índice (73 músicas)
 
+- [30 ANOS](#30-anos)
+- [ABENÇOAI SENHOR](#abencoai-senhor) — (alternativa: We Will Rock You - Queen)
+- [ACORDA O SOL](#acorda-o-sol) — Melgas II 2001
 - [ÁGUA VIVA](#agua-viva) — Aranhiços 84 (Quim Pê C. Costa, Paulo e Frederico Ramirez)
+- [A MITRALHADA GAMOU-ME A GAROTA](#a-mitralhada-gamou-me-a-garota) — Camaleões 2009 (Kika Cardoso / The KKK Took My Baby Away)
+- [ANDREIA](#andreia) — Magalas do Mato
+- [ANIMADOR DE EQUIPA](#animador-de-equipa) — Melgas II (Maria Lopes e Sara Patrício)
 - [A NOSSA ALDEIA](#a-nossa-aldeia) — Verão 83 (Manuel Mancelos / Miguel Carvalho)
 - [ARCO-ÍRIS](#arco-iris)
+- [A RODA É REDONDA](#a-roda-e-redonda) — Melgas II 2010
 - [BIG FOOT](#big-foot) — Melgas II / 94  (“ROBIN HOOD”)
+- [BOM DIA SENHOR JESUS](#bom-dia-senhor-jesus)
 - [BOM DIA, TREMELGA](#bom-dia-tremelga) — Tremelgas 93 - Verim
+- [CAMTILÂNDIA ‘16](#camtilandia-16)
+- [CAMTILFEST](#camtilfest) — Zinha Souto Moura
 - [CAVALINHO DE VIDRO](#cavalinho-de-vidro) — Melgas 92 - Caldelas
 - [CRÊ E ALCANÇARÁS](#cre-e-alcancaras)
 - [CUPIDO](#cupido) — S. Tomé 92 (“OL’ 55”)
+- [DIRECTOR](#director) — Melgas II - Ponte-de-Sôr (Maria Lopes e Sara Patrício)
+- [EMÍLIA](#emilia) — Magalas do Mato
 - [EPIDEMIA DO SE](#epidemia-do-se) — Nuno Tovar de Lemos
+- [ESTOU A SUAR](#estou-a-suar) — Camaleões 2014 (Manuel Sérvulo Rodrigues)
 - [É TEMPO](#e-tempo)
 - [É TEMPO DE APRENDER A SER](#e-tempo-de-aprender-a-ser) — Tremelgas 96 - Aderneira (Ana Castelo)
+- [FAZ FORÇA](#faz-forca) — CIFA 2007 (A. Lacerda, A. Lima, G. Archer, J. Ameal, J. Figueiredo, J. Freitas)
+- [FOSSA](#fossa) — Aranhiços I 2010
+- [GOTA](#gota)
+- [GRANDA CROMO](#granda-cromo) — João Biancard
+- [GUARDA TUDO](#guarda-tudo) — Tremelgas III 2017
+- [HEY CEGONHA](#hey-cegonha) — Cegonhas 2015 (João Maria Ameal / Take a walk on the wild side)
 - [HINO DA VINGANÇA](#hino-da-vinganca) — CIFA 71 (Maria Sande Lemos)
+- [JORGE (NOVELA TREMELGAS III ‘17)](#jorge-novela-tremelgas-iii-17) — António Ramalho e Duarte Rosado (Ré#º7 - x01212)
+- [LATRINA BLUES](#latrina-blues) — Tremelgas II 2006
 - [LAVA A TENDA](#lava-a-tenda) — Melgas II / 94 (Zé Tiago C., Nuno Ávila, PP Faria / “LOVE ME TENDER”)
+- [MARCHA DA CAMTIL](#marcha-da-camtil) — Melgas III 2003 (Marta e Kiko Pupo)
+- [NÃO QUERO ESTAR AQUI](#nao-quero-estar-aqui) — Melgas III 2016 (Stand By Me)
+- [NHA TERRA](#nha-terra) — Cabo Verde 99
+- [O ANDRÉ E A CECÍLIA](#o-andre-e-a-cecilia) — Manel Matos
+- [OBRIGADO PELO PÃO](#obrigado-pelo-pao)
 - [O ESSENCIAL](#o-essencial) — Tremelgas 90 - Tibães
+- [O FRANGO E A GALINHA](#o-frango-e-a-galinha) — Aranhiços 2005 (Carlitos)
 - [OH MOSQUITO](#oh-mosquito) — Mosquitos I / 95
 - [O HOMEM NÃO SABE CHORAR](#o-homem-nao-sabe-chorar) — Lena Morais / Vasco Granja
 - [OUVI DIZER QUE OS ARANHIÇOS](#ouvi-dizer-que-os-aranhicos) — CIFA 95 - Vila Nova de Mil Fontes
 - [PAI NATAL](#pai-natal) — Melgas 87 (João Tiago Batalha / João Peleteiro)
+- [PÃO](#pao) — Walk Away (Ben Harper)
+- [PÃO COM MANTEIGA](#pao-com-manteiga)
+- [PEQUENO ALMOÇO](#pequeno-almoco)
 - [PÊRA MADURA](#pera-madura) — Carlos A. Mendes e Anía Ramirez / Os Conchas
 - [PERDOA-ME SENHOR](#perdoa-me-senhor) — CIFA 95 - Vila Nova de Mil Fontes (Rita Castel’Branco)
+- [PETROMAX](#petromax)
+- [P’RA ONDE É QUE EU VOU](#p-ra-onde-e-que-eu-vou) — Gambozinos 2010 (Pe. Duarte Rosado sj e Simão Lucas Pires)
+- [PRESIDE SENHOR](#preside-senhor) — João Maria Ameal - Melgas I ‘12
 - [QUANDO ALGUÉM TE BATE À PORTA](#quando-alguem-te-bate-a-porta) — Tremelgas 94 - Vila Nova do Ceira (Nuno Tovar de Lemos)
 - [QUANTO MAIS TRABALHAS](#quanto-mais-trabalhas)
+- [QUERIDO RÚBEN](#querido-ruben)
+- [QUIM TRAMPOLIM](#quim-trampolim) — João Biancard
+- [SAI TREMELGA](#sai-tremelga) — Tremelgas II 2003 (Miguel Sequeira Nunes)
 - [SALTA PUTO](#salta-puto) — Aranhiços 89 - Guilhofrei
 - [SEI LÁ](#sei-la) — Tremelgas 92 - Mimosas
+- [SEMENTE](#semente) — Zinha Souto Moura
 - [SENHOR, EIS-ME AQUI](#senhor-eis-me-aqui) — Tremelgas sem Guarida - 1994
 - [SÓ AVANÇA QUEM REPARTE](#so-avanca-quem-reparte) — Margarida Reduto / Xico Lemos
 - [SOMOS ARANHIÇOS](#somos-aranhicos) — CIFA 95 - Vila Nova de Mil Fontes
 - [SONHO](#sonho) — Melgas 92 - Várzea da Ovelha (Ana Castelo / “ERA UMA VEZ O ESPAÇO”)
+- [SOPA DA MAMÃ](#sopa-da-mama)
 - [SÓ TEMOS DEZ DIAS](#so-temos-dez-dias) — Tremelgas 93 - Verim (Rafael Patrício e Ana Castelo)
+- [SUPER NACHO](#super-nacho)
+- [TRABALHO ESCRAVO](#trabalho-escravo)
 - [TUDO P´RA VOS ANIMAR](#tudo-p-ra-vos-animar) — Aranhiços I / 95 - Malhadal (Pi Cunha e Xico Lemos)
+- [TU ÉS MEU FOGO](#tu-es-meu-fogo) — Melgas 99
 - [VEM, TROLHINHA](#vem-trolhinha)
 - [VOCÊS JÁ VIRAM](#voces-ja-viram) — Campo Figueira 72 (Marinho Sampaio)
 
 ## Músicas
+
+### 30 ANOS {#30-anos}
+
+```text
+Sol
+Nós hoje cantamos, pois assinalamos,
+     Dó                 Ré
+O princípio desta Associação
+     Sol              Mim
+P’ra toda a idade é sempre novidade
+  Lá             Ré
+O efeito de tal união
+
+Dó           Sol
+Esta escola de vida,
+Si7          Mim
+Que a todos nos faz tão bem
+Dó            Sol
+Veio a ficar crescida
+Lá              Ré
+Qual mostarda que tem
+
+  Sol          Lá
+30 anos, que 30 anos
+       Dó           Ré         Sol
+Uma história que não dá p’ra igualar
+            Lá
+Acampámos e virámos
+     Dó         Ré             Sol
+As nossas mochilas de pernas p’ró ar
+
+Noite e dia, nós criámos magia,
+Fixados no essencial
+Com 7 escalões, mergulhámos nos
+Verões,
+Mas voltámos ao mundo normal
+
+Esta escola de vida...
+```
+
+### ABENÇOAI SENHOR {#abencoai-senhor}
+
+*(alternativa: We Will Rock You - Queen)*
+
+```text
+ Dó        Lám
+Abençoai Senhor
+  Rém        Sol
+A nossa refeição
+      Dó         Lám
+Que à volta esta roda
+     Sol       Dó
+Haja sempre união
+
+Abençoai Senhor
+O pão de cada dia
+Que a volta desta roda
+
+Haja sempre alegria
+```
+
+### ACORDA O SOL {#acorda-o-sol}
+
+*Melgas II 2001*
+
+```text
+Sim  Lá  Sol  Ré*
+Sim             Lá      Sol           Ré*
+Se o teu passo é forte, deixa-o bem marcado
+Sim            Lá    Sol           Ré*
+Diz ao mundo inteiro que estás acordado
+   Sim          Lá      Sol        Ré*
+Dá corda às tuas botas até gastar a sola
+   Sim        Lá     Sol           Ré*
+Se vives neste mundo dá-lhe a volta toda
+
+Ré7      Sol
+Acorda o sol
+ Solm                Ré          Mim
+Afinal, não queres viver às escondidas
+         Sol            Solm        Lám
+Já são horas, ganha ao tempo desta vez
+
+Se andas à procura do teu passo certo
+Nem vais perceber que eu estou aqui tão perto
+Quando estás parado e te falta o tempo
+Dás por ti às voltas num dia cinzento
+
+Acorda o sol
+Afinal, não queres viver às escondidas
+Já são horas, ganha ao tempo desta vez
+Acorda o sol
+Afinal, não queres viver às escondidas
+         Sol           Solm        Ré*
+Já são horas, ganha ao tempo desta vez
+```
 
 ### ÁGUA VIVA {#agua-viva}
 
@@ -88,6 +225,102 @@ São uns grandes brincalhões,
 Mas só sabem dar conselhos!
 
      De cantil a tiracolo...
+```
+
+### A MITRALHADA GAMOU-ME A GAROTA {#a-mitralhada-gamou-me-a-garota}
+
+*Camaleões 2009 (Kika Cardoso / The KKK Took My Baby Away)*
+
+```text
+  Sol
+Ela foi-se embora no feriado
+        Mim
+Disse que ia para o Carregado
+   Dó
+Mas nunca chegou
+Mas nunca chegou
+  Ré
+Mas nunca chegou (2X)
+
+ Sol
+A mitralhada gamou-me a garota,
+  Dó
+gamou-me a garota
+   Ré
+deixou-me a alma rota (2x)
+
+Sol Sol Sol Sol Sol Ei! Sol Sol Sol Sol
+Sol Ei! Sol Sol Sol Sol Sol Ei!
+```
+
+### ANDREIA {#andreia}
+
+*Magalas do Mato*
+
+```text
+Mi
+Há uma miúda lá na escola
+Mi*
+Que só bebe Coca-cola
+     Lá                      Mi
+E eu sei, que ela gosta de mim
+
+Vou para casa a pensar nela
+Ponho-me logo à janela
+E não sei o que me deixa assim
+
+Fá#  Lá              Mi
+Tu olha para mim Andreia
+Fá#       Lá            Mi
+De sereia passaste a baleia
+Fá#      Lá           Mi
+Fui apanhado na tua teia
+Fá#
+Não sei qual foi a ideia
+     Lá
+Andreia!
+
+Porque tu és tão
+Mi
+Feia que dói, mas quero ser o teu boy
+   Fá#
+És feia que dói, mas quero ser o teu boy
+   Lá
+És feia que dói, mas quero ser o teu boy
+   Mi
+És feia que dói, mas quero ser o teu boy
+```
+
+### ANIMADOR DE EQUIPA {#animador-de-equipa}
+
+*Melgas II (Maria Lopes e Sara Patrício)*
+
+```text
+                  Lá
+Tem conversas com humor
+
+Sempre feitas com amor
+                                       Mi
+É o animador de equipa
+
+                        Mi7
+Se estás na roda chateado
+
+Vem passar um bom bocado
+                                               Lá
+Com o animador de equipa
+
+Lava a loiça ao calor
+Pente-fino com rigor
+É o animador de equipa
+
+
+Se não sabes o que fazer
+Com ele tu tens de ir ter
+           Mi
+É o animador...
+           Lá
+De equipa!
 ```
 
 ### A NOSSA ALDEIA {#a-nossa-aldeia}
@@ -154,6 +387,35 @@ Nascido da terra, castanho de pó
 Trabalho contigo, não canto só
 ```
 
+### A RODA É REDONDA {#a-roda-e-redonda}
+
+*Melgas II 2010*
+
+```text
+Si7          Mi
+O director é giro
+                         Mi7
+mas eu sou muito mais (mah ah ah ais)
+              Lá                            Si7
+Eu gosto de maçãs, mas não gosto de kivis
+            Mi    Lá     Mi
+Porque são muito ruins
+
+O tubarão é grande
+e tem muito cabelo (ai ai cabelo)
+Cabelo esse que é pantene, parece o do tio Ben
+Quando foi ver o Big Ben
+
+ Lá         Si7
+A roda é redonda
+Mi                  Mi7
+Redondo não é o quadrado
+ Lá           Si7
+Eu gosto de maçãs
+       Si7         Mi
+Já vos disse há bocado
+```
+
 ### BIG FOOT {#big-foot}
 
 *Melgas II / 94  (“ROBIN HOOD”)*
@@ -172,6 +434,22 @@ Visto de revés,
 Procurado pelos pés
 Sol           Sol7         Dó
 Big Foot, Big Foot, Big Foot
+```
+
+### BOM DIA SENHOR JESUS {#bom-dia-senhor-jesus}
+
+```text
+Bom dia, Senhor Jesus
+Dó            Fá      Dó   Fá
+Bom dia, Senhor Jesus
+Dó            Fá    Sol
+Bom dia, Senhor, meu Deus
+      Fá                   Sol
+Quero ouvir as tuas histórias
+      Dó                 Lám
+Aprender os teus valores
+         Fá       Sol   Dó
+Para um dia ser como tu
 ```
 
 ### BOM DIA, TREMELGA {#bom-dia-tremelga}
@@ -195,6 +473,95 @@ Levantar, lavar, comer
 Bom dia Senhor
     Dó                  Ré       Sol   Dó Sol
 O Tremelga é o animador
+```
+
+### CAMTILÂNDIA ‘16 {#camtilandia-16}
+
+```text
+Dó
+Bem-vindos ao mundo
+Fá
+Encantado da Camtil
+Rém
+Onde há jogos, amigos,
+Sol
+Diversão
+
+Andreia, André
+O Frango, a garota
+E o Quim saiu da
+Prisão
+
+Fá
+A Camtilândia
+Sol
+É fantasia
+Lám
+A magia da
+Sol
+Singela
+
+Fá      Sol
+Brincamos, saltamos
+Fá        Sol
+Rezamos, conversamos
+Fá        Sol        Dó
+Tudo na nossa Camtilândia
+```
+
+### CAMTILFEST {#camtilfest}
+
+*Zinha Souto Moura*
+
+```text
+ Ré            Sol           Ré
+Eu 20 ver, eu 20 festejar, Camtil
+ Ré                   Sol           Ré
+Eu vim cantar e dar-te parabéns, Camtil
+  Sol        Ré
+És Deus e amizade
+    Sol      Lá
+Natureza e serviço
+Sol
+CAMTILFEST...
+        Lá
+Vamos a isso!
+
+Eu sou tremelga, animo a roda
+Lá        Ré            Sol
+Eu sou mosquito, já sei usar asozinho
+Lá
+Vim dizer obrigado, p’lo que o
+latrina
+Camtil
+    Sol       Ré
+Vim dizer obrigado, p’lo que oMe tem ensinado.
+Sol
+CamtilEu 20 ver, eu 20 festejar...
+           Lá
+Me tem ensinado.
+Eu sou camaleão, dispenso os
+animadores
+Eu sou aranhiço, já sei todos os
+Vim dizer obrigado, p’lo que o
+aplausos
+Camtil
+Vim dizer obrigado, p’lo que o
+Me tem ensinado.
+Camtil
+Me tem ensinado.
+Eu sou veterano, animador ou já
+nem isso
+Eu 20 ver, eu 20 festejar...
+Vim dizer obrigado, p’lo que o
+Camtil
+Eu cá sou melga e já sei tocar
+Me tem ensinado.
+viola
+Vim dizer obrigado, p’lo que o
+Eu 20 ver, eu 20 festejar...
+Camtil
+Me tem ensinado.
 ```
 
 ### CAVALINHO DE VIDRO {#cavalinho-de-vidro}
@@ -331,6 +698,77 @@ Teu cheiro a jasmim
       O cupido venceu
 ```
 
+### DIRECTOR {#director}
+
+*Melgas II - Ponte-de-Sôr (Maria Lopes e Sara Patrício)*
+
+```text
+            Mi
+Melgas:Onde é que está o director?
+Querem conhecer?
+Lá
+Ele é grande e destemido
+
+                         Mi
+Diretor:Devem-me estar a ver
+  Mi
+Estou aqui atento a tudo
+E gosto de reinar
+  Lá
+E todo o campo vai tremer
+                   Mi
+Quando me ouvir apitar
+
+       Lá                             Si7
+Melgas:Este campo vai ser um grande furor
+            Lá          Si7              Mi
+Quando for grande quero ser como o director
+
+             Lá
+Todos p’rá esquerda
+              Si7
+Todos p’rá direita
+
+Olhem pr’onde olharem
+               Mi
+Ele está à espreita
+Lá                        Si7
+Todos os melgas se vão curvar
+         Lá          Si7           Mi
+Quando o nosso director for a passar
+```
+
+### EMÍLIA {#emilia}
+
+*Magalas do Mato*
+
+```text
+Dó                        Sol
+Conheci-te no Camtil e o meu coração ficou a mil
+    Fá   Dó
+Por ti, Emília
+
+Nem acabei a minha sopa, a minha alma ficou louca
+Por ti, Emília
+
+Dó
+Parapapapapa
+Sol
+Parapapapa
+ Fá      Dó
+Emília, Emília
+
+És melhor que a mamã, os teus beijos sabem a maçã
+Ah?? Porque é que não me ouviste?
+
+Por ti vou repetir, posso até fugir Para Índia,
+ou será para a China?
+
+Parapapapapa
+Parapapapa
+Emília, Emília
+```
+
 ### EPIDEMIA DO SE {#epidemia-do-se}
 
 *Nuno Tovar de Lemos*
@@ -378,6 +816,36 @@ E havia no meio desta dita fronteira uma porta quase de fantasia
 E um letreiro todo em dourado e azul onde um guarda escrevia:
 
       Epidemia do se...
+```
+
+### ESTOU A SUAR {#estou-a-suar}
+
+*Camaleões 2014 (Manuel Sérvulo Rodrigues)*
+
+```text
+Ré                       Sol
+Estou a suar das costas
+Ré                Lá
+Estou a suar do rabo
+Ré                Sol
+Vê lá se não te encostas
+        Lá              Ré
+Tenho suor por todo o lado
+
+Nesta bela caminhada
+Por lugares no meio do nada
+Já está tudo com fomeca
+Bora lá zumba na caneca
+
+O caminho é difícil
+Mas não podes desistir
+Porque aqui no Camtil
+Tu só podes é sorrir
+
+Fui picado por uma silva
+Fui picado por uma urtiga
+Enquanto não chega a comida
+Vou cantar esta cantiga
 ```
 
 ### É TEMPO {#e-tempo}
@@ -469,6 +937,289 @@ A quem quiser.
 É TEMPO DE VIVER, HAJA O QUE HOUVER!
 ```
 
+### FAZ FORÇA {#faz-forca}
+
+*CIFA 2007 (A. Lacerda, A. Lima, G. Archer, J. Ameal, J. Figueiredo, J. Freitas)*
+
+```text
+Lá              Si
+Estico uma mão, colho uma laranja
+Dó#m             Lá
+Fazer cocó assim nunca foi tão canja
+   Lá                   Si
+Sentado no meu trono contemplo o horizonte
+Dó#m                Lá
+Sou o rei do mundo, sou o rei do monte
+
+Lá       Si         Dó#m      Lá
+Faz força faz força faz força faz! (2x)
+
+Concentro-me em obrar, é o meu dever
+Estou quase a acabar, foi um prazer
+Despeço-me de ti minha querida porcelana
+Digo boa noite e hasta la mañana
+
+Então adeus tem cuidado boa sorte
+Espero que o próximo não seja assim tão forte
+Senti-te quentinho, a deslizar
+Tive que fazer força para conseguir acabar
+Sinto-me livre, sinto-me em paz
+“Então folha de papel duplo satisfaz?
+Satisfaz pois, com toda a suavidade
+Agora posso lá ir sempre que tiver vontade
+```
+
+### FOSSA {#fossa}
+
+*Aranhiços I 2010*
+
+```text
+                      Sol       Dó      Sol        Ré7
+Fossa, fossa, fossa, fossa
+                     Sol       Dó
+Fossa, fossa,
+                          Sol
+       Ré7              Sol
+É  vossa, é nossa, é a fossa!
+
+            Sol
+  Dó
+Na fossa, não se lava a lóça
+            Sol               Ré7
+Da fossa, ninguém faz troça
+         Sol
+       Dó
+A fossa não é uma poça
+          Sol
+      Ré7              Sol
+É  vossa, é nossa, é a fossa!
+
+Fossa, fossa (…)
+```
+
+### GOTA {#gota}
+
+```text
+Gambozinos III 2004 Arcos de Valdevez (Manel Matos)
+
+
+Dó   Ré   Mim (bis)
+
+          Dó Ré Mim
+Gota gota, caíste no lavatório
+          Dó Ré Mim
+Gota gota, apagaste a chama no velório
+          Dó Ré Mim
+Gota gota, diz-me qual o teu horário
+          Dó Ré Mim
+Gota gota, pra irmos ao oceanário
+
+Dó      Ré
+Gota
+Mim
+cai cai, chove chove
+        Lá
+cai cai, chove chove (bis)
+
+Dó   Ré   Mim (bis)
+
+          Dó Ré Mim
+Gota gota, caíste no gambozino
+          Dó Ré Mim
+Gota gota, até lhe moeres o tino
+          Dó Ré Mim
+Gota gota, tu não me venhas com lérias
+          Dó Ré Mim
+Gota gota, “alagastes” o campo de férias
+
+Dó       Ré
+Gota
+Mim
+cai cai, chove chove
+
+
+
+
+               Dó                Ré                     Mim                  Lá
+gota gota gota gota gota gota gota gota gota
+             Dó                Ré                     Mim                  Lá
+plim plim plim plim plim plim plim plim plim
+             Dó                Ré                     Mim                  Lá
+shhhhhhhhhhhhhhhhhhhhhhhhhhh
+             Dó                Ré                     Mim                  Lá
+brooooooaaaaaaaaaaaauuuuuooooom!
+
+Dó       Ré
+Gota
+Mim
+cai cai, chove chove
+ Lá
+cai cai, chove chove (bis)
+```
+
+### GRANDA CROMO {#granda-cromo}
+
+*João Biancard*
+
+```text
+Rém   Sol   Sib   Dó   Rém   Dó   Rém
+
+Rém                        Sol
+Granda cromo és uma granda
+cromo
+        Dó                           Lám
+Deitaste tudo a perder
+                                               Rém
+Desenrolaste o teu colchão
+                            Sol
+Mergulhaste na tua ilusão
+Dó  Lám
+Acorda! Acorda!
+Rém
+Volta pa trás
+Sol
+Relembra o salta puto
+Dó
+Tu sabes que ele só corre
+     Lám                        Rém Dó Rém
+À frente do teu chuto
+Rém                              Sol
+Quando acordas de manhã
+Dó                              Lám
+É sempre a mesma canção
+Rém                                          Sol
+Tu dizes que há sempre um
+problema
+                   Dó
+Uma pergunta maior
+Lám                                     Rém    Sol
+Ah! Será que dia não vais
+inventar outro esquema
+                           Dó
+É que eu tou farto do teu
+acordar
+    Lám
+Só quero pôr-te a cantar
+Rém        Sol                   Dó
+Vem também… oh não eu não
+
+
+             Sib                          Dó
+E eu bem sei como é difícil suportar
+Sib                            Dó
+Ter esta gente sempre a cantar
+            Rém  Dó  Rém
+É demais
+   Sib                                           Dó
+Eu vou mas é deixar de usar o meu colchão
+Sib                                  Dó
+Ficar deitado não é solução
+Rém  Dó  Rém
+Não!
+```
+
+### GUARDA TUDO {#guarda-tudo}
+
+*Tremelgas III 2017*
+
+```text
+Mi
+Que importa seguir regrinhas
+MiM7
+Se não há emoção nem espanto
+LáM7
+Deus não me quer santinho
+Fá#m7
+Deus quer que eu seja santo
+
+Mi
+Guarda tudo n
+Dó#m
+Deus quer que
+Si
+Não há am
+Lá
+Que se dê s
+
+Guarda tudo n
+Deixa a porta
+Se queres mesm
+Se não dás tudo
+
+Não consigo amar a Deus
+Se não amo o meu irmão
+Fico mais perto do Céu
+Quanto mais me chego ao chão
+
+Sou da medida do que sou
+Sou-o de coração inteiro
+Deus não me quer certinho
+Deus quer-me verdadeiro
+
+o teu coração
+
+o tenhas cheio
+
+or a sério
+
+ó até meio
+
+o teu coração
+escancarada
+o amar o outro
+não dás nada
+
+Quanto mais me dou mais ganho
+Quanto mais luto mais sereno
+Sou mais alto se me baixo
+Cresço se me faço pequeno
+```
+
+### HEY CEGONHA {#hey-cegonha}
+
+*Cegonhas 2015 (João Maria Ameal / Take a walk on the wild side)*
+
+```text
+Dó                Fá
+Diz-me como é que era
+Dó                               Fá
+Quando os dinossauros andavam na terra
+Dó             Fá
+Ouve a verdade crua
+Dó                          Fá
+Eras vivo quando se pisou a lua
+
+Dó          Ré7
+Diz-me como é que foi
+Fá              Ré7
+Se o Camões não via um boi , eu digo:
+Dó                      Fá
+Hey Cegonha ainda estás vivo?
+Dó
+Hey Cegonha..(- Cegonha? Cegonha?!/ “- Estou aqui!!”/ -Ahhhh)
+            Fá
+Ainda estás vivo, E eu digo:
+
+Dó Fá
+Tu turu turu turu turu turu
+Dó Fá
+Tu turu turu turu
+
+Diz-me ó meu menino
+Usaste mesmo calças à boca de sino
+Permanente na cabeleira
+Viste o Salazar cair da cadeira
+
+Cinco escudos uns cigarros
+Mas tu querias fumar uns charros
+Hey cegonha ainda estás vivo
+Hey Cegonha ainda estás vivo
+E os cegonhas fazem:
+
+Tu turu turu turu turu
+Tu turu turu turu turu … (1000x até cansar!!!)
+```
+
 ### HINO DA VINGANÇA {#hino-da-vinganca}
 
 *CIFA 71 (Maria Sande Lemos)*
@@ -507,6 +1258,97 @@ Que machados persistindo em dizer não, em dizer não
 Porque o hino da vingança satisfaz
 Quem me dera o cheiro a lírios matinais
 Onde há campos semeados mas sem paz, mas sem paz
+```
+
+### JORGE (NOVELA TREMELGAS III ‘17) {#jorge-novela-tremelgas-iii-17}
+
+*António Ramalho e Duarte Rosado (Ré#º7 - x01212)*
+
+```text
+Oh Jorge
+   LáM7
+Oh Jorge
+No dia da criação estavas na
+Ré7
+fila do pão
+Tu não tens emenda
+Em vez de na fila da sorte
+         Sim
+Há um só dia na tua agenda
+Mi
+Se o azar fosse um talento
+E é sexta-feira 13
+Oh Jorge eras um artista
+Querias ser veloz e és lento
+Oh Jorge
+És careca e querias usar crista
+Tens o calor dos teus pais
+que estavam a passar canais
+                                   Sim                   Mi
+No dia em que tu nasceste
+Oh Jorge mas não desesperes
+Sim                     Mi
+A vida ainda te há de sorrir
+RéM  Dó#m
+                                      Fá#m            Dó#m
+Se o azar pagasse imposto
+A sorte esconde mistérios
+Sim  Lá
+                                        Fá#m           Dó#m
+Oh Jorge já tinhas falido
+Do fundo só podes subir
+RéM7  Dó#m
+                                   Sim
+A tua avó teve um desgosto
+Ninguém pode viver assim vais
+Sim  Mi
+                                                        Mi
+E os teus pais o orgulho ferido
+ver oh Jorge que a vida vai
+dizeeeeeeer............... NÃO
+Oh Jorge
+Eu sei que és um triste
+A vida entrou te a pé em riste
+e já estavas fora de jogo
+```
+
+### LATRINA BLUES {#latrina-blues}
+
+*Tremelgas II 2006*
+
+```text
+       Mi   Si7    Mi     Si7
+Estou aqui sozinho
+           Mi       Lá   Si7
+Só há moscas a voar
+     Mi    Mi7     Lá       Lám
+Isto aqui cheira tão mal
+           Mi    Si7   Mi
+Eu estou a latrinar
+
+Estou com tanta vontade
+De arrear o calhau
+Mas isto aqui está complicado
+O jantar foi bacalhau
+
+     Lá                 Lám
+Latrinar é o que está a dar
+         Mi                Dó#7
+Tão bem te vais sentir
+      Dó                    Si7
+É só sentar, tens de experimentar
+ Mi
+Lá ir
+
+Pra te sentires noutro mundo
+As pernas tens que afastar
+Baixa um pouco o rabiosque
+E é só descarregar
+
+Com o serviço feito
+Já só falta o papel
+Sê poupadinho, e com jeito
+Ainda sobra pró Manel
 ```
 
 ### LAVA A TENDA {#lava-a-tenda}
@@ -555,6 +1397,214 @@ Lambe-o p´ra provar
       Podem bater-te à porta
 ```
 
+### MARCHA DA CAMTIL {#marcha-da-camtil}
+
+*Melgas III 2003 (Marta e Kiko Pupo)*
+
+```text
+  Ré               Si7          Mim7
+Diz-me lá tu que és da Camtil
+  Lá           Ré
+Essa singela associação
+                  Si7        Mim7
+Fazer campismo ao pé do rio
+  Lá           Ré
+Alegria de Verão
+      Ré
+Diz-me lá como é que é
+                          Lá7
+Dormir em barracas tão lindas
+      Sol            Lá7
+Partilhar o cheiro a pé
+      Sol
+E de manhã já não saber
+    Lá
+de quem é
+
+Diz-me lá onde é que há
+Os senhores padres que dizem
+asneiras
+E que brincam em teatros
+Dizem missas sem cadeiras
+
+Diz-me lá onde é que há
+As casas-de-banho tão engraçadas
+E tão fáceis de construir
+E sempre tão asseadas
+
+Diz-me lá como é que é
+Quando o teu coração palpita
+Na estação, dedicatórias
+De emoção, tantas histórias
+
+       Ré
+Diz-me lá onde é que estão
+                      Lá7
+Os monitores de tronco nu
+     Sol              Ré
+As monitoras lavam-se no rio
+   Sol         Lá7
+E o felizardo és tu
+
+Diz-me lá, ó diz-me sim
+Qual o valor de um pôr-do-sol
+Esfregar os pratos sem detergente
+Lavar o cu com Sonasol
+
+Diz-me lá, agora diz
+O que há de mal na organização
+Quase nunca há barbecus
+E não temos televisão
+
+Diz-me lá, ó diz-me enfim
+Se cá queres voltar para o ano
+P’ra fazer novos amigos
+Porque os antigos vão....
+pelo cano!
+```
+
+### NÃO QUERO ESTAR AQUI {#nao-quero-estar-aqui}
+
+*Melgas III 2016 (Stand By Me)*
+
+```text
+        Dó
+Quando chego ao campo
+Lám
+Regorgito de espanto
+      Fá      Sol
+Eu não falo, eu não grito
+        Dó
+Eu nem canto
+
+Não quero pão vazio
+Nem aquele leite frio
+Quero picanha, suculenta
+Do braziu
+
+Não não não não quero estar aqui
+Oh mãe, porque é que eu vim?
+Descobri, que o campismo
+Né p’ra mim
+
+Lá p’ró meio, caminhada
+São 50 graus na estrada
+Eu só sinto, uma nádega
+Toda assada
+
+São 10 dias, de dor
+Sofrimento e calor
+Não aguento, matem-me
+Por favor
+
+Não não não não quero estar aqui
+Oh mãe, porque é que eu vim?
+Descobri que o campismo
+Né p’ra mim
+```
+
+### NHA TERRA {#nha-terra}
+
+*Cabo Verde 99*
+
+```text
+Rém   Sib   Lá   Rém   Sib   Lá
+
+Rém        Sib                      Lá
+Uma praia que me subiu à cabeça
+Rém    Sib               Lá
+Uma ilha presa no fundo do mar
+Rém      Sib                    Solm
+Um segredo cor de terra
+     Dó                        Fá
+Cidade cor de morna
+Sib                   Lá
+Por desvendar
+
+
+A saudade a três passos descalços
+
+Encontra calçadas por terminar
+
+E a noite em que me perco
+
+Deixa ouvir em tom  já gasto
+
+“Morna tchorá”
+
+
+Rém          Dó                     Sib  Lá Rém
+Uma história que ouvi cantar
+Rém           Dó                 Sib Lá    Rém
+Ô nha terra perdida no mar
+
+
+Caras vivas num cenário por pintar
+Escondem vidas e convidam a entrar
+Uma bola cruza a rua
+Ganha um jogo já perdido
+Sem me encontrar
+
+O mistério de uma ilha de dois gumes
+Onde encostas trocam nuvens de vagar
+E a água de repente
+Enche os olhos desta gente
+Faz a terra cantar
+
+
+Uma história que ouvi cantar
+Ô nha terra perdida no mar
+
+
+Dez caminhos p‟ra chegar a este sol
+E uma lua mais pequena p‟ra voltar
+Deixo uma constelação
+De mil pegadas no chão
+Ensinaste-me a dançar
+
+Uma história que ouvi contar
+Ô nha terra perdida no mar
+Cabo Verde, partir e ficar
+```
+
+### O ANDRÉ E A CECÍLIA {#o-andre-e-a-cecilia}
+
+*Manel Matos*
+
+```text
+    Dó        Fá
+O André e a Cecília
+ Sol           Dó
+A beber um chá de tília
+    Dó           Fá
+A Cecília e o André
+    Sol        Dó
+A beberem um café
+
+Oh meu amor, minha paixão
+És o meu avião (2x)
+
+Um, dois, três, quatro
+
+És a marmelada do meu pão
+És fofinha como o algodão
+És o sangue que circula no meu coração
+```
+
+### OBRIGADO PELO PÃO {#obrigado-pelo-pao}
+
+```text
+Dó      FáM7         Dó FáM7 Dó         FáM7
+Senhor, nós sabemos que aqui estás
+Dó    FáM7             Dó FáM7 Dó      FáM7
+Obrigado pelo pão que tu nos dás
+  Fá
+P’ra te amar e melhor te servir
+Abençoa, Senhor, é o que vimos pedir
+Que este pão dê força, luz e alegria
+P’ra melhor Te amar em cada dia
+```
+
 ### O ESSENCIAL {#o-essencial}
 
 *Tremelgas 90 - Tibães*
@@ -587,6 +1637,28 @@ Se procuras encontrar
 E tentas imaginar
 Como a vida pode mudar
 Essencial é amar
+```
+
+### O FRANGO E A GALINHA {#o-frango-e-a-galinha}
+
+*Aranhiços 2005 (Carlitos)*
+
+```text
+Ré              Lá        Mim       Sol
+Havia um frango que sabia dançar o
+Ré        Lá        Mim          Sol
+E havia uma galinha que era dançarina (2x)
+Ré    Lá     Mim       Sol
+Mas o frango era da velhinha
+Ré           Lá  Mim          Sol
+E ela não queria frango com galinha
+
+Chegou o arraial e juntou-se o casal (2x)
+Mas apareceu uma velhinha
+Que separou o frango da galinha
+
+E o frango coitadinho na panela acabou
+E a galinha coitadinha nunca mais dançou
 ```
 
 ### OH MOSQUITO {#oh-mosquito}
@@ -764,6 +1836,110 @@ Em conclusão olhando p´ró tipo
 Ninguém ali vê um carro bonito
 ```
 
+### PÃO {#pao}
+
+*Walk Away (Ben Harper)*
+
+```text
+Sol Ré/Fá#*  Mim*              Ré/Fá#*
+Oh não já me tiraram da tenda
+Estava dormir tão bem mas agora não há emenda
+Foi tão difícil mas o melhor está pra vir
+Vou comer um pão que me vai fazer sorrir
+
+Dó(9)*    Sim9*              Lám*        Sim9*
+E é tão bom a qualquer hora do dia
+Dó(9)              Sim9       Lám*       Sim9            Sol Ré/Fá# Mim Ré/Fá#
+É que comer um pão é uma coisa que me enche de alegria
+
+Pão com manteiga ou pão com marmelada
+Até pode ser um belo pão com nada
+E depois deste pão outro pão irei comer
+É que a comer tanto pão qualquer dia irei crescer
+
+E é tão bom a qualquer hora do dia
+É que comer um pão é uma coisa que me enche de alegria
+```
+
+### PÃO COM MANTEIGA {#pao-com-manteiga}
+
+```text
+Dó
+Pão com manteiga (eiga)
+Sol
+Pão com marmelada (ada)
+Fá
+Leite com chocolate (ate)
+Sol
+Leite sem nada (ada)
+
+Da minha janela à tua (ua),
+Vai uma curta distância (ância)
+Mas cuidado não tropeces (ésses),
+Nessa casca de melância (ância)
+
+Pão com manteiga (eiga)...
+
+Pinheiro, pinheiro pinheiro (eiro)
+Pinheiro, pinheiro, pinheiro (eiro)
+Pinheiro, pinheiro, pinheiro (eiro)
+E no meio um eucalipto (ipto)
+
+Pão com manteiga (eiga)...
+
+Fui a Belas ver as fui a belas (elas), E em Belas, belas vi (i-i)
+Mas a mais bela de todas (odas), Meu amor, eras ti (i-i)
+
+Pão com manteiga (eiga)...
+
+Se eu fosse rico (ico), Construía-te um castelo (elo)
+Para tu me contemplares (ares), Como eu te contempélo (élo)
+
+Pão com manteiga (eiga)...
+
+Pela a rua acima (ima), Ia um limão a descer (e-er)
+Ou a rua era redonda (onda), Ou o limão era a subir (i-ir)
+```
+
+### PEQUENO ALMOÇO {#pequeno-almoco}
+
+```text
+Lám                  Fá          Sol
+Eu quero comer um leitinho ou um pão
+Lám                      Fá          Sol
+Qualquer coisinha que sirva de refeição
+Lám             Fá            Sol
+Pode ser com manteiga ou marmelada
+Lám                  Fá             Sol
+Agora fico fulo se disserem: não há nada
+
+Lám         Fá
+Oh oh oh oh oh oh oh oh oh
+Lám
+Já estou a cheirar
+Fá         Sol
+O pão a chegar
+
+Oh oh oh oh oh oh oh oh oh
+Já estou a cheirar
+O leite a chegar
+
+Lám                   Fá          Dó
+Quero comer, quero comer o meu pequeno almoço ------
+Sol
+já estou com alguma fome
+Lám                   Fá          Dó
+Quero comer, quero comer o meu pequeno almoço -----
+Sol
+alguma coisa já se come
+
+Lám                     Fá       Sol
+pepepequeno almoço, pepequeno almoço ------------mamamama
+pepepequeno almoço, pepequeno almoço -------------mamamama
+pepepequeno almoço, pepequeno almoço ------------mamamama
+pepepequeno almoço, pepequeno almoço --------------MAMAMAMAH!
+```
+
 ### PÊRA MADURA {#pera-madura}
 
 *Carlos A. Mendes e Anía Ramirez / Os Conchas*
@@ -856,6 +2032,88 @@ Por isso peço o Teu perdão,
 Senhor
 ```
 
+### PETROMAX {#petromax}
+
+```text
+       Ré
+O Petromax dá-nos luz
+           Sol                  Lá
+Mas é perigoso pelo calor que produz
+       Ré
+O Petromax funciona a gás
+      Lá                    Ré
+Mas é melhor deixarem-no em paz
+
+Ré
+O petromax é baril
+            Sol      Lá              Ré
+Porque ilumina as noites, (3x) do Camtil
+```
+
+### P’RA ONDE É QUE EU VOU {#p-ra-onde-e-que-eu-vou}
+
+*Gambozinos 2010 (Pe. Duarte Rosado sj e Simão Lucas Pires)*
+
+```text
+Lá            Ré               Fá#m
+Posso ter dinheiro, posso ter fama
+               Ré                        Lá
+Posso ter um veleiro e férias toda a semana
+                 Ré                 Fá#m
+Posso ter uma mansão mesmo junto ao mar
+                   Ré
+Ter tempo p’ra viajar e um carro topo de gama
+
+                       Mi                           Ré
+Mas de que é que isso me serve se não me faço à estrada
+                 Mi                   Ré
+Passo o tempo sentado e a vida fica parada
+                 Mi                 Lá
+É que eu não sou nada se ninguém me ama
+
+                   Lá7
+P’ra onde é que eu vou
+           Sol
+Não sou cobarde
+          Ré                     Lá
+Não vou deixar a vida p’ra mais tarde
+
+             Lá7
+Ponho-me a andar
+               Ré
+P’ra encontrar vida
+                Mi           Lá
+Se não sei onde vou ando à deriva
+
+Posso ser futebolista p’ra que todo o mundo veja
+Posso ser o actor que no fim a miúda beija
+Posso pôr mil máscaras p’ra me esconder
+Posso pôr a maquilhagem para só brilho se ver
+
+Mas ninguém é amado por aquilo que tem
+Não me vou inventar para me mostrar a alguém
+Se não sou quem sou não sou niguém
+
+P’ra onde é que eu vou...
+```
+
+### PRESIDE SENHOR {#preside-senhor}
+
+*João Maria Ameal - Melgas I ‘12*
+
+```text
+Mi               Fá#
+Preside, Senhor, a esta roda
+  Lá                  Mi
+E abençoa o nosso pão
+Dá pão a quem tem fome, fome e sede de justiça,
+A quem canta esta oração
+
+Abençoai Senhor, a refeição que vamos tomar
+Para melhor, para melhor, para melhor, vos servir e
+amar!
+```
+
 ### QUANDO ALGUÉM TE BATE À PORTA {#quando-alguem-te-bate-a-porta}
 
 *Tremelgas 94 - Vila Nova do Ceira (Nuno Tovar de Lemos)*
@@ -926,6 +2184,111 @@ Meu amor, ama-me de facto
 Guarda-te p´ra mim não vás ao sindicato.
 Meu amor, dá-me um piparote
 Agarra-me com força como ao teu serrote.
+```
+
+### QUERIDO RÚBEN {#querido-ruben}
+
+```text
+Sol           Dó(9)*
+Querido Rúben
+Tenho tanto p’ra dizer
+Sol
+Estou perdida
+    Dó(9)
+E o coração não pára de bater
+Querida Jess (Jessss)
+Vejo o amor nos teus olhos
+Isso enlouquece (Jessss)
+Se sou cachorro então tu és molhos
+
+Dó                  Ré
+Quando te vejo a passar
+(Sinto o mundo a meus pés)
+Dó                Ré
+Vejo a beleza que és
+
+      Sol                  Dó(9)
+Onde estão os amores da TV
+       Dó
+Todo o mundo fala deles
+
+                         Ré
+Mas ninguém os vê
+          Sol             Dó(9)
+Quando é que esta dor vai acabar
+Dó            Ré                Sol
+Vem comigo, hoje vou-te salvar
+
+Quando te vejo a passar (...)
+
+Onde estão os amores da TV (...)
+```
+
+### QUIM TRAMPOLIM {#quim-trampolim}
+
+*João Biancard*
+
+```text
+   Mi
+O Quim Trampolim era um homem da rua
+Ele fazia tudo, tudo sempre na sua
+     Lá                   Mi
+É o Quim! É o Quim Trampolim
+    Si7  Lá                  Mi
+Oh Quim.....Não podes ser assim!
+
+Quando jogava às cartas só fazia batota Mas
+fugia sempre, sempre na sua mota
+É o Quim! É o Quim Trampolim
+Oh Quim.....Não podes ser assim!
+
+Ouviu-se um barulho a cidade parou
+Lá fora na rua houve alguém que gritou
+É o Quim! É o Quim Trampolim
+Oh Quim.....Não podes ser assim!
+
+Até que um dia na praça a roubar um melão
+A polícia apanhou-o e mandou-o pró chão
+É o fim do Quim Trampolim
+Pá ó Quim! Eu disse... Não podes ser assim!
+
+Não podes ser assim...
+```
+
+### SAI TREMELGA {#sai-tremelga}
+
+*Tremelgas II 2003 (Miguel Sequeira Nunes)*
+
+```text
+Sol                        Dó
+Sai tremelga o dia está aí
+Ré                          Sol
+Lava os dentes e faz o xixi
+                           Dó
+Despacha-te p’ró pequeno almoço
+Ré                          Sol
+Ou vens rápido ou levas um couço
+
+Acorda aí acorda vai levanta-me essa bunda
+Sai tremelga feio e siga p’ra desbunda
+És atrofiado porco deslavado
+Não tens o que fazer a mamã põe-te a encher ‘cause
+
+Sai tremelga o dia está aí...
+
+Canta aí canta vai, vibra no Cartaxo
+Move se és fêmea, baila se és macho
+Andas a viver com o cérebro ardente, yo
+Baza para a roda com um spirit diferente ‘cause
+
+Sai tremelga o dia está aí...
+
+Vibra aí vibra vai, sentes estas rimas
+Deste teu camtil que tu tanto estimas
+Não digas que não o conheces „cause I don’t believe
+Nele há de haver sempre algo que te cative ‘cause
+
+Sai tremelga o dia está aí...
 ```
 
 ### SALTA PUTO {#salta-puto}
@@ -1002,6 +2365,29 @@ Quero-lhe falar, quero-lhe falar
       Foi assim que começou
                Fá                      Dó
       Esse fogo que os ateou!
+```
+
+### SEMENTE {#semente}
+
+*Zinha Souto Moura*
+
+```text
+Ré             Lá*
+Ensinaste-me a pedir
+  Dó(9)*           Sol
+O pão de cada dia
+Ré                 Lá
+Que apenas nos dá força
+  Dó(9)*     Sol
+Na tua companhia
+
+Semente crescida
+És o pão que nos dá vida
+Da água nos dás
+Gota a gota, a tua paz
+Lá*:  xx0230
+
+Dó(9)*:x32033
 ```
 
 ### SENHOR, EIS-ME AQUI {#senhor-eis-me-aqui}
@@ -1166,6 +2552,46 @@ E há um desejo secreto
 De um dia voltar
 ```
 
+### SOPA DA MAMÃ {#sopa-da-mama}
+
+```text
+Alisalé, alisalá
+A sopa da mamã é o melhor que há!
+É o melhor que há, é o melhor que havia,
+A sopa da mamã dá p’ra todo o dia!
+Dá p’ra todo o dia, dá p’ra toda a semana,
+A sopa da mamã parece uma banana!
+Parece uma banana, parece um sapato,
+A sopa da mamã dá p’ra nós os quatro!
+Dá p’ra nós os quatro, dá p’ra roda inteira,
+A sopa da mamã pararece uma banheira!
+Parece uma banheira, parece que não tem fundo,
+A sopa da mamã dá p’ra meio mundo!
+Dá p’ra meio mundo, dá p’ro mundo inteiro,
+A sopa da mamã, parece um candeeiro!
+Parece um candeeiro, parece uma alforreca,
+A sopa da mamã bebe-se pela caneca!
+Bebe-se pela caneca, bebe-se devagar,
+A sopa da mamã é espetacular!
+É espetacular, é espetacolher,
+A sopa da mamã é feita por uma mulher!
+Feita por uma mulher, é feita com carinho,
+A sopa da mamã, merece um beijinho!
+Merece um beijinho, merece um abraço,
+A sopa da mamã não leva bagaço!
+Não leva bagaço nem leva aguardente,
+A sopa da mamã não nos põe doentes!
+Não nos põe doentes, põe-nos saudáveis,
+A sopa da mamã leva águas potáveis!
+Leva águas potáveis, não leva águas inquinadas,
+A sopa da mamã não tem rabanadas!
+Não tem rabanadas mas tem rabanetes,
+A sopa da mamã não é para diabretes!
+Não é para diabretes é para camtílicos
+A sopa da mamã...
+Alisalé, alisalá...
+```
+
 ### SÓ TEMOS DEZ DIAS {#so-temos-dez-dias}
 
 *Tremelgas 93 - Verim (Rafael Patrício e Ana Castelo)*
@@ -1210,6 +2636,70 @@ Quem não traz um amigo, não tem um sorriso e uma mão para estender
 
               Sol                        Lá                Ré
 Eu não sei o que é que está aqui a fazer!
+```
+
+### SUPER NACHO {#super-nacho}
+
+```text
+Lá            Ré7
+Ele aí vem cuidado
+        Lá                   Ré7
+Capa ao vento e óculos de mergulho
+Lá           Ré7
+Ligeiramente anafado
+  Mi7
+Ele é o nosso orgulho
+
+Desastrado por feitio
+Herói por vocação
+Nada no céu, voa no rio
+Corajoso por não ter noção
+
+Mi7
+Permanece sem hesitação
+Se o havemos de chamar ou não
+As miúdas todas gritam
+Lá
+Super Nacho
+Ré7
+Bateu no Super-Homem
+Lá
+Super Nacho
+Mi7
+Tem força no abdomen
+
+Super Nacho
+É preciso muita fé
+Super Nacho
+Porque não sabe Karaté
+
+Ai ele é tão amoroso
+Os rapazes o imitam
+No seu jeito fabuloso
+
+Salva o mundo sem querer
+Nem sequer sabe que existe mal
+E não parece saber
+Que no México é herói nacional
+
+Ele não se mexe nada mal
+É que a sua pança não é normal
+```
+
+### TRABALHO ESCRAVO {#trabalho-escravo}
+
+```text
+Dó#m       Si
+Trabalho escravo
+Sol#       Dó#
+Trabalho escravo
+Trabalho escravo
+Marionetas escravisadas
+
+Que bom que é
+Não fazer nada
+Tu a trabalhar
+E eu a olhar
 ```
 
 ### TUDO P´RA VOS ANIMAR {#tudo-p-ra-vos-animar}
@@ -1258,6 +2748,45 @@ Os amigos abraçar
 A-RA-NHI-ÇOS!!
 
 TUDO P´RA VOS ANIMAR!
+```
+
+### TU ÉS MEU FOGO {#tu-es-meu-fogo}
+
+*Melgas 99*
+
+```text
+                         Lám         Fá  Dó
+Tu és meu fogo
+                          Lám       Fá Dó
+O meu desejo
+                         Lám                Fá      Dó
+E tenho, para te dizer
+                      Lám                  Sol  Dó
+Quer‟os teus beijos
+
+
+                                         Fá
+Quero saber
+                                                              Sol Lám
+Porqu‟é que não me ligas
+    Fá
+Quero saber
+
+
+            Sol Lám
+Porqu‟é que me desprezas
+     Fá
+Quero saber
+                                                           Sol         Dó
+Porqu‟é que tu nunca respondes
+                    Lám              Sol Dó
+Ao meu apito
+
+
+És linda, tu sabes
+E pões-me nervoso
+Não posso, mais viver sem ti
+Quer‟os teus beijos
 ```
 
 ### VEM, TROLHINHA {#vem-trolhinha}
