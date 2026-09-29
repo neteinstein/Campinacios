@@ -16,7 +16,7 @@
 
 ### Online
 
-Fez, com o Paulo Correia, a [página original dos Campinácios](../../Movimento/Online.md#pagina-original) na Internet.
+Fez, com o [Paulo Correia](../P/Paulo%20Correia.md), a [página original dos Campinácios](../../Movimento/Online.md#pagina-original) na Internet.
 
 ### Família
 
@@ -26,6 +26,7 @@ Fez, com o Paulo Correia, a [página original dos Campinácios](../../Movimento/
 
 - [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md)
 - [Online](../../Movimento/Online.md)
+- [Paulo Correia](../P/Paulo%20Correia.md)
 - [Renato Costa](../R/Renato%20Costa.md)
 - [Survivor](../../Acampamentos/2009/Survivor.md)
 

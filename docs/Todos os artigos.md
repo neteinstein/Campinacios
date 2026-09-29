@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1147 artigos e, em itálico, os 154 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1149 artigos e, em itálico, os 154 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -1009,6 +1009,7 @@
 - [Paula Gonçalves](Pessoas/P/Paula%20Gon%C3%A7alves.md)
 - [Paulo Braga](Pessoas/P/Paulo%20Braga.md)
 - [Paulo Cardoso](Pessoas/P/Paulo%20Cardoso.md)
+- [Paulo Correia](Pessoas/P/Paulo%20Correia.md)
 - [Paulo Duarte](Pessoas/P/Paulo%20Duarte.md)
 - [Paulo Gonçalves](Pessoas/P/Paulo%20Gon%C3%A7alves.md)
 - [Paulo Mesquita](Pessoas/P/Paulo%20Mesquita.md)

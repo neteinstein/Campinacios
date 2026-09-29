@@ -10,6 +10,7 @@
 - [Paula Gonçalves](Paula%20Gon%C3%A7alves.md)
 - [Paulo Braga](Paulo%20Braga.md)
 - [Paulo Cardoso](Paulo%20Cardoso.md)
+- [Paulo Correia](Paulo%20Correia.md)
 - [Paulo Duarte](Paulo%20Duarte.md)
 - [Paulo Gonçalves](Paulo%20Gon%C3%A7alves.md)
 - [Paulo Mesquita](Paulo%20Mesquita.md)
