@@ -4,7 +4,7 @@ Músicas nascidas nos acampamentos do [Camtil](../Camtil.md), com o acampamento 
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (73 músicas)
+## Índice (74 músicas)
 
 - [30 ANOS](#30-anos)
 - [ABENÇOAI SENHOR](#abencoai-senhor) — (alternativa: We Will Rock You - Queen)
@@ -38,6 +38,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [HEY CEGONHA](#hey-cegonha) — Cegonhas 2015 (João Maria Ameal / Take a walk on the wild side)
 - [HINO DA VINGANÇA](#hino-da-vinganca) — CIFA 71 (Maria Sande Lemos)
 - [JORGE (NOVELA TREMELGAS III ‘17)](#jorge-novela-tremelgas-iii-17) — António Ramalho e Duarte Rosado (Ré#º7 - x01212)
+- [JOVEM COMO A PLANTA](#jovem-como-a-planta)
 - [LATRINA BLUES](#latrina-blues) — Tremelgas II 2006
 - [LAVA A TENDA](#lava-a-tenda) — Melgas II / 94 (Zé Tiago C., Nuno Ávila, PP Faria / “LOVE ME TENDER”)
 - [MARCHA DA CAMTIL](#marcha-da-camtil) — Melgas III 2003 (Marta e Kiko Pupo)
@@ -1310,6 +1311,43 @@ Oh Jorge
 Eu sei que és um triste
 A vida entrou te a pé em riste
 e já estavas fora de jogo
+```
+
+### JOVEM COMO A PLANTA {#jovem-como-a-planta}
+
+```text
+   Dó                          Sol
+Eu canto por ser jovem como a planta
+           Fá       Sol
+E a malta canta, uô-ô!
+  Dó                    Sol
+É ter este cancro na garganta
+         FáSol
+Ter esta dor!
+    Dó                           Sol
+Eu acho que é um fungo que há em mim
+          FáSol
+E canto assim!
+    Dó                   Sol
+Por isso canto cada vez pior
+           FáSol
+Sou um horror!
+         Dó   Sol Fá Sol
+E sou cantor
+          Dó   Sol Fá Sol
+Sou um horror!
+
+*Eu mando por ser jovem como a planta
+E a malta canta, uô-ô!
+É ter este apito na garganta
+Ter esta dor!
+Eu acho que é um fungo que há em mim
+E mando assim!
+Por isso mando cada vez pior
+Sou um horror!
+Sou director!
+Sou um horror!
+*  Adaptação  Camtílica
 ```
 
 ### LATRINA BLUES {#latrina-blues}
