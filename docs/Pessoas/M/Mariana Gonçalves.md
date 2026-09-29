@@ -2,8 +2,8 @@
 
 ### Acampamentos
 
-- **Animador(a):**
-    - 2007 [Diz Que Sim](../../Acampamentos/2007/Diz%20Que%20Sim.md) - [Animador(a) Livre](../../Cargos/Animador%20Livre.md)
+- **Animadora:**
+    - 2007 [Diz Que Sim](../../Acampamentos/2007/Diz%20Que%20Sim.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
 
 ## Páginas que ligam para aqui
 
