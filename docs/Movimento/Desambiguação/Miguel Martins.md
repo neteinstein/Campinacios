@@ -13,7 +13,6 @@
 - [Miguel França Martins](../../Pessoas/M/Miguel%20Fran%C3%A7a%20Martins.md)
 - [Miguel Leite Martins](../../Pessoas/M/Miguel%20Leite%20Martins.md)
 - [Miguel Monteiro Martins](../../Pessoas/M/Miguel%20Monteiro%20Martins.md)
-- [Obra Prima](../../Acampamentos/2010/Obra%20Prima.md)
 
 ---
 

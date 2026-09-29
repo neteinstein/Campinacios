@@ -11,6 +11,8 @@
 
 ## Páginas que ligam para aqui
 
+- [Ana Curto](../../Pessoas/A/Ana%20Curto.md)
+- [Ana Geão](../../Pessoas/A/Ana%20Ge%C3%A3o.md)
 - [Ana Vacas](../../Pessoas/A/Ana%20Vacas.md)
 - [Andreia Pereira](../../Pessoas/A/Andreia%20Pereira.md)
 - [Bernardo Mendonça](../../Pessoas/B/Bernardo%20Mendon%C3%A7a.md)

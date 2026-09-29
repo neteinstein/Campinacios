@@ -114,8 +114,18 @@ node in `docs/assets/graph.json`.
 ```sh
 python3 .claude/skills/nova-pessoa/scripts/pessoas.py verificar "Nome" "Nome parecido"
 python3 .claude/skills/nova-pessoa/scripts/pessoas.py procurar "Nome"
+python3 .claude/skills/nova-pessoa/scripts/pessoas.py reciprocas "docs/Pessoas/<L>/<Nome>.md" "docs/Acampamentos/<ano>/<Campo>.md"
 mkdocs build --strict
 ```
+
+`reciprocas` verifica as páginas que mexeu (ou todas, com `--todos`):
+quem a página de uma pessoa diz ter sido animador num campo tem de estar
+na equipa desse campo, quem está na equipa de um campo tem de o ter em
+`### Acampamentos`, e cada um tem de estar em "Páginas que ligam para
+aqui" do outro. Uma ligação para uma página de desambiguação na equipa de
+um campo também falha: aponte-a para a pessoa. Quem foi **Participante**
+ou esteve em **Formação** não tem de aparecer no campo, porque os campos
+só listam a equipa.
 
 `verificar` fails if two person pages share a name or if a similar-named
 pair lacks the note that tells them apart; fix every `ERRO`. Run `procurar`

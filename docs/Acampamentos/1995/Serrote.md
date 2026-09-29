@@ -16,6 +16,7 @@ O Serrote decorreu de 1 a 10 de Agosto de 1995.
 - [José Pedro Ferreira](../../Pessoas/J/Jos%C3%A9%20Pedro%20Ferreira.md)
 - [Margarida Santos](../../Pessoas/M/Margarida%20Santos.md)
 - [Marta Vilela](../../Pessoas/M/Marta%20Vilela.md)
+- [Pedro Rocha Mendes](../../Pessoas/P/Pedro%20Rocha%20Mendes.md)
 
 ---
 

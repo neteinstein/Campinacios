@@ -11,6 +11,7 @@
 - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Manuel Cardoso, Beatriz Esteves, Carol Dias, Duarte Farelo, Madalena Osório
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - Loureiro, Ana Mendonça (Yana), [Jaime Lucas Pires](../../Pessoas/J/Jaime%20Lucas%20Pires.md), Dinis Braga da Cruz
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Carvalho](../../Pessoas/C/Carlos%20Carvalho.md) sj
+- [Animadores](../../Categorias/Animadores.md) - [Francisco Dioniz Barroso Loureiro](../../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
 
 ## Páginas que ligam para aqui
 

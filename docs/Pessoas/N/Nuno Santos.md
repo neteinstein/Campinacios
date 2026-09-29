@@ -9,7 +9,7 @@
     - 2009
 
 - **Animador:**
-    - Nenhum
+    - 2010 [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
 
 ## Páginas que ligam para aqui
 

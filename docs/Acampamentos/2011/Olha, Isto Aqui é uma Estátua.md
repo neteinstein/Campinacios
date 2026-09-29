@@ -15,6 +15,7 @@
 - [Maria Amorim](../../Pessoas/M/Maria%20Amorim.md)
 - [Paulo Cardoso](../../Pessoas/P/Paulo%20Cardoso.md)
 - [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md)
+- [Vicente Goes](../../Pessoas/V/Vicente%20Goes.md)
 
 ---
 

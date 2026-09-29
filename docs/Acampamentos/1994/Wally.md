@@ -16,6 +16,7 @@ Este acampamento de [Trotinetas](../../Categorias/Trotinetas.md) decorreu de 20 
 
 - [André Gonçalves](../../Pessoas/A/Andr%C3%A9%20Gon%C3%A7alves.md)
 - [António Coimbra](../../Pessoas/A/Ant%C3%B3nio%20Coimbra.md)
+- [Carla Gapo](../../Pessoas/C/Carla%20Gapo.md)
 - [Carlos Ruiz](../../Pessoas/C/Carlos%20Ruiz.md)
 - [Diana Gapo](../../Pessoas/D/Diana%20Gapo.md)
 - [Eduardo Almeida](../../Pessoas/E/Eduardo%20Almeida.md)
@@ -24,6 +25,7 @@ Este acampamento de [Trotinetas](../../Categorias/Trotinetas.md) decorreu de 20 
 - [Magui](../../Pessoas/M/Magui.md)
 - [Margarida Valle](../../Pessoas/M/Margarida%20Valle.md)
 - [Maria Machado Lima](../../Pessoas/M/Maria%20Machado%20Lima.md)
+- [Pedro Rocha Mendes](../../Pessoas/P/Pedro%20Rocha%20Mendes.md)
 - [Rafael Lucas Pires](../../Pessoas/R/Rafael%20Lucas%20Pires.md)
 - [Rui Junqueira](../../Pessoas/R/Rui%20Junqueira.md)
 - [Sara Amado](../../Pessoas/S/Sara%20Amado.md)

@@ -22,6 +22,7 @@
 - [Jangada](../../Acampamentos/2002/Jangada.md)
 - [Nómada](../../Acampamentos/2006/N%C3%B3mada.md)
 - [Ídolo](../../Acampamentos/2004/%C3%8Ddolo.md)
+- [Rajada](../../Acampamentos/2001/Rajada.md)
 
 ---
 

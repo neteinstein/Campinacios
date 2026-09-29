@@ -12,6 +12,7 @@ O CAmpIC foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que 
 
 ## Páginas que ligam para aqui
 
+- [Carlos Lopes](../../Pessoas/C/Carlos%20Lopes.md)
 - [José Araújo](../../Pessoas/J/Jos%C3%A9%20Ara%C3%BAjo.md)
 - [José Manuel Lopes](../../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md)
 - [João Pessoa](../../Pessoas/J/Jo%C3%A3o%20Pessoa.md)

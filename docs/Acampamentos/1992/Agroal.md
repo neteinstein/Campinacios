@@ -14,9 +14,12 @@ Este acampamento de [Trotinetas](../../Categorias/Trotinetas.md) decorreu no [Ag
 
 ## Páginas que ligam para aqui
 
+- [Andreia Mendes](../../Pessoas/A/Andreia%20Mendes.md)
+- [Carla Gapo](../../Pessoas/C/Carla%20Gapo.md)
 - [Conceição Martinho](../../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)
 - [Domingos Freitas](../../Pessoas/D/Domingos%20Freitas.md)
 - [Filipe Queiroz e Melo](../../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md)
+- [Gustavo Gapo](../../Pessoas/G/Gustavo%20Gapo.md)
 - [José Luís Silva](../../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Silva.md)
 - [José Marques](../../Pessoas/J/Jos%C3%A9%20Marques.md)
 - [Lara Tavares](../../Pessoas/L/Lara%20Tavares.md)

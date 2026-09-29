@@ -2,6 +2,13 @@
 
 Carla Gapo foi uma das animadoras do Colégio da Imaculada Conceição.
 
+### Acampamentos
+
+- **Animadora:**
+    - 1992 [Agroal](../../Acampamentos/1992/Agroal.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 1993 [Tabuadelas II](../../Acampamentos/1993/Tabuadelas%20II.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 1994 [Wally](../../Acampamentos/1994/Wally.md) - [Tia](../../Cargos/Tio.md)
+
 ## Páginas que ligam para aqui
 
 - [Agroal](../../Acampamentos/1992/Agroal.md)

@@ -9,12 +9,7 @@
 
 ## Páginas que ligam para aqui
 
-- [Bora Bora](../../Acampamentos/2007/Bora%20Bora.md)
-- [Era Uma Vez...](../../Acampamentos/2008/Era%20Uma%20Vez....md)
-- [Eureka](../../Acampamentos/2008/Eureka.md)
-- [Nómada](../../Acampamentos/2006/N%C3%B3mada.md)
 - [Revolução Campinácios v2.0](../Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
-- [XS](../../Acampamentos/2006/XS.md)
 
 ---
 
