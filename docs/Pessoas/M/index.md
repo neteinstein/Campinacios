@@ -30,7 +30,7 @@
 - [Marco Cunha](Marco%20Cunha.md)
 - [Marco Frazão](Marco%20Fraz%C3%A3o.md)
 - [Marcos Matos](Marcos%20Matos.md)
-- [Marga Faria](Marga%20Faria.md)
+- [Margarida Faria](Margarida%20Faria.md)
 - [Margarida Garcia](Margarida%20Garcia.md)
 - [Margarida Matias](Margarida%20Matias.md)
 - [Margarida Maury](Margarida%20Maury.md)

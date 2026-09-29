@@ -6,9 +6,14 @@
     - 2024 [Astérix e Obélerdos](../../Acampamentos/2024/Ast%C3%A9rix%20e%20Ob%C3%A9lerdos.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2025 [Não Confundas](../../Acampamentos/2025/N%C3%A3o%20Confundas.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
+### Encontros
+
+- 2026 [Encontro Nacional 2026](../../Encontros/Encontro%20Nacional%202026.md) - Responsável do imaginário
+
 ## Páginas que ligam para aqui
 
 - [Astérix e Obélerdos](../../Acampamentos/2024/Ast%C3%A9rix%20e%20Ob%C3%A9lerdos.md)
+- [Encontro Nacional 2026](../../Encontros/Encontro%20Nacional%202026.md)
 - [Não Confundas](../../Acampamentos/2025/N%C3%A3o%20Confundas.md)
 
 ---

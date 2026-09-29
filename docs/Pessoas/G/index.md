@@ -2,6 +2,7 @@
 
 - [Gabriel Ponte](Gabriel%20Ponte.md)
 - [Gabriela Poças](Gabriela%20Po%C3%A7as.md)
+- [Gonçalo Aguiar](Gon%C3%A7alo%20Aguiar.md)
 - [Gonçalo Belo](Gon%C3%A7alo%20Belo.md)
 - [Gonçalo Eiró](Gon%C3%A7alo%20Eir%C3%B3.md)
 - [Gonçalo Fonseca](Gon%C3%A7alo%20Fonseca.md)

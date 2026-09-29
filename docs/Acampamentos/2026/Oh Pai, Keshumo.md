@@ -5,7 +5,7 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Lourenço Beato](../../Pessoas/L/Louren%C3%A7o%20Beato.md)
-- [Mamã](../../Cargos/Mam%C3%A3.md) - [Marga Faria](../../Pessoas/M/Marga%20Faria.md)
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [Margarida Faria](../../Pessoas/M/Margarida%20Faria.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Zé Guedes](../../Pessoas/Z/Z%C3%A9%20Guedes.md)
 - [Tia](../../Cargos/Tio.md) - Teresa Cannas, Marta Martins
 - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Ana Isabel Martins, Manuel Cardoso, Daniela Gonçalves, José Cabelo, Carolina Morão (Káká), Mariana Cortez
@@ -20,7 +20,7 @@
 - [Francisco Cortês Ferreira](../../Pessoas/F/Francisco%20Cort%C3%AAs%20Ferreira.md)
 - [José Carlos Miranda](../../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md)
 - [Lourenço Beato](../../Pessoas/L/Louren%C3%A7o%20Beato.md)
-- [Marga Faria](../../Pessoas/M/Marga%20Faria.md)
+- [Margarida Faria](../../Pessoas/M/Margarida%20Faria.md)
 - [Sequeiros (Braga)](../../Restrito/Locais%20de%20Acampamento/Sequeiros%20%28Braga%29.md)
 - [Zé Guedes](../../Pessoas/Z/Z%C3%A9%20Guedes.md)
 
