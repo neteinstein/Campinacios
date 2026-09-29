@@ -248,6 +248,8 @@ Quando tiveres dúvidas do que é ser mamã de acampamento lembra-te como é (ex
 - [Tiw-y-moy](../Acampamentos/1998/Tiw-y-moy.md)
 - [Tranquilo](../Acampamentos/2000/Tranquilo.md)
 - [Tribal](../Acampamentos/1992/Tribal.md)
+- [Triciclos 1](../Acampamentos/1997/Triciclos%201.md)
+- [Triciclos 2](../Acampamentos/1997/Triciclos%202.md)
 - [Trolliciclos](../Acampamentos/2004/Trolliciclos.md)
 - [TufarfarAway](../Acampamentos/2008/TufarfarAway.md)
 - [Tábeeeim](../Acampamentos/2010/T%C3%A1beeeim.md)

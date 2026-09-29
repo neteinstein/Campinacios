@@ -3,7 +3,7 @@
 ### Acampamentos
 
 - **Participante**
-    - 1997 [Alvoco 97](../../Acampamentos/1997/Alvoco%2097.md)
+    - 1997 [Triciclos 1](../../Acampamentos/1997/Triciclos%201.md)
     - 1998 [Regresso a Alvoco II](../../Acampamentos/1998/Regresso%20a%20Alvoco%20II.md)
 
 - **Formação**
@@ -21,12 +21,12 @@
 
 ## Páginas que ligam para aqui
 
-- [Alvoco 97](../../Acampamentos/1997/Alvoco%2097.md)
 - [Arethë](../../Acampamentos/2008/Areth%C3%AB.md)
 - [Bublix](../../Acampamentos/2009/Bublix.md)
 - [Em Busca da CaraBela](../../Acampamentos/2006/Em%20Busca%20da%20CaraBela.md)
 - [Fófinhos](../../Acampamentos/2005/F%C3%B3finhos.md)
 - [Pedro Pinheiro](../P/Pedro%20Pinheiro.md)
+- [Triciclos 1](../../Acampamentos/1997/Triciclos%201.md)
 
 ---
 
