@@ -37,7 +37,7 @@ Frequentou o [CAIC](../../Movimento/CAIC.md) de 1995 a 2003. Animador de 2003 at
 
 ### Campinacios.org
 
-É o gestor da página dos Campinácios desde 2005, iniciando em 2009 a [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)!
+É o gestor da página dos Campinácios desde 2005, recebida do [Diogo Costa](../D/Diogo%20Costa.md) (ver [Online](../../Movimento/Online.md#pagina-original)), iniciando em 2009 a [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)!
 
 ### Testemunho
 
@@ -86,6 +86,7 @@ Respondendo à pergunta inicial… ganhei tudo… o que é importante pelo menos
 - [Campinácios](../../Movimento/Campin%C3%A1cios.md)
 - [Conteúdos](../../Wikin%C3%A1cios/Conte%C3%BAdos.md)
 - [Contribuidores](../../Wikin%C3%A1cios/Contribuidores.md)
+- [Diogo Costa](../D/Diogo%20Costa.md)
 - [Encontro Nacional de 2007](../../Encontros/Encontro%20Nacional%20de%202007.md)
 - [Encontro Nacional de Animadores 2007](../../Encontros/Encontro%20Nacional%20de%20Animadores%202007.md)
 - [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md)
@@ -95,6 +96,7 @@ Respondendo à pergunta inicial… ganhei tudo… o que é importante pelo menos
 - [Long Tao](../../Acampamentos/2006/Long%20Tao.md)
 - [Manual de Funções](../../Movimento/Manual%20de%20Fun%C3%A7%C3%B5es.md)
 - [Manual do Director](../../Movimento/Manual%20do%20Director.md)
+- [Online](../../Movimento/Online.md)
 - [OPA](../../Acampamentos/2007/OPA.md)
 - [OrienTu](../../Acampamentos/2008/OrienTu.md)
 - [Patos](../../Acampamentos/2004/Patos.md)

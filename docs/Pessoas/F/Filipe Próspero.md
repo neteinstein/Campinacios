@@ -32,7 +32,7 @@ Filipe Próspero, é desde 2005 um dos animadores do Colégio São João de Brit
 
 ### Campinacios.org
 
-Foi um dos gestores da página dos Campinácios de 2007 a 2009.
+Foi um dos gestores da [página dos Campinácios](../../Movimento/Online.md#pagina-original) de 2007 a 2009, depois do [Diogo Costa](../D/Diogo%20Costa.md).
 
 ### Família
 
@@ -43,12 +43,14 @@ Foi um dos gestores da página dos Campinácios de 2007 a 2009.
 - [Baza](../../Acampamentos/2007/Baza.md)
 - [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
 - [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md)
+- [Diogo Costa](../D/Diogo%20Costa.md)
 - [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md)
 - [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md)
 - [Inês Próspero](../I/In%C3%AAs%20Pr%C3%B3spero.md)
 - [Long Tao](../../Acampamentos/2006/Long%20Tao.md)
 - [Nheca Nheca no Macacão](../../Acampamentos/2012/Nheca%20Nheca%20no%20Macac%C3%A3o.md)
+- [Online](../../Movimento/Online.md)
 - [OrienTu](../../Acampamentos/2008/OrienTu.md)
 
 ---
