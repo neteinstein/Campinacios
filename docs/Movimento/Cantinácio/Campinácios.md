@@ -367,7 +367,7 @@ O Noddy apareceu cá
         Vem sacudire, veio a abanar
         O espinafre pelo ar
         Há Favas com Chouriço
-        E grelo para ‘companhar
+        E grelos para ‘companhar
 
 E                                     G#m
 Os piratas da banheira. içaram a bandeira
