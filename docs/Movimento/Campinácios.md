@@ -10,6 +10,9 @@
 - Logótipo Oficial do Movimento em 2003
 - Logótipo não oficial - Feito por [Pedro Pinheiro](../Pessoas/P/Pedro%20Pinheiro.md) para a comemoração do natal de 2006
 - Logótipo Oficial do Movimento a partir de Janeiro de 2010 (embora tenha sido usado desde 2006, foi criado para os 20 anos do Movimento) - por João David a pedido de [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)
+- Logótipo comemorativo dos 30 anos do Movimento (1990-2020)
+- Logótipo comemorativo dos 35 anos do Movimento (2025) - identidade visual do departamento de comunicação do mandato de 2024/25
+- Logótipo Oficial do Movimento a partir de 2025 - por “Concha” Constança Sampaio Soares, vencedor do Concurso CAMPOCALIPSE
 
 <div class="wk-logos" markdown>
 <figure markdown="span">
@@ -36,7 +39,25 @@
 [![Logótipo de 2010: tenda verde e sol num círculo vermelho, com o IHS e «Campinácios» por baixo](../assets/imagens/Campin%C3%A1cios_.jpg)](../assets/imagens/Campin%C3%A1cios_.jpg)
 <figcaption>2010 · oficial</figcaption>
 </figure>
+<figure markdown="span">
+[![Logótipo dos 30 anos: círculo vermelho com «30 anos» e «Campinácios» em letra cursiva branca, uma faixa com «1990 - 2020», três tendas verdes e o IHS](../assets/imagens/Campin%C3%A1cios_30_anos.jpg)](../assets/imagens/Campin%C3%A1cios_30_anos.jpg)
+<figcaption>30 anos (2020) · comemorativo</figcaption>
+</figure>
+<figure markdown="span">
+[![Logótipo dos 35 anos: hexágono aberto de traços amarelo, verde, azul, laranja e vermelho à volta do número 35, com «anos Campinácios» por baixo](../assets/imagens/Campin%C3%A1cios_35_anos.png)](../assets/imagens/Campin%C3%A1cios_35_anos.png)
+<figcaption>35 anos (2025) · comemorativo</figcaption>
+</figure>
+<figure markdown="span">
+[![Logótipo de 2025: tenda verde com uma guitarra, o sol e o IHS num círculo vermelho, com «CAMPINÁCIOS» por baixo](../assets/imagens/Campin%C3%A1cios_2025.png)](../assets/imagens/Campin%C3%A1cios_2025.png)
+<figcaption>2025 · oficial</figcaption>
+</figure>
 </div>
+
+**30 anos (2020/21):** os 30 anos foram sonhados no Encontro Nacional de Animadores de 2019 como uma celebração que iria durar um ano inteiro, começando no Encontro Nacional de 2020 e terminando no de 2021. Com a pandemia a aparecer meses depois, as celebrações ficaram em pausa e as actividades passaram a fazer-se *online*. Ainda assim, vendeu-se *merchandising*: [Cabaz de Natal Campinácios 30 anos](https://pontosj.pt/campinacios/2020/12/04/cabaz-de-natal-campinacios-30-anos/).
+
+**35 anos (2025):** o Encontro Nacional dos 35 anos marcou o regresso ao [CAIC](CAIC.md), depois de o colégio ter encerrado em 2019, e contou com os quatro escalões, animadores actuais e antigos (os Calhambeques) e ainda um escalão exclusivo: os Rodinhas (do 4.º ano para baixo). A identidade visual dos 35 anos foi produzida pelo departamento de comunicação do mandato de 2024/25: “Concha” Constança Sampaio Soares (coordenadora), Teresa Cannas, Francisca Neves e Marta Esperança Martins. Mais informação: [Campinácios 35 anos](https://pontosj.pt/campinacios/35-anos/).
+
+**Logótipo de 2025:** desenhado em 2024 por “Concha” Constança Sampaio Soares no [Concurso CAMPOCALIPSE](https://pontosj.pt/campinacios/concurso-campocalipse/), aberto a todos nas redes sociais. Das 31 propostas recebidas, o departamento de comunicação de 2024/25 escolheu seis para serem votadas no Encontro Nacional de Animadores de 2024. O novo logótipo foi anunciado no serão do Encontro Nacional dos 35 anos (2025), juntamente com um [novo hino](https://www.youtube.com/watch?v=u6NnGG5zVlk) (a autoria está na descrição do vídeo).
 
 Os CAMPINÁCIOS são um movimento de acampamentos de férias estreitamente ligado à Companhia de Jesus mas, especificamente integrado na vida pastoral dos seus três colégios existentes em Portugal: Colégio das Caldinhas ([CC](CC.md))*, Colégio S. João de Brito ([CSJB](CSJB.md)) e Colégio da Imaculada Conceição ([CAIC](CAIC.md)).
 
