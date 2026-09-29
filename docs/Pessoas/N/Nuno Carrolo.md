@@ -1,5 +1,13 @@
 # Nuno Carrolo
 
+### Acampamentos
+
+- **Animador:**
+    - 2000 [Tranquilo](../../Acampamentos/2000/Tranquilo.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2001 [Cinena](../../Acampamentos/2001/Cinena.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2002 [Piripetroporco](../../Acampamentos/2002/Piripetroporco.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2003 [Rastilho](../../Acampamentos/2003/Rastilho.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+
 ## Páginas que ligam para aqui
 
 - [Cinena](../../Acampamentos/2001/Cinena.md)

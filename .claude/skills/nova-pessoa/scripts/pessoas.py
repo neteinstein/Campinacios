@@ -14,6 +14,16 @@ with the same or similar names are kept apart.
   verificar --todos   the same for every person page; pairs the original
                       wiki already had are listed in legado.txt and don't
                       fail.
+  reciprocas <página.md>... | --todos
+                      pessoas e acampamentos ligados nos dois sentidos: quem
+                      a página de uma pessoa diz ter sido animador num campo
+                      tem de estar na equipa desse campo, e quem está na
+                      equipa de um campo tem de o ter em "### Acampamentos"
+                      (a coordenação de um curso basta estar ligada, em
+                      "### Cargos"); e "Páginas que ligam para aqui" de cada
+                      um tem de listar o outro. Quem foi participante ou
+                      esteve em formação não tem de aparecer no campo: os
+                      campos só listam a equipa.
 
 Names are compared without accents or case. "Similar" means: the same
 first and last name ("Ana Martins" / "Ana Rita Martins"), one name inside
@@ -213,6 +223,153 @@ def procurar(name):
     return 0
 
 
+CAMPS = DOCS / 'Acampamentos'
+TEAM = re.compile(r'animador|coordena|direc')  # secções da equipa num campo
+
+
+def role_of(line):
+    """'Animador', 'Participante', 'Formação' ou 'Locais' se a linha é um
+    dos cabeçalhos da lista de acampamentos de uma pessoa, senão None."""
+    if '[' in line:
+        return None
+    r = fold(re.sub(r'[-*:"()]', ' ', line))
+    for start, role in (('animador', 'Animador'), ('particip', 'Participante'),
+                        ('forma', 'Formação'), ('loca', 'Locais')):
+        if r.startswith(start):
+            return role
+    return None
+
+
+def backlinks(page):
+    """As páginas listadas em "## Páginas que ligam para aqui", ou None."""
+    m = re.search(r'^## Páginas que ligam para aqui\s*$(.*?)(?=^---|^## |\Z)',
+                  page.read_text(encoding='utf-8'), re.M | re.S)
+    if not m:
+        return None
+    return {target(h, page) for _, h in LINK.findall(m.group(1))}
+
+
+class Ties:
+    """Ligações entre pessoas e acampamentos."""
+
+    def __init__(self, site):
+        self.site = site
+        self.camps = sorted(p for p in CAMPS.rglob('*.md')
+                            if p.name != 'index.md')
+        camp_set = set(self.camps)
+        self.roles = defaultdict(dict)     # pessoa -> {campo: papel}
+        self.links = defaultdict(set)      # página -> pessoas/campos que liga
+        for person in site.people:
+            text = body(person)
+            for _, h in LINK.findall(text):
+                t = target(h, person)
+                if t in camp_set:
+                    self.links[person].add(t)
+            m = re.search(r'^### Acampamentos\s*$(.*?)(?=^##? |\Z)', text,
+                          re.M | re.S)
+            role = '?'
+            for line in (m.group(1).splitlines() if m else ()):
+                role = role_of(line) or role
+                hrefs = [target(h, person) for _, h in LINK.findall(line)]
+                # sem cabeçalho, um cargo na linha diz que foi animador
+                here = role if role != '?' or not any(
+                    t and t.parent.name == 'Cargos' for t in hrefs) \
+                    else 'Animador'
+                for t in hrefs:
+                    if t in camp_set:
+                        self.roles[person].setdefault(t, here)
+        self.team = defaultdict(dict)      # campo -> {pessoa: secção}
+        self.team_disambig = defaultdict(list)  # campo -> [(desamb., rótulo)]
+        for camp in self.camps:
+            section = ''
+            for line in body(camp).splitlines():
+                if line.startswith('#'):
+                    section = fold(line.lstrip('#'))
+                    continue
+                for label, h in LINK.findall(line):
+                    t = target(h, camp)
+                    if t in site.people:
+                        self.links[camp].add(t)
+                        if TEAM.search(section):
+                            self.team[camp].setdefault(t, section)
+                    elif t in site.disambigs and TEAM.search(section):
+                        self.team_disambig[camp].append((t, label))
+
+    def problems(self, pages=None):
+        """Linhas de erro das ligações que só existem de um lado. Só a
+        equipa (animadores) tem de estar nos dois: quem foi participante
+        ou esteve em formação não aparece na página do campo."""
+        site, out = self.site, []
+
+        def wanted(*ps):
+            return pages is None or any(p in pages for p in ps)
+
+        for person, camps in self.roles.items():
+            for camp, role in camps.items():
+                if role != 'Animador' or not wanted(person, camp) \
+                        or person in self.links[camp]:
+                    continue
+                via = [d for d, _ in self.team_disambig[camp]
+                       if person in site.listed_in(d)]
+                extra = (f' (liga a {rel(via[0])}; aponte-a para a pessoa)'
+                         if via else '')
+                out.append(f'{rel(person)} diz que foi animador em '
+                           f'{rel(camp)}, mas o campo não liga à pessoa'
+                           f'{extra}')
+        for camp, team in self.team.items():
+            for person, section in team.items():
+                if not wanted(person, camp):
+                    continue
+                role = self.roles[person].get(camp)
+                if 'animador' not in section:
+                    # coordenação de um curso ou encontro: vai para os
+                    # "### Cargos" da pessoa, basta ligar ao campo
+                    if camp not in self.links[person]:
+                        out.append(f'{rel(camp)} tem {rel(person)} na '
+                                   'coordenação, mas a página da pessoa não '
+                                   'liga ao campo (em "### Cargos")')
+                    continue
+                if role is None:
+                    out.append(f'{rel(camp)} tem {rel(person)} na equipa, mas '
+                               'a página da pessoa não tem o campo em '
+                               '"### Acampamentos"')
+                elif role not in ('Animador', '?'):
+                    out.append(f'{rel(camp)} tem {rel(person)} na equipa, mas '
+                               f'a página da pessoa tem-no como {role}')
+        pairs = [(a, b) for a in self.links for b in self.links[a]]
+        for a, b in pairs:
+            listed = backlinks(b)
+            if wanted(a, b) and listed is not None and a not in listed:
+                out.append(f'{rel(b)}: falta {rel(a)} em "Páginas que ligam '
+                           'para aqui"')
+        camp_set = set(self.camps)
+        for b in [*site.people, *self.camps]:
+            for a in sorted(backlinks(b) or (), key=str):
+                person_camp = (a in site.people and b in camp_set) or \
+                    (a in camp_set and b in site.people)
+                if person_camp and b not in self.links[a] and wanted(a, b):
+                    out.append(f'{rel(b)}: "Páginas que ligam para aqui" tem '
+                               f'{rel(a)}, que não liga para aqui')
+        return out
+
+
+def reciprocas(args):
+    site = Site()
+    ties = Ties(site)
+    everything = args == ['--todos']
+    pages = None if everything else {
+        Path(os.path.normpath(Path.cwd() / a)) for a in args}
+    problems = [f'{p} não existe' for p in pages or () if not p.exists()]
+    problems += ties.problems(pages)
+    for line in problems:
+        print(f'ERRO  {line}')
+    if not problems:
+        n = 'todas as' if everything else f'{len(pages)}'
+        print(f'OK  {n} página(s): pessoas e acampamentos ligados nos dois '
+              'sentidos.')
+    return 1 if problems else 0
+
+
 def told_apart(site, a, b):
     """Is there a "Nota:" on a pointing to b, or a disambiguation page
     listing both and linked from a's note?"""
@@ -278,8 +435,11 @@ def verificar(args):
 
 
 if __name__ == '__main__':
-    if len(sys.argv) < 3 or sys.argv[1] not in ('procurar', 'verificar'):
+    if len(sys.argv) < 3 or sys.argv[1] not in ('procurar', 'verificar',
+                                                'reciprocas'):
         sys.exit(__doc__)
     if sys.argv[1] == 'procurar':
         sys.exit(procurar(' '.join(sys.argv[2:])))
+    if sys.argv[1] == 'reciprocas':
+        sys.exit(reciprocas(sys.argv[2:]))
     sys.exit(verificar(sys.argv[2:]))

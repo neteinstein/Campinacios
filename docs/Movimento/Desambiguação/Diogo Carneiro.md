@@ -9,9 +9,6 @@
 
 ## Páginas que ligam para aqui
 
-- [Talithá Kum](../../Acampamentos/2009/Talith%C3%A1%20Kum.md)
-- [Walkabout](../../Acampamentos/2010/Walkabout.md)
-
 ---
 
 | Categorias |

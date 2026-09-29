@@ -13,6 +13,8 @@ O Aranha foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que 
 
 ## Páginas que ligam para aqui
 
+- [Ana Luísa Santos](../../Pessoas/A/Ana%20Lu%C3%ADsa%20Santos.md)
+- [Andreia Mendes](../../Pessoas/A/Andreia%20Mendes.md)
 - [Cristovão Andrade](../../Pessoas/C/Cristov%C3%A3o%20Andrade.md)
 - [Diana Gapo](../../Pessoas/D/Diana%20Gapo.md)
 - [Eduardo Almeida](../../Pessoas/E/Eduardo%20Almeida.md)

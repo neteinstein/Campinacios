@@ -6,6 +6,15 @@ Francisco Costa Macedo foi um animador do CSJB. Foi também jesuíta.
 
 É marido de [Concha Macedo](../C/Concha%20L%C3%ADbano%20Monteiro.md)
 
+### Cargos
+
+- 1991 Coordenador do [CIFA I](../../Acampamentos/Sem%20data/CIFA%20I.md)
+
+### Acampamentos
+
+- **Animador:**
+    - 1991 [Constância](../../Acampamentos/1991/Const%C3%A2ncia.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+
 ## Páginas que ligam para aqui
 
 - [CIFA I](../../Acampamentos/Sem%20data/CIFA%20I.md)

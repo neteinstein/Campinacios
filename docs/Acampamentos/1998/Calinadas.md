@@ -2,7 +2,7 @@
 
 ### Animadores
 
-- [Director](../../Cargos/Director.md) - [José da Silva Almeida](../../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md) sj
+- [Director](../../Cargos/Director.md) - [José da Silva Almeida](../../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md) sj e [José Augusto Rosa](../../Pessoas/J/Jos%C3%A9%20Augusto%20Rosa.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [João Currais](../../Pessoas/J/Jo%C3%A3o%20Currais.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Rita Feijó](../../Pessoas/R/Rita%20Feij%C3%B3.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Carneiro](../../Pessoas/C/Carlos%20Carneiro.md) sj

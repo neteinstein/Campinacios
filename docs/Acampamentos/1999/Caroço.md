@@ -8,6 +8,7 @@ O Caroço decorreu de 15 a 24 de Agosto de 1999 em [Porto da Balsa](../../Restri
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [José Lima](../../Pessoas/J/Jos%C3%A9%20Lima.md) sj
 - [Tia](../../Cargos/Tio.md) - [Diana Quintela](../../Pessoas/D/Diana%20Quintela.md)
+- [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Telma Pinto](../../Pessoas/T/Telma%20Pinto.md)
 
 ## Páginas que ligam para aqui
 

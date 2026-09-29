@@ -20,6 +20,7 @@ O Dilúvio foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) que 
 - [Luís Ferreira do Amaral](../../Pessoas/L/Lu%C3%ADs%20Ferreira%20do%20Amaral.md)
 - [Nuno Carvalho](../../Pessoas/N/Nuno%20Carvalho.md)
 - [Pedro Pinheiro](../../Pessoas/P/Pedro%20Pinheiro.md)
+- [Rita Antunes](../../Pessoas/R/Rita%20Antunes.md)
 - [Vera Cunha](../../Pessoas/V/Vera%20Cunha.md)
 - [Vítor Fernandes](../../Pessoas/V/V%C3%ADtor%20Fernandes.md)
 

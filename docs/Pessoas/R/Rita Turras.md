@@ -15,6 +15,7 @@ A Rita é irmã do [Pedro Turras](../P/Pedro%20Turras.md), da [Inês Turras](../
 
 ## Páginas que ligam para aqui
 
+- [Academia](../../Acampamentos/2005/Academia.md)
 - [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
 - [Inês Turras](../I/In%C3%AAs%20Turras.md)
 - [M&M](../../Acampamentos/2007/M%26M.md)

@@ -16,6 +16,7 @@ O Alfa foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que de
 - [Alexandre Correia](../../Pessoas/A/Alexandre%20Correia.md)
 - [António Leal](../../Pessoas/A/Ant%C3%B3nio%20Leal.md)
 - [Carla Antunes](../../Pessoas/C/Carla%20Antunes.md)
+- [Carlos Lopes](../../Pessoas/C/Carlos%20Lopes.md)
 - [Carlos Ruiz](../../Pessoas/C/Carlos%20Ruiz.md)
 - [Cristina Cabeça](../../Pessoas/C/Cristina%20Cabe%C3%A7a.md)
 - [Cristina Rebordão](../../Pessoas/C/Cristina%20Rebord%C3%A3o.md)

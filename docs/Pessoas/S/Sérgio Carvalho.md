@@ -20,6 +20,7 @@ Sérgio Carvalho é um dos animadores do Colégio das Caldinhas.
     - 1997 [Poucha](../../Acampamentos/1997/Poucha.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 1998 [Além](../../Acampamentos/1998/Al%C3%A9m.md) - [Director](../../Cargos/Director.md)
     - 2000 [Tranquilo](../../Acampamentos/2000/Tranquilo.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
+    - 2000 [Liberata](../../Acampamentos/2000/Liberata.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2001 [Cinena](../../Acampamentos/2001/Cinena.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2001 [Pontes](../../Acampamentos/2001/Pontes.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2003 [Graal II](../../Acampamentos/2003/Graal%20II.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)

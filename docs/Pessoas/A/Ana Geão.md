@@ -4,6 +4,7 @@
 
 - **Animadora**
     - 1999 [Gipsy Kings](../../Acampamentos/1999/Gipsy%20Kings.md) - [Tia](../../Cargos/Tio.md)
+    - 1999 [Koalas](../../Acampamentos/1999/Koalas.md)
     - 2000 [Tem Bicho Zweitausend](../../Acampamentos/2000/Tem%20Bicho%20Zweitausend.md) - [Tia](../../Cargos/Tio.md)
     - 2001 [Shampum de Pessêgo](../../Acampamentos/2001/Shampum%20de%20Pess%C3%AAgo.md) - [Tia](../../Cargos/Tio.md)
     - 2003 [Pimpolhos](../../Acampamentos/2003/Pimpolhos.md) - [Mamã](../../Cargos/Mam%C3%A3.md)

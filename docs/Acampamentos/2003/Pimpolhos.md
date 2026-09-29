@@ -21,6 +21,7 @@ O Pimpolhos foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que
 - [Hermínio Vitorino](../../Pessoas/H/Herm%C3%ADnio%20Vitorino.md)
 - [Joana Sá](../../Pessoas/J/Joana%20S%C3%A1.md)
 - [José da Silva Almeida](../../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
+- [José Eugénio Lopes](../../Pessoas/J/Jos%C3%A9%20Eug%C3%A9nio%20Lopes.md)
 - [Mafalda Junqueira](../../Pessoas/M/Mafalda%20Junqueira.md)
 - [Rafaela Lúcio](../../Pessoas/R/Rafaela%20L%C3%BAcio.md)
 - [Rita Roxo](../../Pessoas/R/Rita%20Roxo.md)

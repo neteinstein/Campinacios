@@ -15,7 +15,9 @@ José Eugénio Lopes mais conhecido por Genito foi de 2001 a 2006 um dos animado
     - 2002 [Graal I](../../Acampamentos/2002/Graal%20I.md)
 - **Animador:**
     - 2000 - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2000 [Liberata](../../Acampamentos/2000/Liberata.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2003 - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2003 [Pimpolhos](../../Acampamentos/2003/Pimpolhos.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2004 [Patos](../../Acampamentos/2004/Patos.md) - [Director](../../Cargos/Director.md)
     - 2005 [Falésia](../../Acampamentos/2005/Fal%C3%A9sia.md) - [Director Adjunto](../../Cargos/Director-Adjunto.md)
 

@@ -21,6 +21,7 @@ Inês Próspero é antiga aluna do [CSJB](../../Movimento/CSJB.md) e animadora d
 
 - [Baza](../../Acampamentos/2007/Baza.md)
 - [Filipe Próspero](../F/Filipe%20Pr%C3%B3spero.md)
+- [Graal II](../../Acampamentos/2003/Graal%20II.md)
 - [Long Tao](../../Acampamentos/2006/Long%20Tao.md)
 - [TufarfarAway](../../Acampamentos/2008/TufarfarAway.md)
 

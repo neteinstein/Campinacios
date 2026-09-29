@@ -40,6 +40,7 @@ Diz Que Sim foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) fei
 - [Lúcia Ribeiro](../../Pessoas/L/L%C3%BAcia%20Ribeiro.md)
 - [Madalena Saraiva](../../Pessoas/M/Madalena%20Saraiva.md)
 - [Manuel Vilhena](../../Pessoas/M/Manuel%20Vilhena.md)
+- [Mariana Gonçalves](../../Pessoas/M/Mariana%20Gon%C3%A7alves.md)
 - [Mariana Turras](../../Pessoas/M/Mariana%20Turras.md)
 - [Miguel Monteiro](../../Pessoas/M/Miguel%20Monteiro.md)
 - [Natacha Soares](../../Pessoas/N/Natacha%20Soares.md)

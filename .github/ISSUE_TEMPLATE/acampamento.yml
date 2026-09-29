@@ -84,7 +84,7 @@ body:
     id: participantes
     attributes:
       label: Participantes
-      description: Só nos Calhambeques e na Formação de Animadores, em que os participantes já são animadores. Não escreva nomes de participantes menores.
+      description: Só nos Calhambeques e na Formação de Animadores, em que os participantes já são animadores. Não escreva nomes de participantes menores. Ficam no artigo de cada participante, não no do acampamento.
   - type: textarea
     id: historia
     attributes:
