@@ -4,7 +4,7 @@ Cânticos religiosos para as eucaristias, orações e momentos de reflexão.
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (186 músicas)
+## Índice (183 músicas)
 
 - [A BONDADE DO SENHOR](#a-bondade-do-senhor)
 - [ADORAMUS TE CHRISTE](#adoramus-te-christe) — Taizé
@@ -123,7 +123,6 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [PAI QUE ESTÁS NO CÉU](#pai-que-estas-no-ceu)
 - [PAI SANTO, EU TE ADORO](#pai-santo-eu-te-adoro)
 - [PEDACINHO DE DEUS](#pedacinho-de-deus)
-- [PERDOA-ME SENHOR](#perdoa-me-senhor) — CIFA 95 - Vila Nova de Mil Fontes (Rita Castel’Branco)
 - [PERDOA SENHOR](#perdoa-senhor)
 - [PEREGRINO](#peregrino)
 - [PERMANECE EM MIM](#permanece-em-mim)
@@ -153,7 +152,6 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [SEMPRE PENSANDO EM TI](#sempre-pensando-em-ti)
 - [SENHOR AQUI NOS TENDES](#senhor-aqui-nos-tendes)
 - [SENHOR DA CRUZ](#senhor-da-cruz)
-- [SENHOR, EIS-ME AQUI](#senhor-eis-me-aqui) — Tremelgas sem Guarida - 1994
 - [SENHOR EIS-ME AQUI (A PENSAR EM TI)](#senhor-eis-me-aqui-a-pensar-em-ti)
 - [SENHOR ENSINA-ME A VIVER](#senhor-ensina-me-a-viver)
 - [SENHOR JESUS, TU ÉS LUZ DO MUNDO](#senhor-jesus-tu-es-luz-do-mundo) — Taizé
@@ -166,7 +164,6 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [SENHOR VENHO HOJE AQUI DEIXAR](#senhor-venho-hoje-aqui-deixar)
 - [SE TU QUISERES SER FELIZ](#se-tu-quiseres-ser-feliz)
 - [SHEMA ISRAEL](#shema-israel)
-- [SÓ AVANÇA QUEM REPARTE](#so-avanca-quem-reparte) — Margarida Reduto / Xico Lemos
 - [SÓ POR TI JESUS](#so-por-ti-jesus)
 - [SOPRO LEVE](#sopro-leve)
 - [SURREXIT CHRISTUS](#surrexit-christus) — Taizé
@@ -3332,55 +3329,6 @@ Na construção da cidade na construção da cidade.
 Então...
 ```
 
-### PERDOA-ME SENHOR {#perdoa-me-senhor}
-
-*CIFA 95 - Vila Nova de Mil Fontes (Rita Castel’Branco)*
-
-```text
-      Dó
-Perdoa-me, Senhor
-                                                        Mim
-Às vezes esqueço que daí olhas por nós
-                 Lám                                         Rém
-E não me lembro de parar e ouvir-Te a voz
-                 Fá                           Sol
-Ando num mundo em que não sinto
-                      Fá                          Sol
-Em que me escondo e em que minto
-            Lám  Mim
-Fico menor
-
-Perdoa-me, Senhor
-Por pedras que eu atiro sem notar
-E em cada pedra um irmão estou a magoar
-A deixar marcas que não saram
-A fazer feridas que não param
-De sangrar
-
-Perdoa-me, Senhor
-Eu tenho tanto que já nem sei dar valor
-
-Às vezes esqueço que há quem viva bem pior
-
-Se em vez de eu me lamentar
-Visse o tanto que há para dar
-Era melhor
-
-Ajuda-me, Senhor
-A ver a esperança quando à volta tudo é dor
-A ganhar força e a voltar a acreditar
-Eu já perdi a confiança
-Já não sou mais uma criança
-Não sei sonhar
-
-Perdoa-me, Senhor
-Por fechar a minha mão sem a estender
-Por não lembrar que devo dar sem receber
-E em vez de sim Te digo não
-Por isso peço o Teu perdão,
-Senhor
-```
-
 ### PERDOA SENHOR {#perdoa-senhor}
 
 ```text
@@ -4254,46 +4202,6 @@ E que me lança e que me rasga
 Contigo na Tua Cruz, contigo em Cruz
 ```
 
-### SENHOR, EIS-ME AQUI {#senhor-eis-me-aqui}
-
-*Tremelgas sem Guarida - 1994*
-
-```text
-Dó  Sol  Dó  Sol
-
-Dó Sol                      Dó
-Senhor, eis-me aqui
-Sol              Dó
-O que me cerca
-Sol                     Dó
-Tudo o que eu sou
-      Sol            Dó  Sol  Dó  Sol
-Foi feito por Ti
-
-Dó          Sol               Dó
-Senhor, Tu me ensinaste
-    Sol                     Dó
-Tudo o que aprendi
-Sol                Dó
-Tu deste a força
-           Sol              Dó  Sol  Dó  Sol
-P´ra estarmos aqui
-
-     Fá                 Ré
-     Eu Te agradeço
-     Mim                    Sol
-     Pelo ar que respiro
-     Fá                       Ré
-     Pelo sol que ilumina
-     Mim                Sol
-     A terra que piso...
-
-Senhor, eis-me aqui
-O que me cerca
-Tudo o que eu sou
-Foi feito por Ti
-```
-
 ### SENHOR EIS-ME AQUI (A PENSAR EM TI) {#senhor-eis-me-aqui-a-pensar-em-ti}
 
 ```text
@@ -4562,40 +4470,6 @@ Adonai Ehad
 Escuta Israel o Senhor é o nosso Deus
 Fá     Sol  Dó                      Fá     Mi   Lám
 Um é o Senhor  (Repetição: Um é o Senhor)
-```
-
-### SÓ AVANÇA QUEM REPARTE {#so-avanca-quem-reparte}
-
-*Margarida Reduto / Xico Lemos*
-
-```text
-           Ré               Si7     Mim           Lá7      Ré
-Os meus passos pouco seguros,
-              Si7    Mim                Lá7      Dó
-Meu horizonte, às vezes magoado,
-              Sim             Mi    Sim
-Maria que andaste só,
-Dó     Sol                         Lám     Sim
-És a claridade deste andar.
-
-        Sol                     Sim  Lá#mLám
-      Senhor Tu estás aí,
-                      Ré7                   Mim
-      Queres dizer-me alguma coisa,
-      Fá              Dó    Lám                  Mi
-      Quando hesito, sei que me empurras,
-      Quando avanço, és Tu que andas,
-      Quando me dou, és Tu que dás.
-
-Enquanto ando, Deus não tem pressa,
-Não fico p´ra trás, nem esqueço ninguém
-Avanço a Teu lado, Senhor,
-E os meus pés fazem o Teu caminho.
-
-Mesmo quando, dou um passo atrás,
-Sei que posso, sempre re-partir,
-Reparto tudo o que sou,
-Faço do meu tempo a minha entrega.
 ```
 
 ### SÓ POR TI JESUS {#so-por-ti-jesus}
