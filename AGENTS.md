@@ -5,8 +5,20 @@ archiving the Wikinácios: camps ("acampamentos"), people, roles and camp
 sites of a scouting-like movement. It is written entirely in European
 (pre-1990) Portuguese; everything under `docs/`, `.github/ISSUE_TEMPLATE/`,
 `README.md` and `mkdocs.yml`'s visible strings must stay in that
-Portuguese. Project tooling (this file, `.claude/skills/`, `scripts/`,
-`.github/copilot-instructions.md`) is written in English by convention.
+Portuguese.
+
+## Regra da língua: sempre português, nunca inglês
+
+Tudo o que um agente escreve neste projecto é em português europeu
+(ortografia anterior a 1990), em qualquer lado: páginas do site,
+mensagens de commit, títulos e descrições de pull requests, comentários
+e respostas no GitHub, issues, respostas ao utilizador, e texto novo em
+ferramentas (`AGENTS.md`, `.claude/skills/`, `scripts/`,
+`.github/copilot-instructions.md`). Nunca se escreve em inglês. As únicas
+excepções são o que não se traduz: nomes próprios, letras e títulos de
+músicas em inglês, nomes de ficheiros, comandos e identificadores de
+código. As ferramentas que ainda estão em inglês passam para português
+quando forem editadas.
 
 ## Detailed workflows live in `.claude/skills/`
 
