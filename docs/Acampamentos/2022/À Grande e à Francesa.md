@@ -7,12 +7,14 @@
 - [Director](../../Cargos/Director.md) - [Rafaela Azevedo](../../Pessoas/R/Rafaela%20Azevedo.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Sofia Ângelo](../../Pessoas/S/Sofia%20%C3%82ngelo.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Johnny Sousa](../../Pessoas/J/Johnny%20Sousa.md)
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Jaime Lucas Pires](../../Pessoas/J/Jaime%20Lucas%20Pires.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Rui Fernandes](../../Pessoas/R/Rui%20Fernandes.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Gonçalo Pedrosa](../../Pessoas/G/Gon%C3%A7alo%20Pedrosa.md) sj
 
 ## Páginas que ligam para aqui
 
 - [Gonçalo Pedrosa](../../Pessoas/G/Gon%C3%A7alo%20Pedrosa.md)
+- [Jaime Lucas Pires](../../Pessoas/J/Jaime%20Lucas%20Pires.md)
 - [Johnny Sousa](../../Pessoas/J/Johnny%20Sousa.md)
 - [Rafaela Azevedo](../../Pessoas/R/Rafaela%20Azevedo.md)
 - [Rui Fernandes](../../Pessoas/R/Rui%20Fernandes.md)

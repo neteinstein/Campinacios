@@ -1,9 +1,10 @@
 # Todos os artigos
 
-1143 artigos e, em itálico, os 150 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1147 artigos e, em itálico, os 154 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
+- *Agui* → [Gonçalo Aguiar](Pessoas/G/Gon%C3%A7alo%20Aguiar.md)
 - [Triciclos 1](Acampamentos/1997/Triciclos%201.md)
 - [Triciclos 2](Acampamentos/1997/Triciclos%202.md)
 - [À Brava](Acampamentos/2025/%C3%80%20Brava.md)
@@ -141,6 +142,7 @@
 - [Baza](Acampamentos/2007/Baza.md)
 - [Bé](Pessoas/B/B%C3%A9.md)
 - *Bea Mesquita* → [Beatriz Mesquita](Pessoas/B/Beatriz%20Mesquita.md)
+- *Bea Picci* → [Beatriz Picciochi](Pessoas/B/Beatriz%20Picciochi.md)
 - [Beatriz Maia](Pessoas/B/Beatriz%20Maia.md)
 - [Beatriz Mesquita](Pessoas/B/Beatriz%20Mesquita.md)
 - [Beatriz Miguel](Pessoas/B/Beatriz%20Miguel.md)
@@ -383,6 +385,7 @@
 - [Encontro de Lambretas 94](Encontros/Encontro%20de%20Lambretas%2094.md)
 - [Encontro Nacional 2001 (Encontrão)](Encontros/Encontro%20Nacional%202001%20%28Encontr%C3%A3o%29.md)
 - [Encontro Nacional 2010](Encontros/Encontro%20Nacional%202010.md)
+- [Encontro Nacional 2026](Encontros/Encontro%20Nacional%202026.md)
 - [Encontro Nacional de 1995](Encontros/Encontro%20Nacional%20de%201995.md)
 - [Encontro Nacional de 1998](Encontros/Encontro%20Nacional%20de%201998.md)
 - [Encontro Nacional de 2004](Encontros/Encontro%20Nacional%20de%202004.md)
@@ -394,6 +397,7 @@
 - [Encontro Nacional de Animadores 2006](Encontros/Encontro%20Nacional%20de%20Animadores%202006.md)
 - [Encontro Nacional de Animadores 2007](Encontros/Encontro%20Nacional%20de%20Animadores%202007.md)
 - [Encontro Nacional de Animadores 2009](Encontros/Encontro%20Nacional%20de%20Animadores%202009.md)
+- [Encontro Nacional de Animadores 2025](Encontros/Encontro%20Nacional%20de%20Animadores%202025.md)
 - [Entre ASPAS](Acampamentos/2008/Entre%20ASPAS.md)
 - *Era Uma Vez* → [Era Uma Vez...](Acampamentos/2008/Era%20Uma%20Vez....md)
 - [Era Uma Vez...](Acampamentos/2008/Era%20Uma%20Vez....md)
@@ -492,6 +496,7 @@
 - [Gambozinos](Movimento/Gambozinos.md)
 - [GANZA](Acampamentos/1997/GANZA.md)
 - *Genesis* → [Génesis 2003 d.C.](Acampamentos/2003/G%C3%A9nesis%202003%20d.C..md)
+- [Gonçalo Aguiar](Pessoas/G/Gon%C3%A7alo%20Aguiar.md)
 - [Gonçalo Forte Vaz](Pessoas/G/Gon%C3%A7alo%20Forte%20Vaz.md)
 - [Gonçalo Machado](Pessoas/G/Gon%C3%A7alo%20Machado.md)
 - *Genito* → [José Eugénio Lopes](Pessoas/J/Jos%C3%A9%20Eug%C3%A9nio%20Lopes.md)
@@ -807,6 +812,7 @@
 - [Marco Cunha](Pessoas/M/Marco%20Cunha.md)
 - [Marco Frazão](Pessoas/M/Marco%20Fraz%C3%A3o.md)
 - [Marcos Matos](Pessoas/M/Marcos%20Matos.md)
+- [Margarida Faria](Pessoas/M/Margarida%20Faria.md)
 - [Margarida Santos](Pessoas/M/Margarida%20Santos.md)
 - [Margarida Tavares](Pessoas/M/Margarida%20Tavares.md)
 - [Margarida Valle](Pessoas/M/Margarida%20Valle.md)
@@ -831,7 +837,7 @@
 - [Manuel Vilhena](Pessoas/M/Manuel%20Vilhena.md)
 - [Mãos à Obra](Acampamentos/2014/M%C3%A3os%20%C3%A0%20Obra.md)
 - [Maravilha-te](Acampamentos/2018/Maravilha-te.md)
-- [Marga Faria](Pessoas/M/Marga%20Faria.md)
+- *Marga Faria* → [Margarida Faria](Pessoas/M/Margarida%20Faria.md)
 - [Margarida Garcia](Pessoas/M/Margarida%20Garcia.md)
 - [Margarida Matias](Pessoas/M/Margarida%20Matias.md)
 - [Margarida Maury](Pessoas/M/Margarida%20Maury.md)
@@ -1123,6 +1129,7 @@
 - [Ricardo Oliveira](Pessoas/R/Ricardo%20Oliveira.md)
 - [Ricardo Rodrigues](Pessoas/R/Ricardo%20Rodrigues.md)
 - [Ricardo Simões](Pessoas/R/Ricardo%20Sim%C3%B5es.md)
+- [Rita Ângelo](Pessoas/R/Rita%20%C3%82ngelo.md)
 - [Rita Antunes](Pessoas/R/Rita%20Antunes.md)
 - [Rita Carvalho](Pessoas/R/Rita%20Carvalho.md)
 - [Rita Feijó](Pessoas/R/Rita%20Feij%C3%B3.md)
@@ -1142,7 +1149,8 @@
 - [Rita Soares](Pessoas/R/Rita%20Soares.md)
 - [Rita Sousa](Pessoas/R/Rita%20Sousa.md)
 - [Rita Turras](Pessoas/R/Rita%20Turras.md)
-- [Ritinha Ângelo](Pessoas/R/Ritinha%20%C3%82ngelo.md)
+- [Rita Ventura](Pessoas/R/Rita%20Ventura.md)
+- *Ritinha Ângelo* → [Rita Ângelo](Pessoas/R/Rita%20%C3%82ngelo.md)
 - [Rodrigo Calçarão](Pessoas/R/Rodrigo%20Cal%C3%A7ar%C3%A3o.md)
 - [Rodrigo Queiroz e Melo](Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md)
 - [Rosa](Pessoas/R/Rosa.md)

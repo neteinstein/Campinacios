@@ -11,6 +11,7 @@
 ## Páginas que ligam para aqui
 
 - [Génesis 2003 d.C.](../../Acampamentos/2003/G%C3%A9nesis%202003%20d.C..md)
+- [Jaime Lucas Pires](../J/Jaime%20Lucas%20Pires.md)
 - [Jangada](../../Acampamentos/2002/Jangada.md)
 - [Metrópole](../../Acampamentos/2004/Metr%C3%B3pole.md)
 - [Pontes](../../Acampamentos/2001/Pontes.md)

@@ -2,7 +2,7 @@
 
 Animadores do Colégio do Colégio São João de Brito
 
-## Páginas nesta categoria (174)
+## Páginas nesta categoria (175)
 
 - [Ana Martins](../Pessoas/A/Ana%20Martins.md)
 - [Ana Pais](../Pessoas/A/Ana%20Pais.md)
@@ -61,6 +61,7 @@ Animadores do Colégio do Colégio São João de Brito
 - [Inês Serra Ferreira](../Pessoas/I/In%C3%AAs%20Serra%20Ferreira.md)
 - [Inês Turras](../Pessoas/I/In%C3%AAs%20Turras.md)
 - [Isabel Neves](../Pessoas/I/Isabel%20Neves.md)
+- [Jaime Lucas Pires](../Pessoas/J/Jaime%20Lucas%20Pires.md)
 - [Joana Cardim](../Pessoas/J/Joana%20Cardim.md)
 - [Joana Cardoso](../Pessoas/J/Joana%20Cardoso.md)
 - [Joana Catalão](../Pessoas/J/Joana%20Catal%C3%A3o.md)
