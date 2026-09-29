@@ -6,7 +6,7 @@ Mariana Soares Cardoso, nascida a 10 de Junho de 1985 é animadora do CC.
 
 - **Participante**
     - 1996 [Caldelas](../../Acampamentos/1996/Caldelas.md)
-    - 1997 [Alvoco 97](../../Acampamentos/1997/Alvoco%2097.md)
+    - 1997 [Triciclos 1](../../Acampamentos/1997/Triciclos%201.md)
     - 1999 [Gipsy Kings](../../Acampamentos/1999/Gipsy%20Kings.md)
     - 2001 [Cinena](../../Acampamentos/2001/Cinena.md)
 - **Animador**
@@ -14,8 +14,8 @@ Mariana Soares Cardoso, nascida a 10 de Junho de 1985 é animadora do CC.
 
 ## Páginas que ligam para aqui
 
-- [Alvoco 97](../../Acampamentos/1997/Alvoco%2097.md)
 - [Em Busca da CaraBela](../../Acampamentos/2006/Em%20Busca%20da%20CaraBela.md)
+- [Triciclos 1](../../Acampamentos/1997/Triciclos%201.md)
 
 ---
 

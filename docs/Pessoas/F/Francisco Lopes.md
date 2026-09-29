@@ -7,6 +7,7 @@ Francisco Lopes foi um dos animadores do Colégio da Imaculada Conceição.
 ### Acampamentos
 
 - **Animador:**
+    - 1997 [Triciclos 1](../../Acampamentos/1997/Triciclos%201.md)
     - 1999 [Lufa](../../Acampamentos/1999/Lufa.md) - [Director](../../Cargos/Director.md)
 
 ### Família
@@ -19,6 +20,7 @@ Francisco Lopes foi um dos animadores do Colégio da Imaculada Conceição.
 - [Lufa](../../Acampamentos/1999/Lufa.md)
 - [Rajada](../../Acampamentos/2001/Rajada.md)
 - [Renato Lopes](../R/Renato%20Lopes.md)
+- [Triciclos 1](../../Acampamentos/1997/Triciclos%201.md)
 
 ---
 
