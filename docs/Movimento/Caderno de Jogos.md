@@ -11,6 +11,9 @@ necessário, a duração, os objectivos e as regras. Complementa o
   [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md), tendo como modelo os arquivos de jogos
   do Arquivo do [CAIC](CAIC.md).
 - A versão aqui transcrita é a de 18 de Outubro de 2012.
+- A maioria dos autores dos jogos ficaram perdidos no tempo e podem não ser recuperáveis.
+  Deixamos aqui uma referência a quem os ajudou a ser adicionados aqui, e caso seja conhecido
+  adicionaremos o autor com essa mesma indicação.
 
 ## Objectivos
 
@@ -28,7 +31,7 @@ As fichas de jogo individuais nasceram com os seguintes objectivos:
 
 ## Brutusbol
 
-*Por: desconhecido*
+*Adicionado por: desconhecido*
 
 **Material:** 2 equipas, cada uma com a sua cor; cada membro de equipa terá de vestir uma
 t-shirt de cor clara; 3 zonas bem definidas; 3 ou mais objectos de cada equipa (3 azuis e 3
@@ -71,7 +74,7 @@ podendo ser um só sítio para os dois grupos.
 
 ## Cluedo
 
-*Por: [Maria Ferreira](../Pessoas/M/Maria%20Cort%C3%AAs%20Ferreira.md)*
+*Adicionado por: [Maria Ferreira](../Pessoas/M/Maria%20Cort%C3%AAs%20Ferreira.md)*
 
 **Duração:** 2 horas.
 
@@ -258,7 +261,7 @@ não souberem, respondem "Isso nem a velhinha sabia!".
 
 ## Disney
 
-*Por: desconhecido*
+*Adicionado por: desconhecido*
 
 **Regras:** por indicar.
 
@@ -266,7 +269,7 @@ não souberem, respondem "Isso nem a velhinha sabia!".
 
 ## Herbívoros e Carnívoros
 
-*Por: desconhecido*
+*Adicionado por: desconhecido*
 
 **Regras:** por indicar.
 
@@ -275,7 +278,7 @@ Carnivoros.ppt*.
 
 ## Jogo da Gorila
 
-*Por: [Filipe Próspero](../Pessoas/F/Filipe%20Pr%C3%B3spero.md)*
+*Adicionado por: [Filipe Próspero](../Pessoas/F/Filipe%20Pr%C3%B3spero.md)*
 
 **Material:** 300 bolas e 500 balões de água; 7 alguidares; fita bófia; estacas.
 
@@ -290,14 +293,14 @@ vão lançando balões de água.
 
 ## Jogo dos Generais
 
-*Por: desconhecido*
+*Adicionado por: desconhecido*
 
 **Material:** ficheiro a imprimir — *Fichas de Jogo – IMPRIMIR – Jogo dos Generais.ppt*.
 Ver também [Generais](#generais), mais abaixo.
 
 ## Jogo das Personagens
 
-*Por: [Madalena Mariz](../Pessoas/M/Madalena%20Mariz.md) e [Sara Póvoa](../Pessoas/S/Sara%20P%C3%B3voa.md)*
+*Adicionado por: [Madalena Mariz](../Pessoas/M/Madalena%20Mariz.md) e [Sara Póvoa](../Pessoas/S/Sara%20P%C3%B3voa.md)*
 
 **Duração:** 2 horas.
 
@@ -398,7 +401,7 @@ campo e improvisado durante a preparação do jogo.
 
 ## Ricos e Pobres
 
-*Por: desconhecido*
+*Adicionado por: desconhecido*
 
 **Objectivo:** ganhar uma maior consciência dos mecanismos socioeconómicos da sociedade e
 das situações de injustiça no acesso aos bens da sociedade.
@@ -528,7 +531,7 @@ que nos dá força para construirmos já aqui um mundo mais justo.
 
 ## Tens Mira
 
-*Por: Tachi SJ*
+*Adicionado por: Tachi SJ*
 
 Há-de jogar-se numa noite de Lua nova ou próxima, porque quanta menos luz, melhor. Duas
 equipas, cada uma com um capitão ou estratega (ou adaptação conveniente segundo a temática
@@ -599,7 +602,7 @@ jogo), encarregados de que o jogo respeite as regras, que serão alguns animador
 
 ## Tropa
 
-*Por: [Ivo Reis](../Pessoas/I/Ivo%20Reis.md) e
+*Adicionado por: [Ivo Reis](../Pessoas/I/Ivo%20Reis.md) e
 [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)*
 
 **Duração:** 2 horas, caso todas as estações funcionem fluentemente. Devido à quantidade de
@@ -761,7 +764,7 @@ ir controlando as batotices.
 
 ## Buzz
 
-*Por: [Paulo Cardoso](../Pessoas/P/Paulo%20Cardoso.md) e [Rita Martins](../Pessoas/R/Rita%20Martins.md)*
+*Adicionado por: [Paulo Cardoso](../Pessoas/P/Paulo%20Cardoso.md) e [Rita Martins](../Pessoas/R/Rita%20Martins.md)*
 
 **Duração:** cerca de 1h30.
 
@@ -850,7 +853,7 @@ durante o jogo; alguns espalhados pelo campo, para irem arbitrando a validade do
 
 ## Pastores
 
-*Por: [Pedro Pinto](../Pessoas/P/Pedro%20Pinto.md) e [Sofia Pinelas](../Pessoas/A/Ana%20Sofia%20Pinelas.md)*
+*Adicionado por: [Pedro Pinto](../Pessoas/P/Pedro%20Pinto.md) e [Sofia Pinelas](../Pessoas/A/Ana%20Sofia%20Pinelas.md)*
 
 **Duração:** 1h30 (máximo). **Divisão:** por equipas.
 
@@ -873,7 +876,7 @@ cada pastor, por isso 6 ou 7 serão suficientes.
 
 ## Praxe
 
-*Por: [Diogo Belo](../Pessoas/D/Diogo%20Belo.md) e Prof. Pardal*
+*Adicionado por: [Diogo Belo](../Pessoas/D/Diogo%20Belo.md) e Prof. Pardal*
 
 *Morto, Apito, Tartaruga Genial (antigo Ugabuga), Mé.*
 
@@ -919,7 +922,7 @@ fácil para correr. **Material:** esponjas, alguidares, fita-cola, capacetes e j
 
 ## Spa
 
-*Por: [Vânia Carvalho](../Pessoas/V/V%C3%A2nia%20Carvalho.md), [Carla Ferreira](../Pessoas/C/Carla%20Ferreira.md) e Raquel Querido*
+*Adicionado por: [Vânia Carvalho](../Pessoas/V/V%C3%A2nia%20Carvalho.md), [Carla Ferreira](../Pessoas/C/Carla%20Ferreira.md) e Raquel Querido*
 
 **Material:** colchões insufláveis e coisas para fazer massagens.
 
@@ -956,7 +959,7 @@ branca, sapatilhas.
 
 ## Super Boi
 
-*Por: [Juliana Fernandes](../Pessoas/J/Juliana%20Fernandes.md) e [André Barreiras](../Pessoas/A/Andr%C3%A9%20Barreiras.md)*
+*Adicionado por: [Juliana Fernandes](../Pessoas/J/Juliana%20Fernandes.md) e [André Barreiras](../Pessoas/A/Andr%C3%A9%20Barreiras.md)*
 
 **Duração:** 1h30. **Divisão:** equipas.
 
@@ -995,7 +998,7 @@ regras do jogo (por dois animadores), as vacas invadem a roda e faz-se todos uma
 
 ## Torre de Controlo
 
-*Por: [Vânia Carvalho](../Pessoas/V/V%C3%A2nia%20Carvalho.md), Bolachão e [Paulo Cardoso](../Pessoas/P/Paulo%20Cardoso.md)*
+*Adicionado por: [Vânia Carvalho](../Pessoas/V/V%C3%A2nia%20Carvalho.md), Bolachão e [Paulo Cardoso](../Pessoas/P/Paulo%20Cardoso.md)*
 
 **Material:** balões de água, 2 por participante; cada equipa tem uma cor que a representa
 (lenços de equipa); vendas para tapar os olhos; corda para delimitar a área de jogo (cada
@@ -1047,7 +1050,7 @@ tropa.
 
 ## Gincana Aquática
 
-*Por: Diogo e Maria Manuel*
+*Adicionado por: Diogo e Maria Manuel*
 
 **Duração:** a manhã toda, entre o pequeno-almoço e o almoço, banho incluído. **Divisão:** 2
 equipas, uma de cada cor, ou separados por equipas de campo, dependendo do jogo.
@@ -1072,7 +1075,7 @@ jogos, próximo do rio. **Animadores:** 2 ou mais.
 
 ## Caça ao Tesouro
 
-*Por: [Joana Fonseca](../Pessoas/J/Joana%20Fonseca.md) e [Lília Santos](../Pessoas/L/L%C3%ADlia%20Santos.md)*
+*Adicionado por: [Joana Fonseca](../Pessoas/J/Joana%20Fonseca.md) e [Lília Santos](../Pessoas/L/L%C3%ADlia%20Santos.md)*
 
 **Animadores:** 1 na roda e 6, um em cada posto, para apanhar e evitar batotas; se for
 possível, mais animadores a apanhar, espalhados pelo campo (total: no mínimo 7).
@@ -1107,7 +1110,7 @@ O animador que está na roda apita quando a primeira equipa chegar com as seis p
 
 ## Capinaci
 
-*Por: [Sara Fernandes](../Pessoas/S/Sara%20Fernandes.md) (Duda)*
+*Adicionado por: [Sara Fernandes](../Pessoas/S/Sara%20Fernandes.md) (Duda)*
 
 **Prefácio:** nos tempos áureos de 2000-e-qualquer-coisa, Campinaci era uma cidade pacífica.
 Aqui viviam 3 irmãos: Siam, que possuía uma grande capacidade de discernimento; Eses, com uma
