@@ -2,13 +2,12 @@
 
 Acampamentos do escalão Triciclos - Alunos do 5º e 6º anos de escolaridade
 
-## Páginas nesta categoria (60)
+## Páginas nesta categoria (61)
 
 - [180 Já Contenta](../Acampamentos/2023/180%20J%C3%A1%20Contenta.md)
 - [A Ir e Falta o S](../Acampamentos/2018/A%20Ir%20e%20Falta%20o%20S.md)
 - [Academia](../Acampamentos/2005/Academia.md)
 - [Alvoco 96](../Acampamentos/1996/Alvoco%2096.md)
-- [Alvoco 97](../Acampamentos/1997/Alvoco%2097.md)
 - [Alvoco II](../Acampamentos/1999/Alvoco%20II.md)
 - [Baba Yetu](../Acampamentos/2010/Baba%20Yetu.md)
 - [Barracada](../Acampamentos/2024/Barracada.md)
@@ -55,6 +54,8 @@ Acampamentos do escalão Triciclos - Alunos do 5º e 6º anos de escolaridade
 - [Take PaGod](../Acampamentos/2015/Take%20PaGod.md)
 - [Terra do Nunca](../Acampamentos/2005/Terra%20do%20Nunca.md)
 - [Tribal](../Acampamentos/1992/Tribal.md)
+- [Triciclos 1](../Acampamentos/1997/Triciclos%201.md)
+- [Triciclos 2](../Acampamentos/1997/Triciclos%202.md)
 - [Triciclos 95](../Acampamentos/1995/Triciclos%2095.md)
 - [Trolliciclos](../Acampamentos/2004/Trolliciclos.md)
 - [Vaivém](../Acampamentos/2018/Vaiv%C3%A9m.md)
@@ -70,7 +71,6 @@ Acampamentos do escalão Triciclos - Alunos do 5º e 6º anos de escolaridade
 - [180 Já Contenta](../Acampamentos/2023/180%20J%C3%A1%20Contenta.md)
 - [A Ir e Falta o S](../Acampamentos/2018/A%20Ir%20e%20Falta%20o%20S.md)
 - [Alvoco 96](../Acampamentos/1996/Alvoco%2096.md)
-- [Alvoco 97](../Acampamentos/1997/Alvoco%2097.md)
 - [Baba Yetu](../Acampamentos/2010/Baba%20Yetu.md)
 - [Barracada](../Acampamentos/2024/Barracada.md)
 - [Benfeita 95](../Acampamentos/1995/Benfeita%2095.md)
@@ -108,6 +108,8 @@ Acampamentos do escalão Triciclos - Alunos do 5º e 6º anos de escolaridade
 - [TSI](../Acampamentos/2008/TSI.md)
 - [Take PaGod](../Acampamentos/2015/Take%20PaGod.md)
 - [Tribal](../Acampamentos/1992/Tribal.md)
+- [Triciclos 1](../Acampamentos/1997/Triciclos%201.md)
+- [Triciclos 2](../Acampamentos/1997/Triciclos%202.md)
 - [Triciclos 95](../Acampamentos/1995/Triciclos%2095.md)
 - [Vaivém](../Acampamentos/2018/Vaiv%C3%A9m.md)
 - [Vesp'á Luz](../Acampamentos/2021/Vesp%27%C3%A1%20Luz.md)

@@ -1,9 +1,11 @@
 # Todos os artigos
 
-1142 artigos e, em itálico, os 150 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1143 artigos e, em itálico, os 150 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
+- [Triciclos 1](Acampamentos/1997/Triciclos%201.md)
+- [Triciclos 2](Acampamentos/1997/Triciclos%202.md)
 - [À Brava](Acampamentos/2025/%C3%80%20Brava.md)
 - [À Grande e à Francesa](Acampamentos/2022/%C3%80%20Grande%20e%20%C3%A0%20Francesa.md)
 - [A Ir e Falta o S](Acampamentos/2018/A%20Ir%20e%20Falta%20o%20S.md)
@@ -32,7 +34,6 @@
 - [Alice Rodrigues](Pessoas/A/Alice%20Rodrigues.md)
 - *Alpha* → [Alfa](Acampamentos/1990/Alfa.md)
 - [Alvoco 96](Acampamentos/1996/Alvoco%2096.md)
-- [Alvoco 97](Acampamentos/1997/Alvoco%2097.md)
 - *Alvoco das Várzeas* → [Alvoco das Várzeas (Oliveira do Hospital)](Restrito/Locais%20de%20Acampamento/Alvoco%20das%20V%C3%A1rzeas%20%28Oliveira%20do%20Hospital%29.md) 🔒
 - [Alvoco das Várzeas (Oliveira do Hospital)](Restrito/Locais%20de%20Acampamento/Alvoco%20das%20V%C3%A1rzeas%20%28Oliveira%20do%20Hospital%29.md) 🔒
 - [Alvoco II](Acampamentos/1999/Alvoco%20II.md)
@@ -380,7 +381,7 @@
 - [EmCena](Acampamentos/2022/EmCena.md)
 - [Encontrei-te](Acampamentos/2015/Encontrei-te.md)
 - [Encontro de Lambretas 94](Encontros/Encontro%20de%20Lambretas%2094.md)
-- [Encontro Nacional 2000 (Encontrão)](Encontros/Encontro%20Nacional%202000%20%28Encontr%C3%A3o%29.md)
+- [Encontro Nacional 2001 (Encontrão)](Encontros/Encontro%20Nacional%202001%20%28Encontr%C3%A3o%29.md)
 - [Encontro Nacional 2010](Encontros/Encontro%20Nacional%202010.md)
 - [Encontro Nacional de 1995](Encontros/Encontro%20Nacional%20de%201995.md)
 - [Encontro Nacional de 1998](Encontros/Encontro%20Nacional%20de%201998.md)

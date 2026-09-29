@@ -9,6 +9,7 @@
 
 **Animador**
 
+- 1997 [Triciclos 1](../../Acampamentos/1997/Triciclos%201.md)
 - 1998 [Calinadas](../../Acampamentos/1998/Calinadas.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 - 1999 [Gipsy Kings](../../Acampamentos/1999/Gipsy%20Kings.md) - [Director](../../Cargos/Director.md)
 - 1999 [Koalas](../../Acampamentos/1999/Koalas.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
@@ -30,6 +31,7 @@
 - [Pimpolhos](../../Acampamentos/2003/Pimpolhos.md)
 - [Projecto Canguru](../../Acampamentos/2002/Projecto%20Canguru.md)
 - [Tem Bicho Zweitausend](../../Acampamentos/2000/Tem%20Bicho%20Zweitausend.md)
+- [Triciclos 1](../../Acampamentos/1997/Triciclos%201.md)
 - [Waaassuuup](../../Acampamentos/2001/Waaassuuup.md)
 
 ---
