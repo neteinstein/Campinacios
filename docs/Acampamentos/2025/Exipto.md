@@ -7,6 +7,9 @@
 - [Director](../../Cargos/Director.md) - [Henrique Cardoso](../../Pessoas/H/Henrique%20Cardoso.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Leonor Simões](../../Pessoas/L/Leonor%20Sim%C3%B5es.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Johnny Sousa](../../Pessoas/J/Johnny%20Sousa.md)
+- [Tia](../../Cargos/Tio.md) - Diogo Boal Neves, Inês Costa (Costinha)
+- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Manuel Cardoso, Beatriz Esteves, Carol Dias, Duarte Farelo, Madalena Osório
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - Loureiro, Ana Mendonça (Yana), Jaime Lucas Pires, Dinis Braga da Cruz
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Carvalho](../../Pessoas/C/Carlos%20Carvalho.md) sj
 
 ## Páginas que ligam para aqui

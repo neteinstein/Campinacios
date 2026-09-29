@@ -5,6 +5,8 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Miguel Carneiro](../../Pessoas/M/Miguel%20Carneiro.md)
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - Miguel Bacalhau sj
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - Missé sj
 
 ## Páginas que ligam para aqui
 
