@@ -4,7 +4,7 @@ Músicas nascidas nos acampamentos do [Camtil](../Camtil.md), com o acampamento 
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (74 músicas)
+## Índice (71 músicas)
 
 - [30 ANOS](#30-anos)
 - [ABENÇOAI SENHOR](#abencoai-senhor) — (alternativa: We Will Rock You - Queen)
@@ -38,13 +38,12 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [HEY CEGONHA](#hey-cegonha) — Cegonhas 2015 (João Maria Ameal / Take a walk on the wild side)
 - [HINO DA VINGANÇA](#hino-da-vinganca) — CIFA 71 (Maria Sande Lemos)
 - [JORGE (NOVELA TREMELGAS III ‘17)](#jorge-novela-tremelgas-iii-17) — António Ramalho e Duarte Rosado (Ré#º7 - x01212)
-- [JOVEM COMO A PLANTA](#jovem-como-a-planta)
 - [LATRINA BLUES](#latrina-blues) — Tremelgas II 2006
 - [LAVA A TENDA](#lava-a-tenda) — Melgas II / 94 (Zé Tiago C., Nuno Ávila, PP Faria / “LOVE ME TENDER”)
 - [MARCHA DA CAMTIL](#marcha-da-camtil) — Melgas III 2003 (Marta e Kiko Pupo)
 - [NÃO QUERO ESTAR AQUI](#nao-quero-estar-aqui) — Melgas III 2016 (Stand By Me)
 - [NHA TERRA](#nha-terra) — Cabo Verde 99
-- [O ANDRÉ E A CECÍLIA](#o-andre-e-a-cecilia) — Manel Matos
+- [O ANDRÉ E A CECÍLIA](#o-andre-e-a-cecilia) — Manel Matos (com a Cecília Miranda)
 - [OBRIGADO PELO PÃO](#obrigado-pelo-pao)
 - [O ESSENCIAL](#o-essencial) — Tremelgas 90 - Tibães
 - [O FRANGO E A GALINHA](#o-frango-e-a-galinha) — Aranhiços 2005 (Carlitos)
@@ -53,12 +52,10 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [OUVI DIZER QUE OS ARANHIÇOS](#ouvi-dizer-que-os-aranhicos) — CIFA 95 - Vila Nova de Mil Fontes
 - [PAI NATAL](#pai-natal) — Melgas 87 (João Tiago Batalha / João Peleteiro)
 - [PÃO](#pao) — Walk Away (Ben Harper)
-- [PÃO COM MANTEIGA](#pao-com-manteiga)
 - [PEQUENO ALMOÇO](#pequeno-almoco)
 - [PÊRA MADURA](#pera-madura) — Carlos A. Mendes e Anía Ramirez / Os Conchas
 - [PERDOA-ME SENHOR](#perdoa-me-senhor) — CIFA 95 - Vila Nova de Mil Fontes (Rita Castel’Branco)
 - [PETROMAX](#petromax)
-- [P’RA ONDE É QUE EU VOU](#p-ra-onde-e-que-eu-vou) — Gambozinos 2010 (Pe. Duarte Rosado sj e Simão Lucas Pires)
 - [PRESIDE SENHOR](#preside-senhor) — João Maria Ameal - Melgas I ‘12
 - [QUANDO ALGUÉM TE BATE À PORTA](#quando-alguem-te-bate-a-porta) — Tremelgas 94 - Vila Nova do Ceira (Nuno Tovar de Lemos)
 - [QUANTO MAIS TRABALHAS](#quanto-mais-trabalhas)
@@ -1313,43 +1310,6 @@ A vida entrou te a pé em riste
 e já estavas fora de jogo
 ```
 
-### JOVEM COMO A PLANTA {#jovem-como-a-planta}
-
-```text
-   Dó                          Sol
-Eu canto por ser jovem como a planta
-           Fá       Sol
-E a malta canta, uô-ô!
-  Dó                    Sol
-É ter este cancro na garganta
-         FáSol
-Ter esta dor!
-    Dó                           Sol
-Eu acho que é um fungo que há em mim
-          FáSol
-E canto assim!
-    Dó                   Sol
-Por isso canto cada vez pior
-           FáSol
-Sou um horror!
-         Dó   Sol Fá Sol
-E sou cantor
-          Dó   Sol Fá Sol
-Sou um horror!
-
-*Eu mando por ser jovem como a planta
-E a malta canta, uô-ô!
-É ter este apito na garganta
-Ter esta dor!
-Eu acho que é um fungo que há em mim
-E mando assim!
-Por isso mando cada vez pior
-Sou um horror!
-Sou director!
-Sou um horror!
-*  Adaptação  Camtílica
-```
-
 ### LATRINA BLUES {#latrina-blues}
 
 *Tremelgas II 2006*
@@ -1607,7 +1567,7 @@ Cabo Verde, partir e ficar
 
 ### O ANDRÉ E A CECÍLIA {#o-andre-e-a-cecilia}
 
-*Manel Matos*
+*Manel Matos (a Cecília é a [Cecília Miranda](../../Pessoas/C/Cec%C3%ADlia%20Miranda.md))*
 
 ```text
     Dó        Fá
@@ -1899,46 +1859,6 @@ E é tão bom a qualquer hora do dia
 É que comer um pão é uma coisa que me enche de alegria
 ```
 
-### PÃO COM MANTEIGA {#pao-com-manteiga}
-
-```text
-Dó
-Pão com manteiga (eiga)
-Sol
-Pão com marmelada (ada)
-Fá
-Leite com chocolate (ate)
-Sol
-Leite sem nada (ada)
-
-Da minha janela à tua (ua),
-Vai uma curta distância (ância)
-Mas cuidado não tropeces (ésses),
-Nessa casca de melância (ância)
-
-Pão com manteiga (eiga)...
-
-Pinheiro, pinheiro pinheiro (eiro)
-Pinheiro, pinheiro, pinheiro (eiro)
-Pinheiro, pinheiro, pinheiro (eiro)
-E no meio um eucalipto (ipto)
-
-Pão com manteiga (eiga)...
-
-Fui a Belas ver as fui a belas (elas), E em Belas, belas vi (i-i)
-Mas a mais bela de todas (odas), Meu amor, eras ti (i-i)
-
-Pão com manteiga (eiga)...
-
-Se eu fosse rico (ico), Construía-te um castelo (elo)
-Para tu me contemplares (ares), Como eu te contempélo (élo)
-
-Pão com manteiga (eiga)...
-
-Pela a rua acima (ima), Ia um limão a descer (e-er)
-Ou a rua era redonda (onda), Ou o limão era a subir (i-ir)
-```
-
 ### PEQUENO ALMOÇO {#pequeno-almoco}
 
 ```text
@@ -2086,53 +2006,6 @@ Ré
 O petromax é baril
             Sol      Lá              Ré
 Porque ilumina as noites, (3x) do Camtil
-```
-
-### P’RA ONDE É QUE EU VOU {#p-ra-onde-e-que-eu-vou}
-
-*Gambozinos 2010 (Pe. Duarte Rosado sj e Simão Lucas Pires)*
-
-```text
-Lá            Ré               Fá#m
-Posso ter dinheiro, posso ter fama
-               Ré                        Lá
-Posso ter um veleiro e férias toda a semana
-                 Ré                 Fá#m
-Posso ter uma mansão mesmo junto ao mar
-                   Ré
-Ter tempo p’ra viajar e um carro topo de gama
-
-                       Mi                           Ré
-Mas de que é que isso me serve se não me faço à estrada
-                 Mi                   Ré
-Passo o tempo sentado e a vida fica parada
-                 Mi                 Lá
-É que eu não sou nada se ninguém me ama
-
-                   Lá7
-P’ra onde é que eu vou
-           Sol
-Não sou cobarde
-          Ré                     Lá
-Não vou deixar a vida p’ra mais tarde
-
-             Lá7
-Ponho-me a andar
-               Ré
-P’ra encontrar vida
-                Mi           Lá
-Se não sei onde vou ando à deriva
-
-Posso ser futebolista p’ra que todo o mundo veja
-Posso ser o actor que no fim a miúda beija
-Posso pôr mil máscaras p’ra me esconder
-Posso pôr a maquilhagem para só brilho se ver
-
-Mas ninguém é amado por aquilo que tem
-Não me vou inventar para me mostrar a alguém
-Se não sou quem sou não sou niguém
-
-P’ra onde é que eu vou...
 ```
 
 ### PRESIDE SENHOR {#preside-senhor}

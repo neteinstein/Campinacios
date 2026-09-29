@@ -4,13 +4,15 @@ Músicas nascidas nos acampamentos dos [Campinácios](../Campin%C3%A1cios.md).
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (10 músicas)
+## Índice (12 músicas)
 
 - [ABRE-TE AO SONHO](#abre-te-ao-sonho) — Hino do Campo Long Tao (2006)
 - [APRENDER A SER](#aprender-a-ser)
 - [BELO DO HINO](#belo-do-hino) — Hino do Campo Caminho (2009)
 - [CAMPINÁCIOS](#campinacios)
+- [JOVEM COMO A PLANTA](#jovem-como-a-planta)
 - [O DIA EM QUE APRENDI A VOAR](#o-dia-em-que-aprendi-a-voar)
+- [PÃO COM MANTEIGA](#pao-com-manteiga)
 - [PÁRA E REPARA](#para-e-repara) — Campo Graal II (2003)
 - [POEMA LINDO](#poema-lindo) — Campo Mountain Bike (Chico Maria)
 - [RADROCA](#radroca) — adaptação de uma música do Camtil
@@ -170,6 +172,43 @@ Lá* - x02120
 Ré* - xx0222
 ```
 
+### JOVEM COMO A PLANTA {#jovem-como-a-planta}
+
+```text
+   Dó                          Sol
+Eu canto por ser jovem como a planta
+           Fá       Sol
+E a malta canta, uô-ô!
+  Dó                    Sol
+É ter este cancro na garganta
+         FáSol
+Ter esta dor!
+    Dó                           Sol
+Eu acho que é um fungo que há em mim
+          FáSol
+E canto assim!
+    Dó                   Sol
+Por isso canto cada vez pior
+           FáSol
+Sou um horror!
+         Dó   Sol Fá Sol
+E sou cantor
+          Dó   Sol Fá Sol
+Sou um horror!
+
+*Eu mando por ser jovem como a planta
+E a malta canta, uô-ô!
+É ter este apito na garganta
+Ter esta dor!
+Eu acho que é um fungo que há em mim
+E mando assim!
+Por isso mando cada vez pior
+Sou um horror!
+Sou director!
+Sou um horror!
+*  Adaptação  Camtílica
+```
+
 ### O DIA EM QUE APRENDI A VOAR {#o-dia-em-que-aprendi-a-voar}
 
 ```text
@@ -206,6 +245,46 @@ A queres mais do que palmilhar
 Refrão
 
 FA*- x03213
+```
+
+### PÃO COM MANTEIGA {#pao-com-manteiga}
+
+```text
+Dó
+Pão com manteiga (eiga)
+Sol
+Pão com marmelada (ada)
+Fá
+Leite com chocolate (ate)
+Sol
+Leite sem nada (ada)
+
+Da minha janela à tua (ua),
+Vai uma curta distância (ância)
+Mas cuidado não tropeces (ésses),
+Nessa casca de melância (ância)
+
+Pão com manteiga (eiga)...
+
+Pinheiro, pinheiro pinheiro (eiro)
+Pinheiro, pinheiro, pinheiro (eiro)
+Pinheiro, pinheiro, pinheiro (eiro)
+E no meio um eucalipto (ipto)
+
+Pão com manteiga (eiga)...
+
+Fui a Belas ver as fui a belas (elas), E em Belas, belas vi (i-i)
+Mas a mais bela de todas (odas), Meu amor, eras ti (i-i)
+
+Pão com manteiga (eiga)...
+
+Se eu fosse rico (ico), Construía-te um castelo (elo)
+Para tu me contemplares (ares), Como eu te contempélo (élo)
+
+Pão com manteiga (eiga)...
+
+Pela a rua acima (ima), Ia um limão a descer (e-er)
+Ou a rua era redonda (onda), Ou o limão era a subir (i-ir)
 ```
 
 ### PÁRA E REPARA {#para-e-repara}
