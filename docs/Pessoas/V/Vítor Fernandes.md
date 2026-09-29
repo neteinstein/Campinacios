@@ -23,6 +23,7 @@ Vítor Rafael Machado Fernandes, nascido a 2 de Setembro de 1982 é animador do 
     - 2007 [Baúmerang](../../Acampamentos/2007/Ba%C3%BAmerang.md) - [Director](../../Cargos/Director.md)
     - 2008 [Era Uma Vez...](../../Acampamentos/2008/Era%20Uma%20Vez....md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2009 [Tira as rodinhas](../../Acampamentos/2009/Tira%20as%20rodinhas.md) - [Director Adjunto](../../Cargos/Director-Adjunto.md)
+    - 2010 [PaKasaDele](../../Acampamentos/2010/PaKasaDele.md) - [Director](../../Cargos/Director.md)
 
 ## Páginas que ligam para aqui
 

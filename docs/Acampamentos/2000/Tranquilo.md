@@ -28,6 +28,7 @@ O Tranquilo foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) q
 - [Leonardo Carvalho](../../Pessoas/L/Leonardo%20Carvalho.md)
 - [Lúcia Vaz Pato](../../Pessoas/L/L%C3%BAcia%20Vaz%20Pato.md)
 - [Maria Cortês Ferreira](../../Pessoas/M/Maria%20Cort%C3%AAs%20Ferreira.md)
+- [Nuno Carrolo](../../Pessoas/N/Nuno%20Carrolo.md)
 - [Quico](../../Pessoas/Q/Quico.md)
 - [Ricardo Lopes](../../Pessoas/R/Ricardo%20Lopes.md)
 - [Rita Roxo](../../Pessoas/R/Rita%20Roxo.md)

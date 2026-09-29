@@ -16,6 +16,7 @@ José Luís Martins Fernandes, nascido a 1 de Dezembro de 1979, é animador do C
     - 1997 [GANZA](../../Acampamentos/1997/GANZA.md)
 - **Animador:**
     - 1996 Santa Margarida - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 1996 [Caldelas](../../Acampamentos/1996/Caldelas.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 1998 Porto da Balsa - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 1999 Vila Verde - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2000 [Tranquilo](../../Acampamentos/2000/Tranquilo.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)

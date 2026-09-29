@@ -29,6 +29,7 @@ Este foi o primeiro acampamento inter-colegial, mas ainda sem a denominação "C
 - [Luís Godinho](../../Pessoas/L/Lu%C3%ADs%20Godinho.md)
 - [Miguel Braga](../../Pessoas/M/Miguel%20Braga.md)
 - [Miguel Moraes](../../Pessoas/M/Miguel%20Moraes.md)
+- [Pedro Rebordão](../../Pessoas/P/Pedro%20Rebord%C3%A3o.md)
 - [Ricardo Rodrigues](../../Pessoas/R/Ricardo%20Rodrigues.md)
 - [Rita Sérgio](../../Pessoas/R/Rita%20S%C3%A9rgio.md)
 

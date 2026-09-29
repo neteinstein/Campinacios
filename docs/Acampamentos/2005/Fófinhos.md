@@ -40,6 +40,7 @@ Este acampamento de [Lambretas](../../Categorias/Lambretas.md) realizou em [Vila
 - [Rafaela Lúcio](../../Pessoas/R/Rafaela%20L%C3%BAcio.md)
 - [Rita Lourenço](../../Pessoas/R/Rita%20Louren%C3%A7o.md)
 - [Rui Junqueira](../../Pessoas/R/Rui%20Junqueira.md)
+- [Sílvia Alexandra](../../Pessoas/S/S%C3%ADlvia%20Alexandra.md)
 - [Teresa Santos](../../Pessoas/T/Teresa%20Santos.md)
 - [Tiago Carneiro](../../Pessoas/T/Tiago%20Carneiro.md)
 - [Tiago Madeira](../../Pessoas/T/Tiago%20Madeira.md)

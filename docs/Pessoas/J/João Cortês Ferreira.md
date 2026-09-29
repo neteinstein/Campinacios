@@ -11,6 +11,7 @@
     - 2008 [Êxodo](../../Acampamentos/2008/%C3%8Axodo.md)
 
 - **Animador:**
+    - 2009 [Caminho](../../Acampamentos/2009/Caminho.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2010 [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
 
 ### Família

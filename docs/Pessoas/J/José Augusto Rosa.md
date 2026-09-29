@@ -13,12 +13,13 @@
 - **Animador**
     - 1997 [Aranha](../../Acampamentos/1997/Aranha.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 1998 [Calinadas](../../Acampamentos/1998/Calinadas.md) - [Director](../../Cargos/Director.md)
-    - 1998 [Covas](../../Acampamentos/1997/Covas.md) - [Director](../../Cargos/Director.md)
+    - 1998 [98 Covas](../../Acampamentos/1998/98%20Covas.md) - [Director](../../Cargos/Director.md)
 
 ## Páginas que ligam para aqui
 
 - [98 Covas](../../Acampamentos/1998/98%20Covas.md)
 - [Aranha](../../Acampamentos/1997/Aranha.md)
+- [Calinadas](../../Acampamentos/1998/Calinadas.md)
 
 ---
 

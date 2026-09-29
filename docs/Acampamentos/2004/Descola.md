@@ -37,7 +37,9 @@ Descola foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que s
 - [Martinho Lucas Pires](../../Pessoas/M/Martinho%20Lucas%20Pires.md)
 - [Mário Carvalho](../../Pessoas/M/M%C3%A1rio%20Carvalho.md)
 - [Rita Salgado](../../Pessoas/R/Rita%20Salgado.md)
+- [Rita Simões](../../Pessoas/R/Rita%20Sim%C3%B5es.md)
 - [Rui Ribeiro](../../Pessoas/R/Rui%20Ribeiro.md)
+- [Sara Croca](../../Pessoas/S/Sara%20Croca.md)
 - [Vítor Fernandes](../../Pessoas/V/V%C3%ADtor%20Fernandes.md)
 
 ---

@@ -5,12 +5,14 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [João Eiró](../../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md)
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
 
 ## Páginas que ligam para aqui
 
 - [João Eiró](../../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md)
 - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
+- [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md)
 
 ---
 

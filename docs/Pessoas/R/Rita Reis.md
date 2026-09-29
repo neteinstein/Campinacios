@@ -8,6 +8,7 @@
 
 ## Páginas que ligam para aqui
 
+- [Canja](../../Acampamentos/1998/Canja.md)
 - [Waaassuuup](../../Acampamentos/2001/Waaassuuup.md)
 
 ---

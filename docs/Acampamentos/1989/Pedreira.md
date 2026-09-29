@@ -14,6 +14,7 @@ Este acampamento realizou-se na Quinta da família da [Concha Líbano Monteiro](
 
 - [Bernardo Perloiro](../../Pessoas/B/Bernardo%20Perloiro.md)
 - [Campinácios](../../Movimento/Campin%C3%A1cios.md)
+- [Carlos Lopes](../../Pessoas/C/Carlos%20Lopes.md)
 - [Carlos Ruiz](../../Pessoas/C/Carlos%20Ruiz.md)
 - [Cristina Cabeça](../../Pessoas/C/Cristina%20Cabe%C3%A7a.md)
 - [Domingos Freitas](../../Pessoas/D/Domingos%20Freitas.md)

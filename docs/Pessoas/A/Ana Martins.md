@@ -21,6 +21,7 @@ Ana Martins, é desde 2005 uma das animadoras do Colégio São João de Brito.
     - 2008 [Era Uma Vez...](../../Acampamentos/2008/Era%20Uma%20Vez....md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
     - 2009 [Caminho](../../Acampamentos/2009/Caminho.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
     - 2010 EdMais - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2010 [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
 
 ## Páginas que ligam para aqui
 

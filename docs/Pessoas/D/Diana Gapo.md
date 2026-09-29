@@ -11,7 +11,7 @@ Diana Gapo foi uma das animadoras do Colégio da Imaculada Conceição.
     - 1995 [Hakuna Matata](../../Acampamentos/1995/Hakuna%20Matata.md)
     - 1996 Fibro Vital
     - 1997 [Aranha](../../Acampamentos/1997/Aranha.md)
-    - 1998 [Covas](../../Acampamentos/1997/Covas.md)
+    - 1998 [98 Covas](../../Acampamentos/1998/98%20Covas.md)
 - **Animadora**
     - 1998 [Tiw-y-moy](../../Acampamentos/1998/Tiw-y-moy.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 1999 [Gipsy Kings](../../Acampamentos/1999/Gipsy%20Kings.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
@@ -21,6 +21,7 @@ Diana Gapo foi uma das animadoras do Colégio da Imaculada Conceição.
 
 - [Gipsy Kings](../../Acampamentos/1999/Gipsy%20Kings.md)
 - [Tem Bicho Zweitausend](../../Acampamentos/2000/Tem%20Bicho%20Zweitausend.md)
+- [Tiw-y-moy](../../Acampamentos/1998/Tiw-y-moy.md)
 
 ---
 

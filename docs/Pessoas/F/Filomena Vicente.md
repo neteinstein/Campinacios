@@ -2,6 +2,11 @@
 
 Filomena Vicente foi uma dos animadoras do Colégio da Imaculada Conceição.
 
+### Acampamentos
+
+- **Animadora:**
+    - 1996 [Alvoco 96](../../Acampamentos/1996/Alvoco%2096.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+
 ## Páginas que ligam para aqui
 
 - [Alvoco 96](../../Acampamentos/1996/Alvoco%2096.md)

@@ -14,6 +14,7 @@ O Fibrovital decorreu em [Quinta da Gorda (Ferreira do Zêzere)](../../Restrito/
 ## Páginas que ligam para aqui
 
 - [Clara Sampaio](../../Pessoas/C/Clara%20Sampaio.md)
+- [Gustavo Gapo](../../Pessoas/G/Gustavo%20Gapo.md)
 - [João Currais](../../Pessoas/J/Jo%C3%A3o%20Currais.md)
 - [Marta Gonçalves](../../Pessoas/M/Marta%20Gon%C3%A7alves.md)
 
