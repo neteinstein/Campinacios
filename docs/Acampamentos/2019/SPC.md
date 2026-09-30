@@ -9,6 +9,8 @@
 
 ## Páginas que ligam para aqui
 
+- [Francisca Veloso](../../Pessoas/F/Francisca%20Veloso.md)
+- [Maria Pinheiro Machado](../../Pessoas/M/Maria%20Pinheiro%20Machado.md)
 - [Pedro Santos](../../Pessoas/P/Pedro%20Santos.md)
 - [Samuel Afonso](../../Pessoas/S/Samuel%20Afonso.md)
 

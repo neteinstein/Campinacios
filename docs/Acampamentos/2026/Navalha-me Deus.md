@@ -7,7 +7,7 @@
 - [Director](../../Cargos/Director.md) - [Alexandre Alípio](../../Pessoas/A/Alexandre%20Al%C3%ADpio.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Beatriz Maia](../../Pessoas/B/Beatriz%20Maia.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Carmo Ribeiro Corrêa](../../Pessoas/C/Carmo%20Ribeiro%20Corr%C3%AAa.md)
-- [Animador Livre](../../Cargos/Animador%20Livre.md) - Ana Mendonça (Yana), Luís Boavida, Carolina Picciochi (Pitxi), [Sebastião Caldas](../../Pessoas/S/Sebasti%C3%A3o%20Caldas.md), Manuel Vasconcelos (Manas)
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - Ana Mendonça (Yana), Luís Boavida, [Carolina Picciochi](../../Pessoas/C/Carolina%20Picciochi.md) (Pitxi), [Sebastião Caldas](../../Pessoas/S/Sebasti%C3%A3o%20Caldas.md), Manuel Vasconcelos (Manas)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Vasco Lucas Pires](../../Pessoas/V/Vasco%20Lucas%20Pires.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md) sj
 
@@ -21,6 +21,7 @@ Ana Isabel Martins, Beatriz Sobral, Leonor Dias, Margarida Ferreira, Gabriel Pon
 - [Alexandre Alípio](../../Pessoas/A/Alexandre%20Al%C3%ADpio.md)
 - [Beatriz Maia](../../Pessoas/B/Beatriz%20Maia.md)
 - [Carmo Ribeiro Corrêa](../../Pessoas/C/Carmo%20Ribeiro%20Corr%C3%AAa.md)
+- [Carolina Picciochi](../../Pessoas/C/Carolina%20Picciochi.md)
 - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
 - [Sebastião Caldas](../../Pessoas/S/Sebasti%C3%A3o%20Caldas.md)
 - [Vasco Lucas Pires](../../Pessoas/V/Vasco%20Lucas%20Pires.md)
