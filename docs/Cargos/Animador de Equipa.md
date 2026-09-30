@@ -166,6 +166,7 @@
 - [Inês Próspero](../Pessoas/I/In%C3%AAs%20Pr%C3%B3spero.md)
 - [Inês Serra Ferreira](../Pessoas/I/In%C3%AAs%20Serra%20Ferreira.md)
 - [Irina Ramos](../Pessoas/I/Irina%20Ramos.md)
+- [Isto Só Visto](../Acampamentos/2022/Isto%20S%C3%B3%20Visto.md)
 - [Jacinto Bezerra](../Pessoas/J/Jacinto%20Bezerra.md)
 - [Jangada](../Acampamentos/2002/Jangada.md)
 - [Joana Almeida](../Pessoas/J/Joana%20Almeida.md)
@@ -195,6 +196,7 @@
 - [João Quintela](../Pessoas/J/Jo%C3%A3o%20Quintela.md)
 - [Lambretas 94](../Acampamentos/1994/Lambretas%2094.md)
 - [Leonardo Carvalho](../Pessoas/L/Leonardo%20Carvalho.md)
+- [Leonor Banha da Silva](../Pessoas/L/Leonor%20Banha%20da%20Silva.md)
 - [Liberata](../Acampamentos/2000/Liberata.md)
 - [Long Tao](../Acampamentos/2006/Long%20Tao.md)
 - [Luís Azevedo](../Pessoas/L/Lu%C3%ADs%20Azevedo.md)
@@ -337,6 +339,7 @@
 - [Vítor Leite](../Pessoas/V/V%C3%ADtor%20Leite.md)
 - [Waaassuuup](../Acampamentos/2001/Waaassuuup.md)
 - [Wally](../Acampamentos/1994/Wally.md)
+- [XP Fora da Roda](../Acampamentos/2019/XP%20Fora%20da%20Roda.md)
 - [XS](../Acampamentos/2006/XS.md)
 - [Ídolo](../Acampamentos/2004/%C3%8Ddolo.md)
 

@@ -4,7 +4,7 @@ Músicas nascidas nos acampamentos dos [Campinácios](../Campin%C3%A1cios.md).
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (18 músicas)
+## Índice (19 músicas)
 
 - [ABRE-TE AO SONHO](#abre-te-ao-sonho) — Hino do Campo Long Tao (2006)
 - [APRENDER A SER](#aprender-a-ser)
@@ -15,6 +15,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [GENÉRICO DA NOVELA (ORIENTU)](#generico-da-novela-orientu) — Genérico da Novela do Campo OrienTu (2008)
 - [HINO DE CAMPO](#hino-de-campo) — Campo OPA (2007)
 - [JOVEM COMO A PLANTA](#jovem-como-a-planta)
+- [MANGUEIRA NICE](#mangueira-nice) — Hino do Campo Mangueira Nice (2025)
 - [O ANDRÉ E A CECÍLIA](#o-andre-e-a-cecilia) — Campo Quatro Patas (2001) (Manel Matos)
 - [O DIA EM QUE APRENDI A VOAR](#o-dia-em-que-aprendi-a-voar)
 - [ORIENTU](#orientu) — Hino do Campo OrienTu (2008)
@@ -354,6 +355,43 @@ Sou um horror!
 Sou director!
 Sou um horror!
 *  Adaptação  Camtílica
+```
+
+### MANGUEIRA NICE {#mangueira-nice}
+
+*Hino do Campo [Mangueira Nice](../../Acampamentos/2025/Mangueira%20Nice.md) (2025)*
+
+```text
+CHEGUEI AO CAMPO QUE GRANDE CONFUSÃO
+TIVEMOS DE DEIXAR CAMPIA PRA MUDAR A NOSSA MISSÃO
+GREGOS POR TODO O LADO
+GOVERNADOS POR UM DEUS BUEDA FORTE,
+MANDA RAIOS O SEU NOME É ZEUS
+OLIVEIRA DE FRADES CAMPINÁCIOS
+TODOS JUNTOS A CANTAR O QUE É QUE ISTO FOI?
+MANGUEIRA NICE (x4)
+AINDA ME FALTA
+DESCOBRIR TANTA COISA
+O TESOURO DO CAMPO
+NÃO ESTÁ NOS CANOS DA LOIÇA
+AI AI AI UMA VESPA
+CHAMEM O HEITOR
+SOCORRO, ALGUÉM ME AJUDE CALA-TE AGUI POR FAVOR
+
+MARAKATÉ
+ENTRA O HORÁCIO.
+TANTAS PALAVRAS NUNCA MAIS SE CAVA
+FLEXA O BICHO
+E O CARAPAU
+O NOVO APLAUSO E O PIRI-PIRI-LAU CUSPIR NA CARA,
+BATER EM MALTA O CAMPICASH
+NUNCA MAIS ME FALTA ENTRA O CAVALO, É DE MADEIRA
+NÃO TEMOS RIO, FÁCIL, ABRE A TORNEIRA
+FO-FO - FOCA DA COZINHA
+COMI UM TOMATE ANTES D'IR PARA CAMINH
+SAI LA DA RODA
+GANDA MANGUEIRADA
+O QUE É QUE O PEIXE FAZ?
 ```
 
 ### O ANDRÉ E A [CECÍLIA](../../Pessoas/C/Cec%C3%ADlia%20Miranda.md) {#o-andre-e-a-cecilia}

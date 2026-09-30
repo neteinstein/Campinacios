@@ -9,7 +9,7 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Tiago Vilas Boas](../../Pessoas/T/Tiago%20Vilas%20Boas.md) (Tigas)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Vasco Teixeira](../../Pessoas/V/Vasco%20Teixeira.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Duarte Rosado](../../Pessoas/D/Duarte%20Rosado.md) sj
-- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Leonor Banha da Silva](../../Pessoas/L/Leonor%20Banha%20da%20Silva.md), Beatriz Silva, Teresa Sena Esteves, [Miguel Melo Ribeiro](../../Pessoas/M/Miguel%20Melo.md) (Migalha), Manuel Santos (Maninhas)
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Leonor Banha da Silva](../../Pessoas/L/Leonor%20Banha%20da%20Silva.md), Beatriz Silva, Teresa Sena Esteves, [Miguel Melo Ribeiro](../../Pessoas/M/Miguel%20Melo%20Ribeiro.md) (Migalha), Manuel Santos (Maninhas)
 
 ## Páginas que ligam para aqui
 
@@ -18,7 +18,7 @@
 - [Fernando Monteiro](../../Pessoas/F/Fernando%20Monteiro.md)
 - [Janine Silva](../../Pessoas/J/Janine%20Silva.md)
 - [Leonor Banha da Silva](../../Pessoas/L/Leonor%20Banha%20da%20Silva.md)
-- [Miguel Melo](../../Pessoas/M/Miguel%20Melo.md)
+- [Miguel Melo Ribeiro](../../Pessoas/M/Miguel%20Melo%20Ribeiro.md)
 - [Tiago Vilas Boas](../../Pessoas/T/Tiago%20Vilas%20Boas.md)
 - [Vasco Teixeira](../../Pessoas/V/Vasco%20Teixeira.md)
 
