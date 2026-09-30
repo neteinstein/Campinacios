@@ -69,7 +69,7 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 | **Coordenadora Adjunta** | [Sofia Ângelo](../Pessoas/S/Sofia%20%C3%82ngelo.md) |
 | **DL-CC** | [Afonso Carvalho](../Pessoas/A/Afonso%20Carvalho.md) (Coordenador da DL) e [Domingos Perloiro](../Pessoas/D/Domingos%20Perloiro.md) sj |
 | **DL-CSJB** | [Maria Solla](../Pessoas/M/Maria%20Solla.md) (Coordenadora da DL) e [Eduardo Amaral](../Pessoas/E/Eduardo%20Amaral.md) sj |
-| **Departamentos** | Comunicação: [Concha Sampaio Soares](../Pessoas/C/Concha%20Sampaio%20Soares.md)<br>Ecónomo: [João Afonso Sousa](../Pessoas/J/Jo%C3%A3o%20Afonso%20Sousa.md)<br>Locais de Campo: [Fernando Monteiro](../Pessoas/F/Fernando%20Monteiro.md)<br>Transportes: [Miguel Teixeira](../Pessoas/M/Miguel%20Teixeira.md)<br>Delegado SPC: [Joana Branco da Silva](../Pessoas/J/Joana%20Branco%20da%20Silva.md) |
+| **Departamentos** | Comunicação: [Concha Sampaio Soares](../Pessoas/C/Concha%20Sampaio%20Soares.md)<br>Ecónomo: [João Afonso Sousa](../Pessoas/J/Jo%C3%A3o%20Afonso%20Sousa.md)<br>Locais de Campo: [Fernando Monteiro](../Pessoas/F/Fernando%20Monteiro.md)<br>Transportes: [Miguel Teixeira](../Pessoas/M/Miguel%20Teixeira.md)<br>Angariação de Fundos: [Maria Silva](../Pessoas/M/Maria%20Silva.md) (Malú)<br>Delegado SPC: [Joana Branco da Silva](../Pessoas/J/Joana%20Branco%20da%20Silva.md) |
 
 </div>
 

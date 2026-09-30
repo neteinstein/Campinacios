@@ -5,19 +5,21 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Fernando Bacelar](../../Pessoas/F/Fernando%20Bacelar.md)
-- [Mamã](../../Cargos/Mam%C3%A3.md) - [Janine](../../Pessoas/J/Janine.md)
-- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Tigas](../../Pessoas/T/Tigas.md)
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [Janine Silva](../../Pessoas/J/Janine%20Silva.md)
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Tiago Vilas Boas](../../Pessoas/T/Tiago%20Vilas%20Boas.md) (Tigas)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Vasco Teixeira](../../Pessoas/V/Vasco%20Teixeira.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Duarte Rosado](../../Pessoas/D/Duarte%20Rosado.md) sj
-- [Leonor Banha da Silva](../../Pessoas/L/Leonor%20Banha%20da%20Silva.md)
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Leonor Banha da Silva](../../Pessoas/L/Leonor%20Banha%20da%20Silva.md), Beatriz Silva, Teresa Sena Esteves, [Miguel Melo Ribeiro](../../Pessoas/M/Miguel%20Melo.md) (Migalha), Manuel Santos (Maninhas)
 
 ## Páginas que ligam para aqui
 
 - [Duarte Rosado](../../Pessoas/D/Duarte%20Rosado.md)
 - [Fernando Bacelar](../../Pessoas/F/Fernando%20Bacelar.md)
-- [Janine](../../Pessoas/J/Janine.md)
+- [Fernando Monteiro](../../Pessoas/F/Fernando%20Monteiro.md)
+- [Janine Silva](../../Pessoas/J/Janine%20Silva.md)
 - [Leonor Banha da Silva](../../Pessoas/L/Leonor%20Banha%20da%20Silva.md)
-- [Tigas](../../Pessoas/T/Tigas.md)
+- [Miguel Melo](../../Pessoas/M/Miguel%20Melo.md)
+- [Tiago Vilas Boas](../../Pessoas/T/Tiago%20Vilas%20Boas.md)
 - [Vasco Teixeira](../../Pessoas/V/Vasco%20Teixeira.md)
 
 ---

@@ -17,6 +17,7 @@
     - 2007 [Baza](../../Acampamentos/2007/Baza.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2008 [OrienTu](../../Acampamentos/2008/OrienTu.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2009 [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
+    - 2015 [Someonelfie](../../Acampamentos/2015/Someonelfie.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
 
 ## Páginas que ligam para aqui
 
@@ -25,6 +26,7 @@
 - [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md)
 - [Marta Reis](../M/Marta%20Reis.md)
 - [OrienTu](../../Acampamentos/2008/OrienTu.md)
+- [Someonelfie](../../Acampamentos/2015/Someonelfie.md)
 
 ---
 

@@ -12,6 +12,7 @@
 ## Páginas que ligam para aqui
 
 - [Francisco Dioniz Barroso Loureiro](../../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
+- [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
 - [Henrique Mota Amaral](../../Pessoas/H/Henrique%20Mota%20Amaral.md)
 - [Maria Amorim](../../Pessoas/M/Maria%20Amorim.md)
 - [Mariana Salazar](../../Pessoas/M/Mariana%20Salazar.md)

@@ -3,7 +3,7 @@
 - [Jacinto Bezerra](Jacinto%20Bezerra.md)
 - [Jacinto Lucas Pires](Jacinto%20Lucas%20Pires.md)
 - [Jaime Lucas Pires](Jaime%20Lucas%20Pires.md)
-- [Janine](Janine.md)
+- [Janine Silva](Janine%20Silva.md)
 - [Joana Almeida](Joana%20Almeida.md)
 - [Joana Amado](Joana%20Amado.md)
 - [Joana Antunes](Joana%20Antunes.md)

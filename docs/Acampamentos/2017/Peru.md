@@ -11,6 +11,7 @@
 
 ## Páginas que ligam para aqui
 
+- [Daniela Gonçalves](../../Pessoas/D/Daniela%20Gon%C3%A7alves.md)
 - [Frederico Cardoso de Lemos](../../Pessoas/F/Frederico%20Cardoso%20de%20Lemos.md)
 - [Henrique Mota Amaral](../../Pessoas/H/Henrique%20Mota%20Amaral.md)
 - [Maria Fontes](../../Pessoas/M/Maria%20Fontes.md)

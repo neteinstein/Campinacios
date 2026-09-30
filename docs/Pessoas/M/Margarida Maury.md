@@ -11,7 +11,7 @@
 - **Formação:**
     - 2009 [Caminho](../../Acampamentos/2009/Caminho.md)
 - **Animador:**
-    - nenhum
+    - 2011 [Olha, Isto Aqui é uma Estátua](../../Acampamentos/2011/Olha%2C%20Isto%20Aqui%20%C3%A9%20uma%20Est%C3%A1tua.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
 ### Família
 
@@ -20,6 +20,7 @@
 ## Páginas que ligam para aqui
 
 - [Inês Maury](../I/In%C3%AAs%20Maury.md)
+- [Olha, Isto Aqui é uma Estátua](../../Acampamentos/2011/Olha%2C%20Isto%20Aqui%20%C3%A9%20uma%20Est%C3%A1tua.md)
 
 ---
 

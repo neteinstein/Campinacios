@@ -14,6 +14,7 @@
 ### Cargos
 
 - 2023/2024 Coordenadora Adjunta da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
+- 2024/2025 Responsável de Angariação de Fundos da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 
 ### Encontros
 
