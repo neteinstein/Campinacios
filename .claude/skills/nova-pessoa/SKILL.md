@@ -106,8 +106,9 @@ link here), then the footer `---` and `| Categorias |` table (Animadores,
 Animadores do <colégio> if known, Jesuítas…). Then list it: the letter's
 `index.md` (sorted), its count in `docs/Pessoas/index.md`, each category's
 `## Páginas nesta categoria (N)` (sorted, N+1), `docs/Todos os artigos.md`
-("N artigos" +1) and the home page count in `docs/index.md`; optionally a
-node in `docs/assets/graph.json`.
+("N artigos" +1) and the home page count in `docs/index.md`; o grafo
+(`docs/assets/graph.json`) não se edita à mão: corra
+`python3 scripts/actualizar_grafo.py`.
 
 ## 5. Validate
 
