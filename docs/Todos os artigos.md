@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1184 artigos e, em itálico, os 173 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1185 artigos e, em itálico, os 173 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -878,7 +878,7 @@
 - [Marta Martins](Pessoas/M/Marta%20Martins.md)
 - [Matilde Silva](Pessoas/M/Matilde%20Silva.md)
 - *Mawi* → [Maria Cunhal](Pessoas/M/Maria%20Cunhal.md)
-- *Migalha* → [Miguel Melo](Pessoas/M/Miguel%20Melo.md)
+- *Migalha* → [Miguel Melo Ribeiro](Pessoas/M/Miguel%20Melo%20Ribeiro.md)
 - *Mogui* → [Margarida Tavares](Pessoas/M/Margarida%20Tavares.md)
 - [Mãos à Obra](Acampamentos/2014/M%C3%A3os%20%C3%A0%20Obra.md)
 - [Maravilha-te](Acampamentos/2018/Maravilha-te.md)
@@ -970,7 +970,8 @@
 - [Miguel Martins](Movimento/Desambigua%C3%A7%C3%A3o/Miguel%20Martins.md)
 - [Miguel Martins Monteiro](Pessoas/M/Miguel%20Martins%20Monteiro.md)
 - [Miguel Melo](Pessoas/M/Miguel%20Melo.md)
-- *Miguel Melo Ribeiro* → [Miguel Melo](Pessoas/M/Miguel%20Melo.md)
+- [Miguel Melo Ribeiro](Pessoas/M/Miguel%20Melo%20Ribeiro.md)
+- *Miguel Pedro Melo* → [Miguel Melo](Pessoas/M/Miguel%20Melo.md)
 - [Miguel Monteiro](Pessoas/M/Miguel%20Monteiro.md)
 - [Miguel Monteiro Martins](Pessoas/M/Miguel%20Monteiro%20Martins.md)
 - [Miguel Navarro](Pessoas/M/Miguel%20Navarro.md)
