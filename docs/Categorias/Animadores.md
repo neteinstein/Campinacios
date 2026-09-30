@@ -9,7 +9,7 @@ Animadores dos Campinácios
 - [Animadores do CSJB](Animadores%20do%20CSJB.md)
 - [Jesuítas](Jesu%C3%ADtas.md)
 
-## Páginas nesta categoria (700)
+## Páginas nesta categoria (701)
 
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Afonso Barrocas](../Pessoas/A/Afonso%20Barrocas.md)
@@ -384,6 +384,7 @@ Animadores dos Campinácios
 - [Lara Tavares](../Pessoas/L/Lara%20Tavares.md)
 - [Laura Barra](../Pessoas/L/Laura%20Barra.md)
 - [Leonardo Carvalho](../Pessoas/L/Leonardo%20Carvalho.md)
+- [Leonor Banha da Silva](../Pessoas/L/Leonor%20Banha%20da%20Silva.md)
 - [Leonor Cardoso](../Pessoas/L/Leonor%20Cardoso.md)
 - [Leonor Simões](../Pessoas/L/Leonor%20Sim%C3%B5es.md)
 - [Leonor Vala](../Pessoas/L/Leonor%20Vala.md)
