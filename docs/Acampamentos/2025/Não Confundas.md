@@ -15,6 +15,7 @@
 
 - [Bernardo Moraes Sarmento](../../Pessoas/B/Bernardo%20Moraes%20Sarmento.md)
 - [Chico Carneiro](../../Pessoas/C/Chico%20Carneiro.md)
+- [Daniela Gonçalves](../../Pessoas/D/Daniela%20Gon%C3%A7alves.md)
 - [José Carlos Miranda](../../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md)
 - [Margarida Faria](../../Pessoas/M/Margarida%20Faria.md)
 - [Maria João Guedes](../../Pessoas/M/Maria%20Jo%C3%A3o%20Guedes.md)

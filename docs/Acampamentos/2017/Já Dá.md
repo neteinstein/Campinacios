@@ -8,6 +8,7 @@
 
 ## Páginas que ligam para aqui
 
+- [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
 - [Joana Coelho](../../Pessoas/J/Joana%20Coelho.md)
 
 ---

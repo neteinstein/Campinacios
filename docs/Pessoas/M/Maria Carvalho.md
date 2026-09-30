@@ -16,6 +16,7 @@
 
 - [Encontro Nacional 2025](../../Encontros/Encontro%20Nacional%202025.md)
 - [Mangueira Nice](../../Acampamentos/2025/Mangueira%20Nice.md)
+- [Mário Carvalho](M%C3%A1rio%20Carvalho.md)
 - [Sande Help](../../Acampamentos/2026/Sande%20Help.md)
 
 ---

@@ -11,7 +11,7 @@ Leonor Banha da Silva é animadora do [CSJB](../../Categorias/Animadores%20do%20
     - 2019 [SPC](../../Acampamentos/2019/SPC.md)
 - **Animadora:**
     - 2019 [XP Fora da Roda](../../Acampamentos/2019/XP%20Fora%20da%20Roda.md)
-    - 2021 [E a Glória Adensa-se](../../Acampamentos/2021/E%20a%20Gl%C3%B3ria%20Adensa-se.md)
+    - 2021 [E a Glória Adensa-se](../../Acampamentos/2021/E%20a%20Gl%C3%B3ria%20Adensa-se.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
     - 2022 [Isto Só Visto](../../Acampamentos/2022/Isto%20S%C3%B3%20Visto.md)
     - 2023 [Parte de Ti](../../Acampamentos/2023/Parte%20de%20Ti.md)
 

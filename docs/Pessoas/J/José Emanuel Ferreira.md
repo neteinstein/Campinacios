@@ -11,6 +11,7 @@
 
 - **Animador:**
     - 2009 [Vi-O](../../Acampamentos/2009/Vi-O.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2015 [Someonelfie](../../Acampamentos/2015/Someonelfie.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
 
 ### Encontros
 
@@ -20,6 +21,7 @@
 
 - [Encontro Nacional 2019](../../Encontros/Encontro%20Nacional%202019.md)
 - [José Ferreira](../../Movimento/Desambigua%C3%A7%C3%A3o/Jos%C3%A9%20Ferreira.md)
+- [Someonelfie](../../Acampamentos/2015/Someonelfie.md)
 - [Vi-O](../../Acampamentos/2009/Vi-O.md)
 
 ---

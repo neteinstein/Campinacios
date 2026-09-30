@@ -23,6 +23,7 @@ Ana Luísa de Oliveira Pinto da Costa, nascida a 17 de Agosto de 1981 é animado
 
 ## Páginas que ligam para aqui
 
+- [Ana Rita Costa](Ana%20Rita%20Costa.md)
 - [Cabala](../../Acampamentos/2003/Cabala.md)
 - [Fófinhos](../../Acampamentos/2005/F%C3%B3finhos.md)
 - [João Pinto da Costa](../J/Jo%C3%A3o%20Pinto%20da%20Costa.md)

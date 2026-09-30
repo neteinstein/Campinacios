@@ -1,4 +1,4 @@
-# Janine
+# Janine Silva
 
 ### Acampamentos
 
@@ -14,6 +14,8 @@
 - [Parte de Ti](../../Acampamentos/2023/Parte%20de%20Ti.md)
 
 ---
+
+**Outros nomes:** Janine
 
 | Categorias |
 | --- |

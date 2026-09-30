@@ -16,6 +16,7 @@ O hino deste campo está no [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin
 ## Páginas que ligam para aqui
 
 - [Cantinácio: Campinácios](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md)
+- [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
 - [Ivo Reis](../../Pessoas/I/Ivo%20Reis.md)
 - [João Brandão](../../Pessoas/J/Jo%C3%A3o%20Brand%C3%A3o.md)
 - [José Pascoal](../../Pessoas/J/Jos%C3%A9%20Pascoal.md)
