@@ -1,6 +1,7 @@
 # R
 
 - [Rafa Mano](Rafa%20Mano.md)
+- [Rafa Silva](Rafa%20Silva.md)
 - [Rafael Carecho](Rafael%20Carecho.md)
 - [Rafael Lucas Pires](Rafael%20Lucas%20Pires.md)
 - [Rafael Rebordão](Rafael%20Rebord%C3%A3o.md)
