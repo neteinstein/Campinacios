@@ -4,7 +4,7 @@ Músicas nascidas nos acampamentos dos [Campinácios](../Campin%C3%A1cios.md).
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (14 músicas)
+## Índice (15 músicas)
 
 - [ABRE-TE AO SONHO](#abre-te-ao-sonho) — Hino do Campo Long Tao (2006)
 - [APRENDER A SER](#aprender-a-ser)
@@ -14,6 +14,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [JOVEM COMO A PLANTA](#jovem-como-a-planta)
 - [O ANDRÉ E A CECÍLIA](#o-andre-e-a-cecilia) — Campo Quatro Patas (2001) (Manel Matos)
 - [O DIA EM QUE APRENDI A VOAR](#o-dia-em-que-aprendi-a-voar)
+- [ORIENTU](#orientu) — Hino do Campo OrienTu (2008)
 - [PÃO COM MANTEIGA](#pao-com-manteiga)
 - [PÁRA E REPARA](#para-e-repara) — Campo Graal II (2003)
 - [POEMA LINDO](#poema-lindo) — Campo Mountain Bike (Chico Maria)
@@ -303,6 +304,32 @@ A queres mais do que palmilhar
 Refrão
 
 FA*- x03213
+```
+
+### ORIENTU {#orientu}
+
+*Hino do Campo [OrienTu](../../Acampamentos/2008/OrienTu.md) (2008)*
+
+```text
+Nas encruzilhadas da vida
+Surgem duvidas que assustam
+Escolhas sem sentido
+Medos que nos reduzem
+Um dia ouvi dizer
+Que o essencial
+Não é claro
+É preciso encontra-lo
+É preciso desvenda-lo
+É tão difícil perceber
+Abrir as portas ao amor
+Acreditar que Deus está
+Comigo a lutar
+Por um sonho melhor, MAIOR!
+OrienTu em Edo vais ficar,
+OrienTu para servir e amar
+E não te esqueças:
+O essencial és TU
+O essencial es Tu!
 ```
 
 ### PÃO COM MANTEIGA {#pao-com-manteiga}

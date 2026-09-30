@@ -19,43 +19,7 @@ Foi também o primeiro acampamento a promover um serão conjunto entre acampamen
 
 ### Hino
 
-Nas encruzilhadas da vida
-
-Surgem duvidas que assustam
-
-Escolhas sem sentido
-
-Medos que nos reduzem
-
-Um dia ouvi dizer
-
-Que o essencial
-
-Não é claro
-
-É preciso encontra-lo
-
-É preciso desvenda-lo
-
-É tão difícil perceber
-
-Abrir as portas ao amor
-
-Acreditar que Deus está
-
-Comigo a lutar
-
-Por um sonho melhor, MAIOR!
-
-OrienTu em Edo vais ficar,
-
-OrienTu para servir e amar
-
-E não te esqueças:
-
-O essencial és TU
-
-O essencial es Tu!
+O hino deste campo foi a música "OrienTu" (ver [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#orientu)). No YouTube há um [vídeo do hino](https://www.youtube.com/watch?v=yYx5OMsmS_s).
 
 ### Genérico da Novela
 
