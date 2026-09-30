@@ -34,55 +34,7 @@ O hino deste campo foi a música "OrienTu" (ver [Cantinácio](../../Movimento/Ca
 
 ### Genérico da Novela
 
-[PT] GENÉRICO
-
-[GB] GENERIC
-
-[F] GÉNÉRIQUES
-
-[CR] GENERICKÉ
-
-[R] непатентованных
-
-[GR] γενόσημων
-
-[AR] عام
-
-Vou-lhe contar, vou-lhe cantar
-
-essa historia, será memória (vo)cê vai amar
-
-junta galera, come pipoca,
-
-faz um programa, chafurda na lamaaaa...
-
-(entram os espíritos*)
-
-e todo mundo para um segundo, vai começaaaar
-
-Jação Valente, sempre na frente
-
-Tó Badochas, come sandochas
-
-e no Japão até comem cão
-
-olhem que confusão
-
-A Shoguninha é tao lindinha
-
-Daimiu mauzão, corcunda e anão
-
-A tartaruguinha é tao fofinha
-
-salta e vem DANÇAAAAAR
-
-- polvilha-se com espíritos a gosto, por exemplo:
-
--e ouvem-se os lobos a uivaaar: aúúúúúúúh
-
--quem é que come planta lá em casa: -Ah, sou eu que sou uma lambona!
-
--AllÔ comadre Marcela, é a Severina... TÔ foribuuundaaa!!!
+O genérico da novela deste campo está no [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#generico-da-novela-orientu).
 
 ## Curiosidades
 
@@ -95,6 +47,7 @@ O nome veio da junção de "Oriente" e do tema do ano, ou parte dele "Tu"... Ori
 ## Páginas que ligam para aqui
 
 - [Ana Luísa Reis](../../Pessoas/A/Ana%20Lu%C3%ADsa%20Reis.md)
+- [Cantinácio: Campinácios](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md)
 - [Conteúdos](../../Wikin%C3%A1cios/Conte%C3%BAdos.md)
 - [Diogo José Nunes Carneiro](../../Pessoas/D/Diogo%20Jos%C3%A9%20Nunes%20Carneiro.md)
 - [Elias Oliveira](../../Pessoas/E/Elias%20Oliveira.md)
