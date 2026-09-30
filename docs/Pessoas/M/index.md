@@ -117,6 +117,7 @@
 - [Miguel Machado](Miguel%20Machado.md)
 - [Miguel Martins Monteiro](Miguel%20Martins%20Monteiro.md)
 - [Miguel Melo](Miguel%20Melo.md)
+- [Miguel Melo Ribeiro](Miguel%20Melo%20Ribeiro.md)
 - [Miguel Monteiro](Miguel%20Monteiro.md)
 - [Miguel Monteiro Martins](Miguel%20Monteiro%20Martins.md)
 - [Miguel Moraes](Miguel%20Moraes.md)

@@ -2,7 +2,7 @@
 
 Jesuítas que animam ou animaram acampamentos de Campinácios
 
-## Páginas nesta categoria (73)
+## Páginas nesta categoria (74)
 
 - ["Para Educar Melhor - Campos de férias inacianos"](../Movimento/Para%20Educar%20Melhor%20-%20Campos%20de%20f%C3%A9rias%20inacianos.md)
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
@@ -62,6 +62,7 @@ Jesuítas que animam ou animaram acampamentos de Campinácios
 - [Manuel Sérvulo Rodrigues](../Pessoas/M/Manuel%20S%C3%A9rvulo%20Rodrigues.md)
 - [Martim Cunha Ferreira](../Pessoas/M/Martim%20Cunha%20Ferreira.md)
 - [Miguel Melo](../Pessoas/M/Miguel%20Melo.md)
+- [Miguel Melo Ribeiro](../Pessoas/M/Miguel%20Melo%20Ribeiro.md)
 - [Nelson Faria](../Pessoas/N/Nelson%20Faria.md)
 - [Nuno Branco](../Pessoas/N/Nuno%20Branco.md)
 - [Paulo Duarte](../Pessoas/P/Paulo%20Duarte.md)

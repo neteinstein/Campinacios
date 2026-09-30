@@ -38,7 +38,7 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 | **Coordenador Nacional** | [Dinis Braga da Cruz](../Pessoas/D/Dinis%20Braga%20da%20Cruz.md) |
 | **Coordenador Adjunto** | [Fernando Monteiro](../Pessoas/F/Fernando%20Monteiro.md) |
 | **DL-CC** | [Daniela Gonçalves](../Pessoas/D/Daniela%20Gon%C3%A7alves.md) (Coordenadora da DL) e [Vicente Goes](../Pessoas/V/Vicente%20Goes.md) sj |
-| **DL-CSJB** | [Matilde Pereira](../Pessoas/M/Matilde%20Pereira.md) (Matchi) (Coordenadora da DL) e [Miguel Melo Ribeiro](../Pessoas/M/Miguel%20Melo.md) sj |
+| **DL-CSJB** | [Matilde Pereira](../Pessoas/M/Matilde%20Pereira.md) (Matchi) (Coordenadora da DL) e [Miguel Melo Ribeiro](../Pessoas/M/Miguel%20Melo%20Ribeiro.md) sj |
 | **Departamentos** | Comunicação: [Nuno Ferreira](../Pessoas/N/Nuno%20Ferreira.md) (Broski)<br>Ecónomo: [Martim Nunes](../Pessoas/M/Martim%20Nunes.md)<br>Locais de Campo: [Pablo Fernandes](../Pessoas/P/Pablo%20Fernandes.md)<br>Transportes: [Francisca Crujeira](../Pessoas/F/Francisca%20Crujeira.md)<br>Angariação de Fundos: [Francisca Serrano](../Pessoas/F/Francisca%20Serrano.md)<br>GARFO (Formação): [Beatriz Picciochi](../Pessoas/B/Beatriz%20Picciochi.md)<br>Delegado SPC: [Mariana Ramalho](../Pessoas/M/Mariana%20Ramalho.md) |
 
 </div>
@@ -514,7 +514,7 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 - [Direcções Locais](Direc%C3%A7%C3%B5es%20Locais.md)
 - [Secretários da DN](Secret%C3%A1rios%20da%20DN.md)
 
-## Páginas nesta categoria (102)
+## Páginas nesta categoria (103)
 
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Amílcar Sousa](../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
@@ -601,6 +601,7 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 - [Martim Nunes](../Pessoas/M/Martim%20Nunes.md)
 - [Matilde Pereira](../Pessoas/M/Matilde%20Pereira.md)
 - [Miguel Leite Martins](../Pessoas/M/Miguel%20Leite%20Martins.md)
+- [Miguel Melo Ribeiro](../Pessoas/M/Miguel%20Melo%20Ribeiro.md)
 - [Miguel Teixeira](../Pessoas/M/Miguel%20Teixeira.md)
 - [Nuno Ferreira](../Pessoas/N/Nuno%20Ferreira.md)
 - [Otília Azevedo](../Pessoas/O/Ot%C3%ADlia%20Azevedo.md)
@@ -689,6 +690,7 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 - [Marta Carneiro](../Pessoas/M/Marta%20Carneiro.md)
 - [Martim Nunes](../Pessoas/M/Martim%20Nunes.md)
 - [Miguel Leite Martins](../Pessoas/M/Miguel%20Leite%20Martins.md)
+- [Miguel Melo Ribeiro](../Pessoas/M/Miguel%20Melo%20Ribeiro.md)
 - [Miguel Teixeira](../Pessoas/M/Miguel%20Teixeira.md)
 - [Otília Azevedo](../Pessoas/O/Ot%C3%ADlia%20Azevedo.md)
 - [Paulo Cardoso](../Pessoas/P/Paulo%20Cardoso.md)

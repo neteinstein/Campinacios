@@ -164,6 +164,7 @@
 - [Mestrarte](../Acampamentos/2024/Mestrarte.md)
 - [Metrópole](../Acampamentos/2004/Metr%C3%B3pole.md)
 - [Miguel Melo](../Pessoas/M/Miguel%20Melo.md)
+- [Miguel Melo Ribeiro](../Pessoas/M/Miguel%20Melo%20Ribeiro.md)
 - [Mikelin Descobre a Vida](../Acampamentos/2004/Mikelin%20Descobre%20a%20Vida.md)
 - [Navalha-me Deus](../Acampamentos/2026/Navalha-me%20Deus.md)
 - [Nelson Faria](../Pessoas/N/Nelson%20Faria.md)
