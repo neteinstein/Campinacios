@@ -1,8 +1,19 @@
 # OrienTu
 
+[![Logotipo do OrienTu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTIgsf5trw8QV9Hzzzmty7opdV0Fhcks3FEMc50EEzMzc34IWKEgHSUDV_MxjUrfJpvbgNODkmuntK6c_zCiz6P99O8wGJHTVpXDsUxds_rGEZ6rL1PpNKTWV2lSzohuTOWNm4pjdkbm0/s320/OrienTu+1.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTIgsf5trw8QV9Hzzzmty7opdV0Fhcks3FEMc50EEzMzc34IWKEgHSUDV_MxjUrfJpvbgNODkmuntK6c_zCiz6P99O8wGJHTVpXDsUxds_rGEZ6rL1PpNKTWV2lSzohuTOWNm4pjdkbm0/s320/OrienTu+1.png)
+
 O OrienTu foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que decorreu entre 5 e 14 de Agosto na [Murtinheira](../../Restrito/Locais%20de%20Acampamento/Murtinheira%20%28Vila%20Nova%20do%20Ceira%29.md)
 
 Foi também o primeiro acampamento a promover um serão conjunto entre acampamentos de escalões diferentes, juntando-se na Murtinheira, ao OrienTu, o [Êxodo](%C3%8Axodo.md)!
+
+## Carta de Campo
+
+[![Carta de campo do OrienTu (1.ª página)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcKN-_HIYNP6v0zCY72QmN5nQTjs1rmjYmVEJj3oBGdLzlCkRaXX91m8aEV12H8UNAdkLeCmdmVv5kHDzEkxLMk4wWYpUlRnypA5N1nuf6Uce2-i8LvFzhwaSBD1pOSuWsaSCEwJdbxlM/s320/Diapositivo1.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcKN-_HIYNP6v0zCY72QmN5nQTjs1rmjYmVEJj3oBGdLzlCkRaXX91m8aEV12H8UNAdkLeCmdmVv5kHDzEkxLMk4wWYpUlRnypA5N1nuf6Uce2-i8LvFzhwaSBD1pOSuWsaSCEwJdbxlM/s320/Diapositivo1.JPG)
+[![Carta de campo do OrienTu (2.ª página)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZTGANJAKGN__9bCoAMrT3H8H9CUcizGPD9jURmiNx3mREe-pm8sYLnfYT9go_g6OTEVub3PRc9gn8lDrYrl1gQWMTcZgu-tlxq4T9yertY2tTXGORmAlMfVV4R9Riy-APo-tZ3ZP0KCg/s320/Diapositivo2.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZTGANJAKGN__9bCoAMrT3H8H9CUcizGPD9jURmiNx3mREe-pm8sYLnfYT9go_g6OTEVub3PRc9gn8lDrYrl1gQWMTcZgu-tlxq4T9yertY2tTXGORmAlMfVV4R9Riy-APo-tZ3ZP0KCg/s320/Diapositivo2.JPG)
+
+## Foto de Campo
+
+[![Foto de campo do OrienTu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh4PeFo-XCtQMHSWbuO_cRo1QU04HYTYGzYmP_qrVbqSFNTmgCcNdYMLU1BjFTlgk6doquuvuy7FMa7DWw8KMvVpdVyR7ScJx3bWH1rIYov_lFEdzZIttKBQ9QIMfN45-cpkdUqW0JP5U/s400/IMG_1241.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh4PeFo-XCtQMHSWbuO_cRo1QU04HYTYGzYmP_qrVbqSFNTmgCcNdYMLU1BjFTlgk6doquuvuy7FMa7DWw8KMvVpdVyR7ScJx3bWH1rIYov_lFEdzZIttKBQ9QIMfN45-cpkdUqW0JP5U/s400/IMG_1241.JPG)
 
 ## Animadores
 
