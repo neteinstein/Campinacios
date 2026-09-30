@@ -7,12 +7,14 @@
 - [Director](../../Cargos/Director.md) - [António Neves](../../Pessoas/A/Ant%C3%B3nio%20Neves.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Margarida Tavares](../../Pessoas/M/Margarida%20Tavares.md) (Mogui)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Rodrigo Calçarão](../../Pessoas/R/Rodrigo%20Cal%C3%A7ar%C3%A3o.md)
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Diogo Gaspar](../../Pessoas/D/Diogo%20Gaspar.md) sj
 
 ## Páginas que ligam para aqui
 
 - [António Neves](../../Pessoas/A/Ant%C3%B3nio%20Neves.md)
 - [Diogo Gaspar](../../Pessoas/D/Diogo%20Gaspar.md)
+- [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
 - [Margarida Tavares](../../Pessoas/M/Margarida%20Tavares.md)
 - [Rodrigo Calçarão](../../Pessoas/R/Rodrigo%20Cal%C3%A7ar%C3%A3o.md)
 

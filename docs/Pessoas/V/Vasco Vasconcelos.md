@@ -18,6 +18,7 @@ Vasco Vasconcelos, é um dos animadores do Colégio da Imaculada Conceição.
     - 2008 [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2009 [Lembras-te?](../../Acampamentos/2009/Lembras-te.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2009 [Obra Prima](../../Acampamentos/2010/Obra%20Prima.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2011 [Olha, Isto Aqui é uma Estátua](../../Acampamentos/2011/Olha%2C%20Isto%20Aqui%20%C3%A9%20uma%20Est%C3%A1tua.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
 ## Páginas que ligam para aqui
 
@@ -28,6 +29,7 @@ Vasco Vasconcelos, é um dos animadores do Colégio da Imaculada Conceição.
 - [M&M](../../Acampamentos/2007/M%26M.md)
 - [Obra Prima](../../Acampamentos/2010/Obra%20Prima.md)
 - [Ídolo](../../Acampamentos/2004/%C3%8Ddolo.md)
+- [Olha, Isto Aqui é uma Estátua](../../Acampamentos/2011/Olha%2C%20Isto%20Aqui%20%C3%A9%20uma%20Est%C3%A1tua.md)
 
 ---
 

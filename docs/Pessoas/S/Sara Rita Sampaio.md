@@ -9,10 +9,11 @@
     - 2007 [Baúmerang](../../Acampamentos/2007/Ba%C3%BAmerang.md)
     - 2008 [Era Uma Vez...](../../Acampamentos/2008/Era%20Uma%20Vez....md)
     - 2009 [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md)
-- ""Formação:""
+- **Formação:**
     - 2010 [Obra Prima](../../Acampamentos/2010/Obra%20Prima.md)
-- ""Animadora""
+- **Animadora:**
     - 2010 [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2013 [Camp & Nácios, S.A](../../Acampamentos/2013/Camp%20%26%20N%C3%A1cios%2C%20S.A.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
 ### Família
 
@@ -21,6 +22,7 @@
 ## Páginas que ligam para aqui
 
 - [Ana Paula Sampaio](../A/Ana%20Paula%20Sampaio.md)
+- [Camp & Nácios, S.A](../../Acampamentos/2013/Camp%20%26%20N%C3%A1cios%2C%20S.A.md)
 - [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md)
 
 ---

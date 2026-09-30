@@ -10,6 +10,7 @@
 
 ## Páginas que ligam para aqui
 
+- [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
 - [Renato Lobo](../../Pessoas/R/Renato%20Lobo.md)
 
 ---

@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1184 artigos e, em itálico, os 168 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1184 artigos e, em itálico, os 173 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -137,6 +137,7 @@
 - [Baba Yetu](Acampamentos/2010/Baba%20Yetu.md)
 - [Badminton](Acampamentos/2014/Badminton.md)
 - [Bafo](Pessoas/B/Bafo.md)
+- *Balhau* → [Guilherme Balhau](Pessoas/G/Guilherme%20Balhau.md)
 - [Bárbara Cardoso](Pessoas/B/B%C3%A1rbara%20Cardoso.md)
 - [Barracada](Acampamentos/2024/Barracada.md)
 - [Barragem de Santa Clara](Restrito/Locais%20de%20Acampamento/Barragem%20de%20Santa%20Clara.md) 🔒
@@ -314,6 +315,7 @@
 ## D
 
 - [D'RIP MELON](Acampamentos/2024/D%27RIP%20MELON.md)
+- *Dani* → [Daniela Gonçalves](Pessoas/D/Daniela%20Gon%C3%A7alves.md)
 - [Duarte Pinto](Pessoas/D/Duarte%20Pinto.md)
 - [Duarte Ribeiro](Pessoas/D/Duarte%20Ribeiro.md)
 - *Dudu* → [Duarte Ribeiro](Pessoas/D/Duarte%20Ribeiro.md)
@@ -603,6 +605,8 @@
 
 ## J
 
+- *Janine* → [Janine Silva](Pessoas/J/Janine%20Silva.md)
+- [Janine Silva](Pessoas/J/Janine%20Silva.md)
 - [Joana Antunes](Pessoas/J/Joana%20Antunes.md)
 - *Jocas* → [Joana Antunes](Pessoas/J/Joana%20Antunes.md)
 - *Johnny* → [João Afonso Sousa](Pessoas/J/Jo%C3%A3o%20Afonso%20Sousa.md)
@@ -613,7 +617,6 @@
 - [Jaime Lucas Pires](Pessoas/J/Jaime%20Lucas%20Pires.md)
 - [Jambo 99](Acampamentos/1999/Jambo%2099.md)
 - [Jangada](Acampamentos/2002/Jangada.md)
-- [Janine](Pessoas/J/Janine.md)
 - [Jásinto](Acampamentos/2015/J%C3%A1sinto.md)
 - [Jesuíta](Movimento/Jesu%C3%ADta.md)
 - [Joana Almeida](Pessoas/J/Joana%20Almeida.md)
@@ -990,6 +993,7 @@
 
 ## N
 
+- *Nando* → [Fernando Monteiro](Pessoas/F/Fernando%20Monteiro.md)
 - *Nando Monteiro* → [Fernando Monteiro](Pessoas/F/Fernando%20Monteiro.md)
 - [Não Confundas](Acampamentos/2025/N%C3%A3o%20Confundas.md)
 - [Natacha Soares](Pessoas/N/Natacha%20Soares.md)
@@ -1331,8 +1335,9 @@
 - [Tiago Monteiro](Pessoas/T/Tiago%20Monteiro.md)
 - [Tiago Pimenta](Pessoas/T/Tiago%20Pimenta.md)
 - [Tiago Vidal](Pessoas/T/Tiago%20Vidal.md)
+- [Tiago Vilas Boas](Pessoas/T/Tiago%20Vilas%20Boas.md)
 - *Tias* → [Tio](Cargos/Tio.md)
-- [Tigas](Pessoas/T/Tigas.md)
+- *Tigas* → [Tiago Vilas Boas](Pessoas/T/Tiago%20Vilas%20Boas.md)
 - *Tina* → [Martim Nunes](Pessoas/M/Martim%20Nunes.md)
 - [Tio](Cargos/Tio.md)
 - *Tios* → [Tio](Cargos/Tio.md)

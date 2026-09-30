@@ -1,6 +1,6 @@
 # Olha, Isto Aqui é uma Estátua
 
-**Olha, Isto Aqui é uma Estátua** foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) realizado em 2011. O tema do ano foi *Sobre esta pedra*.
+**Olha, Isto Aqui é uma Estátua** foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) realizado de 23 de Agosto a 1 de Setembro de 2011. O tema do ano foi *Sobre esta pedra*.
 
 ### Animadores
 
@@ -8,13 +8,24 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Maria Amorim](../../Pessoas/M/Maria%20Amorim.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Paulo Cardoso](../../Pessoas/P/Paulo%20Cardoso.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Zé Maria Brito](../../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md) sj
+- [Tia](../../Cargos/Tio.md) - [Ana Rita Costa](../../Pessoas/A/Ana%20Rita%20Costa.md), [Rita Martins](../../Pessoas/R/Rita%20Martins.md)
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Vasco Vasconcelos](../../Pessoas/V/Vasco%20Vasconcelos.md), [Mário Carvalho](../../Pessoas/M/M%C3%A1rio%20Carvalho.md)
+- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Filipa Caldas](../../Pessoas/F/Filipa%20Caldas.md), [André Barreiras](../../Pessoas/A/Andr%C3%A9%20Barreiras.md), [Margarida Maury](../../Pessoas/M/Margarida%20Maury.md), Hugo Pereira, Gonçalo Coimbra, [Catarina Barroso](../../Pessoas/C/Catarina%20Dur%C3%A3o%20Barroso.md)
 
 ## Páginas que ligam para aqui
 
+- [Ana Rita Costa](../../Pessoas/A/Ana%20Rita%20Costa.md)
+- [André Barreiras](../../Pessoas/A/Andr%C3%A9%20Barreiras.md)
+- [Catarina Durão Barroso](../../Pessoas/C/Catarina%20Dur%C3%A3o%20Barroso.md)
+- [Filipa Caldas](../../Pessoas/F/Filipa%20Caldas.md)
 - [José Maria Brito](../../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md)
+- [Margarida Maury](../../Pessoas/M/Margarida%20Maury.md)
 - [Maria Amorim](../../Pessoas/M/Maria%20Amorim.md)
+- [Mário Carvalho](../../Pessoas/M/M%C3%A1rio%20Carvalho.md)
 - [Paulo Cardoso](../../Pessoas/P/Paulo%20Cardoso.md)
+- [Rita Martins](../../Pessoas/R/Rita%20Martins.md)
 - [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md)
+- [Vasco Vasconcelos](../../Pessoas/V/Vasco%20Vasconcelos.md)
 - [Vicente Goes](../../Pessoas/V/Vicente%20Goes.md)
 
 ---

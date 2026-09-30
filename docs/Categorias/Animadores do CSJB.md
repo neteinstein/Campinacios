@@ -2,7 +2,7 @@
 
 Animadores do Colégio do Colégio São João de Brito
 
-## Páginas nesta categoria (177)
+## Páginas nesta categoria (178)
 
 - [Ana Martins](../Pessoas/A/Ana%20Martins.md)
 - [Ana Pais](../Pessoas/A/Ana%20Pais.md)
@@ -178,6 +178,7 @@ Animadores do Colégio do Colégio São João de Brito
 - [Teresa Fonseca](../Pessoas/T/Teresa%20Fonseca.md)
 - [Teresa Mendes](../Pessoas/T/Teresa%20Mendes.md)
 - [Tiago Figueira](../Pessoas/T/Tiago%20Figueira.md)
+- [Tiago Vilas Boas](../Pessoas/T/Tiago%20Vilas%20Boas.md)
 - [Tomás Silva](../Pessoas/T/Tom%C3%A1s%20Silva.md)
 - [Vasco Neves](../Pessoas/V/Vasco%20Neves.md)
 - [Vasco Romão](../Pessoas/V/Vasco%20Rom%C3%A3o.md)
