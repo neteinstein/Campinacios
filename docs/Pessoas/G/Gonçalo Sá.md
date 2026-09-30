@@ -2,6 +2,9 @@
 
 ### Acampamentos
 
+- **Participante:**
+    - 2015 [Mergulha](../../Acampamentos/2015/Mergulha.md)
+    - 2018 [Descola](../../Acampamentos/2018/Descola%20%282018%29.md)
 - **Animador(a):**
     - 2021 [Sinfonia](../../Acampamentos/2021/Sinfonia.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2022 [P'la Tua Mão](../../Acampamentos/2022/P%27la%20Tua%20M%C3%A3o.md) - [Director](../../Cargos/Director.md)

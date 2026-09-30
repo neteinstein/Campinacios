@@ -23,6 +23,7 @@
 - [Francisca Crujeira](Francisca%20Crujeira.md)
 - [Francisca Mendes](Francisca%20Mendes.md)
 - [Francisca Serrano](Francisca%20Serrano.md)
+- [Francisca Veloso](Francisca%20Veloso.md)
 - [Francisco Almeida (Kiko)](Francisco%20Almeida%20%28Kiko%29.md)
 - [Francisco Barroso](Francisco%20Barroso.md)
 - [Francisco Carneiro](Francisco%20Carneiro.md)
