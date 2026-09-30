@@ -30,6 +30,8 @@
 - [Du](Du.md)
 - [Duarte Dias](Duarte%20Dias.md)
 - [Duarte Nifo](Duarte%20Nifo.md)
+- [Duarte Pinto](Duarte%20Pinto.md)
+- [Duarte Ribeiro](Duarte%20Ribeiro.md)
 - [Duarte Rosado](Duarte%20Rosado.md)
 - [Duda](Duda.md)
 - [Dudu Ribeiro](Dudu%20Ribeiro.md)

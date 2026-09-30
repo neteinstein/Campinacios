@@ -2,9 +2,15 @@
 
 Encontros Nacionais e Encontros Nacionais de Animadores.
 
-- [Encontro de Lambretas 94](Encontro%20de%20Lambretas%2094.md)
 - [Encontro Nacional 2001 (Encontrão)](Encontro%20Nacional%202001%20%28Encontr%C3%A3o%29.md)
 - [Encontro Nacional 2010](Encontro%20Nacional%202010.md)
+- [Encontro Nacional 2019](Encontro%20Nacional%202019.md)
+- [Encontro Nacional 2020](Encontro%20Nacional%202020.md)
+- [Encontro Nacional 2021](Encontro%20Nacional%202021.md)
+- [Encontro Nacional 2022](Encontro%20Nacional%202022.md)
+- [Encontro Nacional 2023](Encontro%20Nacional%202023.md)
+- [Encontro Nacional 2024](Encontro%20Nacional%202024.md)
+- [Encontro Nacional 2025](Encontro%20Nacional%202025.md)
 - [Encontro Nacional 2026](Encontro%20Nacional%202026.md)
 - [Encontro Nacional de 1995](Encontro%20Nacional%20de%201995.md)
 - [Encontro Nacional de 1998](Encontro%20Nacional%20de%201998.md)
@@ -18,4 +24,5 @@ Encontros Nacionais e Encontros Nacionais de Animadores.
 - [Encontro Nacional de Animadores 2007](Encontro%20Nacional%20de%20Animadores%202007.md)
 - [Encontro Nacional de Animadores 2009](Encontro%20Nacional%20de%20Animadores%202009.md)
 - [Encontro Nacional de Animadores 2025](Encontro%20Nacional%20de%20Animadores%202025.md)
+- [Encontro de Lambretas 94](Encontro%20de%20Lambretas%2094.md)
 - [Fim-de-Semana de Espiritualidade e Encontro 2006](Fim-de-Semana%20de%20Espiritualidade%20e%20Encontro%202006.md)

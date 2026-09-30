@@ -36,6 +36,7 @@
 - [Pedro Rebordão](Pedro%20Rebord%C3%A3o.md)
 - [Pedro Rocha Mendes](Pedro%20Rocha%20Mendes.md)
 - [Pedro Rodrigues](Pedro%20Rodrigues.md)
+- [Pedro Rosa](Pedro%20Rosa.md)
 - [Pedro Santos](Pedro%20Santos.md)
 - [Pedro Snow](Pedro%20Snow.md)
 - [Pedro Turras](Pedro%20Turras.md)

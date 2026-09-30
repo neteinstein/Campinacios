@@ -17,6 +17,7 @@
 - [Gonçalo Sá](Gon%C3%A7alo%20S%C3%A1.md)
 - [Gonçalo Vaz Pedro](Gon%C3%A7alo%20Vaz%20Pedro.md)
 - [Guadalupe Oliveira](Guadalupe%20Oliveira.md)
+- [Guga](Guga.md)
 - [Guilherme Balhau](Guilherme%20Balhau.md)
 - [Guilherme Ribeiro](Guilherme%20Ribeiro.md)
 - [Gustavo Gapo](Gustavo%20Gapo.md)
