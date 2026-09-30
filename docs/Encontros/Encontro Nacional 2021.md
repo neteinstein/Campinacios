@@ -4,13 +4,13 @@ Por causa da pandemia de COVID-19, o Encontro Nacional 2021 realizou-se online, 
 
 ## Organização
 
-- **Organização**: [Mariana Cardal](../Pessoas/M/Mariana%20Cardal.md), [João Afonso Sousa](../Pessoas/J/Jo%C3%A3o%20Afonso%20Sousa.md) e [Miguel Melo Ribeiro](../Pessoas/M/Miguel%20Melo.md) (Migalha)
+- **Organização**: [Mariana Cardal](../Pessoas/M/Mariana%20Cardal.md), [João Afonso Sousa](../Pessoas/J/Jo%C3%A3o%20Afonso%20Sousa.md) e [Miguel Melo Ribeiro](../Pessoas/M/Miguel%20Melo%20Ribeiro.md) (Migalha)
 
 ## Páginas que ligam para aqui
 
 - [João Afonso Sousa](../Pessoas/J/Jo%C3%A3o%20Afonso%20Sousa.md)
 - [Mariana Cardal](../Pessoas/M/Mariana%20Cardal.md)
-- [Miguel Melo](../Pessoas/M/Miguel%20Melo.md)
+- [Miguel Melo Ribeiro](../Pessoas/M/Miguel%20Melo%20Ribeiro.md)
 
 ---
 

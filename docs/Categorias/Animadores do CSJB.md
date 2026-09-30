@@ -2,7 +2,7 @@
 
 Animadores do Colégio do Colégio São João de Brito
 
-## Páginas nesta categoria (178)
+## Páginas nesta categoria (179)
 
 - [Ana Martins](../Pessoas/A/Ana%20Martins.md)
 - [Ana Pais](../Pessoas/A/Ana%20Pais.md)
@@ -141,6 +141,7 @@ Animadores do Colégio do Colégio São João de Brito
 - [Matilde Pereira](../Pessoas/M/Matilde%20Pereira.md)
 - [Miguel Leite Martins](../Pessoas/M/Miguel%20Leite%20Martins.md)
 - [Miguel Martins Monteiro](../Pessoas/M/Miguel%20Martins%20Monteiro.md)
+- [Miguel Melo Ribeiro](../Pessoas/M/Miguel%20Melo%20Ribeiro.md)
 - [Natacha Soares](../Pessoas/N/Natacha%20Soares.md)
 - [Nuno Carrolo](../Pessoas/N/Nuno%20Carrolo.md)
 - [Nuno Miguel Antunes](../Pessoas/N/Nuno%20Miguel%20Antunes.md)

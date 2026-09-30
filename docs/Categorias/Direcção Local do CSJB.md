@@ -8,7 +8,7 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 
 | Ano | Coordenação | Assistente Local | Outros membros |
 | --- | --- | --- | --- |
-| **2026/2027** | [Matilde Pereira](../Pessoas/M/Matilde%20Pereira.md) (Matchi) | [Miguel Melo Ribeiro](../Pessoas/M/Miguel%20Melo.md) sj | [Miguel Teixeira](../Pessoas/M/Miguel%20Teixeira.md) (responsável pelo Material), [Joana Catalão](../Pessoas/J/Joana%20Catal%C3%A3o.md), [Luís Monteiro](../Pessoas/L/Lu%C3%ADs%20Monteiro.md) |
+| **2026/2027** | [Matilde Pereira](../Pessoas/M/Matilde%20Pereira.md) (Matchi) | [Miguel Melo Ribeiro](../Pessoas/M/Miguel%20Melo%20Ribeiro.md) sj | [Miguel Teixeira](../Pessoas/M/Miguel%20Teixeira.md) (responsável pelo Material), [Joana Catalão](../Pessoas/J/Joana%20Catal%C3%A3o.md), [Luís Monteiro](../Pessoas/L/Lu%C3%ADs%20Monteiro.md) |
 | **2025/2026** | [Margarida Tavares](../Pessoas/M/Margarida%20Tavares.md) (Mogui) | [Eduardo Amaral](../Pessoas/E/Eduardo%20Amaral.md) sj | [Miguel Teixeira](../Pessoas/M/Miguel%20Teixeira.md) (responsável pelo Material), [Matilde Pereira](../Pessoas/M/Matilde%20Pereira.md) (Matchi), [Lourenço Barjona](../Pessoas/L/Louren%C3%A7o%20Barjona.md) |
 | **2024/2025** | [Maria Solla](../Pessoas/M/Maria%20Solla.md) | [Eduardo Amaral](../Pessoas/E/Eduardo%20Amaral.md) sj | [Dinis Braga da Cruz](../Pessoas/D/Dinis%20Braga%20da%20Cruz.md) (responsável pelo Material), [Joana Rocha](../Pessoas/J/Joana%20Rocha.md), [Lourenço Barjona](../Pessoas/L/Louren%C3%A7o%20Barjona.md) |
 | **2023/2024** | [António Neves](../Pessoas/A/Ant%C3%B3nio%20Neves.md) | [Filipe Lima](../Pessoas/F/Filipe%20Lima.md) sj | [Sofia Ângelo](../Pessoas/S/Sofia%20%C3%82ngelo.md), [André Teixeira](../Pessoas/A/Andr%C3%A9%20Teixeira.md), [Joana Rocha](../Pessoas/J/Joana%20Rocha.md) |
@@ -97,7 +97,7 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [Martinho Lucas Pires](../Pessoas/M/Martinho%20Lucas%20Pires.md)
 - [Matilde Pereira](../Pessoas/M/Matilde%20Pereira.md)
 - [Miguel Leite Martins](../Pessoas/M/Miguel%20Leite%20Martins.md)
-- [Miguel Melo](../Pessoas/M/Miguel%20Melo.md)
+- [Miguel Melo Ribeiro](../Pessoas/M/Miguel%20Melo%20Ribeiro.md)
 - [Miguel Monteiro Martins](../Pessoas/M/Miguel%20Monteiro%20Martins.md)
 - [Miguel Teixeira](../Pessoas/M/Miguel%20Teixeira.md)
 - [Pedro Mendonça](../Pessoas/P/Pedro%20Mendon%C3%A7a.md)
@@ -156,7 +156,7 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [Maria José Peres](../Pessoas/M/Maria%20Jos%C3%A9%20Peres.md)
 - [Martinho Lucas Pires](../Pessoas/M/Martinho%20Lucas%20Pires.md)
 - [Miguel Leite Martins](../Pessoas/M/Miguel%20Leite%20Martins.md)
-- [Miguel Melo](../Pessoas/M/Miguel%20Melo.md)
+- [Miguel Melo Ribeiro](../Pessoas/M/Miguel%20Melo%20Ribeiro.md)
 - [Miguel Monteiro Martins](../Pessoas/M/Miguel%20Monteiro%20Martins.md)
 - [Miguel Teixeira](../Pessoas/M/Miguel%20Teixeira.md)
 - [Pedro Mendonça](../Pessoas/P/Pedro%20Mendon%C3%A7a.md)

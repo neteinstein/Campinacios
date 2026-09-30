@@ -9,7 +9,7 @@ Animadores dos Campinácios
 - [Animadores do CSJB](Animadores%20do%20CSJB.md)
 - [Jesuítas](Jesu%C3%ADtas.md)
 
-## Páginas nesta categoria (717)
+## Páginas nesta categoria (718)
 
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Afonso Barrocas](../Pessoas/A/Afonso%20Barrocas.md)
@@ -533,6 +533,7 @@ Animadores dos Campinácios
 - [Miguel Machado](../Pessoas/M/Miguel%20Machado.md)
 - [Miguel Martins Monteiro](../Pessoas/M/Miguel%20Martins%20Monteiro.md)
 - [Miguel Melo](../Pessoas/M/Miguel%20Melo.md)
+- [Miguel Melo Ribeiro](../Pessoas/M/Miguel%20Melo%20Ribeiro.md)
 - [Miguel Monteiro](../Pessoas/M/Miguel%20Monteiro.md)
 - [Miguel Monteiro Martins](../Pessoas/M/Miguel%20Monteiro%20Martins.md)
 - [Miguel Moraes](../Pessoas/M/Miguel%20Moraes.md)

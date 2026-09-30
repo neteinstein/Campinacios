@@ -33,6 +33,7 @@
 - [Maior Evento de Sempre em Portugal, Maior Até que a Mega Feijoada da Ponte Vasco da Gama](../Acampamentos/2023/Maior%20Evento%20de%20Sempre%20em%20Portugal%2C%20Maior%20At%C3%A9%20que%20a%20Mega%20Feijoada%20da%20Ponte%20Vasco%20da%20Gama.md)
 - [Marcelo Vieira](../Pessoas/M/Marcelo%20Vieira.md)
 - [Mário Carvalho](../Pessoas/M/M%C3%A1rio%20Carvalho.md)
+- [Miguel Melo Ribeiro](../Pessoas/M/Miguel%20Melo%20Ribeiro.md)
 - [Oh Pai, Keshumo](../Acampamentos/2026/Oh%20Pai%2C%20Keshumo.md)
 - [Olha, Isto Aqui é uma Estátua](../Acampamentos/2011/Olha%2C%20Isto%20Aqui%20%C3%A9%20uma%20Est%C3%A1tua.md)
 - [Pó que Voo](../Acampamentos/2023/P%C3%B3%20que%20Voo.md)

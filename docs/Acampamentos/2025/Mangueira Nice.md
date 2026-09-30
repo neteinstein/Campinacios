@@ -12,8 +12,11 @@
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - Manuel Vasconcelos (Manas), Maria Dias Rodrigues, Guilherme Byrne, Beatriz Miguel
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Eduardo Amaral](../../Pessoas/E/Eduardo%20Amaral.md) sj
 
+O hino deste campo está no [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#mangueira-nice).
+
 ## Páginas que ligam para aqui
 
+- [Cantinácio: Campinácios](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md)
 - [Daniela Gonçalves](../../Pessoas/D/Daniela%20Gon%C3%A7alves.md)
 - [Eduardo Amaral](../../Pessoas/E/Eduardo%20Amaral.md)
 - [Gonçalo Aguiar](../../Pessoas/G/Gon%C3%A7alo%20Aguiar.md)
