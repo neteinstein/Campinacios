@@ -7,6 +7,7 @@
     - 2006 [Xii Tava Kuase Lá...!](../../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2008 [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md) - [Capelinho](../../Cargos/Capelinho.md)
     - 2009 [Bublix](../../Acampamentos/2009/Bublix.md) - [Capelinho](../../Cargos/Capelinho.md)
+    - 2021 [E a Glória Adensa-se](../../Acampamentos/2021/E%20a%20Gl%C3%B3ria%20Adensa-se.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2021 [Vesp'á Luz](../../Acampamentos/2021/Vesp%27%C3%A1%20Luz.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2026 [Ca Ganda Tanga](../../Acampamentos/2026/Ca%20Ganda%20Tanga.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
@@ -20,6 +21,7 @@
 - [Bublix](../../Acampamentos/2009/Bublix.md)
 - [Ca Ganda Tanga](../../Acampamentos/2026/Ca%20Ganda%20Tanga.md)
 - [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
+- [E a Glória Adensa-se](../../Acampamentos/2021/E%20a%20Gl%C3%B3ria%20Adensa-se.md)
 - [Encontro Nacional 2019](../../Encontros/Encontro%20Nacional%202019.md)
 - [Encontro Nacional 2021](../../Encontros/Encontro%20Nacional%202021.md)
 - [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md)
