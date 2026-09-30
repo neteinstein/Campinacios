@@ -8,7 +8,7 @@ Um novo Cantinácio foi lançado após anos e anos de tentativas, as músicas ab
 
 - [Cânticos](Cantin%C3%A1cio/C%C3%A2nticos.md) — 214 cânticos para as eucaristias e orações
 - [Camtil](Cantin%C3%A1cio/Camtil.md) — 70 músicas nascidas nos acampamentos
-- [Campinácios](Cantin%C3%A1cio/Campin%C3%A1cios.md) — 14 músicas nascidas nos acampamentos
+- [Campinácios](Cantin%C3%A1cio/Campin%C3%A1cios.md) — 15 músicas nascidas nos acampamentos
 - [Gambozinos](Cantin%C3%A1cio/Gambozinos.md) — 1 música nascida nos acampamentos
 - [Portuguesas](Cantin%C3%A1cio/Portuguesas.md) — 143 músicas portuguesas
 - [Estrangeiras](Cantin%C3%A1cio/Estrangeiras.md) — 186 músicas estrangeiras
