@@ -86,7 +86,8 @@ And the rest of the year and cross-references:
 - `docs/Todos os artigos.md`: the camp under its letter, and 1 more in the
   "N artigos" count; the home page `docs/index.md` count (`**[N artigos]**`)
   too.
-- Optionally `docs/assets/graph.json`: a node for the camp and its links.
+- `docs/assets/graph.json` (o grafo): não se edita à mão; depois de mexer em
+  páginas ou ligações, corra `python3 scripts/actualizar_grafo.py`.
 
 For a rename, move or deletion, update the same places the other way round.
 
