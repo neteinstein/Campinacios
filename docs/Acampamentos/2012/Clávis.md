@@ -9,6 +9,7 @@
 ## Páginas que ligam para aqui
 
 - [José Pascoal](../../Pessoas/J/Jos%C3%A9%20Pascoal.md)
+- [Leonor Banha da Silva](../../Pessoas/L/Leonor%20Banha%20da%20Silva.md)
 
 ---
 

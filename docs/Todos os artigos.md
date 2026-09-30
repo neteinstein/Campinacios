@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1170 artigos e, em itálico, os 165 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1171 artigos e, em itálico, os 166 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -762,6 +762,7 @@
 - [Legislação](Movimento/Legisla%C3%A7%C3%A3o.md)
 - [Lembras-te?](Acampamentos/2009/Lembras-te.md)
 - [Leonardo Carvalho](Pessoas/L/Leonardo%20Carvalho.md)
+- [Leonor Banha da Silva](Pessoas/L/Leonor%20Banha%20da%20Silva.md)
 - [Leonor Cardoso](Pessoas/L/Leonor%20Cardoso.md)
 - [Leonor Simões](Pessoas/L/Leonor%20Sim%C3%B5es.md)
 - [Leonor Vala](Pessoas/L/Leonor%20Vala.md)
@@ -770,6 +771,7 @@
 - [Lídia Couto](Pessoas/L/L%C3%ADdia%20Couto.md)
 - [Lígia Encarnação](Pessoas/L/L%C3%ADgia%20Encarna%C3%A7%C3%A3o.md)
 - [Lília Santos](Pessoas/L/L%C3%ADlia%20Santos.md)
+- *Licas* → [Leonor Banha da Silva](Pessoas/L/Leonor%20Banha%20da%20Silva.md)
 - [Liliana](Pessoas/L/Liliana.md)
 - [Limpo Pó](Acampamentos/2022/Limpo%20P%C3%B3.md)
 - [Limpopolus](Acampamentos/2012/Limpopolus.md)

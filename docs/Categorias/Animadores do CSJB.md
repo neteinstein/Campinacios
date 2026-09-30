@@ -2,7 +2,7 @@
 
 Animadores do Colégio do Colégio São João de Brito
 
-## Páginas nesta categoria (176)
+## Páginas nesta categoria (177)
 
 - [Ana Martins](../Pessoas/A/Ana%20Martins.md)
 - [Ana Pais](../Pessoas/A/Ana%20Pais.md)
@@ -91,6 +91,7 @@ Animadores do Colégio do Colégio São João de Brito
 - [João de Almeida Graça](../Pessoas/J/Jo%C3%A3o%20de%20Almeida%20Gra%C3%A7a.md)
 - [Lara Fernandes](../Pessoas/L/Lara%20Fernandes.md)
 - [Leonardo Carvalho](../Pessoas/L/Leonardo%20Carvalho.md)
+- [Leonor Banha da Silva](../Pessoas/L/Leonor%20Banha%20da%20Silva.md)
 - [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
 - [Luis Pereira](../Pessoas/L/Luis%20Pereira.md)
 - [Luís Godinho](../Pessoas/L/Lu%C3%ADs%20Godinho.md)
