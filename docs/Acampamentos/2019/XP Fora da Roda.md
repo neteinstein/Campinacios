@@ -5,9 +5,11 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Pedro Amado](../../Pessoas/P/Pedro%20Amado.md)
+- [Leonor Banha da Silva](../../Pessoas/L/Leonor%20Banha%20da%20Silva.md)
 
 ## Páginas que ligam para aqui
 
+- [Leonor Banha da Silva](../../Pessoas/L/Leonor%20Banha%20da%20Silva.md)
 - [Pedro Amado](../../Pessoas/P/Pedro%20Amado.md)
 
 ---

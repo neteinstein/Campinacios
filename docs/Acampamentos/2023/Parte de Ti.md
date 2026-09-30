@@ -9,12 +9,14 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Tigas](../../Pessoas/T/Tigas.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [António Pamplona](../../Pessoas/A/Ant%C3%B3nio%20Pamplona.md) sj
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md)
+- [Leonor Banha da Silva](../../Pessoas/L/Leonor%20Banha%20da%20Silva.md)
 
 ## Páginas que ligam para aqui
 
 - [António Pamplona](../../Pessoas/A/Ant%C3%B3nio%20Pamplona.md)
 - [Isabel Fonseca](../../Pessoas/I/Isabel%20Fonseca.md)
 - [Janine](../../Pessoas/J/Janine.md)
+- [Leonor Banha da Silva](../../Pessoas/L/Leonor%20Banha%20da%20Silva.md)
 - [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md)
 - [Tigas](../../Pessoas/T/Tigas.md)
 

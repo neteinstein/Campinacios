@@ -10,6 +10,7 @@
 ## Páginas que ligam para aqui
 
 - [Francisca Veloso](../../Pessoas/F/Francisca%20Veloso.md)
+- [Leonor Banha da Silva](../../Pessoas/L/Leonor%20Banha%20da%20Silva.md)
 - [Madalena Líbano Monteiro](../../Pessoas/M/Madalena%20L%C3%ADbano%20Monteiro.md)
 - [Maria Pinheiro Machado](../../Pessoas/M/Maria%20Pinheiro%20Machado.md)
 - [Pedro Santos](../../Pessoas/P/Pedro%20Santos.md)
