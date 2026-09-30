@@ -2,7 +2,7 @@
 
 Animadores do Colégio da Imaculada Conceição
 
-## Páginas nesta categoria (108)
+## Páginas nesta categoria (109)
 
 - [Alexandra Silva](../Pessoas/A/Alexandra%20Silva.md)
 - [Ana Carolina Santos](../Pessoas/A/Ana%20Carolina%20Santos.md)
@@ -28,6 +28,7 @@ Animadores do Colégio da Imaculada Conceição
 - [Diana Duarte](../Pessoas/D/Diana%20Duarte.md)
 - [Diana Gapo](../Pessoas/D/Diana%20Gapo.md)
 - [Diogo Reis](../Pessoas/D/Diogo%20Reis.md)
+- [Francisca Veloso](../Pessoas/F/Francisca%20Veloso.md)
 - [Fábio Simões](../Pessoas/F/F%C3%A1bio%20Sim%C3%B5es.md)
 - [Fátima Paulino](../Pessoas/F/F%C3%A1tima%20Paulino.md)
 - [Fernando Navarro](../Pessoas/F/Fernando%20Navarro.md)

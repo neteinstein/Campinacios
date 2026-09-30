@@ -20,6 +20,7 @@
 - [Carmo Ribeiro Corrêa](Carmo%20Ribeiro%20Corr%C3%AAa.md)
 - [Carolina Carvalho](Carolina%20Carvalho.md)
 - [Carolina Oliveira](Carolina%20Oliveira.md)
+- [Carolina Picciochi](Carolina%20Picciochi.md)
 - [Carolina Silva](Carolina%20Silva.md)
 - [Catarina Alves](Catarina%20Alves.md)
 - [Catarina Durão Barroso](Catarina%20Dur%C3%A3o%20Barroso.md)

@@ -14,6 +14,12 @@
 ## Páginas que ligam para aqui
 
 - [98 Covas](../Acampamentos/1998/98%20Covas.md)
+- [Carolina Picciochi](../Pessoas/C/Carolina%20Picciochi.md)
+- [Descola (2018)](../Acampamentos/2018/Descola%20%282018%29.md)
+- [Em Frente À'Fera](../Acampamentos/2025/Em%20Frente%20%C3%80%27Fera.md)
+- [Francisca Veloso](../Pessoas/F/Francisca%20Veloso.md)
+- [Joca](../Pessoas/J/Joca.md)
+- [Rita Sousa](../Pessoas/R/Rita%20Sousa.md)
 - [À Grande e à Francesa](../Acampamentos/2022/%C3%80%20Grande%20e%20%C3%A0%20Francesa.md)
 - [Academia](../Acampamentos/2005/Academia.md)
 - [Agroal](../Acampamentos/1992/Agroal.md)

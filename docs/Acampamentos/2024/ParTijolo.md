@@ -4,7 +4,7 @@
 
 ### Animadores
 
-- [Director](../../Cargos/Director.md) - [Tita](../../Pessoas/T/Tita.md)
+- [Director](../../Cargos/Director.md) - [Francisca Veloso](../../Pessoas/F/Francisca%20Veloso.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Sofia Ângelo](../../Pessoas/S/Sofia%20%C3%82ngelo.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Johnny Sousa](../../Pessoas/J/Johnny%20Sousa.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Miranda](../../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md) sj
@@ -14,7 +14,7 @@
 - [Johnny Sousa](../../Pessoas/J/Johnny%20Sousa.md)
 - [José Carlos Miranda](../../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md)
 - [Sofia Ângelo](../../Pessoas/S/Sofia%20%C3%82ngelo.md)
-- [Tita](../../Pessoas/T/Tita.md)
+- [Francisca Veloso](../../Pessoas/F/Francisca%20Veloso.md)
 
 ---
 

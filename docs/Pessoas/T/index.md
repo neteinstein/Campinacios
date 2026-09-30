@@ -24,7 +24,6 @@
 - [TiaGO Reis](TiaGO%20Reis.md)
 - [Tiago Vidal](Tiago%20Vidal.md)
 - [Tigas](Tigas.md)
-- [Tita](Tita.md)
 - [Tomás Costa](Tom%C3%A1s%20Costa.md)
 - [Tomás Cunha Ferreira](Tom%C3%A1s%20Cunha%20Ferreira.md)
 - [Tomás Ribeiro](Tom%C3%A1s%20Ribeiro.md)
