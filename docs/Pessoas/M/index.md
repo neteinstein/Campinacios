@@ -49,6 +49,7 @@
 - [Maria Cortês Ferreira](Maria%20Cort%C3%AAs%20Ferreira.md)
 - [Maria Cristina Leal](Maria%20Cristina%20Leal.md)
 - [Maria Cristina Sousa Costa](Maria%20Cristina%20Sousa%20Costa.md)
+- [Maria Pinheiro Machado](Maria%20Pinheiro%20Machado.md)
 - [Maria da Glória Valle](Maria%20da%20Gl%C3%B3ria%20Valle.md)
 - [Maria do Carmo Cunha e Carmo](Maria%20do%20Carmo%20Cunha%20e%20Carmo.md)
 - [Maria Dória](Maria%20D%C3%B3ria.md)

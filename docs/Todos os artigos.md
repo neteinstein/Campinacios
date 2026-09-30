@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1149 artigos e, em itálico, os 154 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1151 artigos e, em itálico, os 156 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -218,6 +218,7 @@
 - [Capelinho](Cargos/Capelinho.md)
 - [Carlos Pereira da Silva](Pessoas/C/Carlos%20Pereira%20da%20Silva.md)
 - *Carmo Cunha e Carmo* → [Maria do Carmo Cunha e Carmo](Pessoas/M/Maria%20do%20Carmo%20Cunha%20e%20Carmo.md)
+- [Carolina Picciochi](Pessoas/C/Carolina%20Picciochi.md)
 - [Catarina Godinho](Pessoas/C/Catarina%20Godinho.md)
 - [Catarina Meireles](Pessoas/C/Catarina%20Meireles.md)
 - [Cátia Silva](Pessoas/C/C%C3%A1tia%20Silva.md)
@@ -835,6 +836,7 @@
 - [Manuel Sérvulo Rodrigues](Pessoas/M/Manuel%20S%C3%A9rvulo%20Rodrigues.md)
 - [Manuel Silva](Pessoas/M/Manuel%20Silva.md)
 - [Manuel Vilhena](Pessoas/M/Manuel%20Vilhena.md)
+- [Maria Pinheiro Machado](Pessoas/M/Maria%20Pinheiro%20Machado.md)
 - [Mãos à Obra](Acampamentos/2014/M%C3%A3os%20%C3%A0%20Obra.md)
 - [Maravilha-te](Acampamentos/2018/Maravilha-te.md)
 - *Marga Faria* → [Margarida Faria](Pessoas/M/Margarida%20Faria.md)
@@ -992,6 +994,7 @@
 - [Paim](Acampamentos/1999/Paim.md)
 - [PaKasaDele](Acampamentos/2010/PaKasaDele.md)
 - [Panão](Pessoas/P/Pan%C3%A3o.md)
+- *Pitxi* → [Carolina Picciochi](Pessoas/C/Carolina%20Picciochi.md)
 - [PáquiPáli](Acampamentos/2016/P%C3%A1quiP%C3%A1li.md)
 - [Parada](Acampamentos/1995/Parada.md)
 - [Parte de Ti](Acampamentos/2023/Parte%20de%20Ti.md)
@@ -1289,7 +1292,7 @@
 - [Tio](Cargos/Tio.md)
 - *Tios* → [Tio](Cargos/Tio.md)
 - [Tira as rodinhas](Acampamentos/2009/Tira%20as%20rodinhas.md)
-- [Tita](Pessoas/T/Tita.md)
+- *Tita* → [Francisca Veloso](Pessoas/F/Francisca%20Veloso.md)
 - [Tiw-y-moy](Acampamentos/1998/Tiw-y-moy.md)
 - *Tojú* → [António Júlio Trigueiros](Pessoas/A/Ant%C3%B3nio%20J%C3%BAlio%20Trigueiros.md)
 - [Tomás Costa](Pessoas/T/Tom%C3%A1s%20Costa.md)

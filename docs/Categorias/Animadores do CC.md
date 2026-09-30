@@ -2,7 +2,7 @@
 
 Animadores do Colégio das Caldinhas
 
-## Páginas nesta categoria (154)
+## Páginas nesta categoria (155)
 
 - [Amílcar Sousa](../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
 - [Ana Carolina Bardi](../Pessoas/A/Ana%20Carolina%20Bardi.md)
@@ -106,6 +106,7 @@ Animadores do Colégio das Caldinhas
 - [Manuel Matos](../Pessoas/M/Manuel%20Matos.md)
 - [Manuel Silva](../Pessoas/M/Manuel%20Silva.md)
 - [Maria Cortês Ferreira](../Pessoas/M/Maria%20Cort%C3%AAs%20Ferreira.md)
+- [Maria Pinheiro Machado](../Pessoas/M/Maria%20Pinheiro%20Machado.md)
 - [Maria do Carmo Cunha e Carmo](../Pessoas/M/Maria%20do%20Carmo%20Cunha%20e%20Carmo.md)
 - [Mariana Cardoso](../Pessoas/M/Mariana%20Cardoso.md)
 - [Mário Carvalho](../Pessoas/M/M%C3%A1rio%20Carvalho.md)
