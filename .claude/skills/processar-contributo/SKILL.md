@@ -67,6 +67,15 @@ maioria crianças.
   (Director, Director-Adjunto, Mamã, Tio/Tia, Capelão, Capelinho, Animador
   de Equipa, Animador Livre) — nunca abreviar um cargo ("Adjunto",
   "Livre") ao escrevê-lo numa página.
+- **Músicas** (hino, genérico da novela, qualquer letra que venha num
+  contributo de campo): nunca ficam na página do campo. Entram em
+  `docs/Movimento/Cantinácio/Campinácios.md` — no `## Índice`, por ordem
+  alfabética e com a contagem actualizada, e em `## Músicas` como
+  `### TÍTULO {#ancora}`, uma linha `*Hino do Campo [Nome](…) (ano)*` e a
+  letra num bloco ```` ```text ````; somar também 1 às contagens de
+  `docs/Movimento/Cantinácio.md`. A página do campo fica só com uma
+  ligação ("O hino deste campo está no [Cantinácio](…#ancora).") e ganha
+  "Cantinácio: Campinácios" em "Páginas que ligam para aqui".
 - **Pessoa**: seguir a skill `nova-pessoa`. As linhas de campos ligam os
   campos que existem; os que não estão no wiki ficam em texto ("2003
   Farol"), a não ser que o utilizador peça para os criar.

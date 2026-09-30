@@ -19,43 +19,14 @@
 
 ## Hino
 
-> Dornelas é linda, mas doem-me as costas<br>
-> Cheiro mal, estou a tostar,<br>
-> Soubesse eu que era para ser tosta,<br>
-> Ficava em casa a descansar.
->
-> Foram convites e promessas<br>
-> Que seria aceitar<br>
-> Mergulhámos nossas cabeças<br>
-> Lá nos deixámos baptizar
->
-> *[Refrão]*<br>
-> Sabias que<br>
-> O seguro não paga<br>
-> Não quero ser fada (x3)<br>
-> Do lar<br>
-> Vem e verás<br>
-> Acorda lambreta mandrião<br>
-> Chofre não sejas, é bom que vejas,<br>
-> Descola, é a tua missão
->
-> Mamã atrasada, tia esgalhada,<br>
-> É uma viagem de foguetão,<br>
-> Apanhar-te-ei oh preciosa<br>
-> Chegámos até a fazer pão
->
-> Oh malta agora oiçam todos<br>
-> Em dois minutos vou apitar<br>
-> O rio são pedras, não é lodo<br>
-> A glice não sabe nadar, yo (x4)
->
-> *[Refrão]*
+O hino deste campo está no [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#descola).
 
 Perdi o jogo.
 
 ## Páginas que ligam para aqui
 
 - [Alexandre Alípio](../../Pessoas/A/Alexandre%20Al%C3%ADpio.md)
+- [Cantinácio: Campinácios](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md)
 - [Carolina Picciochi](../../Pessoas/C/Carolina%20Picciochi.md)
 - [Descola](../2004/Descola.md)
 - [Domingos Perloiro](../../Pessoas/D/Domingos%20Perloiro.md)

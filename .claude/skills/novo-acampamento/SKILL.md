@@ -22,6 +22,10 @@ só tem a equipa de animação: entram só na página de cada participante que j
 a tem (`nova-pessoa`). Don't invent what isn't given; a one-line intro
 ("O X foi um acampamento de [Bicicletas](...) realizado em 2012.") is fine.
 
+As letras de músicas (hino, genérico da novela…) nunca ficam na página do
+campo: vão para `docs/Movimento/Cantinácio/Campinácios.md` e o campo liga
+para lá (ver a skill `processar-contributo`, "Músicas").
+
 Look up each person with the `nova-pessoa` skill
 (`.claude/skills/nova-pessoa/scripts/pessoas.py procurar "Nome"`), which
 finds the same or similar names in pages, nicknames and other camps, and
