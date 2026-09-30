@@ -5,7 +5,7 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [António Neves](../../Pessoas/A/Ant%C3%B3nio%20Neves.md)
-- [Mamã](../../Cargos/Mam%C3%A3.md) - [Mogui](../../Pessoas/M/Mogui.md)
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [Margarida Tavares](../../Pessoas/M/Margarida%20Tavares.md) (Mogui)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Rodrigo Calçarão](../../Pessoas/R/Rodrigo%20Cal%C3%A7ar%C3%A3o.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Diogo Gaspar](../../Pessoas/D/Diogo%20Gaspar.md) sj
 
@@ -13,7 +13,7 @@
 
 - [António Neves](../../Pessoas/A/Ant%C3%B3nio%20Neves.md)
 - [Diogo Gaspar](../../Pessoas/D/Diogo%20Gaspar.md)
-- [Mogui](../../Pessoas/M/Mogui.md)
+- [Margarida Tavares](../../Pessoas/M/Margarida%20Tavares.md)
 - [Rodrigo Calçarão](../../Pessoas/R/Rodrigo%20Cal%C3%A7ar%C3%A3o.md)
 
 ---

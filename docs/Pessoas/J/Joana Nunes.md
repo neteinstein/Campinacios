@@ -1,5 +1,7 @@
 # Joana Nunes
 
+*Nota: Este artigo é sobre Joana Nunes, animadora de 1999 a 2004. Se procura Joana Antunes (Jocas), da organização do Encontro Nacional 2023, consulte [Joana Antunes](Joana%20Antunes.md).*
+
 ### Acampamentos
 
 - **Animadora**
