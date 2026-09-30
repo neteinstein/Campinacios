@@ -9,12 +9,14 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Tigas](../../Pessoas/T/Tigas.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Vasco Teixeira](../../Pessoas/V/Vasco%20Teixeira.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Duarte Rosado](../../Pessoas/D/Duarte%20Rosado.md) sj
+- [Leonor Banha da Silva](../../Pessoas/L/Leonor%20Banha%20da%20Silva.md)
 
 ## Páginas que ligam para aqui
 
 - [Duarte Rosado](../../Pessoas/D/Duarte%20Rosado.md)
 - [Fernando Bacelar](../../Pessoas/F/Fernando%20Bacelar.md)
 - [Janine](../../Pessoas/J/Janine.md)
+- [Leonor Banha da Silva](../../Pessoas/L/Leonor%20Banha%20da%20Silva.md)
 - [Tigas](../../Pessoas/T/Tigas.md)
 - [Vasco Teixeira](../../Pessoas/V/Vasco%20Teixeira.md)
 
