@@ -8,7 +8,7 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Rita Ângelo](../../Pessoas/R/Rita%20%C3%82ngelo.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Nando Monteiro](../../Pessoas/F/Fernando%20Monteiro.md)
 - [Tia](../../Cargos/Tio.md) - Mariana Ramalho, Laura Barra
-- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Manuel Cruz, Francisca Neves, Matilde Silva, Francisco Melo, Tiago Azevedo, Vicente Neto
+- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Manuel Cruz, Francisca Neves, [Matilde Silva](../../Pessoas/M/Matilde%20Silva.md), Francisco Melo, Tiago Azevedo, Vicente Neto
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - Manuel Vassalo, Filipa Gouveia, Rui Duarte, Zé Guedes
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [António Pamplona](../../Pessoas/A/Ant%C3%B3nio%20Pamplona.md) sj
 
@@ -17,6 +17,7 @@
 - [Afonso Carvalho](../../Pessoas/A/Afonso%20Carvalho.md)
 - [António Pamplona](../../Pessoas/A/Ant%C3%B3nio%20Pamplona.md)
 - [Fernando Monteiro](../../Pessoas/F/Fernando%20Monteiro.md)
+- [Matilde Silva](../../Pessoas/M/Matilde%20Silva.md)
 - [Rita Ângelo](../../Pessoas/R/Rita%20%C3%82ngelo.md)
 
 ---

@@ -4,7 +4,7 @@
 
 ### Animadores
 
-- [Director](../../Cargos/Director.md) - [Tita](../../Pessoas/T/Tita.md)
+- [Director](../../Cargos/Director.md) - [Francisca Veloso](../../Pessoas/F/Francisca%20Veloso.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Rafa Mano](../../Pessoas/R/Rafa%20Mano.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Manuel Costa](../../Pessoas/M/Manuel%20Costa.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [António Pamplona](../../Pessoas/A/Ant%C3%B3nio%20Pamplona.md) sj
@@ -14,7 +14,7 @@
 - [António Pamplona](../../Pessoas/A/Ant%C3%B3nio%20Pamplona.md)
 - [Manuel Costa](../../Pessoas/M/Manuel%20Costa.md)
 - [Rafa Mano](../../Pessoas/R/Rafa%20Mano.md)
-- [Tita](../../Pessoas/T/Tita.md)
+- [Francisca Veloso](../../Pessoas/F/Francisca%20Veloso.md)
 
 ---
 

@@ -5,20 +5,22 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Lourenço Beato](../../Pessoas/L/Louren%C3%A7o%20Beato.md)
-- [Mamã](../../Cargos/Mam%C3%A3.md) - [Malú](../../Pessoas/M/Mal%C3%BA.md)
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [Maria Silva](../../Pessoas/M/Maria%20Silva.md) (Malú)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Heitor Rosa](../../Pessoas/H/Heitor%20Rosa.md)
 - [Tia](../../Cargos/Tio.md) - Ariana Couto, Luísa Faria (Lu)
-- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Maria Carvalho, [Gonçalo Aguiar](../../Pessoas/G/Gon%C3%A7alo%20Aguiar.md) (Agui), Bruna Honório, Daniela Gonçalves, Beatriz Oliveira, Inês Ferreira
+- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Maria Carvalho](../../Pessoas/M/Maria%20Carvalho.md), [Gonçalo Aguiar](../../Pessoas/G/Gon%C3%A7alo%20Aguiar.md) (Agui), Bruna Honório, [Daniela Gonçalves](../../Pessoas/D/Daniela%20Gon%C3%A7alves.md), Beatriz Oliveira, Inês Ferreira
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - Manuel Vasconcelos (Manas), Maria Dias Rodrigues, Guilherme Byrne, Beatriz Miguel
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Eduardo Amaral](../../Pessoas/E/Eduardo%20Amaral.md) sj
 
 ## Páginas que ligam para aqui
 
+- [Daniela Gonçalves](../../Pessoas/D/Daniela%20Gon%C3%A7alves.md)
 - [Eduardo Amaral](../../Pessoas/E/Eduardo%20Amaral.md)
 - [Gonçalo Aguiar](../../Pessoas/G/Gon%C3%A7alo%20Aguiar.md)
 - [Heitor Rosa](../../Pessoas/H/Heitor%20Rosa.md)
 - [Lourenço Beato](../../Pessoas/L/Louren%C3%A7o%20Beato.md)
-- [Malú](../../Pessoas/M/Mal%C3%BA.md)
+- [Maria Carvalho](../../Pessoas/M/Maria%20Carvalho.md)
+- [Maria Silva](../../Pessoas/M/Maria%20Silva.md)
 
 ---
 

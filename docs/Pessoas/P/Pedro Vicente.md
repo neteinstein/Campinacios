@@ -37,7 +37,7 @@ Frequentou o [CAIC](../../Movimento/CAIC.md) de 1995 a 2003. Animador de 2003 at
 
 ### Campinacios.org
 
-É o gestor da página dos Campinácios desde 2005, recebida do [Diogo Costa](../D/Diogo%20Costa.md) (ver [Online](../../Movimento/Online.md#pagina-original)), iniciando em 2009 a [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)!
+Foi o gestor da página dos Campinácios desde 2005, recebida do [Diogo Costa](../D/Diogo%20Costa.md) (ver [Online](../../Movimento/Online.md#pagina-original)), iniciando em 2009 a [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md) até 2010.
 
 ### Testemunho
 

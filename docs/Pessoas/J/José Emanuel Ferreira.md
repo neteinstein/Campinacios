@@ -12,8 +12,13 @@
 - **Animador:**
     - 2009 [Vi-O](../../Acampamentos/2009/Vi-O.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
+### Encontros
+
+- 2019 [Encontro Nacional 2019](../../Encontros/Encontro%20Nacional%202019.md) - Director-Adjunto
+
 ## Páginas que ligam para aqui
 
+- [Encontro Nacional 2019](../../Encontros/Encontro%20Nacional%202019.md)
 - [José Ferreira](../../Movimento/Desambigua%C3%A7%C3%A3o/Jos%C3%A9%20Ferreira.md)
 - [Vi-O](../../Acampamentos/2009/Vi-O.md)
 

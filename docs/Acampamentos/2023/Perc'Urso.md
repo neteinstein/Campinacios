@@ -5,14 +5,14 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Paula Gonçalves](../../Pessoas/P/Paula%20Gon%C3%A7alves.md)
-- [Mamã](../../Cargos/Mam%C3%A3.md) - [Malú](../../Pessoas/M/Mal%C3%BA.md)
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [Maria Silva](../../Pessoas/M/Maria%20Silva.md) (Malú)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Francisco Ilhão](../../Pessoas/F/Francisco%20Ilh%C3%A3o.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Vasco Teixeira](../../Pessoas/V/Vasco%20Teixeira.md) sj
 
 ## Páginas que ligam para aqui
 
 - [Francisco Ilhão](../../Pessoas/F/Francisco%20Ilh%C3%A3o.md)
-- [Malú](../../Pessoas/M/Mal%C3%BA.md)
+- [Maria Silva](../../Pessoas/M/Maria%20Silva.md)
 - [Paula Gonçalves](../../Pessoas/P/Paula%20Gon%C3%A7alves.md)
 - [Vasco Teixeira](../../Pessoas/V/Vasco%20Teixeira.md)
 

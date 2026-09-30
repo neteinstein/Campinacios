@@ -6,8 +6,18 @@
 
 - 2024/2025 Delegada SPC da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 
+### Acampamentos
+
+- **Animador(a):**
+    - 2019 [XP Fora da Roda](../../Acampamentos/2019/XP%20Fora%20da%20Roda.md)
+
+## Páginas que ligam para aqui
+
+- [XP Fora da Roda](../../Acampamentos/2019/XP%20Fora%20da%20Roda.md)
+
 ---
 
 | Categorias |
 | --- |
+| [Animadores](../../Categorias/Animadores.md) |
 | [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |

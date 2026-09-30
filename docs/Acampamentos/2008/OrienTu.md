@@ -1,8 +1,19 @@
 # OrienTu
 
+[![Logotipo do OrienTu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTIgsf5trw8QV9Hzzzmty7opdV0Fhcks3FEMc50EEzMzc34IWKEgHSUDV_MxjUrfJpvbgNODkmuntK6c_zCiz6P99O8wGJHTVpXDsUxds_rGEZ6rL1PpNKTWV2lSzohuTOWNm4pjdkbm0/s320/OrienTu+1.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTIgsf5trw8QV9Hzzzmty7opdV0Fhcks3FEMc50EEzMzc34IWKEgHSUDV_MxjUrfJpvbgNODkmuntK6c_zCiz6P99O8wGJHTVpXDsUxds_rGEZ6rL1PpNKTWV2lSzohuTOWNm4pjdkbm0/s320/OrienTu+1.png)
+
 O OrienTu foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que decorreu entre 5 e 14 de Agosto na [Murtinheira](../../Restrito/Locais%20de%20Acampamento/Murtinheira%20%28Vila%20Nova%20do%20Ceira%29.md)
 
 Foi também o primeiro acampamento a promover um serão conjunto entre acampamentos de escalões diferentes, juntando-se na Murtinheira, ao OrienTu, o [Êxodo](%C3%8Axodo.md)!
+
+## Carta de Campo
+
+[![Carta de campo do OrienTu (1.ª página)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcKN-_HIYNP6v0zCY72QmN5nQTjs1rmjYmVEJj3oBGdLzlCkRaXX91m8aEV12H8UNAdkLeCmdmVv5kHDzEkxLMk4wWYpUlRnypA5N1nuf6Uce2-i8LvFzhwaSBD1pOSuWsaSCEwJdbxlM/s320/Diapositivo1.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcKN-_HIYNP6v0zCY72QmN5nQTjs1rmjYmVEJj3oBGdLzlCkRaXX91m8aEV12H8UNAdkLeCmdmVv5kHDzEkxLMk4wWYpUlRnypA5N1nuf6Uce2-i8LvFzhwaSBD1pOSuWsaSCEwJdbxlM/s320/Diapositivo1.JPG)
+[![Carta de campo do OrienTu (2.ª página)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZTGANJAKGN__9bCoAMrT3H8H9CUcizGPD9jURmiNx3mREe-pm8sYLnfYT9go_g6OTEVub3PRc9gn8lDrYrl1gQWMTcZgu-tlxq4T9yertY2tTXGORmAlMfVV4R9Riy-APo-tZ3ZP0KCg/s320/Diapositivo2.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZTGANJAKGN__9bCoAMrT3H8H9CUcizGPD9jURmiNx3mREe-pm8sYLnfYT9go_g6OTEVub3PRc9gn8lDrYrl1gQWMTcZgu-tlxq4T9yertY2tTXGORmAlMfVV4R9Riy-APo-tZ3ZP0KCg/s320/Diapositivo2.JPG)
+
+## Foto de Campo
+
+[![Foto de campo do OrienTu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh4PeFo-XCtQMHSWbuO_cRo1QU04HYTYGzYmP_qrVbqSFNTmgCcNdYMLU1BjFTlgk6doquuvuy7FMa7DWw8KMvVpdVyR7ScJx3bWH1rIYov_lFEdzZIttKBQ9QIMfN45-cpkdUqW0JP5U/s400/IMG_1241.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh4PeFo-XCtQMHSWbuO_cRo1QU04HYTYGzYmP_qrVbqSFNTmgCcNdYMLU1BjFTlgk6doquuvuy7FMa7DWw8KMvVpdVyR7ScJx3bWH1rIYov_lFEdzZIttKBQ9QIMfN45-cpkdUqW0JP5U/s400/IMG_1241.JPG)
 
 ## Animadores
 
@@ -19,95 +30,11 @@ Foi também o primeiro acampamento a promover um serão conjunto entre acampamen
 
 ### Hino
 
-Nas encruzilhadas da vida
-
-Surgem duvidas que assustam
-
-Escolhas sem sentido
-
-Medos que nos reduzem
-
-Um dia ouvi dizer
-
-Que o essencial
-
-Não é claro
-
-É preciso encontra-lo
-
-É preciso desvenda-lo
-
-É tão difícil perceber
-
-Abrir as portas ao amor
-
-Acreditar que Deus está
-
-Comigo a lutar
-
-Por um sonho melhor, MAIOR!
-
-OrienTu em Edo vais ficar,
-
-OrienTu para servir e amar
-
-E não te esqueças:
-
-O essencial és TU
-
-O essencial es Tu!
+O hino deste campo foi a música "OrienTu" (ver [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#orientu)). No YouTube há um [vídeo do hino](https://www.youtube.com/watch?v=yYx5OMsmS_s).
 
 ### Genérico da Novela
 
-[PT] GENÉRICO
-
-[GB] GENERIC
-
-[F] GÉNÉRIQUES
-
-[CR] GENERICKÉ
-
-[R] непатентованных
-
-[GR] γενόσημων
-
-[AR] عام
-
-Vou-lhe contar, vou-lhe cantar
-
-essa historia, será memória (vo)cê vai amar
-
-junta galera, come pipoca,
-
-faz um programa, chafurda na lamaaaa...
-
-(entram os espíritos*)
-
-e todo mundo para um segundo, vai começaaaar
-
-Jação Valente, sempre na frente
-
-Tó Badochas, come sandochas
-
-e no Japão até comem cão
-
-olhem que confusão
-
-A Shoguninha é tao lindinha
-
-Daimiu mauzão, corcunda e anão
-
-A tartaruguinha é tao fofinha
-
-salta e vem DANÇAAAAAR
-
-- polvilha-se com espíritos a gosto, por exemplo:
-
--e ouvem-se os lobos a uivaaar: aúúúúúúúh
-
--quem é que come planta lá em casa: -Ah, sou eu que sou uma lambona!
-
--AllÔ comadre Marcela, é a Severina... TÔ foribuuundaaa!!!
+O genérico da novela deste campo está no [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#generico-da-novela-orientu).
 
 ## Curiosidades
 
@@ -120,6 +47,7 @@ O nome veio da junção de "Oriente" e do tema do ano, ou parte dele "Tu"... Ori
 ## Páginas que ligam para aqui
 
 - [Ana Luísa Reis](../../Pessoas/A/Ana%20Lu%C3%ADsa%20Reis.md)
+- [Cantinácio: Campinácios](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md)
 - [Conteúdos](../../Wikin%C3%A1cios/Conte%C3%BAdos.md)
 - [Diogo José Nunes Carneiro](../../Pessoas/D/Diogo%20Jos%C3%A9%20Nunes%20Carneiro.md)
 - [Elias Oliveira](../../Pessoas/E/Elias%20Oliveira.md)
