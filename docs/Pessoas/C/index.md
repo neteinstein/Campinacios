@@ -19,6 +19,7 @@
 - [Carminho Simões de Almeida](Carminho%20Sim%C3%B5es%20de%20Almeida.md)
 - [Carmo Ribeiro Corrêa](Carmo%20Ribeiro%20Corr%C3%AAa.md)
 - [Carolina Carvalho](Carolina%20Carvalho.md)
+- [Carolina Morão](Carolina%20Mor%C3%A3o.md)
 - [Carolina Oliveira](Carolina%20Oliveira.md)
 - [Carolina Picciochi](Carolina%20Picciochi.md)
 - [Carolina Silva](Carolina%20Silva.md)

@@ -28,6 +28,7 @@
 - [Pedro Lucas](Pedro%20Lucas.md)
 - [Pedro Mendonça](Pedro%20Mendon%C3%A7a.md)
 - [Pedro Miguel Pereira](Pedro%20Miguel%20Pereira.md)
+- [Pedro Oliveira](Pedro%20Oliveira.md)
 - [Pedro Pena](Pedro%20Pena.md)
 - [Pedro Pereira](Pedro%20Pereira.md)
 - [Pedro Pessoa](Pedro%20Pessoa.md)

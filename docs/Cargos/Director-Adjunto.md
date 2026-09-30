@@ -63,6 +63,7 @@
 - [Chuva ó Chave](../Acampamentos/2023/Chuva%20%C3%B3%20Chave.md)
 - [Cibicleta Como És](../Acampamentos/2023/Cibicleta%20Como%20%C3%89s.md)
 - [Cinena](../Acampamentos/2001/Cinena.md)
+- [Clávis](../Acampamentos/2012/Cl%C3%A1vis.md)
 - [Com Capricho](../Acampamentos/2024/Com%20Capricho.md)
 - [Constância](../Acampamentos/1991/Const%C3%A2ncia.md)
 - [D'RIP MELON](../Acampamentos/2024/D%27RIP%20MELON.md)
