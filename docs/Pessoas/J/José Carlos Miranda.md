@@ -11,6 +11,7 @@ José Carlos Miranda, é um dos animadores do Colégio da Imaculada Conceição.
 - **Formação:**
     - Nenhum
 - **Animador:**
+    - 2019 [XP Fora da Roda](../../Acampamentos/2019/XP%20Fora%20da%20Roda.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2022 [Level Up](../../Acampamentos/2022/Level%20Up.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2024 [ParTijolo](../../Acampamentos/2024/ParTijolo.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2025 [Não Confundas](../../Acampamentos/2025/N%C3%A3o%20Confundas.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
@@ -31,6 +32,7 @@ José Carlos Miranda, é um dos animadores do Colégio da Imaculada Conceição.
 - [Não Confundas](../../Acampamentos/2025/N%C3%A3o%20Confundas.md)
 - [Oh Pai, Keshumo](../../Acampamentos/2026/Oh%20Pai%2C%20Keshumo.md)
 - [ParTijolo](../../Acampamentos/2024/ParTijolo.md)
+- [XP Fora da Roda](../../Acampamentos/2019/XP%20Fora%20da%20Roda.md)
 
 ---
 

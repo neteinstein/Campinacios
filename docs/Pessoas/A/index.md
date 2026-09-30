@@ -64,6 +64,7 @@
 - [Andreia Resende](Andreia%20Resende.md)
 - [André Barreiras](Andr%C3%A9%20Barreiras.md)
 - [André Gonçalves](Andr%C3%A9%20Gon%C3%A7alves.md)
+- [Anita Couto](Anita%20Couto.md)
 - [António Amaral](Ant%C3%B3nio%20Amaral.md)
 - [António Andrade](Ant%C3%B3nio%20Andrade.md)
 - [António Coimbra](Ant%C3%B3nio%20Coimbra.md)
