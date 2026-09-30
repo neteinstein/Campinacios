@@ -6,9 +6,14 @@
     - 2025 [Sem Truques](../../Acampamentos/2025/Sem%20Truques.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2026 [Por confirmar (2026)](../../Acampamentos/2026/Por%20confirmar%20%282026%29.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
+### Encontros
+
+- 2025 [Encontro Nacional 2025](../../Encontros/Encontro%20Nacional%202025.md) - Direcção de Trotinetas
+
 ## Páginas que ligam para aqui
 
 - [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
+- [Encontro Nacional 2025](../../Encontros/Encontro%20Nacional%202025.md)
 - [Por confirmar (2026)](../../Acampamentos/2026/Por%20confirmar%20%282026%29.md)
 - [Sem Truques](../../Acampamentos/2025/Sem%20Truques.md)
 

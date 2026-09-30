@@ -1,5 +1,7 @@
 # Mário Carvalho
 
+*Nota: Este artigo é sobre Mário Carvalho, animador de 2007 a 2009. Se procura Maria Carvalho, animadora do Mangueira Nice (2025) e do Sande Help (2026), consulte [Maria Carvalho](Maria%20Carvalho.md).*
+
 ### Acampamentos
 
 - **Participante:**
