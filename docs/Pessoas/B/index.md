@@ -1,6 +1,7 @@
 # B
 
 - [Bafo](Bafo.md)
+- [Bárbara Cardoso](B%C3%A1rbara%20Cardoso.md)
 - [Beatriz Maia](Beatriz%20Maia.md)
 - [Beatriz Mesquita](Beatriz%20Mesquita.md)
 - [Beatriz Miguel](Beatriz%20Miguel.md)

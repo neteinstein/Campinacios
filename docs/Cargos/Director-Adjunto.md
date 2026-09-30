@@ -261,6 +261,7 @@
 - [Waaassuuup](../Acampamentos/2001/Waaassuuup.md)
 - [Walkabout](../Acampamentos/2010/Walkabout.md)
 - [Wally](../Acampamentos/1994/Wally.md)
+- [XP Fora da Roda](../Acampamentos/2019/XP%20Fora%20da%20Roda.md)
 - [Xii Tava Kuase Lá...!](../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md)
 - [Xiè-Xiè Kung Fa](../Acampamentos/2026/Xi%C3%A8-Xi%C3%A8%20Kung%20Fa.md)
 - [Zé Guedes](../Pessoas/Z/Z%C3%A9%20Guedes.md)
