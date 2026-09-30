@@ -1,10 +1,11 @@
 # Todos os artigos
 
-1171 artigos e, em itálico, os 166 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1180 artigos e, em itálico, os 168 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
 - *Agui* → [Gonçalo Aguiar](Pessoas/G/Gon%C3%A7alo%20Aguiar.md)
+- [Ana Isabel Martins](Pessoas/A/Ana%20Isabel%20Martins.md)
 - [Triciclos 1](Acampamentos/1997/Triciclos%201.md)
 - [Triciclos 2](Acampamentos/1997/Triciclos%202.md)
 - [À Brava](Acampamentos/2025/%C3%80%20Brava.md)
@@ -220,6 +221,7 @@
 - [Capelinho](Cargos/Capelinho.md)
 - [Carlos Pereira da Silva](Pessoas/C/Carlos%20Pereira%20da%20Silva.md)
 - *Carmo Cunha e Carmo* → [Maria do Carmo Cunha e Carmo](Pessoas/M/Maria%20do%20Carmo%20Cunha%20e%20Carmo.md)
+- [Carolina Morão](Pessoas/C/Carolina%20Mor%C3%A3o.md)
 - [Carolina Picciochi](Pessoas/C/Carolina%20Picciochi.md)
 - [Catarina Godinho](Pessoas/C/Catarina%20Godinho.md)
 - [Catarina Meireles](Pessoas/C/Catarina%20Meireles.md)
@@ -704,6 +706,7 @@
 - [José António Lima](Pessoas/J/Jos%C3%A9%20Ant%C3%B3nio%20Lima.md)
 - [José Araújo](Pessoas/J/Jos%C3%A9%20Ara%C3%BAjo.md)
 - [José Augusto Rosa](Pessoas/J/Jos%C3%A9%20Augusto%20Rosa.md)
+- [José Cabelo](Pessoas/J/Jos%C3%A9%20Cabelo.md)
 - [José Carlos Miranda](Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md)
 - *José Correia Frazão* → [José Frazão](Pessoas/J/Jos%C3%A9%20Fraz%C3%A3o.md)
 - [José da Silva Almeida](Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
@@ -740,6 +743,7 @@
 
 ## K
 
+- *Káká* → [Carolina Morão](Pessoas/C/Carolina%20Mor%C3%A3o.md)
 - *Kaká* → [Ricardo Rodrigues](Pessoas/R/Ricardo%20Rodrigues.md)
 - *Kiko* → [Francisco Silva](Pessoas/F/Francisco%20Silva.md)
 - [Kiko Alves da Silva](Pessoas/K/Kiko%20Alves%20da%20Silva.md)
@@ -830,6 +834,7 @@
 - [Magui](Pessoas/M/Magui.md)
 - [Maior Evento de Sempre em Portugal, Maior Até que a Mega Feijoada da Ponte Vasco da Gama](Acampamentos/2023/Maior%20Evento%20de%20Sempre%20em%20Portugal%2C%20Maior%20At%C3%A9%20que%20a%20Mega%20Feijoada%20da%20Ponte%20Vasco%20da%20Gama.md)
 - *Malú* → [Maria Silva](Pessoas/M/Maria%20Silva.md)
+- [Manuel Cardoso](Pessoas/M/Manuel%20Cardoso.md)
 - [Manuel Vassalo](Pessoas/M/Manuel%20Vassalo.md)
 - [Marcelo Vieira](Pessoas/M/Marcelo%20Vieira.md)
 - [Marco António](Pessoas/M/Marco%20Ant%C3%B3nio.md)
@@ -863,6 +868,9 @@
 - [Manuel Vilhena](Pessoas/M/Manuel%20Vilhena.md)
 - [Maria Pinheiro Machado](Pessoas/M/Maria%20Pinheiro%20Machado.md)
 - [Maria Ramos](Pessoas/M/Maria%20Ramos.md)
+- [Mariana Cortez](Pessoas/M/Mariana%20Cortez.md)
+- [Marta Martins](Pessoas/M/Marta%20Martins.md)
+- [Matilde Silva](Pessoas/M/Matilde%20Silva.md)
 - *Mawi* → [Maria Cunhal](Pessoas/M/Maria%20Cunhal.md)
 - *Migalha* → [Miguel Melo](Pessoas/M/Miguel%20Melo.md)
 - *Mogui* → [Margarida Tavares](Pessoas/M/Margarida%20Tavares.md)
@@ -1007,6 +1015,7 @@
 - [Obra Prima](Acampamentos/2010/Obra%20Prima.md)
 - [Oh Pai, Keshumo](Acampamentos/2026/Oh%20Pai%2C%20Keshumo.md)
 - [Olha, Isto Aqui é uma Estátua](Acampamentos/2011/Olha%2C%20Isto%20Aqui%20%C3%A9%20uma%20Est%C3%A1tua.md)
+- *Oli* → [Pedro Oliveira](Pessoas/P/Pedro%20Oliveira.md)
 - [Online](Movimento/Online.md)
 - [OPA](Acampamentos/2007/OPA.md)
 - [OrienTu](Acampamentos/2008/OrienTu.md)
@@ -1022,6 +1031,7 @@
 - [Paim](Acampamentos/1999/Paim.md)
 - [PaKasaDele](Acampamentos/2010/PaKasaDele.md)
 - [Panão](Pessoas/P/Pan%C3%A3o.md)
+- [Pedro Oliveira](Pessoas/P/Pedro%20Oliveira.md)
 - [Pedro Rosa](Pessoas/P/Pedro%20Rosa.md)
 - *Pitxi* → [Carolina Picciochi](Pessoas/C/Carolina%20Picciochi.md)
 - [PáquiPáli](Acampamentos/2016/P%C3%A1quiP%C3%A1li.md)
@@ -1293,6 +1303,7 @@
 - *Tema do ano* → [Temas do Ano](Movimento/Temas%20do%20Ano.md)
 - [Temas do Ano](Movimento/Temas%20do%20Ano.md)
 - [Teresa Aguiar](Pessoas/T/Teresa%20Aguiar.md)
+- [Teresa Cannas](Pessoas/T/Teresa%20Cannas.md)
 - [Teresa Cardoso](Pessoas/T/Teresa%20Cardoso.md)
 - [Teresa Cortês Ferreira](Pessoas/T/Teresa%20Cort%C3%AAs%20Ferreira.md)
 - [Teresa Fonseca](Pessoas/T/Teresa%20Fonseca.md)

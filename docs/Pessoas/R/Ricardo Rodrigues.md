@@ -1,5 +1,7 @@
 # Ricardo Rodrigues
 
+*Nota: Este artigo é sobre Ricardo Rodrigues (Kaká), animador nos anos 90. Se procura Carolina Morão (Káká), animadora desde 2025, consulte [Carolina Morão](../C/Carolina%20Mor%C3%A3o.md).*
+
 ### Acampamentos
 
 - **Participante**
@@ -28,6 +30,7 @@
 - [Aranha](../../Acampamentos/1997/Aranha.md)
 - [Benfeita 95](../../Acampamentos/1995/Benfeita%2095.md)
 - [Caldelas](../../Acampamentos/1996/Caldelas.md)
+- [Carolina Morão](../C/Carolina%20Mor%C3%A3o.md)
 - [Gipsy Kings](../../Acampamentos/1999/Gipsy%20Kings.md)
 - [Gordurosa](../../Acampamentos/2000/Gordurosa.md)
 - [Trotinetas 90](../../Acampamentos/1990/Trotinetas%2090.md)

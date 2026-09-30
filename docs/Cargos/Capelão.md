@@ -53,6 +53,7 @@
 - [Camp & Nácios, S.A](../Acampamentos/2013/Camp%20%26%20N%C3%A1cios%2C%20S.A.md)
 - [CAmpIC 89](../Acampamentos/1989/CAmpIC%2089.md)
 - [CAmpIC 91](../Acampamentos/1991/CAmpIC%2091.md)
+- [Clávis](../Acampamentos/2012/Cl%C3%A1vis.md)
 - [Codex 0018](../Acampamentos/2018/Codex%200018.md)
 - [CRUZZ](../Acampamentos/2023/CRUZZ.md)
 - [Ca Ganda Tanga](../Acampamentos/2026/Ca%20Ganda%20Tanga.md)

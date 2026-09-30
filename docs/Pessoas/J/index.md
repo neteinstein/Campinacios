@@ -51,6 +51,7 @@
 - [José António Lima](Jos%C3%A9%20Ant%C3%B3nio%20Lima.md)
 - [José Araújo](Jos%C3%A9%20Ara%C3%BAjo.md)
 - [José Augusto Rosa](Jos%C3%A9%20Augusto%20Rosa.md)
+- [José Cabelo](Jos%C3%A9%20Cabelo.md)
 - [José Carlos Miranda](Jos%C3%A9%20Carlos%20Miranda.md)
 - [José Emanuel Ferreira](Jos%C3%A9%20Emanuel%20Ferreira.md)
 - [José Eugénio Lopes](Jos%C3%A9%20Eug%C3%A9nio%20Lopes.md)

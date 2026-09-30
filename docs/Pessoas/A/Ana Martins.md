@@ -1,5 +1,7 @@
 # Ana Martins
 
+*Nota: Este artigo é sobre Ana Martins, animadora do CSJB desde 2005. Se procura Ana Isabel Martins, animadora desde 2026, consulte [Ana Isabel Martins](Ana%20Isabel%20Martins.md).*
+
 Ana Martins, é desde 2005 uma das animadoras do Colégio São João de Brito.
 
 ## História dentro do movimento
@@ -25,6 +27,7 @@ Ana Martins, é desde 2005 uma das animadoras do Colégio São João de Brito.
 
 ## Páginas que ligam para aqui
 
+- [Ana Isabel Martins](Ana%20Isabel%20Martins.md)
 - [Caminho](../../Acampamentos/2009/Caminho.md)
 - [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
 - [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
