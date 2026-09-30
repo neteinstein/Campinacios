@@ -263,6 +263,7 @@
 - [Wally](../Acampamentos/1994/Wally.md)
 - [Xii Tava Kuase Lá...!](../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md)
 - [Xiè-Xiè Kung Fa](../Acampamentos/2026/Xi%C3%A8-Xi%C3%A8%20Kung%20Fa.md)
+- [XP Fora da Roda](../Acampamentos/2019/XP%20Fora%20da%20Roda.md)
 - [Zé Guedes](../Pessoas/Z/Z%C3%A9%20Guedes.md)
 - [À Brava](../Acampamentos/2025/%C3%80%20Brava.md)
 - [À Grande e à Francesa](../Acampamentos/2022/%C3%80%20Grande%20e%20%C3%A0%20Francesa.md)

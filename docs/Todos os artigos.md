@@ -1,11 +1,12 @@
 # Todos os artigos
 
-1180 artigos e, em itálico, os 168 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1184 artigos e, em itálico, os 168 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
 - *Agui* → [Gonçalo Aguiar](Pessoas/G/Gon%C3%A7alo%20Aguiar.md)
 - [Ana Isabel Martins](Pessoas/A/Ana%20Isabel%20Martins.md)
+- [Anita Couto](Pessoas/A/Anita%20Couto.md)
 - [Triciclos 1](Acampamentos/1997/Triciclos%201.md)
 - [Triciclos 2](Acampamentos/1997/Triciclos%202.md)
 - [À Brava](Acampamentos/2025/%C3%80%20Brava.md)
@@ -136,6 +137,7 @@
 - [Baba Yetu](Acampamentos/2010/Baba%20Yetu.md)
 - [Badminton](Acampamentos/2014/Badminton.md)
 - [Bafo](Pessoas/B/Bafo.md)
+- [Bárbara Cardoso](Pessoas/B/B%C3%A1rbara%20Cardoso.md)
 - [Barracada](Acampamentos/2024/Barracada.md)
 - [Barragem de Santa Clara](Restrito/Locais%20de%20Acampamento/Barragem%20de%20Santa%20Clara.md) 🔒
 - [Barro Vivo](Acampamentos/2013/Barro%20Vivo.md)
@@ -748,6 +750,7 @@
 - *Kiko* → [Francisco Silva](Pessoas/F/Francisco%20Silva.md)
 - [Kiko Alves da Silva](Pessoas/K/Kiko%20Alves%20da%20Silva.md)
 - [Kiko Carmo](Pessoas/K/Kiko%20Carmo.md)
+- [Kiko Gomes](Pessoas/K/Kiko%20Gomes.md)
 - [Kiko Sá](Pessoas/K/Kiko%20S%C3%A1.md)
 - *Kitó* → [Cristóvão Teixeira](Pessoas/C/Crist%C3%B3v%C3%A3o%20Teixeira.md)
 - [Koalas](Acampamentos/1999/Koalas.md)
@@ -1136,6 +1139,7 @@
 
 - *Rafa Azevedo* → [Rafaela Azevedo](Pessoas/R/Rafaela%20Azevedo.md)
 - [Rafa Mano](Pessoas/R/Rafa%20Mano.md)
+- [Rafa Silva](Pessoas/R/Rafa%20Silva.md)
 - [Rafael Carecho](Pessoas/R/Rafael%20Carecho.md)
 - [Rafael Lucas Pires](Pessoas/R/Rafael%20Lucas%20Pires.md)
 - [Rafael Rebordão](Pessoas/R/Rafael%20Rebord%C3%A3o.md)
