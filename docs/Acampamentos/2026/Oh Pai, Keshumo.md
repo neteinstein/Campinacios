@@ -7,21 +7,33 @@
 - [Director](../../Cargos/Director.md) - [Lourenço Beato](../../Pessoas/L/Louren%C3%A7o%20Beato.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Margarida Faria](../../Pessoas/M/Margarida%20Faria.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Zé Guedes](../../Pessoas/Z/Z%C3%A9%20Guedes.md)
-- [Tia](../../Cargos/Tio.md) - Teresa Cannas, Marta Martins
-- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Ana Isabel Martins, Manuel Cardoso, Daniela Gonçalves, José Cabelo, Carolina Morão (Káká), Mariana Cortez
-- [Animador Livre](../../Cargos/Animador%20Livre.md) - Martim Nunes (Tina), Matilde Silva, Pedro Oliveira (Oli), Guilherme Balhau
+- [Tia](../../Cargos/Tio.md) - [Teresa Cannas](../../Pessoas/T/Teresa%20Cannas.md), [Marta Martins](../../Pessoas/M/Marta%20Martins.md)
+- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Ana Isabel Martins](../../Pessoas/A/Ana%20Isabel%20Martins.md), [Manuel Cardoso](../../Pessoas/M/Manuel%20Cardoso.md), [Daniela Gonçalves](../../Pessoas/D/Daniela%20Gon%C3%A7alves.md), [José Cabelo](../../Pessoas/J/Jos%C3%A9%20Cabelo.md), [Carolina Morão](../../Pessoas/C/Carolina%20Mor%C3%A3o.md) (Káká), [Mariana Cortez](../../Pessoas/M/Mariana%20Cortez.md)
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Martim Nunes](../../Pessoas/M/Martim%20Nunes.md) (Tina), [Matilde Silva](../../Pessoas/M/Matilde%20Silva.md), [Pedro Oliveira](../../Pessoas/P/Pedro%20Oliveira.md) (Oli), [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Miranda](../../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Francisco Cortês Ferreira](../../Pessoas/F/Francisco%20Cort%C3%AAs%20Ferreira.md) sj
 - [Capelinho](../../Cargos/Capelinho.md) - [Diogo Maria Carvalho](../../Pessoas/D/Diogo%20Maria%20Carvalho.md) nsj
 
 ## Páginas que ligam para aqui
 
+- [Ana Isabel Martins](../../Pessoas/A/Ana%20Isabel%20Martins.md)
+- [Carolina Morão](../../Pessoas/C/Carolina%20Mor%C3%A3o.md)
+- [Daniela Gonçalves](../../Pessoas/D/Daniela%20Gon%C3%A7alves.md)
 - [Diogo Maria Carvalho](../../Pessoas/D/Diogo%20Maria%20Carvalho.md)
 - [Francisco Cortês Ferreira](../../Pessoas/F/Francisco%20Cort%C3%AAs%20Ferreira.md)
+- [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
+- [José Cabelo](../../Pessoas/J/Jos%C3%A9%20Cabelo.md)
 - [José Carlos Miranda](../../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md)
 - [Lourenço Beato](../../Pessoas/L/Louren%C3%A7o%20Beato.md)
+- [Manuel Cardoso](../../Pessoas/M/Manuel%20Cardoso.md)
 - [Margarida Faria](../../Pessoas/M/Margarida%20Faria.md)
+- [Mariana Cortez](../../Pessoas/M/Mariana%20Cortez.md)
+- [Marta Martins](../../Pessoas/M/Marta%20Martins.md)
+- [Martim Nunes](../../Pessoas/M/Martim%20Nunes.md)
+- [Matilde Silva](../../Pessoas/M/Matilde%20Silva.md)
+- [Pedro Oliveira](../../Pessoas/P/Pedro%20Oliveira.md)
 - [Sequeiros (Braga)](../../Restrito/Locais%20de%20Acampamento/Sequeiros%20%28Braga%29.md)
+- [Teresa Cannas](../../Pessoas/T/Teresa%20Cannas.md)
 - [Zé Guedes](../../Pessoas/Z/Z%C3%A9%20Guedes.md)
 
 ---

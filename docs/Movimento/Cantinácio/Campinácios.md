@@ -4,16 +4,20 @@ Músicas nascidas nos acampamentos dos [Campinácios](../Campin%C3%A1cios.md).
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (14 músicas)
+## Índice (18 músicas)
 
 - [ABRE-TE AO SONHO](#abre-te-ao-sonho) — Hino do Campo Long Tao (2006)
 - [APRENDER A SER](#aprender-a-ser)
 - [BELO DO HINO](#belo-do-hino) — Hino do Campo Caminho (2009)
 - [CAMPINÁCIOS](#campinacios)
+- [CLÁVIS](#clavis) — Hino do Campo Clávis (2012)
+- [DESCOLA](#descola) — Hino do Campo Descola (2018)
+- [GENÉRICO DA NOVELA (ORIENTU)](#generico-da-novela-orientu) — Genérico da Novela do Campo OrienTu (2008)
 - [HINO DE CAMPO](#hino-de-campo) — Campo OPA (2007)
 - [JOVEM COMO A PLANTA](#jovem-como-a-planta)
 - [O ANDRÉ E A CECÍLIA](#o-andre-e-a-cecilia) — Campo Quatro Patas (2001) (Manel Matos)
 - [O DIA EM QUE APRENDI A VOAR](#o-dia-em-que-aprendi-a-voar)
+- [ORIENTU](#orientu) — Hino do Campo OrienTu (2008)
 - [PÃO COM MANTEIGA](#pao-com-manteiga)
 - [PÁRA E REPARA](#para-e-repara) — Campo Graal II (2003)
 - [POEMA LINDO](#poema-lindo) — Campo Mountain Bike (Chico Maria)
@@ -174,6 +178,115 @@ Lá* - x02120
 Ré* - xx0222
 ```
 
+### CLÁVIS {#clavis}
+
+*Hino do Campo [Clávis](../../Acampamentos/2012/Cl%C3%A1vis.md) (2012)*
+
+```text
+Chegamos ao campo sem saber o que esperar
+Só nos falta uma coisa, o Rei queremos encontrar
+
+O adjunto não vacila, temos os livres a trabalhar
+Os equipas a mimar e a mamã a alimentar
+
+Clavis 2012
+Aqui vais encontrar o lugaaaar
+
+Nós somos raparigas,
+Picantes como urtigas
+Perfeitas e amigas
+E vocês não!
+
+Nós somos rapazões
+Potentes como leões
+Bonitos e gatões
+E vocês não!
+
+Não, não não…!
+
+O que a velhinha não sabia
+É que o crime foi descobrido
+O homem do casaco no mato estava perdido
+
+A adjunta estava louca, visitou-nos o Noé
+Caminhámos pelos montes
+Despedimo-nos do Zé
+
+Clavis 2012, aqui vais encontrar o lugaaaaaar
+```
+
+### DESCOLA {#descola}
+
+*Hino do Campo [Descola](../../Acampamentos/2018/Descola%20%282018%29.md) (2018)*
+
+```text
+Dornelas é linda, mas doem-me as costas
+Cheiro mal, estou a tostar,
+Soubesse eu que era para ser tosta,
+Ficava em casa a descansar.
+
+Foram convites e promessas
+Que seria aceitar
+Mergulhámos nossas cabeças
+Lá nos deixámos baptizar
+
+[Refrão]
+Sabias que
+O seguro não paga
+Não quero ser fada (x3)
+Do lar
+Vem e verás
+Acorda lambreta mandrião
+Chofre não sejas, é bom que vejas,
+Descola, é a tua missão
+
+Mamã atrasada, tia esgalhada,
+É uma viagem de foguetão,
+Apanhar-te-ei oh preciosa
+Chegámos até a fazer pão
+
+Oh malta agora oiçam todos
+Em dois minutos vou apitar
+O rio são pedras, não é lodo
+A glice não sabe nadar, yo (x4)
+
+[Refrão]
+```
+
+### GENÉRICO DA NOVELA (ORIENTU) {#generico-da-novela-orientu}
+
+*Genérico da Novela do Campo [OrienTu](../../Acampamentos/2008/OrienTu.md) (2008)*
+
+```text
+[PT] GENÉRICO
+[GB] GENERIC
+[F] GÉNÉRIQUES
+[CR] GENERICKÉ
+[R] непатентованных
+[GR] γενόσημων
+[AR] عام
+
+Vou-lhe contar, vou-lhe cantar
+essa historia, será memória (vo)cê vai amar
+junta galera, come pipoca,
+faz um programa, chafurda na lamaaaa...
+(entram os espíritos*)
+e todo mundo para um segundo, vai começaaaar
+Jação Valente, sempre na frente
+Tó Badochas, come sandochas
+e no Japão até comem cão
+olhem que confusão
+A Shoguninha é tao lindinha
+Daimiu mauzão, corcunda e anão
+A tartaruguinha é tao fofinha
+salta e vem DANÇAAAAAR
+
+- polvilha-se com espíritos a gosto, por exemplo:
+-e ouvem-se os lobos a uivaaar: aúúúúúúúh
+-quem é que come planta lá em casa: -Ah, sou eu que sou uma lambona!
+-AllÔ comadre Marcela, é a Severina... TÔ foribuuundaaa!!!
+```
+
 ### HINO DE CAMPO {#hino-de-campo}
 
 *Hino do Campo [OPA](../../Acampamentos/2007/OPA.md) (2007)*
@@ -303,6 +416,32 @@ A queres mais do que palmilhar
 Refrão
 
 FA*- x03213
+```
+
+### ORIENTU {#orientu}
+
+*Hino do Campo [OrienTu](../../Acampamentos/2008/OrienTu.md) (2008)*
+
+```text
+Nas encruzilhadas da vida
+Surgem duvidas que assustam
+Escolhas sem sentido
+Medos que nos reduzem
+Um dia ouvi dizer
+Que o essencial
+Não é claro
+É preciso encontra-lo
+É preciso desvenda-lo
+É tão difícil perceber
+Abrir as portas ao amor
+Acreditar que Deus está
+Comigo a lutar
+Por um sonho melhor, MAIOR!
+OrienTu em Edo vais ficar,
+OrienTu para servir e amar
+E não te esqueças:
+O essencial és TU
+O essencial es Tu!
 ```
 
 ### PÃO COM MANTEIGA {#pao-com-manteiga}

@@ -1,13 +1,14 @@
 # B
 
 - [Bafo](Bafo.md)
-- [Bé](B%C3%A9.md)
+- [Bárbara Cardoso](B%C3%A1rbara%20Cardoso.md)
 - [Beatriz Maia](Beatriz%20Maia.md)
 - [Beatriz Mesquita](Beatriz%20Mesquita.md)
 - [Beatriz Miguel](Beatriz%20Miguel.md)
 - [Beatriz Miranda](Beatriz%20Miranda.md)
 - [Beatriz Picciochi](Beatriz%20Picciochi.md)
 - [Beatriz Pitxi](Beatriz%20Pitxi.md)
+- [Benedita Rolim](Benedita%20Rolim.md)
 - [Bernardo Caldas](Bernardo%20Caldas.md)
 - [Bernardo Mendonça](Bernardo%20Mendon%C3%A7a.md)
 - [Bernardo Moraes Sarmento](Bernardo%20Moraes%20Sarmento.md)
@@ -17,3 +18,4 @@
 - [Bruno Campos](Bruno%20Campos.md)
 - [Bruno Costa](Bruno%20Costa.md)
 - [Bruno Nobre](Bruno%20Nobre.md)
+- [Bé](B%C3%A9.md)

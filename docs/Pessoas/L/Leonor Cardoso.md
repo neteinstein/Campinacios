@@ -7,6 +7,17 @@
 - 2021/2022 Coordenadora da [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md)
 - 2021/2022 Membro da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 
+### Acampamentos
+
+- **Participante:**
+    - 2018 [Descola](../../Acampamentos/2018/Descola%20%282018%29.md)
+- **Animador(a):**
+    - 2019 [XP Fora da Roda](../../Acampamentos/2019/XP%20Fora%20da%20Roda.md)
+
+## Páginas que ligam para aqui
+
+- [XP Fora da Roda](../../Acampamentos/2019/XP%20Fora%20da%20Roda.md)
+
 ---
 
 | Categorias |
