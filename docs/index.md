@@ -32,11 +32,14 @@ Ainda neste ano de 1989, no mês de Setembro, realizou-se o [Pedreira](Acampamen
 <div class="wk-box wk-yellow" markdown>
 <div class="wk-head" markdown="span">Sabia que...</div>
 
-- ... **[Lourenço Eiró](Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj**, já animava em 1989?
-- ... **[São Martinho](Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)** é a animadora com mais acampamentos como [Mamã](Cargos/Mam%C3%A3.md)?
-- ...**[Majo](Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)** é a animadora, não contando com Jesuítas que até à data tem mais campos?
-- ... **[João Paulo Moinhos](Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md)** é o elemento há mais tempo numa DL, estando lá desde 2001?
-- ... **[Pedro Vicente](Pessoas/P/Pedro%20Vicente.md)**, foi o primeiro leigo a ser convidado para director do Acampamento de Formação?
+- ... **[Lourenço Eiró](Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj** esteve no primeiro ano de acampamentos de que há registo, 1989, e animou 17 acampamentos até 2011, nove deles como [Director](Cargos/Director.md) — mais do que qualquer outra pessoa como Director?
+- ... **[São Martinho](Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)** foi [Mamã](Cargos/Mam%C3%A3.md) em 10 acampamentos, entre 1992 e 1999 — o dobro de qualquer outra animadora?
+- ... **[Tiago Bahia](Pessoas/T/Tiago%20Bahia.md)** é o animador leigo com mais acampamentos animados (13, entre 2006 e 2023), só ultrapassado pelos Jesuítas [Luís Onofre](Pessoas/L/Lu%C3%ADs%20Onofre.md) (18) e [Lourenço Eiró](Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) (17)?
+- ... **[João Paulo Moinhos](Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md)** foi Coordenador da [Direcção Local do CC](Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) e membro da [Direcção Nacional](Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) durante nove anos seguidos (2001 a 2010), o mandato mais longo de que há registo?
+- ... **[Pedro Vicente](Pessoas/P/Pedro%20Vicente.md)** foi o primeiro leigo a ser Director de um Acampamento de Formação ([Caminho](Acampamentos/2009/Caminho.md), 2009), depois de cinco acampamentos de Formação dirigidos por Jesuítas?
+- ... **[Luís Onofre](Pessoas/L/Lu%C3%ADs%20Onofre.md) sj** é a pessoa com mais acampamentos animados (18, entre 2003 e 2026), foi [Capelão](Cargos/Capel%C3%A3o.md) em 17 deles e, em 2015, foi Capelão de três acampamentos no mesmo ano?
+- ... **[Ana Paula Sampaio](Pessoas/A/Ana%20Paula%20Sampaio.md)** é a pessoa que ocupou mais cargos diferentes em acampamentos (seis, entre 2007 e 2013): [Animadora de Equipa](Cargos/Animador%20de%20Equipa.md), [Directora-Adjunta](Cargos/Director-Adjunto.md), [Directora](Cargos/Director.md), [Mamã](Cargos/Mam%C3%A3.md), [Capelinha](Cargos/Capelinho.md) e [Animadora Livre](Cargos/Animador%20Livre.md)?
+- ... em **2020** foi o único ano, desde 1989, sem acampamentos, por causa da pandemia? O tema do ano foi *Viver Agradecido* e houve apenas actividades nos colégios.
 
 </div>
 
