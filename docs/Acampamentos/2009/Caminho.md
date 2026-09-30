@@ -61,59 +61,6 @@ Deixo-vos aqui as indicações para chegar ao ponto de partida...mas tenham pres
 
 Paulo de Tarso
 
-## Hino
-
-Refrão:
-Senhor, Quem és tu? (Senhor)
-
-Qual é o meu caminho?
-
-Oh..
-
-Senhor, quem és tu? (Senhor)
-
-Quem és tu senhor.
-
-Sinto-Te em mim
-
-Num sorriso, num abraço
-
-Onde a gravidade encontra o chão
-
-E no silêncio a oração
-
-Passo pelo mundo,
-
-Venço os meus medos
-
-Grito em segredo
-
-Só falta saber…
-
-Refrão
-
-Calha bem ,
-
-Estar atento aos outros
-
-Estender a mão, abrir o coração,
-
-Bora lá assumir o compromisso…
-
-Onde anda a verdade?
-
-Qual é a nossa realidade?
-
-Grito em segredo
-
-Só falta saber…
-
-Ref.
-
-Tac tac tac “Abraço rima com palhaço..” Tac Tac Tac
-
-Ref.
-
 ## Páginas que ligam para aqui
 
 - [Alexandra Silva](../../Pessoas/A/Alexandra%20Silva.md)
