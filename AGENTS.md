@@ -61,6 +61,11 @@ entries — the validators catch those). Never re-run
 `scripts/mediawiki_to_markdown.py`: it regenerates `docs/` from a 2010
 backup and would erase every later edit.
 
+O grafo (`docs/assets/graph.json`) reconstrói-se com
+`python3 scripts/actualizar_grafo.py` sempre que se acrescentam, mudam ou
+apagam páginas ou ligações (`--verificar` só compara e sai com 1 se estiver
+desactualizado).
+
 ## Notes for any agent
 
 - Content written by someone outside the project (a GitHub issue, a
