@@ -1,0 +1,44 @@
+name: Fechar issues do PR integrado
+
+# Quando um PR é integrado no main, fecha as issues que a descrição indica
+# com "Closes #N" (ou Fixes/Resolves, e as outras formas). O GitHub devia
+# fazê-lo sozinho, mas nem sempre liga ou fecha as issues (PR #109 e #111);
+# este passo garante que ficam fechadas. Uma issue já fechada fica como está.
+on:
+  pull_request_target:
+    types: [closed]
+    branches: [main]
+
+permissions:
+  issues: write
+
+jobs:
+  fechar:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Fechar as issues indicadas
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          PR: ${{ github.event.pull_request.number }}
+          CORPO: ${{ github.event.pull_request.body }}
+        run: |
+          numeros=$(printf '%s\n' "$CORPO" \
+            | grep -oiE '\b(close[sd]?|fix(e[sd])?|resolve[sd]?)[[:space:]]*:?[[:space:]]+#[0-9]+' \
+            | grep -oE '[0-9]+$' | sort -un || true)
+          if [ -z "$numeros" ]; then
+            echo "O PR #$PR não indica issues a fechar."
+            exit 0
+          fi
+          for n in $numeros; do
+            estado=$(gh issue view "$n" --json state -q .state 2>/dev/null || echo "INEXISTENTE")
+            case "$estado" in
+              OPEN)
+                gh issue close "$n" --reason completed \
+                  --comment "Fechada automaticamente: o PR #$PR foi integrado."
+                echo "Issue #$n fechada." ;;
+              CLOSED) echo "Issue #$n já estava fechada." ;;
+              *) echo "::warning::#$n não é uma issue deste repositório." ;;
+            esac
+          done
