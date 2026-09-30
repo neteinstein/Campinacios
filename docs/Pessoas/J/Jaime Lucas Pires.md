@@ -28,6 +28,10 @@ Jaime Lucas Pires é animador do CSJB.
 
 É filho da [Margarida Valle](../M/Margarida%20Valle.md) e do [Rafael Lucas Pires](../R/Rafael%20Lucas%20Pires.md), e irmão do [Vasco Lucas Pires](../V/Vasco%20Lucas%20Pires.md). É sobrinho da [Góinha Valle](../M/Maria%20da%20Gl%C3%B3ria%20Valle.md), da [Filipa Valle](../F/Filipa%20Valle.md), do [Martinho Lucas Pires](../M/Martinho%20Lucas%20Pires.md) e do [Jacinto Lucas Pires](Jacinto%20Lucas%20Pires.md).
 
+### Encontros
+
+- 2025 [Encontro Nacional 2025](../../Encontros/Encontro%20Nacional%202025.md) - Direcção de Triciclos
+
 ## Páginas que ligam para aqui
 
 - [Caldorado](../../Acampamentos/2024/Caldorado.md)
@@ -35,6 +39,7 @@ Jaime Lucas Pires é animador do CSJB.
 - [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md)
 - [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
 - [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
+- [Encontro Nacional 2025](../../Encontros/Encontro%20Nacional%202025.md)
 - [Exipto](../../Acampamentos/2025/Exipto.md)
 - [Margarida Valle](../M/Margarida%20Valle.md)
 - [Non Nobis](../../Acampamentos/2026/Non%20Nobis.md)

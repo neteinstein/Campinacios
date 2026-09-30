@@ -6,7 +6,19 @@
 - 2022/2023 Coordenador Nacional da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - 2024/2025 Ecónomo da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 
+### Encontros
+
+- 2021 [Encontro Nacional 2021](../../Encontros/Encontro%20Nacional%202021.md) - Organização
+- 2024 [Encontro Nacional 2024](../../Encontros/Encontro%20Nacional%202024.md) - Director-Adjunto
+
+## Páginas que ligam para aqui
+
+- [Encontro Nacional 2021](../../Encontros/Encontro%20Nacional%202021.md)
+- [Encontro Nacional 2024](../../Encontros/Encontro%20Nacional%202024.md)
+
 ---
+
+**Outros nomes:** Johnny
 
 | Categorias |
 | --- |
