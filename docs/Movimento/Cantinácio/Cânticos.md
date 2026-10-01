@@ -1104,8 +1104,6 @@ Dispensa quem cabeça não tem
 Amem, amem, amem sempre amem
 ```
 
-Publicada por Filipe Barroso na página da [Revolução Campinácios v2.0](../Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md) a 9 de Agosto de 2010.
-
 ### COMEI DO PÃO {#comei-do-pao}
 
 *Jacques Berthier (Compositor Francês)*
@@ -3592,8 +3590,6 @@ E eu encontrei o meu Senhor!
 
 Bom dia!
 ```
-
-Publicada por Filipe Barroso na página da [Revolução Campinácios v2.0](../Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md) a 9 de Agosto de 2010.
 
 ### OBRIGADO {#obrigado}
 
