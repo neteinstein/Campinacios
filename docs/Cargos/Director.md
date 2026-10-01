@@ -380,7 +380,7 @@ Ver também o [Manual do Director](../Movimento/Manual%20do%20Director.md), com 
 - [Suga](../Acampamentos/2014/Suga.md)
 - [Superfishie](../Acampamentos/2021/Superfishie.md)
 - [Supertifica](../Acampamentos/2021/Supertifica.md)
-- [Supérate](../Acampamentos/2017/Sup%C3%A9rate.md)
+- [Supera-te](../Acampamentos/2017/Supera-te.md)
 - [Surpresa](../Acampamentos/2001/Surpresa.md)
 - [Survivor](../Acampamentos/2009/Survivor.md)
 - [Sérgio Carvalho](../Pessoas/S/S%C3%A9rgio%20Carvalho.md)

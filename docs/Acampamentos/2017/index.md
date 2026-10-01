@@ -8,4 +8,4 @@
 - [Peru](Peru.md) — Triciclos
 - [ReComeçar de Novo](ReCome%C3%A7ar%20de%20Novo.md) — Formação de Animadores
 - [Salvo Sejas](Salvo%20Sejas.md) — Lambretas
-- [Supérate](Sup%C3%A9rate.md) — Trotinetas
+- [Supera-te](Supera-te.md) — Trotinetas
