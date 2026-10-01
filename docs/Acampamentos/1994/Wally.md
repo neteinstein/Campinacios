@@ -9,7 +9,7 @@ Este acampamento de [Trotinetas](../../Categorias/Trotinetas.md) decorreu de 20 
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Carlos Ruiz](../../Pessoas/C/Carlos%20Ruiz.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [João Vila Chã](../../Pessoas/J/Jo%C3%A3o%20Vila%20Ch%C3%A3.md) sj
 - [Tia](../../Cargos/Tio.md) - [Carla Gapo](../../Pessoas/C/Carla%20Gapo.md)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Rafael Lucas Pires](../../Pessoas/R/Rafael%20Lucas%20Pires.md)
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Rafael Lucas Pires](../../Pessoas/R/Rafael%20Lucas%20Pires.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [António Coimbra](../../Pessoas/A/Ant%C3%B3nio%20Coimbra.md), [Sara Amado](../../Pessoas/S/Sara%20Amado.md), [Maria Machado Lima](../../Pessoas/M/Maria%20Machado%20Lima.md), [Magui](../../Pessoas/M/Magui.md), [Margarida Valle](../../Pessoas/M/Margarida%20Valle.md) e [Tomás Cunha Ferreira](../../Pessoas/T/Tom%C3%A1s%20Cunha%20Ferreira.md)
 
 ## Páginas que ligam para aqui

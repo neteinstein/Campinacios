@@ -5,7 +5,7 @@ Este acampamento de [Trotinetas](../../Categorias/Trotinetas.md) decorreu de 20 
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Bruno Costa](../../Pessoas/B/Bruno%20Costa.md)
+- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Bruno Costa](../../Pessoas/B/Bruno%20Costa.md)
 
 ## Páginas que ligam para aqui
 

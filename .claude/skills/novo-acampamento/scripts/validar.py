@@ -96,10 +96,14 @@ def equipa_problems(camp):
         if len(itens) > 1:
             found.append(f'{len(itens)} linhas de "{cargo}": ponha todos '
                          f'numa só linha "{plural} - A, B e C"')
-        elif itens[0][0] == cargo:
+        else:
             nomes = re.sub(r'\[[^\]]*\]\([^)]*\)|\([^)]*\)', 'X', itens[0][1])
-            if re.search(r',| e ', nomes):
+            vários = re.search(r',| e ', nomes)
+            if itens[0][0] == cargo and vários:
                 found.append(f'"{cargo}" tem vários nomes: use "{plural}"')
+            elif itens[0][0] == plural and not vários \
+                    and re.search(r'[^\W\d_]', nomes):
+                found.append(f'"{plural}" só tem um nome: use "{cargo}"')
     return found
 
 

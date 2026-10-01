@@ -6,7 +6,7 @@ Este acampamento decorreu em [Alvoco das Várzeas](../../Restrito/Locais%20de%20
 
 - [Director](../../Cargos/Director.md) - [Paulo Pimenta](../../Pessoas/P/Paulo%20Pimenta.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [São Martinho](../../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Inês Serra Ferreira](../../Pessoas/I/In%C3%AAs%20Serra%20Ferreira.md)
+- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Inês Serra Ferreira](../../Pessoas/I/In%C3%AAs%20Serra%20Ferreira.md)
 
 ## Páginas que ligam para aqui
 
