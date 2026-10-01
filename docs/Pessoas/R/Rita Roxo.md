@@ -27,7 +27,7 @@ Rita Roxo é desde 2002 um das animadoras do Colégio da Imaculada Conceição.
 
 - [Baza](../../Acampamentos/2007/Baza.md)
 - [Casca de Banana](../../Acampamentos/2005/Casca%20de%20Banana.md)
-- [Encontro Nacional de 2007](../../Encontros/Encontro%20Nacional%20de%202007.md)
+- [Encontro Nacional 2007](../../Encontros/Encontro%20Nacional%202007.md)
 - [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
 - [Falésia](../../Acampamentos/2005/Fal%C3%A9sia.md)
 - [Long Tao](../../Acampamentos/2006/Long%20Tao.md)

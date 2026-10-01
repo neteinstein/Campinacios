@@ -23,7 +23,7 @@ Inês Patrício foi de 2003 a 2008 uma das animadoras do Colégio da Imaculada C
 ## Páginas que ligam para aqui
 
 - [Diz Que Sim](../../Acampamentos/2007/Diz%20Que%20Sim.md)
-- [Encontro Nacional de 2007](../../Encontros/Encontro%20Nacional%20de%202007.md)
+- [Encontro Nacional 2007](../../Encontros/Encontro%20Nacional%202007.md)
 - [Long Tao](../../Acampamentos/2006/Long%20Tao.md)
 - [Trolliciclos](../../Acampamentos/2004/Trolliciclos.md)
 
