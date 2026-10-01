@@ -4,8 +4,8 @@ Lourenço Eiró foi um dos fundadores dos [Campinácios](../../Movimento/Campin%
 
 ### Cargos
 
-- 2007/2010 - [Assistente Nacional](../../Categorias/Assistentes%20Nacionais.md)
-- 2007/2010 - Membro da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
+- 2007/2011 - [Assistente Nacional](../../Categorias/Assistentes%20Nacionais.md)
+- 2007/2011 - Membro da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - 1999/2001 - Membro da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - 1999/2001 - Coordenador da [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
 - 1999 - Coordenador do [Jambo 99](../../Acampamentos/1999/Jambo%2099.md)
@@ -21,7 +21,7 @@ Lourenço Eiró foi um dos fundadores dos [Campinácios](../../Movimento/Campin%
     - 1991 [Constância](../../Acampamentos/1991/Const%C3%A2ncia.md) - [Director](../../Cargos/Director.md)
     - 1992 [Tribal](../../Acampamentos/1992/Tribal.md) - [Director](../../Cargos/Director.md)
     - 1993 [Trotinetas 93](../../Acampamentos/1993/Trotinetas%2093.md) - [Director](../../Cargos/Director.md)
-    - 1999 [Caroço](../../Acampamentos/1999/Caro%C3%A7o.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
+    - 1999 [Caroço](../../Acampamentos/1999/Caro%C3%A7o.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2000 [Pavio](../../Acampamentos/2000/Pavio.md) - [Director](../../Cargos/Director.md)
     - 2001 [Cinena](../../Acampamentos/2001/Cinena.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2001 [Surpresa](../../Acampamentos/2001/Surpresa.md) - [Director](../../Cargos/Director.md)
