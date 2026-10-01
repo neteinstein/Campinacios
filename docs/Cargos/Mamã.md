@@ -243,6 +243,7 @@ Quando tiveres dúvidas do que é ser mamã de acampamento lembra-te como é (ex
 - [Sobe d'Andar](../Acampamentos/2021/Sobe%20d%27Andar.md)
 - [Sofia Ângelo](../Pessoas/S/Sofia%20%C3%82ngelo.md)
 - [Someonelfie](../Acampamentos/2015/Someonelfie.md)
+- [Supera-te](../Acampamentos/2017/Supera-te.md)
 - [Superfishie](../Acampamentos/2021/Superfishie.md)
 - [Supertifica](../Acampamentos/2021/Supertifica.md)
 - [Surpresa](../Acampamentos/2001/Surpresa.md)

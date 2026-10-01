@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1185 artigos e, em itálico, os 173 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1185 artigos e, em itálico, os 174 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -1041,6 +1041,7 @@
 - [Panão](Pessoas/P/Pan%C3%A3o.md)
 - [Pedro Oliveira](Pessoas/P/Pedro%20Oliveira.md)
 - [Pedro Rosa](Pessoas/P/Pedro%20Rosa.md)
+- *Pedro Namorado Rosa* → [Pedro Rosa](Pessoas/P/Pedro%20Rosa.md)
 - *Pitxi* → [Carolina Picciochi](Pessoas/C/Carolina%20Picciochi.md)
 - [PáquiPáli](Acampamentos/2016/P%C3%A1quiP%C3%A1li.md)
 - [Parada](Acampamentos/1995/Parada.md)

@@ -224,6 +224,7 @@
 - [SimBasta](../Acampamentos/2019/SimBasta.md)
 - [Sinfonia](../Acampamentos/2021/Sinfonia.md)
 - [Sobe d'Andar](../Acampamentos/2021/Sobe%20d%27Andar.md)
+- [Supera-te](../Acampamentos/2017/Supera-te.md)
 - [Superfishie](../Acampamentos/2021/Superfishie.md)
 - [Supertifica](../Acampamentos/2021/Supertifica.md)
 - [Surpresa](../Acampamentos/2001/Surpresa.md)
