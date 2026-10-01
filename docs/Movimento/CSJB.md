@@ -14,6 +14,7 @@ Sendo um Colégio da Companhia de Jesus reconhece como fonte essencial da sua in
 
 - [Campinácios](Campin%C3%A1cios.md)
 - [Camtil](Camtil.md)
+- [Encontro Nacional 2009](../Encontros/Encontro%20Nacional%202009.md)
 - [Inês Próspero](../Pessoas/I/In%C3%AAs%20Pr%C3%B3spero.md)
 - [Manual de Funções](Manual%20de%20Fun%C3%A7%C3%B5es.md)
 - [Manual do Director](Manual%20do%20Director.md)

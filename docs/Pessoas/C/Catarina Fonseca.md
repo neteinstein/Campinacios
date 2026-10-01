@@ -11,6 +11,7 @@
 - **Animadora:**
     - 2009 [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
     - 2010 [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2011 [Ara](../../Acampamentos/2011/Ara.md)
 
 ### Família
 
@@ -18,6 +19,7 @@
 
 ## Páginas que ligam para aqui
 
+- [Ara](../../Acampamentos/2011/Ara.md)
 - [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md)
 - [Inês Fonseca](../I/In%C3%AAs%20Fonseca.md)
 - [Rita Fonseca](../R/Rita%20Fonseca.md)

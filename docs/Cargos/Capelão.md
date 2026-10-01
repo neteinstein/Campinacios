@@ -36,6 +36,7 @@
 - [António Sant'Ana](../Pessoas/A/Ant%C3%B3nio%20Sant%27Ana.md)
 - [António Santos Lourenço](../Pessoas/A/Ant%C3%B3nio%20Santos%20Louren%C3%A7o.md)
 - [António Valério](../Pessoas/A/Ant%C3%B3nio%20Val%C3%A9rio.md)
+- [Ara](../Acampamentos/2011/Ara.md)
 - [Aranha](../Acampamentos/1997/Aranha.md)
 - [Arethë](../Acampamentos/2008/Areth%C3%AB.md)
 - [Às 10 faz xiu](../Acampamentos/2015/%C3%80s%2010%20faz%20xiu.md)

@@ -18,6 +18,7 @@ O Êxodo foi o acampamento de [Formação de Animadores](../../Categorias/Forma%
 - [Catarina Durão Barroso](../../Pessoas/C/Catarina%20Dur%C3%A3o%20Barroso.md)
 - [Cristiana Leite](../../Pessoas/C/Cristiana%20Leite.md)
 - [Cristóvão Teixeira](../../Pessoas/C/Crist%C3%B3v%C3%A3o%20Teixeira.md)
+- [Encontro Nacional de Animadores 2008](../../Encontros/Encontro%20Nacional%20de%20Animadores%202008.md)
 - [Fernando Ventura](../../Pessoas/F/Fernando%20Ventura.md)
 - [Filipa Caldas](../../Pessoas/F/Filipa%20Caldas.md)
 - [Fábio Teixeira](../../Pessoas/F/F%C3%A1bio%20Teixeira.md)
