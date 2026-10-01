@@ -169,6 +169,7 @@
 - [Rastilho](../Acampamentos/2003/Rastilho.md)
 - [Realiza](../Acampamentos/2013/Realiza.md)
 - [Ricardo Amado](../Pessoas/R/Ricardo%20Amado.md)
+- [Ricardo Costa](../Pessoas/R/Ricardo%20Costa.md)
 - [Ricardo Lopes](../Pessoas/R/Ricardo%20Lopes.md)
 - [Rita Ângelo](../Pessoas/R/Rita%20%C3%82ngelo.md)
 - [Rita Fonseca](../Pessoas/R/Rita%20Fonseca.md)

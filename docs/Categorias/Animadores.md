@@ -9,7 +9,7 @@ Animadores dos Campinácios
 - [Animadores do CSJB](Animadores%20do%20CSJB.md)
 - [Jesuítas](Jesu%C3%ADtas.md)
 
-## Páginas nesta categoria (735)
+## Páginas nesta categoria (736)
 
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Afonso Barrocas](../Pessoas/A/Afonso%20Barrocas.md)
@@ -623,6 +623,7 @@ Animadores dos Campinácios
 - [Renato Lobo](../Pessoas/R/Renato%20Lobo.md)
 - [Renato Lopes](../Pessoas/R/Renato%20Lopes.md)
 - [Ricardo Amado](../Pessoas/R/Ricardo%20Amado.md)
+- [Ricardo Costa](../Pessoas/R/Ricardo%20Costa.md)
 - [Ricardo Dias](../Pessoas/R/Ricardo%20Dias.md)
 - [Ricardo Lopes](../Pessoas/R/Ricardo%20Lopes.md)
 - [Ricardo Neves](../Pessoas/R/Ricardo%20Neves.md)
