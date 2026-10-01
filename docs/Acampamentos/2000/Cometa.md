@@ -2,7 +2,7 @@
 
 ### Animadores
 
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Irina Ramos](../../Pessoas/I/Irina%20Ramos.md)
+- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Irina Ramos](../../Pessoas/I/Irina%20Ramos.md)
 
 ## Páginas que ligam para aqui
 

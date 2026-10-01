@@ -67,7 +67,11 @@ them are this person when the name is common.
 - Plain-text mentions the user confirmed become links.
 - On the person's page, add the camp to the list (`    - <ano> [Camp](…)`
   under **Participante**, or `… - [Cargo](…)` under **Animador/Animadora**)
-  and to `## Páginas que ligam para aqui` (sorted by title). A camp under
+  and to `## Páginas que ligam para aqui` (sorted by title).
+  Na página do **campo**, um Animador Livre ou de Equipa novo junta-se à
+  linha única do seu cargo ("Animadores Livres - A, B e C"), passando o
+  cargo para o plural se antes era só um; nunca se abre uma linha por
+  pessoa (ver `novo-acampamento`). A camp under
   **Participante** for someone who already has a page as Animador(a) is
   fine to add even outside Calhambeques/Formação de Animadores — the page
   itself proves they're an adult, which is what that privacy restriction

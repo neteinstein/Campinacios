@@ -8,7 +8,7 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Teresa Cortês Ferreira](../../Pessoas/T/Teresa%20Cort%C3%AAs%20Ferreira.md) (Teté)
 - [Tia](../../Cargos/Tio.md) - [Joana Cardim](../../Pessoas/J/Joana%20Cardim.md)
-- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Mário Pedro Carvalho](../../Pessoas/M/M%C3%A1rio%20Carvalho.md), [Sofia Fernandes](../../Pessoas/S/Sofia%20Fernandes.md), [Sara Rita Sampaio](../../Pessoas/S/Sara%20Rita%20Sampaio.md), [Joana Fonseca](../../Pessoas/J/Joana%20Fonseca.md)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Mário Pedro Carvalho](../../Pessoas/M/M%C3%A1rio%20Carvalho.md), [Sofia Fernandes](../../Pessoas/S/Sofia%20Fernandes.md), [Sara Rita Sampaio](../../Pessoas/S/Sara%20Rita%20Sampaio.md) e [Joana Fonseca](../../Pessoas/J/Joana%20Fonseca.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
 
 ## Páginas que ligam para aqui

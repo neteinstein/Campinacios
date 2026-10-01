@@ -4,7 +4,7 @@
 
 - [Director](../../Cargos/Director.md) - [José Rui Sampaio](../../Pessoas/J/Jos%C3%A9%20Rui%20Sampaio.md)
 - [Tias](../../Cargos/Tio.md) - [Lúcia Vaz Pato](../../Pessoas/L/L%C3%BAcia%20Vaz%20Pato.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Ricardo Lopes](../../Pessoas/R/Ricardo%20Lopes.md)
+- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Ricardo Lopes](../../Pessoas/R/Ricardo%20Lopes.md)
 
 ## Páginas que ligam para aqui
 

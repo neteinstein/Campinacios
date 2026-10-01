@@ -8,8 +8,8 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Beatriz Maia](../../Pessoas/B/Beatriz%20Maia.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Toni](../../Pessoas/T/Toni.md)
 - [Tia](../../Cargos/Tio.md) - Pedro Leitão, [Marta Martins](../../Pessoas/M/Marta%20Martins.md)
-- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Afonso Barrocas, David Bandeira, Lourenço Matias (Ló), Francisca Crujeira
-- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Francisca Veloso](../../Pessoas/F/Francisca%20Veloso.md) (Tita), Diogo Rêgo, Maria Solla, Inês Guimarães
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Afonso Barrocas, David Bandeira, Lourenço Matias (Ló) e Francisca Crujeira
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Francisca Veloso](../../Pessoas/F/Francisca%20Veloso.md) (Tita), Diogo Rêgo, Maria Solla e Inês Guimarães
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Nelson Faria](../../Pessoas/N/Nelson%20Faria.md) sj
 
 ## Páginas que ligam para aqui
