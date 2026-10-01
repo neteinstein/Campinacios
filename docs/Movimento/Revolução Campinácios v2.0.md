@@ -87,7 +87,6 @@ Tinha ainda um **fórum** (Kunena), que em 2009 tinha 7 utilizadores e 2 mensage
 ## Páginas que ligam para aqui
 
 - [Animador](Animador.md)
-- [Cantinácio: Campinácios](Cantin%C3%A1cio/Campin%C3%A1cios.md)
 - [Cantinácio: Cânticos](Cantin%C3%A1cio/C%C3%A2nticos.md)
 - [Cantinácio: Estrangeiras](Cantin%C3%A1cio/Estrangeiras.md)
 - [Conteúdos](../Wikin%C3%A1cios/Conte%C3%BAdos.md)

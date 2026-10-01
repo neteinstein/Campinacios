@@ -797,5 +797,3 @@ Desde o pôr-do-sol até ao entardecer
 
 DEIXA-ME FICAR EM TUA CASA
 ```
-
-Publicada por Filipe Barroso na página da [Revolução Campinácios v2.0](../Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md) a 9 de Agosto de 2010. Há um [vídeo do hino](https://web.archive.org/web/20110917011938/http://www.youtube.com/watch?v=2900bEFt2KE) guardado no web.archive.org.
