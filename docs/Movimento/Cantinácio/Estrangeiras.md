@@ -6236,7 +6236,24 @@ Remember the true love we share today
 
 *Canção tradicional da África do Sul*
 
-A letra está guardada na página da [Revolução Campinácios v2.0](../Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md), publicada por Filipe Barroso a 9 de Agosto de 2010: [ver no web.archive.org](https://web.archive.org/web/20110916095209/http://www.campinacios.org:80/index.php?option=com_content&view=article&id=166:shosholozah&catid=51:musicas&Itemid=76).
+```text
+Shosholozah
+Shosholozah
+Ku lezontabah
+Stimela siphum' eSouth Africa
+
+Shosholozah
+Shosholozah
+Ku lezontabah
+Stimela siphum'e South Africa
+
+Wen' uyabalekah
+Wen' uyabalekah
+Ku lezontabah
+Stimela siphum'e South Africa
+```
+
+Publicada por Filipe Barroso na página da [Revolução Campinácios v2.0](../Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md) a 9 de Agosto de 2010.
 
 ### SINGING IN THE RAIN {#singing-in-the-rain}
 
