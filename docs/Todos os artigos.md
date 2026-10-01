@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1185 artigos e, em itálico, os 175 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1187 artigos e, em itálico, os 175 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -832,6 +832,7 @@
 - [Madalena Reis](Pessoas/M/Madalena%20Reis.md)
 - [Madalena Saraiva](Pessoas/M/Madalena%20Saraiva.md)
 - [Madalena Sena Esteves](Pessoas/M/Madalena%20Sena%20Esteves.md)
+- [Mafalda Aleixo](Pessoas/M/Mafalda%20Aleixo.md)
 - [Mafalda Coelho](Pessoas/M/Mafalda%20Coelho.md)
 - [Mafalda Costa](Pessoas/M/Mafalda%20Costa.md)
 - [Mafalda Junqueira](Pessoas/M/Mafalda%20Junqueira.md)
@@ -1212,6 +1213,7 @@
 - [Rodrigo Queiroz e Melo](Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md)
 - [Rosa](Pessoas/R/Rosa.md)
 - [Rosário Branco](Pessoas/R/Ros%C3%A1rio%20Branco.md)
+- [Rosarinho Araújo](Pessoas/R/Rosarinho%20Ara%C3%BAjo.md)
 - [Rosinha Dias Costa](Pessoas/R/Rosinha%20Dias%20Costa.md)
 - [Rui Duarte](Pessoas/R/Rui%20Duarte.md)
 - [Rui Fernandes](Pessoas/R/Rui%20Fernandes.md)
