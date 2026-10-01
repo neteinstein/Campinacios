@@ -31,6 +31,7 @@ Martinho Lucas Pires mais conhecido por Martinho
 ## Páginas que ligam para aqui
 
 - [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
+- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - [Encontro Nacional de Animadores 2007](../../Encontros/Encontro%20Nacional%20de%20Animadores%202007.md)
 - [Incrível](../../Acampamentos/2009/Incr%C3%ADvel.md)
 - [Jaime Lucas Pires](../J/Jaime%20Lucas%20Pires.md)

@@ -33,6 +33,7 @@ Campo de Formação que decorreu na casa de Singeverga na Páscoa de 2005.
 - [Mafalda Coelho](../../Pessoas/M/Mafalda%20Coelho.md)
 - [Manuel Vilhena](../../Pessoas/M/Manuel%20Vilhena.md)
 - [Marco Cunha](../../Pessoas/M/Marco%20Cunha.md)
+- [Miguel Melo](../../Pessoas/M/Miguel%20Melo.md)
 - [Pedro Rodrigues](../../Pessoas/P/Pedro%20Rodrigues.md)
 - [Rita Roxo](../../Pessoas/R/Rita%20Roxo.md)
 - [Rui Junqueira](../../Pessoas/R/Rui%20Junqueira.md)

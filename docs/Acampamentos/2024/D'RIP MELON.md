@@ -8,12 +8,23 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Rafa Mano](../../Pessoas/R/Rafa%20Mano.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Heitor](../../Pessoas/H/Heitor%20Rosa.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Duarte Rosado](../../Pessoas/D/Duarte%20Rosado.md) sj
+- [Tia](../../Cargos/Tio.md) - [Matilde Ferreira](../../Pessoas/M/Matilde%20Ferreira.md)
+- [Tio](../../Cargos/Tio.md) - [Pedro Leitão](../../Pessoas/P/Pedro%20Leit%C3%A3o.md)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Lourenço Barjona](../../Pessoas/L/Louren%C3%A7o%20Barjona.md) (Loura), [Maria Carvalho](../../Pessoas/M/Maria%20Carvalho.md), [Catarina Gaio](../../Pessoas/C/Catarina%20Gaio.md), [Manuel Vassalo](../../Pessoas/M/Manuel%20Vassalo.md), [Joana Ferreira](../../Pessoas/J/Joana%20Ferreira%20%282019%29.md) e [Guiomar Andrade](../../Pessoas/G/Guiomar%20Andrade.md)
 
 ## Páginas que ligam para aqui
 
+- [Catarina Gaio](../../Pessoas/C/Catarina%20Gaio.md)
 - [Duarte Rosado](../../Pessoas/D/Duarte%20Rosado.md)
 - [Gonçalo Sá](../../Pessoas/G/Gon%C3%A7alo%20S%C3%A1.md)
+- [Guiomar Andrade](../../Pessoas/G/Guiomar%20Andrade.md)
 - [Heitor Rosa](../../Pessoas/H/Heitor%20Rosa.md)
+- [Joana Ferreira (2019)](../../Pessoas/J/Joana%20Ferreira%20%282019%29.md)
+- [Lourenço Barjona](../../Pessoas/L/Louren%C3%A7o%20Barjona.md)
+- [Manuel Vassalo](../../Pessoas/M/Manuel%20Vassalo.md)
+- [Maria Carvalho](../../Pessoas/M/Maria%20Carvalho.md)
+- [Matilde Ferreira](../../Pessoas/M/Matilde%20Ferreira.md)
+- [Pedro Leitão](../../Pessoas/P/Pedro%20Leit%C3%A3o.md)
 - [Rafa Mano](../../Pessoas/R/Rafa%20Mano.md)
 
 ---
