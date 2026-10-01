@@ -1,5 +1,6 @@
 # Locais de Acampamento
 
+- [Aderneira (Ferreira do Zêzere)](Aderneira%20%28Ferreira%20do%20Z%C3%AAzere%29.md) 🔒
 - [Agroal (Tomar)](Agroal%20%28Tomar%29.md) 🔒
 - [Alagoa (Arganil)](Alagoa%20%28Arganil%29.md) 🔒
 - [Alvoco das Várzeas (Oliveira do Hospital)](Alvoco%20das%20V%C3%A1rzeas%20%28Oliveira%20do%20Hospital%29.md) 🔒
@@ -22,6 +23,7 @@
 - [Nossa Senhora da Graça (Sabugal, Guarda)](Nossa%20Senhora%20da%20Gra%C3%A7a%20%28Sabugal%2C%20Guarda%29.md) 🔒
 - [Porto da Balsa](Porto%20da%20Balsa.md) 🔒
 - [Poço de Corga (Castanheira de Pêra)](Po%C3%A7o%20de%20Corga%20%28Castanheira%20de%20P%C3%AAra%29.md) 🔒
+- [Quinta da Adaúfa (Silgueiros,Viseu)](Quinta%20da%20Ada%C3%BAfa%20%28Silgueiros%2CViseu%29.md) 🔒
 - [Quinta da Gorda (Ferreira do Zêzere)](Quinta%20da%20Gorda%20%28Ferreira%20do%20Z%C3%AAzere%29.md) 🔒
 - [Quinta da Mata (Ponte da Barca)](Quinta%20da%20Mata%20%28Ponte%20da%20Barca%29.md) 🔒
 - [Quinta da Parada (Arcos de Valdevez)](Quinta%20da%20Parada%20%28Arcos%20de%20Valdevez%29.md) 🔒
@@ -32,6 +34,7 @@
 - [Sequeiros (Braga)](Sequeiros%20%28Braga%29.md) 🔒
 - [Serra de Arga (Paredes de Coura)](Serra%20de%20Arga%20%28Paredes%20de%20Coura%29.md) 🔒
 - [Sibana (Vila Nova do Ceira)](Sibana%20%28Vila%20Nova%20do%20Ceira%29.md) 🔒
+- [Souto (Terras de Bouro)](Souto%20%28Terras%20de%20Bouro%29.md) 🔒
 - [Tabuadelas (Vieira do Minho)](Tabuadelas%20%28Vieira%20do%20Minho%29.md) 🔒
 - [Verim (Braga)](Verim%20%28Braga%29.md) 🔒
 - [Vila Boa do Bispo (Marco de Canaveses)](Vila%20Boa%20do%20Bispo%20%28Marco%20de%20Canaveses%29.md) 🔒

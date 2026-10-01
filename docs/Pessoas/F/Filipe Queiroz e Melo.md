@@ -4,7 +4,7 @@
 
 - 1995/1997 - Membro da [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
 - 1995/1997 - Membro da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
-- 1991 Coordenador do [CIFA II](../../Acampamentos/Sem%20data/CIFA%20II.md)
+- 1991 Coordenador do [CIFA II](../../Acampamentos/1991/CIFA%20II.md)
 
 ### Acampamentos
 
@@ -19,7 +19,7 @@
 ## Páginas que ligam para aqui
 
 - [Agroal](../../Acampamentos/1992/Agroal.md)
-- [CIFA II](../../Acampamentos/Sem%20data/CIFA%20II.md)
+- [CIFA II](../../Acampamentos/1991/CIFA%20II.md)
 - [Caldiclos](../../Acampamentos/1994/Caldiclos.md)
 - [Campinácios](../../Movimento/Campin%C3%A1cios.md)
 - [Ferrugenta](../../Acampamentos/1989/Ferrugenta.md)

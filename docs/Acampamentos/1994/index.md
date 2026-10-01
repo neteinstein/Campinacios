@@ -1,6 +1,7 @@
 # 1994
 
 - [Bicicletas 94 I](Bicicletas%2094%20I.md) — Bicicletas
+- [CACAINA](CACAINA.md) — Formação de Animadores
 - [Caldiclos](Caldiclos.md) — Triciclos
 - [Florinhas](Florinhas.md)
 - [Fragas de S.Simão 94](Fragas%20de%20S.Sim%C3%A3o%2094.md) — Trotinetas
