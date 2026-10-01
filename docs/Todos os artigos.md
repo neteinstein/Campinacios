@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1252 artigos e, em itálico, os 197 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1255 artigos e, em itálico, os 197 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -17,6 +17,7 @@
 - [A Partir](Acampamentos/2023/A%20Partir.md)
 - [Abel Bandeira](Pessoas/A/Abel%20Bandeira.md)
 - [Academia](Acampamentos/2005/Academia.md)
+- [Aderneira (Ferreira do Zêzere)](Restrito/Locais%20de%20Acampamento/Aderneira%20%28Ferreira%20do%20Z%C3%AAzere%29.md) 🔒
 - [Afonso Barrocas](Pessoas/A/Afonso%20Barrocas.md)
 - [Afonso Carvalho](Pessoas/A/Afonso%20Carvalho.md)
 - [Afonso Espregueira](Pessoas/A/Afonso%20Espregueira.md)
@@ -196,10 +197,10 @@
 
 - [Ca Ganda Tanga](Acampamentos/2026/Ca%20Ganda%20Tanga.md)
 - [Cabala](Acampamentos/2003/Cabala.md)
-- [CACAINA](Acampamentos/Sem%20data/CACAINA.md)
+- [CACAINA](Acampamentos/1994/CACAINA.md)
 - [Caderno da Mamã](Movimento/Caderno%20da%20Mam%C3%A3.md)
 - [Caderno de Jogos](Movimento/Caderno%20de%20Jogos.md)
-- [Cagácios](Acampamentos/Sem%20data/Cag%C3%A1cios.md)
+- [Cagácios](Acampamentos/1991/Cag%C3%A1cios.md)
 - [CAIC](Movimento/CAIC.md)
 - *Caldas de S. Paulo* → [Caldas de S. Paulo (Oliveira do Hospital)](Restrito/Locais%20de%20Acampamento/Caldas%20de%20S.%20Paulo%20%28Oliveira%20do%20Hospital%29.md) 🔒
 - [Caldas de S. Paulo (Oliveira do Hospital)](Restrito/Locais%20de%20Acampamento/Caldas%20de%20S.%20Paulo%20%28Oliveira%20do%20Hospital%29.md) 🔒
@@ -300,8 +301,8 @@
 - [Chumi](Pessoas/C/Chumi.md)
 - [Chuva ó Chave](Acampamentos/2023/Chuva%20%C3%B3%20Chave.md)
 - [Cibicleta Como És](Acampamentos/2023/Cibicleta%20Como%20%C3%89s.md)
-- [CIFA I](Acampamentos/Sem%20data/CIFA%20I.md)
-- [CIFA II](Acampamentos/Sem%20data/CIFA%20II.md)
+- [CIFA I](Acampamentos/1991/CIFA%20I.md)
+- [CIFA II](Acampamentos/1991/CIFA%20II.md)
 - [Cinena](Acampamentos/2001/Cinena.md)
 - *Ciso* → [Bernardo Narciso](Pessoas/B/Bernardo%20Narciso.md)
 - *CIzo* → [Bernardo Narciso](Pessoas/B/Bernardo%20Narciso.md)
@@ -324,7 +325,7 @@
 - [Copyright](Movimento/Copyright.md)
 - [Cornicovo (Penacova)](Restrito/Locais%20de%20Acampamento/Cornicovo%20%28Penacova%29.md) 🔒
 - [Covas](Acampamentos/1997/Covas.md)
-- [CRAC](Acampamentos/Sem%20data/CRAC.md)
+- [CRAC](Acampamentos/2000/CRAC.md)
 - [Cristiana Leite](Pessoas/C/Cristiana%20Leite.md)
 - [Cristina Cabeça](Pessoas/C/Cristina%20Cabe%C3%A7a.md)
 - [Cristina Costa](Pessoas/C/Cristina%20Costa.md)
@@ -1212,6 +1213,7 @@
 - [Quatro Patas](Acampamentos/2001/Quatro%20Patas.md)
 - [Quemtesegura](Acampamentos/2016/Quemtesegura.md)
 - [Quico](Pessoas/Q/Quico.md)
+- [Quinta da Adaúfa (Silgueiros,Viseu)](Restrito/Locais%20de%20Acampamento/Quinta%20da%20Ada%C3%BAfa%20%28Silgueiros%2CViseu%29.md) 🔒
 - [Quinta da Gorda](Acampamentos/1993/Quinta%20da%20Gorda.md)
 - [Quinta da Gorda (Ferreira do Zêzere)](Restrito/Locais%20de%20Acampamento/Quinta%20da%20Gorda%20%28Ferreira%20do%20Z%C3%AAzere%29.md) 🔒
 - [Quinta da Mata (Ponte da Barca)](Restrito/Locais%20de%20Acampamento/Quinta%20da%20Mata%20%28Ponte%20da%20Barca%29.md) 🔒
@@ -1371,6 +1373,7 @@
 - [Someonelfie](Acampamentos/2015/Someonelfie.md)
 - [Sónia Ferreira](Pessoas/S/S%C3%B3nia%20Ferreira.md)
 - [Soraia Ramos](Pessoas/S/Soraia%20Ramos.md)
+- [Souto (Terras de Bouro)](Restrito/Locais%20de%20Acampamento/Souto%20%28Terras%20de%20Bouro%29.md) 🔒
 - [SPC](Acampamentos/2019/SPC.md)
 - [Suga](Acampamentos/2014/Suga.md)
 - *Sugo* → [Hugo Rafael Ferreira](Pessoas/H/Hugo%20Rafael%20Ferreira.md)
