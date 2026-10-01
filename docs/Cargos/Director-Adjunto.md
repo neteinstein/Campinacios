@@ -85,6 +85,7 @@
 - [Em Busca da CaraBela](../Acampamentos/2006/Em%20Busca%20da%20CaraBela.md)
 - [Em Frente À'Fera](../Acampamentos/2025/Em%20Frente%20%C3%80%27Fera.md)
 - [EmCena](../Acampamentos/2022/EmCena.md)
+- [Encontrei-te](../Acampamentos/2015/Encontrei-te.md)
 - [Entre ASPAS](../Acampamentos/2008/Entre%20ASPAS.md)
 - [Era Uma Vez...](../Acampamentos/2008/Era%20Uma%20Vez....md)
 - [Esperança](../Acampamentos/2011/Esperan%C3%A7a.md)
