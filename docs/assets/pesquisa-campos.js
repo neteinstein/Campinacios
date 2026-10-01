@@ -33,6 +33,9 @@
         c[1].querySelectorAll(":scope > ul > li"), function (g) {
           var label = g.querySelector(":scope > strong");
           var labelText = label ? label.textContent : "";
+          // Na tabela o escalão aparece como «Formação»; a categoria chama-se
+          // «Formação de Animadores».
+          if (norm(labelText) === "formacao") labelText += " Formação de Animadores";
           var camps = Array.prototype.map.call(
             g.querySelectorAll(":scope > ul > li"), function (li) {
               return { el: li, text: norm(li.textContent + " " + labelText) };
@@ -47,7 +50,7 @@
 
     var input = document.createElement("input");
     input.type = "search";
-    input.placeholder = "Procurar por nome, ano, tema ou local…";
+    input.placeholder = "Procurar por nome, ano, escalão, tema ou local…";
     input.setAttribute("aria-label", "Procurar acampamentos");
     box.appendChild(input);
 
