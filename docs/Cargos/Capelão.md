@@ -198,6 +198,7 @@
 - [Pedro Cameira](../Pessoas/P/Pedro%20Cameira.md)
 - [Pedro Rocha Mendes](../Pessoas/P/Pedro%20Rocha%20Mendes.md)
 - [Perc'Urso](../Acampamentos/2023/Perc%27Urso.md)
+- [Peregrinação às JMJ](../Acampamentos/2011/Peregrina%C3%A7%C3%A3o%20%C3%A0s%20JMJ.md)
 - [Peru](../Acampamentos/2017/Peru.md)
 - [Pescanova](../Acampamentos/2011/Pescanova.md)
 - [Pimpolhos](../Acampamentos/2003/Pimpolhos.md)
@@ -270,8 +271,12 @@
 - [À Brava](../Acampamentos/2025/%C3%80%20Brava.md)
 - [À Grande e à Francesa](../Acampamentos/2022/%C3%80%20Grande%20e%20%C3%A0%20Francesa.md)
 - [À Mesa](../Acampamentos/2024/%C3%80%20Mesa.md)
+- [Conta Kms](../Acampamentos/2012/Conta%20Kms.md)
 - [Êxodo](../Acampamentos/2008/%C3%8Axodo.md)
+- [Francisco Campos](../Pessoas/F/Francisco%20Campos.md)
 - [Ídolo](../Acampamentos/2004/%C3%8Ddolo.md)
+- [Pedro Luz](../Pessoas/P/Pedro%20Luz.md)
+- [Rafael Mourão](../Pessoas/R/Rafael%20Mour%C3%A3o.md)
 
 ---
 

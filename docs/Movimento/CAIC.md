@@ -6,6 +6,7 @@ O Colégio da Imaculada Conceição (CAIC) foi um colégio da Província Portugu
 
 - [Caderno de Jogos](Caderno%20de%20Jogos.md)
 - [Campinácios](Campin%C3%A1cios.md)
+- [José Manuel Lopes](../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md)
 - [Manual de Funções](Manual%20de%20Fun%C3%A7%C3%B5es.md)
 - [Manual do Director](Manual%20do%20Director.md)
 - [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)

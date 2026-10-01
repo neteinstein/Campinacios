@@ -8,6 +8,7 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Ivo Reis](../../Pessoas/I/Ivo%20Reis.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [João Brandão](../../Pessoas/J/Jo%C3%A3o%20Brand%C3%A3o.md) sj
 - Animadores - Hugo Reis, Carlota Tareco, Mariana, Marcos, [Madalena Sena Esteves](../../Pessoas/M/Madalena%20Sena%20Esteves.md)
+- [Tia](../../Cargos/Tio.md) - [Joana Lima](../../Pessoas/J/Joana%20Lima.md)
 
 ## Hino
 
@@ -19,6 +20,7 @@ O hino deste campo está no [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin
 - [Cantinácio: Campinácios](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md)
 - [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
 - [Ivo Reis](../../Pessoas/I/Ivo%20Reis.md)
+- [Joana Lima](../../Pessoas/J/Joana%20Lima.md)
 - [João Brandão](../../Pessoas/J/Jo%C3%A3o%20Brand%C3%A3o.md)
 - [José Pascoal](../../Pessoas/J/Jos%C3%A9%20Pascoal.md)
 - [Leonor Banha da Silva](../../Pessoas/L/Leonor%20Banha%20da%20Silva.md)

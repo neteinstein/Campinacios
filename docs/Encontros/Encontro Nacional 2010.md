@@ -36,6 +36,7 @@ Durante o encontro foi feito o logótipo humano dos Campinácios, com todos os p
 - [Juliana Fernandes](../Pessoas/J/Juliana%20Fernandes.md)
 - [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
 - [Maria Cortês Ferreira](../Pessoas/M/Maria%20Cort%C3%AAs%20Ferreira.md)
+- [Revolução Campinácios v2.0](../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
 - [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md)
 - [Tiago Carneiro](../Pessoas/T/Tiago%20Carneiro.md)
 

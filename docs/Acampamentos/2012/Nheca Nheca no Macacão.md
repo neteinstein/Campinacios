@@ -12,6 +12,8 @@
 
 ---
 
+**Outros nomes:** Nheca Nheca Macacão
+
 | Categorias |
 | --- |
 | [Acampamentos](../../Categorias/Acampamentos.md) |

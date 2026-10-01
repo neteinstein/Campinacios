@@ -4,7 +4,7 @@ Cânticos religiosos para as eucaristias, orações e momentos de reflexão.
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (214 músicas)
+## Índice (216 músicas)
 
 - [A BONDADE DO SENHOR](#a-bondade-do-senhor)
 - [ADORAMUS TE CHRISTE](#adoramus-te-christe) — Taizé
@@ -42,6 +42,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [CANTAREI](#cantarei)
 - [CANTAREI AO SENHOR](#cantarei-ao-senhor) — Taizé
 - [CELEBREMOS](#celebremos)
+- [CHAPÉU](#chapeu)
 - [COMEI DO PÃO](#comei-do-pao) — Jacques Berthier (Compositor Francês)
 - [COMO A TERRA](#como-a-terra)
 - [COMO O PAI ME AMOU](#como-o-pai-me-amou)
@@ -136,6 +137,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [O REINO DE DEUS](#o-reino-de-deus) — Taizé
 - [O SENHOR É A MINHA FORÇA](#o-senhor-e-a-minha-forca) — Taizé
 - [O SENHOR É MEU PASTOR](#o-senhor-e-meu-pastor) — Nuno Tovar de Lemos
+- [O SOL JÁ RAIOU](#o-sol-ja-raiou)
 - [OUVI A NOSSA ORAÇÃO](#ouvi-a-nossa-oracao)
 - [PAI](#pai)
 - [PAI NOSSO GALEGO](#pai-nosso-galego)
@@ -1091,6 +1093,12 @@ Celebremos o Senhor que dá vida
 Dó#7       Fá#m Ré Lá Mi   Lá
 O ressuscitado, Cristo Senhor (2x)
 ```
+
+### CHAPÉU {#chapeu}
+
+*Cântico curto, acabado em «Amem»*
+
+A letra está guardada na página da [Revolução Campinácios v2.0](../Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md), publicada por Filipe Barroso a 9 de Agosto de 2010: [ver no web.archive.org](https://web.archive.org/web/20110916024730/http://www.campinacios.org:80/index.php?option=com_content&view=article&id=167:chapeu&catid=51:musicas&Itemid=76).
 
 ### COMEI DO PÃO {#comei-do-pao}
 
@@ -3565,6 +3573,12 @@ Do Se(2)nhor, o nosso Deus,
 que fez o céu e a terra,
 O céu e a terra
 ```
+
+### O SOL JÁ RAIOU {#o-sol-ja-raiou}
+
+*Cântico da manhã*
+
+A letra está guardada na página da [Revolução Campinácios v2.0](../Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md), publicada por Filipe Barroso a 9 de Agosto de 2010: [ver no web.archive.org](https://web.archive.org/web/20110916055812/http://www.campinacios.org:80/index.php?option=com_content&view=article&id=169:o-sol-ja-raiou&catid=51:musicas&Itemid=76).
 
 ### OBRIGADO {#obrigado}
 

@@ -8,10 +8,12 @@ O Dilúvio foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) que 
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Rita Antunes](../../Pessoas/R/Rita%20Antunes.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) e [Capelão](../../Cargos/Capel%C3%A3o.md) - [José da Silva Almeida](../../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md) sj
 - [Tia](../../Cargos/Tio.md) - [Vera Cunha](../../Pessoas/V/Vera%20Cunha.md)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - Pedro, António Pedro, [Gonçalo Frade](../../Pessoas/G/Gon%C3%A7alo%20Frade.md), Inês, Cristina Costa
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - Pedro, [António Pedro](../../Pessoas/A/Ant%C3%B3nio%20Pedro.md), [Gonçalo Frade](../../Pessoas/G/Gon%C3%A7alo%20Frade.md), Inês, [Cristina Costa](../../Pessoas/C/Cristina%20Costa.md)
 
 ## Páginas que ligam para aqui
 
+- [António Pedro](../../Pessoas/A/Ant%C3%B3nio%20Pedro.md)
+- [Cristina Costa](../../Pessoas/C/Cristina%20Costa.md)
 - [Eduardo Almeida](../../Pessoas/E/Eduardo%20Almeida.md)
 - [Gonçalo Frade](../../Pessoas/G/Gon%C3%A7alo%20Frade.md)
 - [Irina Ramos](../../Pessoas/I/Irina%20Ramos.md)

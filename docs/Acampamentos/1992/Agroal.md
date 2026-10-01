@@ -6,7 +6,7 @@ Este acampamento de [Trotinetas](../../Categorias/Trotinetas.md) decorreu no [Ag
 
 - [Director](../../Cargos/Director.md) - [Domingos Freitas](../../Pessoas/D/Domingos%20Freitas.md) sj
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [São Martinho](../../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)
-- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - José Lopes
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [José Lopes](../../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Manuel Paiva](../../Pessoas/M/Manuel%20Paiva.md) sj
 - [Tia](../../Cargos/Tio.md) - [Maria José Moreira](../../Pessoas/M/Maria%20Jos%C3%A9%20Moreira.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [José Marques](../../Pessoas/J/Jos%C3%A9%20Marques.md), [Filipe Queiroz e Melo](../../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md) e [Gustavo Gapo](../../Pessoas/G/Gustavo%20Gapo.md)
@@ -21,6 +21,7 @@ Este acampamento de [Trotinetas](../../Categorias/Trotinetas.md) decorreu no [Ag
 - [Filipe Queiroz e Melo](../../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md)
 - [Gustavo Gapo](../../Pessoas/G/Gustavo%20Gapo.md)
 - [José Luís Silva](../../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Silva.md)
+- [José Manuel Lopes](../../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md)
 - [José Marques](../../Pessoas/J/Jos%C3%A9%20Marques.md)
 - [Lara Tavares](../../Pessoas/L/Lara%20Tavares.md)
 - [Manuel Paiva](../../Pessoas/M/Manuel%20Paiva.md)

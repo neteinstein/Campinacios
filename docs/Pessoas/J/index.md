@@ -36,6 +36,7 @@
 - [Joana Saraiva](Joana%20Saraiva.md)
 - [Joana Sá](Joana%20S%C3%A1.md)
 - [Joana Trigo da Roza](Joana%20Trigo%20da%20Roza.md)
+- [Joana Vala](Joana%20Vala.md)
 - [Joana Videira](Joana%20Videira.md)
 - [Joaquim Abreu](Joaquim%20Abreu.md)
 - [Joca](Joca.md)

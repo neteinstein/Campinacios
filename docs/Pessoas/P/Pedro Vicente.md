@@ -82,6 +82,7 @@ Respondendo à pergunta inicial… ganhei tudo… o que é importante pelo menos
 ## Páginas que ligam para aqui
 
 - [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
+- [Calhambeques](../../Categorias/Calhambeques.md)
 - [Caminho](../../Acampamentos/2009/Caminho.md)
 - [Campinácios](../../Movimento/Campin%C3%A1cios.md)
 - [Conteúdos](../../Wikin%C3%A1cios/Conte%C3%BAdos.md)

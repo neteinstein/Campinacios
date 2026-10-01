@@ -1,6 +1,7 @@
 # N
 
 - [Natacha Soares](Natacha%20Soares.md)
+- [Nathália Barbosa](Nath%C3%A1lia%20Barbosa.md)
 - [Nelson Faria](Nelson%20Faria.md)
 - [Nuno Branco](Nuno%20Branco.md)
 - [Nuno Carrolo](Nuno%20Carrolo.md)

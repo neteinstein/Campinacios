@@ -7,6 +7,7 @@
 - [Laura Leandro](Laura%20Leandro.md)
 - [Leonardo Carvalho](Leonardo%20Carvalho.md)
 - [Leonor Banha da Silva](Leonor%20Banha%20da%20Silva.md)
+- [Leonor Brigas](Leonor%20Brigas.md)
 - [Leonor Cardoso](Leonor%20Cardoso.md)
 - [Leonor Simões](Leonor%20Sim%C3%B5es.md)
 - [Leonor Vala](Leonor%20Vala.md)
@@ -36,3 +37,4 @@
 - [Lília Santos](L%C3%ADlia%20Santos.md)
 - [Lúcia Ribeiro](L%C3%BAcia%20Ribeiro.md)
 - [Lúcia Vaz Pato](L%C3%BAcia%20Vaz%20Pato.md)
+- [Luciana Soares](Luciana%20Soares.md)

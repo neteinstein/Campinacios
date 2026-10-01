@@ -15,6 +15,7 @@ José Manuel Lopes foi um dos fundadores dos [Campinácios](../../Movimento/Camp
     - 1989 [CAmpIC 89](../../Acampamentos/1989/CAmpIC%2089.md) - [Director](../../Cargos/Director.md)
     - 1990 [Caldas de S.Paulo](../../Acampamentos/1990/Caldas%20de%20S.Paulo.md) - [Director](../../Cargos/Director.md)
     - 1991 [CAmpIC 91](../../Acampamentos/1991/CAmpIC%2091.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
+    - 1992 [Agroal](../../Acampamentos/1992/Agroal.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 1994 [Fragas de S.Simão 94](../../Acampamentos/1994/Fragas%20de%20S.Sim%C3%A3o%2094.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 1995 [Benfeita 95](../../Acampamentos/1995/Benfeita%2095.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 1996 [Alvoco 96](../../Acampamentos/1996/Alvoco%2096.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
@@ -22,6 +23,7 @@ José Manuel Lopes foi um dos fundadores dos [Campinácios](../../Movimento/Camp
 
 ## Páginas que ligam para aqui
 
+- [Agroal](../../Acampamentos/1992/Agroal.md)
 - [Alvoco 96](../../Acampamentos/1996/Alvoco%2096.md)
 - [Benfeita 95](../../Acampamentos/1995/Benfeita%2095.md)
 - [CAmpIC 89](../../Acampamentos/1989/CAmpIC%2089.md)
