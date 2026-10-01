@@ -9,6 +9,7 @@
 - [Beatriz Picciochi](Beatriz%20Picciochi.md)
 - [Beatriz Pitxi](Beatriz%20Pitxi.md)
 - [Benedita Rolim](Benedita%20Rolim.md)
+- [Benedita Vasconcelos](Benedita%20Vasconcelos.md)
 - [Bernardo Caldas](Bernardo%20Caldas.md)
 - [Bernardo Mendonça](Bernardo%20Mendon%C3%A7a.md)
 - [Bernardo Moraes Sarmento](Bernardo%20Moraes%20Sarmento.md)

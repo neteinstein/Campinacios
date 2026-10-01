@@ -25,6 +25,7 @@
 - [Pedro Fernandes](Pedro%20Fernandes.md)
 - [Pedro Fonseca](Pedro%20Fonseca.md)
 - [Pedro Jorge Ramos](Pedro%20Jorge%20Ramos.md)
+- [Pedro Leitão](Pedro%20Leit%C3%A3o.md)
 - [Pedro Lucas](Pedro%20Lucas.md)
 - [Pedro Mendonça](Pedro%20Mendon%C3%A7a.md)
 - [Pedro Miguel Pereira](Pedro%20Miguel%20Pereira.md)
