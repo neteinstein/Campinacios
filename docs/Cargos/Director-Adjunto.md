@@ -55,7 +55,6 @@
 - [Carlos Rodrigues](../Pessoas/C/Carlos%20Rodrigues.md)
 - [Carlos Ruiz](../Pessoas/C/Carlos%20Ruiz.md)
 - [Carmo Ribeiro Corrêa](../Pessoas/C/Carmo%20Ribeiro%20Corr%C3%AAa.md)
-- [Caroço](../Acampamentos/1999/Caro%C3%A7o.md)
 - [Casca de Banana](../Acampamentos/2005/Casca%20de%20Banana.md)
 - [Chama de Novo](../Acampamentos/2019/Chama%20de%20Novo.md)
 - [Chico Carneiro](../Pessoas/C/Chico%20Carneiro.md)
