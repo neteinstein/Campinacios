@@ -76,6 +76,7 @@
 - [António Neves](Ant%C3%B3nio%20Neves.md)
 - [António Pamplona](Ant%C3%B3nio%20Pamplona.md)
 - [António Pimenta](Ant%C3%B3nio%20Pimenta.md)
+- [António Portugal](Ant%C3%B3nio%20Portugal.md)
 - [António Queiroz Martins](Ant%C3%B3nio%20Queiroz%20Martins.md)
 - [António Sant'Ana](Ant%C3%B3nio%20Sant%27Ana.md)
 - [António Santos Lourenço](Ant%C3%B3nio%20Santos%20Louren%C3%A7o.md)

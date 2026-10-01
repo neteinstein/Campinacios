@@ -4,6 +4,7 @@
 - [Lara Martins](Lara%20Martins.md)
 - [Lara Tavares](Lara%20Tavares.md)
 - [Laura Barra](Laura%20Barra.md)
+- [Laura Leandro](Laura%20Leandro.md)
 - [Leonardo Carvalho](Leonardo%20Carvalho.md)
 - [Leonor Banha da Silva](Leonor%20Banha%20da%20Silva.md)
 - [Leonor Cardoso](Leonor%20Cardoso.md)
