@@ -3,6 +3,7 @@
 ### Acampamentos
 
 - **Animador(a):**
+    - 2017 [Supera-te](../../Acampamentos/2017/Supera-te.md) - [Tia](../../Cargos/Tio.md)
     - 2019 [SimBasta](../../Acampamentos/2019/SimBasta.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2022 [EmCena](../../Acampamentos/2022/EmCena.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
@@ -15,6 +16,7 @@
 - [EmCena](../../Acampamentos/2022/EmCena.md)
 - [Encontro Nacional 2019](../../Encontros/Encontro%20Nacional%202019.md)
 - [SimBasta](../../Acampamentos/2019/SimBasta.md)
+- [Supera-te](../../Acampamentos/2017/Supera-te.md)
 
 ---
 
