@@ -10,7 +10,7 @@ O Constância foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Francisco Costa Macedo](../../Pessoas/F/Francisco%20Costa%20Macedo.md)
 - [Tia](../../Cargos/Tio.md) - Filipa Vicente
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Tiago Eiró](../../Pessoas/T/Tiago%20Eir%C3%B3.md) e [Miguel Morais](../../Pessoas/M/Miguel%20Morais.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Rafael Lucas Pires](../../Pessoas/R/Rafael%20Lucas%20Pires.md), [Jacinto Lucas Pires](../../Pessoas/J/Jacinto%20Lucas%20Pires.md), [Miguel D'Orey](../../Pessoas/M/Miguel%20D%27Orey.md), Ana Rita, Filipa Sérgio, Rosarinho Araújo e [Catarina Godinho](../../Pessoas/C/Catarina%20Godinho.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Rafael Lucas Pires](../../Pessoas/R/Rafael%20Lucas%20Pires.md), [Jacinto Lucas Pires](../../Pessoas/J/Jacinto%20Lucas%20Pires.md), [Miguel D'Orey](../../Pessoas/M/Miguel%20D%27Orey.md), Ana Rita, Filipa Sérgio, [Rosarinho Araújo](../../Pessoas/R/Rosarinho%20Ara%C3%BAjo.md) e [Catarina Godinho](../../Pessoas/C/Catarina%20Godinho.md)
 
 ## Páginas que ligam para aqui
 
@@ -24,6 +24,7 @@ O Constância foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md)
 - [Miguel Morais](../../Pessoas/M/Miguel%20Morais.md)
 - [Rafael Lucas Pires](../../Pessoas/R/Rafael%20Lucas%20Pires.md)
 - [Rodrigo Queiroz e Melo](../../Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md)
+- [Rosarinho Araújo](../../Pessoas/R/Rosarinho%20Ara%C3%BAjo.md)
 - [Tiago Eiró](../../Pessoas/T/Tiago%20Eir%C3%B3.md)
 
 ---
