@@ -12,7 +12,7 @@ Os sítios e as redes onde os Campinácios estão, ou estiveram, na Internet.
 
 ## A página original {#pagina-original}
 
-A primeira página dos Campinácios na Internet, «Campos de Férias em Movimento — Campos de Férias da Companhia de Jesus», foi criada pelo [Paulo Correia](../Pessoas/P/Paulo%20Correia.md). Ficou depois a geri-la o [Diogo Costa](../Pessoas/D/Diogo%20Costa.md), que mais tarde a passou ao [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) e ao [Filipe Próspero](../Pessoas/F/Filipe%20Pr%C3%B3spero.md). Pode ainda ser vista numa cópia de arquivo: [campinacios.pedrovicente.pt](https://campinacios.pedrovicente.pt/index.html).
+A primeira página dos Campinácios na Internet, «Campos de Férias em Movimento — Campos de Férias da Companhia de Jesus», foi criada pelo [Paulo Correia](../Pessoas/P/Paulo%20Correia.md). Ficou depois a geri-la o [Diogo Costa](../Pessoas/D/Diogo%20Costa.md), que mais tarde a passou ao [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) e ao [Filipe Próspero](../Pessoas/F/Filipe%20Pr%C3%B3spero.md).
 
 [![Página principal da página original dos Campinácios, com o logótipo, o menu à esquerda, o texto de boas-vindas ao centro, as novidades de 2009 e as caixas de Favoritos, Agenda, Guestbook e Notícias à direita](../assets/imagens/Campinacios_pagina_original.png)](../assets/imagens/Campinacios_pagina_original.png)
 
