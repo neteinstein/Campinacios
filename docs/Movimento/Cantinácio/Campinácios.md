@@ -4,8 +4,9 @@ Músicas nascidas nos acampamentos dos [Campinácios](../Campin%C3%A1cios.md).
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (21 músicas)
+## Índice (22 músicas)
 
+- [HINO DOS CAMPINÁCIOS](#hino-dos-campinacios) — Hino dos Campinácios (2025)
 - [ABRE-TE AO SONHO](#abre-te-ao-sonho) — Hino do Campo Long Tao (2006)
 - [APRENDER A SER](#aprender-a-ser)
 - [BELO DO HINO](#belo-do-hino) — Hino do Campo Caminho (2009)
@@ -29,6 +30,57 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [WALKABOUT](#walkabout) — Hino do Campo Walkabout (2010)
 
 ## Músicas
+
+### HINO DOS CAMPINÁCIOS {#hino-dos-campinacios}
+
+*Hino dos [Campinácios](../Campin%C3%A1cios.md) (2025)*
+
+Há um [vídeo do hino](https://drive.google.com/file/d/1AJpxYk45MEzgMU7tWRFnYh7D6u44PWGo/view) no Google Drive.
+
+```text
+Ré    Sol    Ré    Sol
+
+Ré                     Sol
+Nas Mimosas começou
+                          Ré
+Demos vida ao sonho bom
+                                     Sol
+Banhos de estrelas, banhos de rio
+                                         Ré
+Estranhas novelas, presas por um fio
+                                 Sol
+Lenço ao peito, roupa encardida
+                                     Ré
+Canções sem jeito, oferecer a vida
+                              Sol
+Deus connosco, olhar infinito
+Sim            Lá        Sol
+Saltar na roda, soltar o gritooooohhh
+
+[PRÉ-REFRÃO]
+Mim          Sol          Ré         Lá
+O sol e a lama vão-nos bronzear
+Sim             Dó                         Lá
+Se vem a chuva, junta-se a nós a cantar!
+
+[REFRÃO]
+Ré           Sol      Ré       Lá      Ré
+Campinácios, viver a ânsia de sorrir
+             Sol      Lá       Sol        Ré
+Campinácios, ousar sonhar e descobrir
+(2x)
+
+Sol                  Ré          Sim            Lá
+Triciclos a começar, Trotinetas a explorar
+Sol                   Ré          Sim            Lá
+Bicicletas a crescer, Lambretas a devolver
+Sim                   Dó                 Lá
+Tratores a construir, Campinácios a explodir!
+
+[PRÉ-REFRÃO]
+
+[REFRÃO]
+```
 
 ### ABRE-TE AO SONHO {#abre-te-ao-sonho}
 
