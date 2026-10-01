@@ -13,7 +13,14 @@
     - 2010 [Obra Prima](../../Acampamentos/2010/Obra%20Prima.md)
 - **Animadora:**
     - 2010 [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2011 [Pescanova](../../Acampamentos/2011/Pescanova.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2012 [Clávis](../../Acampamentos/2012/Cl%C3%A1vis.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
     - 2013 [Camp & Nácios, S.A](../../Acampamentos/2013/Camp%20%26%20N%C3%A1cios%2C%20S.A.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
+    - 2014 [Sentido](../../Acampamentos/2014/Sentido.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
+    - 2015 [Take PaGod](../../Acampamentos/2015/Take%20PaGod.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
+    - 2016 [Mostra Garra](../../Acampamentos/2016/Mostra%20Garra.md) - [Tia](../../Cargos/Tio.md)
+    - 2017 [Supérate](../../Acampamentos/2017/Sup%C3%A9rate.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2018 [A Ir e Falta o S](../../Acampamentos/2018/A%20Ir%20e%20Falta%20o%20S.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
 
 ### Família
 
@@ -21,9 +28,16 @@
 
 ## Páginas que ligam para aqui
 
+- [A Ir e Falta o S](../../Acampamentos/2018/A%20Ir%20e%20Falta%20o%20S.md)
 - [Ana Paula Sampaio](../A/Ana%20Paula%20Sampaio.md)
 - [Camp & Nácios, S.A](../../Acampamentos/2013/Camp%20%26%20N%C3%A1cios%2C%20S.A.md)
+- [Clávis](../../Acampamentos/2012/Cl%C3%A1vis.md)
+- [Mostra Garra](../../Acampamentos/2016/Mostra%20Garra.md)
+- [Pescanova](../../Acampamentos/2011/Pescanova.md)
+- [Sentido](../../Acampamentos/2014/Sentido.md)
+- [Supérate](../../Acampamentos/2017/Sup%C3%A9rate.md)
 - [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md)
+- [Take PaGod](../../Acampamentos/2015/Take%20PaGod.md)
 
 ---
 

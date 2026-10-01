@@ -53,7 +53,7 @@
 </figure>
 </div>
 
-**30 anos (2020/21):** os 30 anos foram sonhados no Encontro Nacional de Animadores de 2019 como uma celebração que iria durar um ano inteiro, começando no Encontro Nacional de 2020 e terminando no de 2021. Com a pandemia a aparecer meses depois, as celebrações ficaram em pausa e as actividades passaram a fazer-se *online*. Ainda assim, vendeu-se *merchandising*: [Cabaz de Natal Campinácios 30 anos](https://pontosj.pt/campinacios/2020/12/04/cabaz-de-natal-campinacios-30-anos/).
+**30 anos (2020/21):** os 30 anos foram sonhados no Encontro Nacional de Animadores de 2019 como uma celebração que iria durar um ano inteiro, começando no Encontro Nacional 2020 e terminando no de 2021. Com a pandemia a aparecer meses depois, as celebrações ficaram em pausa e as actividades passaram a fazer-se *online*. Ainda assim, vendeu-se *merchandising*: [Cabaz de Natal Campinácios 30 anos](https://pontosj.pt/campinacios/2020/12/04/cabaz-de-natal-campinacios-30-anos/).
 
 **35 anos (2025):** o Encontro Nacional dos 35 anos marcou o regresso ao [CAIC](CAIC.md), depois de o colégio ter encerrado em 2019, e contou com os quatro escalões, animadores actuais e antigos (os Calhambeques) e ainda um escalão exclusivo: os Rodinhas (do 4.º ano para baixo). A identidade visual dos 35 anos foi produzida pelo departamento de comunicação do mandato de 2024/25: “Concha” Constança Sampaio Soares (coordenadora), Teresa Cannas, Francisca Neves e Marta Esperança Martins. Mais informação: [Campinácios 35 anos](https://pontosj.pt/campinacios/35-anos/).
 

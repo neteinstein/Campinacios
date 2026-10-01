@@ -18,7 +18,7 @@ António Sant'Ana sj pertenceu à DL-CAIC sendo posteriormente Assistente Nacion
 
 ## Páginas que ligam para aqui
 
-- [Encontro Nacional de 2007](../../Encontros/Encontro%20Nacional%20de%202007.md)
+- [Encontro Nacional 2007](../../Encontros/Encontro%20Nacional%202007.md)
 - [Falésia](../../Acampamentos/2005/Fal%C3%A9sia.md)
 - [Long Tao](../../Acampamentos/2006/Long%20Tao.md)
 - [TSI](../../Acampamentos/2008/TSI.md)
