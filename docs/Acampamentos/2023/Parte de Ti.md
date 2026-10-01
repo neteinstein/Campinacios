@@ -8,8 +8,7 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Janine Silva](../../Pessoas/J/Janine%20Silva.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Tiago Vilas Boas](../../Pessoas/T/Tiago%20Vilas%20Boas.md) (Tigas)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [António Pamplona](../../Pessoas/A/Ant%C3%B3nio%20Pamplona.md) sj
-- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md), [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
-- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Leonor Banha da Silva](../../Pessoas/L/Leonor%20Banha%20da%20Silva.md) (Licas)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md), [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md) e [Leonor Banha da Silva](../../Pessoas/L/Leonor%20Banha%20da%20Silva.md) (Licas)
 
 ## Páginas que ligam para aqui
 

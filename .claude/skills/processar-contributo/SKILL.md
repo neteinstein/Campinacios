@@ -67,6 +67,9 @@ maioria crianças.
   (Director, Director-Adjunto, Mamã, Tio/Tia, Capelão, Capelinho, Animador
   de Equipa, Animador Livre) — nunca abreviar um cargo ("Adjunto",
   "Livre") ao escrevê-lo numa página.
+  Os Animadores Livres e os Animadores de Equipa vão cada um numa só linha,
+  com todos os nomes ("Animadores Livres - A, B e C"; no singular se for só
+  um): nunca uma linha por pessoa, e junte-os à linha que o campo já tenha.
 - **Músicas** (hino, genérico da novela, qualquer letra que venha num
   contributo de campo): nunca ficam na página do campo. Entram em
   `docs/Movimento/Cantinácio/Campinácios.md` — no `## Índice`, por ordem

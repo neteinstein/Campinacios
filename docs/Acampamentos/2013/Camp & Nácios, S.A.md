@@ -8,7 +8,7 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Sara Rita Sampaio](../../Pessoas/S/Sara%20Rita%20Sampaio.md)
-- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Ana Paula Sampaio](../../Pessoas/A/Ana%20Paula%20Sampaio.md), [Ana Rita Costa](../../Pessoas/A/Ana%20Rita%20Costa.md), Raquel, [Marcelo Vieira](../../Pessoas/M/Marcelo%20Vieira.md), [Rita Martins](../../Pessoas/R/Rita%20Martins.md)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Ana Paula Sampaio](../../Pessoas/A/Ana%20Paula%20Sampaio.md), [Ana Rita Costa](../../Pessoas/A/Ana%20Rita%20Costa.md), Raquel, [Marcelo Vieira](../../Pessoas/M/Marcelo%20Vieira.md) e [Rita Martins](../../Pessoas/R/Rita%20Martins.md)
 
 ## Páginas que ligam para aqui
 

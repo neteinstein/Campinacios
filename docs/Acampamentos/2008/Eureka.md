@@ -9,7 +9,7 @@ O Eureka foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) e de
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Pica](../../Pessoas/F/Francisco%20Silva%20Rodrigues.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Zebra](../../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md) sj e Pedro Dias sj
 - [Tia](../../Cargos/Tio.md) - [Joana Cardoso](../../Pessoas/J/Joana%20Cardoso.md)
-- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Zé Aves](../../Pessoas/J/Jos%C3%A9%20Miguel%20Fernandes.md), [Filipe Barroso](../../Pessoas/F/Filipe%20Barroso.md)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Zé Aves](../../Pessoas/J/Jos%C3%A9%20Miguel%20Fernandes.md) e [Filipe Barroso](../../Pessoas/F/Filipe%20Barroso.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Sílvia Reis](../../Pessoas/S/S%C3%ADlvia%20Reis.md), [Isa](../../Pessoas/A/Analisa%20Lucas.md), [Joana Reis](../../Pessoas/J/Joana%20Reis.md), [Rita Mendes](../../Pessoas/R/Rita%20Mendes.md), [Helena Pais](../../Pessoas/H/Helena%20Pais.md) e [Pedro Lucas](../../Pessoas/P/Pedro%20Lucas.md)
 
 ## Páginas que ligam para aqui
