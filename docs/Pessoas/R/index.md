@@ -49,6 +49,7 @@
 - [Rodrigo Calçarão](Rodrigo%20Cal%C3%A7ar%C3%A3o.md)
 - [Rodrigo Queiroz e Melo](Rodrigo%20Queiroz%20e%20Melo.md)
 - [Rosa](Rosa.md)
+- [Rosarinho Araújo](Rosarinho%20Ara%C3%BAjo.md)
 - [Rosinha Dias Costa](Rosinha%20Dias%20Costa.md)
 - [Rosário Branco](Ros%C3%A1rio%20Branco.md)
 - [Rui Duarte](Rui%20Duarte.md)
