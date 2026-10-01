@@ -5,10 +5,12 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Miguel Santos](../../Pessoas/M/Miguel%20Santos.md)
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [Sara Rita Sampaio](../../Pessoas/S/Sara%20Rita%20Sampaio.md)
 
 ## Páginas que ligam para aqui
 
 - [Miguel Santos](../../Pessoas/M/Miguel%20Santos.md)
+- [Sara Rita Sampaio](../../Pessoas/S/Sara%20Rita%20Sampaio.md)
 
 ---
 

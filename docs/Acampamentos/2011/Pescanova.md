@@ -5,6 +5,7 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Joana Gomes](../../Pessoas/J/Joana%20Gomes.md)
+- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Sara Rita Sampaio](../../Pessoas/S/Sara%20Rita%20Sampaio.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - [João Monteiro](../../Pessoas/J/Jo%C3%A3o%20Monteiro.md)
 
@@ -13,6 +14,7 @@
 - [Joana Gomes](../../Pessoas/J/Joana%20Gomes.md)
 - [João Monteiro](../../Pessoas/J/Jo%C3%A3o%20Monteiro.md)
 - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
+- [Sara Rita Sampaio](../../Pessoas/S/Sara%20Rita%20Sampaio.md)
 
 ---
 
