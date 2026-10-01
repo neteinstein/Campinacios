@@ -56,6 +56,7 @@ extra_css:
 extra_javascript:
   - assets/graph.js
   - assets/restrito.js
+  - assets/pessoas.js
 
 validation:
   links:
