@@ -2,6 +2,8 @@
 
 Este nome foi dado ao conjunto de sítios e serviços que os Campinácios disponibilizaram a partir de 2009 mudando radicalmente a filosofia do que disponibilizavam on-line, depois da [página original](Online.md#pagina-original).
 
+Pode ver-se uma [reconstrução da página principal de Maio de 2012](../campinacios-v2/index.html), refeita a partir da cópia do Wayback Machine, que guardou o HTML mas não a folha de estilos nem as imagens.
+
 ### A partir desta data foi possível on-line...
 
 - ...ter informações de cada acampamento

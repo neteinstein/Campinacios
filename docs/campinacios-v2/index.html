@@ -1,0 +1,990 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Campinácios v2.0</title>
+<meta name="description" content="Reconstrução da página principal de campinacios.org a 30 de Maio de 2012 (Revolução Campinácios v2.0, Joomla! 1.5, modelo darkrational verde), com a folha de estilos que se perdeu no arquivo.">
+<!--
+  Reconstrução da página principal de www.campinacios.org tal como o
+  Wayback Machine a guardou a 30 de Maio de 2012
+  (web.archive.org/web/20120530220121/http://www.campinacios.org/).
+  O HTML guardou-se, mas a folha de estilos do modelo «darkrational»
+  (JoomlaJunkie) e as imagens não. Este ficheiro refaz o aspecto com o
+  esquema verde (green.css) a partir das cores que o próprio HTML ainda
+  menciona (#1B262A, #253034, #009900, #4aed05, #333333).
+
+  Diferenças em relação ao original:
+  - a faixa do topo era uma de várias (pic9.jpg); usa-se a do Gaivota 2005,
+    que é da mesma série;
+  - os cartazes dos artigos e o emblema do Facebook não se guardaram;
+  - a caixa «Wikinácios – Mudanças recentes» mostrava só spam que tinha
+    entrado na wiki; fica de fora;
+  - o widget do Twitter, o contador e o formulário de entrada já não
+    funcionam: ficam como caixas estáticas.
+  As ligações apontam para a cópia do Wayback Machine, salvo as que têm
+  página própria nesta Wikinácios.
+-->
+<style>
+/* Layout: grelha de 960px do modelo darkrational — topo, faixa, menu em
+   separadores, três colunas (220 / 500 / 220), módulos de baixo e rodapé. */
+:root {
+  --fundo: #0e1416;
+  --fundo-topo: #080c0d;
+  --painel: #1b262a;
+  --painel-claro: #253034;
+  --linha: #34444a;
+  --texto: #d7dfe1;
+  --texto-suave: #8fa0a5;
+  --branco: #ffffff;
+  --acento: #009900;
+  --acento-vivo: #4aed05;
+  --letra: "Trebuchet MS", "Lucida Grande", Verdana, Arial, sans-serif;
+  --letra-titulo: "Arial Narrow", "Trebuchet MS", Arial, sans-serif;
+  --tamanho: 12px;
+  color-scheme: dark;
+}
+:root[data-cor="blue"]   { --acento: #1f6fc4; --acento-vivo: #5fb3ff; }
+:root[data-cor="orange"] { --acento: #d46a00; --acento-vivo: #ffa53a; }
+:root[data-cor="red"]    { --acento: #b81f1f; --acento-vivo: #ff5c5c; }
+:root[data-letra="smaller-text"] { --tamanho: 11px; }
+:root[data-letra="large-text"]   { --tamanho: 14px; }
+
+* { box-sizing: border-box; }
+
+html { background: var(--fundo); }
+
+body {
+  margin: 0;
+  background:
+    linear-gradient(180deg, var(--fundo-topo) 0, var(--fundo) 420px),
+    var(--fundo);
+  color: var(--texto);
+  font: var(--tamanho)/1.6 var(--letra);
+}
+
+a { color: var(--acento-vivo); text-decoration: none; }
+a:hover { color: var(--branco); text-decoration: underline; }
+a:focus-visible, button:focus-visible, input:focus-visible, summary:focus-visible {
+  outline: 2px solid var(--acento-vivo);
+  outline-offset: 2px;
+}
+
+.width960px {
+  width: 960px;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+/* ---------- Topo: logótipo e opções ---------- */
+
+#top { background: var(--fundo-topo); border-bottom: 1px solid #000; }
+#top .width960px {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+  padding: 14px 0 12px;
+}
+
+#logo h1 {
+  margin: 0;
+  font: bold 30px/1 var(--letra-titulo);
+  letter-spacing: -0.5px;
+}
+#logo h1 a { color: var(--branco); }
+#logo h1 a:hover { text-decoration: none; }
+#logo h1 .versao { color: var(--acento-vivo); }
+#logo p {
+  margin: 4px 0 0;
+  font-size: 11px;
+  color: var(--texto-suave);
+  letter-spacing: 0.04em;
+}
+
+#color-text {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 11px;
+  color: var(--texto-suave);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+#color-icons, #font-icons { display: flex; gap: 4px; }
+
+.cor, .letra {
+  width: 18px;
+  height: 18px;
+  padding: 0;
+  border: 1px solid #000;
+  border-radius: 3px;
+  cursor: pointer;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.35);
+}
+.cor[data-cor="blue"]   { background: linear-gradient(#5fb3ff, #1f6fc4); }
+.cor[data-cor="green"]  { background: linear-gradient(#4aed05, #009900); }
+.cor[data-cor="orange"] { background: linear-gradient(#ffa53a, #d46a00); }
+.cor[data-cor="red"]    { background: linear-gradient(#ff5c5c, #b81f1f); }
+.cor[aria-pressed="true"] { outline: 2px solid var(--branco); outline-offset: 1px; }
+
+.letra {
+  background: linear-gradient(#3a4a50, var(--painel));
+  color: var(--texto);
+  font: bold 10px/16px var(--letra);
+  text-transform: none;
+}
+.letra[data-letra="medium-text"] { font-size: 12px; }
+.letra[data-letra="large-text"]  { font-size: 14px; }
+.letra[aria-pressed="true"] { background: var(--acento); color: var(--branco); }
+
+/* ---------- Faixa ---------- */
+
+#user1 { background: #000; }
+#user1 img {
+  display: block;
+  width: 960px;
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: 960 / 200;
+  object-fit: cover;
+  margin: 0 auto;
+}
+
+/* ---------- Menu em separadores e pesquisa ---------- */
+
+#nav {
+  background: linear-gradient(#2d3b40, var(--painel));
+  border-top: 1px solid #3d5157;
+  border-bottom: 3px solid var(--acento);
+}
+#nav .width960px {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+#nav ul.menu {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+#nav ul.menu a {
+  display: block;
+  padding: 11px 16px 10px;
+  color: var(--texto);
+  font: bold 13px/1 var(--letra);
+  border-right: 1px solid #10181b;
+  border-left: 1px solid #3a4b51;
+}
+#nav ul.menu li:first-child a { border-left: 0; }
+#nav ul.menu a:hover,
+#nav ul.menu li.current a {
+  background: linear-gradient(var(--acento-vivo), var(--acento));
+  color: var(--branco);
+  text-decoration: none;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.45);
+}
+
+#searchbox { display: flex; align-items: center; padding: 5px 0; }
+#searchbox input {
+  width: 190px;
+  padding: 5px 10px;
+  border: 1px solid #000;
+  border-radius: 12px;
+  background: #0b1113;
+  color: var(--texto);
+  font: 12px var(--letra);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.8);
+}
+
+/* ---------- Três colunas ---------- */
+
+#main .down {
+  display: grid;
+  grid-template-columns: 220px minmax(0, 1fr) 220px;
+  gap: 10px;
+  padding: 14px 0 20px;
+  align-items: start;
+}
+
+/* Módulos laterais */
+.jjmod {
+  background: var(--painel);
+  border: 1px solid #0b1113;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  overflow: hidden;
+  box-shadow: 0 1px 0 #2a383d inset;
+}
+.jjmod-title {
+  margin: 0;
+  padding: 9px 10px 8px;
+  background: linear-gradient(#2f3e43, #202c30);
+  border-bottom: 1px solid #0b1113;
+  color: var(--branco);
+  font: bold 14px/1.2 var(--letra-titulo);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+.jjmod-title .icon {
+  width: 9px;
+  height: 9px;
+  border-radius: 2px;
+  background: var(--acento-vivo);
+  box-shadow: 0 0 6px var(--acento-vivo);
+  flex: none;
+}
+.jjmod-content { padding: 8px 10px 10px; }
+
+/* Formulário de entrada */
+#form-login fieldset { border: 0; margin: 0; padding: 0; }
+#form-login p { margin: 0 0 6px; }
+#form-login label { color: var(--texto-suave); font-size: 11px; }
+.inputbox {
+  width: 100%;
+  padding: 4px 6px;
+  border: 1px solid #000;
+  background: #0b1113;
+  color: var(--texto);
+  font: 12px var(--letra);
+}
+#form-login-remember { display: flex; align-items: center; gap: 6px; }
+#form-login-remember .inputbox { width: auto; }
+.button {
+  padding: 4px 12px;
+  border: 1px solid #000;
+  border-radius: 3px;
+  background: linear-gradient(var(--acento-vivo), var(--acento));
+  color: var(--branco);
+  font: bold 11px var(--letra);
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
+  cursor: pointer;
+}
+.jjmod-content > form + ul,
+#form-login ul {
+  list-style: none;
+  margin: 8px 0 0;
+  padding: 0;
+  font-size: 11px;
+}
+.aviso-form { margin: 6px 0 0; font-size: 11px; color: var(--acento-vivo); }
+
+/* Menus em acordeão */
+.jjmod-content ul.menu { list-style: none; margin: -8px -10px -10px; padding: 0; }
+.jjmod-content ul.menu > li > details > summary,
+.jjmod-content ul.menu ul a {
+  display: block;
+  padding: 7px 12px;
+  border-bottom: 1px solid #10181b;
+  border-top: 1px solid #26343a;
+  background: var(--painel);
+  color: var(--texto);
+  cursor: pointer;
+  transition: background-color 0.25s;
+}
+.jjmod-content ul.menu > li > details > summary {
+  list-style: none;
+  font-weight: bold;
+  position: relative;
+}
+.jjmod-content ul.menu > li > details > summary::-webkit-details-marker { display: none; }
+.jjmod-content ul.menu > li > details > summary::after {
+  content: "+";
+  position: absolute;
+  right: 12px;
+  color: var(--acento-vivo);
+}
+.jjmod-content ul.menu > li > details[open] > summary::after { content: "–"; }
+.jjmod-content ul.menu > li > details > summary:hover,
+.jjmod-content ul.menu ul a:hover {
+  background: var(--painel-claro);
+  color: var(--branco);
+  text-decoration: none;
+}
+.jjmod-content ul.menu > li > details[open] > summary { background: var(--painel-claro); color: var(--acento-vivo); }
+.jjmod-content ul.menu ul { list-style: none; margin: 0; padding: 0; background: #141d20; }
+.jjmod-content ul.menu ul a { background: #141d20; padding-left: 24px; font-size: 0.95em; }
+.jjmod-content ul.menu ul a::before { content: "» "; color: var(--acento); }
+
+/* Listas de artigos */
+ul.latestnews, ul.mostread { list-style: none; margin: 0; padding: 0; }
+ul.latestnews li, ul.mostread li { border-bottom: 1px dotted var(--linha); }
+ul.latestnews li:last-child, ul.mostread li:last-child { border-bottom: 0; }
+ul.latestnews a, ul.mostread a { display: block; padding: 4px 0 4px 12px; position: relative; color: var(--texto); }
+ul.latestnews a::before, ul.mostread a::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  margin-top: -3px;
+  border: 3px solid transparent;
+  border-left: 5px solid var(--acento-vivo);
+}
+ul.latestnews a:hover, ul.mostread a:hover { color: var(--acento-vivo); text-decoration: none; }
+
+/* ---------- Coluna central ---------- */
+
+#content-inner {
+  background: var(--painel);
+  border: 1px solid #0b1113;
+  border-radius: 4px;
+  padding: 14px 18px 18px;
+  min-width: 0;
+}
+
+.contentpaneopen .contentheading {
+  margin: 0;
+  font: bold 21px/1.2 var(--letra-titulo);
+  color: var(--acento-vivo);
+  text-wrap: balance;
+}
+.cabeca-artigo {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 10px;
+  border-bottom: 1px solid var(--linha);
+  padding-bottom: 6px;
+}
+.article-options { display: flex; gap: 4px; flex: none; }
+.article-options a {
+  display: grid;
+  place-items: center;
+  width: 20px;
+  height: 18px;
+  border: 1px solid var(--linha);
+  border-radius: 2px;
+  color: var(--texto-suave);
+}
+.article-options a:hover { color: var(--branco); border-color: var(--acento); text-decoration: none; }
+.article-options svg { width: 12px; height: 12px; fill: currentColor; }
+
+.createdate, .modifydate {
+  display: block;
+  font-size: 0.92em;
+  color: var(--texto-suave);
+  font-style: italic;
+}
+.createdate { margin: 6px 0 8px; }
+.modifydate { margin-top: 10px; }
+
+.contentpaneopen h2 { font-size: 1.35em; color: var(--branco); margin: 0.6em 0; line-height: 1.3; text-wrap: balance; }
+.contentpaneopen h2 strong { color: var(--acento-vivo); }
+.contentpaneopen p { margin: 0 0 0.6em; }
+.centro { text-align: center; }
+
+.cartaz {
+  display: grid;
+  place-items: center;
+  margin: 8px auto;
+  max-width: 100%;
+  border: 1px dashed var(--linha);
+  background: repeating-linear-gradient(135deg, #18222500 0 10px, #ffffff08 10px 20px), #141d20;
+  color: var(--texto-suave);
+  font-size: 11px;
+  text-align: center;
+  padding: 10px;
+}
+
+.addtoany { margin-top: 10px; }
+.a2a_dd {
+  display: inline-flex;
+  align-items: stretch;
+  border: 1px solid #000;
+  border-radius: 2px;
+  overflow: hidden;
+  font: bold 10px/16px Verdana, Arial, sans-serif;
+}
+.a2a_dd span:first-child { background: var(--acento); color: var(--branco); padding: 0 5px; }
+.a2a_dd span:last-child { background: #e8eef0; color: #333; padding: 0 6px; }
+.a2a_dd:hover { text-decoration: none; filter: brightness(1.1); }
+
+.article_separator {
+  display: block;
+  height: 1px;
+  margin: 18px 0;
+  background: linear-gradient(90deg, transparent, var(--acento), transparent);
+}
+
+.blog_more { margin-top: 4px; }
+.more-link { margin: 0 0 4px; color: var(--branco); }
+.more-links { margin: 0; padding-left: 18px; }
+.more-links li::marker { color: var(--acento-vivo); }
+
+.pagination-links {
+  margin-top: 16px;
+  padding-top: 10px;
+  border-top: 1px solid var(--linha);
+  text-align: center;
+  color: var(--texto-suave);
+  word-spacing: 2px;
+}
+.pagination-links a, .pagination-links .pagenav {
+  display: inline-block;
+  padding: 0 4px;
+}
+.pagination-links .actual {
+  background: var(--acento);
+  color: var(--branco);
+  border-radius: 2px;
+}
+.pagination-counter { text-align: center; color: var(--texto-suave); font-size: 0.92em; margin-top: 4px; }
+
+/* ---------- Coluna direita: emblemas, sondagem e Twitter ---------- */
+
+.fb-badge {
+  display: block;
+  width: 114px;
+  margin: 0 auto;
+  border: 1px solid #000;
+  background: #fff;
+  color: #333;
+  font: 10px/1.25 "Lucida Grande", Tahoma, Verdana, Arial, sans-serif;
+  text-align: left;
+}
+.fb-badge b {
+  display: block;
+  background: #3b5998;
+  color: #fff;
+  padding: 3px 5px;
+  font-size: 11px;
+}
+.fb-badge span { display: block; padding: 4px 5px 6px; }
+.fb-badge:hover { text-decoration: none; filter: brightness(1.05); }
+
+.poll { width: 100%; border-collapse: collapse; }
+.poll caption { font-weight: bold; color: var(--branco); text-align: left; padding-bottom: 6px; }
+.poll td { padding: 3px 2px; vertical-align: top; }
+.poll tr:nth-child(odd) td { background: #ffffff06; }
+.poll label { cursor: pointer; }
+.poll .botoes { display: flex; justify-content: center; gap: 6px; padding-top: 8px; }
+.resultados { list-style: none; margin: 8px 0 0; padding: 0; font-size: 11px; }
+.resultados li { margin-bottom: 4px; }
+.resultados .barra { display: block; height: 6px; background: #0b1113; border-radius: 3px; overflow: hidden; }
+.resultados .barra i { display: block; height: 100%; background: var(--acento-vivo); }
+
+.twtr {
+  background: #333333;
+  border-radius: 5px;
+  padding: 6px;
+  color: #ffffff;
+}
+.twtr header { display: flex; align-items: center; gap: 6px; padding: 2px 2px 6px; font-weight: bold; }
+.twtr header .ave {
+  width: 26px;
+  height: 26px;
+  border-radius: 3px;
+  background: linear-gradient(var(--acento-vivo), var(--acento));
+  display: grid;
+  place-items: center;
+  font-size: 14px;
+}
+.twtr header small { display: block; font-weight: normal; color: #bbb; font-size: 10px; }
+.twtr .tweets { background: #ffffff; color: #000000; border-radius: 3px; padding: 8px; font-size: 11px; min-height: 110px; }
+.twtr .tweets p { margin: 0 0 8px; padding-bottom: 8px; border-bottom: 1px solid #eee; }
+.twtr .tweets p:last-child { border: 0; margin: 0; padding: 0; color: #777; font-style: italic; }
+.twtr .tweets a { color: #2b8a00; }
+.twtr footer { display: flex; justify-content: space-between; font-size: 10px; padding: 5px 2px 0; color: #ccc; }
+.twtr footer a { color: #fff; }
+
+.wiki-feed strong { display: block; margin-bottom: 4px; }
+.wiki-feed p { margin: 0; color: var(--texto-suave); font-size: 11px; }
+
+/* ---------- Módulos de baixo e rodapé ---------- */
+
+#bottom_modules {
+  background: linear-gradient(#141d20, #0b1113);
+  border-top: 3px solid var(--acento);
+  padding: 18px 0;
+}
+#bottom_modules .width960px {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 20px;
+}
+#bottom_modules h3 {
+  margin: 0 0 8px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--linha);
+  color: var(--branco);
+  font: bold 14px/1.2 var(--letra-titulo);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.online strong { color: var(--acento-vivo); font-size: 1.6em; font-variant-numeric: tabular-nums; }
+
+#footer { background: #000; color: var(--texto-suave); font-size: 11px; padding: 14px 0 22px; }
+#nav-copy { display: grid; gap: 8px; }
+#nav-and-credits, #copyright { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+#joomlajunkie-swish a { font: bold 15px var(--letra-titulo); color: var(--branco); }
+#joomlajunkie-swish a:hover { color: var(--acento-vivo); }
+.selos { display: flex; gap: 4px; }
+.selos a {
+  display: inline-block;
+  padding: 1px 6px;
+  border: 1px solid var(--linha);
+  border-radius: 2px;
+  font: bold 9px/14px Verdana, Arial, sans-serif;
+  text-transform: uppercase;
+  color: var(--texto-suave);
+}
+.selos a.footer-rss { background: #f78422; color: #fff; border-color: #c25d00; }
+.selos a:hover { color: var(--branco); border-color: var(--acento); text-decoration: none; }
+
+.reconstrucao {
+  width: 960px;
+  max-width: 100%;
+  margin: 14px auto 0;
+  padding: 8px 10px;
+  border: 1px dashed var(--linha);
+  color: var(--texto-suave);
+  text-align: center;
+}
+
+/* ---------- Ecrãs mais estreitos ---------- */
+
+@media (max-width: 1000px) {
+  body { padding-inline: 16px; }
+  #top, #user1, #nav, #bottom_modules, #footer { margin-inline: -16px; padding-inline: 16px; }
+  #main .down { grid-template-columns: 200px minmax(0, 1fr); }
+  #right {
+    grid-column: 1 / -1;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 0 10px;
+  }
+}
+
+@media (max-width: 700px) {
+  #main .down { grid-template-columns: minmax(0, 1fr); }
+  #content { order: 1; }
+  #left { order: 2; }
+  #right { order: 3; }
+  #nav ul.menu a { padding: 9px 10px; font-size: 12px; }
+  #searchbox { width: 100%; padding-bottom: 8px; }
+  #searchbox input { width: 100%; }
+  #bottom_modules .width960px { grid-template-columns: minmax(0, 1fr); }
+  .cabeca-artigo { flex-direction: column; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .jjmod-content ul.menu * { transition: none; }
+}
+</style>
+</head>
+<body class="scheme_3 superfish">
+
+<div id="top">
+  <div class="width960px">
+    <div id="logo">
+      <h1><a href="index.html">Campinácios <span class="versao">v2.0</span></a></h1>
+      <p>Acampamentos dos Colégios da Companhia de Jesus em Portugal</p>
+    </div>
+    <div id="color-text">
+      <span class="options_caption">Opções</span>
+      <div id="color-icons" role="group" aria-label="Cor do tema">
+        <button type="button" class="cor" data-cor="blue" title="Mudar para azul" aria-label="Azul"></button>
+        <button type="button" class="cor" data-cor="green" title="Mudar para verde" aria-label="Verde"></button>
+        <button type="button" class="cor" data-cor="orange" title="Mudar para laranja" aria-label="Laranja"></button>
+        <button type="button" class="cor" data-cor="red" title="Mudar para vermelho" aria-label="Vermelho"></button>
+      </div>
+      <div id="font-icons" role="group" aria-label="Tamanho da letra">
+        <button type="button" class="letra" data-letra="smaller-text" title="Letra mais pequena">A</button>
+        <button type="button" class="letra" data-letra="medium-text" title="Letra normal">A</button>
+        <button type="button" class="letra" data-letra="large-text" title="Letra maior">A</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="user1">
+  <a href="index.html"><img src="../assets/imagens/Acampamentos_banner.webp" alt="Acampamento Gaivota (2005): animadores e participantes vestidos de beduínos, com o logótipo dos Campinácios" width="960" height="200"></a>
+</div>
+
+<div id="nav">
+  <div class="width960px">
+    <ul class="menu">
+      <li class="current"><a href="index.html">Inicio</a></li>
+      <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=94">Agenda</a></li>
+      <li><a href="../index.html">Wikinácios</a></li>
+      <li><a href="https://www.facebook.com/campinacios">Facebook</a></li>
+      <li><a href="https://www.youtube.com/campinacios">YouTube</a></li>
+      <li><a href="https://web.archive.org/web/20120530220121/http://campinacios.org/loja/catalog/">Catálogo</a></li>
+    </ul>
+    <form id="searchbox" role="search" action="../index.html">
+      <label class="sr" for="mod_search_searchword" hidden>Pesquisar</label>
+      <input id="mod_search_searchword" name="q" type="search" maxlength="20" placeholder="Pesquisar..." autocomplete="off">
+    </form>
+  </div>
+</div>
+
+<div id="wrapper">
+<div id="main">
+<div class="width960px">
+<div class="down">
+
+  <div id="left">
+    <div class="jjmod" id="Mod18">
+      <div class="jjmod-content">
+        <form id="form-login" data-demo>
+          <fieldset>
+            <p><label for="modlgn_username">Nome de utilizador</label><br><input id="modlgn_username" type="text" class="inputbox" autocomplete="off"></p>
+            <p><label for="modlgn_passwd">Senha</label><br><input id="modlgn_passwd" type="password" class="inputbox" autocomplete="off"></p>
+            <p id="form-login-remember"><label for="modlgn_remember">Memorizar</label><input id="modlgn_remember" type="checkbox" class="inputbox"></p>
+            <input type="submit" class="button" value="Autenticação">
+          </fieldset>
+          <ul>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_user&amp;view=reset">Perdeu a senha?</a></li>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_user&amp;view=remind">Esqueceu-se do nome de utilizador?</a></li>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_user&amp;view=register">Registe-se!</a></li>
+          </ul>
+          <p class="aviso-form" hidden>Este site já não existe: não há contas onde entrar.</p>
+        </form>
+      </div>
+    </div>
+
+    <div class="jjmod" id="Mod1">
+      <h3 class="jjmod-title"><span class="icon"></span>Conhecer</h3>
+      <div class="jjmod-content">
+        <ul class="menu">
+          <li><details><summary>Apresentação</summary><ul>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=article&amp;id=101&amp;Itemid=142">Como começou</a></li>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=category&amp;id=78&amp;Itemid=147">Tema do ano</a></li>
+          </ul></details></li>
+          <li><details><summary>Notícias</summary><ul>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=65&amp;Itemid=63">Nacional</a></li>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=64&amp;Itemid=128">CAIC</a></li>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=63&amp;Itemid=129">CC</a></li>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=62&amp;Itemid=130">CSJB</a></li>
+          </ul></details></li>
+          <li><details><summary>Links</summary><ul>
+            <li><a href="https://web.archive.org/web/20120530220121/http://62.28.22.201:82/">CAIC</a></li>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.colegiodascaldinhas.pt/">CC</a></li>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.csjb.pt/">CSJB</a></li>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.camtil.pt/">CAMTIL</a></li>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.gambozinos.org/">Gambozinos</a></li>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.essejota.net/">Essejota</a></li>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_weblinks&amp;view=category&amp;id=69&amp;Itemid=121">Blogs e Sites</a></li>
+          </ul></details></li>
+          <li><details><summary>Contactos</summary><ul>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_contact&amp;view=category&amp;catid=71&amp;Itemid=134">Direcção Local CAIC</a></li>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_contact&amp;view=category&amp;catid=72&amp;Itemid=135">Direcção Local CC</a></li>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_contact&amp;view=category&amp;catid=73&amp;Itemid=136">Direcção Local CSJB</a></li>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_contact&amp;view=category&amp;catid=0&amp;Itemid=144">Direcção Nacional</a></li>
+          </ul></details></li>
+          <li><details><summary>Videos</summary><ul>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_hwdvideoshare&amp;task=gotocategory&amp;Itemid=155">Campinácios</a></li>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_hwdvideoshare&amp;task=gotocategory&amp;Itemid=156">Tutoriais</a></li>
+          </ul></details></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="jjmod" id="Mod78">
+      <h3 class="jjmod-title"><span class="icon"></span>Viver</h3>
+      <div class="jjmod-content">
+        <ul class="menu">
+          <li><details><summary>Arquivo</summary><ul>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=54&amp;Itemid=79">Jornal dos Campinácios</a></li>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=category&amp;id=67&amp;Itemid=118">Documentos</a></li>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=category&amp;id=53&amp;Itemid=78">Testemunhos</a></li>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_phocaguestbook&amp;view=phocaguestbook&amp;id=2&amp;Itemid=126">Antigo Guestbook</a></li>
+          </ul></details></li>
+          <li><details><summary>Actividades</summary><ul>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=77&amp;Itemid=148">Introdução</a></li>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=41&amp;Itemid=82">Formação de Animadores</a></li>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=43&amp;Itemid=83">Encontro Nacional</a></li>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=43&amp;Itemid=84">Encontro Nacional de Animadores</a></li>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=category&amp;id=44&amp;Itemid=85">Orações</a></li>
+          </ul></details></li>
+          <li><details><summary>Reviver</summary><ul>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=category&amp;id=70&amp;Itemid=125">Hinos de Campo</a></li>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=category&amp;id=51&amp;Itemid=76">Músicas</a></li>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=category&amp;id=52&amp;Itemid=77">Vídeos</a></li>
+          </ul></details></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div id="content">
+    <div id="content-inner">
+      <div class="blog">
+
+        <div class="contentpaneopen">
+          <div class="cabeca-artigo">
+            <h2 class="contentheading">Jantar de Gala</h2>
+            <div class="article-options">
+              <a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?view=article&amp;catid=65:direccao-nacional&amp;id=176:jantar-de-gaga&amp;tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Versão para impressão"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M4 1h8v4H4zM1 6h14v6h-3v3H4v-3H1zm4 4v4h6v-4z"/></svg></a>
+              <a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_mailto&amp;tmpl=component" title="Enviar por E-mail"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M1 3h14v10H1zm1.5 1.2L8 8.6l5.5-4.4z"/></svg></a>
+            </div>
+          </div>
+          <span class="createdate">Quinta, 19 Maio 2011 21:18</span>
+          <h2>Campinácios, Camtil e Gambozinos apresentam: <strong>"JANTAR DE GALA".</strong></h2>
+          <p><strong>QUANDO?</strong><br>10 de Junho, a partir das 18h30</p>
+          <p><strong>ONDE?</strong><br>Quinta do Loureiro, Rebordões - SANTO TIRSO</p>
+          <p><strong>QUANTO CUSTA?</strong><br>Custo por pessoa (excepto crianças até aos 12 anos): 17€<br>Custo por mesa (10 convidados): 150€</p>
+          <h2><strong>Video: <a href="https://youtu.be/CBI-zXPaaZs">http://youtu.be/CBI-zXPaaZs</a></strong></h2>
+          <div class="addtoany"><a class="a2a_dd" href="https://web.archive.org/web/20120530220121/http://www.addtoany.com/share_save?linkname=Jantar%20de%20Gala&amp;linkurl=http%3A%2F%2Fcampinacios.org"><span>+</span><span>SHARE / SAVE</span></a></div>
+          <span class="modifydate">Actualizado em ( Sexta, 20 Maio 2011 12:44 )</span>
+        </div>
+        <span class="article_separator"></span>
+
+        <div class="contentpaneopen">
+          <div class="cabeca-artigo">
+            <h2 class="contentheading">Ceita de NATAL (CSJB)</h2>
+            <div class="article-options">
+              <a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?view=article&amp;catid=62:dl-csjb&amp;id=175:ceita-de-natal-csjb&amp;tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Versão para impressão"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M4 1h8v4H4zM1 6h14v6h-3v3H4v-3H1zm4 4v4h6v-4z"/></svg></a>
+              <a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_mailto&amp;tmpl=component" title="Enviar por E-mail"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M1 3h14v10H1zm1.5 1.2L8 8.6l5.5-4.4z"/></svg></a>
+            </div>
+          </div>
+          <span class="createdate">Quarta, 15 Dezembro 2010 14:48</span>
+          <p class="centro">Olá Malta! Como prometido, aqui está mais uma grandiosa actividade! A não perder!</p>
+          <div class="cartaz" style="width:300px;aspect-ratio:300/500">Cartaz da Ceia de Natal do CSJB<br>(a imagem não ficou guardada)</div>
+          <p class="centro">Não se esqueçam de inscrever! Quanto mais rápido melhor!</p>
+          <div class="addtoany"><a class="a2a_dd" href="https://web.archive.org/web/20120530220121/http://www.addtoany.com/share_save?linkname=Ceita%20de%20NATAL%20%28CSJB%29&amp;linkurl=http%3A%2F%2Fcampinacios.org"><span>+</span><span>SHARE / SAVE</span></a></div>
+          <span class="modifydate">Actualizado em ( Terça, 05 Abril 2011 14:27 )</span>
+        </div>
+        <span class="article_separator"></span>
+
+        <div class="contentpaneopen">
+          <div class="cabeca-artigo">
+            <h2 class="contentheading">Café Terrace [CSJB]</h2>
+            <div class="article-options">
+              <a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?view=article&amp;catid=62:dl-csjb&amp;id=174:cafe-terrace-csjb&amp;tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Versão para impressão"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M4 1h8v4H4zM1 6h14v6h-3v3H4v-3H1zm4 4v4h6v-4z"/></svg></a>
+              <a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_mailto&amp;tmpl=component" title="Enviar por E-mail"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M1 3h14v10H1zm1.5 1.2L8 8.6l5.5-4.4z"/></svg></a>
+            </div>
+          </div>
+          <span class="createdate">Quinta, 09 Dezembro 2010 15:00</span>
+          <p class="centro"><a href="https://campinacioslisboa.blogspot.com/">http://campinacioslisboa.blogspot.com/</a></p>
+          <p class="centro">Olá Malta! Já estão com saudades dos campinácios? Pois aqui vai mais uma grande actividade!</p>
+          <p class="centro">Café Terrace. No terraço, às 10h. Só para os mais velhos!</p>
+          <div class="cartaz" style="width:400px;aspect-ratio:400/250">Cartaz do Café Terrace<br>(a imagem não ficou guardada)</div>
+          <p class="centro">Fiquem atentos, em breve mais actividades vão chegar!</p>
+          <div class="addtoany"><a class="a2a_dd" href="https://web.archive.org/web/20120530220121/http://www.addtoany.com/share_save?linkname=Caf%C3%A9%20Terrace%20%5BCSJB%5D&amp;linkurl=http%3A%2F%2Fcampinacios.org"><span>+</span><span>SHARE / SAVE</span></a></div>
+        </div>
+        <span class="article_separator"></span>
+
+        <div class="blog_more">
+          <p class="more-link"><strong>Mais artigos...</strong></p>
+          <ul class="more-links">
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=article&amp;id=161:ansiedade">Ansiedade</a></li>
+            <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=article&amp;id=129:tu-por-acaso&amp;catid=65:direccao-nacional&amp;Itemid=63">Tu por acaso...</a></li>
+          </ul>
+        </div>
+
+        <div class="pagination-links">
+          &lt;&lt; <span class="pagenav">Início</span> &lt; <span class="pagenav">Anterior</span>
+          <span class="pagenav actual">1</span>
+          <a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?limitstart=3">2</a>
+          <a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?limitstart=6">3</a>
+          <a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?limitstart=9">4</a>
+          <a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?limitstart=3">Seguinte</a> &gt;
+          <a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?limitstart=9">Final</a> &gt;&gt;
+        </div>
+        <div class="pagination-counter">Página 1 de 4</div>
+
+      </div>
+    </div>
+  </div>
+
+  <div id="right">
+    <div class="jjmod" id="Mod68">
+      <h3 class="jjmod-title"><span class="icon"></span>Artigos Recentes</h3>
+      <div class="jjmod-content">
+        <ul class="latestnews">
+          <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=article&amp;id=172:after-ben&amp;catid=44:oracoes&amp;Itemid=85">After Ben</a></li>
+          <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=article&amp;id=171:tabeeeim-2010&amp;catid=70:hinos-de-campo&amp;Itemid=125">Tábeeeim 2010</a></li>
+          <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=article&amp;id=169:o-sol-ja-raiou&amp;catid=51:musicas&amp;Itemid=76">O sol já raiou</a></li>
+          <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=article&amp;id=168:hino-walkabout-2010&amp;catid=70:hinos-de-campo&amp;Itemid=125">Walkabout 2010</a></li>
+          <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=article&amp;id=167:chapeu&amp;catid=51:musicas&amp;Itemid=76">Chapéu</a></li>
+          <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=article&amp;id=166:shosholozah&amp;catid=51:musicas&amp;Itemid=76">Shosholozah</a></li>
+          <li><a href="../Movimento/Para%20Educar%20Melhor%20-%20Campos%20de%20f%C3%A9rias%20inacianos.html">"Para Educar Melhor"</a></li>
+          <li><a href="../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.html">Apresentação da Revolução 2.0</a></li>
+          <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=article&amp;id=123:actividades-ao-longo-do-ano&amp;catid=77:introducao&amp;Itemid=148">Actividades ao longo do ano</a></li>
+          <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=article&amp;id=122:porque-campinacios-para-mudar-o-mundo&amp;catid=53:testemunhos&amp;Itemid=78">Porquê Campinácios? Para mudar o Mundo!</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="jjmod" id="Mod99">
+      <h3 class="jjmod-title"><span class="icon"></span>Wikinácios</h3>
+      <div class="jjmod-content wiki-feed">
+        <strong><a href="../index.html">Wikinacios - Mudanças recentes [pt]</a></strong>
+        <p>Em Maio de 2012 esta lista só mostrava páginas de spam criadas na wiki, que ficam de fora.</p>
+      </div>
+    </div>
+
+    <div class="jjmod" id="Mod100">
+      <div class="jjmod-content">
+        <a class="fb-badge" href="https://www.facebook.com/campinacios" title="Campinácios Acampamentos de Férias"><b>facebook</b><span>Campinácios<br>Acampamentos de Férias</span></a>
+      </div>
+    </div>
+
+    <div class="jjmod" id="Mod16">
+      <div class="jjmod-content">
+        <form id="sondagem">
+          <table class="poll">
+            <caption>Tens visto os campinácios no teu colégio?</caption>
+            <tbody>
+              <tr><td><input type="radio" name="voteid" id="voteid73" value="73"></td><td><label for="voteid73">Até sonho com campinácios!</label></td></tr>
+              <tr><td><input type="radio" name="voteid" id="voteid74" value="74"></td><td><label for="voteid74">Todos os dias!</label></td></tr>
+              <tr><td><input type="radio" name="voteid" id="voteid75" value="75"></td><td><label for="voteid75">Algumas vezes.</label></td></tr>
+              <tr><td><input type="radio" name="voteid" id="voteid76" value="76"></td><td><label for="voteid76">Nunca vi.</label></td></tr>
+              <tr><td><input type="radio" name="voteid" id="voteid77" value="77"></td><td><label for="voteid77">Campinácios? Que site é este?</label></td></tr>
+            </tbody>
+          </table>
+          <div class="poll botoes"><input type="submit" class="button" value="Votar"> <input type="button" id="ver-resultados" class="button" value="Resultados"></div>
+          <ul class="resultados" hidden></ul>
+        </form>
+      </div>
+    </div>
+
+    <div class="jjmod" id="Mod70">
+      <div class="jjmod-content">
+        <div class="twtr">
+          <header><span class="ave" aria-hidden="true">⛺</span><span>campinacios<small>Campinácios</small></span></header>
+          <div class="tweets">
+            <p>Os tweets de @campinacios eram carregados na hora pelo Twitter e não ficaram guardados no arquivo.</p>
+          </div>
+          <footer><span>twitter</span><a href="https://twitter.com/campinacios">Junta-te à conversa</a></footer>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+</div>
+</div>
+
+<div id="bottom_modules">
+  <div class="width960px">
+    <div class="moduletable">
+      <h3>Popular</h3>
+      <ul class="mostread">
+        <li><a href="../Movimento/Para%20Educar%20Melhor%20-%20Campos%20de%20f%C3%A9rias%20inacianos.html">"Para Educar Melhor"</a></li>
+        <li><a href="../Encontros/Encontro%20Nacional%202010.html">Encontro Nacional 2010</a></li>
+        <li><a href="../Movimento/Manual%20de%20Fun%C3%A7%C3%B5es.html">Manual de Funções</a></li>
+      </ul>
+    </div>
+    <div class="moduletable online">
+      <h3>Quem está online?</h3>
+      Temos&nbsp;<strong>5</strong> visitantes&nbsp;em linha
+    </div>
+    <div class="moduletable">
+      <h3>Artigos Recentes</h3>
+      <ul class="latestnews">
+        <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=article&amp;id=172:after-ben&amp;catid=44:oracoes&amp;Itemid=85">After Ben</a></li>
+        <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=article&amp;id=171:tabeeeim-2010&amp;catid=70:hinos-de-campo&amp;Itemid=125">Tábeeeim 2010</a></li>
+        <li><a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?option=com_content&amp;view=article&amp;id=169:o-sol-ja-raiou&amp;catid=51:musicas&amp;Itemid=76">O sol já raiou</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div id="footer">
+  <div class="width960px">
+    <div id="nav-copy">
+      <div id="nav-and-credits">
+        <div id="joomlajunkie-swish"><a href="../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.html">Revolução Campinácios v2.0</a></div>
+        <div class="selos">
+          <a href="https://validator.w3.org/">xhtml</a>
+          <a href="https://jigsaw.w3.org/css-validator/">css</a>
+          <a class="footer-rss" href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/index.php?format=feed&amp;type=rss">rss</a>
+        </div>
+      </div>
+      <div id="copyright">
+        <div class="left">Copyleft Revolução Campinácios v2.0</div>
+        <div class="right">Filipe Barroso e Pedro Vicente</div>
+      </div>
+    </div>
+    <p class="reconstrucao">Reconstrução da página principal de campinacios.org tal como estava a 30 de Maio de 2012, para o arquivo da <a href="../index.html">Wikinácios</a>. Original no <a href="https://web.archive.org/web/20120530220121/http://www.campinacios.org/">Wayback Machine</a>.</p>
+  </div>
+</div>
+
+<script>
+(function () {
+  var raiz = document.documentElement;
+  function ler(chave) { try { return localStorage.getItem(chave); } catch (e) { return null; } }
+  function guardar(chave, valor) { try { localStorage.setItem(chave, valor); } catch (e) {} }
+
+  // Opções do modelo: cor do tema e tamanho da letra (no original eram cookies).
+  function aplicar(grupo, atributo, valor) {
+    raiz.setAttribute(atributo, valor);
+    document.querySelectorAll(grupo).forEach(function (b) {
+      b.setAttribute('aria-pressed', String(b.getAttribute(atributo) === valor));
+    });
+  }
+  aplicar('.cor', 'data-cor', ler('jj_dr_theme_color') || 'green');
+  aplicar('.letra', 'data-letra', ler('jj_dr_font_size') || 'medium-text');
+  document.querySelectorAll('.cor').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var v = b.getAttribute('data-cor');
+      aplicar('.cor', 'data-cor', v); guardar('jj_dr_theme_color', v);
+    });
+  });
+  document.querySelectorAll('.letra').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var v = b.getAttribute('data-letra');
+      aplicar('.letra', 'data-letra', v); guardar('jj_dr_font_size', v);
+    });
+  });
+
+  // Acordeão: abrir um submenu fecha os outros do mesmo módulo.
+  document.querySelectorAll('.jjmod-content ul.menu details').forEach(function (d) {
+    d.addEventListener('toggle', function () {
+      if (!d.open) return;
+      d.closest('ul.menu').querySelectorAll('details[open]').forEach(function (o) {
+        if (o !== d) o.open = false;
+      });
+    });
+  });
+
+  // Entrada: já não há contas.
+  var login = document.getElementById('form-login');
+  login.addEventListener('submit', function (e) {
+    e.preventDefault();
+    login.querySelector('.aviso-form').hidden = false;
+  });
+
+  // Sondagem: conta os votos só neste navegador.
+  var sondagem = document.getElementById('sondagem');
+  var lista = sondagem.querySelector('.resultados');
+  function votos() { try { return JSON.parse(ler('sondagem_20') || '{}'); } catch (e) { return {}; } }
+  function mostrar() {
+    var v = votos(), total = 0;
+    Object.keys(v).forEach(function (k) { total += v[k]; });
+    lista.innerHTML = '';
+    sondagem.querySelectorAll('input[name=voteid]').forEach(function (r) {
+      var n = v[r.value] || 0, pct = total ? Math.round(100 * n / total) : 0;
+      var li = document.createElement('li');
+      li.textContent = sondagem.querySelector('label[for=' + r.id + ']').textContent.trim() + ' — ' + n;
+      var barra = document.createElement('span'); barra.className = 'barra';
+      var i = document.createElement('i'); i.style.width = pct + '%';
+      barra.appendChild(i); li.appendChild(barra); lista.appendChild(li);
+    });
+    lista.hidden = false;
+  }
+  sondagem.addEventListener('submit', function (e) {
+    e.preventDefault();
+    var escolha = sondagem.querySelector('input[name=voteid]:checked');
+    if (escolha) {
+      var v = votos(); v[escolha.value] = (v[escolha.value] || 0) + 1;
+      guardar('sondagem_20', JSON.stringify(v));
+    }
+    mostrar();
+  });
+  document.getElementById('ver-resultados').addEventListener('click', mostrar);
+})();
+</script>
+</body>
+</html>
