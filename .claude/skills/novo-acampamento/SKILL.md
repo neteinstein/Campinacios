@@ -78,6 +78,19 @@ browse:
 - **`docs/Acampamentos/index.md`**: shows the same content as
   `docs/Categorias/Acampamentos.md` (the same table, subcategories and page
   list, links written the same way), so make the same two edits there.
+- **Local de campo** (regra): sempre que o campo tiver local de campo —
+  dado pelo utilizador, pelo formulário ("Local de campo") ou escrito na
+  página do campo —, esse local entra na última coluna da tabela
+  ([Locais de Acampamento](https://campinacios.pedrovicente.pt/Acampamentos/index.html)),
+  na linha `| <ano> |` do ano do campo, em `docs/Acampamentos/index.md` **e**
+  em `docs/Categorias/Acampamentos.md`, como mais um
+  `<li>…</li>` dentro do `<ul>` dessa célula. Se o local já lá estiver
+  nesse ano (outro campo no mesmo sítio), não se repete. Se tiver ficha em
+  `docs/Restrito/Locais de Acampamento/`, liga-se a ela com o título exacto
+  da ficha (`[Quinta da Adaúfa (Silgueiros,Viseu)](../Restrito/Locais%20de%20Acampamento/Quinta%20da%20Ada%C3%BAfa%20%28Silgueiros%2CViseu%29.md)`),
+  e o campo entra em `## Acampamentos` da ficha (com `scripts/restrito.py`,
+  ver `processar-contributo`); se não tiver, fica em texto simples. Só o
+  nome do local: nunca indicações, coordenadas nem contactos.
 
 And the rest of the year and cross-references:
 
