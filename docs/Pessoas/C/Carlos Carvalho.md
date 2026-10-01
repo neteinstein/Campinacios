@@ -8,7 +8,7 @@
 ### Acampamentos
 
 - **Animador**
-    - 2004 [Trolliciclos](../../Acampamentos/2004/Trolliciclos.md) - [Capelinho](../../Cargos/Capelinho.md)
+    - 2004 [Trolliciclos](../../Acampamentos/2004/Trolliciclos.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2008 [Arethë](../../Acampamentos/2008/Areth%C3%AB.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2009 [Talithá Kum](../../Acampamentos/2009/Talith%C3%A1%20Kum.md) - [Director](../../Cargos/Director.md)
     - 2010 [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md) - [Capelinho](../../Cargos/Capelinho.md)
