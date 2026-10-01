@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1203 artigos e, em itálico, os 178 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1203 artigos e, em itálico, os 179 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -200,6 +200,7 @@
 - [Calhambeques 91](Acampamentos/1991/Calhambeques%2091.md)
 - [Calinadas](Acampamentos/1998/Calinadas.md)
 - [Carla Antunes](Pessoas/C/Carla%20Antunes.md)
+- *Carla Cardoso* → [Carla Ferreira](Pessoas/C/Carla%20Ferreira.md)
 - *Carla Cardoso Ferreira* → [Carla Ferreira](Pessoas/C/Carla%20Ferreira.md)
 - [Carlos Carneiro](Pessoas/C/Carlos%20Carneiro.md)
 - *Cami* → [Carlos Miguel Albuquerque](Pessoas/C/Carlos%20Miguel%20Albuquerque.md)

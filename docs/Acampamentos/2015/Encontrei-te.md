@@ -7,11 +7,12 @@
 - [Director](../../Cargos/Director.md) - [Renato Lobo](../../Pessoas/R/Renato%20Lobo.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - Paulo Cardoso
 - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Nuno Mesquita](../../Pessoas/N/Nuno%20Mesquita.md)
-- [Capelão](../../Cargos/Capel%C3%A3o.md) - Missé sj
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Missé](../../Pessoas/M/Miguel%20Melo.md) sj
 
 ## Páginas que ligam para aqui
 
 - [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
+- [Miguel Melo](../../Pessoas/M/Miguel%20Melo.md)
 - [Nuno Mesquita](../../Pessoas/N/Nuno%20Mesquita.md)
 - [Renato Lobo](../../Pessoas/R/Renato%20Lobo.md)
 
