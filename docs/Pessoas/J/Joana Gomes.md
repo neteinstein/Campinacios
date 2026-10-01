@@ -21,12 +21,17 @@
     - 2010 [4º Dto](../../Acampamentos/2010/4%C2%BA%20Dto.md) - [Director](../../Cargos/Director.md)
     - 2011 [Pescanova](../../Acampamentos/2011/Pescanova.md) - [Director](../../Cargos/Director.md)
 
+### Encontros
+
+- 2010 [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md) - COECA
+
 ## Páginas que ligam para aqui
 
 - [4º Dto](../../Acampamentos/2010/4%C2%BA%20Dto.md)
 - [Bike Just Do It](../../Acampamentos/2008/Bike%20Just%20Do%20It.md)
 - [Bublix](../../Acampamentos/2009/Bublix.md)
 - [Diz Que Sim](../../Acampamentos/2007/Diz%20Que%20Sim.md)
+- [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md)
 - [Pescanova](../../Acampamentos/2011/Pescanova.md)
 
 ---

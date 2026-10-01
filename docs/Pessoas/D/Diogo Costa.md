@@ -22,8 +22,13 @@ Geriu a [página original dos Campinácios](../../Movimento/Online.md#pagina-ori
 
 É irmão do [Renato Costa](../R/Renato%20Costa.md).
 
+### Encontros
+
+- 2010 [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md) - Fotografia
+
 ## Páginas que ligam para aqui
 
+- [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md)
 - [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md)
 - [Filipe Próspero](../F/Filipe%20Pr%C3%B3spero.md)
 - [Online](../../Movimento/Online.md)
