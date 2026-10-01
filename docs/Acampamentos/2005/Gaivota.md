@@ -21,6 +21,7 @@ Foi para este campo que se adaptou a música "Radroca", do Camtil (ver [Cantiná
 - [Ana Simões](../../Pessoas/A/Ana%20Sim%C3%B5es.md)
 - [Ana Veiga](../../Pessoas/A/Ana%20Veiga.md)
 - [Bernardo Narciso](../../Pessoas/B/Bernardo%20Narciso.md)
+- [Cantinácio: Campinácios](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md)
 - [Carla Carneiro](../../Pessoas/C/Carla%20Carneiro.md)
 - [Catarina Durão Barroso](../../Pessoas/C/Catarina%20Dur%C3%A3o%20Barroso.md)
 - [Cecília Mendonça](../../Pessoas/C/Cec%C3%ADlia%20Mendon%C3%A7a.md)

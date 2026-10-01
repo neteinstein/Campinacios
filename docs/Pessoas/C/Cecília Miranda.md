@@ -29,6 +29,7 @@ Cecília Miranda é desde 2005, uma das animadoras do Colégio da Imaculada Conc
 
 - [Beatriz Miranda](../B/Beatriz%20Miranda.md)
 - [Bora Bora](../../Acampamentos/2007/Bora%20Bora.md)
+- [Cantinácio: Campinácios](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md)
 - [José Carlos Miranda](../J/Jos%C3%A9%20Carlos%20Miranda.md)
 - [Lembras-te?](../../Acampamentos/2009/Lembras-te.md)
 - [Quatro Patas](../../Acampamentos/2001/Quatro%20Patas.md)

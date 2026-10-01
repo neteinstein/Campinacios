@@ -10,7 +10,7 @@
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Zé Maria Brito](../../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md) sj
 - [Tia](../../Cargos/Tio.md) - [Ana Rita Costa](../../Pessoas/A/Ana%20Rita%20Costa.md), [Rita Martins](../../Pessoas/R/Rita%20Martins.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Vasco Vasconcelos](../../Pessoas/V/Vasco%20Vasconcelos.md) e [Mário Carvalho](../../Pessoas/M/M%C3%A1rio%20Carvalho.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Filipa Caldas](../../Pessoas/F/Filipa%20Caldas.md), [André Barreiras](../../Pessoas/A/Andr%C3%A9%20Barreiras.md), [Margarida Maury](../../Pessoas/M/Margarida%20Maury.md), Hugo Pereira, Gonçalo Coimbra e [Catarina Barroso](../../Pessoas/C/Catarina%20Dur%C3%A3o%20Barroso.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Filipa Caldas](../../Pessoas/F/Filipa%20Caldas.md), [André Barreiras](../../Pessoas/A/Andr%C3%A9%20Barreiras.md), [Margarida Maury](../../Pessoas/M/Margarida%20Maury.md), [Hugo Pereira](../../Pessoas/H/Hugo%20Pereira.md), [Gonçalo Coimbra](../../Pessoas/G/Gon%C3%A7alo%20Coimbra.md) e [Catarina Barroso](../../Pessoas/C/Catarina%20Dur%C3%A3o%20Barroso.md)
 
 ## Páginas que ligam para aqui
 
@@ -18,6 +18,8 @@
 - [André Barreiras](../../Pessoas/A/Andr%C3%A9%20Barreiras.md)
 - [Catarina Durão Barroso](../../Pessoas/C/Catarina%20Dur%C3%A3o%20Barroso.md)
 - [Filipa Caldas](../../Pessoas/F/Filipa%20Caldas.md)
+- [Gonçalo Coimbra](../../Pessoas/G/Gon%C3%A7alo%20Coimbra.md)
+- [Hugo Pereira](../../Pessoas/H/Hugo%20Pereira.md)
 - [José Maria Brito](../../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md)
 - [Margarida Maury](../../Pessoas/M/Margarida%20Maury.md)
 - [Maria Amorim](../../Pessoas/M/Maria%20Amorim.md)

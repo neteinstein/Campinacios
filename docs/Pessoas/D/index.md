@@ -3,6 +3,7 @@
 - [Daniela Gonçalves](Daniela%20Gon%C3%A7alves.md)
 - [Daniela Machado](Daniela%20Machado.md)
 - [Daniela Ribeiro](Daniela%20Ribeiro.md)
+- [Daniela Rodrigues](Daniela%20Rodrigues.md)
 - [David Cruz e Silva](David%20Cruz%20e%20Silva.md)
 - [Diana Conceição](Diana%20Concei%C3%A7%C3%A3o.md)
 - [Diana Duarte](Diana%20Duarte.md)

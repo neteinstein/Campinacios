@@ -126,6 +126,7 @@ Foi o primeiro Encontro Nacional de Animadores, organizado pelo então [Assisten
 - [Miguel Machado](../Pessoas/M/Miguel%20Machado.md)
 - [Nuno Carrolo](../Pessoas/N/Nuno%20Carrolo.md)
 - [Rafaela Lúcio](../Pessoas/R/Rafaela%20L%C3%BAcio.md)
+- [Revolução Campinácios v2.0](../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
 - [Ricardo Amado](../Pessoas/R/Ricardo%20Amado.md)
 - [Rita Roxo](../Pessoas/R/Rita%20Roxo.md)
 - [Rita Simões](../Pessoas/R/Rita%20Sim%C3%B5es.md)

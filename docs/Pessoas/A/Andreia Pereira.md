@@ -26,6 +26,7 @@ Andreia Maria Lopes dos Santos da Costa Pereira, nascida a 22 de Maio de 1984, �
 
 - [Academia](../../Acampamentos/2005/Academia.md)
 - [Descola](../../Acampamentos/2004/Descola.md)
+- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
 - [M&M](../../Acampamentos/2007/M%26M.md)
 - [Mafalda Pereira](../M/Mafalda%20Pereira.md)

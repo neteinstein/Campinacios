@@ -6,7 +6,7 @@ Este acampamento decorreu em [Alvoco das Várzeas](../../Restrito/Locais%20de%20
 
 - [Director](../../Cargos/Director.md) - [Francisco Rodrigues](../../Pessoas/F/Francisco%20Rodrigues%20%28CAIC%29.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Carla Resende](../../Pessoas/C/Carla%20Resende.md)
-- [Capelão](../../Cargos/Capel%C3%A3o.md) - Rafael Mourão sj
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Rafael Mourão](../../Pessoas/R/Rafael%20Mour%C3%A3o.md) sj
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Ana Pinto da Costa](../../Pessoas/A/Ana%20Pinto%20da%20Costa.md), [Rui Junqueira](../../Pessoas/R/Rui%20Junqueira.md)
 
 ## Páginas que ligam para aqui
@@ -17,6 +17,7 @@ Este acampamento decorreu em [Alvoco das Várzeas](../../Restrito/Locais%20de%20
 - [Francisco Rodrigues (CAIC)](../../Pessoas/F/Francisco%20Rodrigues%20%28CAIC%29.md)
 - [Francisco Silva Rodrigues](../../Pessoas/F/Francisco%20Silva%20Rodrigues.md)
 - [Madalena Mariz](../../Pessoas/M/Madalena%20Mariz.md)
+- [Rafael Mourão](../../Pessoas/R/Rafael%20Mour%C3%A3o.md)
 - [Rui Junqueira](../../Pessoas/R/Rui%20Junqueira.md)
 
 ---

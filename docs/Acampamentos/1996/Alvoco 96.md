@@ -6,7 +6,7 @@ Este acampamento de [Triciclos](../../Categorias/Triciclos.md) decorreu de 20 a 
 
 - [Director](../../Cargos/Director.md) - [Francisco Rodrigues](../../Pessoas/F/Francisco%20Rodrigues%20%28CAIC%29.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [São Martinho](../../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)
-- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - Rafael Mourão sj
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Rafael Mourão](../../Pessoas/R/Rafael%20Mour%C3%A3o.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Zé Lopes](../../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md) sj
 - [Tios](../../Cargos/Tio.md) - [Carla Resende](../../Pessoas/C/Carla%20Resende.md) e [Paulo Tremoço](../../Pessoas/P/Paulo%20Tremo%C3%A7o.md)
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - [Francisco Lopes](../../Pessoas/F/Francisco%20Lopes.md)
@@ -28,6 +28,7 @@ Este acampamento de [Triciclos](../../Categorias/Triciclos.md) decorreu de 20 a 
 - [José Eugénio Lopes](../../Pessoas/J/Jos%C3%A9%20Eug%C3%A9nio%20Lopes.md)
 - [José Manuel Lopes](../../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md)
 - [Paulo Tremoço](../../Pessoas/P/Paulo%20Tremo%C3%A7o.md)
+- [Rafael Mourão](../../Pessoas/R/Rafael%20Mour%C3%A3o.md)
 - [Teresa Martinho](../../Pessoas/T/Teresa%20Martinho.md)
 - [Tiago Monteiro](../../Pessoas/T/Tiago%20Monteiro.md)
 

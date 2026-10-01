@@ -4,6 +4,10 @@ Sara Fernandes mais conhecida por Duda é desde 2008, uma das animadoras do Col�
 
 ## História dentro do movimento
 
+### Cargos
+
+- 2011/2012 - Membro da [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md)
+
 ### Acampamentos
 
 - **Participante:**

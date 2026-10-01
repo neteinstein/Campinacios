@@ -103,6 +103,7 @@ http://OPA07.blogspot.com *OPA 07*
 - [Ana Simões](../../Pessoas/A/Ana%20Sim%C3%B5es.md)
 - [Beatriz Miranda](../../Pessoas/B/Beatriz%20Miranda.md)
 - [Bernardo Narciso](../../Pessoas/B/Bernardo%20Narciso.md)
+- [Cantinácio: Campinácios](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md)
 - [Diogo Cordeiro Ferreira](../../Pessoas/D/Diogo%20Cordeiro%20Ferreira.md)
 - [Elias Oliveira](../../Pessoas/E/Elias%20Oliveira.md)
 - [Gonçalo Vaz Pedro](../../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md)

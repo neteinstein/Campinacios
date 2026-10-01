@@ -19,8 +19,9 @@
 
 ---
 
-**Outros nomes:** Chico Cortês Ferreira · Francisco Cortez
+**Outros nomes:** Chico Cortês Ferreira · Francisco Cortez · Francisco Ferreira
 
 | Categorias |
 | --- |
+| [Animadores](../../Categorias/Animadores.md) |
 | [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |

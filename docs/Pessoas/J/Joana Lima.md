@@ -21,6 +21,8 @@ Joana Lima é desde 2003, uma das animadoras do Colégio da Imaculada Conceiçã
     - 2007 [Baza](../../Acampamentos/2007/Baza.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2008 [TufarfarAway](../../Acampamentos/2008/TufarfarAway.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2009 [Bublix](../../Acampamentos/2009/Bublix.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
+    - 2010 [Baba Yetu](../../Acampamentos/2010/Baba%20Yetu.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
+    - 2012 [Clávis](../../Acampamentos/2012/Cl%C3%A1vis.md) - [Tia](../../Cargos/Tio.md)
 
 ### Encontros
 
@@ -28,8 +30,10 @@ Joana Lima é desde 2003, uma das animadoras do Colégio da Imaculada Conceiçã
 
 ## Páginas que ligam para aqui
 
+- [Baba Yetu](../../Acampamentos/2010/Baba%20Yetu.md)
 - [Baza](../../Acampamentos/2007/Baza.md)
 - [Bublix](../../Acampamentos/2009/Bublix.md)
+- [Clávis](../../Acampamentos/2012/Cl%C3%A1vis.md)
 - [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md)
 - [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
 - [Falésia](../../Acampamentos/2005/Fal%C3%A9sia.md)

@@ -10,11 +10,13 @@ Este acampamento organizado pelo CAIC na casa da Serra da Estrela, para os seus 
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Manuel Paiva](../../Pessoas/M/Manuel%20Paiva.md) sj
 - [Tio](../../Cargos/Tio.md) - [João Pessoa](../../Pessoas/J/Jo%C3%A3o%20Pessoa.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Vasco Meneses](../../Pessoas/V/Vasco%20Meneses.md) e [José Marques](../../Pessoas/J/Jos%C3%A9%20Marques.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Mafalda, [Sofia Rebelo](../../Pessoas/S/Sofia%20Rebelo.md), Francisco Xavier e [Nuno Tomás](../../Pessoas/N/Nuno%20Tom%C3%A1s.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Mafalda, [Sofia Rebelo](../../Pessoas/S/Sofia%20Rebelo.md), [Francisco Xavier](../../Pessoas/F/Francisco%20Xavier.md) e [Nuno Tomás](../../Pessoas/N/Nuno%20Tom%C3%A1s.md)
 
 ## Páginas que ligam para aqui
 
 - [Campinácios](../../Movimento/Campin%C3%A1cios.md)
+- [Francisco Xavier](../../Pessoas/F/Francisco%20Xavier.md)
+- [Gustavo Gapo](../../Pessoas/G/Gustavo%20Gapo.md)
 - [José Manuel Lopes](../../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md)
 - [João Pessoa](../../Pessoas/J/Jo%C3%A3o%20Pessoa.md)
 - [José Marques](../../Pessoas/J/Jos%C3%A9%20Marques.md)

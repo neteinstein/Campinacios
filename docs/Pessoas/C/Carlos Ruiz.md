@@ -15,9 +15,11 @@
     - 1993 [Rebordosa](../../Acampamentos/1993/Rebordosa.md) - [Director](../../Cargos/Director.md)
     - 1994 [Wally](../../Acampamentos/1994/Wally.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 1995 [Campo Ibérico](../../Acampamentos/1995/Campo%20Ib%C3%A9rico.md) - [Director](../../Cargos/Director.md)
+    - 1998 [Além](../../Acampamentos/1998/Al%C3%A9m.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
 
 ## Páginas que ligam para aqui
 
+- [Além](../../Acampamentos/1998/Al%C3%A9m.md)
 - [Alfa](../../Acampamentos/1990/Alfa.md)
 - [Caldas de S.Paulo](../../Acampamentos/1990/Caldas%20de%20S.Paulo.md)
 - [Campinácios](../../Movimento/Campin%C3%A1cios.md)

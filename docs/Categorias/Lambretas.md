@@ -2,7 +2,7 @@
 
 Acampamentos do escalão Lambretas - Alunos do 11º e 12º anos de escolaridade
 
-## Páginas nesta categoria (53)
+## Páginas nesta categoria (54)
 
 - [Astérix e Obélerdos](../Acampamentos/2024/Ast%C3%A9rix%20e%20Ob%C3%A9lerdos.md)
 - [Atira-te](../Acampamentos/2023/Atira-te.md)
@@ -41,6 +41,7 @@ Acampamentos do escalão Lambretas - Alunos do 11º e 12º anos de escolaridade
 - [P'la Tua Mão](../Acampamentos/2022/P%27la%20Tua%20M%C3%A3o.md)
 - [PaKasaDele](../Acampamentos/2010/PaKasaDele.md)
 - [Pavio](../Acampamentos/2000/Pavio.md)
+- [Peregrinação às JMJ](../Acampamentos/2011/Peregrina%C3%A7%C3%A3o%20%C3%A0s%20JMJ.md)
 - [Piolheira](../Acampamentos/1996/Piolheira.md)
 - [Porto da Balsa 93](../Acampamentos/1993/Porto%20da%20Balsa%2093.md)
 - [Projecto Canguru](../Acampamentos/2002/Projecto%20Canguru.md)
@@ -94,6 +95,7 @@ Acampamentos do escalão Lambretas - Alunos do 11º e 12º anos de escolaridade
 - [P'la Tua Mão](../Acampamentos/2022/P%27la%20Tua%20M%C3%A3o.md)
 - [PaKasaDele](../Acampamentos/2010/PaKasaDele.md)
 - [Pavio](../Acampamentos/2000/Pavio.md)
+- [Peregrinação às JMJ](../Acampamentos/2011/Peregrina%C3%A7%C3%A3o%20%C3%A0s%20JMJ.md)
 - [Piolheira](../Acampamentos/1996/Piolheira.md)
 - [Próxima Paragem](../Acampamentos/2013/Pr%C3%B3xima%20Paragem.md)
 - [PáquiPáli](../Acampamentos/2016/P%C3%A1quiP%C3%A1li.md)

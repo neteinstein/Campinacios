@@ -19,6 +19,7 @@ Cada Direcção Local organizou o transporte dos seus animadores a partir do res
 - [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
 - [Martinho Lucas Pires](../Pessoas/M/Martinho%20Lucas%20Pires.md)
 - [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)
+- [Revolução Campinácios v2.0](../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
 
 ---
 
