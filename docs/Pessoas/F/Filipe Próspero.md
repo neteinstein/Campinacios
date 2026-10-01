@@ -38,6 +38,10 @@ Foi um dos gestores da [página dos Campinácios](../../Movimento/Online.md#pagi
 
 É irmão da [Inês Próspero](../I/In%C3%AAs%20Pr%C3%B3spero.md).
 
+### Encontros
+
+- 2010 [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md) - COECA
+
 ## Páginas que ligam para aqui
 
 - [Baza](../../Acampamentos/2007/Baza.md)
@@ -45,6 +49,7 @@ Foi um dos gestores da [página dos Campinácios](../../Movimento/Online.md#pagi
 - [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md)
 - [Diogo Costa](../D/Diogo%20Costa.md)
 - [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
+- [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md)
 - [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md)
 - [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md)
 - [Inês Próspero](../I/In%C3%AAs%20Pr%C3%B3spero.md)

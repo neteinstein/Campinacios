@@ -10,11 +10,6 @@ Tiago Neves Bahia, nascido a 6 de Março de 1987, é animador do CC desde 2005.
 - 2007/2010  -  Membro da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - 2008/2010  -  [Coordenador Nacional](../../Categorias/Coordenadores%20Nacionais.md)
 
-- Outros
-    - 2007 - Coordenador da Ceia de Natal do CC
-    - 2008 - Coordenador do [Encontro Nacional de 2008](../../Encontros/Encontro%20Nacional%20de%202008.md)
-    - 2010 - Coordenador da Comissão de Organização do Encontro de Comemoração dos 20 Anos
-
 ### Acampamentos
 
 - **Participante**
@@ -38,6 +33,11 @@ Tiago Neves Bahia, nascido a 6 de Março de 1987, é animador do CC desde 2005.
     - 2017 [Dá Tudo Xauzinho](../../Acampamentos/2017/D%C3%A1%20Tudo%20Xauzinho.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2023 [Parte de Ti](../../Acampamentos/2023/Parte%20de%20Ti.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
+### Encontros
+
+- 2008 [Encontro Nacional de 2008](../../Encontros/Encontro%20Nacional%20de%202008.md) - Director
+- 2010 [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md) - Director e Coordenador da COECA
+
 ## Páginas que ligam para aqui
 
 - [Baza](../../Acampamentos/2007/Baza.md)
@@ -48,6 +48,8 @@ Tiago Neves Bahia, nascido a 6 de Março de 1987, é animador do CC desde 2005.
 - [Dá Tudo Xauzinho](../../Acampamentos/2017/D%C3%A1%20Tudo%20Xauzinho.md)
 - [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - [Dá Tudo Xauzinho](../../Acampamentos/2017/D%C3%A1%20Tudo%20Xauzinho.md)
+- [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md)
+- [Encontro Nacional de 2008](../../Encontros/Encontro%20Nacional%20de%202008.md)
 - [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md)
 - [Ide](../../Acampamentos/2015/Ide.md)
 - [Limpopolus](../../Acampamentos/2012/Limpopolus.md)

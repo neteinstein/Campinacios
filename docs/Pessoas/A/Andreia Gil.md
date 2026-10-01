@@ -19,10 +19,15 @@ Andreia Sofia de Sousa Gil, nascida a 26 de Janeiro de 1987. Animadora do Colég
     - 2009 [Lembras-te?](../../Acampamentos/2009/Lembras-te.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2010 [Obra Prima](../../Acampamentos/2010/Obra%20Prima.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
+### Encontros
+
+- 2010 [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md) - Secretaria
+
 ## Páginas que ligam para aqui
 
 - [Bike Just Do It](../../Acampamentos/2008/Bike%20Just%20Do%20It.md)
 - [Em Busca da CaraBela](../../Acampamentos/2006/Em%20Busca%20da%20CaraBela.md)
+- [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md)
 - [Lembras-te?](../../Acampamentos/2009/Lembras-te.md)
 - [M&M](../../Acampamentos/2007/M%26M.md)
 - [Obra Prima](../../Acampamentos/2010/Obra%20Prima.md)
