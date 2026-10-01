@@ -19,6 +19,7 @@ O Lembras-te? decorreu entre os dias 29 de Julho e 7 de Agosto de 2009 no [Lugar
 - [Duarte Dias](../../Pessoas/D/Duarte%20Dias.md)
 - [Gonçalo Fonseca](../../Pessoas/G/Gon%C3%A7alo%20Fonseca.md)
 - [João Goulão](../../Pessoas/J/Jo%C3%A3o%20Goul%C3%A3o.md)
+- [João Miguel Rodrigues](../../Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md)
 - [João Quintela](../../Pessoas/J/Jo%C3%A3o%20Quintela.md)
 - [Paulo Cardoso](../../Pessoas/P/Paulo%20Cardoso.md)
 - [Rui Junqueira](../../Pessoas/R/Rui%20Junqueira.md)
