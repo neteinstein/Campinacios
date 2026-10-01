@@ -163,6 +163,7 @@ Ver também o [Manual do Director](../Movimento/Manual%20do%20Director.md), com 
 - [Fiat'ársea](../Acampamentos/2014/Fiat%27%C3%A1rsea.md)
 - [Fibrovital](../Acampamentos/1996/Fibrovital.md)
 - [Fight Club](../Acampamentos/2024/Fight%20Club.md)
+- [Filipe Condado](../Pessoas/F/Filipe%20Condado.md)
 - [Filipe Próspero](../Pessoas/F/Filipe%20Pr%C3%B3spero.md)
 - [Filipe Queiroz e Melo](../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md)
 - [Florinhas](../Acampamentos/1994/Florinhas.md)

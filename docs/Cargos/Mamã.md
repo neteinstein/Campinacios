@@ -25,6 +25,7 @@ Quando tiveres dúvidas do que é ser mamã de acampamento lembra-te como é (ex
 ## Páginas que ligam para aqui
 
 - [180 Já Contenta](../Acampamentos/2023/180%20J%C3%A1%20Contenta.md)
+- [A Ir e Falta o S](../Acampamentos/2018/A%20Ir%20e%20Falta%20o%20S.md)
 - [A Partir](../Acampamentos/2023/A%20Partir.md)
 - [Academia](../Acampamentos/2005/Academia.md)
 - [Agora Vês](../Acampamentos/2018/Agora%20V%C3%AAs.md)
@@ -188,6 +189,7 @@ Quando tiveres dúvidas do que é ser mamã de acampamento lembra-te como é (ex
 - [Mestrarte](../Acampamentos/2024/Mestrarte.md)
 - [Metrópole](../Acampamentos/2004/Metr%C3%B3pole.md)
 - [Mikelin Descobre a Vida](../Acampamentos/2004/Mikelin%20Descobre%20a%20Vida.md)
+- [Mostra Garra](../Acampamentos/2016/Mostra%20Garra.md)
 - [Navalha-me Deus](../Acampamentos/2026/Navalha-me%20Deus.md)
 - [Ninja Por Não Estar](../Acampamentos/2002/Ninja%20Por%20N%C3%A3o%20Estar.md)
 - [Non Nobis](../Acampamentos/2026/Non%20Nobis.md)

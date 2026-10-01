@@ -311,6 +311,7 @@
 - [CRUZZ](Acampamentos/2023/CRUZZ.md)
 - [CSJB](Movimento/CSJB.md)
 - [Culinácio](Movimento/Culin%C3%A1cio.md)
+- *Francisco Cortez* → [Francisco Cortês Ferreira](Pessoas/F/Francisco%20Cort%C3%AAs%20Ferreira.md)
 
 ## D
 
