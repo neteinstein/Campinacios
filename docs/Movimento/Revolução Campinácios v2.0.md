@@ -57,7 +57,7 @@ Antes de a página nova abrir, o endereço mostrou em Abril de 2009 «Campináci
 - **19 de Maio de 2011** — Jantar de Gala dos Campinácios, do [Camtil](Camtil.md) e dos [Gambozinos](Gambozinos.md), a 10 de Junho, a partir das 18h30, na Quinta do Loureiro, em Rebordões (Santo Tirso): 17 € por pessoa (as crianças até aos 12 anos não pagavam) ou 150 € por mesa de 10.
 - **15 de Dezembro de 2010** — Ceia de Natal do [CSJB](CSJB.md), anunciada pela Direcção Local.
 - **9 de Dezembro de 2010** — Café Terrace do [CSJB](CSJB.md), no terraço, às 10h, só para os mais velhos (com ligação ao blog [Campinácios Lisboa](http://campinacioslisboa.blogspot.com/)).
-- **8 de Dezembro de 2010** — Os [novos animadores de 2010/2011](Animador.md#novos-2010-2011), apresentados pela [Direcção Nacional](../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md).
+- **8 de Dezembro de 2010** — Os novos animadores de 2010/2011, apresentados pela [Direcção Nacional](../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md).
 - **3 de Outubro de 2010** — «After Ben», com ligação para afterben.com.
 - **9 de Agosto de 2010** — «Novo visual»: com o começo dos acampamentos, a página mudou de aspecto.
 - **13 de Junho de 2010** — «Ansiedade»: listas de participantes fechadas e animadores prontos para os acampamentos.
@@ -87,10 +87,6 @@ Tinha ainda um **fórum** (Kunena), que em 2009 tinha 7 utilizadores e 2 mensage
 ## Páginas que ligam para aqui
 
 - [Animador](Animador.md)
-- [Campinácios](Campin%C3%A1cios.md)
-- [Cantinácio: Campinácios](Cantin%C3%A1cio/Campin%C3%A1cios.md)
-- [Cantinácio: Cânticos](Cantin%C3%A1cio/C%C3%A2nticos.md)
-- [Cantinácio: Estrangeiras](Cantin%C3%A1cio/Estrangeiras.md)
 - [Conteúdos](../Wikin%C3%A1cios/Conte%C3%BAdos.md)
 - [Encontro Nacional de Animadores 2006](../Encontros/Encontro%20Nacional%20de%20Animadores%202006.md)
 - [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)
