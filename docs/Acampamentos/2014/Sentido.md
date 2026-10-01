@@ -1,6 +1,6 @@
 # Sentido
 
-**Sentido** foi um acampamento de [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) realizado em 2014. O tema do ano foi *Na tua companhia*.
+**Sentido** foi um acampamento de [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) realizado de 22 a 28 de Julho de 2014 na Aderneira (Ferreira do Zêzere). O tema do ano foi *Na tua companhia*.
 
 ### Animadores
 
