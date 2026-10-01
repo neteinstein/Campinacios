@@ -1,6 +1,6 @@
-# Por confirmar (2026)
+# Re-Vela-Vida
 
-O nome deste acampamento de [Lambretas](../../Categorias/Lambretas.md) de 2026 está por confirmar. Decorreu em [Agroal (Tomar)](../../Restrito/Locais%20de%20Acampamento/Agroal%20%28Tomar%29.md). O tema do ano foi *Escolhe a melhor parte*.
+O **Re-Vela-Vida** foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) realizado de 27 de Julho a 5 de Agosto de 2026 em [Agroal (Tomar)](../../Restrito/Locais%20de%20Acampamento/Agroal%20%28Tomar%29.md). O tema do ano foi *Escolhe a melhor parte*.
 
 ### Animadores
 
