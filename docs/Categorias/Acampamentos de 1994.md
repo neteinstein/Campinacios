@@ -2,9 +2,10 @@
 
 Acampamentos realizados em 1994
 
-## Páginas nesta categoria (7)
+## Páginas nesta categoria (8)
 
 - [Bicicletas 94 I](../Acampamentos/1994/Bicicletas%2094%20I.md)
+- [CACAINA](../Acampamentos/1994/CACAINA.md)
 - [Caldiclos](../Acampamentos/1994/Caldiclos.md)
 - [Florinhas](../Acampamentos/1994/Florinhas.md)
 - [Fragas de S.Simão 94](../Acampamentos/1994/Fragas%20de%20S.Sim%C3%A3o%2094.md)

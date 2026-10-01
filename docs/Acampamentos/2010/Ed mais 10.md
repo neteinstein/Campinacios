@@ -1,6 +1,6 @@
 # Ed mais 10
 
-O 'Ed mais 10' foi um campo de Triciclos que decorreu entre os dias 9 e 18 de Agosto de 2010 em Quinta da Adaúfa (Silgueiros-Viseu)
+O 'Ed mais 10' foi um campo de Triciclos que decorreu entre os dias 9 e 18 de Agosto de 2010 em [Quinta da Adaúfa (Silgueiros-Viseu)](../../Restrito/Locais%20de%20Acampamento/Quinta%20da%20Ada%C3%BAfa%20%28Silgueiros%2CViseu%29.md)
 
 ### Animadores
 

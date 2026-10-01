@@ -124,7 +124,7 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [Carlos Ruiz](../Pessoas/C/Carlos%20Ruiz.md)
 - [Carmo Ribeiro Corrêa](../Pessoas/C/Carmo%20Ribeiro%20Corr%C3%AAa.md)
 - [Constança Pereira da Silva](../Pessoas/C/Constan%C3%A7a%20Pereira%20da%20Silva.md)
-- [CRAC](../Acampamentos/Sem%20data/CRAC.md)
+- [CRAC](../Acampamentos/2000/CRAC.md)
 - [Dinis Braga da Cruz](../Pessoas/D/Dinis%20Braga%20da%20Cruz.md)
 - [Diogo Faria](../Pessoas/D/Diogo%20Faria.md)
 - [Direcção Local do CAIC](Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md)

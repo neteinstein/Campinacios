@@ -10,4 +10,6 @@ CIFA é um acrónimo para Curso Intensivo de Formação de Animadores. O primeir
 
 | Categorias |
 | --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1991](../../Categorias/Acampamentos%20de%201991.md) |
 | [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) |
