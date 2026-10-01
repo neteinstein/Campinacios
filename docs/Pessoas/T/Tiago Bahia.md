@@ -35,7 +35,7 @@ Tiago Neves Bahia, nascido a 6 de Março de 1987, é animador do CC desde 2005.
 
 ### Encontros
 
-- 2008 [Encontro Nacional de 2008](../../Encontros/Encontro%20Nacional%20de%202008.md) - Coordenador
+- 2008 [Encontro Nacional de 2008](../../Encontros/Encontro%20Nacional%20de%202008.md) - Director
 - 2010 [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md) - Director e Coordenador da COECA
 
 ## Páginas que ligam para aqui
