@@ -424,8 +424,23 @@
   border-color: var(--md-primary-fg-color);
 }
 
+/* O vermelho de destaque (o das barras de scroll) em vez do azul dos
+   <details> de nota do Material. */
 .md-typeset .pessoas-letra {
   margin: 0.4em 0;
+  border-color: var(--md-accent-fg-color);
+}
+
+.md-typeset .pessoas-letra:focus-within {
+  box-shadow: 0 0 0 0.2rem var(--md-accent-fg-color--transparent);
+}
+
+.md-typeset .pessoas-letra > summary {
+  background-color: var(--md-accent-fg-color--transparent);
+}
+
+.md-typeset .pessoas-letra > summary::after {
+  color: var(--md-accent-fg-color);
 }
 
 .md-typeset .pessoas-letra > summary {
