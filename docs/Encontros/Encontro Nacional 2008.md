@@ -1,4 +1,4 @@
-# Encontro Nacional de 2008
+# Encontro Nacional 2008
 
 Este Encontro realizou-se no Colégio das Caldinhas nos dias 5 e 6 de Abril de 2008. Foi, até aí, o Encontro com mais participação, tendo estado presentes cerca de 450 pessoas.
 

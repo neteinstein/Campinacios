@@ -2,7 +2,13 @@
 
 Encontros Nacionais e Encontros Nacionais de Animadores.
 
+- [Encontro Nacional 1995](Encontro%20Nacional%201995.md)
+- [Encontro Nacional 1998](Encontro%20Nacional%201998.md)
 - [Encontro Nacional 2001 (Encontrão)](Encontro%20Nacional%202001%20%28Encontr%C3%A3o%29.md)
+- [Encontro Nacional 2004](Encontro%20Nacional%202004.md)
+- [Encontro Nacional 2006](Encontro%20Nacional%202006.md)
+- [Encontro Nacional 2007](Encontro%20Nacional%202007.md)
+- [Encontro Nacional 2008](Encontro%20Nacional%202008.md)
 - [Encontro Nacional 2010](Encontro%20Nacional%202010.md)
 - [Encontro Nacional 2019](Encontro%20Nacional%202019.md)
 - [Encontro Nacional 2020](Encontro%20Nacional%202020.md)
@@ -12,12 +18,6 @@ Encontros Nacionais e Encontros Nacionais de Animadores.
 - [Encontro Nacional 2024](Encontro%20Nacional%202024.md)
 - [Encontro Nacional 2025](Encontro%20Nacional%202025.md)
 - [Encontro Nacional 2026](Encontro%20Nacional%202026.md)
-- [Encontro Nacional de 1995](Encontro%20Nacional%20de%201995.md)
-- [Encontro Nacional de 1998](Encontro%20Nacional%20de%201998.md)
-- [Encontro Nacional de 2004](Encontro%20Nacional%20de%202004.md)
-- [Encontro Nacional de 2006](Encontro%20Nacional%20de%202006.md)
-- [Encontro Nacional de 2007](Encontro%20Nacional%20de%202007.md)
-- [Encontro Nacional de 2008](Encontro%20Nacional%20de%202008.md)
 - [Encontro Nacional de Animadores 2004](Encontro%20Nacional%20de%20Animadores%202004.md)
 - [Encontro Nacional de Animadores 2005](Encontro%20Nacional%20de%20Animadores%202005.md)
 - [Encontro Nacional de Animadores 2006](Encontro%20Nacional%20de%20Animadores%202006.md)

@@ -1,4 +1,4 @@
-# Encontro Nacional de 1998
+# Encontro Nacional 1998
 
 Decorreu no CAIC nos dias 5 e 6 de Dezembro.
 

@@ -5,10 +5,12 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [João Miguel Rodrigues](../../Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md)
+- [Tia](../../Cargos/Tio.md) - [Sara Rita Sampaio](../../Pessoas/S/Sara%20Rita%20Sampaio.md)
 
 ## Páginas que ligam para aqui
 
 - [João Miguel Rodrigues](../../Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md)
+- [Sara Rita Sampaio](../../Pessoas/S/Sara%20Rita%20Sampaio.md)
 
 ---
 

@@ -5,11 +5,13 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Nuno Mesquita](../../Pessoas/N/Nuno%20Mesquita.md)
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Sara Rita Sampaio](../../Pessoas/S/Sara%20Rita%20Sampaio.md)
 
 ## Páginas que ligam para aqui
 
 - [Daniela Gonçalves](../../Pessoas/D/Daniela%20Gon%C3%A7alves.md)
 - [Nuno Mesquita](../../Pessoas/N/Nuno%20Mesquita.md)
+- [Sara Rita Sampaio](../../Pessoas/S/Sara%20Rita%20Sampaio.md)
 
 ---
 

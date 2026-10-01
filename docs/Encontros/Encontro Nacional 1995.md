@@ -1,4 +1,4 @@
-# Encontro Nacional de 1995
+# Encontro Nacional 1995
 
 Este Encontro Nacional decorreu no Colégio das Caldinhas nos dias 6 e 7 de Maio de 1995.
 
