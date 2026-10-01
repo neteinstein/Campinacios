@@ -32,9 +32,15 @@ Outra cópia, guardada pelo Arquivo.pt a 24 de Setembro de 2009 no endereço cam
 
 Tinha secções de Notícias, Documentos, História, Actividades, Testemunhos, Livro de Visitas (*Guestbook*), Agenda, Fotos, Músicas, Links, FAQ e Contactos, uma *newsletter* por email e um canal de IRC, #Campinacios. Entre as últimas notícias estavam a divulgação dos directores de 2007 e de 2008 e das equipas e fotos dos acampamentos do Verão de 2007, e ainda o CD do Encontro Nacional 2004, que se podia descarregar. Em 2009 anunciava-se «uma nova página mais dinâmica e activa para breve»: foi a [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md).
 
+## A página da Revolução Campinácios v2.0 {#pagina-v2}
+
+Em 2009 a página original deu lugar à página da [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md), em Campinacios.org, que trouxe também o Wikinácios. Fica aqui, como registo histórico, uma reconstrução da sua página principal tal como estava a 30 de Maio de 2012; as imagens que não ficaram guardadas aparecem como espaços vazios.
+
+[![Reconstrução da página principal «Campinácios v2.0 — Acampamentos dos Colégios da Companhia de Jesus em Portugal» a 30 de Maio de 2012: o cabeçalho com uma fotografia da Gaivota de 2005, o menu Início, Agenda, Wikinácios, Facebook, YouTube e Catálogo, as caixas Conhecer e Viver à esquerda, as notícias do Jantar de Gala, da Ceia de Natal e do Café Terrace do CSJB ao centro e, à direita, os artigos recentes, as mudanças recentes do Wikinácios e uma sondagem](../assets/imagens/Campinacios_v2.webp)](../assets/imagens/Campinacios_v2.webp)
+
 ## O Wikinácios em 2013 {#wikinacios-2013}
 
-O Wikinácios foi um dos sítios que a [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md) trouxe, feito pelo [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) e pelo [Filipe Barroso](../Pessoas/F/Filipe%20Barroso.md). Fica aqui, como registo histórico, a sua página principal tal como estava a 1 de Outubro de 2013, com 880 artigos.
+O Wikinácios foi um dos sítios que a Revolução Campinácios v2.0 trouxe, feito pelo [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) e pelo [Filipe Barroso](../Pessoas/F/Filipe%20Barroso.md). Fica aqui, como registo histórico, a sua página principal tal como estava a 1 de Outubro de 2013, com 880 artigos.
 
 [![Página principal do Wikinácios a 1 de Outubro de 2013: o logótipo dos Campinácios e o menu à esquerda, o texto «Bem-vindo(a) à Wikinacios, a enciclopédia livre sobre Campinácios que (quase) todos podem editar», as secções «Como tudo começou...» e «Sabia que..» ao centro e, à direita, os «Eventos recentes» e o índice de temas](../assets/imagens/Wikinacios_2013.webp)](../assets/imagens/Wikinacios_2013.webp)
 
