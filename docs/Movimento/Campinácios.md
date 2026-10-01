@@ -105,7 +105,7 @@ Os acampamentos destinam-se aos alunos dos colégios entre os 10 e os 17 anos, e
 
 ## Actividades ao longo do ano
 
-Num texto de 2009 e 2010, a [Joana Gomes](../Pessoas/J/Joana%20Gomes.md), animadora do [CSJB](CSJB.md), descrevia o que os Campinácios fazem fora do Verão ([ver no web.archive.org](https://web.archive.org/web/20110916094833/http://www.campinacios.org:80/index.php?option=com_content&view=article&id=123:actividades-ao-longo-do-ano&catid=77:introducao&Itemid=148)):
+Num texto de 2009 e 2010, a [Joana Gomes](../Pessoas/J/Joana%20Gomes.md), animadora do [CSJB](CSJB.md), descrevia o que os Campinácios fazem fora do Verão:
 
 - o **Encontro Nacional**, a maior actividade, num dos três colégios durante um fim-de-semana, aberto a quem faz ou fez acampamentos e a quem tem curiosidade, com jogos e momentos parecidos com os de um acampamento e a parte espiritual no centro (o de 2010 foi o dos 20 anos);
 - a **Ceia de Natal**, feita em cada colégio ao longo de Dezembro, com missa, jantar e serão preparado pelos animadores;
