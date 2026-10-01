@@ -1,12 +1,13 @@
 # Todos os artigos
 
-1198 artigos e, em itálico, os 175 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1198 artigos e, em itálico, os 176 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
 - *Agui* → [Gonçalo Aguiar](Pessoas/G/Gon%C3%A7alo%20Aguiar.md)
 - [Ana Isabel Martins](Pessoas/A/Ana%20Isabel%20Martins.md)
 - [António Portugal](Pessoas/A/Ant%C3%B3nio%20Portugal.md)
+- *António Queirós Martins* → [António Queiroz Martins](Pessoas/A/Ant%C3%B3nio%20Queiroz%20Martins.md)
 - [Triciclos 1](Acampamentos/1997/Triciclos%201.md)
 - [Triciclos 2](Acampamentos/1997/Triciclos%202.md)
 - [À Brava](Acampamentos/2025/%C3%80%20Brava.md)

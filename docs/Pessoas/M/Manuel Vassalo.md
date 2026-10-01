@@ -8,10 +8,14 @@
 
 - **Animador(a):**
     - 2024 [D'RIP MELON](../../Acampamentos/2024/D%27RIP%20MELON.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2025 [À Brava](../../Acampamentos/2025/%C3%80%20Brava.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2026 [Non Nobis](../../Acampamentos/2026/Non%20Nobis.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
 ## Páginas que ligam para aqui
 
+- [À Brava](../../Acampamentos/2025/%C3%80%20Brava.md)
 - [D'RIP MELON](../../Acampamentos/2024/D%27RIP%20MELON.md)
+- [Non Nobis](../../Acampamentos/2026/Non%20Nobis.md)
 
 ---
 
