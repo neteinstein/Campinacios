@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1204 artigos e, em itálico, os 178 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1203 artigos e, em itálico, os 178 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -1347,7 +1347,6 @@
 - [Teté](Pessoas/T/Tet%C3%A9.md)
 - [Tiago Brandão Rodrigues](Pessoas/T/Tiago%20Brand%C3%A3o%20Rodrigues.md)
 - [Tiago Eiró](Pessoas/T/Tiago%20Eir%C3%B3.md)
-- [TiaGO Reis](Pessoas/T/TiaGO%20Reis.md)
 - *Tia* → [Tio](Cargos/Tio.md)
 - [Tiago Bahia](Pessoas/T/Tiago%20Bahia.md)
 - *Tiago Canilho* → [Luís Tiago Canilho](Pessoas/L/Lu%C3%ADs%20Tiago%20Canilho.md)

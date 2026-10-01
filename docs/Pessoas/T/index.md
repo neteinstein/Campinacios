@@ -22,7 +22,6 @@
 - [Tiago Madeira](Tiago%20Madeira.md)
 - [Tiago Monteiro](Tiago%20Monteiro.md)
 - [Tiago Pimenta](Tiago%20Pimenta.md)
-- [TiaGO Reis](TiaGO%20Reis.md)
 - [Tiago Silva](Tiago%20Silva.md)
 - [Tiago Vidal](Tiago%20Vidal.md)
 - [Tiago Vilas Boas](Tiago%20Vilas%20Boas.md)
