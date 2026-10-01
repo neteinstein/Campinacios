@@ -4,7 +4,7 @@
 
 - [Director](../../Cargos/Director.md) - [Hélder Sousa](../../Pessoas/H/H%C3%A9lder%20Sousa.md)
 - [Tia](../../Cargos/Tio.md) - [Margarida Santos](../../Pessoas/M/Margarida%20Santos.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Joana Silva
+- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Joana Silva
 
 ## Páginas que ligam para aqui
 
