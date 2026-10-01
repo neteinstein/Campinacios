@@ -2,7 +2,7 @@
 
 Jesuítas que animam ou animaram acampamentos de Campinácios
 
-## Páginas nesta categoria (74)
+## Páginas nesta categoria (80)
 
 - ["Para Educar Melhor - Campos de férias inacianos"](../Movimento/Para%20Educar%20Melhor%20-%20Campos%20de%20f%C3%A9rias%20inacianos.md)
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
@@ -33,6 +33,8 @@ Jesuítas que animam ou animaram acampamentos de Campinácios
 - [Emanuel Lopes](../Pessoas/E/Emanuel%20Lopes.md)
 - [Filipe Lima](../Pessoas/F/Filipe%20Lima.md)
 - [Filipe Martins](../Pessoas/F/Filipe%20Martins.md)
+- [Filipe Noronha](../Pessoas/F/Filipe%20Noronha.md)
+- [Francisco Campos](../Pessoas/F/Francisco%20Campos.md)
 - [Francisco Cortês Ferreira](../Pessoas/F/Francisco%20Cort%C3%AAs%20Ferreira.md)
 - [Francisco Costa Macedo](../Pessoas/F/Francisco%20Costa%20Macedo.md)
 - [Francisco Martins](../Pessoas/F/Francisco%20Martins.md)
@@ -67,11 +69,15 @@ Jesuítas que animam ou animaram acampamentos de Campinácios
 - [Nuno Branco](../Pessoas/N/Nuno%20Branco.md)
 - [Paulo Duarte](../Pessoas/P/Paulo%20Duarte.md)
 - [Pedro Cameira](../Pessoas/P/Pedro%20Cameira.md)
+- [Pedro Luz](../Pessoas/P/Pedro%20Luz.md)
 - [Pedro Rocha Mendes](../Pessoas/P/Pedro%20Rocha%20Mendes.md)
+- [Pedro Silva](../Pessoas/P/Pedro%20Silva.md)
+- [Rafael Mourão](../Pessoas/R/Rafael%20Mour%C3%A3o.md)
 - [Rafael Rebordão](../Pessoas/R/Rafael%20Rebord%C3%A3o.md)
 - [Ricardo Barroso](../Pessoas/R/Ricardo%20Barroso.md)
 - [Ricardo Batista](../Pessoas/R/Ricardo%20Batista.md)
 - [Rui Fernandes](../Pessoas/R/Rui%20Fernandes.md)
+- [Rui Ferreira](../Pessoas/R/Rui%20Ferreira.md)
 - [Rui Ribeiro](../Pessoas/R/Rui%20Ribeiro.md)
 - [Samuel Afonso](../Pessoas/S/Samuel%20Afonso.md)
 - [Samuel Beirão](../Pessoas/S/Samuel%20Beir%C3%A3o.md)

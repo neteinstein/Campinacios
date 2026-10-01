@@ -5,6 +5,7 @@
 ## Páginas que ligam para aqui
 
 - [Afonso Espregueira](../Pessoas/A/Afonso%20Espregueira.md)
+- [Ana Paula Sampaio](../Pessoas/A/Ana%20Paula%20Sampaio.md)
 - [BEM CHEIO](../Acampamentos/2019/BEM%20CHEIO.md)
 - [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md)
 - [Cristovão Andrade](../Pessoas/C/Cristov%C3%A3o%20Andrade.md)
@@ -13,6 +14,7 @@
 - [Diz Que Sim](../Acampamentos/2007/Diz%20Que%20Sim.md)
 - [Ed mais 10](../Acampamentos/2010/Ed%20mais%2010.md)
 - [Expresso 3 B](../Acampamentos/2021/Expresso%203%20B.md)
+- [Filipe Noronha](../Pessoas/F/Filipe%20Noronha.md)
 - [Francisco Martins](../Pessoas/F/Francisco%20Martins.md)
 - [João Goulão](../Pessoas/J/Jo%C3%A3o%20Goul%C3%A3o.md)
 - [Long Tao](../Acampamentos/2006/Long%20Tao.md)
@@ -24,6 +26,8 @@
 - [Oh Pai, Keshumo](../Acampamentos/2026/Oh%20Pai%2C%20Keshumo.md)
 - [OrienTu](../Acampamentos/2008/OrienTu.md)
 - [PaKasaDele](../Acampamentos/2010/PaKasaDele.md)
+- [Pedro Silva](../Pessoas/P/Pedro%20Silva.md)
+- [Pedrogulho](../Acampamentos/2011/Pedrogulho.md)
 - [Rafael Rebordão](../Pessoas/R/Rafael%20Rebord%C3%A3o.md)
 - [Re-Vela-Vida](../Acampamentos/2026/Re-Vela-Vida.md)
 - [Ricardo Batista](../Pessoas/R/Ricardo%20Batista.md)

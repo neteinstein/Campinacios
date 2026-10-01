@@ -17,6 +17,7 @@
 - [SimBasta](../../Acampamentos/2019/SimBasta.md)
 - [Sinfonia](../../Acampamentos/2021/Sinfonia.md)
 - [À Mesa](../../Acampamentos/2024/%C3%80%20Mesa.md)
+- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 
 ---
 

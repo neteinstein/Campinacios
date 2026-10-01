@@ -28,8 +28,10 @@
 
 - [Ara](../../Acampamentos/2011/Ara.md)
 - [Baúmerang](../../Acampamentos/2007/Ba%C3%BAmerang.md)
+- [Calhambeques](../../Categorias/Calhambeques.md)
 - [Caminho](../../Acampamentos/2009/Caminho.md)
 - [Diogo Costa](../D/Diogo%20Costa.md)
+- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - [Farol](../../Acampamentos/2003/Farol.md)
 - [Gaivota](../../Acampamentos/2005/Gaivota.md)
 - [OrienTu](../../Acampamentos/2008/OrienTu.md)

@@ -1,5 +1,7 @@
 # Maria Cristina Sousa Costa
 
+*Nota: Este artigo é sobre Maria Cristina Sousa Costa, animadora no Piolheira (1996) e no Poucha (1997). Se procura Cristina Costa, animadora no Dilúvio (1999) e no Shampum de Pessêgo (2001), consulte [Cristina Costa](../C/Cristina%20Costa.md).*
+
 ### Acampamentos
 
 - **Participante**
@@ -10,6 +12,7 @@
 
 ## Páginas que ligam para aqui
 
+- [Cristina Costa](../C/Cristina%20Costa.md)
 - [Piolheira](../../Acampamentos/1996/Piolheira.md)
 - [Poucha](../../Acampamentos/1997/Poucha.md)
 

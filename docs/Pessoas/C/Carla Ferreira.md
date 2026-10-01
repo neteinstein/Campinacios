@@ -23,6 +23,8 @@ Frequentou o CC de 1992 a 2008. Animadora desde 2008 até hoje.
 
 ---
 
+**Outros nomes:** Carla Cardoso Ferreira
+
 | Categorias |
 | --- |
 | [Animadores](../../Categorias/Animadores.md) |

@@ -29,6 +29,7 @@ Vítor Rafael Machado Fernandes, nascido a 2 de Setembro de 1982 é animador do 
 
 - [Baúmerang](../../Acampamentos/2007/Ba%C3%BAmerang.md)
 - [Descola](../../Acampamentos/2004/Descola.md)
+- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
 - [Era Uma Vez...](../../Acampamentos/2008/Era%20Uma%20Vez....md)
 - [Gaivota](../../Acampamentos/2005/Gaivota.md)

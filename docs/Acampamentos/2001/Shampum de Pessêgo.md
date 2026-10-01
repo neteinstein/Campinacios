@@ -7,7 +7,7 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - João Ruela
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Tojú](../../Pessoas/A/Ant%C3%B3nio%20J%C3%BAlio%20Trigueiros.md) sj
 - [Tias](../../Cargos/Tio.md) - [Ana Geão](../../Pessoas/A/Ana%20Ge%C3%A3o.md) e [Ana Curto](../../Pessoas/A/Ana%20Curto.md)
-- [Animadores](../../Categorias/Animadores.md) - João Graça , Zinho , Linda Araújo , [Isabel Fernandes Melo](../../Pessoas/I/Isabel%20Fernandes%20Melo.md) , João Reis (Joninhas) , Cristina Costa , [António Andrade](../../Pessoas/A/Ant%C3%B3nio%20Andrade.md)
+- [Animadores](../../Categorias/Animadores.md) - João Graça , Zinho , Linda Araújo , [Isabel Fernandes Melo](../../Pessoas/I/Isabel%20Fernandes%20Melo.md) , João Reis (Joninhas) , [Cristina Costa](../../Pessoas/C/Cristina%20Costa.md) , [António Andrade](../../Pessoas/A/Ant%C3%B3nio%20Andrade.md)
 
 ## Páginas que ligam para aqui
 
@@ -19,6 +19,7 @@
 - [Bruno Azevedo](../../Pessoas/B/Bruno%20Azevedo.md)
 - [Carolina Carvalho](../../Pessoas/C/Carolina%20Carvalho.md)
 - [Cláudia Coelho](../../Pessoas/C/Cl%C3%A1udia%20Coelho.md)
+- [Cristina Costa](../../Pessoas/C/Cristina%20Costa.md)
 - [Isabel Fernandes Melo](../../Pessoas/I/Isabel%20Fernandes%20Melo.md)
 - [Joana Cardoso](../../Pessoas/J/Joana%20Cardoso.md)
 - [Joana Ferreira da Silva](../../Pessoas/J/Joana%20Ferreira%20da%20Silva.md)

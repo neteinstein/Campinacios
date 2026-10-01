@@ -1,5 +1,7 @@
 # João Miguel Rodrigues
 
+*Nota: Este artigo é sobre João Miguel Rodrigues, animador desde 2012 (Conta Kms). Se procura Miguel Nogueira Rodrigues, animador do CSJB, consulte [Miguel Nogueira Rodrigues](../M/Miguel%20Nogueira%20Rodrigues.md).*
+
 ### Acampamentos
 
 - **Participante:**
@@ -22,6 +24,7 @@
 - [Conta Kms](../../Acampamentos/2012/Conta%20Kms.md)
 - [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
 - [Fiat'ársea](../../Acampamentos/2014/Fiat%27%C3%A1rsea.md)
+- [Miguel Nogueira Rodrigues](../M/Miguel%20Nogueira%20Rodrigues.md)
 - [Mostra Garra](../../Acampamentos/2016/Mostra%20Garra.md)
 - [Realiza](../../Acampamentos/2013/Realiza.md)
 - [Supera-te](../../Acampamentos/2017/Supera-te.md)

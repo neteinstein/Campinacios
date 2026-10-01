@@ -1,6 +1,7 @@
 # C
 
 - [Camila Martins](Camila%20Martins.md)
+- [Cândida Azevedo](C%C3%A2ndida%20Azevedo.md)
 - [Carla Antunes](Carla%20Antunes.md)
 - [Carla Carneiro](Carla%20Carneiro.md)
 - [Carla Ferreira](Carla%20Ferreira.md)
@@ -13,6 +14,7 @@
 - [Carlos Carvalho](Carlos%20Carvalho.md)
 - [Carlos Lopes](Carlos%20Lopes.md)
 - [Carlos Miguel Albuquerque](Carlos%20Miguel%20Albuquerque.md)
+- [Carlos Nunes](Carlos%20Nunes.md)
 - [Carlos Pereira da Silva](Carlos%20Pereira%20da%20Silva.md)
 - [Carlos Rodrigues](Carlos%20Rodrigues.md)
 - [Carlos Ruiz](Carlos%20Ruiz.md)
@@ -31,6 +33,7 @@
 - [Catarina Godinho](Catarina%20Godinho.md)
 - [Catarina Meireles](Catarina%20Meireles.md)
 - [Catarina Pinto](Catarina%20Pinto.md)
+- [Catarina Rocha](Catarina%20Rocha.md)
 - [Catarina Silva](Catarina%20Silva.md)
 - [Cátia Silva](C%C3%A1tia%20Silva.md)
 - [Cecília Mendonça](Cec%C3%ADlia%20Mendon%C3%A7a.md)
@@ -52,3 +55,4 @@
 - [Cristovão Andrade](Cristov%C3%A3o%20Andrade.md)
 - [Cristóvão Teixeira](Crist%C3%B3v%C3%A3o%20Teixeira.md)
 - [Cátia Carvalho](C%C3%A1tia%20Carvalho.md)
+- [Cristina Costa](Cristina%20Costa.md)
