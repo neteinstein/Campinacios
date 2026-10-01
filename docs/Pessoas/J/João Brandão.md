@@ -11,10 +11,12 @@
 
 - **Animador:**
     - 2012 [Clávis](../../Acampamentos/2012/Cl%C3%A1vis.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+    - 2015 [Take PaGod](../../Acampamentos/2015/Take%20PaGod.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
 ## Páginas que ligam para aqui
 
 - [Clávis](../../Acampamentos/2012/Cl%C3%A1vis.md)
+- [Take PaGod](../../Acampamentos/2015/Take%20PaGod.md)
 
 ---
 
