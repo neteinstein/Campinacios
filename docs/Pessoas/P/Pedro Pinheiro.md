@@ -27,6 +27,7 @@ Pedro Filipe Gomes Pinheiro, nascido a 12 de Junho de 1982, é animador do CC.
 
 - [Ana Pinheiro](../A/Ana%20Pinheiro.md)
 - [Campinácios](../../Movimento/Campin%C3%A1cios.md)
+- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - [Em Busca da CaraBela](../../Acampamentos/2006/Em%20Busca%20da%20CaraBela.md)
 - [Farol](../../Acampamentos/2003/Farol.md)
 - [Fófinhos](../../Acampamentos/2005/F%C3%B3finhos.md)
