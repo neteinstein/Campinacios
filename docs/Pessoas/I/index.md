@@ -11,6 +11,7 @@
 - [Irina Ramos](Irina%20Ramos.md)
 - [Isa Neves](Isa%20Neves.md)
 - [Isabel Fernandes Melo](Isabel%20Fernandes%20Melo.md)
+- [Isabel Ferraz](Isabel%20Ferraz.md)
 - [Isabel Fonseca](Isabel%20Fonseca.md)
 - [Isabel Girão](Isabel%20Gir%C3%A3o.md)
 - [Isabel Neves](Isabel%20Neves.md)

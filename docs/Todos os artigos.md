@@ -1,11 +1,12 @@
 # Todos os artigos
 
-1185 artigos e, em itálico, os 175 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1198 artigos e, em itálico, os 175 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
 - *Agui* → [Gonçalo Aguiar](Pessoas/G/Gon%C3%A7alo%20Aguiar.md)
 - [Ana Isabel Martins](Pessoas/A/Ana%20Isabel%20Martins.md)
+- [António Portugal](Pessoas/A/Ant%C3%B3nio%20Portugal.md)
 - [Triciclos 1](Acampamentos/1997/Triciclos%201.md)
 - [Triciclos 2](Acampamentos/1997/Triciclos%202.md)
 - [À Brava](Acampamentos/2025/%C3%80%20Brava.md)
@@ -145,6 +146,7 @@
 - [Baúmerang](Acampamentos/2007/Ba%C3%BAmerang.md)
 - [Baza](Acampamentos/2007/Baza.md)
 - [Benedita Rolim](Pessoas/B/Benedita%20Rolim.md)
+- [Benedita Vasconcelos](Pessoas/B/Benedita%20Vasconcelos.md)
 - *Bernardo Morais Sarmento* → [Bernardo Moraes Sarmento](Pessoas/B/Bernardo%20Moraes%20Sarmento.md)
 - [Bé](Pessoas/B/B%C3%A9.md)
 - *Bea Mesquita* → [Beatriz Mesquita](Pessoas/B/Beatriz%20Mesquita.md)
@@ -224,10 +226,13 @@
 - [Capelinho](Cargos/Capelinho.md)
 - [Carlos Pereira da Silva](Pessoas/C/Carlos%20Pereira%20da%20Silva.md)
 - *Carmo Cunha e Carmo* → [Maria do Carmo Cunha e Carmo](Pessoas/M/Maria%20do%20Carmo%20Cunha%20e%20Carmo.md)
+- [Carmo Madeira](Pessoas/C/Carmo%20Madeira.md)
 - [Carolina Morão](Pessoas/C/Carolina%20Mor%C3%A3o.md)
 - [Carolina Picciochi](Pessoas/C/Carolina%20Picciochi.md)
+- [Catarina Gaio](Pessoas/C/Catarina%20Gaio.md)
 - [Catarina Godinho](Pessoas/C/Catarina%20Godinho.md)
 - [Catarina Meireles](Pessoas/C/Catarina%20Meireles.md)
+- [Catarina Silva](Pessoas/C/Catarina%20Silva.md)
 - [Cátia Silva](Pessoas/C/C%C3%A1tia%20Silva.md)
 - *Chumi* → [Carmo Ribeiro Corrêa](Pessoas/C/Carmo%20Ribeiro%20Corr%C3%AAa.md)
 - [Clara Sampaio](Pessoas/C/Clara%20Sampaio.md)
@@ -317,6 +322,7 @@
 
 - [D'RIP MELON](Acampamentos/2024/D%27RIP%20MELON.md)
 - *Dani* → [Daniela Gonçalves](Pessoas/D/Daniela%20Gon%C3%A7alves.md)
+- [Diana Freitas](Pessoas/D/Diana%20Freitas.md)
 - [Duarte Pinto](Pessoas/D/Duarte%20Pinto.md)
 - [Duarte Ribeiro](Pessoas/D/Duarte%20Ribeiro.md)
 - *Dudu* → [Duarte Ribeiro](Pessoas/D/Duarte%20Ribeiro.md)
@@ -552,6 +558,7 @@
 - [Guadalupe Oliveira](Pessoas/G/Guadalupe%20Oliveira.md)
 - [Guilherme Balhau](Pessoas/G/Guilherme%20Balhau.md)
 - [Guilherme Ribeiro](Pessoas/G/Guilherme%20Ribeiro.md)
+- [Guiomar Andrade](Pessoas/G/Guiomar%20Andrade.md)
 - [Gurugnu](Acampamentos/2000/Gurugnu.md)
 - [Gustavo Gapo](Pessoas/G/Gustavo%20Gapo.md)
 - *GVP* → [Gonçalo Vaz Pedro](Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md)
@@ -594,6 +601,7 @@
 - [Isa Neves](Pessoas/I/Isa%20Neves.md)
 - [Isabel Fernandes Melo](Pessoas/I/Isabel%20Fernandes%20Melo.md)
 - *Isab Fonseca* → [Isabel Fonseca](Pessoas/I/Isabel%20Fonseca.md)
+- [Isabel Ferraz](Pessoas/I/Isabel%20Ferraz.md)
 - [Isabel Fonseca](Pessoas/I/Isabel%20Fonseca.md)
 - [Isabel Girão](Pessoas/I/Isabel%20Gir%C3%A3o.md)
 - [Isabel Neves](Pessoas/I/Isabel%20Neves.md)
@@ -770,6 +778,7 @@
 - [Lara Tavares](Pessoas/L/Lara%20Tavares.md)
 - [Latrina](Movimento/Latrina.md)
 - [Laura Barra](Pessoas/L/Laura%20Barra.md)
+- [Laura Leandro](Pessoas/L/Laura%20Leandro.md)
 - [Legislação](Movimento/Legisla%C3%A7%C3%A3o.md)
 - [Lembras-te?](Acampamentos/2009/Lembras-te.md)
 - [Leonardo Carvalho](Pessoas/L/Leonardo%20Carvalho.md)
@@ -877,6 +886,7 @@
 - [Maria Ramos](Pessoas/M/Maria%20Ramos.md)
 - [Mariana Cortez](Pessoas/M/Mariana%20Cortez.md)
 - [Marta Martins](Pessoas/M/Marta%20Martins.md)
+- [Matilde Ferreira](Pessoas/M/Matilde%20Ferreira.md)
 - [Matilde Silva](Pessoas/M/Matilde%20Silva.md)
 - *Mawi* → [Maria Cunhal](Pessoas/M/Maria%20Cunhal.md)
 - *Migalha* → [Miguel Melo Ribeiro](Pessoas/M/Miguel%20Melo%20Ribeiro.md)
@@ -1041,6 +1051,7 @@
 - [Paim](Acampamentos/1999/Paim.md)
 - [PaKasaDele](Acampamentos/2010/PaKasaDele.md)
 - [Panão](Pessoas/P/Pan%C3%A3o.md)
+- [Pedro Leitão](Pessoas/P/Pedro%20Leit%C3%A3o.md)
 - [Pedro Oliveira](Pessoas/P/Pedro%20Oliveira.md)
 - [Pedro Rosa](Pessoas/P/Pedro%20Rosa.md)
 - *Pedro Namorado Rosa* → [Pedro Rosa](Pessoas/P/Pedro%20Rosa.md)
@@ -1337,6 +1348,7 @@
 - [Tiago Madeira](Pessoas/T/Tiago%20Madeira.md)
 - [Tiago Monteiro](Pessoas/T/Tiago%20Monteiro.md)
 - [Tiago Pimenta](Pessoas/T/Tiago%20Pimenta.md)
+- [Tiago Silva](Pessoas/T/Tiago%20Silva.md)
 - [Tiago Vidal](Pessoas/T/Tiago%20Vidal.md)
 - [Tiago Vilas Boas](Pessoas/T/Tiago%20Vilas%20Boas.md)
 - *Tias* → [Tio](Cargos/Tio.md)
@@ -1369,6 +1381,7 @@
 ## V
 
 - [Vaivém](Acampamentos/2018/Vaiv%C3%A9m.md)
+- [Valéria Magalhães](Pessoas/V/Val%C3%A9ria%20Magalh%C3%A3es.md)
 - [Vasco Lucas Pires](Pessoas/V/Vasco%20Lucas%20Pires.md)
 - [Vasco Meneses](Pessoas/V/Vasco%20Meneses.md)
 - [Vasco Neves](Pessoas/V/Vasco%20Neves.md)
