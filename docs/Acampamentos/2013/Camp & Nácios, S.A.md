@@ -1,6 +1,6 @@
 # Camp & Nácios, S.A
 
-**Camp & Nácios, S.A** foi um acampamento de [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) realizado em 2013. O tema do ano foi *Ámen*.
+**Camp & Nácios, S.A** foi um acampamento de [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) realizado de 25 a 31 de Julho de 2013. O tema do ano foi *Ámen*.
 
 ### Animadores
 

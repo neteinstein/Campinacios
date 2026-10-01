@@ -19,6 +19,7 @@
 - [Sara Ramalho](Sara%20Ramalho.md)
 - [Sara Rita Sampaio](Sara%20Rita%20Sampaio.md)
 - [Sebastião Caldas](Sebasti%C3%A3o%20Caldas.md)
+- [Sebastião Veloso](Sebasti%C3%A3o%20Veloso.md)
 - [Simão Alves da Silva](Sim%C3%A3o%20Alves%20da%20Silva.md)
 - [Sofia Amaral](Sofia%20Amaral.md)
 - [Sofia Ângelo](Sofia%20%C3%82ngelo.md)
