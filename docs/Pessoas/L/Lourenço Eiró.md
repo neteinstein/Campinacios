@@ -11,8 +11,8 @@ Lourenço Eiró foi um dos fundadores dos [Campinácios](../../Movimento/Campin%
 - 1999 - Coordenador do [Jambo 99](../../Acampamentos/1999/Jambo%2099.md)
 - 1991/1992 - Membro da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - 1991/1992 - Membro da [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
-- 1991/1992 - Coordenador do [Cagácios](../../Acampamentos/Sem%20data/Cag%C3%A1cios.md)
-- 1991 - Coordenador do [CIFA II](../../Acampamentos/Sem%20data/CIFA%20II.md)
+- 1991/1992 - Coordenador do [Cagácios](../../Acampamentos/1991/Cag%C3%A1cios.md)
+- 1991 - Coordenador do [CIFA II](../../Acampamentos/1991/CIFA%20II.md)
 
 ### Acampamentos
 
@@ -49,11 +49,11 @@ Lourenço Eiró foi um dos fundadores dos [Campinácios](../../Movimento/Campin%
 - [Apoio](../../Wikin%C3%A1cios/Apoio.md)
 - [Ara](../../Acampamentos/2011/Ara.md)
 - [Assistentes Nacionais](../../Categorias/Assistentes%20Nacionais.md)
-- [Cagácios](../../Acampamentos/Sem%20data/Cag%C3%A1cios.md)
+- [Cagácios](../../Acampamentos/1991/Cag%C3%A1cios.md)
 - [Caminho](../../Acampamentos/2009/Caminho.md)
 - [Campinácios](../../Movimento/Campin%C3%A1cios.md)
 - [Caroço](../../Acampamentos/1999/Caro%C3%A7o.md)
-- [CIFA II](../../Acampamentos/Sem%20data/CIFA%20II.md)
+- [CIFA II](../../Acampamentos/1991/CIFA%20II.md)
 - [Cinena](../../Acampamentos/2001/Cinena.md)
 - [Constância](../../Acampamentos/1991/Const%C3%A2ncia.md)
 - [Conta Kms](../../Acampamentos/2012/Conta%20Kms.md)

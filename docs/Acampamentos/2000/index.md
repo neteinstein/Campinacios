@@ -1,6 +1,7 @@
 # 2000
 
 - [Cometa](Cometa.md)
+- [CRAC](CRAC.md) — Formação de Animadores
 - [Gordurosa](Gordurosa.md) — Bicicletas
 - [Gurugnu](Gurugnu.md) — Triciclos
 - [Liberata](Liberata.md) — Trotinetas
