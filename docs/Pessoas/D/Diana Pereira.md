@@ -14,10 +14,12 @@
     - 2007 [Bora Bora](../../Acampamentos/2007/Bora%20Bora.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2008 [Arethë](../../Acampamentos/2008/Areth%C3%AB.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2009 [Talithá Kum](../../Acampamentos/2009/Talith%C3%A1%20Kum.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
+    - 2011 [Ara](../../Acampamentos/2011/Ara.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2012 [Conta Kms](../../Acampamentos/2012/Conta%20Kms.md) - [Director](../../Cargos/Director.md)
 
 ## Páginas que ligam para aqui
 
+- [Ara](../../Acampamentos/2011/Ara.md)
 - [Arethë](../../Acampamentos/2008/Areth%C3%AB.md)
 - [Bora Bora](../../Acampamentos/2007/Bora%20Bora.md)
 - [Conta Kms](../../Acampamentos/2012/Conta%20Kms.md)

@@ -21,7 +21,7 @@ Animadores, jesuítas e outras pessoas do movimento, por ordem alfabética.
 - [Q](Q/index.md) (1)
 - [R](R/index.md) (57)
 - [S](S/index.md) (38)
-- [T](T/index.md) (32)
+- [T](T/index.md) (31)
 - [V](V/index.md) (16)
 - [X](X/index.md) (1)
 - [Z](Z/index.md) (4)

@@ -21,11 +21,16 @@ Animadora do CC desde 2005.
 
 É irmã da [Sara Rita Sampaio](../S/Sara%20Rita%20Sampaio.md).
 
+### Encontros
+
+- 2010 [Encontro Nacional de Animadores 2010](../../Encontros/Encontro%20Nacional%20de%20Animadores%202010.md) - Organização
+
 ## Páginas que ligam para aqui
 
 - [Baúmerang](../../Acampamentos/2007/Ba%C3%BAmerang.md)
 - [Bike Just Do It](../../Acampamentos/2008/Bike%20Just%20Do%20It.md)
 - [Camp & Nácios, S.A](../../Acampamentos/2013/Camp%20%26%20N%C3%A1cios%2C%20S.A.md)
+- [Encontro Nacional de Animadores 2010](../../Encontros/Encontro%20Nacional%20de%20Animadores%202010.md)
 - [Limpopolus](../../Acampamentos/2012/Limpopolus.md)
 - [Sara Rita Sampaio](../S/Sara%20Rita%20Sampaio.md)
 - [Survivor](../../Acampamentos/2009/Survivor.md)

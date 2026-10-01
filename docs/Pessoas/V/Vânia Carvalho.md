@@ -10,11 +10,12 @@
     - 2009
 
 - **Animador:**
-    - Nenhum
+    - 2011 [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md)
 
 ## Páginas que ligam para aqui
 
 - [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
+- [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md)
 
 ---
 
