@@ -3584,7 +3584,16 @@ O céu e a terra
 
 *Cântico da manhã*
 
-A letra está guardada na página da [Revolução Campinácios v2.0](../Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md), publicada por Filipe Barroso a 9 de Agosto de 2010: [ver no web.archive.org](https://web.archive.org/web/20110916055812/http://www.campinacios.org:80/index.php?option=com_content&view=article&id=169:o-sol-ja-raiou&catid=51:musicas&Itemid=76).
+```text
+O Sol já raiou, o sol já raiou
+A Natureza em flor
+O sol já raiou, o sol já raiou
+E eu encontrei o meu Senhor!
+
+Bom dia!
+```
+
+Publicada por Filipe Barroso na página da [Revolução Campinácios v2.0](../Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md) a 9 de Agosto de 2010.
 
 ### OBRIGADO {#obrigado}
 
