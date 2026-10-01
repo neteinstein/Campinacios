@@ -5,11 +5,13 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Renato Lobo](../../Pessoas/R/Renato%20Lobo.md)
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Nuno Mesquita](../../Pessoas/N/Nuno%20Mesquita.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - Samuel Beirão sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - Samuel Afonso sj
 
 ## Páginas que ligam para aqui
 
+- [Nuno Mesquita](../../Pessoas/N/Nuno%20Mesquita.md)
 - [Renato Lobo](../../Pessoas/R/Renato%20Lobo.md)
 
 ---
