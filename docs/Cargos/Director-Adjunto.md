@@ -16,6 +16,7 @@
 ## Páginas que ligam para aqui
 
 - [180 Já Contenta](../Acampamentos/2023/180%20J%C3%A1%20Contenta.md)
+- [A Ir e Falta o S](../Acampamentos/2018/A%20Ir%20e%20Falta%20o%20S.md)
 - [A Partir](../Acampamentos/2023/A%20Partir.md)
 - [Academia](../Acampamentos/2005/Academia.md)
 - [Agora Vês](../Acampamentos/2018/Agora%20V%C3%AAs.md)
@@ -103,6 +104,7 @@
 - [Fragas de S.Simão 94](../Acampamentos/1994/Fragas%20de%20S.Sim%C3%A3o%2094.md)
 - [Francisca Crujeira](../Pessoas/F/Francisca%20Crujeira.md)
 - [Francisco Ilhão](../Pessoas/F/Francisco%20Ilh%C3%A3o.md)
+- [Francisco Maia](../Pessoas/F/Francisco%20Maia.md)
 - [Francisco Silva Rodrigues](../Pessoas/F/Francisco%20Silva%20Rodrigues.md)
 - [Fófinhos](../Acampamentos/2005/F%C3%B3finhos.md)
 - [Gaivota](../Acampamentos/2005/Gaivota.md)
@@ -130,6 +132,7 @@
 - [Joana Ferreira (2019)](../Pessoas/J/Joana%20Ferreira%20%282019%29.md)
 - [Joana Gomes](../Pessoas/J/Joana%20Gomes.md)
 - [João Eiró](../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md)
+- [João Miguel Rodrigues](../Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md)
 - [João Pedro Carlos](../Pessoas/J/Jo%C3%A3o%20Pedro%20Carlos.md)
 - [Joca](../Pessoas/J/Joca.md)
 - [Johnny Sousa](../Pessoas/J/Johnny%20Sousa.md)
@@ -170,6 +173,7 @@
 - [Metrópole](../Acampamentos/2004/Metr%C3%B3pole.md)
 - [Miguel Falcão Ramos](../Pessoas/M/Miguel%20Falc%C3%A3o%20Ramos.md)
 - [Miguel Teixeira](../Pessoas/M/Miguel%20Teixeira.md)
+- [Mostra Garra](../Acampamentos/2016/Mostra%20Garra.md)
 - [Navalha-me Deus](../Acampamentos/2026/Navalha-me%20Deus.md)
 - [Ninja Por Não Estar](../Acampamentos/2002/Ninja%20Por%20N%C3%A3o%20Estar.md)
 - [Non Nobis](../Acampamentos/2026/Non%20Nobis.md)
