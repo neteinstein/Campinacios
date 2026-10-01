@@ -11,11 +11,13 @@
 
 - **Animador:**
     - 2011 [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md)
+    - 2013 [Realiza](../../Acampamentos/2013/Realiza.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
 ## Páginas que ligam para aqui
 
 - [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
 - [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md)
+- [Realiza](../../Acampamentos/2013/Realiza.md)
 
 ---
 

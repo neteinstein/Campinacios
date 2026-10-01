@@ -37,6 +37,7 @@ O Rastilho foi um acampamento de Lambretas que decorreu de 31 de Julho a 12 de A
 - [Mafalda Coelho](../../Pessoas/M/Mafalda%20Coelho.md)
 - [Mafalda Pereira](../../Pessoas/M/Mafalda%20Pereira.md)
 - [Marta Croca](../../Pessoas/M/Marta%20Croca.md)
+- [Miguel Melo](../../Pessoas/M/Miguel%20Melo.md)
 - [Nuno Carrolo](../../Pessoas/N/Nuno%20Carrolo.md)
 - [Pedro Castro](../../Pessoas/P/Pedro%20Castro.md)
 - [Ricardo Neves](../../Pessoas/R/Ricardo%20Neves.md)

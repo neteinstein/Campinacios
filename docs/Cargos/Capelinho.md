@@ -26,6 +26,7 @@
 - [PaKasaDele](../Acampamentos/2010/PaKasaDele.md)
 - [Rafael Rebordão](../Pessoas/R/Rafael%20Rebord%C3%A3o.md)
 - [Re-Vela-Vida](../Acampamentos/2026/Re-Vela-Vida.md)
+- [Realiza](../Acampamentos/2013/Realiza.md)
 - [Ricardo Batista](../Pessoas/R/Ricardo%20Batista.md)
 - [Rui Ribeiro](../Pessoas/R/Rui%20Ribeiro.md)
 - [SimBasta](../Acampamentos/2019/SimBasta.md)
