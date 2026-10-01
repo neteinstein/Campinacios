@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1246 artigos e, em itálico, os 193 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1246 artigos e, em itálico, os 194 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -1383,6 +1383,7 @@
 - [Tábeeeim](Acampamentos/2010/T%C3%A1beeeim.md)
 - [Tânia Rodrigues](Pessoas/T/T%C3%A2nia%20Rodrigues.md)
 - [TásCá](Acampamentos/2016/T%C3%A1sC%C3%A1.md)
+- *Teddy Bear* → [Ricardo Costa](Pessoas/R/Ricardo%20Costa.md)
 - [Telma Pinto](Pessoas/T/Telma%20Pinto.md)
 - [Telmo Teixeira](Pessoas/T/Telmo%20Teixeira.md)
 - [Tem Bicho Zweitausend](Acampamentos/2000/Tem%20Bicho%20Zweitausend.md)

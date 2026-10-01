@@ -8,9 +8,8 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Gonçalo Carvalho](../../Pessoas/G/Gon%C3%A7alo%20Lu%C3%ADs%20Carvalho.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Juliana Fernandes](../../Pessoas/J/Juliana%20Fernandes.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md) sj
-- [Capelinha](../../Cargos/Capelinho.md) - [Ana Paula Sampaio](../../Pessoas/A/Ana%20Paula%20Sampaio.md)
 - [Tia](../../Cargos/Tio.md) - [Rita Costa](../../Pessoas/A/Ana%20Rita%20Costa.md)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md), [Maria Cortês Ferreira](../../Pessoas/M/Maria%20Cort%C3%AAs%20Ferreira.md), [João Monteiro](../../Pessoas/J/Jo%C3%A3o%20Monteiro.md) e [Francisco Moitinho Almeida](../../Pessoas/F/Francisco%20Moitinho%20Almeida.md)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md), [Maria Cortês Ferreira](../../Pessoas/M/Maria%20Cort%C3%AAs%20Ferreira.md), [João Monteiro](../../Pessoas/J/Jo%C3%A3o%20Monteiro.md), [Francisco Moitinho Almeida](../../Pessoas/F/Francisco%20Moitinho%20Almeida.md) e [Ana Paula Sampaio](../../Pessoas/A/Ana%20Paula%20Sampaio.md)
 
 ## Páginas que ligam para aqui
 

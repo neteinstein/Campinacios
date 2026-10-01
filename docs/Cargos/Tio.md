@@ -212,6 +212,7 @@
 - [Xii Tava Kuase Lá...!](../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md)
 - [Ídolo](../Acampamentos/2004/%C3%8Ddolo.md)
 - [Joana Lima](../Pessoas/J/Joana%20Lima.md)
+- [Ricardo Costa](../Pessoas/R/Ricardo%20Costa.md)
 
 ---
 

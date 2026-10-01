@@ -317,8 +317,11 @@
 - [Êxodo](../Acampamentos/2008/%C3%8Axodo.md)
 - [Francisco Maria Alves](../Pessoas/F/Francisco%20Maria%20Alves.md)
 - [Ídolo](../Acampamentos/2004/%C3%8Ddolo.md)
+- [Inês Carvalho](../Pessoas/I/In%C3%AAs%20Carvalho.md)
+- [Inês Furtado](../Pessoas/I/In%C3%AAs%20Furtado.md)
 - [Maria Manuel Urbano](../Pessoas/M/Maria%20Manuel%20Urbano.md)
 - [Rebordosa](../Acampamentos/1993/Rebordosa.md)
+- [Ricardo Costa](../Pessoas/R/Ricardo%20Costa.md)
 
 ---
 

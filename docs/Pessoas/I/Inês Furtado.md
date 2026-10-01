@@ -2,6 +2,15 @@
 
 Animadora do CC desde 2010/2011: estava na lista dos [novos animadores desse ano](../../Movimento/Animador.md#novos-2010-2011).
 
+### Acampamentos
+
+- **Animadora**
+    - 2015 [Ide](../../Acampamentos/2015/Ide.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
+
+## Páginas que ligam para aqui
+
+- [Ide](../../Acampamentos/2015/Ide.md)
+
 ---
 
 | Categorias |
