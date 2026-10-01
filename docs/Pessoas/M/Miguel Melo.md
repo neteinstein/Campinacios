@@ -11,8 +11,8 @@
 - **Animador**
     - 2005 [Gaivota](../../Acampamentos/2005/Gaivota.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2006 [Xii Tava Kuase Lá...!](../../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
-    - 2008 [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md) - [Capelinho](../../Cargos/Capelinho.md)
-    - 2009 [Bublix](../../Acampamentos/2009/Bublix.md) - [Capelinho](../../Cargos/Capelinho.md)
+    - 2008 [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+    - 2009 [Bublix](../../Acampamentos/2009/Bublix.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2014 [Póporcohá](../../Acampamentos/2014/P%C3%B3porcoh%C3%A1.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2015 [Encontrei-te](../../Acampamentos/2015/Encontrei-te.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2021 [Vesp'á Luz](../../Acampamentos/2021/Vesp%27%C3%A1%20Luz.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)

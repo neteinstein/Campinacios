@@ -8,7 +8,7 @@
 ### Acampamentos
 
 - **Animador**
-    - 2009 [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md) - [Capelinho](../../Cargos/Capelinho.md)
+    - 2009 [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
 ## Páginas que ligam para aqui
 
