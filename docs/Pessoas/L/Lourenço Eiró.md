@@ -34,15 +34,18 @@ Lourenço Eiró foi um dos fundadores dos [Campinácios](../../Movimento/Campin%
     - 2009 [Caminho](../../Acampamentos/2009/Caminho.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2010 [Obra Prima](../../Acampamentos/2010/Obra%20Prima.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2011 [Pedrogulho](../../Acampamentos/2011/Pedrogulho.md) - [Director](../../Cargos/Director.md)
+    - 2011 [Ara](../../Acampamentos/2011/Ara.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
 ### Encontros
 
+- 2008 [Encontro Nacional de Animadores 2008](../../Encontros/Encontro%20Nacional%20de%20Animadores%202008.md) - Organização
 - 2010 [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md) - COECA
 
 ## Páginas que ligam para aqui
 
 - [Academia](../../Acampamentos/2005/Academia.md)
 - [Apoio](../../Wikin%C3%A1cios/Apoio.md)
+- [Ara](../../Acampamentos/2011/Ara.md)
 - [Assistentes Nacionais](../../Categorias/Assistentes%20Nacionais.md)
 - [Cagácios](../../Acampamentos/Sem%20data/Cag%C3%A1cios.md)
 - [Caminho](../../Acampamentos/2009/Caminho.md)
@@ -54,6 +57,7 @@ Lourenço Eiró foi um dos fundadores dos [Campinácios](../../Movimento/Campin%
 - [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md)
 - [Encontro Nacional de Animadores 2007](../../Encontros/Encontro%20Nacional%20de%20Animadores%202007.md)
+- [Encontro Nacional de Animadores 2008](../../Encontros/Encontro%20Nacional%20de%20Animadores%202008.md)
 - [Êxodo](../../Acampamentos/2008/%C3%8Axodo.md)
 - [Graal I](../../Acampamentos/2002/Graal%20I.md)
 - [Graal II](../../Acampamentos/2003/Graal%20II.md)

@@ -24,6 +24,7 @@ Vítor Rafael Machado Fernandes, nascido a 2 de Setembro de 1982 é animador do 
     - 2008 [Era Uma Vez...](../../Acampamentos/2008/Era%20Uma%20Vez....md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2009 [Tira as rodinhas](../../Acampamentos/2009/Tira%20as%20rodinhas.md) - [Director Adjunto](../../Cargos/Director-Adjunto.md)
     - 2010 [PaKasaDele](../../Acampamentos/2010/PaKasaDele.md) - [Director](../../Cargos/Director.md)
+    - 2011 [Pescanova](../../Acampamentos/2011/Pescanova.md)
 
 ## Páginas que ligam para aqui
 
@@ -33,6 +34,7 @@ Vítor Rafael Machado Fernandes, nascido a 2 de Setembro de 1982 é animador do 
 - [Era Uma Vez...](../../Acampamentos/2008/Era%20Uma%20Vez....md)
 - [Gaivota](../../Acampamentos/2005/Gaivota.md)
 - [PaKasaDele](../../Acampamentos/2010/PaKasaDele.md)
+- [Pescanova](../../Acampamentos/2011/Pescanova.md)
 - [Pontes](../../Acampamentos/2001/Pontes.md)
 - [Rastilho](../../Acampamentos/2003/Rastilho.md)
 - [Tira as rodinhas](../../Acampamentos/2009/Tira%20as%20rodinhas.md)

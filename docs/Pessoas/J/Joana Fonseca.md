@@ -17,12 +17,14 @@
 - **Animadora:**
     - 2009 [Incrível](../../Acampamentos/2009/Incr%C3%ADvel.md) - [Tia](../../Cargos/Tio.md)
     - 2010 [Walkabout](../../Acampamentos/2010/Walkabout.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
+    - 2011 [Pedra papel tesoura](../../Acampamentos/2011/Pedra%20papel%20tesoura.md)
     - 2014 [Sentido](../../Acampamentos/2014/Sentido.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
 ## Páginas que ligam para aqui
 
 - [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
 - [Incrível](../../Acampamentos/2009/Incr%C3%ADvel.md)
+- [Pedra papel tesoura](../../Acampamentos/2011/Pedra%20papel%20tesoura.md)
 - [Rita Fonseca](../R/Rita%20Fonseca.md)
 - [Sentido](../../Acampamentos/2014/Sentido.md)
 - [Walkabout](../../Acampamentos/2010/Walkabout.md)

@@ -9,7 +9,7 @@ Animadores dos Campinácios
 - [Animadores do CSJB](Animadores%20do%20CSJB.md)
 - [Jesuítas](Jesu%C3%ADtas.md)
 
-## Páginas nesta categoria (733)
+## Páginas nesta categoria (732)
 
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Afonso Barrocas](../Pessoas/A/Afonso%20Barrocas.md)
@@ -707,7 +707,6 @@ Animadores dos Campinácios
 - [Teresa Santos](../Pessoas/T/Teresa%20Santos.md)
 - [Teresa Sá](../Pessoas/T/Teresa%20S%C3%A1.md)
 - [Teté](../Pessoas/T/Tet%C3%A9.md)
-- [TiaGO Reis](../Pessoas/T/TiaGO%20Reis.md)
 - [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md)
 - [Tiago Brandão Rodrigues](../Pessoas/T/Tiago%20Brand%C3%A3o%20Rodrigues.md)
 - [Tiago Carneiro](../Pessoas/T/Tiago%20Carneiro.md)

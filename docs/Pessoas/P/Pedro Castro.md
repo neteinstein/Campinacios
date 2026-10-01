@@ -18,6 +18,7 @@
 ## Páginas que ligam para aqui
 
 - [Cinena](../../Acampamentos/2001/Cinena.md)
+- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - [Fornelos](../../Acampamentos/1992/Fornelos.md)
 - [Jangada](../../Acampamentos/2002/Jangada.md)
 - [Rastilho](../../Acampamentos/2003/Rastilho.md)
