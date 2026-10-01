@@ -11,6 +11,7 @@
 
 - **Animadora:**
     - 2009 [Survivor](../../Acampamentos/2009/Survivor.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2011 [Pescanova](../../Acampamentos/2011/Pescanova.md)
     - 2013 [ÁmenDoing](../../Acampamentos/2013/%C3%81menDoing.md) - [Director](../../Cargos/Director.md)
     - 2014 [Suga](../../Acampamentos/2014/Suga.md) - [Director](../../Cargos/Director.md)
 
@@ -18,6 +19,7 @@
 
 - [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
 - [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
+- [Pescanova](../../Acampamentos/2011/Pescanova.md)
 - [Suga](../../Acampamentos/2014/Suga.md)
 - [Survivor](../../Acampamentos/2009/Survivor.md)
 - [ÁmenDoing](../../Acampamentos/2013/%C3%81menDoing.md)

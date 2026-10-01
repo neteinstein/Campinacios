@@ -5,7 +5,7 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Vítor Fernandes](../../Pessoas/V/V%C3%ADtor%20Fernandes.md)
-- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [TiaGO Reis](../../Pessoas/T/TiaGO%20Reis.md)
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Tiago Carneiro](../../Pessoas/T/Tiago%20Carneiro.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - ----
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - -----
 - [Capelinho](../../Cargos/Capelinho.md) - -----
@@ -14,7 +14,7 @@
 ## Páginas que ligam para aqui
 
 - [João Miguel Rodrigues](../../Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md)
-- [TiaGO Reis](../../Pessoas/T/TiaGO%20Reis.md)
+- [Tiago Carneiro](../../Pessoas/T/Tiago%20Carneiro.md)
 - [Vítor Fernandes](../../Pessoas/V/V%C3%ADtor%20Fernandes.md)
 
 ---

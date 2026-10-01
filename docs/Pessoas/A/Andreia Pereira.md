@@ -16,6 +16,7 @@ Andreia Maria Lopes dos Santos da Costa Pereira, nascida a 22 de Maio de 1984, �
     - 2007 [M&M](../../Acampamentos/2007/M%26M.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
     - 2008 [TufarfarAway](../../Acampamentos/2008/TufarfarAway.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
     - 2010 [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
+    - 2011 [Pedra papel tesoura](../../Acampamentos/2011/Pedra%20papel%20tesoura.md)
 
 ### Família
 
@@ -29,6 +30,7 @@ Andreia Maria Lopes dos Santos da Costa Pereira, nascida a 22 de Maio de 1984, �
 - [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
 - [M&M](../../Acampamentos/2007/M%26M.md)
 - [Mafalda Pereira](../M/Mafalda%20Pereira.md)
+- [Pedra papel tesoura](../../Acampamentos/2011/Pedra%20papel%20tesoura.md)
 - [TufarfarAway](../../Acampamentos/2008/TufarfarAway.md)
 - [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md)
 - [Xii Tava Kuase Lá...!](../../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md)

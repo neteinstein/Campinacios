@@ -25,6 +25,10 @@ Animadora do CC desde 2005.
 
 É irmã da [Sara Rita Sampaio](../S/Sara%20Rita%20Sampaio.md).
 
+### Encontros
+
+- 2010 [Encontro Nacional de Animadores 2010](../../Encontros/Encontro%20Nacional%20de%20Animadores%202010.md) - Organização
+
 ## Páginas que ligam para aqui
 
 - [Ana Sampaio (Maggie)](Ana%20Sampaio%20%28Maggie%29.md)
@@ -33,6 +37,7 @@ Animadora do CC desde 2005.
 - [Calhambeques](../../Categorias/Calhambeques.md)
 - [Camp & Nácios, S.A](../../Acampamentos/2013/Camp%20%26%20N%C3%A1cios%2C%20S.A.md)
 - [Conta Kms](../../Acampamentos/2012/Conta%20Kms.md)
+- [Encontro Nacional de Animadores 2010](../../Encontros/Encontro%20Nacional%20de%20Animadores%202010.md)
 - [Limpopolus](../../Acampamentos/2012/Limpopolus.md)
 - [Pedrogulho](../../Acampamentos/2011/Pedrogulho.md)
 - [Sara Rita Sampaio](../S/Sara%20Rita%20Sampaio.md)

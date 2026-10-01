@@ -1,6 +1,6 @@
 # Limpopolus
 
-**Limpopolus** foi um acampamento de [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) realizado em 2012. O tema do ano foi *Ainda te falta uma coisa*.
+**Limpopolus** foi um acampamento de [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) realizado de 26 de Julho a 1 de Agosto de 2012 em Souto (Terras de Bouro). O tema do ano foi *Ainda te falta uma coisa*.
 
 ### Animadores
 
