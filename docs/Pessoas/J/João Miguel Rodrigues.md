@@ -21,6 +21,7 @@
 ## Páginas que ligam para aqui
 
 - [A Ir e Falta o S](../../Acampamentos/2018/A%20Ir%20e%20Falta%20o%20S.md)
+- [Animador](../../Movimento/Animador.md)
 - [Conta Kms](../../Acampamentos/2012/Conta%20Kms.md)
 - [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
 - [Fiat'ársea](../../Acampamentos/2014/Fiat%27%C3%A1rsea.md)

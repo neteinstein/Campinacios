@@ -18,6 +18,7 @@ João Regueiras é animador do CC.
 - [Aranha](../../Acampamentos/1997/Aranha.md)
 - [Gipsy Kings](../../Acampamentos/1999/Gipsy%20Kings.md)
 - [Mikelin Descobre a Vida](../../Acampamentos/2004/Mikelin%20Descobre%20a%20Vida.md)
+- [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
 - [Tiw-y-moy](../../Acampamentos/1998/Tiw-y-moy.md)
 - [Waaassuuup](../../Acampamentos/2001/Waaassuuup.md)
 

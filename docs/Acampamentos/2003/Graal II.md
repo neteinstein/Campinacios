@@ -17,6 +17,7 @@ Foi neste campo que se cantou a música "Pára e Repara" (ver [Cantinácio](../.
 - [Alexandra Gonçalves](../../Pessoas/A/Alexandra%20Gon%C3%A7alves.md)
 - [Andreia Pereira](../../Pessoas/A/Andreia%20Pereira.md)
 - [António Matias](../../Pessoas/A/Ant%C3%B3nio%20Matias.md)
+- [Cantinácio: Campinácios](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md)
 - [Carlos Miguel Albuquerque](../../Pessoas/C/Carlos%20Miguel%20Albuquerque.md)
 - [Carlos Rodrigues](../../Pessoas/C/Carlos%20Rodrigues.md)
 - [Carolina Silva](../../Pessoas/C/Carolina%20Silva.md)

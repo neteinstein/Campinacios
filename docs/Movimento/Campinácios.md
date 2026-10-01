@@ -99,6 +99,17 @@ Na prática os acampamentos começavam a funcionar com intercâmbio de participa
 
 Após este encontro, os CAMPINÁCIOS como movimento foi ganhando alguma estabilidade e solidificação. No entanto, estava decidido que os CAMPINÁCIOS como movimento de acampamentos de férias seriam uma realidade incontornável na vida e formação dos alunos dos colégios da Companhia de Jesus.
 
+Segundo o texto da história da fundação publicado na página da [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md) ([ver no web.archive.org](https://web.archive.org/web/20110916100811/http://www.campinacios.org:80/index.php?option=com_content&view=article&id=101&Itemid=142)), em Abril de 2002 os Campinácios comemoraram dez anos com um encontro no colégio do INA ([CC](CC.md)), com 430 jovens ligados ao movimento. O mesmo texto diz que os acampamentos se destinam aos alunos dos colégios entre os 10 e os 17 anos, e que os animadores são antigos alunos, mais velhos do que o escalão mais alto, que fizeram os acampamentos como participantes.
+
+## Actividades ao longo do ano
+
+Num texto de 2009 e 2010, a [Joana Gomes](../Pessoas/J/Joana%20Gomes.md), animadora do [CSJB](CSJB.md), descrevia o que os Campinácios fazem fora do Verão ([ver no web.archive.org](https://web.archive.org/web/20110916094833/http://www.campinacios.org:80/index.php?option=com_content&view=article&id=123:actividades-ao-longo-do-ano&catid=77:introducao&Itemid=148)):
+
+- o **Encontro Nacional**, a maior actividade, num dos três colégios durante um fim-de-semana, aberto a quem faz ou fez acampamentos e a quem tem curiosidade, com jogos e momentos parecidos com os de um acampamento e a parte espiritual no centro (o de 2010 foi o dos 20 anos);
+- a **Ceia de Natal**, feita em cada colégio ao longo de Dezembro, com missa, jantar e serão preparado pelos animadores;
+- actividades próprias de cada colégio: no [CC](CC.md), missas mensais com os participantes e os pais, preparadas pelos miúdos com os animadores; no [CSJB](CSJB.md), as Sobremesas Mensais, com jogos e concursos no recreio do almoço;
+- para os animadores, o **Encontro Nacional de Animadores**, para conviverem, e as reuniões mensais, onde se preparam as actividades e os acampamentos do Verão seguinte.
+
 ## Referências
 
 **Cfr. José da Silva ALMEIDA SJ**, Para Educar Melhor - Campos de Férias Inacianos, AO, Braga, 2004
@@ -109,6 +120,7 @@ Após este encontro, os CAMPINÁCIOS como movimento foi ganhando alguma estabili
 
 - [Amadeu Pinto](../Pessoas/A/Amadeu%20Pinto.md)
 - [Américo Mendes](../Pessoas/A/Am%C3%A9rico%20Mendes.md)
+- [Cantinácio: Campinácios](Cantin%C3%A1cio/Campin%C3%A1cios.md)
 - [Conteúdos](../Wikin%C3%A1cios/Conte%C3%BAdos.md)
 - [Florinhas](../Acampamentos/1994/Florinhas.md)
 - [Gambozinos](Gambozinos.md)
@@ -118,6 +130,7 @@ Após este encontro, os CAMPINÁCIOS como movimento foi ganhando alguma estabili
 - [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
 - [Manual de Funções](Manual%20de%20Fun%C3%A7%C3%B5es.md)
 - [Manual do Director](Manual%20do%20Director.md)
+- [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
 - [Sandra Rodrigues](../Pessoas/S/Sandra%20Rodrigues.md)
 - [Sobre](../Wikin%C3%A1cios/index.md)
 

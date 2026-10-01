@@ -10,6 +10,7 @@
 
 ## Páginas que ligam para aqui
 
+- [Animador](../../Movimento/Animador.md)
 - [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md)
 - [Ide](../../Acampamentos/2015/Ide.md)
 - [Sentido](../../Acampamentos/2014/Sentido.md)

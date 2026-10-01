@@ -40,8 +40,12 @@ Aqui ficam algumas músicas gravadas por [João Monteiro](../Pessoas/J/Jo%C3%A3o
 
 ## Páginas que ligam para aqui
 
+- [Cantinácio: Campinácios](Cantin%C3%A1cio/Campin%C3%A1cios.md)
+- [Cantinácio: Cânticos](Cantin%C3%A1cio/C%C3%A2nticos.md)
+- [Cantinácio: Estrangeiras](Cantin%C3%A1cio/Estrangeiras.md)
 - [Filipe Próspero](../Pessoas/F/Filipe%20Pr%C3%B3spero.md)
 - [Mountain Bike](../Acampamentos/1998/Mountain%20Bike.md)
+- [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
 
 ---
 

@@ -23,6 +23,7 @@ O hino deste campo foi a música "Abre-te ao Sonho" (ver [Cantinácio](../../Mov
 - [António Amaral](../../Pessoas/A/Ant%C3%B3nio%20Amaral.md)
 - [António Sant'Ana](../../Pessoas/A/Ant%C3%B3nio%20Sant%27Ana.md)
 - [Bernardo Narciso](../../Pessoas/B/Bernardo%20Narciso.md)
+- [Cantinácio: Campinácios](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md)
 - [Carla Carneiro](../../Pessoas/C/Carla%20Carneiro.md)
 - [Carla Ferreira](../../Pessoas/C/Carla%20Ferreira.md)
 - [Filipe Próspero](../../Pessoas/F/Filipe%20Pr%C3%B3spero.md)

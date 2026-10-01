@@ -31,6 +31,7 @@ Joana Sá foi de 2000 a 2005 uma das animadoras do Colégio da Imaculada Concei�
 - [Pimpolhos](../../Acampamentos/2003/Pimpolhos.md)
 - [Pontes](../../Acampamentos/2001/Pontes.md)
 - [Ídolo](../../Acampamentos/2004/%C3%8Ddolo.md)
+- [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
 
 ---
 

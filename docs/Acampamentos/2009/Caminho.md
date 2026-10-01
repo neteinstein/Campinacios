@@ -73,6 +73,7 @@ Paulo de Tarso
 - [André Barreiras](../../Pessoas/A/Andr%C3%A9%20Barreiras.md)
 - [António Queiroz Martins](../../Pessoas/A/Ant%C3%B3nio%20Queiroz%20Martins.md)
 - [Bernardo Narciso](../../Pessoas/B/Bernardo%20Narciso.md)
+- [Cantinácio: Campinácios](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md)
 - [Carla Carneiro](../../Pessoas/C/Carla%20Carneiro.md)
 - [Carla Ferreira](../../Pessoas/C/Carla%20Ferreira.md)
 - [Catarina Fonseca](../../Pessoas/C/Catarina%20Fonseca.md)

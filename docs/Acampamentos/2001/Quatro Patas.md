@@ -13,6 +13,7 @@ Foi neste campo que foi composta a música "O André e a Cecília" por Manel Mat
 
 ## Páginas que ligam para aqui
 
+- [Cantinácio: Campinácios](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md)
 - [Cecília Miranda](../../Pessoas/C/Cec%C3%ADlia%20Miranda.md)
 - [Filipe Barroso](../../Pessoas/F/Filipe%20Barroso.md)
 - [Inês Turras](../../Pessoas/I/In%C3%AAs%20Turras.md)

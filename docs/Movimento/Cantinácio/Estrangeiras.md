@@ -4,7 +4,7 @@ Músicas estrangeiras, sobretudo em inglês, para cantar à fogueira.
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (186 músicas)
+## Índice (187 músicas)
 
 - [#41](#41) — Dave Mathews Band
 - [500 MILES](#500-miles) — Hey West
@@ -139,6 +139,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [SAY YES](#say-yes) — Michelle Williams
 - [SCARBOROUGH FAIR](#scarborough-fair) — Paul Simon e Art Garfunkel
 - [SEPTEMBER](#september) — Earth, Wind and Fire
+- [SHOSHOLOZAH](#shosholozah) — tradicional da África do Sul
 - [SINGING IN THE RAIN](#singing-in-the-rain) — Gene Kelly (Serenata à Chuva)
 - [SINNERMAN](#sinnerman)
 - [SLIP SLIDIN’ AWAY](#slip-slidin-away) — Paul Simon
@@ -6230,6 +6231,12 @@ Remember the true love we share today
 
 [REFRÃO]
 ```
+
+### SHOSHOLOZAH {#shosholozah}
+
+*Canção tradicional da África do Sul*
+
+A letra está guardada na página da [Revolução Campinácios v2.0](../Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md), publicada por Filipe Barroso a 9 de Agosto de 2010: [ver no web.archive.org](https://web.archive.org/web/20110916095209/http://www.campinacios.org:80/index.php?option=com_content&view=article&id=166:shosholozah&catid=51:musicas&Itemid=76).
 
 ### SINGING IN THE RAIN {#singing-in-the-rain}
 
