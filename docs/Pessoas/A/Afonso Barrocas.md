@@ -3,11 +3,11 @@
 ### Acampamentos
 
 - **Animador(a):**
-    - 2026 [Por confirmar (2026)](../../Acampamentos/2026/Por%20confirmar%20%282026%29.md) - [Director](../../Cargos/Director.md)
+    - 2026 [Re-Vela-Vida](../../Acampamentos/2026/Re-Vela-Vida.md) - [Director](../../Cargos/Director.md)
 
 ## Páginas que ligam para aqui
 
-- [Por confirmar (2026)](../../Acampamentos/2026/Por%20confirmar%20%282026%29.md)
+- [Re-Vela-Vida](../../Acampamentos/2026/Re-Vela-Vida.md)
 
 ---
 

@@ -13,6 +13,7 @@
 
 ## Páginas que ligam para aqui
 
+- [João Miguel Rodrigues](../../Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md)
 - [TiaGO Reis](../../Pessoas/T/TiaGO%20Reis.md)
 - [Vítor Fernandes](../../Pessoas/V/V%C3%ADtor%20Fernandes.md)
 

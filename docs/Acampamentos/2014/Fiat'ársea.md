@@ -5,10 +5,12 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Gonçalo Vaz Pedro](../../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md)
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - [João Miguel Rodrigues](../../Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md)
 
 ## Páginas que ligam para aqui
 
 - [Gonçalo Vaz Pedro](../../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md)
+- [João Miguel Rodrigues](../../Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md)
 
 ---
 

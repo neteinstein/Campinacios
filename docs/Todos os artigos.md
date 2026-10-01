@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1185 artigos e, em itálico, os 174 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1185 artigos e, em itálico, os 175 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -982,6 +982,7 @@
 - [Miguel Nogueira](Pessoas/M/Miguel%20Nogueira.md)
 - [Miguel Santos](Pessoas/M/Miguel%20Santos.md)
 - [Miguel Teixeira](Pessoas/M/Miguel%20Teixeira.md)
+- *Mike* → [João Miguel Rodrigues](Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md)
 - [Mikelin Descobre a Vida](Acampamentos/2004/Mikelin%20Descobre%20a%20Vida.md)
 - *Missé* → [Miguel Melo](Pessoas/M/Miguel%20Melo.md)
 - [Militão](Pessoas/M/Milit%C3%A3o.md)
@@ -1117,7 +1118,6 @@
 - [Poço de Corga (Castanheira de Pêra)](Restrito/Locais%20de%20Acampamento/Po%C3%A7o%20de%20Corga%20%28Castanheira%20de%20P%C3%AAra%29.md) 🔒
 - [Pontes](Acampamentos/2001/Pontes.md)
 - [Póporcohá](Acampamentos/2014/P%C3%B3porcoh%C3%A1.md)
-- [Por confirmar (2026)](Acampamentos/2026/Por%20confirmar%20%282026%29.md)
 - [Porto da Balsa](Restrito/Locais%20de%20Acampamento/Porto%20da%20Balsa.md) 🔒
 - [Porto da Balsa 92](Acampamentos/1992/Porto%20da%20Balsa%2092.md)
 - [Porto da Balsa 93](Acampamentos/1993/Porto%20da%20Balsa%2093.md)
@@ -1160,6 +1160,7 @@
 - [Raquel Filgueiras](Pessoas/R/Raquel%20Filgueiras.md)
 - [Raquel Mesquita](Pessoas/R/Raquel%20Mesquita.md)
 - [Rastilho](Acampamentos/2003/Rastilho.md)
+- [Re-Vela-Vida](Acampamentos/2026/Re-Vela-Vida.md)
 - [Realiza](Acampamentos/2013/Realiza.md)
 - [Rebenta a Bolha](Acampamentos/2012/Rebenta%20a%20Bolha.md)
 - [Rebordosa](Acampamentos/1993/Rebordosa.md)
