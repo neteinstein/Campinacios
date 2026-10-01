@@ -27,7 +27,7 @@ Gonçalo Vaz Pedro, é desde 2006, um dos animadores do Colégio da Imaculada Co
     - 2011 [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2012 [Raio Part'ós Ninjas](../../Acampamentos/2012/Raio%20Part%27%C3%B3s%20Ninjas.md) - [Director](../../Cargos/Director.md)
     - 2014 [Fiat'ársea](../../Acampamentos/2014/Fiat%27%C3%A1rsea.md) - [Director](../../Cargos/Director.md)
-    - 2017 [Supérate](../../Acampamentos/2017/Sup%C3%A9rate.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2017 [Supera-te](../../Acampamentos/2017/Supera-te.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
 ### Família
 
@@ -47,7 +47,7 @@ Gonçalo Vaz Pedro, é desde 2006, um dos animadores do Colégio da Imaculada Co
 - [OPA](../../Acampamentos/2007/OPA.md)
 - [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md)
 - [Raio Part'ós Ninjas](../../Acampamentos/2012/Raio%20Part%27%C3%B3s%20Ninjas.md)
-- [Supérate](../../Acampamentos/2017/Sup%C3%A9rate.md)
+- [Supera-te](../../Acampamentos/2017/Supera-te.md)
 - [Susana Vaz Pedro](../S/Susana%20Vaz%20Pedro.md)
 - [Vi-O](../../Acampamentos/2009/Vi-O.md)
 
