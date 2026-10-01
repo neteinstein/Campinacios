@@ -773,4 +773,31 @@ O tesouro está mim
 
 *Hino do Campo [Walkabout](../../Acampamentos/2010/Walkabout.md) (2010)*
 
-A letra está guardada na página da [Revolução Campinácios v2.0](../Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md), publicada por Filipe Barroso a 9 de Agosto de 2010: [ver no web.archive.org](https://web.archive.org/web/20110917011938/http://www.campinacios.org:80/index.php?option=com_content&view=article&id=168:hino-walkabout-2010&catid=70:hinos-de-campo&Itemid=125).
+```text
+Faz-te à estrada,
+pega em ti e vem daí
+estamos numa caminhada
+com principio e sem fim
+faz-te à estrada,
+pega na mochila e vem
+vamos conhecer o mundo
+um lugar mais além
+
+Vem caminhar comigo
+Neste mundo sem fim
+Arrisca o desconhecido
+Vem ser alguém aqui!
+Há sempre uma porta aberta
+Para quem quiser entrar
+O coração está alerta
+Só tens que o desafiar!
+
+Para um lugar (que é) desconhecido
+Com um estranho p'ra conhecer
+Vem tornar-te seu amigo
+Desde o pôr-do-sol até ao entardecer
+
+DEIXA-ME FICAR EM TUA CASA
+```
+
+Publicada por Filipe Barroso na página da [Revolução Campinácios v2.0](../Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md) a 9 de Agosto de 2010. Há um [vídeo do hino](https://web.archive.org/web/20110917011938/http://www.youtube.com/watch?v=2900bEFt2KE) guardado no web.archive.org.
