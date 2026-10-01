@@ -20,7 +20,6 @@ Pedro Rodrigues foi de 2004 a 2006 um dos animadores do Colégio da Imaculada Co
 ## Páginas que ligam para aqui
 
 - [Academia](../../Acampamentos/2005/Academia.md)
-- [Animador](../../Movimento/Animador.md)
 - [Francisco Rodrigues (CAIC)](../F/Francisco%20Rodrigues%20%28CAIC%29.md)
 
 ---

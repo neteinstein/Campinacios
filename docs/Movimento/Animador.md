@@ -140,27 +140,8 @@ Em 2009 a página da [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campi
 
 Na mesma secção estava o texto «Os Animadores», do [António Valério](../Pessoas/A/Ant%C3%B3nio%20Val%C3%A9rio.md) sj (Dezembro de 2009), sobre uma reunião de animadores ao fim do sétimo dia de campo e o que os leva a dar tanto de si: devolver o que receberam como participantes, conhecer os próprios limites sem querer ser «animador-estrela», e o valor do serviço gratuito. Ver os dois textos [no web.archive.org](https://web.archive.org/web/20110916032317/http://www.campinacios.org:80/index.php?option=com_content&view=category&layout=blog&id=41&Itemid=82).
 
-## Novos animadores de 2010/2011 {#novos-2010-2011}
-
-A 8 de Dezembro de 2010 a [Direcção Nacional](../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) apresentou na página da [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md) os novos animadores desse ano ([ver no web.archive.org](https://web.archive.org/web/20110916095110/http://www.campinacios.org:80/index.php?limitstart=3)):
-
-- **Colégio das Caldinhas:** [Francisca Dias](../Pessoas/F/Francisca%20Dias.md), Luciana Alves, Marco Sá, Tânia Fernandes, Ágata Costa, Isabel Bravo, Maria Luísa Freitas, [Maria Sampaio](../Pessoas/M/Maria%20Sampaio.md), [António Pimenta](../Pessoas/A/Ant%C3%B3nio%20Pimenta.md), Inês Silva Carvalho, Inês Dias Carvalho, Daniele Bardi, [João Miguel Rodrigues](../Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md), Ricardo Gonçalves, [Inês Furtado](../Pessoas/I/In%C3%AAs%20Furtado.md), Ana Luísa Oliveira, Rui Jorge Costa, Diogo Conde Rocha e João Manuel Sá
-- **Colégio da Imaculada Conceição:** [Rafael Carecho](../Pessoas/R/Rafael%20Carecho.md), Daniela Lima e [Bárbara Cruz](../Pessoas/B/B%C3%A1rbara%20Cruz.md)
-- **Colégio São João de Brito:** [Filipa Lucena](../Pessoas/F/Filipa%20Lucena.md), Teresa Dominguez, [Catarina Rocha](../Pessoas/C/Catarina%20Rocha.md), [Leonor Brigas](../Pessoas/L/Leonor%20Brigas.md), [Madalena Pires](../Pessoas/M/Madalena%20Pires.md), [Joana Vala](../Pessoas/J/Joana%20Vala.md), [Teresa Cruz](../Pessoas/T/Teresa%20Cruz.md), Teresinha Fonseca, Maria Cunha, [Mafalda Neves](../Pessoas/M/Mafalda%20Neves.md), [Teresa Cortês Ferreira](../Pessoas/T/Teresa%20Cort%C3%AAs%20Ferreira.md), [Vasco Neves](../Pessoas/V/Vasco%20Neves.md), Miguel Rodrigues, Nuno Mota, Luís Faria, [Pedro Rodrigues](../Pessoas/P/Pedro%20Rodrigues.md), [João Eiró](../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md), [João Captivo](../Pessoas/J/Jo%C3%A3o%20Captivo.md) e David Silva
-
 ## Páginas que ligam para aqui
 
-- [Bárbara Cruz](../Pessoas/B/B%C3%A1rbara%20Cruz.md)
-- [Catarina Rocha](../Pessoas/C/Catarina%20Rocha.md)
-- [Filipa Lucena](../Pessoas/F/Filipa%20Lucena.md)
-- [Francisca Dias](../Pessoas/F/Francisca%20Dias.md)
-- [Inês Furtado](../Pessoas/I/In%C3%AAs%20Furtado.md)
-- [Joana Vala](../Pessoas/J/Joana%20Vala.md)
-- [Leonor Brigas](../Pessoas/L/Leonor%20Brigas.md)
-- [Madalena Pires](../Pessoas/M/Madalena%20Pires.md)
-- [Mafalda Neves](../Pessoas/M/Mafalda%20Neves.md)
 - [Manual de Funções](Manual%20de%20Fun%C3%A7%C3%B5es.md)
-- [Maria Sampaio](../Pessoas/M/Maria%20Sampaio.md)
 - [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
-- [Teresa Cruz](../Pessoas/T/Teresa%20Cruz.md)
 - [Vocabulário](Vocabul%C3%A1rio.md)
