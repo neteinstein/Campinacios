@@ -703,7 +703,30 @@ Em tormento...
 
 *Hino do Campo [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md) (2010)*
 
-A letra está guardada na página da [Revolução Campinácios v2.0](../Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md), publicada por Tiago Bahia a 19 de Agosto de 2010: [ver no web.archive.org](https://web.archive.org/web/20110916183010/http://www.campinacios.org:80/index.php?option=com_content&view=article&id=171:tabeeeim-2010&catid=70:hinos-de-campo&Itemid=125).
+```text
+('Tou cheio de t'oubir!!!)
+
+Quero ficar em tua casa e contigo viver
+Dar-te o mundo inteiro a conhecer
+Realizar teus sonhos, mostrar-te o luar
+As histórias da Maria e do François
+(Maria Ninguém, é Maria e é Maria meu bem)
+Dias p'ra saborear, dar a vida e te cuidar
+Eu acho que Jesus não xober xouriças
+Mas sei que quando eu pedi mais
+Ele respondeu Tábeeeim (Tábeeeim, Tábeeeim) (2x)
+
+Lavar a loiça bem, repeti-lo amanhã
+Dizer bem da comida da Mamã (Hey sexy lady, oh my sexy lady)
+Dar o litro em tudo só passa por mim
+Aprender a dizer não e a dizer sim (Então cala-te, ohoh ohoh ohoh)
+Estes momentos vou guardar, as vossas caras recordar
+Deus é o meu caminho, o que eu quero seguir
+E quando ele me pedir mais
+Vou responder Tábeeeim (Tábeeeim, Tábeeeim) (3x)
+
+(Altosss)
+```
 
 ### VEM ACUDIR {#vem-acudir}
 
@@ -748,4 +771,29 @@ O tesouro está mim
 
 *Hino do Campo [Walkabout](../../Acampamentos/2010/Walkabout.md) (2010)*
 
-A letra está guardada na página da [Revolução Campinácios v2.0](../Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md), publicada por Filipe Barroso a 9 de Agosto de 2010: [ver no web.archive.org](https://web.archive.org/web/20110917011938/http://www.campinacios.org:80/index.php?option=com_content&view=article&id=168:hino-walkabout-2010&catid=70:hinos-de-campo&Itemid=125).
+```text
+Faz-te à estrada,
+pega em ti e vem daí
+estamos numa caminhada
+com principio e sem fim
+faz-te à estrada,
+pega na mochila e vem
+vamos conhecer o mundo
+um lugar mais além
+
+Vem caminhar comigo
+Neste mundo sem fim
+Arrisca o desconhecido
+Vem ser alguém aqui!
+Há sempre uma porta aberta
+Para quem quiser entrar
+O coração está alerta
+Só tens que o desafiar!
+
+Para um lugar (que é) desconhecido
+Com um estranho p'ra conhecer
+Vem tornar-te seu amigo
+Desde o pôr-do-sol até ao entardecer
+
+DEIXA-ME FICAR EM TUA CASA
+```
