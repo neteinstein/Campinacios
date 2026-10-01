@@ -269,6 +269,7 @@
 - [Sara Fernandes](../Pessoas/S/Sara%20Fernandes.md)
 - [Sara Rita Sampaio](../Pessoas/S/Sara%20Rita%20Sampaio.md)
 - [Sebastião Caldas](../Pessoas/S/Sebasti%C3%A3o%20Caldas.md)
+- [Sebastião Veloso](../Pessoas/S/Sebasti%C3%A3o%20Veloso.md)
 - [Sem Truques](../Acampamentos/2025/Sem%20Truques.md)
 - [Sentido](../Acampamentos/2014/Sentido.md)
 - [Shampum de Pessêgo](../Acampamentos/2001/Shampum%20de%20Pess%C3%AAgo.md)

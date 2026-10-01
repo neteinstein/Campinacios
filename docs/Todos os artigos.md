@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1203 artigos e, em itálico, os 179 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1204 artigos e, em itálico, os 180 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -1065,6 +1065,7 @@
 - [Pedro Oliveira](Pessoas/P/Pedro%20Oliveira.md)
 - [Pedro Rosa](Pessoas/P/Pedro%20Rosa.md)
 - *Pedro Namorado Rosa* → [Pedro Rosa](Pessoas/P/Pedro%20Rosa.md)
+- *Pião* → [Sebastião Veloso](Pessoas/S/Sebasti%C3%A3o%20Veloso.md)
 - *Pitxi* → [Carolina Picciochi](Pessoas/C/Carolina%20Picciochi.md)
 - [PáquiPáli](Acampamentos/2016/P%C3%A1quiP%C3%A1li.md)
 - [Parada](Acampamentos/1995/Parada.md)
@@ -1270,6 +1271,7 @@
 - *São Martinho* → [Conceição Martinho](Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)
 - [Sarcófago](Acampamentos/2012/Sarc%C3%B3fago.md)
 - [Sebastião Caldas](Pessoas/S/Sebasti%C3%A3o%20Caldas.md)
+- [Sebastião Veloso](Pessoas/S/Sebasti%C3%A3o%20Veloso.md)
 - [Sem Truques](Acampamentos/2025/Sem%20Truques.md)
 - [Sentido](Acampamentos/2014/Sentido.md)
 - [Sequeiros (Braga)](Restrito/Locais%20de%20Acampamento/Sequeiros%20%28Braga%29.md) 🔒
