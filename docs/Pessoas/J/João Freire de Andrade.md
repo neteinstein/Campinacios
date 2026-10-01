@@ -26,9 +26,14 @@ João Freire de Andrade é desde 2006 um dos animadores do Colégio São João d
     - 2013 [Realiza](../../Acampamentos/2013/Realiza.md) - [Director](../../Cargos/Director.md)
     - 2014 [Mãos à Obra](../../Acampamentos/2014/M%C3%A3os%20%C3%A0%20Obra.md) - [Director](../../Cargos/Director.md)
 
+### Encontros
+
+- 2010 [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md) - Divulgação
+
 ## Páginas que ligam para aqui
 
 - [Baúmerang](../../Acampamentos/2007/Ba%C3%BAmerang.md)
+- [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md)
 - [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md)
 - [Maria Freire de Andrade](../M/Maria%20Freire%20de%20Andrade.md)
 - [Mãos à Obra](../../Acampamentos/2014/M%C3%A3os%20%C3%A0%20Obra.md)
