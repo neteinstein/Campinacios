@@ -8,8 +8,8 @@
 
 - **Animador**
     - 2004 [Descola](../../Acampamentos/2004/Descola.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
-    - 2005 [Gaivota](../../Acampamentos/2005/Gaivota.md) - [Capelinho](../../Cargos/Capelinho.md)
-    - 2006 [XS](../../Acampamentos/2006/XS.md) - [Capelinho](../../Cargos/Capelinho.md)
+    - 2005 [Gaivota](../../Acampamentos/2005/Gaivota.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+    - 2006 [XS](../../Acampamentos/2006/XS.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2007 [M&M](../../Acampamentos/2007/M%26M.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
 ## Páginas que ligam para aqui
