@@ -1,11 +1,14 @@
 # I
 
 - [Inês Amorim](In%C3%AAs%20Amorim.md)
+- [Inês Carvalho](In%C3%AAs%20Carvalho.md)
 - [Inês Fonseca](In%C3%AAs%20Fonseca.md)
+- [Inês Furtado](In%C3%AAs%20Furtado.md)
 - [Inês Maury](In%C3%AAs%20Maury.md)
 - [Inês Oliveira](In%C3%AAs%20Oliveira.md)
 - [Inês Patrício](In%C3%AAs%20Patr%C3%ADcio.md)
 - [Inês Próspero](In%C3%AAs%20Pr%C3%B3spero.md)
+- [Inês Sampaio](In%C3%AAs%20Sampaio.md)
 - [Inês Serra Ferreira](In%C3%AAs%20Serra%20Ferreira.md)
 - [Inês Turras](In%C3%AAs%20Turras.md)
 - [Irina Ramos](Irina%20Ramos.md)

@@ -4,6 +4,7 @@ António Eduardo Coutinho Lopes de Queiroz Martins, conhecido por Edu, antigo al
 
 ### Cargos
 
+- 2010/2011 - Secretário da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - 2009/2011  -  Membro da [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
 - 2009/2011  -  Membro e Secretário da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 
@@ -28,6 +29,7 @@ António Eduardo Coutinho Lopes de Queiroz Martins, conhecido por Edu, antigo al
 
 ## Páginas que ligam para aqui
 
+- [Calhambeques](../../Categorias/Calhambeques.md)
 - [Caminho](../../Acampamentos/2009/Caminho.md)
 - [Contribuidores](../../Wikin%C3%A1cios/Contribuidores.md)
 - [Edu](../../Movimento/Desambigua%C3%A7%C3%A3o/Edu.md)

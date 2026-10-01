@@ -11,14 +11,20 @@ Maria Manuel Urbano foi uma das animadoras do Colégio da Imaculada Conceição.
 
 - **Animadora**
     - 1989 [CAmpIC 89](../../Acampamentos/1989/CAmpIC%2089.md) - [Directora-Adjunta](../../Cargos/Director-Adjunto.md)
+    - 1989 [Pedreira](../../Acampamentos/1989/Pedreira.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
+    - 1990 [Caldas de S.Paulo](../../Acampamentos/1990/Caldas%20de%20S.Paulo.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
 ## Páginas que ligam para aqui
 
+- [Caldas de S.Paulo](../../Acampamentos/1990/Caldas%20de%20S.Paulo.md)
 - [CAmpIC 89](../../Acampamentos/1989/CAmpIC%2089.md)
 - [Campinácios](../../Movimento/Campin%C3%A1cios.md)
 - [Camtil](../../Movimento/Camtil.md)
+- [Pedreira](../../Acampamentos/1989/Pedreira.md)
 
 ---
+
+**Outros nomes:** Maria Manuel Martins
 
 | Categorias |
 | --- |

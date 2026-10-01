@@ -27,6 +27,7 @@ José Manuel Filgueiras foi um dos animadores do Colégio das Caldinhas
 
 - [CIFA II](../../Acampamentos/Sem%20data/CIFA%20II.md)
 - [Campinácios](../../Movimento/Campin%C3%A1cios.md)
+- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - [Lambretas 94](../../Acampamentos/1994/Lambretas%2094.md)
 - [Parada](../../Acampamentos/1995/Parada.md)
 - [Verim](../../Acampamentos/1992/Verim.md)

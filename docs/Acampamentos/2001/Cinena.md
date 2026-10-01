@@ -10,11 +10,12 @@ O Cinena foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que 
 - [Capelão](../../Cargos/Capel%C3%A3o.md) -[Luís Providência](../../Pessoas/L/Lu%C3%ADs%20Provid%C3%AAncia.md) sj
 - [Tias](../../Cargos/Tio.md) - [Marta Flora](../../Pessoas/M/Marta%20Santos.md) e [Lúcia Vaz Pato](../../Pessoas/L/L%C3%BAcia%20Vaz%20Pato.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj e [Nuno Carrolo](../../Pessoas/N/Nuno%20Carrolo.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Motorzinho](../../Pessoas/A/Andr%C3%A9%20Gon%C3%A7alves.md), [Isa Neves](../../Pessoas/I/Isa%20Neves.md), Tiago Ferreira, [Raquel Mesquita](../../Pessoas/R/Raquel%20Mesquita.md), [Kiko](../../Pessoas/F/Francisco%20Almeida%20%28Kiko%29.md), [José Luís Silva](../../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Silva.md) e Ana Rita Silva
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Motorzinho](../../Pessoas/A/Andr%C3%A9%20Gon%C3%A7alves.md), [Isa Neves](../../Pessoas/I/Isa%20Neves.md), Tiago Ferreira, [Raquel Mesquita](../../Pessoas/R/Raquel%20Mesquita.md), [Kiko](../../Pessoas/F/Francisco%20Almeida%20%28Kiko%29.md), [José Luís Silva](../../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Silva.md) e [Ana Rita Silva](../../Pessoas/A/Ana%20Rita%20Silva.md)
 
 ## Páginas que ligam para aqui
 
 - [Ana Martins](../../Pessoas/A/Ana%20Martins.md)
+- [Ana Rita Silva](../../Pessoas/A/Ana%20Rita%20Silva.md)
 - [Ana Simões](../../Pessoas/A/Ana%20Sim%C3%B5es.md)
 - [André Gonçalves](../../Pessoas/A/Andr%C3%A9%20Gon%C3%A7alves.md)
 - [Catarina Alves](../../Pessoas/C/Catarina%20Alves.md)

@@ -4,6 +4,7 @@ Andreia Sofia de Sousa Gil, nascida a 26 de Janeiro de 1987. Animadora do Colég
 
 ### Cargos
 
+- 2010/2011 - Membro da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - 2007/2011 - Membro da [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
 - 2009/2011 - Membro da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 

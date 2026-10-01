@@ -6,11 +6,13 @@
 
 - [Director](../../Cargos/Director.md) - [Ivo Reis](../../Pessoas/I/Ivo%20Reis.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Gonçalo Vaz Pedro](../../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md)
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [Joana Lima](../../Pessoas/J/Joana%20Lima.md)
 
 ## Páginas que ligam para aqui
 
 - [Gonçalo Vaz Pedro](../../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md)
 - [Ivo Reis](../../Pessoas/I/Ivo%20Reis.md)
+- [Joana Lima](../../Pessoas/J/Joana%20Lima.md)
 
 ---
 

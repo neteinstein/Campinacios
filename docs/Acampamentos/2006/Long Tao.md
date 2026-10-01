@@ -10,7 +10,7 @@ O hino deste campo foi a música "Abre-te ao Sonho" (ver [Cantinácio](../../Mov
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Joana Lima](../../Pessoas/J/Joana%20Lima.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [António Santana](../../Pessoas/A/Ant%C3%B3nio%20Sant%27Ana.md) sj
-- [Capelinho](../../Cargos/Capelinho.md) - Pedro Silva sj
+- [Capelinho](../../Cargos/Capelinho.md) - [Pedro Silva](../../Pessoas/P/Pedro%20Silva.md) sj
 - [Tias](../../Cargos/Tio.md) - [Inês Patrício](../../Pessoas/I/In%C3%AAs%20Patr%C3%ADcio.md) e [Maria Ferreira](../../Pessoas/M/Maria%20Cort%C3%AAs%20Ferreira.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md), [António Amaral](../../Pessoas/A/Ant%C3%B3nio%20Amaral.md), [Ciso](../../Pessoas/B/Bernardo%20Narciso.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Filipe Próspero](../../Pessoas/F/Filipe%20Pr%C3%B3spero.md), [Leonardo Carvalho](../../Pessoas/L/Leonardo%20Carvalho.md), [Rita Roxo](../../Pessoas/R/Rita%20Roxo.md), [Isa](../../Pessoas/A/Analisa%20Lucas.md), [Miguel Machado](../../Pessoas/M/Miguel%20Machado.md), [Inês Próspero](../../Pessoas/I/In%C3%AAs%20Pr%C3%B3spero.md)
@@ -44,6 +44,7 @@ O hino deste campo foi a música "Abre-te ao Sonho" (ver [Cantinácio](../../Mov
 - [Miguel Machado](../../Pessoas/M/Miguel%20Machado.md)
 - [Natacha Soares](../../Pessoas/N/Natacha%20Soares.md)
 - [Pedro Pena](../../Pessoas/P/Pedro%20Pena.md)
+- [Pedro Silva](../../Pessoas/P/Pedro%20Silva.md)
 - [Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md)
 - [Rita Roxo](../../Pessoas/R/Rita%20Roxo.md)
 - [Sara Fernandes](../../Pessoas/S/Sara%20Fernandes.md)

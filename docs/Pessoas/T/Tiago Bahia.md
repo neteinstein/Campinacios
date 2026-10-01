@@ -9,6 +9,7 @@ Tiago Neves Bahia, nascido a 6 de Março de 1987, é animador do CC desde 2005.
 - 2007/2009  -  Membro da [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
 - 2007/2010  -  Membro da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - 2008/2010  -  [Coordenador Nacional](../../Categorias/Coordenadores%20Nacionais.md)
+- 2007 - Coordenador da Ceia de Natal do CC
 
 ### Acampamentos
 

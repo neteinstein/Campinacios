@@ -28,6 +28,8 @@
 
 ---
 
+**Outros nomes:** Limpopoulos
+
 | Categorias |
 | --- |
 | [Acampamentos](../../Categorias/Acampamentos.md) |

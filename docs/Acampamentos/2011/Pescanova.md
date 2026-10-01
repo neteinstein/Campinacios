@@ -7,16 +7,21 @@
 - [Director](../../Cargos/Director.md) - [Joana Gomes](../../Pessoas/J/Joana%20Gomes.md)
 - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Sara Rita Sampaio](../../Pessoas/S/Sara%20Rita%20Sampaio.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
-- [Animador Livre](../../Cargos/Animador%20Livre.md) - [João Monteiro](../../Pessoas/J/Jo%C3%A3o%20Monteiro.md)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [João Monteiro](../../Pessoas/J/Jo%C3%A3o%20Monteiro.md) e [Filipe Barroso](../../Pessoas/F/Filipe%20Barroso.md)
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [Sílvia Lobo](../../Pessoas/S/S%C3%ADlvia%20Lobo.md)
 
 ## Páginas que ligam para aqui
 
+- [Filipe Barroso](../../Pessoas/F/Filipe%20Barroso.md)
 - [Joana Gomes](../../Pessoas/J/Joana%20Gomes.md)
 - [João Monteiro](../../Pessoas/J/Jo%C3%A3o%20Monteiro.md)
 - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
 - [Sara Rita Sampaio](../../Pessoas/S/Sara%20Rita%20Sampaio.md)
+- [Sílvia Lobo](../../Pessoas/S/S%C3%ADlvia%20Lobo.md)
 
 ---
+
+**Outros nomes:** Pesca Nova
 
 | Categorias |
 | --- |

@@ -250,9 +250,9 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 | --- | --- |
 | **Assistente Nacional** | [Luís Onofre](../Pessoas/L/Lu%C3%ADs%20Onofre.md) sj |
 | **Coordenador Nacional** | [Filipe Próspero](../Pessoas/F/Filipe%20Pr%C3%B3spero.md) |
-| **DL-CC** | [Paulo Cardoso](../Pessoas/P/Paulo%20Cardoso.md) (Coordenador da DL) e [José Maria Brito](../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md) sj |
+| **DL-CC** | [Paulo Cardoso](../Pessoas/P/Paulo%20Cardoso.md) (Coordenador da DL), [José Maria Brito](../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md) sj e [Sílvia Lobo](../Pessoas/S/S%C3%ADlvia%20Lobo.md) |
 | **DL-CAIC** | [Rafael Carecho](../Pessoas/R/Rafael%20Carecho.md) (Coordenador da DL) e [Ricardo Barroso](../Pessoas/R/Ricardo%20Barroso.md) sj |
-| **DL-CSJB** | [Bernardo Caldas](../Pessoas/B/Bernardo%20Caldas.md) (Coordenador da DL) e [Andreas Lind](../Pessoas/A/Andreas%20Lind.md) sj |
+| **DL-CSJB** | [Bernardo Caldas](../Pessoas/B/Bernardo%20Caldas.md) (Coordenador da DL), [Andreas Lind](../Pessoas/A/Andreas%20Lind.md) sj e [Sara Oom](../Pessoas/S/Sara%20Oom.md) |
 
 </div>
 
@@ -264,9 +264,9 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 | --- | --- |
 | **Assistente Nacional** | [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj |
 | **Coordenador Nacional** | [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md) |
-| **DL-CC** | [João Paulo Moinhos](../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md) (Coordenador da DL) e [Vasco Themudo](../Pessoas/V/Vasco%20Themudo.md) sj |
+| **DL-CC** | [João Paulo Moinhos](../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md) (Coordenador da DL), [Andreia Gil](../Pessoas/A/Andreia%20Gil.md) e [Vasco Themudo](../Pessoas/V/Vasco%20Themudo.md) sj |
 | **DL-CAIC** | [Francisco Martins](../Pessoas/F/Francisco%20Martins.md) sj |
-| **DL-CSJB** | [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md) sj |
+| **DL-CSJB** | [Joana Gomes](../Pessoas/J/Joana%20Gomes.md) (Coordenadora da DL), [Edu](../Pessoas/A/Ant%C3%B3nio%20Queiroz%20Martins.md) (Secretário da DN), [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md) sj e [Andreas Lind](../Pessoas/A/Andreas%20Lind.md) sj |
 
 </div>
 
@@ -632,6 +632,7 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 - [Áreas Restrictas](../Restrito/%C3%81reas%20Restrictas.md)
 - [Beatriz Maia](../Pessoas/B/Beatriz%20Maia.md)
 - [Bruno Costa](../Pessoas/B/Bruno%20Costa.md)
+- [Calhambeques](Calhambeques.md)
 - [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md)
 - [Carlos Miguel Albuquerque](../Pessoas/C/Carlos%20Miguel%20Albuquerque.md)
 - [Carlos Ruiz](../Pessoas/C/Carlos%20Ruiz.md)

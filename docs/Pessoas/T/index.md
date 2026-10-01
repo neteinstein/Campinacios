@@ -31,4 +31,5 @@
 - [Tomás Ribeiro](Tom%C3%A1s%20Ribeiro.md)
 - [Tomás Silva](Tom%C3%A1s%20Silva.md)
 - [Tânia Rodrigues](T%C3%A2nia%20Rodrigues.md)
+- [Teresa Cruz](Teresa%20Cruz.md)
 - [Toni](Toni.md)

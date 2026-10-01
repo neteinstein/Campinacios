@@ -6,5 +6,6 @@
 - [Pedra Sobre Pedra](Pedra%20Sobre%20Pedra.md) — Trotinetas
 - [Pedra papel tesoura](Pedra%20papel%20tesoura.md) — Bicicletas
 - [Pedrogulho](Pedrogulho.md) — Triciclos
+- [Peregrinação às JMJ](Peregrina%C3%A7%C3%A3o%20%C3%A0s%20JMJ.md) — Lambretas
 - [Pescanova](Pescanova.md) — Bicicletas
 - [Yabadabadoo](Yabadabadoo.md) — Trotinetas

@@ -33,7 +33,10 @@ Lourenço Eiró foi um dos fundadores dos [Campinácios](../../Movimento/Campin%
     - 2008 [Êxodo](../../Acampamentos/2008/%C3%8Axodo.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2009 [Caminho](../../Acampamentos/2009/Caminho.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2010 [Obra Prima](../../Acampamentos/2010/Obra%20Prima.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+    - 2011 [Ara](../../Acampamentos/2011/Ara.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2011 [Pedrogulho](../../Acampamentos/2011/Pedrogulho.md) - [Director](../../Cargos/Director.md)
+    - 2011 [Peregrinação às JMJ](../../Acampamentos/2011/Peregrina%C3%A7%C3%A3o%20%C3%A0s%20JMJ.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+    - 2012 [Conta Kms](../../Acampamentos/2012/Conta%20Kms.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
 ### Encontros
 
@@ -43,6 +46,7 @@ Lourenço Eiró foi um dos fundadores dos [Campinácios](../../Movimento/Campin%
 
 - [Academia](../../Acampamentos/2005/Academia.md)
 - [Apoio](../../Wikin%C3%A1cios/Apoio.md)
+- [Ara](../../Acampamentos/2011/Ara.md)
 - [Assistentes Nacionais](../../Categorias/Assistentes%20Nacionais.md)
 - [Cagácios](../../Acampamentos/Sem%20data/Cag%C3%A1cios.md)
 - [Caminho](../../Acampamentos/2009/Caminho.md)
@@ -51,6 +55,7 @@ Lourenço Eiró foi um dos fundadores dos [Campinácios](../../Movimento/Campin%
 - [CIFA II](../../Acampamentos/Sem%20data/CIFA%20II.md)
 - [Cinena](../../Acampamentos/2001/Cinena.md)
 - [Constância](../../Acampamentos/1991/Const%C3%A2ncia.md)
+- [Conta Kms](../../Acampamentos/2012/Conta%20Kms.md)
 - [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md)
 - [Encontro Nacional de Animadores 2007](../../Encontros/Encontro%20Nacional%20de%20Animadores%202007.md)
@@ -64,6 +69,7 @@ Lourenço Eiró foi um dos fundadores dos [Campinácios](../../Movimento/Campin%
 - [Pavio](../../Acampamentos/2000/Pavio.md)
 - [Pedreira](../../Acampamentos/1989/Pedreira.md)
 - [Pedrogulho](../../Acampamentos/2011/Pedrogulho.md)
+- [Peregrinação às JMJ](../../Acampamentos/2011/Peregrina%C3%A7%C3%A3o%20%C3%A0s%20JMJ.md)
 - [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
 - [Surpresa](../../Acampamentos/2001/Surpresa.md)
 - [Tribal](../../Acampamentos/1992/Tribal.md)

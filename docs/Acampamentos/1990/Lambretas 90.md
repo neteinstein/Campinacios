@@ -9,6 +9,7 @@ Este acampamento de [Lambretas](../../Categorias/Lambretas.md) decorreu de 19 a 
 
 ## Páginas que ligam para aqui
 
+- [Gustavo Gapo](../../Pessoas/G/Gustavo%20Gapo.md)
 - [José Murteira](../../Pessoas/J/Jos%C3%A9%20Murteira.md)
 
 ---
