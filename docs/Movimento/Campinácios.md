@@ -99,7 +99,9 @@ Na prática os acampamentos começavam a funcionar com intercâmbio de participa
 
 Após este encontro, os CAMPINÁCIOS como movimento foi ganhando alguma estabilidade e solidificação. No entanto, estava decidido que os CAMPINÁCIOS como movimento de acampamentos de férias seriam uma realidade incontornável na vida e formação dos alunos dos colégios da Companhia de Jesus.
 
-Segundo o texto da história da fundação publicado na página da [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md) ([ver no web.archive.org](https://web.archive.org/web/20110916100811/http://www.campinacios.org:80/index.php?option=com_content&view=article&id=101&Itemid=142)), em Abril de 2002 os Campinácios comemoraram dez anos com um encontro no colégio do INA ([CC](CC.md)), com 430 jovens ligados ao movimento. O mesmo texto diz que os acampamentos se destinam aos alunos dos colégios entre os 10 e os 17 anos, e que os animadores são antigos alunos, mais velhos do que o escalão mais alto, que fizeram os acampamentos como participantes.
+Em Abril de 2002 os Campinácios comemoraram dez anos com um encontro no Colégio das Caldinhas ([CC](CC.md)), com 430 jovens ligados ao movimento.
+
+Os acampamentos destinam-se aos alunos dos colégios entre os 10 e os 17 anos, e os animadores são antigos alunos, já adultos, que geralmente fizeram os acampamentos como participantes.
 
 ## Actividades ao longo do ano
 
