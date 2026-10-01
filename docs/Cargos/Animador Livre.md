@@ -257,6 +257,7 @@
 - [Renato Costa](../Pessoas/R/Renato%20Costa.md)
 - [Renato Lopes](../Pessoas/R/Renato%20Lopes.md)
 - [Ricardo Amado](../Pessoas/R/Ricardo%20Amado.md)
+- [Ricardo Costa](../Pessoas/R/Ricardo%20Costa.md)
 - [Ricardo Neves](../Pessoas/R/Ricardo%20Neves.md)
 - [Ricardo Rodrigues](../Pessoas/R/Ricardo%20Rodrigues.md)
 - [Ricardo Simões](../Pessoas/R/Ricardo%20Sim%C3%B5es.md)
