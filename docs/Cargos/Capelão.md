@@ -19,6 +19,7 @@
 
 - [180 Já Contenta](../Acampamentos/2023/180%20J%C3%A1%20Contenta.md)
 - [98 Covas](../Acampamentos/1998/98%20Covas.md)
+- [A Ir e Falta o S](../Acampamentos/2018/A%20Ir%20e%20Falta%20o%20S.md)
 - [A Partir](../Acampamentos/2023/A%20Partir.md)
 - [Afonso Espregueira](../Pessoas/A/Afonso%20Espregueira.md)
 - [Agora Vês](../Acampamentos/2018/Agora%20V%C3%AAs.md)
@@ -166,6 +167,7 @@
 - [Miguel Melo](../Pessoas/M/Miguel%20Melo.md)
 - [Miguel Melo Ribeiro](../Pessoas/M/Miguel%20Melo%20Ribeiro.md)
 - [Mikelin Descobre a Vida](../Acampamentos/2004/Mikelin%20Descobre%20a%20Vida.md)
+- [Mostra Garra](../Acampamentos/2016/Mostra%20Garra.md)
 - [Navalha-me Deus](../Acampamentos/2026/Navalha-me%20Deus.md)
 - [Nelson Faria](../Pessoas/N/Nelson%20Faria.md)
 - [Ninja Por Não Estar](../Acampamentos/2002/Ninja%20Por%20N%C3%A3o%20Estar.md)

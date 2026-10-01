@@ -5,9 +5,11 @@ Este acampamento de Calhambeques foi realizado na [Quinta da Gorda (Ferreira do 
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [João Muñoz](../../Pessoas/J/Jo%C3%A3o%20Mu%C3%B1oz.md)
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Filipe Condado](../../Pessoas/F/Filipe%20Condado.md)
 
 ## Páginas que ligam para aqui
 
+- [Filipe Condado](../../Pessoas/F/Filipe%20Condado.md)
 - [João Muñoz](../../Pessoas/J/Jo%C3%A3o%20Mu%C3%B1oz.md)
 
 ---
