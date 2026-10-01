@@ -50,6 +50,8 @@ A iniciativa teve o apoio directo da [Direcção Nacional](../Categorias/Direc%C
 
 O web.archive.org guardou a página da Revolução em Campinacios.org entre 2009 e 2012 ([página principal a 16 de Setembro de 2011](https://web.archive.org/web/20110916050818/http://www.campinacios.org:80/index.php?)). No rodapé lia-se «Copyleft Revolução Campinácios v2.0 — [Filipe Barroso](../Pessoas/F/Filipe%20Barroso.md) e [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)».
 
+Antes de a página nova abrir, o endereço mostrou em Abril de 2009 «Campinácios v2.0 — A Revolução começou…», com uma ligação para a página antiga e uma legenda por cores para as actividades nacionais, da Direcção Nacional e de cada colégio; em Setembro de 2009, «Memórias de Campinácios 2004 - 2008… (um teaser enquanto o novo site não chega!)»; e em Dezembro de 2009, «A revolução começou…».
+
 **Notícias** publicadas na página principal (das mais recentes para as mais antigas):
 
 - **19 de Maio de 2011** — Jantar de Gala dos Campinácios, do [Camtil](Camtil.md) e dos [Gambozinos](Gambozinos.md), a 10 de Junho, a partir das 18h30, na Quinta do Loureiro, em Rebordões (Santo Tirso): 17 € por pessoa (as crianças até aos 12 anos não pagavam) ou 150 € por mesa de 10.
@@ -57,6 +59,7 @@ O web.archive.org guardou a página da Revolução em Campinacios.org entre 2009
 - **9 de Dezembro de 2010** — Café Terrace do [CSJB](CSJB.md), no terraço, às 10h, só para os mais velhos (com ligação ao blog [Campinácios Lisboa](http://campinacioslisboa.blogspot.com/)).
 - **8 de Dezembro de 2010** — Os [novos animadores de 2010/2011](Animador.md#novos-2010-2011), apresentados pela [Direcção Nacional](../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md).
 - **3 de Outubro de 2010** — «After Ben», com ligação para afterben.com.
+- **9 de Agosto de 2010** — «Novo visual»: com o começo dos acampamentos, a página mudou de aspecto.
 - **13 de Junho de 2010** — «Ansiedade»: listas de participantes fechadas e animadores prontos para os acampamentos.
 - **4 de Maio de 2010** — O Catálogo Online, para encomendar o DVD do [Encontro Nacional 2010](../Encontros/Encontro%20Nacional%202010.md), com mais de 3000 fotografias e um vídeo, a 4 €, levantado no colégio de cada um (era preciso estar registado na página).
 - **15 de Abril de 2010** — «Tu por acaso…», sobre as fotografias de uma *flash-mob*.
@@ -76,6 +79,8 @@ O web.archive.org guardou a página da Revolução em Campinacios.org entre 2009
 - *Encontro Nacional de Animadores*: o [ENA 2004](../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md), o [2005](../Encontros/Encontro%20Nacional%20de%20Animadores%202005.md), o [2006](../Encontros/Encontro%20Nacional%20de%20Animadores%202006.md) e o [2007](../Encontros/Encontro%20Nacional%20de%20Animadores%202007.md), os dois últimos «@ Gafanha da Nazaré»;
 - *Vídeos*, *Tema do ano*, *Jornal dos Campinácios*, *Perguntas Frequentes*, uma *Agenda* e as páginas das três Direcções Locais e da Direcção Nacional, com os contactos;
 - *Blogs e sites*, com os blogs [listados em Online](Online.md#pagina-v2).
+
+Nos *Links* estavam os três colégios, o [Camtil](Camtil.md), os [Gambozinos](Gambozinos.md) e a Essejota. Depois do «After Ben», uma sondagem perguntava como tinha corrido, de «Eu não fui…» a «Eu fui e sou mais feliz por isso!».
 
 Tinha ainda um **fórum** (Kunena), que em 2009 tinha 7 utilizadores e 2 mensagens; uma **galeria de fotos** (Coppermine), com álbuns vazios do OPA (2007) e do OrienTu, do TufarfarAway e do Entre ASPAS (2008); o **Antigo Guestbook**, com as mensagens da página original, fechado em Dezembro de 2009; e **sondagens**, como «A Revolução Campinácios v2.0 está a ser…», que entre Abril e Junho de 2009 teve 23 votos: 17 em «…brutal», 4 em «…boa», 1 em «…hum?» e 1 em «…igual ao litro».
 
