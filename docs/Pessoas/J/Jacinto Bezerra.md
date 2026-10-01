@@ -25,10 +25,15 @@ Jacinto Bezerra, é animador do CC desde 2003.
     - 2009 [Talithá Kum](../../Acampamentos/2009/Talith%C3%A1%20Kum.md) - [Director Adjunto](../../Cargos/Director-Adjunto.md)
     - 2010 [Walkabout](../../Acampamentos/2010/Walkabout.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
+### Encontros
+
+- 2010 [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md) - Limpeza
+
 ## Páginas que ligam para aqui
 
 - [Bike Just Do It](../../Acampamentos/2008/Bike%20Just%20Do%20It.md)
 - [Descola](../../Acampamentos/2004/Descola.md)
+- [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md)
 - [Fófinhos](../../Acampamentos/2005/F%C3%B3finhos.md)
 - [M&M](../../Acampamentos/2007/M%26M.md)
 - [Talithá Kum](../../Acampamentos/2009/Talith%C3%A1%20Kum.md)
