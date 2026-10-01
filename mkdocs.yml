@@ -56,6 +56,7 @@ extra_css:
 extra_javascript:
   - assets/graph.js
   - assets/restrito.js
+  - assets/pessoas.js
   - assets/pesquisa-campos.js
 
 validation:
@@ -106,13 +107,13 @@ nav:
     - "2024": Acampamentos/2024/index.md
     - "2025": Acampamentos/2025/index.md
     - "2026": Acampamentos/2026/index.md
-  - "Cantinácio": Movimento/Cantinácio.md
-  - "Categorias": Categorias/index.md
-  - "Encontros": Encontros/index.md
-  - "Movimento":
+  - "Campinácios":
     - "Campinácios": Movimento/Campinácios.md
     - "Artigos": Movimento/index.md
     - "Desambiguação": Movimento/Desambiguação/index.md
+  - "Cantinácio": Movimento/Cantinácio.md
+  - "Categorias": Categorias/index.md
+  - "Encontros": Encontros/index.md
   - "Pessoas":
     - Pessoas/index.md
     - "A": Pessoas/A/index.md
