@@ -1,5 +1,6 @@
 # V
 
+- [Valéria Magalhães](Val%C3%A9ria%20Magalh%C3%A3es.md)
 - [Vasco Lucas Pires](Vasco%20Lucas%20Pires.md)
 - [Vasco Meneses](Vasco%20Meneses.md)
 - [Vasco Neves](Vasco%20Neves.md)

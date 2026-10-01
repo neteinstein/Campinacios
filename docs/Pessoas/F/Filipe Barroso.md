@@ -36,6 +36,7 @@ smith_4u@hotmail.com
 - [Contribuidores](../../Wikin%C3%A1cios/Contribuidores.md)
 - [Em Busca da CaraBela](../../Acampamentos/2006/Em%20Busca%20da%20CaraBela.md)
 - [Eureka](../../Acampamentos/2008/Eureka.md)
+- [Online](../../Movimento/Online.md)
 - [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
 - [Walkabout](../../Acampamentos/2010/Walkabout.md)
 
