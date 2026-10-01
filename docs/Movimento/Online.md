@@ -38,7 +38,7 @@ Em 2009 a página original deu lugar à página da [Revolução Campinácios v2.
 
 [![Reconstrução da página principal «Campinácios v2.0 — Acampamentos dos Colégios da Companhia de Jesus em Portugal» a 30 de Maio de 2012: o cabeçalho com uma fotografia da Gaivota de 2005, o menu Início, Agenda, Wikinácios, Facebook, YouTube e Catálogo, as caixas Conhecer e Viver à esquerda, as notícias do Jantar de Gala, da Ceia de Natal e do Café Terrace do CSJB ao centro e, à direita, os artigos recentes, as mudanças recentes do Wikinácios e uma sondagem](../assets/imagens/Campinacios_v2.webp)](../assets/imagens/Campinacios_v2.webp)
 
-A página tinha também uma lista de «Blogs e sites» de pessoas ligadas aos Campinácios ([ver no web.archive.org](https://web.archive.org/web/20110915032421/http://www.campinacios.org:80/index.php?option=com_weblinks&view=category&id=69&Itemid=121)): o *Toques de Deus*, blog do Nuno Branco e do Zé Maria; o *[Campinácios Lisboa](http://campinacioslisboa.blogspot.com/)*; e o *Milekin Descobre a Vida*, já então cancelado.
+A página tinha também uma lista de «Blogs e sites» de pessoas ligadas aos Campinácios: o *Toques de Deus*, blog do Nuno Branco e do Zé Maria, e o *[Campinácios Lisboa](http://campinacioslisboa.blogspot.com/)*.
 
 ## O Wikinácios em 2013 {#wikinacios-2013}
 
