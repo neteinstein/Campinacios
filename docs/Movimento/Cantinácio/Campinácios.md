@@ -728,8 +728,6 @@ Vou responder Tábeeeim (Tábeeeim, Tábeeeim) (3x)
 (Altosss)
 ```
 
-Publicada por Tiago Bahia na página da [Revolução Campinácios v2.0](../Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md) a 19 de Agosto de 2010.
-
 ### VEM ACUDIR {#vem-acudir}
 
 *Hino da Novela do Campo [Long Tao](../../Acampamentos/2006/Long%20Tao.md) (2006)*
