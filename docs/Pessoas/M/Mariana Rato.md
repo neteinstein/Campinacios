@@ -12,12 +12,16 @@ Mariana Rato mais conhecida por Mimas ou Mimi.
     - 2009 [Caminho](../../Acampamentos/2009/Caminho.md)
 - **Animador:**
     - 2009 [Tira as rodinhas](../../Acampamentos/2009/Tira%20as%20rodinhas.md) - [Tia](../../Cargos/Tio.md)
+    - 2011 [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md)
 
 ## Páginas que ligam para aqui
 
+- [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md)
 - [Tira as rodinhas](../../Acampamentos/2009/Tira%20as%20rodinhas.md)
 
 ---
+
+**Outros nomes:** Mimas
 
 | Categorias |
 | --- |

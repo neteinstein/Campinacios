@@ -2,6 +2,15 @@
 
 Madalena Cartucho Pereira é antiga aluna do Colégio S. João de Brito, é animadora dos Campinácios, tendo começado este ano a formção para animador(2009).
 
+### Acampamentos
+
+- **Animadora:**
+    - 2011 [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md)
+
+## Páginas que ligam para aqui
+
+- [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md)
+
 ---
 
 | Categorias |

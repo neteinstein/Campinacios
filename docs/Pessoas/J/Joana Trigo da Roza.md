@@ -4,6 +4,15 @@ Joana Trigo da Roza, antiga aluna do S. João de Brito é animadora dos Campiná
 
 É irmã da [Mafalda Trigo da Roza](../M/Mafalda%20Trigo%20da%20Roza.md)
 
+### Acampamentos
+
+- **Animadora:**
+    - 2011 [Pescanova](../../Acampamentos/2011/Pescanova.md)
+
+## Páginas que ligam para aqui
+
+- [Pescanova](../../Acampamentos/2011/Pescanova.md)
+
 ---
 
 | Categorias |
