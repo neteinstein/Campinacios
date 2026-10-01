@@ -249,7 +249,7 @@
 - [Sofia Fernandes](../Pessoas/S/Sofia%20Fernandes.md)
 - [Sofia Fonseca](../Pessoas/S/Sofia%20Fonseca.md)
 - [Someonelfie](../Acampamentos/2015/Someonelfie.md)
-- [Supérate](../Acampamentos/2017/Sup%C3%A9rate.md)
+- [Supera-te](../Acampamentos/2017/Supera-te.md)
 - [Surpresa](../Acampamentos/2001/Surpresa.md)
 - [Survivor](../Acampamentos/2009/Survivor.md)
 - [Sérgio Carvalho](../Pessoas/S/S%C3%A9rgio%20Carvalho.md)

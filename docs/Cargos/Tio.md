@@ -168,6 +168,7 @@
 - [Sílvia Sepúlveda](../Pessoas/S/S%C3%ADlvia%20Sep%C3%BAlveda.md)
 - [Someonelfie](../Acampamentos/2015/Someonelfie.md)
 - [Soraia Ramos](../Pessoas/S/Soraia%20Ramos.md)
+- [Supera-te](../Acampamentos/2017/Supera-te.md)
 - [Surpresa](../Acampamentos/2001/Surpresa.md)
 - [Survivor](../Acampamentos/2009/Survivor.md)
 - [Susana Vaz Pedro](../Pessoas/S/Susana%20Vaz%20Pedro.md)
