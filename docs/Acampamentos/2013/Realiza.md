@@ -5,10 +5,12 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Jonifa](../../Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md)
+- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [João Miguel Rodrigues](../../Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md)
 
 ## Páginas que ligam para aqui
 
 - [João Freire de Andrade](../../Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md)
+- [João Miguel Rodrigues](../../Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md)
 
 ---
 

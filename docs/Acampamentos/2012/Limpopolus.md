@@ -18,6 +18,7 @@
 - [Ana Rita Costa](../../Pessoas/A/Ana%20Rita%20Costa.md)
 - [Francisco Moitinho Almeida](../../Pessoas/F/Francisco%20Moitinho%20Almeida.md)
 - [Gonçalo Luís Carvalho](../../Pessoas/G/Gon%C3%A7alo%20Lu%C3%ADs%20Carvalho.md)
+- [João Miguel Rodrigues](../../Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md)
 - [João Monteiro](../../Pessoas/J/Jo%C3%A3o%20Monteiro.md)
 - [Juliana Fernandes](../../Pessoas/J/Juliana%20Fernandes.md)
 - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
