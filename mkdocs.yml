@@ -57,6 +57,7 @@ extra_javascript:
   - assets/graph.js
   - assets/restrito.js
   - assets/pessoas.js
+  - assets/pesquisa-campos.js
 
 validation:
   links:
