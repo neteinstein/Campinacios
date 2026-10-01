@@ -27,6 +27,7 @@ Frequentou o [CC](../../Movimento/CC.md) de 1994 a 2008. Animadora desde 2008 at
 - [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
 - [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - [Obra Prima](../../Acampamentos/2010/Obra%20Prima.md)
+- [Online](../../Movimento/Online.md)
 - [Tira as rodinhas](../../Acampamentos/2009/Tira%20as%20rodinhas.md)
 
 ---

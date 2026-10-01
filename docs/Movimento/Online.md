@@ -40,7 +40,7 @@ Em 2009 a página original deu lugar à página da [Revolução Campinácios v2.
 
 ## O Wikinácios em 2013 {#wikinacios-2013}
 
-A Wikinácios foi um dos sítios que a Revolução Campinácios v2.0 trouxe, feito pelo [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) e pelo [Filipe Barroso](../Pessoas/F/Filipe%20Barroso.md) com ajuda do António Queirós Martins, [Sílvia Lobo](../Pessoas/S/S%C3%ADlvia%20Lobo.md) e [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md). Fica aqui, como registo histórico, a sua página principal tal como estava a 1 de Outubro de 2013, com 880 artigos.
+A Wikinácios foi um dos sítios que a Revolução Campinácios v2.0 trouxe, feito pelo [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) e pelo [Filipe Barroso](../Pessoas/F/Filipe%20Barroso.md) com ajuda do [António Queirós Martins](../Pessoas/A/Ant%C3%B3nio%20Queiroz%20Martins.md), [Sílvia Lobo](../Pessoas/S/S%C3%ADlvia%20Lobo.md) e [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md). Fica aqui, como registo histórico, a sua página principal tal como estava a 1 de Outubro de 2013, com 880 artigos.
 
 [![Página principal do Wikinácios a 1 de Outubro de 2013: o logótipo dos Campinácios e o menu à esquerda, o texto «Bem-vindo(a) à Wikinacios, a enciclopédia livre sobre Campinácios que (quase) todos podem editar», as secções «Como tudo começou...» e «Sabia que..» ao centro e, à direita, os «Eventos recentes» e o índice de temas](../assets/imagens/Wikinacios_2013.webp)](../assets/imagens/Wikinacios_2013.webp)
 

@@ -8,7 +8,7 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Beatriz Pitxi](../../Pessoas/B/Beatriz%20Pitxi.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Miguel Teixeira](../../Pessoas/M/Miguel%20Teixeira.md)
 - [Tio](../../Cargos/Tio.md) - Inês Silva (Nênê), [Pedro Leitão](../../Pessoas/P/Pedro%20Leit%C3%A3o.md)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - Francisco Melo, [Heitor Rosa](../../Pessoas/H/Heitor%20Rosa.md), Manuel Vassalo, Maria Solla, Carolina Dias, Tiago Azevedo (Teclas) e [Gonçalo Aguiar](../../Pessoas/G/Gon%C3%A7alo%20Aguiar.md) (Agui)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - Francisco Melo, [Heitor Rosa](../../Pessoas/H/Heitor%20Rosa.md), [Manuel Vassalo](../../Pessoas/M/Manuel%20Vassalo.md), Maria Solla, Carolina Dias, Tiago Azevedo (Teclas) e [Gonçalo Aguiar](../../Pessoas/G/Gon%C3%A7alo%20Aguiar.md) (Agui)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Vasco Lucas Pires](../../Pessoas/V/Vasco%20Lucas%20Pires.md) sj
 
 ## Páginas que ligam para aqui
@@ -18,6 +18,7 @@
 - [Gonçalo Aguiar](../../Pessoas/G/Gon%C3%A7alo%20Aguiar.md)
 - [Heitor Rosa](../../Pessoas/H/Heitor%20Rosa.md)
 - [Jaime Lucas Pires](../../Pessoas/J/Jaime%20Lucas%20Pires.md)
+- [Manuel Vassalo](../../Pessoas/M/Manuel%20Vassalo.md)
 - [Miguel Teixeira](../../Pessoas/M/Miguel%20Teixeira.md)
 - [Pedro Leitão](../../Pessoas/P/Pedro%20Leit%C3%A3o.md)
 - [Vasco Lucas Pires](../../Pessoas/V/Vasco%20Lucas%20Pires.md)
