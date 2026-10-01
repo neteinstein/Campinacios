@@ -1,5 +1,7 @@
 # Francisca Dias
 
+Animadora do CC desde 2010/2011: estava na lista dos [novos animadores desse ano](../../Movimento/Animador.md#novos-2010-2011).
+
 ---
 
 | Categorias |

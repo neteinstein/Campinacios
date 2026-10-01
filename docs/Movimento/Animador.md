@@ -126,7 +126,41 @@ Cada caso, cada pessoa, deve ser tratada à sua maneira.
 
 Tem que haver uma diversidade e complementação dos vários membros da família, para que possa existir uma harmonia total.
 
+## Plano de Formação de Animadores {#plano-de-formacao}
+
+Em 2009 a página da [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md) publicou o plano de formação para os novos animadores, assente nos Estatutos e na ideia de que a qualidade dos acampamentos depende da formação de quem os anima. Em resumo:
+
+- **Quem pode ser proposto pela Direcção Local:** quem foi participante dos acampamentos (de preferência com o acampamento de Lambretas feito ou em lista de espera), tem 18 anos ou os faz nesse ano, já saiu do colégio ou está a repetir o 12.º ano, é aprovado pela [Direcção Nacional](../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) e se compromete com o plano. Os outros casos são vistos pela Direcção Local e pela Direcção Nacional.
+- **Duração:** um ano lectivo, de Setembro a Setembro, com participação no Encontro Nacional de Animadores e no Encontro Nacional.
+- **Acampamento de formação:** para todos os animadores em formação dos três colégios, no Verão, no fim do ano de formação; nesse Verão não podem animar outro acampamento, e quem não o puder fazer fá-lo no ano seguinte.
+- **Fim-de-semana de espiritualidade inaciana:** um CIF, uns Exercícios Espirituais ou a Páscoa Inaciana, que pode ser escolhido entre o que os Centros Universitários oferecem (avisando a Direcção Local); se possível, a Direcção Nacional organiza um.
+- **Primeiros socorros e segurança:** dois dias, com um curso em cada colégio, à escolha do formando.
+- **Custos:** em parte pagos pelo GRACOS, por diligência do [Assistente Nacional](../Categorias/Assistentes%20Nacionais.md).
+- **Excepções:** um impedimento de ir ao acampamento de formação é avaliado pela Direcção Nacional; uma acção substituída por outra da Pastoral Intercolegial e Universitária dos Jesuítas tem de ser aprovada pela Direcção Local; e os animadores do [Camtil](Camtil.md) e dos [Gambozinos](Gambozinos.md) com dois ou mais anos de animação podem animar acampamentos dos Campinácios sem fazer o plano.
+
+Na mesma secção estava o texto «Os Animadores», do [António Valério](../Pessoas/A/Ant%C3%B3nio%20Val%C3%A9rio.md) sj (Dezembro de 2009), sobre uma reunião de animadores ao fim do sétimo dia de campo e o que os leva a dar tanto de si: devolver o que receberam como participantes, conhecer os próprios limites sem querer ser «animador-estrela», e o valor do serviço gratuito. Ver os dois textos [no web.archive.org](https://web.archive.org/web/20110916032317/http://www.campinacios.org:80/index.php?option=com_content&view=category&layout=blog&id=41&Itemid=82).
+
+## Novos animadores de 2010/2011 {#novos-2010-2011}
+
+A 8 de Dezembro de 2010 a [Direcção Nacional](../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) apresentou na página da [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md) os novos animadores desse ano ([ver no web.archive.org](https://web.archive.org/web/20110916095110/http://www.campinacios.org:80/index.php?limitstart=3)):
+
+- **Colégio das Caldinhas:** [Francisca Dias](../Pessoas/F/Francisca%20Dias.md), Luciana Alves, Marco Sá, Tânia Fernandes, Ágata Costa, Isabel Bravo, Maria Luísa Freitas, [Maria Sampaio](../Pessoas/M/Maria%20Sampaio.md), [António Pimenta](../Pessoas/A/Ant%C3%B3nio%20Pimenta.md), Inês Silva Carvalho, Inês Dias Carvalho, Daniele Bardi, [João Miguel Rodrigues](../Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md), Ricardo Gonçalves, [Inês Furtado](../Pessoas/I/In%C3%AAs%20Furtado.md), Ana Luísa Oliveira, Rui Jorge Costa, Diogo Conde Rocha e João Manuel Sá
+- **Colégio da Imaculada Conceição:** [Rafael Carecho](../Pessoas/R/Rafael%20Carecho.md), Daniela Lima e [Bárbara Cruz](../Pessoas/B/B%C3%A1rbara%20Cruz.md)
+- **Colégio São João de Brito:** [Filipa Lucena](../Pessoas/F/Filipa%20Lucena.md), Teresa Dominguez, [Catarina Rocha](../Pessoas/C/Catarina%20Rocha.md), [Leonor Brigas](../Pessoas/L/Leonor%20Brigas.md), [Madalena Pires](../Pessoas/M/Madalena%20Pires.md), [Joana Vala](../Pessoas/J/Joana%20Vala.md), [Teresa Cruz](../Pessoas/T/Teresa%20Cruz.md), Teresinha Fonseca, Maria Cunha, [Mafalda Neves](../Pessoas/M/Mafalda%20Neves.md), [Teresa Cortês Ferreira](../Pessoas/T/Teresa%20Cort%C3%AAs%20Ferreira.md), [Vasco Neves](../Pessoas/V/Vasco%20Neves.md), Miguel Rodrigues, Nuno Mota, Luís Faria, [Pedro Rodrigues](../Pessoas/P/Pedro%20Rodrigues.md), [João Eiró](../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md), [João Captivo](../Pessoas/J/Jo%C3%A3o%20Captivo.md) e David Silva
+
 ## Páginas que ligam para aqui
 
+- [Bárbara Cruz](../Pessoas/B/B%C3%A1rbara%20Cruz.md)
+- [Catarina Rocha](../Pessoas/C/Catarina%20Rocha.md)
+- [Filipa Lucena](../Pessoas/F/Filipa%20Lucena.md)
+- [Francisca Dias](../Pessoas/F/Francisca%20Dias.md)
+- [Inês Furtado](../Pessoas/I/In%C3%AAs%20Furtado.md)
+- [Joana Vala](../Pessoas/J/Joana%20Vala.md)
+- [Leonor Brigas](../Pessoas/L/Leonor%20Brigas.md)
+- [Madalena Pires](../Pessoas/M/Madalena%20Pires.md)
+- [Mafalda Neves](../Pessoas/M/Mafalda%20Neves.md)
 - [Manual de Funções](Manual%20de%20Fun%C3%A7%C3%B5es.md)
+- [Maria Sampaio](../Pessoas/M/Maria%20Sampaio.md)
+- [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
+- [Teresa Cruz](../Pessoas/T/Teresa%20Cruz.md)
 - [Vocabulário](Vocabul%C3%A1rio.md)

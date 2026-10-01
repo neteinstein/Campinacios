@@ -4,7 +4,7 @@ Músicas nascidas nos acampamentos dos [Campinácios](../Campin%C3%A1cios.md).
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (19 músicas)
+## Índice (21 músicas)
 
 - [ABRE-TE AO SONHO](#abre-te-ao-sonho) — Hino do Campo Long Tao (2006)
 - [APRENDER A SER](#aprender-a-ser)
@@ -24,7 +24,9 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [POEMA LINDO](#poema-lindo) — Campo Mountain Bike (Chico Maria)
 - [RADROCA](#radroca) — adaptação de uma música do Camtil para o Gaivota 2005
 - [SÓIS HÁ MUITOS](#sois-ha-muitos)
+- [TÁBEEEIM](#tabeeeim) — Hino do Campo Tábeeeim (2010)
 - [VEM ACUDIR](#vem-acudir) — Hino da Novela do Campo Long Tao (2006)
+- [WALKABOUT](#walkabout) — Hino do Campo Walkabout (2010)
 
 ## Músicas
 
@@ -697,6 +699,12 @@ Vai dar-te ao mundo aos que vivem
 Em tormento...
 ```
 
+### TÁBEEEIM {#tabeeeim}
+
+*Hino do Campo [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md) (2010)*
+
+A letra está guardada na página da [Revolução Campinácios v2.0](../Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md), publicada por Tiago Bahia a 19 de Agosto de 2010: [ver no web.archive.org](https://web.archive.org/web/20110916183010/http://www.campinacios.org:80/index.php?option=com_content&view=article&id=171:tabeeeim-2010&catid=70:hinos-de-campo&Itemid=125).
+
 ### VEM ACUDIR {#vem-acudir}
 
 *Hino da Novela do Campo [Long Tao](../../Acampamentos/2006/Long%20Tao.md) (2006)*
@@ -735,3 +743,9 @@ O tesouro está mim
         O pano vai subir…
         E mais animação vem lá
 ```
+
+### WALKABOUT {#walkabout}
+
+*Hino do Campo [Walkabout](../../Acampamentos/2010/Walkabout.md) (2010)*
+
+A letra está guardada na página da [Revolução Campinácios v2.0](../Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md), publicada por Filipe Barroso a 9 de Agosto de 2010: [ver no web.archive.org](https://web.archive.org/web/20110917011938/http://www.campinacios.org:80/index.php?option=com_content&view=article&id=168:hino-walkabout-2010&catid=70:hinos-de-campo&Itemid=125).

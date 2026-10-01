@@ -45,6 +45,7 @@
 - [Manual do Director](../../Movimento/Manual%20do%20Director.md)
 - [Patos](../../Acampamentos/2004/Patos.md)
 - [Pimpolhos](../../Acampamentos/2003/Pimpolhos.md)
+- [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
 - [Shampum de Pessêgo](../../Acampamentos/2001/Shampum%20de%20Pess%C3%AAgo.md)
 
 ---

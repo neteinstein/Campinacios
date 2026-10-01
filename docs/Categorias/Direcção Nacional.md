@@ -626,6 +626,7 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 - [Amílcar Sousa](../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
 - [Andreia Gil](../Pessoas/A/Andreia%20Gil.md)
 - [Andreia Magalhães](../Pessoas/A/Andreia%20Magalh%C3%A3es.md)
+- [Animador](../Movimento/Animador.md)
 - [António Pamplona](../Pessoas/A/Ant%C3%B3nio%20Pamplona.md)
 - [António Queiroz Martins](../Pessoas/A/Ant%C3%B3nio%20Queiroz%20Martins.md)
 - [António Sant'Ana](../Pessoas/A/Ant%C3%B3nio%20Sant%27Ana.md)

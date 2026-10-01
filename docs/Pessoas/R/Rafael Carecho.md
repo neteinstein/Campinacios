@@ -9,6 +9,7 @@
 
 ## Páginas que ligam para aqui
 
+- [Animador](../../Movimento/Animador.md)
 - [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md)
 - [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - [Fairplay](../../Acampamentos/2013/Fairplay.md)
