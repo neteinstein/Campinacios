@@ -19,7 +19,7 @@
     - 2014 [Sentido](../../Acampamentos/2014/Sentido.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
     - 2015 [Take PaGod](../../Acampamentos/2015/Take%20PaGod.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2016 [Mostra Garra](../../Acampamentos/2016/Mostra%20Garra.md) - [Tia](../../Cargos/Tio.md)
-    - 2017 [Supérate](../../Acampamentos/2017/Sup%C3%A9rate.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2017 [Supera-te](../../Acampamentos/2017/Supera-te.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2018 [A Ir e Falta o S](../../Acampamentos/2018/A%20Ir%20e%20Falta%20o%20S.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
 
 ### Família
@@ -35,7 +35,7 @@
 - [Mostra Garra](../../Acampamentos/2016/Mostra%20Garra.md)
 - [Pescanova](../../Acampamentos/2011/Pescanova.md)
 - [Sentido](../../Acampamentos/2014/Sentido.md)
-- [Supérate](../../Acampamentos/2017/Sup%C3%A9rate.md)
+- [Supera-te](../../Acampamentos/2017/Supera-te.md)
 - [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md)
 - [Take PaGod](../../Acampamentos/2015/Take%20PaGod.md)
 

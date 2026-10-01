@@ -1,6 +1,6 @@
-# Supérate
+# Supera-te
 
-**Supérate** foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) realizado em 2017. O tema do ano foi *Guarda tudo no teu coração*.
+**Supera-te** foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) realizado em 2017. O tema do ano foi *Guarda tudo no teu coração*.
 
 ### Animadores
 
@@ -15,8 +15,6 @@
 - [Sara Rita Sampaio](../../Pessoas/S/Sara%20Rita%20Sampaio.md)
 
 ---
-
-**Outros nomes:** Supera-te
 
 | Categorias |
 | --- |

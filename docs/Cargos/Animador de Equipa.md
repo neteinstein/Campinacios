@@ -303,7 +303,7 @@
 - [Sobe d'Andar](../Acampamentos/2021/Sobe%20d%27Andar.md)
 - [Sofia Amaral](../Pessoas/S/Sofia%20Amaral.md)
 - [Sofia Azevedo Cardoso](../Pessoas/S/Sofia%20Azevedo%20Cardoso.md)
-- [Supérate](../Acampamentos/2017/Sup%C3%A9rate.md)
+- [Supera-te](../Acampamentos/2017/Supera-te.md)
 - [Superfishie](../Acampamentos/2021/Superfishie.md)
 - [Surpresa](../Acampamentos/2001/Surpresa.md)
 - [Survivor](../Acampamentos/2009/Survivor.md)
