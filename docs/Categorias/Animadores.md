@@ -716,6 +716,7 @@ Animadores dos Campinácios
 - [Sara Ramalho](../Pessoas/S/Sara%20Ramalho.md)
 - [Sara Rita Sampaio](../Pessoas/S/Sara%20Rita%20Sampaio.md)
 - [Sebastião Caldas](../Pessoas/S/Sebasti%C3%A3o%20Caldas.md)
+- [Sebastião Veloso](../Pessoas/S/Sebasti%C3%A3o%20Veloso.md)
 - [Simão Alves da Silva](../Pessoas/S/Sim%C3%A3o%20Alves%20da%20Silva.md)
 - [Sofia Amaral](../Pessoas/S/Sofia%20Amaral.md)
 - [Sofia Azevedo Cardoso](../Pessoas/S/Sofia%20Azevedo%20Cardoso.md)
@@ -748,7 +749,6 @@ Animadores dos Campinácios
 - [Teresa Santos](../Pessoas/T/Teresa%20Santos.md)
 - [Teresa Sá](../Pessoas/T/Teresa%20S%C3%A1.md)
 - [Teté](../Pessoas/T/Tet%C3%A9.md)
-- [TiaGO Reis](../Pessoas/T/TiaGO%20Reis.md)
 - [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md)
 - [Tiago Brandão Rodrigues](../Pessoas/T/Tiago%20Brand%C3%A3o%20Rodrigues.md)
 - [Tiago Carneiro](../Pessoas/T/Tiago%20Carneiro.md)
@@ -802,6 +802,7 @@ Animadores dos Campinácios
 - [Graal II](../Acampamentos/2003/Graal%20II.md)
 - [Koalas](../Acampamentos/1999/Koalas.md)
 - [Pedreira](../Acampamentos/1989/Pedreira.md)
+- [Pescanova](../Acampamentos/2011/Pescanova.md)
 - [Shampum de Pessêgo](../Acampamentos/2001/Shampum%20de%20Pess%C3%AAgo.md)
 - [Torneira](../Acampamentos/1997/Torneira.md)
 

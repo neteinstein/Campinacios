@@ -21,6 +21,7 @@ Como projecto educativo da Companhia de Jesus, com uma tradição secular no ens
 - [Ana Paula Gomes](../Pessoas/A/Ana%20Paula%20Gomes.md)
 - [Caderno da Mamã](Caderno%20da%20Mam%C3%A3.md)
 - [Campinácios](Campin%C3%A1cios.md)
+- [Encontro Nacional 2005](../Encontros/Encontro%20Nacional%202005.md)
 - [Manual de Funções](Manual%20de%20Fun%C3%A7%C3%B5es.md)
 - [Manual do Director](Manual%20do%20Director.md)
 - [Sílvia Lobo](../Pessoas/S/S%C3%ADlvia%20Lobo.md)

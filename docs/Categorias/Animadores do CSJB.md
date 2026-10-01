@@ -2,7 +2,7 @@
 
 Animadores do Colégio do Colégio São João de Brito
 
-## Páginas nesta categoria (191)
+## Páginas nesta categoria (192)
 
 - [Ana Martins](../Pessoas/A/Ana%20Martins.md)
 - [Ana Pais](../Pessoas/A/Ana%20Pais.md)
@@ -182,6 +182,7 @@ Animadores do Colégio do Colégio São João de Brito
 - [Rodrigo Queiroz e Melo](../Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md)
 - [Sara Croca](../Pessoas/S/Sara%20Croca.md)
 - [Sara Ramalho](../Pessoas/S/Sara%20Ramalho.md)
+- [Sebastião Veloso](../Pessoas/S/Sebasti%C3%A3o%20Veloso.md)
 - [Simão Alves da Silva](../Pessoas/S/Sim%C3%A3o%20Alves%20da%20Silva.md)
 - [Sofia Azevedo Cardoso](../Pessoas/S/Sofia%20Azevedo%20Cardoso.md)
 - [Sílvia Domingos](../Pessoas/S/S%C3%ADlvia%20Domingos.md)

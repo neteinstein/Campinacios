@@ -11,6 +11,7 @@
 
 ## Páginas que ligam para aqui
 
+- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md)
 - [Survivor](../../Acampamentos/2009/Survivor.md)
 

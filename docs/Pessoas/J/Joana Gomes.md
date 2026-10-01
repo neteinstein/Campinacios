@@ -21,6 +21,7 @@
     - 2009 [Bublix](../../Acampamentos/2009/Bublix.md) - [Directora-Adjunta](../../Cargos/Director-Adjunto.md)
     - 2010 [4º Dto](../../Acampamentos/2010/4%C2%BA%20Dto.md) - [Director](../../Cargos/Director.md)
     - 2011 [Pescanova](../../Acampamentos/2011/Pescanova.md) - [Director](../../Cargos/Director.md)
+    - 2015 [Take PaGod](../../Acampamentos/2015/Take%20PaGod.md) - [Tia](../../Cargos/Tio.md)
 
 ### Encontros
 
@@ -35,6 +36,7 @@
 - [Diz Que Sim](../../Acampamentos/2007/Diz%20Que%20Sim.md)
 - [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md)
 - [Pescanova](../../Acampamentos/2011/Pescanova.md)
+- [Take PaGod](../../Acampamentos/2015/Take%20PaGod.md)
 
 ---
 

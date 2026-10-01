@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1246 artigos e, em itálico, os 194 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1252 artigos e, em itálico, os 197 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -211,6 +211,8 @@
 - [Calhambeques 91](Acampamentos/1991/Calhambeques%2091.md)
 - [Calinadas](Acampamentos/1998/Calinadas.md)
 - [Carla Antunes](Pessoas/C/Carla%20Antunes.md)
+- *Carla Cardoso* → [Carla Ferreira](Pessoas/C/Carla%20Ferreira.md)
+- *Carla Cardoso Ferreira* → [Carla Ferreira](Pessoas/C/Carla%20Ferreira.md)
 - [Carlos Carneiro](Pessoas/C/Carlos%20Carneiro.md)
 - *Cami* → [Carlos Miguel Albuquerque](Pessoas/C/Carlos%20Miguel%20Albuquerque.md)
 - [Camila Martins](Pessoas/C/Camila%20Martins.md)
@@ -252,7 +254,6 @@
 - [Cláudia Montenegro](Pessoas/C/Cl%C3%A1udia%20Montenegro.md)
 - [Cristina Rebordão](Pessoas/C/Cristina%20Rebord%C3%A3o.md)
 - *Caramela* → [Joana Martins](Pessoas/J/Joana%20Martins.md)
-- *Carla Cardoso Ferreira* → [Carla Ferreira](Pessoas/C/Carla%20Ferreira.md)
 - [Carla Carneiro](Pessoas/C/Carla%20Carneiro.md)
 - [Carla Ferreira](Pessoas/C/Carla%20Ferreira.md)
 - [Carla Gapo](Pessoas/C/Carla%20Gapo.md)
@@ -427,10 +428,13 @@
 - [Encontro Nacional 1998](Encontros/Encontro%20Nacional%201998.md)
 - [Encontro Nacional 2001 (Encontrão)](Encontros/Encontro%20Nacional%202001%20%28Encontr%C3%A3o%29.md)
 - [Encontro Nacional 2004](Encontros/Encontro%20Nacional%202004.md)
+- [Encontro Nacional 2005](Encontros/Encontro%20Nacional%202005.md)
 - [Encontro Nacional 2006](Encontros/Encontro%20Nacional%202006.md)
 - [Encontro Nacional 2007](Encontros/Encontro%20Nacional%202007.md)
 - [Encontro Nacional 2008](Encontros/Encontro%20Nacional%202008.md)
+- [Encontro Nacional 2009](Encontros/Encontro%20Nacional%202009.md)
 - [Encontro Nacional 2010](Encontros/Encontro%20Nacional%202010.md)
+- [Encontro Nacional 2013](Encontros/Encontro%20Nacional%202013.md)
 - [Encontro Nacional 2019](Encontros/Encontro%20Nacional%202019.md)
 - [Encontro Nacional 2020](Encontros/Encontro%20Nacional%202020.md)
 - [Encontro Nacional 2021](Encontros/Encontro%20Nacional%202021.md)
@@ -443,7 +447,10 @@
 - [Encontro Nacional de Animadores 2005](Encontros/Encontro%20Nacional%20de%20Animadores%202005.md)
 - [Encontro Nacional de Animadores 2006](Encontros/Encontro%20Nacional%20de%20Animadores%202006.md)
 - [Encontro Nacional de Animadores 2007](Encontros/Encontro%20Nacional%20de%20Animadores%202007.md)
+- [Encontro Nacional de Animadores 2008](Encontros/Encontro%20Nacional%20de%20Animadores%202008.md)
 - [Encontro Nacional de Animadores 2009](Encontros/Encontro%20Nacional%20de%20Animadores%202009.md)
+- [Encontro Nacional de Animadores 2010](Encontros/Encontro%20Nacional%20de%20Animadores%202010.md)
+- [Encontro Nacional de Animadores 2012](Encontros/Encontro%20Nacional%20de%20Animadores%202012.md)
 - [Encontro Nacional de Animadores 2025](Encontros/Encontro%20Nacional%20de%20Animadores%202025.md)
 - [Entre ASPAS](Acampamentos/2008/Entre%20ASPAS.md)
 - *Era Uma Vez* → [Era Uma Vez...](Acampamentos/2008/Era%20Uma%20Vez....md)
@@ -938,6 +945,7 @@
 - [Matilde Silva](Pessoas/M/Matilde%20Silva.md)
 - *Mawi* → [Maria Cunhal](Pessoas/M/Maria%20Cunhal.md)
 - *Migalha* → [Miguel Melo Ribeiro](Pessoas/M/Miguel%20Melo%20Ribeiro.md)
+- *Mimas* → [Mariana Rato](Pessoas/M/Mariana%20Rato.md)
 - *Mogui* → [Margarida Tavares](Pessoas/M/Margarida%20Tavares.md)
 - [Mãos à Obra](Acampamentos/2014/M%C3%A3os%20%C3%A0%20Obra.md)
 - [Maravilha-te](Acampamentos/2018/Maravilha-te.md)
@@ -1110,6 +1118,7 @@
 - [Pedro Rosa](Pessoas/P/Pedro%20Rosa.md)
 - *Pedro Namorado Rosa* → [Pedro Rosa](Pessoas/P/Pedro%20Rosa.md)
 - [Peregrinação às JMJ](Acampamentos/2011/Peregrina%C3%A7%C3%A3o%20%C3%A0s%20JMJ.md)
+- *Pião* → [Sebastião Veloso](Pessoas/S/Sebasti%C3%A3o%20Veloso.md)
 - *Pitxi* → [Carolina Picciochi](Pessoas/C/Carolina%20Picciochi.md)
 - [PáquiPáli](Acampamentos/2016/P%C3%A1quiP%C3%A1li.md)
 - [Parada](Acampamentos/1995/Parada.md)
@@ -1324,6 +1333,7 @@
 - *São Martinho* → [Conceição Martinho](Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)
 - [Sarcófago](Acampamentos/2012/Sarc%C3%B3fago.md)
 - [Sebastião Caldas](Pessoas/S/Sebasti%C3%A3o%20Caldas.md)
+- [Sebastião Veloso](Pessoas/S/Sebasti%C3%A3o%20Veloso.md)
 - [Sem Truques](Acampamentos/2025/Sem%20Truques.md)
 - [Sentido](Acampamentos/2014/Sentido.md)
 - [Sequeiros (Braga)](Restrito/Locais%20de%20Acampamento/Sequeiros%20%28Braga%29.md) 🔒
@@ -1405,7 +1415,6 @@
 - [Teté](Pessoas/T/Tet%C3%A9.md)
 - [Tiago Brandão Rodrigues](Pessoas/T/Tiago%20Brand%C3%A3o%20Rodrigues.md)
 - [Tiago Eiró](Pessoas/T/Tiago%20Eir%C3%B3.md)
-- [TiaGO Reis](Pessoas/T/TiaGO%20Reis.md)
 - *Tia* → [Tio](Cargos/Tio.md)
 - [Tiago Bahia](Pessoas/T/Tiago%20Bahia.md)
 - *Tiago Canilho* → [Luís Tiago Canilho](Pessoas/L/Lu%C3%ADs%20Tiago%20Canilho.md)
