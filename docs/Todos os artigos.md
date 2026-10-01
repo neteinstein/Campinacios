@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1206 artigos e, em itálico, os 180 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1207 artigos e, em itálico, os 181 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -1203,6 +1203,7 @@
 - [Ricardo Amado](Pessoas/R/Ricardo%20Amado.md)
 - [Ricardo Barroso](Pessoas/R/Ricardo%20Barroso.md)
 - [Ricardo Batista](Pessoas/R/Ricardo%20Batista.md)
+- [Ricardo Costa](Pessoas/R/Ricardo%20Costa.md)
 - [Ricardo Dias](Pessoas/R/Ricardo%20Dias.md)
 - [Ricardo Lopes](Pessoas/R/Ricardo%20Lopes.md)
 - [Ricardo Neves](Pessoas/R/Ricardo%20Neves.md)
@@ -1333,6 +1334,7 @@
 - [Tábeeeim](Acampamentos/2010/T%C3%A1beeeim.md)
 - [Tânia Rodrigues](Pessoas/T/T%C3%A2nia%20Rodrigues.md)
 - [TásCá](Acampamentos/2016/T%C3%A1sC%C3%A1.md)
+- *Teddy Bear* → [Ricardo Costa](Pessoas/R/Ricardo%20Costa.md)
 - [Telma Pinto](Pessoas/T/Telma%20Pinto.md)
 - [Telmo Teixeira](Pessoas/T/Telmo%20Teixeira.md)
 - [Tem Bicho Zweitausend](Acampamentos/2000/Tem%20Bicho%20Zweitausend.md)
