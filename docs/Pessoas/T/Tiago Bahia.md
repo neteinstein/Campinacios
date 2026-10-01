@@ -12,8 +12,6 @@ Tiago Neves Bahia, nascido a 6 de Março de 1987, é animador do CC desde 2005.
 
 - Outros
     - 2007 - Coordenador da Ceia de Natal do CC
-    - 2008 - Coordenador do [Encontro Nacional de 2008](../../Encontros/Encontro%20Nacional%20de%202008.md)
-    - 2010 - Coordenador da Comissão de Organização do Encontro de Comemoração dos 20 Anos
 
 ### Acampamentos
 
@@ -40,6 +38,7 @@ Tiago Neves Bahia, nascido a 6 de Março de 1987, é animador do CC desde 2005.
 
 ### Encontros
 
+- 2008 [Encontro Nacional de 2008](../../Encontros/Encontro%20Nacional%20de%202008.md) - Coordenador
 - 2010 [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md) - Director e Coordenador da COECA
 
 ## Páginas que ligam para aqui
@@ -53,6 +52,7 @@ Tiago Neves Bahia, nascido a 6 de Março de 1987, é animador do CC desde 2005.
 - [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - [Dá Tudo Xauzinho](../../Acampamentos/2017/D%C3%A1%20Tudo%20Xauzinho.md)
 - [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md)
+- [Encontro Nacional de 2008](../../Encontros/Encontro%20Nacional%20de%202008.md)
 - [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md)
 - [Ide](../../Acampamentos/2015/Ide.md)
 - [Limpopolus](../../Acampamentos/2012/Limpopolus.md)
