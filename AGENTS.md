@@ -61,6 +61,11 @@ entries — the validators catch those). Never re-run
 `scripts/mediawiki_to_markdown.py`: it regenerates `docs/` from a 2010
 backup and would erase every later edit.
 
+O `mkdocs` do sistema pode não ter o `pymdownx`: use o ambiente virtual do
+projecto, `.venv/` (ignorado pelo git). Se não existir, crie-o com
+`python3 -m venv .venv && .venv/bin/pip install -r requirements.txt` e
+corra `.venv/bin/mkdocs build --strict`.
+
 O grafo (`docs/assets/graph.json`) reconstrói-se com
 `python3 scripts/actualizar_grafo.py` sempre que se acrescentam, mudam ou
 apagam páginas ou ligações (`--verificar` só compara e sai com 1 se estiver
