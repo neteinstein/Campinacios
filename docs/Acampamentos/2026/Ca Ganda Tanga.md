@@ -8,8 +8,8 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Leonor Vala](../../Pessoas/L/Leonor%20Vala.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Francisca Crujeira](../../Pessoas/F/Francisca%20Crujeira.md)
 - [Tia](../../Cargos/Tio.md) - [Mariana Ramalho](../../Pessoas/M/Mariana%20Ramalho.md), [Rita Ventura](../../Pessoas/R/Rita%20Ventura.md)
-- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Francisca Neves, [Pablo Fernandes](../../Pessoas/P/Pablo%20Fernandes.md), [Matilde Pereira](../../Pessoas/M/Matilde%20Pereira.md) (Matchi), Sofia Silva, Matilde Carvalho, Sofia Antunes, Diogo Simões Pereira (Didas)
-- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Francisco Ilhão](../../Pessoas/F/Francisco%20Ilh%C3%A3o.md), Duarte Soares, [Ariana Couto](../../Pessoas/A/Ariana%20Couto.md), [António Neves](../../Pessoas/A/Ant%C3%B3nio%20Neves.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Francisca Neves, [Pablo Fernandes](../../Pessoas/P/Pablo%20Fernandes.md), [Matilde Pereira](../../Pessoas/M/Matilde%20Pereira.md) (Matchi), Sofia Silva, Matilde Carvalho, Sofia Antunes e Diogo Simões Pereira (Didas)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Francisco Ilhão](../../Pessoas/F/Francisco%20Ilh%C3%A3o.md), Duarte Soares, [Ariana Couto](../../Pessoas/A/Ariana%20Couto.md) e [António Neves](../../Pessoas/A/Ant%C3%B3nio%20Neves.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Miguel Melo Ribeiro](../../Pessoas/M/Miguel%20Melo%20Ribeiro.md) sj
 
 ## Páginas que ligam para aqui

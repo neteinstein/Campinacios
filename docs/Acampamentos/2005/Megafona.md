@@ -8,7 +8,7 @@ Megafona foi um acampamento de Trotinetas que se realizou em [Digueifel](../../R
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [José Maria Brito](../../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md)
 - [Tias](../../Cargos/Tio.md) - [Majó](../../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Cami](../../Pessoas/C/Carlos%20Miguel%20Albuquerque.md) e [Diogo Faria](../../Pessoas/D/Diogo%20Faria.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Ana Pinto](../../Pessoas/A/Ana%20Pinto.md)
+- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Ana Pinto](../../Pessoas/A/Ana%20Pinto.md)
 
 ## Páginas que ligam para aqui
 

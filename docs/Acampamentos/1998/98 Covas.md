@@ -7,7 +7,7 @@ O Covas realizou-se em Rendufe - Quinta da Viúva foi o último acampamento de C
 - [Director](../../Cargos/Director.md) - [José Augusto Rosa](../../Pessoas/J/Jos%C3%A9%20Augusto%20Rosa.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [José Pina](../../Pessoas/J/Jos%C3%A9%20Pina.md) sj
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [João Regueiras](../../Pessoas/J/Jo%C3%A3o%20Regueiras.md), [Ricardo Rodrigues](../../Pessoas/R/Ricardo%20Rodrigues.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Marta Gonçalves](../../Pessoas/M/Marta%20Gon%C3%A7alves.md)
+- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Marta Gonçalves](../../Pessoas/M/Marta%20Gon%C3%A7alves.md)
 
 ### Curiosidades
 

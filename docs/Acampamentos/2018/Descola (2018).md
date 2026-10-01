@@ -11,7 +11,7 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Paulo Cardoso](../../Pessoas/P/Paulo%20Cardoso.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Frederico Cardoso de Lemos](../../Pessoas/F/Frederico%20Cardoso%20de%20Lemos.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Domingos Perloiro](../../Pessoas/D/Domingos%20Perloiro.md) sj
-- [Animador Livre](../../Cargos/Animador%20Livre.md) - Miguel Ressurreição, Teresa Cunha e Sá, Teresa Calheiros de Sá, [Rita Sousa](../../Pessoas/R/Rita%20Sousa.md), Joana Aguiar, [Joca](../../Pessoas/J/Joca.md)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - Miguel Ressurreição, Teresa Cunha e Sá, Teresa Calheiros de Sá, [Rita Sousa](../../Pessoas/R/Rita%20Sousa.md), Joana Aguiar e [Joca](../../Pessoas/J/Joca.md)
 
 ### Participantes
 
