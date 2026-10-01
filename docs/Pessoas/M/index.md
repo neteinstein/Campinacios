@@ -8,6 +8,7 @@
 - [Madalena Reis](Madalena%20Reis.md)
 - [Madalena Saraiva](Madalena%20Saraiva.md)
 - [Madalena Sena Esteves](Madalena%20Sena%20Esteves.md)
+- [Mafalda Aleixo](Mafalda%20Aleixo.md)
 - [Mafalda Coelho](Mafalda%20Coelho.md)
 - [Mafalda Costa](Mafalda%20Costa.md)
 - [Mafalda Junqueira](Mafalda%20Junqueira.md)

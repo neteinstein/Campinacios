@@ -9,7 +9,7 @@ Animadores dos Campinácios
 - [Animadores do CSJB](Animadores%20do%20CSJB.md)
 - [Jesuítas](Jesu%C3%ADtas.md)
 
-## Páginas nesta categoria (733)
+## Páginas nesta categoria (735)
 
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Afonso Barrocas](../Pessoas/A/Afonso%20Barrocas.md)
@@ -437,6 +437,7 @@ Animadores dos Campinácios
 - [Madalena Reis](../Pessoas/M/Madalena%20Reis.md)
 - [Madalena Saraiva](../Pessoas/M/Madalena%20Saraiva.md)
 - [Madalena Sena Esteves](../Pessoas/M/Madalena%20Sena%20Esteves.md)
+- [Mafalda Aleixo](../Pessoas/M/Mafalda%20Aleixo.md)
 - [Mafalda Coelho](../Pessoas/M/Mafalda%20Coelho.md)
 - [Mafalda Costa](../Pessoas/M/Mafalda%20Costa.md)
 - [Mafalda Junqueira](../Pessoas/M/Mafalda%20Junqueira.md)
@@ -652,6 +653,7 @@ Animadores dos Campinácios
 - [Rodrigo Calçarão](../Pessoas/R/Rodrigo%20Cal%C3%A7ar%C3%A3o.md)
 - [Rodrigo Queiroz e Melo](../Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md)
 - [Rosa](../Pessoas/R/Rosa.md)
+- [Rosarinho Araújo](../Pessoas/R/Rosarinho%20Ara%C3%BAjo.md)
 - [Rosinha Dias Costa](../Pessoas/R/Rosinha%20Dias%20Costa.md)
 - [Rosário Branco](../Pessoas/R/Ros%C3%A1rio%20Branco.md)
 - [Rui Duarte](../Pessoas/R/Rui%20Duarte.md)

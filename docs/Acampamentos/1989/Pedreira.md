@@ -6,9 +6,9 @@ Este acampamento realizou-se na Quinta da família da [Concha Líbano Monteiro](
 
 - [Director](../../Cargos/Director.md) - [Domingos Freitas](../../Pessoas/D/Domingos%20Freitas.md) sj
 - [Director Adjunto](../../Cargos/Director-Adjunto.md) - [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
-- [Mamã](../../Cargos/Mam%C3%A3.md) - Mafalda Aleixo
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [Mafalda Aleixo](../../Pessoas/M/Mafalda%20Aleixo.md)
 - [Tia](../../Cargos/Tio.md) - [Sandra Rodrigues](../../Pessoas/S/Sandra%20Rodrigues.md)
-- [Animadores](../../Categorias/Animadores.md) - [Carlos Ruiz](../../Pessoas/C/Carlos%20Ruiz.md), [Carlos Lopes](../../Pessoas/C/Carlos%20Lopes.md), [Jorge Nunes](../../Pessoas/J/Jorge%20Nunes.md), [Bernardo Perloiro](../../Pessoas/B/Bernardo%20Perloiro.md), [Filipe Queiroz e Melo](../../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md), [Cristina Cabeça](../../Pessoas/C/Cristina%20Cabe%C3%A7a.md), Rosarinho Araújo e Maria Manuel Martins
+- [Animadores](../../Categorias/Animadores.md) - [Carlos Ruiz](../../Pessoas/C/Carlos%20Ruiz.md), [Carlos Lopes](../../Pessoas/C/Carlos%20Lopes.md), [Jorge Nunes](../../Pessoas/J/Jorge%20Nunes.md), [Bernardo Perloiro](../../Pessoas/B/Bernardo%20Perloiro.md), [Filipe Queiroz e Melo](../../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md), [Cristina Cabeça](../../Pessoas/C/Cristina%20Cabe%C3%A7a.md), [Rosarinho Araújo](../../Pessoas/R/Rosarinho%20Ara%C3%BAjo.md) e Maria Manuel Martins
 
 ## Páginas que ligam para aqui
 
@@ -21,7 +21,9 @@ Este acampamento realizou-se na Quinta da família da [Concha Líbano Monteiro](
 - [Filipe Queiroz e Melo](../../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md)
 - [Jorge Nunes](../../Pessoas/J/Jorge%20Nunes.md)
 - [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
+- [Mafalda Aleixo](../../Pessoas/M/Mafalda%20Aleixo.md)
 - [Ricardo Rodrigues](../../Pessoas/R/Ricardo%20Rodrigues.md)
+- [Rosarinho Araújo](../../Pessoas/R/Rosarinho%20Ara%C3%BAjo.md)
 - [Sandra Rodrigues](../../Pessoas/S/Sandra%20Rodrigues.md)
 
 ---
