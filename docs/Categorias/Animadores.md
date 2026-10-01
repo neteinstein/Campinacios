@@ -9,7 +9,7 @@ Animadores dos Campinácios
 - [Animadores do CSJB](Animadores%20do%20CSJB.md)
 - [Jesuítas](Jesu%C3%ADtas.md)
 
-## Páginas nesta categoria (732)
+## Páginas nesta categoria (733)
 
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Afonso Barrocas](../Pessoas/A/Afonso%20Barrocas.md)
@@ -675,6 +675,7 @@ Animadores dos Campinácios
 - [Sara Ramalho](../Pessoas/S/Sara%20Ramalho.md)
 - [Sara Rita Sampaio](../Pessoas/S/Sara%20Rita%20Sampaio.md)
 - [Sebastião Caldas](../Pessoas/S/Sebasti%C3%A3o%20Caldas.md)
+- [Sebastião Veloso](../Pessoas/S/Sebasti%C3%A3o%20Veloso.md)
 - [Simão Alves da Silva](../Pessoas/S/Sim%C3%A3o%20Alves%20da%20Silva.md)
 - [Sofia Amaral](../Pessoas/S/Sofia%20Amaral.md)
 - [Sofia Azevedo Cardoso](../Pessoas/S/Sofia%20Azevedo%20Cardoso.md)
