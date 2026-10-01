@@ -87,8 +87,6 @@ Tinha ainda um **fórum** (Kunena), que em 2009 tinha 7 utilizadores e 2 mensage
 ## Páginas que ligam para aqui
 
 - [Animador](Animador.md)
-- [Cantinácio: Cânticos](Cantin%C3%A1cio/C%C3%A2nticos.md)
-- [Cantinácio: Estrangeiras](Cantin%C3%A1cio/Estrangeiras.md)
 - [Conteúdos](../Wikin%C3%A1cios/Conte%C3%BAdos.md)
 - [Encontro Nacional de Animadores 2006](../Encontros/Encontro%20Nacional%20de%20Animadores%202006.md)
 - [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)

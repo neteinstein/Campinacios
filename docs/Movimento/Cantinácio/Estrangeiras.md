@@ -6253,8 +6253,6 @@ Ku lezontabah
 Stimela siphum'e South Africa
 ```
 
-Publicada por Filipe Barroso na página da [Revolução Campinácios v2.0](../Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md) a 9 de Agosto de 2010.
-
 ### SINGING IN THE RAIN {#singing-in-the-rain}
 
 *Gene Kelly (Serenata à Chuva)*
