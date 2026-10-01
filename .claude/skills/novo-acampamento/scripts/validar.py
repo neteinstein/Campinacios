@@ -76,6 +76,33 @@ def camp_pages():
     return sorted(p for p in CAMPS.glob('*/*.md') if p.name != 'index.md')
 
 
+EQUIPA = re.compile(r'- \[(Animador(?:es)? (?:Livres?|de Equipa))\]'
+                    r'\(\.\./\.\./Cargos/[^)]*\) - (.*)')
+
+
+def equipa_problems(camp):
+    """Animadores Livres e de Equipa: uma só linha por cargo, com todos."""
+    linhas = {}
+    for line in camp.read_text(encoding='utf-8').splitlines():
+        m = EQUIPA.match(line)
+        if m:
+            cargo = 'Animador Livre' if 'Livre' in m.group(1) else \
+                'Animador de Equipa'
+            linhas.setdefault(cargo, []).append(m.groups())
+    found = []
+    for cargo, itens in linhas.items():
+        plural = {'Animador Livre': 'Animadores Livres',
+                  'Animador de Equipa': 'Animadores de Equipa'}[cargo]
+        if len(itens) > 1:
+            found.append(f'{len(itens)} linhas de "{cargo}": ponha todos '
+                         f'numa só linha "{plural} - A, B e C"')
+        elif itens[0][0] == cargo:
+            nomes = re.sub(r'\[[^\]]*\]\([^)]*\)|\([^)]*\)', 'X', itens[0][1])
+            if re.search(r',| e ', nomes):
+                found.append(f'"{cargo}" tem vários nomes: use "{plural}"')
+    return found
+
+
 def check(camps):
     """Problems per camp (list of strings) and site-wide count problems."""
     cat_text = CATEGORY.read_text(encoding='utf-8')
@@ -118,6 +145,7 @@ def check(camps):
         elif camp not in targets(year_index.read_text(encoding='utf-8'),
                                  year_index):
             found.append(f'não está em {year_index.relative_to(ROOT)}')
+        found += equipa_problems(camp)
         if found:
             problems[camp] = found
     return problems, general

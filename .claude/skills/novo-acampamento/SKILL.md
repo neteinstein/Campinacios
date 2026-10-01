@@ -51,6 +51,17 @@ you are about to make link here, sorted by title), then the footer:
 | [<Escalão>](../../Categorias/<Escalão>.md) |
 ```
 
+**Animadores Livres e Animadores de Equipa** ficam cada um numa **só linha**,
+com todos os nomes da equipa, nunca uma linha por pessoa: o cargo no plural
+("Animadores Livres", "Animadores de Equipa") se forem vários, no singular
+se for só um, e os nomes separados por vírgulas com "e" antes do último
+(`- [Animadores Livres](../../Cargos/Animador%20Livre.md) - A, B e C`). O
+mesmo vale ao acrescentar uma equipa a um campo que já a tem: junta-se à
+linha existente em vez de abrir outra. O validador falha se houver duas
+linhas do mesmo cargo ou o cargo no singular com vários nomes.
+Director, Mamã, Capelão, Tio/Tia e os restantes cargos mantêm uma linha por
+pessoa.
+
 ## 3. List it everywhere
 
 The two lists the validator checks first, because they are what readers
