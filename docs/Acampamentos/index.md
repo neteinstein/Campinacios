@@ -1,5 +1,7 @@
 # Acampamentos
 
+<div class="wk-pesquisa-campos"></div>
+
 ## Acampamentos
 
 A principal actividade dos Campinácios, embora nem de perto a única são os Acampamentos no Verão. Estes começaram a realizar-se em 1989 ainda sem a denominação Campinácios e sem sequer o movimento estar estruturado.
