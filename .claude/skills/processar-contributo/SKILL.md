@@ -70,6 +70,11 @@ maioria crianças.
   Os Animadores Livres e os Animadores de Equipa vão cada um numa só linha,
   com todos os nomes ("Animadores Livres - A, B e C"; no singular se for só
   um): nunca uma linha por pessoa, e junte-os à linha que o campo já tenha.
+  O "Local de campo" (opcional) é o nome do sítio onde se acampou: vai
+  para a página do campo e para a coluna dos Locais de Acampamento da
+  tabela, como manda a regra "Local de campo" da `novo-acampamento`. Se
+  trouxer indicações, coordenadas ou contactos, não os publique — peça-os
+  em privado, como no formulário de Local de Acampamento.
 - **Músicas** (hino, genérico da novela, qualquer letra que venha num
   contributo de campo): nunca ficam na página do campo. Entram em
   `docs/Movimento/Cantinácio/Campinácios.md` — no `## Índice`, por ordem
