@@ -5,12 +5,24 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Nuno Mesquita](../../Pessoas/N/Nuno%20Mesquita.md)
-- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Sara Rita Sampaio](../../Pessoas/S/Sara%20Rita%20Sampaio.md)
+- [Mamã](../../Cargos/Mam%C3%A3.md) - Ana Catarina Gil
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [João Miguel Rodrigues](../../Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md)
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Francisco Cortez](../../Pessoas/F/Francisco%20Cort%C3%AAs%20Ferreira.md) sj
+- [Tia](../../Cargos/Tio.md) - [Carolina Oliveira](../../Pessoas/C/Carolina%20Oliveira.md)
+- [Tio](../../Cargos/Tio.md) - Frederico Moraes Sarmento
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Sara Rita Sampaio](../../Pessoas/S/Sara%20Rita%20Sampaio.md), [Paulo Gonçalves](../../Pessoas/P/Paulo%20Gon%C3%A7alves.md), Tiago Silva e [Pedro Dias](../../Pessoas/P/Pedro%20Dias.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Maria Inês Andrade, Francisca Coutinho, Catarina Silva, [Anita Couto](../../Pessoas/A/Anita%20Couto.md), Carolina Simões (Pipoca) e Gonçalo Silva
 
 ## Páginas que ligam para aqui
 
+- [Anita Couto](../../Pessoas/A/Anita%20Couto.md)
+- [Carolina Oliveira](../../Pessoas/C/Carolina%20Oliveira.md)
 - [Daniela Gonçalves](../../Pessoas/D/Daniela%20Gon%C3%A7alves.md)
+- [Francisco Cortês Ferreira](../../Pessoas/F/Francisco%20Cort%C3%AAs%20Ferreira.md)
+- [João Miguel Rodrigues](../../Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md)
 - [Nuno Mesquita](../../Pessoas/N/Nuno%20Mesquita.md)
+- [Paulo Gonçalves](../../Pessoas/P/Paulo%20Gon%C3%A7alves.md)
+- [Pedro Dias](../../Pessoas/P/Pedro%20Dias.md)
 - [Sara Rita Sampaio](../../Pessoas/S/Sara%20Rita%20Sampaio.md)
 
 ---

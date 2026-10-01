@@ -10,6 +10,7 @@
 
 ## Páginas que ligam para aqui
 
+- [A Ir e Falta o S](../Acampamentos/2018/A%20Ir%20e%20Falta%20o%20S.md)
 - [Academia](../Acampamentos/2005/Academia.md)
 - [Agroal](../Acampamentos/1992/Agroal.md)
 - [Alfa](../Acampamentos/1990/Alfa.md)
@@ -49,6 +50,7 @@
 - [Carla Resende](../Pessoas/C/Carla%20Resende.md)
 - [Carlos Rodrigues](../Pessoas/C/Carlos%20Rodrigues.md)
 - [Caroço](../Acampamentos/1999/Caro%C3%A7o.md)
+- [Carolina Oliveira](../Pessoas/C/Carolina%20Oliveira.md)
 - [Casca de Banana](../Acampamentos/2005/Casca%20de%20Banana.md)
 - [Cinena](../Acampamentos/2001/Cinena.md)
 - [Cláudia Coelho](../Pessoas/C/Cl%C3%A1udia%20Coelho.md)
