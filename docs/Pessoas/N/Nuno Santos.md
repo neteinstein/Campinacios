@@ -12,11 +12,6 @@
     - 2010 [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
     - 2013 [Realiza](../../Acampamentos/2013/Realiza.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
-## Páginas que ligam para aqui
-
-- [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
-- [Realiza](../../Acampamentos/2013/Realiza.md)
-
 ---
 
 | Categorias |

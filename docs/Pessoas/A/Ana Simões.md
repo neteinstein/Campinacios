@@ -31,16 +31,6 @@ Ana Simões é, desde 2004, um dos animadores do Colégio da Imaculada Conceiç�
 
 É irmã da [Rita Simões](../R/Rita%20Sim%C3%B5es.md).
 
-## Páginas que ligam para aqui
-
-- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
-- [Gaivota](../../Acampamentos/2005/Gaivota.md)
-- [OPA](../../Acampamentos/2007/OPA.md)
-- [Rita Simões](../R/Rita%20Sim%C3%B5es.md)
-- [TSI](../../Acampamentos/2008/TSI.md)
-- [Vi-O](../../Acampamentos/2009/Vi-O.md)
-- [Walkabout](../../Acampamentos/2010/Walkabout.md)
-
 ---
 
 | Categorias |

@@ -15,10 +15,6 @@
 
 É irmão gémeo do [Luís Borges](../L/Lu%C3%ADs%20Borges.md).
 
-## Páginas que ligam para aqui
-
-- [Luís Borges](../L/Lu%C3%ADs%20Borges.md)
-
 ---
 
 | Categorias |

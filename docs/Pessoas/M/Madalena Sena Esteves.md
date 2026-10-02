@@ -13,10 +13,6 @@ Madalena Sena Esteves é antiga aluna do Colégio S. João de Brito, é animador
 - **Animadora:**
     - 2012 [Clávis](../../Acampamentos/2012/Cl%C3%A1vis.md)
 
-## Páginas que ligam para aqui
-
-- [Clávis](../../Acampamentos/2012/Cl%C3%A1vis.md)
-
 ---
 
 | Categorias |

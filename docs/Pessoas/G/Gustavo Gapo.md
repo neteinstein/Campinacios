@@ -16,14 +16,6 @@ Gustavo Gapo foi um dos animadores do Colégio da Imaculada Conceição.
     - 1995 [Campo Ibérico](../../Acampamentos/1995/Campo%20Ib%C3%A9rico.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 1996 [Fibrovital](../../Acampamentos/1996/Fibrovital.md) - [Director](../../Cargos/Director.md)
 
-## Páginas que ligam para aqui
-
-- [Agroal](../../Acampamentos/1992/Agroal.md)
-- [Caldiclos](../../Acampamentos/1994/Caldiclos.md)
-- [Campo Ibérico](../../Acampamentos/1995/Campo%20Ib%C3%A9rico.md)
-- [Fibrovital](../../Acampamentos/1996/Fibrovital.md)
-- [Rebordosa](../../Acampamentos/1993/Rebordosa.md)
-
 ---
 
 | Categorias |

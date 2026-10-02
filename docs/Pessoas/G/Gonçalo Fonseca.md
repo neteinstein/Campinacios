@@ -5,10 +5,6 @@
 - **Animador**
     - 2009 [Lembras-te?](../../Acampamentos/2009/Lembras-te.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
-## Páginas que ligam para aqui
-
-- [Lembras-te?](../../Acampamentos/2009/Lembras-te.md)
-
 ---
 
 | Categorias |

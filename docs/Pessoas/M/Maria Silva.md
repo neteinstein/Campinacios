@@ -20,15 +20,6 @@
 
 - 2023 [Encontro Nacional 2023](../../Encontros/Encontro%20Nacional%202023.md) - Direcção de Trotinetas
 
-## Páginas que ligam para aqui
-
-- [Encontro Nacional 2023](../../Encontros/Encontro%20Nacional%202023.md)
-- [Level Up](../../Acampamentos/2022/Level%20Up.md)
-- [Mangueira Nice](../../Acampamentos/2025/Mangueira%20Nice.md)
-- [Perc'Urso](../../Acampamentos/2023/Perc%27Urso.md)
-- [Sande Help](../../Acampamentos/2026/Sande%20Help.md)
-- [À Mesa](../../Acampamentos/2024/%C3%80%20Mesa.md)
-
 ---
 
 **Outros nomes:** Malú

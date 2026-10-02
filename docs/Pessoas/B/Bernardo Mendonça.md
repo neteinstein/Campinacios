@@ -16,16 +16,6 @@
     - 2006 [Nómada](../../Acampamentos/2006/N%C3%B3mada.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2011 [Ara](../../Acampamentos/2011/Ara.md)
 
-## Páginas que ligam para aqui
-
-- [Ara](../../Acampamentos/2011/Ara.md)
-- [Farol](../../Acampamentos/2003/Farol.md)
-- [Fófinhos](../../Acampamentos/2005/F%C3%B3finhos.md)
-- [Jangada](../../Acampamentos/2002/Jangada.md)
-- [Nómada](../../Acampamentos/2006/N%C3%B3mada.md)
-- [Ídolo](../../Acampamentos/2004/%C3%8Ddolo.md)
-- [Rajada](../../Acampamentos/2001/Rajada.md)
-
 ---
 
 | Categorias |

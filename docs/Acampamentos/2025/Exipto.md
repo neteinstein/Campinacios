@@ -13,16 +13,6 @@
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Carvalho](../../Pessoas/C/Carlos%20Carvalho.md) sj
 - [Animadores](../../Categorias/Animadores.md) - [Francisco Dioniz Barroso Loureiro](../../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
 
-## Páginas que ligam para aqui
-
-- [Carlos Carvalho](../../Pessoas/C/Carlos%20Carvalho.md)
-- [Francisco Dioniz Barroso Loureiro](../../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
-- [Henrique Cardoso](../../Pessoas/H/Henrique%20Cardoso.md)
-- [Jaime Lucas Pires](../../Pessoas/J/Jaime%20Lucas%20Pires.md)
-- [Johnny Sousa](../../Pessoas/J/Johnny%20Sousa.md)
-- [Leonor Simões](../../Pessoas/L/Leonor%20Sim%C3%B5es.md)
-- [Manuel Cardoso](../../Pessoas/M/Manuel%20Cardoso.md)
-
 ---
 
 | Categorias |

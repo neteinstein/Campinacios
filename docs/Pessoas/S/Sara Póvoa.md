@@ -14,13 +14,6 @@ Sara Póvoa é desde 2005, uma das animadoras do Colégio da Imaculada Conceiç�
     - 2007 [M&M](../../Acampamentos/2007/M%26M.md) - [Tia](../../Cargos/Tio.md)
     - 2008 [OrienTu](../../Acampamentos/2008/OrienTu.md) - [Tia](../../Cargos/Tio.md)
 
-## Páginas que ligam para aqui
-
-- [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
-- [Em Busca da CaraBela](../../Acampamentos/2006/Em%20Busca%20da%20CaraBela.md)
-- [M&M](../../Acampamentos/2007/M%26M.md)
-- [OrienTu](../../Acampamentos/2008/OrienTu.md)
-
 ---
 
 | Categorias |

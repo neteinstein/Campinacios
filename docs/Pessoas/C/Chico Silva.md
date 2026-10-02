@@ -12,13 +12,6 @@
 
 - 2023 [Encontro Nacional 2023](../../Encontros/Encontro%20Nacional%202023.md) - Direcção de Triciclos
 
-## Páginas que ligam para aqui
-
-- [Com Capricho](../../Acampamentos/2024/Com%20Capricho.md)
-- [Encontro Nacional 2023](../../Encontros/Encontro%20Nacional%202023.md)
-- [Foca-te](../../Acampamentos/2022/Foca-te.md)
-- [Francisco Silva](../../Movimento/Desambigua%C3%A7%C3%A3o/Francisco%20Silva.md)
-
 ---
 
 | Categorias |

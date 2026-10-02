@@ -6,10 +6,6 @@
 
 - [Director](../../Cargos/Director.md) - [Pedro Caetano](../../Pessoas/P/Pedro%20Caetano.md)
 
-## Páginas que ligam para aqui
-
-- [Pedro Caetano](../../Pessoas/P/Pedro%20Caetano.md)
-
 ---
 
 | Categorias |

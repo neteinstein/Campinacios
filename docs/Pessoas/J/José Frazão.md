@@ -19,20 +19,6 @@
     - 2005 [Terra do Nunca](../../Acampamentos/2005/Terra%20do%20Nunca.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2006 [XS](../../Acampamentos/2006/XS.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
-## Páginas que ligam para aqui
-
-- [Casca de Banana](../../Acampamentos/2005/Casca%20de%20Banana.md)
-- [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md)
-- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
-- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
-- [Graal I](../../Acampamentos/2002/Graal%20I.md)
-- [Graal II](../../Acampamentos/2003/Graal%20II.md)
-- [Liberata](../../Acampamentos/2000/Liberata.md)
-- [Pontes](../../Acampamentos/2001/Pontes.md)
-- [Terra do Nunca](../../Acampamentos/2005/Terra%20do%20Nunca.md)
-- [Trolliciclos](../../Acampamentos/2004/Trolliciclos.md)
-- [XS](../../Acampamentos/2006/XS.md)
-
 ---
 
 **Outros nomes:** José Correia Frazão · Zé Frazão

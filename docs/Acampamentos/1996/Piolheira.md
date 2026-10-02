@@ -7,7 +7,7 @@
 - [Luís Godinho](../../Pessoas/L/Lu%C3%ADs%20Godinho.md)
 - [Maria Cristina Sousa Costa](../../Pessoas/M/Maria%20Cristina%20Sousa%20Costa.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
 - [Luís Godinho](../../Pessoas/L/Lu%C3%ADs%20Godinho.md)
 - [Maria Cristina Sousa Costa](../../Pessoas/M/Maria%20Cristina%20Sousa%20Costa.md)

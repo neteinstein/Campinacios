@@ -16,15 +16,6 @@
     - 2011 [Olha, Isto Aqui é uma Estátua](../../Acampamentos/2011/Olha%2C%20Isto%20Aqui%20%C3%A9%20uma%20Est%C3%A1tua.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2014 [Sentido](../../Acampamentos/2014/Sentido.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
-## Páginas que ligam para aqui
-
-- [Arethë](../../Acampamentos/2008/Areth%C3%AB.md)
-- [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
-- [Olha, Isto Aqui é uma Estátua](../../Acampamentos/2011/Olha%2C%20Isto%20Aqui%20%C3%A9%20uma%20Est%C3%A1tua.md)
-- [OPA](../../Acampamentos/2007/OPA.md)
-- [Sentido](../../Acampamentos/2014/Sentido.md)
-- [Vi-O](../../Acampamentos/2009/Vi-O.md)
-
 ---
 
 **Outros nomes:** Mário Pedro

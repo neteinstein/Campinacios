@@ -5,8 +5,3 @@ Não fez campos de férias, mas contribuiu com a primeira página dos Campináci
 ### Online
 
 - [joaocorreia.com](https://www.joaocorreia.com/)
-
-## Páginas que ligam para aqui
-
-- [Diogo Costa](../D/Diogo%20Costa.md)
-- [Online](../../Movimento/Online.md)

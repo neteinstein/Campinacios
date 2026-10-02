@@ -21,11 +21,6 @@ Francisco Carvalho é desde 2008 um dos animadores do Colégio São João de Bri
 
 É irmão de [Leonardo Carvalho](../L/Leonardo%20Carvalho.md)
 
-## Páginas que ligam para aqui
-
-- [Incrível](../../Acampamentos/2009/Incr%C3%ADvel.md)
-- [Leonardo Carvalho](../L/Leonardo%20Carvalho.md)
-
 ---
 
 | Categorias |

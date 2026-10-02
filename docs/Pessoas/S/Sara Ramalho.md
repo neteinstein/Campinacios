@@ -5,10 +5,6 @@
 - **Animadora:**
     - 2003 [Cabala](../../Acampamentos/2003/Cabala.md) - [Tia](../../Cargos/Tio.md)
 
-## Páginas que ligam para aqui
-
-- [Cabala](../../Acampamentos/2003/Cabala.md)
-
 ---
 
 | Categorias |

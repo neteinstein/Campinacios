@@ -5,10 +5,6 @@
 - **Animador(a):**
     - 2024 [Com Capricho](../../Acampamentos/2024/Com%20Capricho.md) - [Director](../../Cargos/Director.md)
 
-## Páginas que ligam para aqui
-
-- [Com Capricho](../../Acampamentos/2024/Com%20Capricho.md)
-
 ---
 
 | Categorias |

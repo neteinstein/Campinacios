@@ -21,16 +21,6 @@
 
 É irmã da [Rita Salgado](../R/Rita%20Salgado.md).
 
-## Páginas que ligam para aqui
-
-- [Baúmerang](../../Acampamentos/2007/Ba%C3%BAmerang.md)
-- [Gaivota](../../Acampamentos/2005/Gaivota.md)
-- [Jangada](../../Acampamentos/2002/Jangada.md)
-- [Nómada](../../Acampamentos/2006/N%C3%B3mada.md)
-- [Rita Salgado](../R/Rita%20Salgado.md)
-- [Tira as rodinhas](../../Acampamentos/2009/Tira%20as%20rodinhas.md)
-- [TufarfarAway](../../Acampamentos/2008/TufarfarAway.md)
-
 ---
 
 | Categorias |

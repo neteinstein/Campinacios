@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1257 artigos e, em itálico, os 197 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1258 artigos e, em itálico, os 199 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -231,11 +231,13 @@
 - [Cândida Azevedo](Pessoas/C/C%C3%A2ndida%20Azevedo.md)
 - [Canja](Acampamentos/1998/Canja.md)
 - [Cantinácio](Movimento/Cantin%C3%A1cio.md)
+- [Cantinácio: Aplausos](Movimento/Cantin%C3%A1cio/Aplausos.md)
 - [Cantinácio: Campinácios](Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md)
 - [Cantinácio: Camtil](Movimento/Cantin%C3%A1cio/Camtil.md)
 - [Cantinácio: Cânticos](Movimento/Cantin%C3%A1cio/C%C3%A2nticos.md)
 - [Cantinácio: Escalas](Movimento/Cantin%C3%A1cio/Escalas.md)
 - [Cantinácio: Estrangeiras](Movimento/Cantin%C3%A1cio/Estrangeiras.md)
+- [Cantinácio: Manual de Instruções](Movimento/Cantin%C3%A1cio/Manual%20de%20Instru%C3%A7%C3%B5es.md)
 - [Cantinácio: Portuguesas](Movimento/Cantin%C3%A1cio/Portuguesas.md)
 - *Capelães* → [Capelão](Cargos/Capel%C3%A3o.md)
 - [Capelão](Cargos/Capel%C3%A3o.md)
@@ -549,7 +551,7 @@
 - [Francisco Penetra](Pessoas/F/Francisco%20Penetra.md)
 - [Francisco Rodrigues](Movimento/Desambigua%C3%A7%C3%A3o/Francisco%20Rodrigues.md)
 - [Francisco Rodrigues (CAIC)](Pessoas/F/Francisco%20Rodrigues%20%28CAIC%29.md)
-- [Francisco Rodrigues (Pica)](Pessoas/F/Francisco%20Rodrigues%20%28Pica%29.md)
+- *Francisco Rodrigues (Pica)* → [Francisco Silva Rodrigues](Pessoas/F/Francisco%20Silva%20Rodrigues.md)
 - [Francisco Seabra](Pessoas/F/Francisco%20Seabra.md)
 - [Francisco Silva](Movimento/Desambigua%C3%A7%C3%A3o/Francisco%20Silva.md)
 - [Francisco Silva (1995)](Pessoas/F/Francisco%20Silva%20%281995%29.md)
@@ -568,6 +570,7 @@
 - [GANZA](Acampamentos/1997/GANZA.md)
 - *Genesis* → [Génesis 2003 d.C.](Acampamentos/2003/G%C3%A9nesis%202003%20d.C..md)
 - [Gonçalo Aguiar](Pessoas/G/Gon%C3%A7alo%20Aguiar.md)
+- [Gonçalo Costa](Pessoas/G/Gon%C3%A7alo%20Costa.md)
 - [Gonçalo Forte Vaz](Pessoas/G/Gon%C3%A7alo%20Forte%20Vaz.md)
 - [Gonçalo Machado](Pessoas/G/Gon%C3%A7alo%20Machado.md)
 - *Genito* → [José Eugénio Lopes](Pessoas/J/Jos%C3%A9%20Eug%C3%A9nio%20Lopes.md)
@@ -1475,6 +1478,7 @@
 - [Vânia Carvalho](Pessoas/V/V%C3%A2nia%20Carvalho.md)
 - [Vera Cunha](Pessoas/V/Vera%20Cunha.md)
 - [Vera Eiró](Pessoas/V/Vera%20Eir%C3%B3.md)
+- [Vera Pina](Pessoas/V/Vera%20Pina.md)
 - [Verim](Acampamentos/1992/Verim.md)
 - [Verim (Braga)](Restrito/Locais%20de%20Acampamento/Verim%20%28Braga%29.md) 🔒
 - [Vesp'á Luz](Acampamentos/2021/Vesp%27%C3%A1%20Luz.md)
@@ -1528,6 +1532,7 @@
 - *Zé Lopes* → [José Manuel Lopes](Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md)
 - *Zé Tó* → [José António Lima](Pessoas/J/Jos%C3%A9%20Ant%C3%B3nio%20Lima.md)
 - [Zeca Lima](Pessoas/Z/Zeca%20Lima.md)
+- *Zédes* → [Zé Guedes](Pessoas/Z/Z%C3%A9%20Guedes.md)
 - [Zélia Ferreira](Pessoas/Z/Z%C3%A9lia%20Ferreira.md)
 - [Zimbora Lá para fora](Acampamentos/2018/Zimbora%20L%C3%A1%20para%20fora.md)
 

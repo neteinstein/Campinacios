@@ -14,12 +14,6 @@
 
 É irmão da [Ana Pinto da Costa](../A/Ana%20Pinto%20da%20Costa.md).
 
-## Páginas que ligam para aqui
-
-- [Ana Pinto da Costa](../A/Ana%20Pinto%20da%20Costa.md)
-- [TSI](../../Acampamentos/2008/TSI.md)
-- [Talithá Kum](../../Acampamentos/2009/Talith%C3%A1%20Kum.md)
-
 ---
 
 | Categorias |

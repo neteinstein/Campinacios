@@ -6,10 +6,6 @@
 
 - [Director](../../Cargos/Director.md) - [Renato Costa](../../Pessoas/R/Renato%20Costa.md)
 
-## Páginas que ligam para aqui
-
-- [Renato Costa](../../Pessoas/R/Renato%20Costa.md)
-
 ---
 
 | Categorias |

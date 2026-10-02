@@ -9,13 +9,6 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Heitor Rosa](../../Pessoas/H/Heitor%20Rosa.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Afonso Espregueira](../../Pessoas/A/Afonso%20Espregueira.md) sj
 
-## Páginas que ligam para aqui
-
-- [Afonso Espregueira](../../Pessoas/A/Afonso%20Espregueira.md)
-- [Concha Sampaio Soares](../../Pessoas/C/Concha%20Sampaio%20Soares.md)
-- [Heitor Rosa](../../Pessoas/H/Heitor%20Rosa.md)
-- [Jaime Lucas Pires](../../Pessoas/J/Jaime%20Lucas%20Pires.md)
-
 ---
 
 | Categorias |

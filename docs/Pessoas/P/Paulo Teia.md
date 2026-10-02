@@ -11,10 +11,6 @@
 - **Animador**
     - 1997 [Aranha](../../Acampamentos/1997/Aranha.md) - [Director](../../Cargos/Director.md)
 
-## Páginas que ligam para aqui
-
-- [Aranha](../../Acampamentos/1997/Aranha.md)
-
 ---
 
 | Categorias |

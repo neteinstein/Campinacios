@@ -26,19 +26,6 @@
 
 É irmã da [Ana Paula Sampaio](../A/Ana%20Paula%20Sampaio.md).
 
-## Páginas que ligam para aqui
-
-- [A Ir e Falta o S](../../Acampamentos/2018/A%20Ir%20e%20Falta%20o%20S.md)
-- [Ana Paula Sampaio](../A/Ana%20Paula%20Sampaio.md)
-- [Camp & Nácios, S.A](../../Acampamentos/2013/Camp%20%26%20N%C3%A1cios%2C%20S.A.md)
-- [Clávis](../../Acampamentos/2012/Cl%C3%A1vis.md)
-- [Mostra Garra](../../Acampamentos/2016/Mostra%20Garra.md)
-- [Pescanova](../../Acampamentos/2011/Pescanova.md)
-- [Sentido](../../Acampamentos/2014/Sentido.md)
-- [Supera-te](../../Acampamentos/2017/Supera-te.md)
-- [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md)
-- [Take PaGod](../../Acampamentos/2015/Take%20PaGod.md)
-
 ---
 
 | Categorias |

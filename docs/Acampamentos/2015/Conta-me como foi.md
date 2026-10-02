@@ -7,11 +7,10 @@
 - [Director](../../Cargos/Director.md) - [Joana Matos](../../Pessoas/J/Joana%20Matos.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Carvalho](../../Pessoas/C/Carlos%20Carvalho.md) sj
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [Carlos Carvalho](../../Pessoas/C/Carlos%20Carvalho.md)
-- [Joana Matos](../../Pessoas/J/Joana%20Matos.md)
 - [Leonor Banha da Silva](../../Pessoas/L/Leonor%20Banha%20da%20Silva.md)
+- [Nuno Ferreira](../../Pessoas/N/Nuno%20Ferreira.md)
 
 ---
 

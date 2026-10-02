@@ -10,20 +10,12 @@ O Caldelas foi um acampamento de Triciclos que se realizou em [Fonte de Nena](..
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - [Perrú](../../Pessoas/P/Pedro%20Rocha%20Mendes.md) sj
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [José Luís Fernandes](../../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Fernandes.md), [Francisco Maria](../../Pessoas/F/Francisco%20Maria.md) (Chico Maria), [Constança Cordeiro Ferreira](../../Pessoas/C/Constan%C3%A7a%20Pereira%20da%20Silva.md), [Ricardo Rodrigues](../../Pessoas/R/Ricardo%20Rodrigues.md) e [Rita Maria Fernandes](../../Pessoas/R/Rita%20Maria%20Fernandes.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [Abel Bandeira](../../Pessoas/A/Abel%20Bandeira.md)
 - [Cecília Mendonça](../../Pessoas/C/Cec%C3%ADlia%20Mendon%C3%A7a.md)
-- [Constança Pereira da Silva](../../Pessoas/C/Constan%C3%A7a%20Pereira%20da%20Silva.md)
-- [Francisco Maria](../../Pessoas/F/Francisco%20Maria.md)
 - [Inês Patrício](../../Pessoas/I/In%C3%AAs%20Patr%C3%ADcio.md)
 - [Jacinto Bezerra](../../Pessoas/J/Jacinto%20Bezerra.md)
-- [José Luís Fernandes](../../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Fernandes.md)
 - [Mariana Cardoso](../../Pessoas/M/Mariana%20Cardoso.md)
-- [Pedro Rebordão](../../Pessoas/P/Pedro%20Rebord%C3%A3o.md)
-- [Pedro Rocha Mendes](../../Pessoas/P/Pedro%20Rocha%20Mendes.md)
-- [Ricardo Rodrigues](../../Pessoas/R/Ricardo%20Rodrigues.md)
-- [Rita Maria Fernandes](../../Pessoas/R/Rita%20Maria%20Fernandes.md)
 
 ---
 

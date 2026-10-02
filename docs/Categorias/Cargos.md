@@ -12,7 +12,3 @@ Cargos existentes num acampamento de Campinácios
 - [Director-Adjunto](../Cargos/Director-Adjunto.md)
 - [Mamã](../Cargos/Mam%C3%A3.md)
 - [Tio](../Cargos/Tio.md)
-
-## Páginas que ligam para aqui
-
-- [Vocabulário](../Movimento/Vocabul%C3%A1rio.md)

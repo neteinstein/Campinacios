@@ -21,19 +21,6 @@ Domingos Freitas sj foi um dos fundadores do movimento. Esteve presente nos prim
     - 1998 [Além](../../Acampamentos/1998/Al%C3%A9m.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 1999 [Hakaros](../../Acampamentos/1999/Hakaros.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
-## Páginas que ligam para aqui
-
-- [Agroal](../../Acampamentos/1992/Agroal.md)
-- [Além](../../Acampamentos/1998/Al%C3%A9m.md)
-- [Alfa](../../Acampamentos/1990/Alfa.md)
-- [Caldiclos](../../Acampamentos/1994/Caldiclos.md)
-- [Campinácios](../../Movimento/Campin%C3%A1cios.md)
-- [Ferrugenta](../../Acampamentos/1989/Ferrugenta.md)
-- [Hakaros](../../Acampamentos/1999/Hakaros.md)
-- [Loyola](../../Acampamentos/1991/Loyola.md)
-- [Manual de Funções](../../Movimento/Manual%20de%20Fun%C3%A7%C3%B5es.md)
-- [Pedreira](../../Acampamentos/1989/Pedreira.md)
-
 ---
 
 | Categorias |

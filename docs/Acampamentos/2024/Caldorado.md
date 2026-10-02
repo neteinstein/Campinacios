@@ -10,14 +10,6 @@
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Carvalho](../../Pessoas/C/Carlos%20Carvalho.md) sj
 - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Francisco Dioniz Barroso Loureiro](../../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
 
-## Páginas que ligam para aqui
-
-- [Carlos Carvalho](../../Pessoas/C/Carlos%20Carvalho.md)
-- [Carminho Simões de Almeida](../../Pessoas/C/Carminho%20Sim%C3%B5es%20de%20Almeida.md)
-- [Fernando Monteiro](../../Pessoas/F/Fernando%20Monteiro.md)
-- [Francisco Dioniz Barroso Loureiro](../../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
-- [Jaime Lucas Pires](../../Pessoas/J/Jaime%20Lucas%20Pires.md)
-
 ---
 
 | Categorias |

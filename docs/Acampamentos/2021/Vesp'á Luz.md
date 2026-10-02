@@ -9,13 +9,6 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Rosa](../../Pessoas/R/Rosa.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Missé](../../Pessoas/M/Miguel%20Melo.md) sj
 
-## Páginas que ligam para aqui
-
-- [Francisco Seabra](../../Pessoas/F/Francisco%20Seabra.md)
-- [Madalena Ramalho](../../Pessoas/M/Madalena%20Ramalho.md)
-- [Miguel Melo](../../Pessoas/M/Miguel%20Melo.md)
-- [Rosa](../../Pessoas/R/Rosa.md)
-
 ---
 
 | Categorias |

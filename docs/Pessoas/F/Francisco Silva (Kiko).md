@@ -16,13 +16,6 @@ Francisco Goiana Godinho da Silva, nascido a 15 de Abril de 1989, mais conhecido
     - 2008 [Bike Just Do It](../../Acampamentos/2008/Bike%20Just%20Do%20It.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2009 [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
-## Páginas que ligam para aqui
-
-- [Bike Just Do It](../../Acampamentos/2008/Bike%20Just%20Do%20It.md)
-- [Francisco Almeida (Kiko)](../F/Francisco%20Almeida%20%28Kiko%29.md)
-- [Francisco Silva](../../Movimento/Desambigua%C3%A7%C3%A3o/Francisco%20Silva.md)
-- [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md)
-
 ---
 
 **Outros nomes:** Kiko

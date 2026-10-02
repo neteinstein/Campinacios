@@ -20,17 +20,6 @@
     - 2008 [OrienTu](../../Acampamentos/2008/OrienTu.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2008 [Era Uma Vez...](../../Acampamentos/2008/Era%20Uma%20Vez....md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
 
-## Páginas que ligam para aqui
-
-- [Bora Bora](../../Acampamentos/2007/Bora%20Bora.md)
-- [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
-- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
-- [Era Uma Vez...](../../Acampamentos/2008/Era%20Uma%20Vez....md)
-- [Nómada](../../Acampamentos/2006/N%C3%B3mada.md)
-- [OrienTu](../../Acampamentos/2008/OrienTu.md)
-- [Terra do Nunca](../../Acampamentos/2005/Terra%20do%20Nunca.md)
-- [XS](../../Acampamentos/2006/XS.md)
-
 ---
 
 | Categorias |

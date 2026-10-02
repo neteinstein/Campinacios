@@ -19,13 +19,6 @@ Irina Manuel Sousa Ramos, nascida a 28 de Setembro de 1981, é animadora do CC.
 
 É irmã da [Soraia Ramos](../S/Soraia%20Ramos.md).
 
-## Páginas que ligam para aqui
-
-- [Cometa](../../Acampamentos/2000/Cometa.md)
-- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
-- [Piripetroporco](../../Acampamentos/2002/Piripetroporco.md)
-- [Soraia Ramos](../S/Soraia%20Ramos.md)
-
 ---
 
 | Categorias |

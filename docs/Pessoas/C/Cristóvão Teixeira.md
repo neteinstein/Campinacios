@@ -17,10 +17,6 @@
 
 É irmão gémeo do [Fábio Teixeira](../F/F%C3%A1bio%20Teixeira.md)
 
-## Páginas que ligam para aqui
-
-- [Fábio Teixeira](../F/F%C3%A1bio%20Teixeira.md)
-
 ---
 
 **Outros nomes:** Cristovão Teixeira · Kitó

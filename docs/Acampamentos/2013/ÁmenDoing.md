@@ -6,10 +6,6 @@
 
 - [Director](../../Cargos/Director.md) - [Sofia Pinelas](../../Pessoas/A/Ana%20Sofia%20Pinelas.md)
 
-## Páginas que ligam para aqui
-
-- [Ana Sofia Pinelas](../../Pessoas/A/Ana%20Sofia%20Pinelas.md)
-
 ---
 
 | Categorias |

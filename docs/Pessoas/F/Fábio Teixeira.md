@@ -17,10 +17,6 @@
 
 É irmão gémeo do [Cristóvão Teixeira](../C/Crist%C3%B3v%C3%A3o%20Teixeira.md)
 
-## Páginas que ligam para aqui
-
-- [Cristóvão Teixeira](../C/Crist%C3%B3v%C3%A3o%20Teixeira.md)
-
 ---
 
 | Categorias |

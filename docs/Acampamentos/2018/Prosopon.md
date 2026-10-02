@@ -7,10 +7,9 @@
 - [Director](../../Cargos/Director.md) - [Renato Lobo](../../Pessoas/R/Renato%20Lobo.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - Carlos Carvalho sj
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [Renato Lobo](../../Pessoas/R/Renato%20Lobo.md)
-- [Vicente Goes](../../Pessoas/V/Vicente%20Goes.md)
+- [Nuno Ferreira](../../Pessoas/N/Nuno%20Ferreira.md)
 
 ---
 

@@ -8,12 +8,6 @@ O Encontro Nacional de Animadores de 2025 realizou-se no Colégio das Caldinhas,
 - **Mamã**: [Beatriz Picciochi](../Pessoas/B/Beatriz%20Picciochi.md) (Bea Picci)
 - **Director-Adjunto**: [André Vale](../Pessoas/A/Andr%C3%A9%20Vale.md)
 
-## Páginas que ligam para aqui
-
-- [André Vale](../Pessoas/A/Andr%C3%A9%20Vale.md)
-- [Beatriz Picciochi](../Pessoas/B/Beatriz%20Picciochi.md)
-- [Lourenço Barjona](../Pessoas/L/Louren%C3%A7o%20Barjona.md)
-
 ---
 
 | Categorias |

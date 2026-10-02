@@ -6,11 +6,10 @@ Acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que decorreu em [Por
 
 - [Director](../../Cargos/Director.md) - [Rodrigo Queiroz e Melo](../../Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
 - [Margarida Rodrigues](../../Pessoas/M/Margarida%20Rodrigues.md)
 - [Ricardo Rodrigues](../../Pessoas/R/Ricardo%20Rodrigues.md)
-- [Rodrigo Queiroz e Melo](../../Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md)
 
 ---
 

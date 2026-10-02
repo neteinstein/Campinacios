@@ -7,11 +7,6 @@
 - [Director](../../Cargos/Director.md) - [Pedro Pinto](../../Pessoas/P/Pedro%20Pinto.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Francisco Mota](../../Pessoas/F/Francisco%20Mota.md) sj
 
-## Páginas que ligam para aqui
-
-- [Francisco Mota](../../Pessoas/F/Francisco%20Mota.md)
-- [Pedro Pinto](../../Pessoas/P/Pedro%20Pinto.md)
-
 ---
 
 | Categorias |

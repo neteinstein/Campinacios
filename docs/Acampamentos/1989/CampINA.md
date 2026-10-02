@@ -6,10 +6,6 @@ Este acampamento foi um dos que deu início ao movimento, na altura ainda sem a 
 
 - [Director](../../Cargos/Director.md) - [José Murteira](../../Pessoas/J/Jos%C3%A9%20Murteira.md) sj
 
-## Páginas que ligam para aqui
-
-- [José Murteira](../../Pessoas/J/Jos%C3%A9%20Murteira.md)
-
 ---
 
 | Categorias |

@@ -15,13 +15,3 @@ A história do colégio começa em 1912, na Bélgica, onde iniciou actividade co
 Primeiro como internato de rapazes, foi abrindo as suas portas aos alunos e alunas da região, tornando-se uma referência no ensino e no desenvolvimento dos concelhos vizinhos. Nos finais da década de 70 e inícios da década de 80 do século passado, começaram a abrir as escolas de ensino profissional, em várias áreas, e a escola infantil, que diversificaram a oferta educativa que hoje caracteriza esta instituição.
 
 Como projecto educativo da Companhia de Jesus, com uma tradição secular no ensino, o Colégio das Caldinhas promove, para todos os seus alunos, um estilo de ensino que reflecte sobre a experiência e actualiza as suas práticas educativas, tornando mais evidente a força didáctica da pedagogia inaciana e o compromisso com a educação integral de todas as dimensões da pessoa.
-
-## Páginas que ligam para aqui
-
-- [Ana Paula Gomes](../Pessoas/A/Ana%20Paula%20Gomes.md)
-- [Caderno da Mamã](Caderno%20da%20Mam%C3%A3.md)
-- [Campinácios](Campin%C3%A1cios.md)
-- [Encontro Nacional 2005](../Encontros/Encontro%20Nacional%202005.md)
-- [Manual de Funções](Manual%20de%20Fun%C3%A7%C3%B5es.md)
-- [Manual do Director](Manual%20do%20Director.md)
-- [Sílvia Lobo](../Pessoas/S/S%C3%ADlvia%20Lobo.md)

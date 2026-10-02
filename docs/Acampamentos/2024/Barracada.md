@@ -8,13 +8,7 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Concha Sampaio Soares](../../Pessoas/C/Concha%20Sampaio%20Soares.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Chico Carneiro](../../Pessoas/C/Chico%20Carneiro.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Filipe Lima](../../Pessoas/F/Filipe%20Lima.md) sj
-
-## Páginas que ligam para aqui
-
-- [Chico Carneiro](../../Pessoas/C/Chico%20Carneiro.md)
-- [Concha Sampaio Soares](../../Pessoas/C/Concha%20Sampaio%20Soares.md)
-- [Filipe Lima](../../Pessoas/F/Filipe%20Lima.md)
-- [Manas Vasconcelos](../../Pessoas/M/Manas%20Vasconcelos.md)
+- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Nuno Ferreira](../../Pessoas/N/Nuno%20Ferreira.md) (Broski)
 
 ---
 

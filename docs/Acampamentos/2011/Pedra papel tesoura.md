@@ -10,26 +10,6 @@
 - [Tia](../../Cargos/Tio.md) - [Rita Fonseca](../../Pessoas/R/Rita%20Fonseca.md)
 - [Animadores](../../Categorias/Animadores.md) - [Andreia Pereira](../../Pessoas/A/Andreia%20Pereira.md), [Joana Almeida](../../Pessoas/J/Joana%20Almeida.md), [Maria Ana Silva](../../Pessoas/M/Maria%20Ana%20Silva.md), [Catarina Pinto](../../Pessoas/C/Catarina%20Pinto.md), [Joana Costa](../../Pessoas/J/Joana%20Costa.md), [Joana Fonseca](../../Pessoas/J/Joana%20Fonseca.md), [Bolachão](../../Pessoas/G/Gon%C3%A7alo%20Lu%C3%ADs%20Carvalho.md), [Tiago Pimenta](../../Pessoas/T/Tiago%20Pimenta.md), [Artur Correia](../../Pessoas/A/Artur%20Correia.md), [Francisco Moitinho Almeida](../../Pessoas/F/Francisco%20Moitinho%20Almeida.md), [Zé Tó](../../Pessoas/J/Jos%C3%A9%20Ant%C3%B3nio%20Lima.md), [Diogo Carneiro](../../Pessoas/D/Diogo%20Jos%C3%A9%20Nunes%20Carneiro.md) e [Diogo Belo](../../Pessoas/D/Diogo%20Belo.md)
 
-## Páginas que ligam para aqui
-
-- [Andreia Pereira](../../Pessoas/A/Andreia%20Pereira.md)
-- [Artur Correia](../../Pessoas/A/Artur%20Correia.md)
-- [Catarina Pinto](../../Pessoas/C/Catarina%20Pinto.md)
-- [Diogo Belo](../../Pessoas/D/Diogo%20Belo.md)
-- [Diogo José Nunes Carneiro](../../Pessoas/D/Diogo%20Jos%C3%A9%20Nunes%20Carneiro.md)
-- [Francisco Moitinho Almeida](../../Pessoas/F/Francisco%20Moitinho%20Almeida.md)
-- [Gonçalo Luís Carvalho](../../Pessoas/G/Gon%C3%A7alo%20Lu%C3%ADs%20Carvalho.md)
-- [Joana Almeida](../../Pessoas/J/Joana%20Almeida.md)
-- [Joana Cardim](../../Pessoas/J/Joana%20Cardim.md)
-- [Joana Costa](../../Pessoas/J/Joana%20Costa.md)
-- [Joana Fonseca](../../Pessoas/J/Joana%20Fonseca.md)
-- [João Freire de Andrade](../../Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md)
-- [José António Lima](../../Pessoas/J/Jos%C3%A9%20Ant%C3%B3nio%20Lima.md)
-- [Maria Ana Silva](../../Pessoas/M/Maria%20Ana%20Silva.md)
-- [Maria Freire de Andrade](../../Pessoas/M/Maria%20Freire%20de%20Andrade.md)
-- [Rita Fonseca](../../Pessoas/R/Rita%20Fonseca.md)
-- [Tiago Pimenta](../../Pessoas/T/Tiago%20Pimenta.md)
-
 ---
 
 | Categorias |

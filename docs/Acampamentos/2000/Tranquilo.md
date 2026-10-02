@@ -12,32 +12,19 @@ O Tranquilo foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) q
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Motorzinho](../../Pessoas/A/Andr%C3%A9%20Gon%C3%A7alves.md), [Francisco Maria Alves](../../Pessoas/F/Francisco%20Maria%20Alves.md) e [Nuno Carrolo](../../Pessoas/N/Nuno%20Carrolo.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Quico](../../Pessoas/Q/Quico.md), [Telma Pinto](../../Pessoas/T/Telma%20Pinto.md), [José Luís Fernandes](../../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Fernandes.md), [Lúcia Pato](../../Pessoas/L/L%C3%BAcia%20Vaz%20Pato.md), [Ana Rocha](../../Pessoas/A/Ana%20Rocha.md) e Rita Maria
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [Ana Rocha](../../Pessoas/A/Ana%20Rocha.md)
-- [André Gonçalves](../../Pessoas/A/Andr%C3%A9%20Gon%C3%A7alves.md)
 - [Carlos Rodrigues](../../Pessoas/C/Carlos%20Rodrigues.md)
-- [Diana Quintela](../../Pessoas/D/Diana%20Quintela.md)
 - [Diogo José Oliveira Cerejeira Carneiro](../../Pessoas/D/Diogo%20Jos%C3%A9%20Oliveira%20Cerejeira%20Carneiro.md)
 - [Eduardo Lima](../../Pessoas/E/Eduardo%20Lima.md)
-- [Francisco Maria Alves](../../Pessoas/F/Francisco%20Maria%20Alves.md)
 - [Francisco Penetra](../../Pessoas/F/Francisco%20Penetra.md)
 - [Inês Patrício](../../Pessoas/I/In%C3%AAs%20Patr%C3%ADcio.md)
 - [Jacinto Bezerra](../../Pessoas/J/Jacinto%20Bezerra.md)
-- [José Luís Fernandes](../../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Fernandes.md)
-- [José Luís Silva](../../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Silva.md)
 - [Leonardo Carvalho](../../Pessoas/L/Leonardo%20Carvalho.md)
-- [Lúcia Vaz Pato](../../Pessoas/L/L%C3%BAcia%20Vaz%20Pato.md)
 - [Maria Cortês Ferreira](../../Pessoas/M/Maria%20Cort%C3%AAs%20Ferreira.md)
-- [Nuno Carrolo](../../Pessoas/N/Nuno%20Carrolo.md)
-- [Quico](../../Pessoas/Q/Quico.md)
-- [Ricardo Lopes](../../Pessoas/R/Ricardo%20Lopes.md)
 - [Rita Roxo](../../Pessoas/R/Rita%20Roxo.md)
 - [Rita Simões](../../Pessoas/R/Rita%20Sim%C3%B5es.md)
-- [Sérgio Carvalho](../../Pessoas/S/S%C3%A9rgio%20Carvalho.md)
-- [Telma Pinto](../../Pessoas/T/Telma%20Pinto.md)
 - [Telmo Teixeira](../../Pessoas/T/Telmo%20Teixeira.md)
-- [Zeca Lima](../../Pessoas/Z/Zeca%20Lima.md)
 
 ---
 

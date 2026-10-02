@@ -14,28 +14,6 @@
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Francisco Cortês Ferreira](../../Pessoas/F/Francisco%20Cort%C3%AAs%20Ferreira.md) sj
 - [Capelinho](../../Cargos/Capelinho.md) - [Diogo Maria Carvalho](../../Pessoas/D/Diogo%20Maria%20Carvalho.md) nsj
 
-## Páginas que ligam para aqui
-
-- [Ana Isabel Martins](../../Pessoas/A/Ana%20Isabel%20Martins.md)
-- [Carolina Morão](../../Pessoas/C/Carolina%20Mor%C3%A3o.md)
-- [Daniela Gonçalves](../../Pessoas/D/Daniela%20Gon%C3%A7alves.md)
-- [Diogo Maria Carvalho](../../Pessoas/D/Diogo%20Maria%20Carvalho.md)
-- [Francisco Cortês Ferreira](../../Pessoas/F/Francisco%20Cort%C3%AAs%20Ferreira.md)
-- [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
-- [José Cabelo](../../Pessoas/J/Jos%C3%A9%20Cabelo.md)
-- [José Carlos Miranda](../../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md)
-- [Lourenço Beato](../../Pessoas/L/Louren%C3%A7o%20Beato.md)
-- [Manuel Cardoso](../../Pessoas/M/Manuel%20Cardoso.md)
-- [Margarida Faria](../../Pessoas/M/Margarida%20Faria.md)
-- [Mariana Cortez](../../Pessoas/M/Mariana%20Cortez.md)
-- [Marta Martins](../../Pessoas/M/Marta%20Martins.md)
-- [Martim Nunes](../../Pessoas/M/Martim%20Nunes.md)
-- [Matilde Silva](../../Pessoas/M/Matilde%20Silva.md)
-- [Pedro Oliveira](../../Pessoas/P/Pedro%20Oliveira.md)
-- [Sequeiros (Braga)](../../Restrito/Locais%20de%20Acampamento/Sequeiros%20%28Braga%29.md)
-- [Teresa Cannas](../../Pessoas/T/Teresa%20Cannas.md)
-- [Zé Guedes](../../Pessoas/Z/Z%C3%A9%20Guedes.md)
-
 ---
 
 | Categorias |

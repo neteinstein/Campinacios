@@ -13,24 +13,9 @@
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Francisca Veloso](../../Pessoas/F/Francisca%20Veloso.md) (Tita), [Laura Leandro](../../Pessoas/L/Laura%20Leandro.md), [António Portugal](../../Pessoas/A/Ant%C3%B3nio%20Portugal.md) e [Catarina Gaio](../../Pessoas/C/Catarina%20Gaio.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Leonor Banha da Silva](../../Pessoas/L/Leonor%20Banha%20da%20Silva.md) (Licas), [Maria Carvalho](../../Pessoas/M/Maria%20Carvalho.md), [Lourenço Barjona](../../Pessoas/L/Louren%C3%A7o%20Barjona.md) (Loura), [Diana Freitas](../../Pessoas/D/Diana%20Freitas.md), [Henrique Cardoso](../../Pessoas/H/Henrique%20Cardoso.md) e [Carmo Madeira](../../Pessoas/C/Carmo%20Madeira.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [André Teixeira](../../Pessoas/A/Andr%C3%A9%20Teixeira.md)
-- [António Portugal](../../Pessoas/A/Ant%C3%B3nio%20Portugal.md)
-- [Carmo Madeira](../../Pessoas/C/Carmo%20Madeira.md)
-- [Catarina Gaio](../../Pessoas/C/Catarina%20Gaio.md)
-- [Concha Sampaio Soares](../../Pessoas/C/Concha%20Sampaio%20Soares.md)
-- [Diana Freitas](../../Pessoas/D/Diana%20Freitas.md)
-- [Francisca Veloso](../../Pessoas/F/Francisca%20Veloso.md)
-- [Francisco Cortês Ferreira](../../Pessoas/F/Francisco%20Cort%C3%AAs%20Ferreira.md)
-- [Henrique Cardoso](../../Pessoas/H/Henrique%20Cardoso.md)
-- [Joana Ferreira (2019)](../../Pessoas/J/Joana%20Ferreira%20%282019%29.md)
-- [Laura Leandro](../../Pessoas/L/Laura%20Leandro.md)
-- [Leonor Banha da Silva](../../Pessoas/L/Leonor%20Banha%20da%20Silva.md)
-- [Lourenço Barjona](../../Pessoas/L/Louren%C3%A7o%20Barjona.md)
-- [Madalena Ramalho](../../Pessoas/M/Madalena%20Ramalho.md)
-- [Maria Carvalho](../../Pessoas/M/Maria%20Carvalho.md)
-- [Valéria Magalhães](../../Pessoas/V/Val%C3%A9ria%20Magalh%C3%A3es.md)
+- [Zé Guedes](../../Pessoas/Z/Z%C3%A9%20Guedes.md)
 
 ---
 

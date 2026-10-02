@@ -12,16 +12,6 @@ João Regueiras é animador do CC.
     - 2001 [Waaassuuup](../../Acampamentos/2001/Waaassuuup.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2004 [Mikelin Descobre a Vida](../../Acampamentos/2004/Mikelin%20Descobre%20a%20Vida.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
-## Páginas que ligam para aqui
-
-- [98 Covas](../../Acampamentos/1998/98%20Covas.md)
-- [Aranha](../../Acampamentos/1997/Aranha.md)
-- [Gipsy Kings](../../Acampamentos/1999/Gipsy%20Kings.md)
-- [Mikelin Descobre a Vida](../../Acampamentos/2004/Mikelin%20Descobre%20a%20Vida.md)
-- [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
-- [Tiw-y-moy](../../Acampamentos/1998/Tiw-y-moy.md)
-- [Waaassuuup](../../Acampamentos/2001/Waaassuuup.md)
-
 ---
 
 | Categorias |

@@ -40,32 +40,6 @@ Tiago Neves Bahia, nascido a 6 de Março de 1987, é animador do CC desde 2005.
 - 2008 [Encontro Nacional de Animadores 2008](../../Encontros/Encontro%20Nacional%20de%20Animadores%202008.md) - Organização
 - 2010 [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md) - Director e Coordenador da COECA
 
-## Páginas que ligam para aqui
-
-- [Baza](../../Acampamentos/2007/Baza.md)
-- [Camp & Nácios, S.A](../../Acampamentos/2013/Camp%20%26%20N%C3%A1cios%2C%20S.A.md)
-- [Conteúdos](../../Wikin%C3%A1cios/Conte%C3%BAdos.md)
-- [Contribuidores](../../Wikin%C3%A1cios/Contribuidores.md)
-- [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md)
-- [Dá Tudo Xauzinho](../../Acampamentos/2017/D%C3%A1%20Tudo%20Xauzinho.md)
-- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
-- [Encontro Nacional 2008](../../Encontros/Encontro%20Nacional%202008.md)
-- [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md)
-- [Encontro Nacional de Animadores 2008](../../Encontros/Encontro%20Nacional%20de%20Animadores%202008.md)
-- [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md)
-- [Ide](../../Acampamentos/2015/Ide.md)
-- [Limpopolus](../../Acampamentos/2012/Limpopolus.md)
-- [Long Tao](../../Acampamentos/2006/Long%20Tao.md)
-- [Manual do Director](../../Movimento/Manual%20do%20Director.md)
-- [Olha, Isto Aqui é uma Estátua](../../Acampamentos/2011/Olha%2C%20Isto%20Aqui%20%C3%A9%20uma%20Est%C3%A1tua.md)
-- [Online](../../Movimento/Online.md)
-- [Parte de Ti](../../Acampamentos/2023/Parte%20de%20Ti.md)
-- [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
-- [Sentido](../../Acampamentos/2014/Sentido.md)
-- [Someonelfie](../../Acampamentos/2015/Someonelfie.md)
-- [Survivor](../../Acampamentos/2009/Survivor.md)
-- [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md)
-
 ---
 
 | Categorias |

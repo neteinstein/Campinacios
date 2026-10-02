@@ -10,12 +10,6 @@
 
 - 2024 [Encontro Nacional 2024](../../Encontros/Encontro%20Nacional%202024.md) - Mamã
 
-## Páginas que ligam para aqui
-
-- [Chuva ó Chave](../../Acampamentos/2023/Chuva%20%C3%B3%20Chave.md)
-- [Encontro Nacional 2024](../../Encontros/Encontro%20Nacional%202024.md)
-- [Expresso 3 B](../../Acampamentos/2021/Expresso%203%20B.md)
-
 ---
 
 | Categorias |

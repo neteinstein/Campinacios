@@ -9,10 +9,6 @@
 - **Animador(a):**
     - 2013 [Realiza](../../Acampamentos/2013/Realiza.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
-## Páginas que ligam para aqui
-
-- [Realiza](../../Acampamentos/2013/Realiza.md)
-
 ---
 
 **Outros nomes:** Duda

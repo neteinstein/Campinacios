@@ -13,24 +13,6 @@ O Entre ASPAS decorreu entre os dias 5 a 14 de Agosto de 2008 na [Quinta da Mata
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [António Amaral](../../Pessoas/A/Ant%C3%B3nio%20Amaral.md) e [Vasco Vasconcelos](../../Pessoas/V/Vasco%20Vasconcelos.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Ana Martins](../../Pessoas/A/Ana%20Martins.md), [Inês Amorim](../../Pessoas/I/In%C3%AAs%20Amorim.md), [Mariana Franco](../../Pessoas/M/Mariana%20Franco.md), [Rita Luís](../../Pessoas/R/Rita%20Lu%C3%ADs.md), [Diogo Costa](../../Pessoas/D/Diogo%20Costa.md) e [Duarte Dias](../../Pessoas/D/Duarte%20Dias.md)
 
-## Páginas que ligam para aqui
-
-- [Ana Martins](../../Pessoas/A/Ana%20Martins.md)
-- [Ana Ribeiro](../../Pessoas/A/Ana%20Ribeiro.md)
-- [António Amaral](../../Pessoas/A/Ant%C3%B3nio%20Amaral.md)
-- [Carlos Miguel Albuquerque](../../Pessoas/C/Carlos%20Miguel%20Albuquerque.md)
-- [Diogo Costa](../../Pessoas/D/Diogo%20Costa.md)
-- [Duarte Dias](../../Pessoas/D/Duarte%20Dias.md)
-- [Inês Amorim](../../Pessoas/I/In%C3%AAs%20Amorim.md)
-- [Juliana Fernandes](../../Pessoas/J/Juliana%20Fernandes.md)
-- [Mariana Franco](../../Pessoas/M/Mariana%20Franco.md)
-- [Miguel Melo](../../Pessoas/M/Miguel%20Melo.md)
-- [Patrícia Lima](../../Pessoas/P/Patr%C3%ADcia%20Lima.md)
-- [Paulo Duarte](../../Pessoas/P/Paulo%20Duarte.md)
-- [Rita Luís](../../Pessoas/R/Rita%20Lu%C3%ADs.md)
-- [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md)
-- [Vasco Vasconcelos](../../Pessoas/V/Vasco%20Vasconcelos.md)
-
 ---
 
 | Categorias |

@@ -13,21 +13,9 @@
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Isabel Ferraz](../../Pessoas/I/Isabel%20Ferraz.md), [Manuel Costa](../../Pessoas/M/Manuel%20Costa.md) e [Tiago Silva](../../Pessoas/T/Tiago%20Silva.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Nuno Ferreira](../../Pessoas/N/Nuno%20Ferreira.md) (Broski), [Benedita Vasconcelos](../../Pessoas/B/Benedita%20Vasconcelos.md), [Alice Rodrigues](../../Pessoas/A/Alice%20Rodrigues.md) e [Bernardo Moraes Sarmento](../../Pessoas/B/Bernardo%20Moraes%20Sarmento.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [Alice Rodrigues](../../Pessoas/A/Alice%20Rodrigues.md)
-- [Andreas Lind](../../Pessoas/A/Andreas%20Lind.md)
-- [Benedita Vasconcelos](../../Pessoas/B/Benedita%20Vasconcelos.md)
-- [Bernardo Moraes Sarmento](../../Pessoas/B/Bernardo%20Moraes%20Sarmento.md)
-- [Catarina Silva](../../Pessoas/C/Catarina%20Silva.md)
-- [Isabel Ferraz](../../Pessoas/I/Isabel%20Ferraz.md)
-- [Manuel Costa](../../Pessoas/M/Manuel%20Costa.md)
-- [Margarida Garcia](../../Pessoas/M/Margarida%20Garcia.md)
-- [Nuno Ferreira](../../Pessoas/N/Nuno%20Ferreira.md)
-- [Paula Gonçalves](../../Pessoas/P/Paula%20Gon%C3%A7alves.md)
-- [Pedro Amado](../../Pessoas/P/Pedro%20Amado.md)
-- [Rafael Rebordão](../../Pessoas/R/Rafael%20Rebord%C3%A3o.md)
-- [Tiago Silva](../../Pessoas/T/Tiago%20Silva.md)
+- [Zé Guedes](../../Pessoas/Z/Z%C3%A9%20Guedes.md)
 
 ---
 

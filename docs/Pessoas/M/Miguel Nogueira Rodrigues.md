@@ -4,11 +4,6 @@
 
 *Nota: Este artigo é sobre Miguel Nogueira Rodrigues, animador do CSJB. Se procura Miguel Nogueira, Director-Adjunto do Verim (1992), consulte [Miguel Nogueira](Miguel%20Nogueira.md).*
 
-## Páginas que ligam para aqui
-
-- [João Miguel Rodrigues](../J/Jo%C3%A3o%20Miguel%20Rodrigues.md)
-- [Miguel Nogueira](Miguel%20Nogueira.md)
-
 ---
 
 | Categorias |

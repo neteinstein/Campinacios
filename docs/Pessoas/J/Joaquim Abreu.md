@@ -17,16 +17,6 @@ Joaquim Alfredo Matos Abreu, nascido a 21 de Maio de 1984, é animador do CC.
     - 2007 [Baza](../../Acampamentos/2007/Baza.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2008 [OrienTu](../../Acampamentos/2008/OrienTu.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
-## Páginas que ligam para aqui
-
-- [Baza](../../Acampamentos/2007/Baza.md)
-- [Contribuidores](../../Wikin%C3%A1cios/Contribuidores.md)
-- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
-- [Falésia](../../Acampamentos/2005/Fal%C3%A9sia.md)
-- [OrienTu](../../Acampamentos/2008/OrienTu.md)
-- [Origami](../../Acampamentos/2006/Origami.md)
-- [Trolliciclos](../../Acampamentos/2004/Trolliciclos.md)
-
 ---
 
 | Categorias |

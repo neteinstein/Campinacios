@@ -9,13 +9,6 @@
 
 - 2019 [Encontro Nacional 2019](../../Encontros/Encontro%20Nacional%202019.md) - Directora
 
-## Páginas que ligam para aqui
-
-- [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
-- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
-- [Encontro Nacional 2019](../../Encontros/Encontro%20Nacional%202019.md)
-- [Quantos Somos](../../Acampamentos/2021/Quantos%20Somos.md)
-
 ---
 
 | Categorias |

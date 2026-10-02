@@ -6,10 +6,6 @@
 
 - [Director](../../Cargos/Director.md) - [Rafael Carecho](../../Pessoas/R/Rafael%20Carecho.md)
 
-## Páginas que ligam para aqui
-
-- [Rafael Carecho](../../Pessoas/R/Rafael%20Carecho.md)
-
 ---
 
 | Categorias |

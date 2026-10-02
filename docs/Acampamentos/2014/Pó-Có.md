@@ -6,9 +6,9 @@
 
 - [Director](../../Cargos/Director.md) - [David Cruz e Silva](../../Pessoas/D/David%20Cruz%20e%20Silva.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [David Cruz e Silva](../../Pessoas/D/David%20Cruz%20e%20Silva.md)
+- [Nuno Ferreira](../../Pessoas/N/Nuno%20Ferreira.md)
 
 ---
 

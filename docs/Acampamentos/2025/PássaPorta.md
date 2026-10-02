@@ -13,16 +13,6 @@
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Gonçalo Pedrosa](../../Pessoas/G/Gon%C3%A7alo%20Pedrosa.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Emanuel Lopes](../../Pessoas/E/Emanuel%20Lopes.md) sj
 
-## Páginas que ligam para aqui
-
-- [Emanuel Lopes](../../Pessoas/E/Emanuel%20Lopes.md)
-- [Gonçalo Pedrosa](../../Pessoas/G/Gon%C3%A7alo%20Pedrosa.md)
-- [Joana Rocha](../../Pessoas/J/Joana%20Rocha.md)
-- [Martim Nunes](../../Pessoas/M/Martim%20Nunes.md)
-- [Miguel Teixeira](../../Pessoas/M/Miguel%20Teixeira.md)
-- [Nuno Ferreira](../../Pessoas/N/Nuno%20Ferreira.md)
-- [Rita Ventura](../../Pessoas/R/Rita%20Ventura.md)
-
 ---
 
 | Categorias |

@@ -12,24 +12,6 @@ O Bublix decorreu entre os dias 29 de Julho e 7 de Agosto de 2009 em [Digueifel 
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Pica](../../Pessoas/F/Francisco%20Silva%20Rodrigues.md) e [Filipe Barroso](../../Pessoas/F/Filipe%20Barroso.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Inês Fonseca](../../Pessoas/I/In%C3%AAs%20Fonseca.md), [Ana Pinheiro](../../Pessoas/A/Ana%20Pinheiro.md), [Margarida Pires](../../Pessoas/M/Margarida%20Pires.md), [Pedro Lucas](../../Pessoas/P/Pedro%20Lucas.md), [Miguel Martins](../../Pessoas/M/Miguel%20Monteiro%20Martins.md) e [Mário Magalhães](../../Pessoas/M/M%C3%A1rio%20Magalh%C3%A3es.md)
 
-## Páginas que ligam para aqui
-
-- [Ana Pinheiro](../../Pessoas/A/Ana%20Pinheiro.md)
-- [Andreas Lind](../../Pessoas/A/Andreas%20Lind.md)
-- [Filipe Barroso](../../Pessoas/F/Filipe%20Barroso.md)
-- [Francisco Silva Rodrigues](../../Pessoas/F/Francisco%20Silva%20Rodrigues.md)
-- [Inês Fonseca](../../Pessoas/I/In%C3%AAs%20Fonseca.md)
-- [Joana Gomes](../../Pessoas/J/Joana%20Gomes.md)
-- [Joana Lacerda](../../Pessoas/J/Joana%20Lacerda.md)
-- [Joana Lima](../../Pessoas/J/Joana%20Lima.md)
-- [Joana Reis](../../Pessoas/J/Joana%20Reis.md)
-- [Margarida Pires](../../Pessoas/M/Margarida%20Pires.md)
-- [Miguel Melo](../../Pessoas/M/Miguel%20Melo.md)
-- [Miguel Monteiro Martins](../../Pessoas/M/Miguel%20Monteiro%20Martins.md)
-- [Mário Magalhães](../../Pessoas/M/M%C3%A1rio%20Magalh%C3%A3es.md)
-- [Pedro Lucas](../../Pessoas/P/Pedro%20Lucas.md)
-- [Ricardo Neves](../../Pessoas/R/Ricardo%20Neves.md)
-
 ---
 
 | Categorias |

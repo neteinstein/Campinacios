@@ -8,10 +8,6 @@
 - **Animador:**
     - 2002 [Piripetroporco](../../Acampamentos/2002/Piripetroporco.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
-## Páginas que ligam para aqui
-
-- [Piripetroporco](../../Acampamentos/2002/Piripetroporco.md)
-
 ---
 
 | Categorias |

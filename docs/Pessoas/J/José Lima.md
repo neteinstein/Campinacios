@@ -8,11 +8,6 @@
     - 1998 [Além](../../Acampamentos/1998/Al%C3%A9m.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 1999 [Caroço](../../Acampamentos/1999/Caro%C3%A7o.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
-## Páginas que ligam para aqui
-
-- [Além](../../Acampamentos/1998/Al%C3%A9m.md)
-- [Caroço](../../Acampamentos/1999/Caro%C3%A7o.md)
-
 ---
 
 **Outros nomes:** Zeca

@@ -27,18 +27,6 @@ Frequentou o [CC](../../Movimento/CC.md) de 1994 a 2008. Animadora desde 2008 at
     - 2011 [Pescanova](../../Acampamentos/2011/Pescanova.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2012 [Rebenta a Bolha](../../Acampamentos/2012/Rebenta%20a%20Bolha.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
-## Páginas que ligam para aqui
-
-- [Contribuidores](../../Wikin%C3%A1cios/Contribuidores.md)
-- [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md)
-- [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
-- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
-- [Obra Prima](../../Acampamentos/2010/Obra%20Prima.md)
-- [Online](../../Movimento/Online.md)
-- [Pescanova](../../Acampamentos/2011/Pescanova.md)
-- [Rebenta a Bolha](../../Acampamentos/2012/Rebenta%20a%20Bolha.md)
-- [Tira as rodinhas](../../Acampamentos/2009/Tira%20as%20rodinhas.md)
-
 ---
 
 | Categorias |

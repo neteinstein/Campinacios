@@ -11,11 +11,6 @@
     - 2004 [Metrópole](../../Acampamentos/2004/Metr%C3%B3pole.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2005 [Academia](../../Acampamentos/2005/Academia.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
-## Páginas que ligam para aqui
-
-- [Academia](../../Acampamentos/2005/Academia.md)
-- [Metrópole](../../Acampamentos/2004/Metr%C3%B3pole.md)
-
 ---
 
 | Categorias |

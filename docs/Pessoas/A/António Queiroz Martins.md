@@ -27,18 +27,6 @@ António Eduardo Coutinho Lopes de Queiroz Martins, conhecido por Edu, antigo al
 
 - 2010 [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md) - Finanças
 
-## Páginas que ligam para aqui
-
-- [Calhambeques](../../Categorias/Calhambeques.md)
-- [Caminho](../../Acampamentos/2009/Caminho.md)
-- [Contribuidores](../../Wikin%C3%A1cios/Contribuidores.md)
-- [Edu](../../Movimento/Desambigua%C3%A7%C3%A3o/Edu.md)
-- [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md)
-- [Incrível](../../Acampamentos/2009/Incr%C3%ADvel.md)
-- [Online](../../Movimento/Online.md)
-- [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
-- [Walkabout](../../Acampamentos/2010/Walkabout.md)
-
 ---
 
 **Outros nomes:** António Queirós Martins

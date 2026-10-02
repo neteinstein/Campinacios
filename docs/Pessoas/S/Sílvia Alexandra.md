@@ -14,14 +14,6 @@ Sílvia Alexandra Rodrigues Mendes Ferreira, nascida a 16 de Novembro de 1983, �
     - 2004 [Ídolo](../../Acampamentos/2004/%C3%8Ddolo.md) - [Tia](../../Cargos/Tio.md)
     - 2005 [Fófinhos](../../Acampamentos/2005/F%C3%B3finhos.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
 
-## Páginas que ligam para aqui
-
-- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
-- [Farol](../../Acampamentos/2003/Farol.md)
-- [Fófinhos](../../Acampamentos/2005/F%C3%B3finhos.md)
-- [Jangada](../../Acampamentos/2002/Jangada.md)
-- [Ídolo](../../Acampamentos/2004/%C3%8Ddolo.md)
-
 ---
 
 **Outros nomes:** Sílvia Ferreira

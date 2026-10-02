@@ -64,27 +64,6 @@ Coordena os trabalhos da Direcção, coordena e gere a comunicação entre as 3 
 - [Sílvia Lobo](../Pessoas/S/S%C3%ADlvia%20Lobo.md)
 - [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md)
 
-## Páginas que ligam para aqui
-
-- [Conceição Martinho](../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)
-- [Concha Líbano Monteiro](../Pessoas/C/Concha%20L%C3%ADbano%20Monteiro.md)
-- [Dinis Braga da Cruz](../Pessoas/D/Dinis%20Braga%20da%20Cruz.md)
-- [Filipe Próspero](../Pessoas/F/Filipe%20Pr%C3%B3spero.md)
-- [Guilherme Balhau](../Pessoas/G/Guilherme%20Balhau.md)
-- [Helena Cunha e Carmo](../Pessoas/H/Helena%20Cunha%20e%20Carmo.md)
-- [Jaime Lucas Pires](../Pessoas/J/Jaime%20Lucas%20Pires.md)
-- [Joana Coelho](../Pessoas/J/Joana%20Coelho.md)
-- [Joana Ferreira (CC)](../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
-- [João Eiró](../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md)
-- [João Paulo Moinhos](../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md)
-- [Maria João Simões](../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
-- [Miguel Leite Martins](../Pessoas/M/Miguel%20Leite%20Martins.md)
-- [Paulo Cardoso](../Pessoas/P/Paulo%20Cardoso.md)
-- [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)
-- [Revolução Campinácios v2.0](../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
-- [Sílvia Lobo](../Pessoas/S/S%C3%ADlvia%20Lobo.md)
-- [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md)
-
 ---
 
 | Categorias |

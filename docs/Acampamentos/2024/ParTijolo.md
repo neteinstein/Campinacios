@@ -9,13 +9,6 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Johnny Sousa](../../Pessoas/J/Johnny%20Sousa.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Miranda](../../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md) sj
 
-## Páginas que ligam para aqui
-
-- [Johnny Sousa](../../Pessoas/J/Johnny%20Sousa.md)
-- [José Carlos Miranda](../../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md)
-- [Sofia Ângelo](../../Pessoas/S/Sofia%20%C3%82ngelo.md)
-- [Francisca Veloso](../../Pessoas/F/Francisca%20Veloso.md)
-
 ---
 
 | Categorias |

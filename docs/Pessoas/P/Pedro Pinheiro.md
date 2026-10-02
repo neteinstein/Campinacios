@@ -23,21 +23,6 @@ Pedro Filipe Gomes Pinheiro, nascido a 12 de Junho de 1982, é animador do CC.
 
 É irmão da [Ana Pinheiro](../A/Ana%20Pinheiro.md) e casado com a [Teresa Santos](../T/Teresa%20Santos.md)
 
-## Páginas que ligam para aqui
-
-- [Ana Pinheiro](../A/Ana%20Pinheiro.md)
-- [Calhambeques](../../Categorias/Calhambeques.md)
-- [Campinácios](../../Movimento/Campin%C3%A1cios.md)
-- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
-- [Em Busca da CaraBela](../../Acampamentos/2006/Em%20Busca%20da%20CaraBela.md)
-- [Farol](../../Acampamentos/2003/Farol.md)
-- [Fófinhos](../../Acampamentos/2005/F%C3%B3finhos.md)
-- [Jangada](../../Acampamentos/2002/Jangada.md)
-- [Pirilama](../../Acampamentos/2000/Pirilama.md)
-- [Surpresa](../../Acampamentos/2001/Surpresa.md)
-- [Teresa Santos](../T/Teresa%20Santos.md)
-- [Ídolo](../../Acampamentos/2004/%C3%8Ddolo.md)
-
 ---
 
 | Categorias |
