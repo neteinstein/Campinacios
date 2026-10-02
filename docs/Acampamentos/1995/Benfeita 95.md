@@ -9,7 +9,7 @@ Este acampamento de [Triciclos](../../Categorias/Triciclos.md) decorreu em [Benf
 - [Directora-Adjunta](../../Cargos/Director-Adjunto.md) - [Teresa Martinho](../../Pessoas/T/Teresa%20Martinho.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Zé Lopes](../../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md) sj
 - [Tia](../../Cargos/Tio.md) - [Carla Resende](../../Pessoas/C/Carla%20Resende.md)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Francisco Silva](../../Pessoas/F/Francisco%20Silva.md) (Chico), [Ricardo Simões](../../Pessoas/R/Ricardo%20Sim%C3%B5es.md)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Francisco Silva](../../Pessoas/F/Francisco%20Silva%20%281995%29.md) (Chico), [Ricardo Simões](../../Pessoas/R/Ricardo%20Sim%C3%B5es.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Fátima Paulino](../../Pessoas/F/F%C3%A1tima%20Paulino.md), [Ana Marques](../../Pessoas/A/Ana%20Marques.md), [Diogo Reis](../../Pessoas/D/Diogo%20Reis.md), [Gabriela Poças](../../Pessoas/G/Gabriela%20Po%C3%A7as.md), [Cacá](../../Pessoas/R/Ricardo%20Rodrigues.md), [João Viana](../../Pessoas/J/Jo%C3%A3o%20Viana.md) e [Ricardo Rodrigues](../../Pessoas/R/Ricardo%20Rodrigues.md)
 
 ## Páginas que ligam para aqui
@@ -21,7 +21,7 @@ Este acampamento de [Triciclos](../../Categorias/Triciclos.md) decorreu em [Benf
 - [Conceição Martinho](../../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)
 - [Diogo Reis](../../Pessoas/D/Diogo%20Reis.md)
 - [Fátima Paulino](../../Pessoas/F/F%C3%A1tima%20Paulino.md)
-- [Francisco Silva](../../Pessoas/F/Francisco%20Silva.md)
+- [Francisco Silva (1995)](../../Pessoas/F/Francisco%20Silva%20%281995%29.md)
 - [Gabriela Poças](../../Pessoas/G/Gabriela%20Po%C3%A7as.md)
 - [Joana Ferreira da Silva](../../Pessoas/J/Joana%20Ferreira%20da%20Silva.md)
 - [João Correia](../../Pessoas/J/Jo%C3%A3o%20Correia.md)

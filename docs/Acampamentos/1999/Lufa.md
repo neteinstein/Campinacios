@@ -13,7 +13,7 @@ O Lufa decorreu em [Alvoco das Várzeas](../../Restrito/Locais%20de%20Acampament
 - [Conceição Martinho](../../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)
 - [Diogo Belo](../../Pessoas/D/Diogo%20Belo.md)
 - [Francisco Lopes](../../Pessoas/F/Francisco%20Lopes.md)
-- [Francisco Silva](../../Pessoas/F/Francisco%20Silva.md)
+- [Francisco Silva (Kiko)](../../Pessoas/F/Francisco%20Silva%20%28Kiko%29.md)
 - [Inês Turras](../../Pessoas/I/In%C3%AAs%20Turras.md)
 
 ---

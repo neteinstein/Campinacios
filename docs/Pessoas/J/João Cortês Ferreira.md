@@ -17,14 +17,16 @@
 
 ### Família
 
-É irmão da [Maria Cortês Ferreira](../M/Maria%20Cort%C3%AAs%20Ferreira.md)
+É irmão da [Maria Cortês Ferreira](../M/Maria%20Cort%C3%AAs%20Ferreira.md), do [Francisco Cortês Ferreira](../F/Francisco%20Cort%C3%AAs%20Ferreira.md) e da [Teresa Cortês Ferreira](../T/Teresa%20Cort%C3%AAs%20Ferreira.md).
 
 ## Páginas que ligam para aqui
 
 - [Caminho](../../Acampamentos/2009/Caminho.md)
 - [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
+- [Francisco Cortês Ferreira](../F/Francisco%20Cort%C3%AAs%20Ferreira.md)
 - [Maria Cortês Ferreira](../M/Maria%20Cort%C3%AAs%20Ferreira.md)
 - [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md)
+- [Teresa Cortês Ferreira](../T/Teresa%20Cort%C3%AAs%20Ferreira.md)
 
 ---
 
