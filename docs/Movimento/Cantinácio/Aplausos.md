@@ -1,7 +1,7 @@
 # Cantinácio: Aplausos
 
 [![Capa da secção «Não há palmas nos Campinácios»: pés descalços a bater no chão, sobre fundo amarelo](../../assets/imagens/Cantin%C3%A1cio%202019/p111.jpg){ width="300" }](../../assets/imagens/Cantin%C3%A1cio%202019/p111.jpg)
-*Capa da secção «Não há palmas nos Campinácios» do Cantinácio 2019 (3.ª edição), com ilustração de [Francisco Rodrigues (Pica)](../../Pessoas/F/Francisco%20Rodrigues%20%28Pica%29.md).*
+*Capa da secção «Não há palmas nos Campinácios» do Cantinácio 2019 (3.ª edição), com ilustração de [Francisco Rodrigues (Pica)](../../Pessoas/F/Francisco%20Silva%20Rodrigues.md).*
 
 Palmas, aplausos e gritos de roda, da secção «Não há palmas nos Campinácios» do Cantinácio 2019 (3.ª edição). As indicações entre parênteses rectos explicam o que se faz.
 

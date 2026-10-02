@@ -1,11 +1,11 @@
 # Cantinácio
 
 [![Capa do Cantinácio de 2019: uma guitarra amarela coberta de autocolantes](../assets/imagens/Cantin%C3%A1cio%202019/p001.jpg){ width="250" }](../assets/imagens/Cantin%C3%A1cio%202019/p001.jpg)
-*Capa do Cantinácio 2019 (3.ª edição), com ilustração de [Francisco Rodrigues (Pica)](../Pessoas/F/Francisco%20Rodrigues%20%28Pica%29.md).*
+*Capa do Cantinácio 2019 (3.ª edição), com ilustração de [Francisco Rodrigues (Pica)](../Pessoas/F/Francisco%20Silva%20Rodrigues.md).*
 
 Reúne músicas e canções dos Campinácios e não só.
 
-Um novo Cantinácio foi lançado após anos e anos de tentativas: a 3.ª edição, de 2019, com pesquisa e edição de [Sara Moinhos](../Pessoas/S/Sara%20Moinhos.md), ilustrações de [Francisco Rodrigues (Pica)](../Pessoas/F/Francisco%20Rodrigues%20%28Pica%29.md) e coordenação e assistência de [Francisca Pimentel](../Pessoas/F/Francisca%20Pimentel.md).
+Um novo Cantinácio foi lançado após anos e anos de tentativas: a 3.ª edição, de 2019, com pesquisa e edição de [Sara Moinhos](../Pessoas/S/Sara%20Moinhos.md), ilustrações de [Francisco Rodrigues (Pica)](../Pessoas/F/Francisco%20Silva%20Rodrigues.md) e coordenação e assistência de [Francisca Pimentel](../Pessoas/F/Francisca%20Pimentel.md).
 
 ## Manual de Instruções
 
