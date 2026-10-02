@@ -411,6 +411,31 @@ Sou um horror!
 *  Adaptação  Camtílica
 ```
 
+*Versão do Cantinácio 2019:*
+
+```text
+Ré                           Lá
+Eu canto por ser jovem como a planta
+          Sol     Lá
+E a malta canta, oh ohh
+Ré                       Lá             Sol  Lá
+É ter este cancro na garganta, ter esta dor
+
+Eu acho que é um fungo que há em mim
+E canto assim
+Por isso canto cada vez pior, sou um horror
+        Ré   Lá  Sol   Lá
+E sou cantooooooor!
+Eu mando por ser jovem como a planta
+E a malta canta
+É ter este apito na garganta, ter esta dor
+Eu acho que é um fungo que há em mim
+E mando assim
+Por isso mando cada vez pior
+Sou um horror
+Sou directooooor!
+```
+
 ### MANGUEIRA NICE {#mangueira-nice}
 
 *Hino do Campo [Mangueira Nice](../../Acampamentos/2025/Mangueira%20Nice.md) (2025)*
@@ -576,6 +601,52 @@ Pela a rua acima (ima), Ia um limão a descer (e-er)
 Ou a rua era redonda (onda), Ou o limão era a subir (i-ir)
 ```
 
+*Versão do Cantinácio 2019:*
+
+```text
+Dó
+Pão com manteiga
+Sol
+Pão com marmelada
+Fá
+Leite com chocolate
+Sol
+Leite sem nada!
+
+Da minha varanda à tua
+São dois passos de distância
+Cuidado não escorregues
+Na casca de melância!
+
+Pão com manteiga (…)
+
+Sou um pobre marinheiro
+Mas também um grande heroí
+Tenho pouco dinheiro
+Mas isso não me inflói!
+
+Pão com manteiga (…)
+
+Perdi uma ovelha
+Lá para os lados da Várzea
+Se a encontrares
+Por favor trázea!
+
+Pão com manteiga (…)
+
+Minha mãe fez um bolo
+Um bolo de geleia
+Deu-me um bocadinho
+Eu pedi uma fateia!
+
+Fui a Belas ver as velas
+Mas em Belas velas não vi
+Porque a mais bela de todas
+Meu amor, eras ti
+
+(deixar a imaginação correr)
+```
+
 ### PÁRA E REPARA {#para-e-repara}
 
 *Campo [Graal II](../../Acampamentos/2003/Graal%20II.md) (2003)*
@@ -653,6 +724,45 @@ Eu estou contigo
 Juntos vamos caminhar.
 ```
 
+*Versão do Cantinácio 2019:*
+
+```text
+Pára e Repara
+O que andas tu para aí a viver
+Ao que sabe o teu dia a dia
+Quanto queres tu ficar a saber?
+
+Vai descobrir o que Deus quer de Ti
+Tens uma história a traçar
+Caminhos por cruzar
+Uma vida p’ra fazer valer
+
+Tens uma luta a travar
+Entre o bem e o mal terás de optar
+Vai doer há sempre algo a largar
+Tens de escolher o que queres tu viver
+
+Vai descobrir […]
+
+Vais ver o dom e a graça de ter Cristo
+A teu lado a caminhar
+Agora é estar atento e sentires-te a crescer
+Aperta bem o s(c)into, agora é a valer
+
+Vai descobrir […]
+
+Agora abre-se o mundo
+Não tenhas medo
+Eu estou contigo
+Juntos vamos caminhar
+
+Agora abre-se o mundo
+Não tenhas medo
+Eu estou contigo
+Juntos vamos caminhar
+Juntos vamos caminhar...
+```
+
 ### POEMA LINDO {#poema-lindo}
 
 *Campo [Mountain Bike](../../Acampamentos/1998/Mountain%20Bike.md) (Chico Maria)*
@@ -681,6 +791,41 @@ Deixo tudo andar
 Já não consigo pensar
 Sem saber fazes me rir
 Dás-me força para explodir.
+```
+
+*Versão do Cantinácio 2019:*
+
+```text
+Ré*            Sim*
+Quero um poema lindo
+Fá#m         Sol
+Quero muito alguém
+Ré*                           Sim*
+Que se passa não sei, digo sorrindo
+Fá#m                 Sol
+Queria que viesses também
+
+   Ré             Lá
+Já sei porque te amo
+    Sim   Sol
+E amei…
+    Ré         Lá
+Parti à descoberta
+     Sim    Sol
+E achei!
+    Ré       Lá     Sim   Sol
+Vivi, sem saber de Ti
+Mim           Lá
+E agora, vou estar
+Ré            Sol
+Aqui - por ti! (x2)
+
+Deixo tudo andar
+Já nem consigo pensar
+Sem saber fazes-me sorrir
+Dás-me força pr’a explodir!
+
+Ré* - 000222; Sim* - xx4430
 ```
 
 ### RADROCA {#radroca}
@@ -749,6 +894,39 @@ Vê o que te cresce por dentro
 Que é alimentador, que é uma brasa
 Vai dar-te ao mundo aos que vivem
 Em tormento...
+```
+
+*Versão do Cantinácio 2019:*
+
+```text
+Sol                       Sim
+Enquanto a vida de todos corre
+  Dó                  Ré
+Acordas vivo com uma missão
+Cada dia um sol novo se descobre
+Só um é Deus, teu Pai, teu Irmão.
+
+Todo o ser tem o seu ideal
+E quando tu duvidas de qual é o certo
+Tu sabes que algo te brilha de especial
+É o amor de Deus! Vai em frente! Sê esperto!
+
+Dó          Ré
+E ainda te digo
+         Sol Mim     Dó
+Sóis há mui-tos, mas este
+     Ré        Sol    Sol7
+Mas este, é o nosso!
+
+Num mundo frio e incerto
+De céu nublado e poucas abertas
+Tens a tua missão, algo de muito concreto
+Espalhar o amor e a fé. Coisas boas como estas.
+
+E agora vai, salta fora de casa
+Mostra o que te cresce por dentro
+Que é alimentador, que é uma brasa
+Vai dar-te ao mundo, aos que vivem em tormento.
 ```
 
 ### TÁBEEEIM {#tabeeeim}
