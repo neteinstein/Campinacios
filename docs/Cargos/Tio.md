@@ -22,6 +22,7 @@
 - [Ana Quaresma](../Pessoas/A/Ana%20Quaresma.md)
 - [Ana Ribeiro](../Pessoas/A/Ana%20Ribeiro.md)
 - [Ana Rita Costa](../Pessoas/A/Ana%20Rita%20Costa.md)
+- [Ana Rita Prates](../Pessoas/A/Ana%20Rita%20Prates.md)
 - [Ana Salgado](../Pessoas/A/Ana%20Salgado.md)
 - [Ana Simões](../Pessoas/A/Ana%20Sim%C3%B5es.md)
 - [Ana Val-do-Rio](../Pessoas/A/Ana%20Val-do-Rio.md)
@@ -56,6 +57,7 @@
 - [Catarina Silva](../Pessoas/C/Catarina%20Silva.md)
 - [Cinena](../Acampamentos/2001/Cinena.md)
 - [Cláudia Coelho](../Pessoas/C/Cl%C3%A1udia%20Coelho.md)
+- [Clávis](../Acampamentos/2012/Cl%C3%A1vis.md)
 - [Concha Sampaio Soares](../Pessoas/C/Concha%20Sampaio%20Soares.md)
 - [Constância](../Acampamentos/1991/Const%C3%A2ncia.md)
 - [Cristiana Leite](../Pessoas/C/Cristiana%20Leite.md)
@@ -82,6 +84,7 @@
 - [Fiat'ársea](../Acampamentos/2014/Fiat%27%C3%A1rsea.md)
 - [Fibrovital](../Acampamentos/1996/Fibrovital.md)
 - [Filipa Granado](../Pessoas/F/Filipa%20Granado.md)
+- [Filipa Vicente](../Pessoas/F/Filipa%20Vicente.md)
 - [Fornelos](../Acampamentos/1992/Fornelos.md)
 - [Fragas de S.Simão 94](../Acampamentos/1994/Fragas%20de%20S.Sim%C3%A3o%2094.md)
 - [Fófinhos](../Acampamentos/2005/F%C3%B3finhos.md)
@@ -169,6 +172,7 @@
 - [Rastilho](../Acampamentos/2003/Rastilho.md)
 - [Realiza](../Acampamentos/2013/Realiza.md)
 - [Ricardo Amado](../Pessoas/R/Ricardo%20Amado.md)
+- [Ricardo Costa](../Pessoas/R/Ricardo%20Costa.md)
 - [Ricardo Lopes](../Pessoas/R/Ricardo%20Lopes.md)
 - [Rita Ângelo](../Pessoas/R/Rita%20%C3%82ngelo.md)
 - [Rita Fonseca](../Pessoas/R/Rita%20Fonseca.md)
@@ -208,6 +212,7 @@
 - [TufarfarAway](../Acampamentos/2008/TufarfarAway.md)
 - [Tábeeeim](../Acampamentos/2010/T%C3%A1beeeim.md)
 - [Valéria Magalhães](../Pessoas/V/Val%C3%A9ria%20Magalh%C3%A3es.md)
+- [Vasco Neves](../Pessoas/V/Vasco%20Neves.md)
 - [Verim](../Acampamentos/1992/Verim.md)
 - [Vi-O](../Acampamentos/2009/Vi-O.md)
 - [Vila do Bispo II/94](../Acampamentos/1994/Vila%20do%20Bispo%20II-94.md)
@@ -216,6 +221,7 @@
 - [XS](../Acampamentos/2006/XS.md)
 - [Xii Tava Kuase Lá...!](../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md)
 - [Ídolo](../Acampamentos/2004/%C3%8Ddolo.md)
+- [Joana Lima](../Pessoas/J/Joana%20Lima.md)
 
 ---
 

@@ -10,4 +10,6 @@ O Jambo 99 foi um encontro de formação de animadores do [Camtil](../../Movimen
 
 | Categorias |
 | --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1999](../../Categorias/Acampamentos%20de%201999.md) |
 | [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) |

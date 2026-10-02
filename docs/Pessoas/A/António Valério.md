@@ -13,6 +13,7 @@
 
 ## Páginas que ligam para aqui
 
+- [Animador](../../Movimento/Animador.md)
 - [Bike Just Do It](../../Acampamentos/2008/Bike%20Just%20Do%20It.md)
 - [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
 - [Era Uma Vez...](../../Acampamentos/2008/Era%20Uma%20Vez....md)
@@ -21,6 +22,7 @@
 - [Mikelin Descobre a Vida](../../Acampamentos/2004/Mikelin%20Descobre%20a%20Vida.md)
 - [Ninja Por Não Estar](../../Acampamentos/2002/Ninja%20Por%20N%C3%A3o%20Estar.md)
 - [Rastilho](../../Acampamentos/2003/Rastilho.md)
+- [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
 
 ---
 

@@ -10,7 +10,7 @@ José Manuel Filgueiras foi um dos animadores do Colégio das Caldinhas
     - 1994/1996 Coordenador da [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
     - 1991/1992 Membro da [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
 - **Outros:**
-    - 1992 Equipa de Coordenação do [CIFA II](../../Acampamentos/Sem%20data/CIFA%20II.md)
+    - 1992 Equipa de Coordenação do [CIFA II](../../Acampamentos/1991/CIFA%20II.md)
 
 ### Acampamentos
 
@@ -25,8 +25,9 @@ José Manuel Filgueiras foi um dos animadores do Colégio das Caldinhas
 
 ## Páginas que ligam para aqui
 
-- [CIFA II](../../Acampamentos/Sem%20data/CIFA%20II.md)
+- [CIFA II](../../Acampamentos/1991/CIFA%20II.md)
 - [Campinácios](../../Movimento/Campin%C3%A1cios.md)
+- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - [Lambretas 94](../../Acampamentos/1994/Lambretas%2094.md)
 - [Parada](../../Acampamentos/1995/Parada.md)
 - [Verim](../../Acampamentos/1992/Verim.md)

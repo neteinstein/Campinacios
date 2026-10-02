@@ -38,6 +38,8 @@ Em 2009 a página original deu lugar à página da [Revolução Campinácios v2.
 
 [![Reconstrução da página principal «Campinácios v2.0 — Acampamentos dos Colégios da Companhia de Jesus em Portugal» a 30 de Maio de 2012: o cabeçalho com uma fotografia da Gaivota de 2005, o menu Início, Agenda, Wikinácios, Facebook, YouTube e Catálogo, as caixas Conhecer e Viver à esquerda, as notícias do Jantar de Gala, da Ceia de Natal e do Café Terrace do CSJB ao centro e, à direita, os artigos recentes, as mudanças recentes do Wikinácios e uma sondagem](../assets/imagens/Campinacios_v2.webp)](../assets/imagens/Campinacios_v2.webp)
 
+A página tinha também uma lista de «Blogs e sites» de pessoas ligadas aos Campinácios: o *Toques de Deus*, blog do Nuno Branco e do Zé Maria, e o *[Campinácios Lisboa](http://campinacioslisboa.blogspot.com/)*.
+
 ## O Wikinácios em 2013 {#wikinacios-2013}
 
 A Wikinácios foi um dos sítios que a Revolução Campinácios v2.0 trouxe, feito pelo [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) e pelo [Filipe Barroso](../Pessoas/F/Filipe%20Barroso.md) com ajuda do [António Queirós Martins](../Pessoas/A/Ant%C3%B3nio%20Queiroz%20Martins.md), [Sílvia Lobo](../Pessoas/S/S%C3%ADlvia%20Lobo.md) e [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md). Fica aqui, como registo histórico, a sua página principal tal como estava a 1 de Outubro de 2013, com 880 artigos.

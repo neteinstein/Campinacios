@@ -9,7 +9,7 @@ O Tranquilo foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) q
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Sérgio Carvalho](../../Pessoas/S/S%C3%A9rgio%20Carvalho.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Zeca Lima](../../Pessoas/Z/Zeca%20Lima.md) sj
 - [Tios](../../Cargos/Tio.md) - Alexandra e [Ricardo Lopes](../../Pessoas/R/Ricardo%20Lopes.md)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Motorzinho](../../Pessoas/A/Andr%C3%A9%20Gon%C3%A7alves.md), Francisco Maria Alves e [Nuno Carrolo](../../Pessoas/N/Nuno%20Carrolo.md)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Motorzinho](../../Pessoas/A/Andr%C3%A9%20Gon%C3%A7alves.md), [Francisco Maria Alves](../../Pessoas/F/Francisco%20Maria%20Alves.md) e [Nuno Carrolo](../../Pessoas/N/Nuno%20Carrolo.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Quico](../../Pessoas/Q/Quico.md), [Telma Pinto](../../Pessoas/T/Telma%20Pinto.md), [José Luís Fernandes](../../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Fernandes.md), [Lúcia Pato](../../Pessoas/L/L%C3%BAcia%20Vaz%20Pato.md), [Ana Rocha](../../Pessoas/A/Ana%20Rocha.md) e Rita Maria
 
 ## Páginas que ligam para aqui
@@ -20,6 +20,7 @@ O Tranquilo foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) q
 - [Diana Quintela](../../Pessoas/D/Diana%20Quintela.md)
 - [Diogo José Oliveira Cerejeira Carneiro](../../Pessoas/D/Diogo%20Jos%C3%A9%20Oliveira%20Cerejeira%20Carneiro.md)
 - [Eduardo Lima](../../Pessoas/E/Eduardo%20Lima.md)
+- [Francisco Maria Alves](../../Pessoas/F/Francisco%20Maria%20Alves.md)
 - [Francisco Penetra](../../Pessoas/F/Francisco%20Penetra.md)
 - [Inês Patrício](../../Pessoas/I/In%C3%AAs%20Patr%C3%ADcio.md)
 - [Jacinto Bezerra](../../Pessoas/J/Jacinto%20Bezerra.md)

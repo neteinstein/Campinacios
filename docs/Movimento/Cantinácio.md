@@ -4,14 +4,14 @@ Reúne músicas e canções dos Campinácios e não só.
 
 Um novo Cantinácio foi lançado após anos e anos de tentativas, as músicas abaixo podem não reflectir essa nova versão.
 
-## Letras e acordes (631 músicas)
+## Letras e acordes (639 músicas)
 
-- [Cânticos](Cantin%C3%A1cio/C%C3%A2nticos.md) — 214 cânticos para as eucaristias e orações
+- [Cânticos](Cantin%C3%A1cio/C%C3%A2nticos.md) — 216 cânticos para as eucaristias e orações
 - [Camtil](Cantin%C3%A1cio/Camtil.md) — 70 músicas nascidas nos acampamentos
-- [Campinácios](Cantin%C3%A1cio/Campin%C3%A1cios.md) — 19 músicas nascidas nos acampamentos
+- [Campinácios](Cantin%C3%A1cio/Campin%C3%A1cios.md) — 22 músicas nascidas nos acampamentos
 - [Gambozinos](Cantin%C3%A1cio/Gambozinos.md) — 1 música nascida nos acampamentos
 - [Portuguesas](Cantin%C3%A1cio/Portuguesas.md) — 143 músicas portuguesas
-- [Estrangeiras](Cantin%C3%A1cio/Estrangeiras.md) — 186 músicas estrangeiras
+- [Estrangeiras](Cantin%C3%A1cio/Estrangeiras.md) — 187 músicas estrangeiras
 - [Escalas](Cantin%C3%A1cio/Escalas.md) — como mudar uma música de tom
 
 ## Gravações
@@ -40,8 +40,12 @@ Aqui ficam algumas músicas gravadas por [João Monteiro](../Pessoas/J/Jo%C3%A3o
 
 ## Páginas que ligam para aqui
 
+- [Cantinácio: Campinácios](Cantin%C3%A1cio/Campin%C3%A1cios.md)
+- [Cantinácio: Cânticos](Cantin%C3%A1cio/C%C3%A2nticos.md)
+- [Cantinácio: Estrangeiras](Cantin%C3%A1cio/Estrangeiras.md)
 - [Filipe Próspero](../Pessoas/F/Filipe%20Pr%C3%B3spero.md)
 - [Mountain Bike](../Acampamentos/1998/Mountain%20Bike.md)
+- [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
 
 ---
 

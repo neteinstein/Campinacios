@@ -23,7 +23,7 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 | **2014/2015** | [Sílvia Lobo](../Pessoas/S/S%C3%ADlvia%20Lobo.md) | [Nelson Faria](../Pessoas/N/Nelson%20Faria.md) sj | [Patrícia Costa](../Pessoas/P/Patr%C3%ADcia%20Costa.md), [Renato Lobo](../Pessoas/R/Renato%20Lobo.md), [António Pimenta](../Pessoas/A/Ant%C3%B3nio%20Pimenta.md) |
 | **2013/2014** | [Sílvia Lobo](../Pessoas/S/S%C3%ADlvia%20Lobo.md) | [José Maria Brito](../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md) sj | [Patrícia Costa](../Pessoas/P/Patr%C3%ADcia%20Costa.md), [Renato Lobo](../Pessoas/R/Renato%20Lobo.md), [António Pimenta](../Pessoas/A/Ant%C3%B3nio%20Pimenta.md) |
 | **2012/2013** | [Paulo Cardoso](../Pessoas/P/Paulo%20Cardoso.md) | [José Maria Brito](../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md) sj | [Sílvia Lobo](../Pessoas/S/S%C3%ADlvia%20Lobo.md) |
-| **2011/2012** | [Paulo Cardoso](../Pessoas/P/Paulo%20Cardoso.md) | [José Maria Brito](../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md) sj | [Ana Reis Sá](../Pessoas/A/Ana%20Reis%20S%C3%A1.md), [Sílvia Lobo](../Pessoas/S/S%C3%ADlvia%20Lobo.md) |
+| **2011/2012** | [Paulo Cardoso](../Pessoas/P/Paulo%20Cardoso.md) | [José Maria Brito](../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md) sj | [Ana Reis Sá](../Pessoas/A/Ana%20Reis%20S%C3%A1.md), [Sílvia Lobo](../Pessoas/S/S%C3%ADlvia%20Lobo.md), [Sara Moinhos](../Pessoas/S/Sara%20Moinhos.md) |
 | **2010/2011** | [João Paulo Moinhos](../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md) | [Vasco Themudo](../Pessoas/V/Vasco%20Themudo.md) sj | — |
 | **2009/2010** | [João Paulo Moinhos](../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md) | [Pedro Cameira](../Pessoas/P/Pedro%20Cameira.md) sj | [Andreia Gil](../Pessoas/A/Andreia%20Gil.md), [Ana Luísa Reis](../Pessoas/A/Ana%20Lu%C3%ADsa%20Reis.md), [Diogo Carneiro](../Movimento/Desambigua%C3%A7%C3%A3o/Diogo%20Carneiro.md) |
 | **2007/2009** | [João Paulo Moinhos](../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md) | [João Goulão](../Pessoas/J/Jo%C3%A3o%20Goul%C3%A3o.md) sj | [Andreia Gil](../Pessoas/A/Andreia%20Gil.md), [João Quintela](../Pessoas/J/Jo%C3%A3o%20Quintela.md), [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md) |
@@ -145,6 +145,7 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [Carolina Carvalho](../Pessoas/C/Carolina%20Carvalho.md)
 - [Diana Quintela](../Pessoas/D/Diana%20Quintela.md)
 - [Diogo José Nunes Carneiro](../Pessoas/D/Diogo%20Jos%C3%A9%20Nunes%20Carneiro.md)
+- [Direcção Local do CAIC](Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md)
 - [Domingos Perloiro](../Pessoas/D/Domingos%20Perloiro.md)
 - [Eduardo Rodrigues](../Pessoas/E/Eduardo%20Rodrigues.md)
 - [Fernando Monteiro](../Pessoas/F/Fernando%20Monteiro.md)

@@ -14,7 +14,7 @@
 
 ---
 
-**Outros nomes:** Rais parta os ninja
+**Outros nomes:** Rais parta os ninja · Raios Part'os Ninja
 
 | Categorias |
 | --- |

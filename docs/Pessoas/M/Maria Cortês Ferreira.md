@@ -34,6 +34,7 @@ Maria Mendes Cortês Ferreira, nascida a 6 de Março de 1985, é desde 2003 anim
 ## Páginas que ligam para aqui
 
 - [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
+- [Calhambeques](../../Categorias/Calhambeques.md)
 - [Caminho](../../Acampamentos/2009/Caminho.md)
 - [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md)
 - [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md)

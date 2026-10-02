@@ -20,6 +20,8 @@
 ## Páginas que ligam para aqui
 
 - [Caldelas](../../Acampamentos/1996/Caldelas.md)
+- [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
+- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - [Génesis 2003 d.C.](../../Acampamentos/2003/G%C3%A9nesis%202003%20d.C..md)
 - [Hakuna Matata](../../Acampamentos/1995/Hakuna%20Matata.md)
 - [Jambo 99](../../Acampamentos/1999/Jambo%2099.md)

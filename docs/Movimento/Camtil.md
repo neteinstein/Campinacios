@@ -66,9 +66,12 @@ Carlos Azevedo MENDES SJ, «Como surgiu o Camtil - desde a formação até final
 
 ## Páginas que ligam para aqui
 
+- [Animador](Animador.md)
 - [Campinácios](Campin%C3%A1cios.md)
+- [Cantinácio: Campinácios](Cantin%C3%A1cio/Campin%C3%A1cios.md)
 - [Gambozinos](Gambozinos.md)
 - [Jambo 99](../Acampamentos/1999/Jambo%2099.md)
+- [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
 
 ---
 

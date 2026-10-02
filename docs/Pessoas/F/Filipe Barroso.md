@@ -14,7 +14,7 @@ Filipe Emanuel dos Santos Albuquerque Barroso, um dos animadores do Colégio Sã
     - * 2001 [Quatro Patas](../../Acampamentos/2001/Quatro%20Patas.md) * 2003 [Cabala](../../Acampamentos/2003/Cabala.md) * 2005 [Fofinhos](../../Acampamentos/2005/F%C3%B3finhos.md)
 - **Animador**
     - * 2006 [Em Busca da CaraBela](../../Acampamentos/2006/Em%20Busca%20da%20CaraBela.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) * 2008 [Eureka](../../Acampamentos/2008/Eureka.md) - [Animador Livre](../../Cargos/Animador%20Livre.md) * 2009 [Bublix](../../Acampamentos/2009/Bublix.md) - [Animador Livre](../../Cargos/Animador%20Livre.md) * 2010 [Walkabout](../../Acampamentos/2010/Walkabout.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
-    - 2011 [Pescanova](../../Acampamentos/2011/Pescanova.md)
+    - 2011 [Pescanova](../../Acampamentos/2011/Pescanova.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
 ## Pessoal
 

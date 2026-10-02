@@ -13,6 +13,7 @@
 - [Agroal](../../Acampamentos/1992/Agroal.md)
 - [Aranha](../../Acampamentos/1997/Aranha.md)
 - [Calinadas](../../Acampamentos/1998/Calinadas.md)
+- [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
 - [Gipsy Kings](../../Acampamentos/1999/Gipsy%20Kings.md)
 
 ---

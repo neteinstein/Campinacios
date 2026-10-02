@@ -126,7 +126,22 @@ Cada caso, cada pessoa, deve ser tratada à sua maneira.
 
 Tem que haver uma diversidade e complementação dos vários membros da família, para que possa existir uma harmonia total.
 
+## Plano de Formação de Animadores {#plano-de-formacao}
+
+Em 2009 a página da [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md) publicou o plano de formação para os novos animadores, assente nos Estatutos e na ideia de que a qualidade dos acampamentos depende da formação de quem os anima. Em resumo:
+
+- **Quem pode ser proposto pela Direcção Local:** quem foi participante dos acampamentos (de preferência com o acampamento de Lambretas feito ou em lista de espera), tem 18 anos ou os faz nesse ano, já saiu do colégio ou está a repetir o 12.º ano, é aprovado pela [Direcção Nacional](../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) e se compromete com o plano. Os outros casos são vistos pela Direcção Local e pela Direcção Nacional.
+- **Duração:** um ano lectivo, de Setembro a Setembro, com participação no Encontro Nacional de Animadores e no Encontro Nacional.
+- **Acampamento de formação:** para todos os animadores em formação dos três colégios, no Verão, no fim do ano de formação; nesse Verão não podem animar outro acampamento, e quem não o puder fazer fá-lo no ano seguinte.
+- **Fim-de-semana de espiritualidade inaciana:** um CIF, uns Exercícios Espirituais ou a Páscoa Inaciana, que pode ser escolhido entre o que os Centros Universitários oferecem (avisando a Direcção Local); se possível, a Direcção Nacional organiza um.
+- **Primeiros socorros e segurança:** dois dias, com um curso em cada colégio, à escolha do formando.
+- **Custos:** em parte pagos pelo GRACOS, por diligência do [Assistente Nacional](../Categorias/Assistentes%20Nacionais.md).
+- **Excepções:** um impedimento de ir ao acampamento de formação é avaliado pela Direcção Nacional; uma acção substituída por outra da Pastoral Intercolegial e Universitária dos Jesuítas tem de ser aprovada pela Direcção Local; e os animadores do [Camtil](Camtil.md) e dos [Gambozinos](Gambozinos.md) com dois ou mais anos de animação podem animar acampamentos dos Campinácios sem fazer o plano.
+
+Na mesma secção estava o texto «Os Animadores», do [António Valério](../Pessoas/A/Ant%C3%B3nio%20Val%C3%A9rio.md) sj (Dezembro de 2009), sobre uma reunião de animadores ao fim do sétimo dia de campo e o que os leva a dar tanto de si: devolver o que receberam como participantes, conhecer os próprios limites sem querer ser «animador-estrela», e o valor do serviço gratuito. Ver os dois textos [no web.archive.org](https://web.archive.org/web/20110916032317/http://www.campinacios.org:80/index.php?option=com_content&view=category&layout=blog&id=41&Itemid=82).
+
 ## Páginas que ligam para aqui
 
 - [Manual de Funções](Manual%20de%20Fun%C3%A7%C3%B5es.md)
+- [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
 - [Vocabulário](Vocabul%C3%A1rio.md)

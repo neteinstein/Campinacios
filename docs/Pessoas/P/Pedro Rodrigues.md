@@ -24,7 +24,10 @@ Pedro Rodrigues foi de 2004 a 2006 um dos animadores do Colégio da Imaculada Co
 
 ---
 
+**Outros nomes:** Pedro Teixeira Rodrigues
+
 | Categorias |
 | --- |
 | [Animadores](../../Categorias/Animadores.md) |
 | [Animadores do CAIC](../../Categorias/Animadores%20do%20CAIC.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

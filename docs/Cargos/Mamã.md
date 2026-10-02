@@ -288,8 +288,13 @@ Quando tiveres dúvidas do que é ser mamã de acampamento lembra-te como é (ex
 - [À Brava](../Acampamentos/2025/%C3%80%20Brava.md)
 - [À Grande e à Francesa](../Acampamentos/2022/%C3%80%20Grande%20e%20%C3%A0%20Francesa.md)
 - [À Mesa](../Acampamentos/2024/%C3%80%20Mesa.md)
+- [Baba Yetu](../Acampamentos/2010/Baba%20Yetu.md)
+- [Conta Kms](../Acampamentos/2012/Conta%20Kms.md)
 - [Êxodo](../Acampamentos/2008/%C3%8Axodo.md)
 - [Ídolo](../Acampamentos/2004/%C3%8Ddolo.md)
+- [Mafalda Aleixo](../Pessoas/M/Mafalda%20Aleixo.md)
+- [Rebenta a Bolha](../Acampamentos/2012/Rebenta%20a%20Bolha.md)
+- [Sílvia Lobo](../Pessoas/S/S%C3%ADlvia%20Lobo.md)
 
 ---
 

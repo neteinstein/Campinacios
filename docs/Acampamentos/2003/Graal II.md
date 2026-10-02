@@ -9,13 +9,15 @@ Foi neste campo que se cantou a música "Pára e Repara" (ver [Cantinácio](../.
 - [Director](../../Cargos/Director.md) - [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Joana Osório](../../Pessoas/J/Joana%20Os%C3%B3rio.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [José Frazão](../../Pessoas/J/Jos%C3%A9%20Fraz%C3%A3o.md) sj
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Sérgio Carvalho](../../Pessoas/S/S%C3%A9rgio%20Carvalho.md) sj, [Luís Pereira](../../Pessoas/L/Lu%C3%ADs%20Pereira.md), Alexandra Gonçalves, [Martim Cunha Ferreira](../../Pessoas/M/Martim%20Cunha%20Ferreira.md), [Manuel Vilhena](../../Pessoas/M/Manuel%20Vilhena.md), [Rita Simões](../../Pessoas/R/Rita%20Sim%C3%B5es.md) e [Daniela Ribeiro](../../Pessoas/D/Daniela%20Ribeiro.md)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Sérgio Carvalho](../../Pessoas/S/S%C3%A9rgio%20Carvalho.md) sj, [Luís Pereira](../../Pessoas/L/Lu%C3%ADs%20Pereira.md), [Alexandra Gonçalves](../../Pessoas/A/Alexandra%20Gon%C3%A7alves.md), [Martim Cunha Ferreira](../../Pessoas/M/Martim%20Cunha%20Ferreira.md), [Manuel Vilhena](../../Pessoas/M/Manuel%20Vilhena.md), [Rita Simões](../../Pessoas/R/Rita%20Sim%C3%B5es.md) e [Daniela Ribeiro](../../Pessoas/D/Daniela%20Ribeiro.md)
 - [Animadores](../../Categorias/Animadores.md) - [Inês Próspero](../../Pessoas/I/In%C3%AAs%20Pr%C3%B3spero.md)
 
 ## Páginas que ligam para aqui
 
+- [Alexandra Gonçalves](../../Pessoas/A/Alexandra%20Gon%C3%A7alves.md)
 - [Andreia Pereira](../../Pessoas/A/Andreia%20Pereira.md)
 - [António Matias](../../Pessoas/A/Ant%C3%B3nio%20Matias.md)
+- [Cantinácio: Campinácios](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md)
 - [Carlos Miguel Albuquerque](../../Pessoas/C/Carlos%20Miguel%20Albuquerque.md)
 - [Carlos Rodrigues](../../Pessoas/C/Carlos%20Rodrigues.md)
 - [Carolina Silva](../../Pessoas/C/Carolina%20Silva.md)
