@@ -13,7 +13,7 @@ Animador do CC desde 2004.
     - 1999 [Hakaros](../../Acampamentos/1999/Hakaros.md)
     - 2000 [Gordurosa](../../Acampamentos/2000/Gordurosa.md)
 - **Formação**
-    - 2004 [Casca de Banana](../../Acampamentos/2005/Casca%20de%20Banana.md)
+    - 2005 [Casca de Banana](../../Acampamentos/2005/Casca%20de%20Banana.md)
 - **Animador**
     - 2005 [Academia](../../Acampamentos/2005/Academia.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2006 [Origami](../../Acampamentos/2006/Origami.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)

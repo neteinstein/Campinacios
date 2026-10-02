@@ -9,7 +9,7 @@
     - 2003 [Cabala](../../Acampamentos/2003/Cabala.md)
     - 2004 [Descola](../../Acampamentos/2004/Descola.md)
     - 2005 [Fófinhos](../../Acampamentos/2005/F%C3%B3finhos.md)
-    - 2008 [Xii Tava Kuase Lá...!](../../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md)
+    - 2006 [Xii Tava Kuase Lá...!](../../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md)
 - **Formação:**
     - 2007 [Graal III](../../Acampamentos/2007/Graal%20III.md)
 - **Animador:**

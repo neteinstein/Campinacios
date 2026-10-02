@@ -132,7 +132,7 @@
 - [Francisco Carvalho](../Pessoas/F/Francisco%20Carvalho.md)
 - [Francisco Dioniz Barroso Loureiro](../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
 - [Francisco Maria](../Pessoas/F/Francisco%20Maria.md)
-- [Francisco Silva](../Pessoas/F/Francisco%20Silva.md)
+- [Francisco Silva (Kiko)](../Pessoas/F/Francisco%20Silva%20%28Kiko%29.md)
 - [Francisco Silva Rodrigues](../Pessoas/F/Francisco%20Silva%20Rodrigues.md)
 - [Francisco Xavier](../Pessoas/F/Francisco%20Xavier.md)
 - [Gabriela Poças](../Pessoas/G/Gabriela%20Po%C3%A7as.md)

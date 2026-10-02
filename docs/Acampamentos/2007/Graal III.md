@@ -16,7 +16,7 @@ Graal III foi um acampamento de [Formação de Animadores](../../Categorias/Form
 - [Diogo Belo](../../Pessoas/D/Diogo%20Belo.md)
 - [Diogo Costa](../../Pessoas/D/Diogo%20Costa.md)
 - [Diogo José Nunes Carneiro](../../Pessoas/D/Diogo%20Jos%C3%A9%20Nunes%20Carneiro.md)
-- [Francisco Silva](../../Pessoas/F/Francisco%20Silva.md)
+- [Francisco Silva (Kiko)](../../Pessoas/F/Francisco%20Silva%20%28Kiko%29.md)
 - [Gonçalo Vaz Pedro](../../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md)
 - [Inês Turras](../../Pessoas/I/In%C3%AAs%20Turras.md)
 - [Joana Gomes](../../Pessoas/J/Joana%20Gomes.md)
