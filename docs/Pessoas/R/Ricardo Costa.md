@@ -1,7 +1,5 @@
 # Ricardo Costa
 
-*Nota: Este artigo é sobre Ricardo Costa (Teddy Bear), animador do CC. Há outro Ricardo Costa, animador do Pedra Sobre Pedra em 2011.*
-
 Ricardo Costa, conhecido por Teddy Bear, é animador do [CC](../../Categorias/Animadores%20do%20CC.md).
 
 ### Acampamentos
@@ -13,6 +11,7 @@ Ricardo Costa, conhecido por Teddy Bear, é animador do [CC](../../Categorias/An
     - 2010 [Obra Prima](../../Acampamentos/2010/Obra%20Prima.md)
 - **Animador(a):**
     - 2010 [Baba Yetu](../../Acampamentos/2010/Baba%20Yetu.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2011 [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2014 [Fiat'ársea](../../Acampamentos/2014/Fiat%27%C3%A1rsea.md) - [Tio](../../Cargos/Tio.md)
     - 2016 [Mostra Garra](../../Acampamentos/2016/Mostra%20Garra.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2017 [Supera-te](../../Acampamentos/2017/Supera-te.md) - [Tio](../../Cargos/Tio.md)
@@ -24,6 +23,7 @@ Ricardo Costa, conhecido por Teddy Bear, é animador do [CC](../../Categorias/An
 - [Baba Yetu](../../Acampamentos/2010/Baba%20Yetu.md)
 - [Fiat'ársea](../../Acampamentos/2014/Fiat%27%C3%A1rsea.md)
 - [Mostra Garra](../../Acampamentos/2016/Mostra%20Garra.md)
+- [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md)
 - [Supera-te](../../Acampamentos/2017/Supera-te.md)
 - [Vaivém](../../Acampamentos/2018/Vaiv%C3%A9m.md)
 - [Zapping](../../Acampamentos/2019/Zapping.md)
