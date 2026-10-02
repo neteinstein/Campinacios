@@ -1,6 +1,7 @@
 # Cantinácio: Campinácios
 
 [![Capa da secção «Hits de Campo»: candeeiros e figuras de campo, sobre fundo azul escuro](../../assets/imagens/Cantin%C3%A1cio%202019/p089.jpg){ width="300" }](../../assets/imagens/Cantin%C3%A1cio%202019/p089.jpg)
+
 *Capa da secção «Hits de Campo» do Cantinácio 2019 (3.ª edição), com ilustração de [Francisco Rodrigues (Pica)](../../Pessoas/F/Francisco%20Silva%20Rodrigues.md).*
 
 Músicas nascidas nos acampamentos dos [Campinácios](../Campin%C3%A1cios.md) e outras músicas para cantar nos acampamentos: rodas, danças, bênçãos das refeições e outros êxitos de campo.
