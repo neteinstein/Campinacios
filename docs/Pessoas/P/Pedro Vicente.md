@@ -73,12 +73,6 @@ E rever antigos amigos e fazer novos no encontro nacional… já com os campos �
 
 Respondendo à pergunta inicial… ganhei tudo… o que é importante pelo menos.
 
-## Pessoal
-
-### Página
-
-[www.pedrovicente.pt](https://www.pedrovicente.pt)
-
 ## Páginas que ligam para aqui
 
 - [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
