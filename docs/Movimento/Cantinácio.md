@@ -12,6 +12,8 @@ Um novo Cantinácio foi lançado após anos e anos de tentativas: a 3.ª ediçã
 
 O [Manual de Instruções](Cantin%C3%A1cio/Manual%20de%20Instru%C3%A7%C3%B5es.md) do Cantinácio de 2019 explica como ler acordes e tocar guitarra, e traz as tabelas de acordes para guitarra e ukelele.
 
+- [Escalas](Cantin%C3%A1cio/Escalas.md) — como mudar uma música de tom
+
 ## Letras e acordes
 
 As músicas do Cantinácio de 2019 (3.ª edição) foram juntadas às que já estavam no Wikinácios. Quando uma música já existia e a versão de 2019 é diferente, as duas aparecem, uma a seguir à outra.
@@ -22,8 +24,10 @@ As músicas do Cantinácio de 2019 (3.ª edição) foram juntadas às que já es
 - [Camtil](Cantin%C3%A1cio/Camtil.md) — 70 músicas nascidas nos acampamentos
 - [Campinácios](Cantin%C3%A1cio/Campin%C3%A1cios.md) — 74 músicas nascidas ou cantadas nos acampamentos
 - [Gambozinos](Cantin%C3%A1cio/Gambozinos.md) — 1 música nascida nos acampamentos
+
+## Aplausos
+
 - [Aplausos](Cantin%C3%A1cio/Aplausos.md) — 134 palmas, aplausos e gritos de roda
-- [Escalas](Cantin%C3%A1cio/Escalas.md) — como mudar uma música de tom
 
 ## Gravações
 
