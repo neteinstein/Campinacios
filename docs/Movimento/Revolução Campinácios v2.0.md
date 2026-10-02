@@ -83,11 +83,3 @@ Antes de a página nova abrir, o endereço mostrou em Abril de 2009 «Campináci
 Nos *Links* estavam os três colégios, o [Camtil](Camtil.md), os [Gambozinos](Gambozinos.md) e a Essejota. Depois do «After Ben», uma sondagem perguntava como tinha corrido, de «Eu não fui…» a «Eu fui e sou mais feliz por isso!».
 
 Tinha ainda um **fórum** (Kunena), que em 2009 tinha 7 utilizadores e 2 mensagens; uma **galeria de fotos** (Coppermine), com álbuns vazios do OPA (2007) e do OrienTu, do TufarfarAway e do Entre ASPAS (2008); o **Antigo Guestbook**, com as mensagens da página original, fechado em Dezembro de 2009; e **sondagens**, como «A Revolução Campinácios v2.0 está a ser…», que entre Abril e Junho de 2009 teve 23 votos: 17 em «…brutal», 4 em «…boa», 1 em «…hum?» e 1 em «…igual ao litro».
-
-## Páginas que ligam para aqui
-
-- [Animador](Animador.md)
-- [Conteúdos](../Wikin%C3%A1cios/Conte%C3%BAdos.md)
-- [Encontro Nacional de Animadores 2006](../Encontros/Encontro%20Nacional%20de%20Animadores%202006.md)
-- [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)
-- [Sobre](../Wikin%C3%A1cios/index.md)

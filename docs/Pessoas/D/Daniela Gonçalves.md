@@ -19,11 +19,6 @@
     - 2025 [Mangueira Nice](../../Acampamentos/2025/Mangueira%20Nice.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2026 [Oh Pai, Keshumo](../../Acampamentos/2026/Oh%20Pai%2C%20Keshumo.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
 
-## Páginas que ligam para aqui
-
-- [Mangueira Nice](../../Acampamentos/2025/Mangueira%20Nice.md)
-- [Oh Pai, Keshumo](../../Acampamentos/2026/Oh%20Pai%2C%20Keshumo.md)
-
 ---
 
 **Outros nomes:** Dani

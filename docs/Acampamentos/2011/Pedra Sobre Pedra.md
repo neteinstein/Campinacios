@@ -13,24 +13,6 @@
 - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Ricardo Costa](../../Pessoas/R/Ricardo%20Costa.md)
 - [Animadores](../../Categorias/Animadores.md) - [Vânia Carvalho](../../Pessoas/V/V%C3%A2nia%20Carvalho.md), [Madalena Pereira](../../Pessoas/M/Madalena%20Pereira.md), [Mimas](../../Pessoas/M/Mariana%20Rato.md), Nathália, [Duda](../../Pessoas/S/Sara%20Fernandes.md), [João Cortês Ferreira](../../Pessoas/J/Jo%C3%A3o%20Cort%C3%AAs%20Ferreira.md), [Pedro Pinto](../../Pessoas/P/Pedro%20Pinto.md), [José Ferreira](../../Pessoas/J/Jos%C3%A9%20Emanuel%20Ferreira.md) e [Miguel Monteiro](../../Pessoas/M/Miguel%20Monteiro.md)
 
-## Páginas que ligam para aqui
-
-- [Cecília Mendonça](../../Pessoas/C/Cec%C3%ADlia%20Mendon%C3%A7a.md)
-- [Gonçalo Vaz Pedro](../../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md)
-- [Inês Fonseca](../../Pessoas/I/In%C3%AAs%20Fonseca.md)
-- [Jacinto Bezerra](../../Pessoas/J/Jacinto%20Bezerra.md)
-- [João Cortês Ferreira](../../Pessoas/J/Jo%C3%A3o%20Cort%C3%AAs%20Ferreira.md)
-- [José Emanuel Ferreira](../../Pessoas/J/Jos%C3%A9%20Emanuel%20Ferreira.md)
-- [Madalena Pereira](../../Pessoas/M/Madalena%20Pereira.md)
-- [Magda Martins](../../Pessoas/M/Magda%20Martins.md)
-- [Mariana Rato](../../Pessoas/M/Mariana%20Rato.md)
-- [Miguel Monteiro](../../Pessoas/M/Miguel%20Monteiro.md)
-- [Pedro Pinto](../../Pessoas/P/Pedro%20Pinto.md)
-- [Ricardo Costa](../../Pessoas/R/Ricardo%20Costa.md)
-- [Sara Fernandes](../../Pessoas/S/Sara%20Fernandes.md)
-- [Tiago Carneiro](../../Pessoas/T/Tiago%20Carneiro.md)
-- [Vânia Carvalho](../../Pessoas/V/V%C3%A2nia%20Carvalho.md)
-
 ---
 
 | Categorias |

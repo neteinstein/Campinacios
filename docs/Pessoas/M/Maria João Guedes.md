@@ -12,14 +12,6 @@
 - 2025 [Encontro Nacional 2025](../../Encontros/Encontro%20Nacional%202025.md) - Mamã
 - 2026 [Encontro Nacional 2026](../../Encontros/Encontro%20Nacional%202026.md) - Responsável do imaginário
 
-## Páginas que ligam para aqui
-
-- [Astérix e Obélerdos](../../Acampamentos/2024/Ast%C3%A9rix%20e%20Ob%C3%A9lerdos.md)
-- [Encontro Nacional 2023](../../Encontros/Encontro%20Nacional%202023.md)
-- [Encontro Nacional 2025](../../Encontros/Encontro%20Nacional%202025.md)
-- [Encontro Nacional 2026](../../Encontros/Encontro%20Nacional%202026.md)
-- [Não Confundas](../../Acampamentos/2025/N%C3%A3o%20Confundas.md)
-
 ---
 
 | Categorias |

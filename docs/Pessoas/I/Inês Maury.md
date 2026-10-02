@@ -9,10 +9,6 @@
 
 É irmã da [Margarida Maury](../M/Margarida%20Maury.md)
 
-## Páginas que ligam para aqui
-
-- [Margarida Maury](../M/Margarida%20Maury.md)
-
 ---
 
 | Categorias |

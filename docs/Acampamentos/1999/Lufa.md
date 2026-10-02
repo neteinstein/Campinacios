@@ -7,12 +7,9 @@ O Lufa decorreu em [Alvoco das Várzeas](../../Restrito/Locais%20de%20Acampament
 - [Director](../../Cargos/Director.md) - [Chico Lopes](../../Pessoas/F/Francisco%20Lopes.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [São Martinho](../../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [Alvoco II](Alvoco%20II.md)
-- [Conceição Martinho](../../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)
 - [Diogo Belo](../../Pessoas/D/Diogo%20Belo.md)
-- [Francisco Lopes](../../Pessoas/F/Francisco%20Lopes.md)
 - [Francisco Silva](../../Pessoas/F/Francisco%20Silva.md)
 - [Inês Turras](../../Pessoas/I/In%C3%AAs%20Turras.md)
 

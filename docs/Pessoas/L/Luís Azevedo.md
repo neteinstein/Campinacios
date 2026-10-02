@@ -13,12 +13,6 @@
     - 2005 [Fófinhos](../../Acampamentos/2005/F%C3%B3finhos.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2007 [M&M](../../Acampamentos/2007/M%26M.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
-## Páginas que ligam para aqui
-
-- [Fófinhos](../../Acampamentos/2005/F%C3%B3finhos.md)
-- [M&M](../../Acampamentos/2007/M%26M.md)
-- [Ídolo](../../Acampamentos/2004/%C3%8Ddolo.md)
-
 ---
 
 | Categorias |

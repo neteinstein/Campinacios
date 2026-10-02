@@ -20,20 +20,15 @@
 - [Mafalda Pereira](../../Pessoas/M/Mafalda%20Pereira.md)
 - [Mariana Cardoso](../../Pessoas/M/Mariana%20Cardoso.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
 - [Ana Pinheiro](../../Pessoas/A/Ana%20Pinheiro.md)
 - [Bernardo Narciso](../../Pessoas/B/Bernardo%20Narciso.md)
-- [Conceição Martinho](../../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)
-- [Francisco Lopes](../../Pessoas/F/Francisco%20Lopes.md)
-- [Gabriela Poças](../../Pessoas/G/Gabriela%20Po%C3%A7as.md)
-- [Gonçalo Frade](../../Pessoas/G/Gon%C3%A7alo%20Frade.md)
 - [Hugo Ferreira](../../Pessoas/H/Hugo%20Ferreira.md)
 - [Jacinto Bezerra](../../Pessoas/J/Jacinto%20Bezerra.md)
 - [João Monteiro](../../Pessoas/J/Jo%C3%A3o%20Monteiro.md)
 - [Mafalda Pereira](../../Pessoas/M/Mafalda%20Pereira.md)
 - [Mariana Cardoso](../../Pessoas/M/Mariana%20Cardoso.md)
-- [Paulo Tremoço](../../Pessoas/P/Paulo%20Tremo%C3%A7o.md)
 
 ---
 

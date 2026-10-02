@@ -9,13 +9,9 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Heitor](../../Pessoas/H/Heitor%20Rosa.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md) sj
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [Heitor Rosa](../../Pessoas/H/Heitor%20Rosa.md)
 - [Jaime Lucas Pires](../../Pessoas/J/Jaime%20Lucas%20Pires.md)
-- [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
-- [Pedro Santos](../../Pessoas/P/Pedro%20Santos.md)
-- [Teresa Sá](../../Pessoas/T/Teresa%20S%C3%A1.md)
 
 ---
 

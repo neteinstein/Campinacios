@@ -18,13 +18,6 @@
     - 2000 [Tranquilo](../../Acampamentos/2000/Tranquilo.md) - [Director](../../Cargos/Director.md)
     - 2001 [Cinena](../../Acampamentos/2001/Cinena.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
-## Páginas que ligam para aqui
-
-- [Caroço](../../Acampamentos/1999/Caro%C3%A7o.md)
-- [Cinena](../../Acampamentos/2001/Cinena.md)
-- [Torneira](../../Acampamentos/1997/Torneira.md)
-- [Tranquilo](../../Acampamentos/2000/Tranquilo.md)
-
 ---
 
 | Categorias |

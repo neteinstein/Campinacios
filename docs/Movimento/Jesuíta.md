@@ -10,7 +10,3 @@ Em 1537 viajaram até Itália em busca de aprovação papal da sua nova ordem. O
 Na companhia de Faber e Lainez, Inácio viajou até Roma em Outubro de 1538, pedir ao papa a aprovação da ordem. A congregação de cardeais deu parecer positivo à constituição apresentada, e em 27 de Setembro de 1540, Paulo III confirmou a ordem através da Bula "Regimini militantis Ecclesiae", que integra a "Fórmula do Instituto" onde está contida a legislação substancial da Ordem, cujo número de membros foi limitado a 60. A limitação foi porém posteriormente abolida pela bula Injunctum nobis de 14 de Março de 1543. Inácio de Loyola foi escolhido para servir como primeiro superior geral. Ele enviou os seus companheiros e missionários para vários países europeus, com o fim de criar escolas, liceus e seminários.
 
 Inácio de Loyola escreveu as constituições jesuítas, adoptadas em 1554, que deram origem a uma organização rigidamente disciplinada, enfatizando a absoluta auto-abnegação e a obediência ao Papa e os superiores hierárquicos (perinde ac cadaver, disciplinado como um cadáver, nas palavras de Inácio). O seu grande princípio tornou-se o lema dos jesuítas: "Ad maiorem Dei gloriam" ("à maior glória de Deus")
-
-## Páginas que ligam para aqui
-
-- [Vocabulário](Vocabul%C3%A1rio.md)

@@ -1477,13 +1477,6 @@ Compilação por [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md), com contribui
 [Mário Pedro](../Pessoas/M/M%C3%A1rio%20Carvalho.md) e [Joana Fonseca](../Pessoas/J/Joana%20Fonseca.md). Agradecimentos aos diversos animadores que ajudaram na elaboração,
 reescrita e reorganização deste livro e do que lhe deu origem, as fichas de jogo.
 
-## Páginas que ligam para aqui
-
-- [Caderno da Mamã](Caderno%20da%20Mam%C3%A3.md)
-- [Manual de Funções](Manual%20de%20Fun%C3%A7%C3%B5es.md)
-- [Manual do Director](Manual%20do%20Director.md)
-- [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
-
 ---
 
 **Outros nomes:** Fichas de Jogo

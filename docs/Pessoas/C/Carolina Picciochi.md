@@ -9,10 +9,6 @@ Carolina Picciochi, conhecida por Pitxi, é animadora.
 - **Animadora:**
     - 2026 [Navalha-me Deus](../../Acampamentos/2026/Navalha-me%20Deus.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
-## Páginas que ligam para aqui
-
-- [Navalha-me Deus](../../Acampamentos/2026/Navalha-me%20Deus.md)
-
 ---
 
 **Outros nomes:** Pitxi

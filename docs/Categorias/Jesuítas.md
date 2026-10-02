@@ -85,10 +85,6 @@ Jesuítas que animam ou animaram acampamentos de Campinácios
 - [Vasco Teixeira](../Pessoas/V/Vasco%20Teixeira.md)
 - [Vicente Goes](../Pessoas/V/Vicente%20Goes.md)
 
-## Páginas que ligam para aqui
-
-- [Campinácios](../Movimento/Campin%C3%A1cios.md)
-
 ---
 
 | Categorias |

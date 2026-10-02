@@ -20,10 +20,16 @@ with the same or similar names are kept apart.
                       tem de estar na equipa desse campo, e quem está na
                       equipa de um campo tem de o ter em "### Acampamentos"
                       (a coordenação de um curso basta estar ligada, em
-                      "### Cargos"); e "Páginas que ligam para aqui" de cada
-                      um tem de listar o outro. Quem foi participante ou
-                      esteve em formação não tem de aparecer no campo: os
-                      campos só listam a equipa.
+                      "### Cargos"). Confere também as duas secções que se
+                      geram a partir das páginas das pessoas ("Pessoas com
+                      este cargo" nos cargos e "Participantes que se
+                      tornaram animadores" nos campos) e que já não há
+                      "Páginas que ligam para aqui" em lado nenhum. Quem
+                      foi participante ou esteve em formação não tem de
+                      aparecer na equipa do campo.
+  secoes              escreve essas duas secções em todos os cargos e campos
+                      (só mexe nas páginas que mudam). Corra-o sempre que
+                      uma pessoa ganhar ou perder um cargo ou um campo.
 
 Names are compared without accents or case. "Similar" means: the same
 first and last name ("Ana Martins" / "Ana Rita Martins"), one name inside
@@ -36,7 +42,7 @@ import sys
 import unicodedata
 from collections import defaultdict
 from pathlib import Path
-from urllib.parse import unquote
+from urllib.parse import quote, unquote
 
 ROOT = Path(__file__).resolve().parents[4]
 DOCS = ROOT / 'docs'
@@ -45,6 +51,15 @@ DISAMBIG = DOCS / 'Movimento' / 'Desambiguação'
 ALL_PAGES = DOCS / 'Todos os artigos.md'
 EVENTS = [DOCS / 'Acampamentos', DOCS / 'Encontros']
 LEGACY = ROOT / '.claude' / 'skills' / 'nova-pessoa' / 'legado.txt'
+
+# Secções geradas a partir das páginas das pessoas (ver `secoes`).
+SEC_CARGO = 'Pessoas com este cargo'
+SEC_CAMPO = 'Participantes que se tornaram animadores'
+DERIVED = re.compile(rf'^## (?:{SEC_CARGO}|{SEC_CAMPO})$', re.M)
+FOOTER = re.compile(r'^---$\n\n(?:\*\*Outros nomes|\| Categorias)', re.M)
+CARGOS = DOCS / 'Cargos'
+# papéis, na página de uma pessoa, que põem o campo na secção do campo
+JOINED = ('Participante', 'Formação')
 
 LINK = re.compile(r'\[([^\]]*)\]\((<[^>]+>|[^)\s]+)\)')
 PARTICLES = {'de', 'da', 'do', 'dos', 'das', 'e', 'sj'}
@@ -96,9 +111,9 @@ def title(path):
 
 
 def body(path):
-    """The page without its backlinks list and footer (other pages' names)."""
+    """The page without its derived lists and footer (other pages' names)."""
     text = path.read_text(encoding='utf-8')
-    text = re.split(r'^## Páginas que ligam para aqui$', text, flags=re.M)[0]
+    text = DERIVED.split(text)[0]
     return re.split(r'^---$\n\n(?:\*\*Outros nomes|\| Categorias)', text,
                     flags=re.M)[0]
 
@@ -240,13 +255,45 @@ def role_of(line):
     return None
 
 
-def backlinks(page):
-    """As páginas listadas em "## Páginas que ligam para aqui", ou None."""
-    m = re.search(r'^## Páginas que ligam para aqui\s*$(.*?)(?=^---|^## |\Z)',
+def listed(page, name):
+    """As páginas listadas em "## name", ou None se a secção não existe."""
+    m = re.search(rf'^## {re.escape(name)}\s*$(.*?)(?=^---$|^## |\Z)',
                   page.read_text(encoding='utf-8'), re.M | re.S)
     if not m:
         return None
     return {target(h, page) for _, h in LINK.findall(m.group(1))}
+
+
+def is_animador(person):
+    """Tem a categoria "Animadores" no rodapé."""
+    text = person.read_text(encoding='utf-8')
+    return bool(re.search(r'^\| \[Animadores\]\([^)]*Categorias/', text,
+                          re.M))
+
+
+def set_section(page, name, targets):
+    """Reescreve a secção "## name" de `page` (ou tira-a, se `targets` é
+    vazio), antes do rodapé. Tira também a antiga "Páginas que ligam para
+    aqui". Devolve True se a página mudou."""
+    old = page.read_text(encoding='utf-8')
+    text = re.sub(rf'^## (?:Páginas que ligam para aqui|{name})\s*$'
+                  r'.*?(?=^---$|^## |\Z)', '', old, flags=re.M | re.S)
+    if targets:
+        items = sorted(((title(t), t) for t in targets),
+                       key=lambda x: (fold(x[0]), x[0]))
+        block = f'## {name}\n\n' + ''.join(
+            '- [{}]({})\n'.format(
+                label, quote(Path(os.path.relpath(t, page.parent)).as_posix()))
+            for label, t in items) + '\n'
+        m = FOOTER.search(text)
+        if m:
+            text = text[:m.start()] + block + text[m.start():]
+        else:
+            text = text.rstrip('\n') + '\n\n' + block.rstrip('\n') + '\n'
+    if text == old:
+        return False
+    page.write_text(text, encoding='utf-8')
+    return True
 
 
 class Ties:
@@ -295,10 +342,28 @@ class Ties:
                     elif t in site.disambigs and TEAM.search(section):
                         self.team_disambig[camp].append((t, label))
 
+    def derived(self):
+        """{página: (secção, páginas que lá têm de estar)}: as pessoas com
+        cada cargo (as que ligam para a página do cargo, em qualquer sítio)
+        e, em cada campo, os animadores que lá foram participantes (ou
+        estiveram em formação)."""
+        cargos = {p for p in CARGOS.glob('*.md') if p.name != 'index.md'}
+        out = {c: (SEC_CARGO, set()) for c in cargos}
+        out.update({c: (SEC_CAMPO, set()) for c in self.camps})
+        for person in self.site.people:
+            for _, h in LINK.findall(body(person)):
+                if target(h, person) in cargos:
+                    out[target(h, person)][1].add(person)
+            if is_animador(person):
+                for camp, role in self.roles[person].items():
+                    if role in JOINED:
+                        out[camp][1].add(person)
+        return out
+
     def problems(self, pages=None):
-        """Linhas de erro das ligações que só existem de um lado. Só a
-        equipa (animadores) tem de estar nos dois: quem foi participante
-        ou esteve em formação não aparece na página do campo."""
+        """Linhas de erro das ligações que só existem de um lado (só a
+        equipa tem de estar nos dois: quem foi participante ou esteve em
+        formação não aparece na equipa do campo) e das secções geradas."""
         site, out = self.site, []
 
         def wanted(*ps):
@@ -336,20 +401,28 @@ class Ties:
                 elif role not in ('Animador', '?'):
                     out.append(f'{rel(camp)} tem {rel(person)} na equipa, mas '
                                f'a página da pessoa tem-no como {role}')
-        pairs = [(a, b) for a in self.links for b in self.links[a]]
-        for a, b in pairs:
-            listed = backlinks(b)
-            if wanted(a, b) and listed is not None and a not in listed:
-                out.append(f'{rel(b)}: falta {rel(a)} em "Páginas que ligam '
-                           'para aqui"')
-        camp_set = set(self.camps)
-        for b in [*site.people, *self.camps]:
-            for a in sorted(backlinks(b) or (), key=str):
-                person_camp = (a in site.people and b in camp_set) or \
-                    (a in camp_set and b in site.people)
-                if person_camp and b not in self.links[a] and wanted(a, b):
-                    out.append(f'{rel(b)}: "Páginas que ligam para aqui" tem '
-                               f'{rel(a)}, que não liga para aqui')
+        for page, (name, want) in self.derived().items():
+            have = listed(page, name)
+            if not wanted(page, *want, *(have or ())):
+                continue
+            fix = '; corra pessoas.py secoes'
+            if want and have is None:
+                out.append(f'{rel(page)}: falta a secção "## {name}"{fix}')
+            elif have is not None and not want:
+                out.append(f'{rel(page)}: a secção "## {name}" devia ser '
+                           f'tirada, não há ninguém para listar{fix}')
+            elif have is not None and have != want:
+                lines = [f'falta {rel(x)}' for x in sorted(want - have, key=str)]
+                lines += [f'{rel(x)} não devia estar'
+                          for x in sorted(have - want, key=str)]
+                out.append(f'{rel(page)}: "## {name}" desactualizada '
+                           f'({"; ".join(lines)}){fix}')
+        for page in sorted(DOCS.rglob('*.md')):
+            if wanted(page) and re.search(r'^## Páginas que ligam para aqui',
+                                          page.read_text(encoding='utf-8'),
+                                          re.M):
+                out.append(f'{rel(page)}: "Páginas que ligam para aqui" já '
+                           'não se usa; tire a secção')
         return out
 
 
@@ -368,6 +441,17 @@ def reciprocas(args):
         print(f'OK  {n} página(s): pessoas e acampamentos ligados nos dois '
               'sentidos.')
     return 1 if problems else 0
+
+
+def secoes():
+    """Escreve "Pessoas com este cargo" e "Participantes que se tornaram
+    animadores" em todos os cargos e campos."""
+    changed = [page for page, (name, want) in Ties(Site()).derived().items()
+               if set_section(page, name, want)]
+    for page in changed:
+        print(f'escrita  {rel(page)}')
+    print(f'{len(changed)} página(s) mudaram.')
+    return 0
 
 
 def told_apart(site, a, b):
@@ -435,6 +519,8 @@ def verificar(args):
 
 
 if __name__ == '__main__':
+    if sys.argv[1:2] == ['secoes']:
+        sys.exit(secoes())
     if len(sys.argv) < 3 or sys.argv[1] not in ('procurar', 'verificar',
                                                 'reciprocas'):
         sys.exit(__doc__)

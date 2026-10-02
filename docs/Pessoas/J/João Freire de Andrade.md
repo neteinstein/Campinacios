@@ -30,20 +30,6 @@ João Freire de Andrade é desde 2006 um dos animadores do Colégio São João d
 
 - 2010 [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md) - Divulgação
 
-## Páginas que ligam para aqui
-
-- [Baúmerang](../../Acampamentos/2007/Ba%C3%BAmerang.md)
-- [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md)
-- [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md)
-- [Maria Freire de Andrade](../M/Maria%20Freire%20de%20Andrade.md)
-- [Mãos à Obra](../../Acampamentos/2014/M%C3%A3os%20%C3%A0%20Obra.md)
-- [OrienTu](../../Acampamentos/2008/OrienTu.md)
-- [Passaportas](../../Acampamentos/2010/Passaportas.md)
-- [Pedra papel tesoura](../../Acampamentos/2011/Pedra%20papel%20tesoura.md)
-- [Realiza](../../Acampamentos/2013/Realiza.md)
-- [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
-- [Sarcófago](../../Acampamentos/2012/Sarc%C3%B3fago.md)
-
 ---
 
 **Outros nomes:** Jonifa

@@ -10,11 +10,6 @@
 - **Animador:**
     - 1993 [Quinta da Gorda](../../Acampamentos/1993/Quinta%20da%20Gorda.md) - [Director](../../Cargos/Director.md)
 
-## Páginas que ligam para aqui
-
-- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
-- [Quinta da Gorda](../../Acampamentos/1993/Quinta%20da%20Gorda.md)
-
 ---
 
 | Categorias |

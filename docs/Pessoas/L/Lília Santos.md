@@ -13,11 +13,6 @@ Lília Santos é desde 2007, um das animadoras do Colégio da Imaculada Conceiç
 - **Animador:**
     - 2009 [Incrível](../../Acampamentos/2009/Incr%C3%ADvel.md) - [Tia](../../Cargos/Tio.md)
 
-## Páginas que ligam para aqui
-
-- [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
-- [Incrível](../../Acampamentos/2009/Incr%C3%ADvel.md)
-
 ---
 
 | Categorias |

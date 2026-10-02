@@ -6,9 +6,8 @@ Este acampamento decorreu de 21 a 31 de Agosto de 1995.
 
 - [Director](../../Cargos/Director.md) - [Filipe Condado](../../Pessoas/F/Filipe%20Condado.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [Filipe Condado](../../Pessoas/F/Filipe%20Condado.md)
 - [Luís Godinho](../../Pessoas/L/Lu%C3%ADs%20Godinho.md)
 - [Ricardo Rodrigues](../../Pessoas/R/Ricardo%20Rodrigues.md)
 

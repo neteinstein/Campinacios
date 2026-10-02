@@ -14,11 +14,6 @@ Rita Lourenço é desde 2005 uma das animadoras do Colégio da Imaculada Concei�
     - 2007 [OPA](../../Acampamentos/2007/OPA.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2008 [Arethë](../../Acampamentos/2008/Areth%C3%AB.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
-## Páginas que ligam para aqui
-
-- [Arethë](../../Acampamentos/2008/Areth%C3%AB.md)
-- [OPA](../../Acampamentos/2007/OPA.md)
-
 ---
 
 | Categorias |

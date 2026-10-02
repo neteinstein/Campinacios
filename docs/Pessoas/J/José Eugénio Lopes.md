@@ -21,15 +21,6 @@ José Eugénio Lopes mais conhecido por Genito foi de 2001 a 2006 um dos animado
     - 2004 [Patos](../../Acampamentos/2004/Patos.md) - [Director](../../Cargos/Director.md)
     - 2005 [Falésia](../../Acampamentos/2005/Fal%C3%A9sia.md) - [Director Adjunto](../../Cargos/Director-Adjunto.md)
 
-## Páginas que ligam para aqui
-
-- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
-- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
-- [Falésia](../../Acampamentos/2005/Fal%C3%A9sia.md)
-- [Liberata](../../Acampamentos/2000/Liberata.md)
-- [Patos](../../Acampamentos/2004/Patos.md)
-- [Pimpolhos](../../Acampamentos/2003/Pimpolhos.md)
-
 ---
 
 **Outros nomes:** Genito

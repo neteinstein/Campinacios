@@ -22,15 +22,6 @@
 
 É irmão do [Gonçalo Belo](../G/Gon%C3%A7alo%20Belo.md)
 
-## Páginas que ligam para aqui
-
-- [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
-- [Gonçalo Belo](../G/Gon%C3%A7alo%20Belo.md)
-- [Pedra papel tesoura](../../Acampamentos/2011/Pedra%20papel%20tesoura.md)
-- [Sarcófago](../../Acampamentos/2012/Sarc%C3%B3fago.md)
-- [TSI](../../Acampamentos/2008/TSI.md)
-- [Vi-O](../../Acampamentos/2009/Vi-O.md)
-
 ---
 
 | Categorias |

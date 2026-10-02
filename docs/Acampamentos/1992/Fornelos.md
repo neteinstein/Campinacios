@@ -11,20 +11,9 @@ O Fornelos foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) qu
 - [Tias](../../Cargos/Tio.md) - [Lídia Couto](../../Pessoas/L/L%C3%ADdia%20Couto.md) e Nini
 - [Animadores](../../Categorias/Animadores.md) - [Marta Vilela](../../Pessoas/M/Marta%20Vilela.md), Joana Silva, [Ana Bela](../../Pessoas/A/Ana%20Bela.md), Horácio, [Pedro Castro](../../Pessoas/P/Pedro%20Castro.md), [Michael](../../Pessoas/M/Michael.md), [Zinho](../../Pessoas/E/Eduardo%20Rodrigues.md), [Jorge Moreira](../../Pessoas/J/Jorge%20Moreira.md) sj e Rui Pedro
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [Amílcar Sousa](../../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
-- [Ana Bela](../../Pessoas/A/Ana%20Bela.md)
-- [António Sérgio](../../Pessoas/A/Ant%C3%B3nio%20S%C3%A9rgio.md)
-- [Cláudia Montenegro](../../Pessoas/C/Cl%C3%A1udia%20Montenegro.md)
-- [Eduardo Rodrigues](../../Pessoas/E/Eduardo%20Rodrigues.md)
-- [Gonçalo Eiró](../../Pessoas/G/Gon%C3%A7alo%20Eir%C3%B3.md)
-- [Jorge Moreira](../../Pessoas/J/Jorge%20Moreira.md)
 - [José Luís Fernandes](../../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Fernandes.md)
-- [Lídia Couto](../../Pessoas/L/L%C3%ADdia%20Couto.md)
-- [Marta Vilela](../../Pessoas/M/Marta%20Vilela.md)
-- [Michael](../../Pessoas/M/Michael.md)
-- [Pedro Castro](../../Pessoas/P/Pedro%20Castro.md)
 
 ---
 

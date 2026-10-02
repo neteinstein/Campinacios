@@ -9,11 +9,6 @@
 - [Director](../../Cargos/Director.md) - [Francisco Rodrigues](../../Pessoas/F/Francisco%20Rodrigues%20%28CAIC%29.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Conceição Martinho](../../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)
 
-## Páginas que ligam para aqui
-
-- [Conceição Martinho](../../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)
-- [Francisco Rodrigues (CAIC)](../../Pessoas/F/Francisco%20Rodrigues%20%28CAIC%29.md)
-
 ---
 
 | Categorias |

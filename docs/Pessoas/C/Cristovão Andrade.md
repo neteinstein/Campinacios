@@ -13,14 +13,6 @@
     - 2006 [Xii Tava Kuase Lá...!](../../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2008 [TSI](../../Acampamentos/2008/TSI.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
-## Páginas que ligam para aqui
-
-- [Aranha](../../Acampamentos/1997/Aranha.md)
-- [Gurugnu](../../Acampamentos/2000/Gurugnu.md)
-- [Hakaros](../../Acampamentos/1999/Hakaros.md)
-- [TSI](../../Acampamentos/2008/TSI.md)
-- [Xii Tava Kuase Lá...!](../../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md)
-
 ---
 
 | Categorias |

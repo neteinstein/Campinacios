@@ -9,13 +9,6 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Chico Silva](../../Pessoas/C/Chico%20Silva.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Diogo Couceiro](../../Pessoas/D/Diogo%20Couceiro.md) sj
 
-## Páginas que ligam para aqui
-
-- [Chico Silva](../../Pessoas/C/Chico%20Silva.md)
-- [Diogo Couceiro](../../Pessoas/D/Diogo%20Couceiro.md)
-- [Isabel Fonseca](../../Pessoas/I/Isabel%20Fonseca.md)
-- [Madalena Líbano Monteiro](../../Pessoas/M/Madalena%20L%C3%ADbano%20Monteiro.md)
-
 ---
 
 | Categorias |

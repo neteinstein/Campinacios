@@ -6,12 +6,11 @@ O Hakuna Matata decorreu em [Porto da Balsa](../../Restrito/Locais%20de%20Acampa
 
 - [Director](../../Cargos/Director.md) - [Perrú](../../Pessoas/P/Pedro%20Rocha%20Mendes.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
 - [Diana Gapo](../../Pessoas/D/Diana%20Gapo.md)
 - [Joana Sá](../../Pessoas/J/Joana%20S%C3%A1.md)
 - [Marta Carneiro](../../Pessoas/M/Marta%20Carneiro.md)
-- [Pedro Rocha Mendes](../../Pessoas/P/Pedro%20Rocha%20Mendes.md)
 
 ---
 

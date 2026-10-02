@@ -14,14 +14,6 @@ Ricardo Machado Couto Sousa Lopes, nascido a 10 de Setembro de 1980 é animador 
     - 2002 [Ninja Por Não Estar](../../Acampamentos/2002/Ninja%20Por%20N%C3%A3o%20Estar.md) - [Tio](../../Cargos/Tio.md)
     - 2003 [Génesis](../../Acampamentos/2003/G%C3%A9nesis%202003%20d.C..md) - [Tio](../../Cargos/Tio.md)
 
-## Páginas que ligam para aqui
-
-- [Génesis 2003 d.C.](../../Acampamentos/2003/G%C3%A9nesis%202003%20d.C..md)
-- [Ninja Por Não Estar](../../Acampamentos/2002/Ninja%20Por%20N%C3%A3o%20Estar.md)
-- [Paim](../../Acampamentos/1999/Paim.md)
-- [Tranquilo](../../Acampamentos/2000/Tranquilo.md)
-- [Waaassuuup](../../Acampamentos/2001/Waaassuuup.md)
-
 ---
 
 | Categorias |

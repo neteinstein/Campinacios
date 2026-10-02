@@ -484,13 +484,6 @@ anteriormente cometidas aos governos civis, nomeadamente no que toca aos designa
 municipal (artigo 18.º), os pareceres do delegado de saúde e do comandante da PSP ou GNR,
 as contra-ordenações (artigo 47.º) e os regulamentos e taxas municipais (artigo 53.º).
 
-## Páginas que ligam para aqui
-
-- [Caderno da Mamã](Caderno%20da%20Mam%C3%A3.md)
-- [Caderno de Jogos](Caderno%20de%20Jogos.md)
-- [Director](../Cargos/Director.md)
-- [Manual de Funções](Manual%20de%20Fun%C3%A7%C3%B5es.md)
-
 ---
 
 **Outros nomes:** Manual de Directores

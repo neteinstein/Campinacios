@@ -12,20 +12,14 @@ Este acampamento de Bicicletas realizou em [Santa Margarida](../../Restrito/Loca
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Gonçalo Frade](../../Pessoas/G/Gon%C3%A7alo%20Frade.md) , Simão , [Militão](../../Pessoas/M/Milit%C3%A3o.md)
 - [Animadores de equipa](../../Cargos/Animador%20de%20Equipa.md) - Filipa , Maria João ,
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [Ana Curto](../../Pessoas/A/Ana%20Curto.md)
 - [Andreia Pereira](../../Pessoas/A/Andreia%20Pereira.md)
 - [Carlos Miguel Albuquerque](../../Pessoas/C/Carlos%20Miguel%20Albuquerque.md)
-- [Gonçalo Frade](../../Pessoas/G/Gon%C3%A7alo%20Frade.md)
-- [Joaquim Abreu](../../Pessoas/J/Joaquim%20Abreu.md)
 - [João Quintela](../../Pessoas/J/Jo%C3%A3o%20Quintela.md)
+- [Joaquim Abreu](../../Pessoas/J/Joaquim%20Abreu.md)
 - [Luís Azevedo](../../Pessoas/L/Lu%C3%ADs%20Azevedo.md)
-- [Militão](../../Pessoas/M/Milit%C3%A3o.md)
-- [Padre Pina](../../Pessoas/P/Padre%20Pina.md)
-- [Ricardo Rodrigues](../../Pessoas/R/Ricardo%20Rodrigues.md)
 - [Susana Vaz Pedro](../../Pessoas/S/Susana%20Vaz%20Pedro.md)
-- [Tiago Figueira](../../Pessoas/T/Tiago%20Figueira.md)
 
 ---
 

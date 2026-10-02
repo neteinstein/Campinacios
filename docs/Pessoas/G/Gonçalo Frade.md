@@ -20,20 +20,6 @@
 - 2002 [Projecto Canguru](../../Acampamentos/2002/Projecto%20Canguru.md) - [Director](../../Cargos/Director.md)
 - 2003 [Pimpolhos](../../Acampamentos/2003/Pimpolhos.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
 
-## Páginas que ligam para aqui
-
-- [Calinadas](../../Acampamentos/1998/Calinadas.md)
-- [Dilúvio](../../Acampamentos/1999/Dil%C3%BAvio.md)
-- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
-- [Gipsy Kings](../../Acampamentos/1999/Gipsy%20Kings.md)
-- [Gordurosa](../../Acampamentos/2000/Gordurosa.md)
-- [Koalas](../../Acampamentos/1999/Koalas.md)
-- [Pimpolhos](../../Acampamentos/2003/Pimpolhos.md)
-- [Projecto Canguru](../../Acampamentos/2002/Projecto%20Canguru.md)
-- [Tem Bicho Zweitausend](../../Acampamentos/2000/Tem%20Bicho%20Zweitausend.md)
-- [Triciclos 1](../../Acampamentos/1997/Triciclos%201.md)
-- [Waaassuuup](../../Acampamentos/2001/Waaassuuup.md)
-
 ---
 
 | Categorias |

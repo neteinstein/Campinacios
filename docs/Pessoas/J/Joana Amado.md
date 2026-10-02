@@ -14,10 +14,6 @@ Joana Amado é desde 2008 um das animadoras do Colégio da Imaculada Conceição
 - **Animadora:**
     - 2009 [Survivor](../../Acampamentos/2009/Survivor.md) - [Tia](../../Cargos/Tio.md)
 
-## Páginas que ligam para aqui
-
-- [Survivor](../../Acampamentos/2009/Survivor.md)
-
 ---
 
 | Categorias |

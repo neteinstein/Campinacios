@@ -6,9 +6,8 @@
 
 - [Director](../../Cargos/Director.md) - [André Trigo](../../Pessoas/A/Andr%C3%A9%20Trigo.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [André Trigo](../../Pessoas/A/Andr%C3%A9%20Trigo.md)
 - [Fernando Monteiro](../../Pessoas/F/Fernando%20Monteiro.md)
 
 ---

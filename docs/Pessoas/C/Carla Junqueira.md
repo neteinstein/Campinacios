@@ -11,11 +11,6 @@
 
 É irmã da [Mafalda Junqueira](../M/Mafalda%20Junqueira.md).
 
-## Páginas que ligam para aqui
-
-- [Descola](../../Acampamentos/2004/Descola.md)
-- [Mafalda Junqueira](../M/Mafalda%20Junqueira.md)
-
 ---
 
 | Categorias |

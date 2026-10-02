@@ -24,17 +24,6 @@
 
 - 2010 [Encontro Nacional de Animadores 2010](../../Encontros/Encontro%20Nacional%20de%20Animadores%202010.md) - Organização
 
-## Páginas que ligam para aqui
-
-- [Ara](../../Acampamentos/2011/Ara.md)
-- [Baza](../../Acampamentos/2007/Baza.md)
-- [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
-- [Encontro Nacional de Animadores 2010](../../Encontros/Encontro%20Nacional%20de%20Animadores%202010.md)
-- [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md)
-- [Marta Reis](../M/Marta%20Reis.md)
-- [OrienTu](../../Acampamentos/2008/OrienTu.md)
-- [Someonelfie](../../Acampamentos/2015/Someonelfie.md)
-
 ---
 
 | Categorias |

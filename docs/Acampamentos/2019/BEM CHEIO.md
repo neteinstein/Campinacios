@@ -8,12 +8,9 @@
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Nuno Branco](../../Pessoas/N/Nuno%20Branco.md) sj
 - [Capelinho](../../Cargos/Capelinho.md) - [Manuel Sérvulo Rodrigues](../../Pessoas/M/Manuel%20S%C3%A9rvulo%20Rodrigues.md) nsj
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
 - [Fernando Monteiro](../../Pessoas/F/Fernando%20Monteiro.md)
-- [Manuel Sérvulo Rodrigues](../../Pessoas/M/Manuel%20S%C3%A9rvulo%20Rodrigues.md)
-- [Nuno Branco](../../Pessoas/N/Nuno%20Branco.md)
-- [Pedro Mendonça](../../Pessoas/P/Pedro%20Mendon%C3%A7a.md)
 
 ---
 

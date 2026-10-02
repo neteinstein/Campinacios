@@ -12,14 +12,6 @@
     - 1997 [Torneira](../../Acampamentos/1997/Torneira.md)
     - 1998 [Canja](../../Acampamentos/1998/Canja.md)
 
-## Páginas que ligam para aqui
-
-- [Canja](../../Acampamentos/1998/Canja.md)
-- [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
-- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
-- [Piolheira](../../Acampamentos/1996/Piolheira.md)
-- [Torneira](../../Acampamentos/1997/Torneira.md)
-
 ---
 
 | Categorias |

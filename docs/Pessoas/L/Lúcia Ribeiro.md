@@ -17,13 +17,6 @@
     - 2010 [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md) - [Tia](../../Cargos/Tio.md)
     - 2011 [Pescanova](../../Acampamentos/2011/Pescanova.md) - [Tia](../../Cargos/Tio.md)
 
-## Páginas que ligam para aqui
-
-- [Ana Ribeiro](../A/Ana%20Ribeiro.md)
-- [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
-- [Pescanova](../../Acampamentos/2011/Pescanova.md)
-- [Talithá Kum](../../Acampamentos/2009/Talith%C3%A1%20Kum.md)
-
 ---
 
 | Categorias |

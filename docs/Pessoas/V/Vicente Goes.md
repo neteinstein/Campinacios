@@ -14,13 +14,6 @@
     - 2019 [Chama de Novo](../../Acampamentos/2019/Chama%20de%20Novo.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2026 [Sande Help](../../Acampamentos/2026/Sande%20Help.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
-## Páginas que ligam para aqui
-
-- [Chama de Novo](../../Acampamentos/2019/Chama%20de%20Novo.md)
-- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
-- [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
-- [Sande Help](../../Acampamentos/2026/Sande%20Help.md)
-
 ---
 
 | Categorias |

@@ -15,14 +15,6 @@ Catarina Fernanda Rodrigues Alves, nascida a 18 de Dezembro de 1984 é animadora
     - 2007 [Baúmerang](../../Acampamentos/2007/Ba%C3%BAmerang.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2010 [Obra Prima](../../Acampamentos/2010/Obra%20Prima.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
 
-## Páginas que ligam para aqui
-
-- [Baúmerang](../../Acampamentos/2007/Ba%C3%BAmerang.md)
-- [Em Busca da CaraBela](../../Acampamentos/2006/Em%20Busca%20da%20CaraBela.md)
-- [Fófinhos](../../Acampamentos/2005/F%C3%B3finhos.md)
-- [Obra Prima](../../Acampamentos/2010/Obra%20Prima.md)
-- [Ídolo](../../Acampamentos/2004/%C3%8Ddolo.md)
-
 ---
 
 | Categorias |

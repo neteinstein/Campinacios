@@ -8,11 +8,6 @@ Madalena Cartucho Pereira é antiga aluna do Colégio S. João de Brito, é anim
     - 2011 [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md)
     - 2013 [Realiza](../../Acampamentos/2013/Realiza.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
-## Páginas que ligam para aqui
-
-- [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md)
-- [Realiza](../../Acampamentos/2013/Realiza.md)
-
 ---
 
 | Categorias |

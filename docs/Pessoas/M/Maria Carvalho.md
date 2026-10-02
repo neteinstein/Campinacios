@@ -14,15 +14,6 @@
 
 - 2025 [Encontro Nacional 2025](../../Encontros/Encontro%20Nacional%202025.md) - Direcção de Lambretas
 
-## Páginas que ligam para aqui
-
-- [D'RIP MELON](../../Acampamentos/2024/D%27RIP%20MELON.md)
-- [Encontro Nacional 2025](../../Encontros/Encontro%20Nacional%202025.md)
-- [Isto Só Visto](../../Acampamentos/2022/Isto%20S%C3%B3%20Visto.md)
-- [Mangueira Nice](../../Acampamentos/2025/Mangueira%20Nice.md)
-- [Mário Carvalho](M%C3%A1rio%20Carvalho.md)
-- [Sande Help](../../Acampamentos/2026/Sande%20Help.md)
-
 ---
 
 | Categorias |

@@ -12,29 +12,15 @@ O Gispsy Kings foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Gonçalo Belo](../../Pessoas/G/Gon%C3%A7alo%20Belo.md), [João Currais](../../Pessoas/J/Jo%C3%A3o%20Currais.md), [João Regueiras](../../Pessoas/J/Jo%C3%A3o%20Regueiras.md) e [Sofia Fonseca](../../Pessoas/S/Sofia%20Fonseca.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Diana Gapo](../../Pessoas/D/Diana%20Gapo.md), [Guadalupe Oliveira](../../Pessoas/G/Guadalupe%20Oliveira.md), [Joana Nunes](../../Pessoas/J/Joana%20Nunes.md), [João Coimbra](../../Pessoas/J/Jo%C3%A3o%20Coimbra.md) e [Marta Carneiro](../../Pessoas/M/Marta%20Carneiro.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [Ana Geão](../../Pessoas/A/Ana%20Ge%C3%A3o.md)
 - [Ana Martins](../../Pessoas/A/Ana%20Martins.md)
-- [Andreia Mendes](../../Pessoas/A/Andreia%20Mendes.md)
 - [António Amaral](../../Pessoas/A/Ant%C3%B3nio%20Amaral.md)
-- [Diana Gapo](../../Pessoas/D/Diana%20Gapo.md)
 - [Francisco Penetra](../../Pessoas/F/Francisco%20Penetra.md)
-- [Gonçalo Belo](../../Pessoas/G/Gon%C3%A7alo%20Belo.md)
-- [Gonçalo Frade](../../Pessoas/G/Gon%C3%A7alo%20Frade.md)
-- [Guadalupe Oliveira](../../Pessoas/G/Guadalupe%20Oliveira.md)
-- [Joana Nunes](../../Pessoas/J/Joana%20Nunes.md)
-- [João Coimbra](../../Pessoas/J/Jo%C3%A3o%20Coimbra.md)
-- [João Currais](../../Pessoas/J/Jo%C3%A3o%20Currais.md)
-- [João Regueiras](../../Pessoas/J/Jo%C3%A3o%20Regueiras.md)
 - [Luís Azevedo](../../Pessoas/L/Lu%C3%ADs%20Azevedo.md)
 - [Mafalda Coelho](../../Pessoas/M/Mafalda%20Coelho.md)
 - [Mafalda Pereira](../../Pessoas/M/Mafalda%20Pereira.md)
-- [Maria João Simões](../../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
 - [Mariana Cardoso](../../Pessoas/M/Mariana%20Cardoso.md)
-- [Marta Carneiro](../../Pessoas/M/Marta%20Carneiro.md)
-- [Ricardo Rodrigues](../../Pessoas/R/Ricardo%20Rodrigues.md)
-- [Sofia Fonseca](../../Pessoas/S/Sofia%20Fonseca.md)
 
 ---
 

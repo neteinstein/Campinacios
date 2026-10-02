@@ -44,26 +44,6 @@ O nome veio da junção de "Oriente" e do tema do ano, ou parte dele "Tu"... Ori
 
 [*Jornal de Edo*](http://Edo1613.blogspot.com)
 
-## Páginas que ligam para aqui
-
-- [Ana Luísa Reis](../../Pessoas/A/Ana%20Lu%C3%ADsa%20Reis.md)
-- [Cantinácio: Campinácios](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md)
-- [Conteúdos](../../Wikin%C3%A1cios/Conte%C3%BAdos.md)
-- [Diogo José Nunes Carneiro](../../Pessoas/D/Diogo%20Jos%C3%A9%20Nunes%20Carneiro.md)
-- [Elias Oliveira](../../Pessoas/E/Elias%20Oliveira.md)
-- [Filipe Noronha](../../Pessoas/F/Filipe%20Noronha.md)
-- [Filipe Próspero](../../Pessoas/F/Filipe%20Pr%C3%B3spero.md)
-- [Joaquim Abreu](../../Pessoas/J/Joaquim%20Abreu.md)
-- [João Freire de Andrade](../../Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md)
-- [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
-- [Madalena Mariz](../../Pessoas/M/Madalena%20Mariz.md)
-- [Maria Cortês Ferreira](../../Pessoas/M/Maria%20Cort%C3%AAs%20Ferreira.md)
-- [Marta Croca](../../Pessoas/M/Marta%20Croca.md)
-- [Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md)
-- [Renato Costa](../../Pessoas/R/Renato%20Costa.md)
-- [Sara Póvoa](../../Pessoas/S/Sara%20P%C3%B3voa.md)
-- [Susana Vaz Pedro](../../Pessoas/S/Susana%20Vaz%20Pedro.md)
-
 ---
 
 | Categorias |

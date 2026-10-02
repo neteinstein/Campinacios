@@ -12,12 +12,6 @@ Ricardo Henrique Ferreira de Oliveira, nascido a 2 de Janeiro de 1983 é animado
     - 2003 [Farol](../../Acampamentos/2003/Farol.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2004 [Ídolo](../../Acampamentos/2004/%C3%8Ddolo.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
-## Páginas que ligam para aqui
-
-- [Farol](../../Acampamentos/2003/Farol.md)
-- [Jangada](../../Acampamentos/2002/Jangada.md)
-- [Ídolo](../../Acampamentos/2004/%C3%8Ddolo.md)
-
 ---
 
 | Categorias |

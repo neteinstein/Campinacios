@@ -9,10 +9,6 @@
 - 1999/2000 Membro da [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
 - 1999/2000 Membro da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 
-## Páginas que ligam para aqui
-
-- [Miguel Martins](../../Movimento/Desambigua%C3%A7%C3%A3o/Miguel%20Martins.md)
-
 ---
 
 | Categorias |

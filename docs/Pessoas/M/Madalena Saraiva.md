@@ -17,11 +17,6 @@ Madalena Merca Saraiva, conhecida por Lelé, antiga aluna do Colégio S. João d
     - 2009 [Incrível](../../Acampamentos/2009/Incr%C3%ADvel.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
     - 2010 [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
-## Páginas que ligam para aqui
-
-- [Incrível](../../Acampamentos/2009/Incr%C3%ADvel.md)
-- [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md)
-
 ---
 
 | Categorias |

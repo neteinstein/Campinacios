@@ -10,13 +10,6 @@
 
 É irmã do [Rui Junqueira](../R/Rui%20Junqueira.md) e da [Carla Junqueira](../C/Carla%20Junqueira.md).
 
-## Páginas que ligam para aqui
-
-- [Carla Junqueira](../C/Carla%20Junqueira.md)
-- [Descola](../../Acampamentos/2004/Descola.md)
-- [Pimpolhos](../../Acampamentos/2003/Pimpolhos.md)
-- [Rui Junqueira](../R/Rui%20Junqueira.md)
-
 ---
 
 | Categorias |

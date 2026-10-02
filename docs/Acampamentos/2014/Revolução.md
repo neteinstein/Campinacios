@@ -6,10 +6,6 @@
 
 - [Director](../../Cargos/Director.md) - [João Captivo](../../Pessoas/J/Jo%C3%A3o%20Captivo.md)
 
-## Páginas que ligam para aqui
-
-- [João Captivo](../../Pessoas/J/Jo%C3%A3o%20Captivo.md)
-
 ---
 
 | Categorias |

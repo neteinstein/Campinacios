@@ -11,22 +11,6 @@ O Arethë foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Tiago Carneiro](../../Pessoas/T/Tiago%20Carneiro.md) e [Hugo Ferreira](../../Pessoas/H/Hugo%20Ferreira.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Beatriz Miranda](../../Pessoas/B/Beatriz%20Miranda.md), [Margarida Pires](../../Pessoas/M/Margarida%20Pires.md), [Maria Fernandes](../../Pessoas/M/Maria%20Fernandes.md), [Rita Lourenço](../../Pessoas/R/Rita%20Louren%C3%A7o.md), [Tânia Rodrigues](../../Pessoas/T/T%C3%A2nia%20Rodrigues.md) e [Pedro Fernandes](../../Pessoas/P/Pedro%20Fernandes.md)
 
-## Páginas que ligam para aqui
-
-- [Ana Pinheiro](../../Pessoas/A/Ana%20Pinheiro.md)
-- [Beatriz Miranda](../../Pessoas/B/Beatriz%20Miranda.md)
-- [Carlos Carvalho](../../Pessoas/C/Carlos%20Carvalho.md)
-- [Diana Pereira](../../Pessoas/D/Diana%20Pereira.md)
-- [Diogo Torcato](../../Pessoas/D/Diogo%20Torcato.md)
-- [Hugo Ferreira](../../Pessoas/H/Hugo%20Ferreira.md)
-- [Margarida Pires](../../Pessoas/M/Margarida%20Pires.md)
-- [Maria Fernandes](../../Pessoas/M/Maria%20Fernandes.md)
-- [Mário Carvalho](../../Pessoas/M/M%C3%A1rio%20Carvalho.md)
-- [Pedro Fernandes](../../Pessoas/P/Pedro%20Fernandes.md)
-- [Rita Lourenço](../../Pessoas/R/Rita%20Louren%C3%A7o.md)
-- [Tiago Carneiro](../../Pessoas/T/Tiago%20Carneiro.md)
-- [Tânia Rodrigues](../../Pessoas/T/T%C3%A2nia%20Rodrigues.md)
-
 ---
 
 **Outros nomes:** Arethe

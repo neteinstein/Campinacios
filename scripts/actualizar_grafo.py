@@ -15,8 +15,9 @@ Regras (as mesmas do conversor):
     e "Grafo";
   * só há nó para uma página com pelo menos uma ligação de entrada ou de
     saída para outra destas páginas;
-  * ligações: as do corpo da página, sem contar a secção "Páginas que ligam
-    para aqui" (é gerada a partir das outras) nem o rodapé de categorias;
+  * ligações: as do corpo da página, sem contar as secções "Pessoas com este
+    cargo" e "Participantes que se tornaram animadores" (são geradas a partir
+    das páginas das pessoas) nem o rodapé de categorias;
   * as páginas restritas estão cifradas, por isso não têm ligações de saída
     (só de entrada), tal como no original.
 
@@ -38,7 +39,8 @@ GRAFO = DOCS / 'assets' / 'graph.json'
 # Pastas cujas páginas são nós do grafo.
 PASTAS = ('Acampamentos', 'Cargos', 'Encontros', 'Movimento', 'Pessoas',
           'Restrito')
-CORTE = '## Páginas que ligam para aqui'
+CORTE = re.compile(r'^## (?:Pessoas com este cargo|'
+                   r'Participantes que se tornaram animadores)$', re.M)
 LIGACAO = re.compile(r'\]\((<[^>]*>|[^)\s]*)')
 
 
@@ -62,7 +64,8 @@ def titulo(caminho):
 
 def destinos(caminho, existentes):
     """Ids das páginas para onde o corpo de `caminho` liga."""
-    texto = caminho.read_text(encoding='utf-8').split(CORTE)[0]
+    texto = caminho.read_text(encoding='utf-8')
+    texto = CORTE.split(texto)[0]
     texto = re.sub(r'`[^`\n]*`', '', texto)  # exemplos de código não contam
     saida = set()
     for alvo in LIGACAO.findall(texto):

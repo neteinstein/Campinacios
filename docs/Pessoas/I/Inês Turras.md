@@ -19,13 +19,6 @@
 
 A Inês é irmã do [Pedro Turras](../P/Pedro%20Turras.md), da [Rita Turras](../R/Rita%20Turras.md) e da [Mariana Turras](../M/Mariana%20Turras.md).
 
-## Páginas que ligam para aqui
-
-- [Mariana Turras](../M/Mariana%20Turras.md)
-- [Pedro Turras](../P/Pedro%20Turras.md)
-- [Rita Turras](../R/Rita%20Turras.md)
-- [Talithá Kum](../../Acampamentos/2009/Talith%C3%A1%20Kum.md)
-
 ---
 
 | Categorias |

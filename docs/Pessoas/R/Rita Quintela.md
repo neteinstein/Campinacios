@@ -25,12 +25,6 @@ Frequentou o CC de 1995 a 2008. Animadora desde 2008 até hoje.
 
 É irmã do [João Quintela](../J/Jo%C3%A3o%20Quintela.md)
 
-## Páginas que ligam para aqui
-
-- [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md)
-- [Passaportas](../../Acampamentos/2010/Passaportas.md)
-- [Someonelfie](../../Acampamentos/2015/Someonelfie.md)
-
 ---
 
 | Categorias |

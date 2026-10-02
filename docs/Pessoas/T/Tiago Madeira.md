@@ -17,13 +17,6 @@ Tiago Madeira é um dos animadores do Colégio da Imaculada Conceição.
     - 2009 [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2011 [Ara](../../Acampamentos/2011/Ara.md)
 
-## Páginas que ligam para aqui
-
-- [Ara](../../Acampamentos/2011/Ara.md)
-- [Baza](../../Acampamentos/2007/Baza.md)
-- [Bike Just Do It](../../Acampamentos/2008/Bike%20Just%20Do%20It.md)
-- [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md)
-
 ---
 
 | Categorias |

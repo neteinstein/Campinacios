@@ -7,12 +7,6 @@
     - 1997 [Triciclos 1](../../Acampamentos/1997/Triciclos%201.md) - [Director](../../Cargos/Director.md)
     - 1998 [Regresso a Alvoco I](../../Acampamentos/1998/Regresso%20a%20Alvoco%20I.md) - [Director](../../Cargos/Director.md)
 
-## Páginas que ligam para aqui
-
-- [Alvoco 96](../../Acampamentos/1996/Alvoco%2096.md)
-- [Regresso a Alvoco I](../../Acampamentos/1998/Regresso%20a%20Alvoco%20I.md)
-- [Triciclos 1](../../Acampamentos/1997/Triciclos%201.md)
-
 ---
 
 | Categorias |

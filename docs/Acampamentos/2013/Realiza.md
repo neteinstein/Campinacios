@@ -14,20 +14,6 @@
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - Catarina Rocha, [Domingos Freire de Andrade](../../Pessoas/D/Domingos%20Freire%20de%20Andrade.md) e [Nuno Santos](../../Pessoas/N/Nuno%20Santos.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Marta Cardoso, [Carla Cardoso](../../Pessoas/C/Carla%20Ferreira.md), [Madalena Pereira](../../Pessoas/M/Madalena%20Pereira.md), [João Miguel Rodrigues](../../Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md), Nuno Sousa e [Vânia Carvalho](../../Pessoas/V/V%C3%A2nia%20Carvalho.md)
 
-## Páginas que ligam para aqui
-
-- [António Pimenta](../../Pessoas/A/Ant%C3%B3nio%20Pimenta.md)
-- [Carla Ferreira](../../Pessoas/C/Carla%20Ferreira.md)
-- [Domingos Freire de Andrade](../../Pessoas/D/Domingos%20Freire%20de%20Andrade.md)
-- [João de Brito](../../Pessoas/J/Jo%C3%A3o%20de%20Brito.md)
-- [João Freire de Andrade](../../Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md)
-- [João Miguel Rodrigues](../../Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md)
-- [Madalena Pereira](../../Pessoas/M/Madalena%20Pereira.md)
-- [Nuno Santos](../../Pessoas/N/Nuno%20Santos.md)
-- [Rita Fonseca](../../Pessoas/R/Rita%20Fonseca.md)
-- [Sofia Fernandes](../../Pessoas/S/Sofia%20Fernandes.md)
-- [Vânia Carvalho](../../Pessoas/V/V%C3%A2nia%20Carvalho.md)
-
 ---
 
 | Categorias |

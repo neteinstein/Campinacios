@@ -8,15 +8,11 @@ O Torneira foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) qu
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Andreia Magalhães](../../Pessoas/A/Andreia%20Magalh%C3%A3es.md), Marina Freitas, [José Luís Silva](../../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Silva.md)
 - [Animadores](../../Categorias/Animadores.md) - [Luís Godinho](../../Pessoas/L/Lu%C3%ADs%20Godinho.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
 - [Ana Pinto](../../Pessoas/A/Ana%20Pinto.md)
-- [Andreia Magalhães](../../Pessoas/A/Andreia%20Magalh%C3%A3es.md)
 - [Diogo José Oliveira Cerejeira Carneiro](../../Pessoas/D/Diogo%20Jos%C3%A9%20Oliveira%20Cerejeira%20Carneiro.md)
-- [Eduardo Rodrigues](../../Pessoas/E/Eduardo%20Rodrigues.md)
 - [Joana Ferreira da Silva](../../Pessoas/J/Joana%20Ferreira%20da%20Silva.md)
-- [José Luís Silva](../../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Silva.md)
-- [Luís Godinho](../../Pessoas/L/Lu%C3%ADs%20Godinho.md)
 
 ---
 

@@ -11,12 +11,6 @@ Rita Fonseca é antiga aluna do Colégio S. João de Brito, é animadora dos Cam
     - 2013 [Realiza](../../Acampamentos/2013/Realiza.md) - [Tia](../../Cargos/Tio.md)
     - 2015 [Mergulha](../../Acampamentos/2015/Mergulha.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
-## Páginas que ligam para aqui
-
-- [Mergulha](../../Acampamentos/2015/Mergulha.md)
-- [Pedra papel tesoura](../../Acampamentos/2011/Pedra%20papel%20tesoura.md)
-- [Realiza](../../Acampamentos/2013/Realiza.md)
-
 ---
 
 | Categorias |

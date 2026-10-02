@@ -14,10 +14,6 @@
 - **Animadora:**
     - 2009 [Caminho](../../Acampamentos/2009/Caminho.md) - [Tia](../../Cargos/Tio.md)
 
-## Páginas que ligam para aqui
-
-- [Caminho](../../Acampamentos/2009/Caminho.md)
-
 ---
 
 | Categorias |

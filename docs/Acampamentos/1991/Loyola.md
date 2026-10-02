@@ -7,11 +7,9 @@ O Loyola decorreu de 21 a 30 de Julho de 1991 em [Fonte de Nena](../../Restrito/
 - [Director](../../Cargos/Director.md) - [Domingos Freitas](../../Pessoas/D/Domingos%20Freitas.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Manuel Paiva](../../Pessoas/M/Manuel%20Paiva.md) sj
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
 - [António Leal](../../Pessoas/A/Ant%C3%B3nio%20Leal.md)
-- [Domingos Freitas](../../Pessoas/D/Domingos%20Freitas.md)
-- [Manuel Paiva](../../Pessoas/M/Manuel%20Paiva.md)
 - [Maria Cristina Sousa Costa](../../Pessoas/M/Maria%20Cristina%20Sousa%20Costa.md)
 - [Ricardo Rodrigues](../../Pessoas/R/Ricardo%20Rodrigues.md)
 

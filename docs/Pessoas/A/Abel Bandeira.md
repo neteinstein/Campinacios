@@ -12,13 +12,6 @@
 - **Animador:**
     - 1996 [Caldelas](../../Acampamentos/1996/Caldelas.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
-## Páginas que ligam para aqui
-
-- [Caldelas](../../Acampamentos/1996/Caldelas.md)
-- [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md)
-- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
-- [Gambozinos](../../Movimento/Gambozinos.md)
-
 ---
 
 | Categorias |

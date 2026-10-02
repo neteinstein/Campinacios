@@ -12,10 +12,6 @@ Joana Videira foi de 2001 a 2003 uma das animadoras do Colégio da Imaculada Con
 - **Animador:**
     - 2001 [Pontes](../../Acampamentos/2001/Pontes.md) - [Tia](../../Cargos/Tio.md)
 
-## Páginas que ligam para aqui
-
-- [Pontes](../../Acampamentos/2001/Pontes.md)
-
 ---
 
 | Categorias |

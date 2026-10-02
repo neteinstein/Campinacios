@@ -26,15 +26,6 @@ Frequentou o CC de 1992 a 2008. Animador desde 2008 até hoje.
 
 É irmão da [Ana Pinto](../A/Ana%20Pinto.md)
 
-## Páginas que ligam para aqui
-
-- [Ana Pinto](../A/Ana%20Pinto.md)
-- [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
-- [Jásinto](../../Acampamentos/2015/J%C3%A1sinto.md)
-- [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md)
-- [Quemtesegura](../../Acampamentos/2016/Quemtesegura.md)
-- [Survivor](../../Acampamentos/2009/Survivor.md)
-
 ---
 
 | Categorias |

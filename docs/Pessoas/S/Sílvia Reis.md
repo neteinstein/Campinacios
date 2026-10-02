@@ -18,18 +18,6 @@ Sílvia Reis, também conhecida por Silvinha é uma das animadoras do CC.
     - 2008 [Eureka](../../Acampamentos/2008/Eureka.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2009 [Caminho](../../Acampamentos/2009/Caminho.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
 
-## Páginas que ligam para aqui
-
-- [Caminho](../../Acampamentos/2009/Caminho.md)
-- [Eureka](../../Acampamentos/2008/Eureka.md)
-- [Farol](../../Acampamentos/2003/Farol.md)
-- [Gaivota](../../Acampamentos/2005/Gaivota.md)
-- [Jangada](../../Acampamentos/2002/Jangada.md)
-- [OPA](../../Acampamentos/2007/OPA.md)
-- [Pimpolhos](../../Acampamentos/2003/Pimpolhos.md)
-- [Xii Tava Kuase Lá...!](../../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md)
-- [Ídolo](../../Acampamentos/2004/%C3%8Ddolo.md)
-
 ---
 
 **Outros nomes:** Silvinha

@@ -15,16 +15,6 @@
     - 2002 [Jangada](../../Acampamentos/2002/Jangada.md) - [Director](../../Cargos/Director.md)
     - 2003 [Rastilho](../../Acampamentos/2003/Rastilho.md) - [Director](../../Cargos/Director.md)
 
-## Páginas que ligam para aqui
-
-- [Cinena](../../Acampamentos/2001/Cinena.md)
-- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
-- [Fornelos](../../Acampamentos/1992/Fornelos.md)
-- [Jangada](../../Acampamentos/2002/Jangada.md)
-- [Rastilho](../../Acampamentos/2003/Rastilho.md)
-- [Tabuadelas II](../../Acampamentos/1993/Tabuadelas%20II.md)
-- [Vila do Bispo II/94](../../Acampamentos/1994/Vila%20do%20Bispo%20II-94.md)
-
 ---
 
 | Categorias |

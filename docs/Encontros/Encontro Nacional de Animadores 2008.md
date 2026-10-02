@@ -12,11 +12,6 @@ Na avaliação feita na Direcção Nacional, o objectivo principal, o convívio,
 - [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md) (Coordenador Nacional)
 - Os animadores que fizeram o campo de formação [Êxodo](../Acampamentos/2008/%C3%8Axodo.md) nesse Verão
 
-## Páginas que ligam para aqui
-
-- [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
-- [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md)
-
 ---
 
 | Categorias |
