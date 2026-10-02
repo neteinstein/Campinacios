@@ -18,6 +18,7 @@
 - [Ana Luísa Reis](../Pessoas/A/Ana%20Lu%C3%ADsa%20Reis.md)
 - [Ana Rita Costa](../Pessoas/A/Ana%20Rita%20Costa.md)
 - [António Neves](../Pessoas/A/Ant%C3%B3nio%20Neves.md)
+- [António Pimenta](../Pessoas/A/Ant%C3%B3nio%20Pimenta.md)
 - [António Portugal](../Pessoas/A/Ant%C3%B3nio%20Portugal.md)
 - [Ariana Couto](../Pessoas/A/Ariana%20Couto.md)
 - [Atira-te](../Acampamentos/2023/Atira-te.md)
@@ -39,6 +40,7 @@
 - [Filipe Condado](../Pessoas/F/Filipe%20Condado.md)
 - [Francisca Veloso](../Pessoas/F/Francisca%20Veloso.md)
 - [Francisco Maia](../Pessoas/F/Francisco%20Maia.md)
+- [Gonçalo Costa](../Pessoas/G/Gon%C3%A7alo%20Costa.md)
 - [Guilherme Balhau](../Pessoas/G/Guilherme%20Balhau.md)
 - [Guiomar Andrade](../Pessoas/G/Guiomar%20Andrade.md)
 - [Henrique Mota Amaral](../Pessoas/H/Henrique%20Mota%20Amaral.md)
@@ -56,6 +58,7 @@
 - [Manuel Vassalo](../Pessoas/M/Manuel%20Vassalo.md)
 - [Marcelo Vieira](../Pessoas/M/Marcelo%20Vieira.md)
 - [Maria Carvalho](../Pessoas/M/Maria%20Carvalho.md)
+- [Martinho Lucas Pires](../Pessoas/M/Martinho%20Lucas%20Pires.md)
 - [Mário Carvalho](../Pessoas/M/M%C3%A1rio%20Carvalho.md)
 - [Miguel Melo Ribeiro](../Pessoas/M/Miguel%20Melo%20Ribeiro.md)
 - [Mostra Garra](../Acampamentos/2016/Mostra%20Garra.md)
@@ -273,6 +276,7 @@
 - [Rita Simões](../Pessoas/R/Rita%20Sim%C3%B5es.md)
 - [Rui Junqueira](../Pessoas/R/Rui%20Junqueira.md)
 - [Sara Fernandes](../Pessoas/S/Sara%20Fernandes.md)
+- [Sara Moinhos](../Pessoas/S/Sara%20Moinhos.md)
 - [Sara Rita Sampaio](../Pessoas/S/Sara%20Rita%20Sampaio.md)
 - [Sebastião Caldas](../Pessoas/S/Sebasti%C3%A3o%20Caldas.md)
 - [Sebastião Veloso](../Pessoas/S/Sebasti%C3%A3o%20Veloso.md)
@@ -312,6 +316,7 @@
 - [TufarfarAway](../Acampamentos/2008/TufarfarAway.md)
 - [Tábeeeim](../Acampamentos/2010/T%C3%A1beeeim.md)
 - [Vasco Vasconcelos](../Pessoas/V/Vasco%20Vasconcelos.md)
+- [Vera Pina](../Pessoas/V/Vera%20Pina.md)
 - [Vi-O](../Acampamentos/2009/Vi-O.md)
 - [Vila do Bispo II/94](../Acampamentos/1994/Vila%20do%20Bispo%20II-94.md)
 - [Vítor Fernandes](../Pessoas/V/V%C3%ADtor%20Fernandes.md)
@@ -328,6 +333,7 @@
 - [Inês Furtado](../Pessoas/I/In%C3%AAs%20Furtado.md)
 - [Maria Manuel Urbano](../Pessoas/M/Maria%20Manuel%20Urbano.md)
 - [Rebordosa](../Acampamentos/1993/Rebordosa.md)
+- [Zé Guedes](../Pessoas/Z/Z%C3%A9%20Guedes.md)
 
 ---
 

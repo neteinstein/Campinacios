@@ -28,6 +28,7 @@
 - [Pedro Amado](../../Pessoas/P/Pedro%20Amado.md)
 - [Rafael Rebordão](../../Pessoas/R/Rafael%20Rebord%C3%A3o.md)
 - [Tiago Silva](../../Pessoas/T/Tiago%20Silva.md)
+- [Zé Guedes](../../Pessoas/Z/Z%C3%A9%20Guedes.md)
 
 ---
 

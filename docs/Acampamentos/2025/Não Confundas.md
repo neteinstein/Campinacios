@@ -19,6 +19,7 @@
 - [José Carlos Miranda](../../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md)
 - [Margarida Faria](../../Pessoas/M/Margarida%20Faria.md)
 - [Maria João Guedes](../../Pessoas/M/Maria%20Jo%C3%A3o%20Guedes.md)
+- [Zé Guedes](../../Pessoas/Z/Z%C3%A9%20Guedes.md)
 
 ---
 
