@@ -6,6 +6,10 @@
 
 - [Director](../../Cargos/Director.md) - [Afonso Oom](../../Pessoas/A/Afonso%20Oom.md)
 
+## Participantes que se tornaram animadores
+
+- [Nuno Ferreira](../../Pessoas/N/Nuno%20Ferreira.md)
+
 ---
 
 | Categorias |
