@@ -8,6 +8,7 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Rita Sousa](../../Pessoas/R/Rita%20Sousa.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Chico Carneiro](../../Pessoas/C/Chico%20Carneiro.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Diogo Couceiro](../../Pessoas/D/Diogo%20Couceiro.md) sj
+- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Nuno Ferreira](../../Pessoas/N/Nuno%20Ferreira.md) (Broski)
 
 ---
 

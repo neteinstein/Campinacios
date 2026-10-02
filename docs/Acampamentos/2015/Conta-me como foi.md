@@ -10,6 +10,7 @@
 ## Participantes que se tornaram animadores
 
 - [Leonor Banha da Silva](../../Pessoas/L/Leonor%20Banha%20da%20Silva.md)
+- [Nuno Ferreira](../../Pessoas/N/Nuno%20Ferreira.md)
 
 ---
 
