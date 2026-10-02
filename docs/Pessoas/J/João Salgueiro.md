@@ -8,7 +8,7 @@ João Salgueiro, é um dos animadores do Colégio da Imaculada Conceição.
 
 - **Participante:**
     - 2006 [Long Tao](../../Acampamentos/2006/Long%20Tao.md)
-    - 2007 [Xii Tava Kuase Lá...!](../../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md)
+    - 2006 [Xii Tava Kuase Lá...!](../../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md)
 - **Formação:**
     - Nenhum
 - **Animador:**
