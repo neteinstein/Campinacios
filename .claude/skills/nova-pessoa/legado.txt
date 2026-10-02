@@ -5,7 +5,6 @@
 docs/Pessoas/A/Ana Carolina Santos.md | docs/Pessoas/A/Ana Luísa Santos.md
 docs/Pessoas/A/Ana Pinto da Costa.md | docs/Pessoas/A/Ana Pinto.md
 docs/Pessoas/D/Diogo José Nunes Carneiro.md | docs/Pessoas/D/Diogo José Oliveira Cerejeira Carneiro.md
-docs/Pessoas/F/Francisco Silva Rodrigues.md | docs/Pessoas/F/Francisco Silva.md
 docs/Pessoas/G/Gonçalo Fonseca Carvalho.md | docs/Pessoas/G/Gonçalo Fonseca.md
 docs/Pessoas/G/Gonçalo Fonseca Carvalho.md | docs/Pessoas/G/Gonçalo Luís Carvalho.md
 docs/Pessoas/H/Hugo Ferreira.md | docs/Pessoas/H/Hugo Rafael Ferreira.md

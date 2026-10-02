@@ -1,7 +1,7 @@
 # Cantinácio: Portuguesas
 
 [![Capa da secção «Radar Tuga»: personagem de cabeça de pássaro com um balão de sardinhas, sobre fundo vermelho](../../assets/imagens/Cantin%C3%A1cio%202019/p011.jpg){ width="300" }](../../assets/imagens/Cantin%C3%A1cio%202019/p011.jpg)
-*Capa da secção «Radar Tuga» do Cantinácio 2019 (3.ª edição), com ilustração de [Francisco Rodrigues (Pica)](../../Pessoas/F/Francisco%20Rodrigues%20%28Pica%29.md).*
+*Capa da secção «Radar Tuga» do Cantinácio 2019 (3.ª edição), com ilustração de [Francisco Rodrigues (Pica)](../../Pessoas/F/Francisco%20Silva%20Rodrigues.md).*
 
 Músicas portuguesas (e algumas brasileiras) para cantar à fogueira.
 
