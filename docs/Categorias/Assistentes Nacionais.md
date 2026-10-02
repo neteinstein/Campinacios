@@ -49,21 +49,6 @@ Assistentes Nacionais do Movimento
 - [Luís Onofre](../Pessoas/L/Lu%C3%ADs%20Onofre.md)
 - [Vasco Lucas Pires](../Pessoas/V/Vasco%20Lucas%20Pires.md)
 
-## Páginas que ligam para aqui
-
-- [Animador](../Movimento/Animador.md)
-- [António Pamplona](../Pessoas/A/Ant%C3%B3nio%20Pamplona.md)
-- [António Sant'Ana](../Pessoas/A/Ant%C3%B3nio%20Sant%27Ana.md)
-- [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md)
-- [Domingos Freitas](../Pessoas/D/Domingos%20Freitas.md)
-- [José Carlos Miranda](../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md)
-- [José Manuel Lopes](../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md)
-- [José da Silva Almeida](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
-- [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
-- [Luís Onofre](../Pessoas/L/Lu%C3%ADs%20Onofre.md)
-- [Revolução Campinácios v2.0](../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
-- [Vasco Lucas Pires](../Pessoas/V/Vasco%20Lucas%20Pires.md)
-
 ---
 
 | Categorias |

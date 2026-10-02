@@ -14,13 +14,6 @@ Marta Vilela, nascida a 17 de Junho de 1974, é animadora do CC
     - 2001 [Cinena](../../Acampamentos/2001/Cinena.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2002 [Graal I](../../Acampamentos/2002/Graal%20I.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
-## Páginas que ligam para aqui
-
-- [Cinena](../../Acampamentos/2001/Cinena.md)
-- [Fornelos](../../Acampamentos/1992/Fornelos.md)
-- [Graal I](../../Acampamentos/2002/Graal%20I.md)
-- [Serrote](../../Acampamentos/1995/Serrote.md)
-
 ---
 
 | Categorias |

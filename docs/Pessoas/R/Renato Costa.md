@@ -24,22 +24,6 @@
 
 É irmão do [Diogo Costa](../D/Diogo%20Costa.md).
 
-## Páginas que ligam para aqui
-
-- [Ara](../../Acampamentos/2011/Ara.md)
-- [Baúmerang](../../Acampamentos/2007/Ba%C3%BAmerang.md)
-- [Calhambeques](../../Categorias/Calhambeques.md)
-- [Caminho](../../Acampamentos/2009/Caminho.md)
-- [Diogo Costa](../D/Diogo%20Costa.md)
-- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
-- [Farol](../../Acampamentos/2003/Farol.md)
-- [Gaivota](../../Acampamentos/2005/Gaivota.md)
-- [OrienTu](../../Acampamentos/2008/OrienTu.md)
-- [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md)
-- [Xii Tava Kuase Lá...!](../../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md)
-- [Yabadabadoo](../../Acampamentos/2011/Yabadabadoo.md)
-- [Ídolo](../../Acampamentos/2004/%C3%8Ddolo.md)
-
 ---
 
 | Categorias |

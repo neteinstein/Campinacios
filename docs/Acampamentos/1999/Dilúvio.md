@@ -10,20 +10,13 @@ O Dilúvio foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) que 
 - [Tia](../../Cargos/Tio.md) - [Vera Cunha](../../Pessoas/V/Vera%20Cunha.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - Pedro, [António Pedro](../../Pessoas/A/Ant%C3%B3nio%20Pedro.md), [Gonçalo Frade](../../Pessoas/G/Gon%C3%A7alo%20Frade.md), Inês, [Cristina Costa](../../Pessoas/C/Cristina%20Costa.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [António Pedro](../../Pessoas/A/Ant%C3%B3nio%20Pedro.md)
-- [Cristina Costa](../../Pessoas/C/Cristina%20Costa.md)
 - [Eduardo Almeida](../../Pessoas/E/Eduardo%20Almeida.md)
-- [Gonçalo Frade](../../Pessoas/G/Gon%C3%A7alo%20Frade.md)
 - [Irina Ramos](../../Pessoas/I/Irina%20Ramos.md)
 - [José Pedro Ferreira](../../Pessoas/J/Jos%C3%A9%20Pedro%20Ferreira.md)
-- [José da Silva Almeida](../../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
-- [Luís Ferreira do Amaral](../../Pessoas/L/Lu%C3%ADs%20Ferreira%20do%20Amaral.md)
 - [Nuno Carvalho](../../Pessoas/N/Nuno%20Carvalho.md)
 - [Pedro Pinheiro](../../Pessoas/P/Pedro%20Pinheiro.md)
-- [Rita Antunes](../../Pessoas/R/Rita%20Antunes.md)
-- [Vera Cunha](../../Pessoas/V/Vera%20Cunha.md)
 - [Vítor Fernandes](../../Pessoas/V/V%C3%ADtor%20Fernandes.md)
 
 ---

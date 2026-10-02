@@ -10,19 +10,14 @@ O Caroço decorreu de 15 a 24 de Agosto de 1999 em [Porto da Balsa](../../Restri
 - [Tia](../../Cargos/Tio.md) - [Diana Quintela](../../Pessoas/D/Diana%20Quintela.md)
 - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Telma Pinto](../../Pessoas/T/Telma%20Pinto.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
 - [Cecília Mendonça](../../Pessoas/C/Cec%C3%ADlia%20Mendon%C3%A7a.md)
-- [Diana Quintela](../../Pessoas/D/Diana%20Quintela.md)
 - [Inês Patrício](../../Pessoas/I/In%C3%AAs%20Patr%C3%ADcio.md)
 - [Jacinto Bezerra](../../Pessoas/J/Jacinto%20Bezerra.md)
 - [Joana Martins](../../Pessoas/J/Joana%20Martins.md)
-- [José Lima](../../Pessoas/J/Jos%C3%A9%20Lima.md)
-- [José Luís Silva](../../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Silva.md)
 - [José Miguel Fernandes](../../Pessoas/J/Jos%C3%A9%20Miguel%20Fernandes.md)
-- [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
 - [Maria Cortês Ferreira](../../Pessoas/M/Maria%20Cort%C3%AAs%20Ferreira.md)
-- [Telma Pinto](../../Pessoas/T/Telma%20Pinto.md)
 
 ---
 

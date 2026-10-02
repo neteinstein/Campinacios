@@ -15,20 +15,6 @@ O Encontro Nacional 2026 realizou-se no Colégio das Caldinhas, de 27 a 29 de Ma
 - **Directora de Bicicletas**: [Margarida Faria](../Pessoas/M/Margarida%20Faria.md)
 - **Directora de Lambretas**: [Maria Solla](../Pessoas/M/Maria%20Solla.md)
 
-## Páginas que ligam para aqui
-
-- [André Teixeira](../Pessoas/A/Andr%C3%A9%20Teixeira.md)
-- [Ariana Couto](../Pessoas/A/Ariana%20Couto.md)
-- [Fernando Monteiro](../Pessoas/F/Fernando%20Monteiro.md)
-- [Francisco Barroso](../Pessoas/F/Francisco%20Barroso.md)
-- [Francisco Ilhão](../Pessoas/F/Francisco%20Ilh%C3%A3o.md)
-- [Gonçalo Aguiar](../Pessoas/G/Gon%C3%A7alo%20Aguiar.md)
-- [Margarida Faria](../Pessoas/M/Margarida%20Faria.md)
-- [Maria João Guedes](../Pessoas/M/Maria%20Jo%C3%A3o%20Guedes.md)
-- [Maria Solla](../Pessoas/M/Maria%20Solla.md)
-- [Rita Ventura](../Pessoas/R/Rita%20Ventura.md)
-- [Rita Ângelo](../Pessoas/R/Rita%20%C3%82ngelo.md)
-
 ---
 
 | Categorias |

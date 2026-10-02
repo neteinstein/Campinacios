@@ -21,13 +21,6 @@ Carla Resende foi uma das animadoras do Colégio da Imaculada Conceição.
     - 1996 [Alvoco 96](../../Acampamentos/1996/Alvoco%2096.md) - [Tia](../../Cargos/Tio.md)
     - 1998 [Regresso a Alvoco II](../../Acampamentos/1998/Regresso%20a%20Alvoco%20II.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
-## Páginas que ligam para aqui
-
-- [Alvoco 96](../../Acampamentos/1996/Alvoco%2096.md)
-- [Benfeita 95](../../Acampamentos/1995/Benfeita%2095.md)
-- [Fragas de S.Simão 94](../../Acampamentos/1994/Fragas%20de%20S.Sim%C3%A3o%2094.md)
-- [Regresso a Alvoco II](../../Acampamentos/1998/Regresso%20a%20Alvoco%20II.md)
-
 ---
 
 | Categorias |

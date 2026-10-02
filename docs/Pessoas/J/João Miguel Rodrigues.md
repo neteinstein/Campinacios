@@ -18,18 +18,6 @@
     - 2017 [Supera-te](../../Acampamentos/2017/Supera-te.md) - [Director](../../Cargos/Director.md)
     - 2018 [A Ir e Falta o S](../../Acampamentos/2018/A%20Ir%20e%20Falta%20o%20S.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
 
-## Páginas que ligam para aqui
-
-- [A Ir e Falta o S](../../Acampamentos/2018/A%20Ir%20e%20Falta%20o%20S.md)
-- [Conta Kms](../../Acampamentos/2012/Conta%20Kms.md)
-- [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
-- [Fiat'ársea](../../Acampamentos/2014/Fiat%27%C3%A1rsea.md)
-- [Miguel Nogueira Rodrigues](../M/Miguel%20Nogueira%20Rodrigues.md)
-- [Mostra Garra](../../Acampamentos/2016/Mostra%20Garra.md)
-- [Realiza](../../Acampamentos/2013/Realiza.md)
-- [Supera-te](../../Acampamentos/2017/Supera-te.md)
-- [Take PaGod](../../Acampamentos/2015/Take%20PaGod.md)
-
 ---
 
 **Outros nomes:** Miguel Rodrigues · Mike

@@ -6,10 +6,6 @@
 
 - [Director](../../Cargos/Director.md) - [Paulo Gonçalves](../../Pessoas/P/Paulo%20Gon%C3%A7alves.md)
 
-## Páginas que ligam para aqui
-
-- [Paulo Gonçalves](../../Pessoas/P/Paulo%20Gon%C3%A7alves.md)
-
 ---
 
 | Categorias |

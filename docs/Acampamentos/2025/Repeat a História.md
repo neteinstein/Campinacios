@@ -12,14 +12,6 @@
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - António Neves, Francisco Barroso (Dinha), Carmo Ribeiro Corrêa e João Cardoso
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Samuel Afonso](../../Pessoas/S/Samuel%20Afonso.md) sj
 
-## Páginas que ligam para aqui
-
-- [Afonso Evangelista](../../Pessoas/A/Afonso%20Evangelista.md)
-- [André Vale](../../Pessoas/A/Andr%C3%A9%20Vale.md)
-- [José Cabelo](../../Pessoas/J/Jos%C3%A9%20Cabelo.md)
-- [Margarida Tavares](../../Pessoas/M/Margarida%20Tavares.md)
-- [Samuel Afonso](../../Pessoas/S/Samuel%20Afonso.md)
-
 ---
 
 | Categorias |

@@ -9,27 +9,19 @@
 - [Tias](../../Cargos/Tio.md) - [Ana Geão](../../Pessoas/A/Ana%20Ge%C3%A3o.md) e [Ana Curto](../../Pessoas/A/Ana%20Curto.md)
 - [Animadores](../../Categorias/Animadores.md) - João Graça , Zinho , Linda Araújo , [Isabel Fernandes Melo](../../Pessoas/I/Isabel%20Fernandes%20Melo.md) , João Reis (Joninhas) , [Cristina Costa](../../Pessoas/C/Cristina%20Costa.md) , [António Andrade](../../Pessoas/A/Ant%C3%B3nio%20Andrade.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [Ana Curto](../../Pessoas/A/Ana%20Curto.md)
-- [Ana Geão](../../Pessoas/A/Ana%20Ge%C3%A3o.md)
 - [Ana Salgado](../../Pessoas/A/Ana%20Salgado.md)
-- [António Andrade](../../Pessoas/A/Ant%C3%B3nio%20Andrade.md)
-- [António Júlio Trigueiros](../../Pessoas/A/Ant%C3%B3nio%20J%C3%BAlio%20Trigueiros.md)
 - [Bruno Azevedo](../../Pessoas/B/Bruno%20Azevedo.md)
 - [Carolina Carvalho](../../Pessoas/C/Carolina%20Carvalho.md)
 - [Cláudia Coelho](../../Pessoas/C/Cl%C3%A1udia%20Coelho.md)
-- [Cristina Costa](../../Pessoas/C/Cristina%20Costa.md)
-- [Isabel Fernandes Melo](../../Pessoas/I/Isabel%20Fernandes%20Melo.md)
 - [Joana Cardoso](../../Pessoas/J/Joana%20Cardoso.md)
 - [Joana Ferreira da Silva](../../Pessoas/J/Joana%20Ferreira%20da%20Silva.md)
-- [José da Silva Almeida](../../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
-- [Maria João Simões](../../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
 - [Miguel Fonseca](../../Pessoas/M/Miguel%20Fonseca.md)
 - [Ricardo Oliveira](../../Pessoas/R/Ricardo%20Oliveira.md)
 - [Rita Simões](../../Pessoas/R/Rita%20Sim%C3%B5es.md)
-- [Susana Vaz Pedro](../../Pessoas/S/Susana%20Vaz%20Pedro.md)
 - [Sílvia Reis](../../Pessoas/S/S%C3%ADlvia%20Reis.md)
+- [Susana Vaz Pedro](../../Pessoas/S/Susana%20Vaz%20Pedro.md)
 
 ---
 

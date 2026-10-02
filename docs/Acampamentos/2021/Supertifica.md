@@ -9,13 +9,6 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Joca](../../Pessoas/J/Joca.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [António Ferreira da Silva](../../Pessoas/A/Ant%C3%B3nio%20Ferreira%20da%20Silva.md) sj
 
-## Páginas que ligam para aqui
-
-- [António Ferreira da Silva](../../Pessoas/A/Ant%C3%B3nio%20Ferreira%20da%20Silva.md)
-- [Joca](../../Pessoas/J/Joca.md)
-- [Madalena Dantas](../../Pessoas/M/Madalena%20Dantas.md)
-- [Sofia Ângelo](../../Pessoas/S/Sofia%20%C3%82ngelo.md)
-
 ---
 
 | Categorias |

@@ -17,15 +17,6 @@
     - 2008 [Era Uma Vez...](../../Acampamentos/2008/Era%20Uma%20Vez....md) - [Tia](../../Cargos/Tio.md)
     - 2009 [Tira as rodinhas](../../Acampamentos/2009/Tira%20as%20rodinhas.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
-## Páginas que ligam para aqui
-
-- [Bora Bora](../../Acampamentos/2007/Bora%20Bora.md)
-- [Era Uma Vez...](../../Acampamentos/2008/Era%20Uma%20Vez....md)
-- [Eureka](../../Acampamentos/2008/Eureka.md)
-- [Terra do Nunca](../../Acampamentos/2005/Terra%20do%20Nunca.md)
-- [Tira as rodinhas](../../Acampamentos/2009/Tira%20as%20rodinhas.md)
-- [XS](../../Acampamentos/2006/XS.md)
-
 ---
 
 | Categorias |

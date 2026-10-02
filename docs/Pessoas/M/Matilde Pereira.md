@@ -13,11 +13,6 @@
 - **Animadora:**
     - 2026 [Ca Ganda Tanga](../../Acampamentos/2026/Ca%20Ganda%20Tanga.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
-## Páginas que ligam para aqui
-
-- [Ca Ganda Tanga](../../Acampamentos/2026/Ca%20Ganda%20Tanga.md)
-- [Matilde Ferreira](Matilde%20Ferreira.md)
-
 ---
 
 **Outros nomes:** Matchi

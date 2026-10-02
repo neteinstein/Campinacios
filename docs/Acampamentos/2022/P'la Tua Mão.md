@@ -10,14 +10,9 @@
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [António Pamplona](../../Pessoas/A/Ant%C3%B3nio%20Pamplona.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Emanuel Lopes](../../Pessoas/E/Emanuel%20Lopes.md) sj
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [António Pamplona](../../Pessoas/A/Ant%C3%B3nio%20Pamplona.md)
-- [Chico Carneiro](../../Pessoas/C/Chico%20Carneiro.md)
-- [Emanuel Lopes](../../Pessoas/E/Emanuel%20Lopes.md)
 - [Fernando Monteiro](../../Pessoas/F/Fernando%20Monteiro.md)
-- [Gonçalo Sá](../../Pessoas/G/Gon%C3%A7alo%20S%C3%A1.md)
-- [Janine Silva](../../Pessoas/J/Janine%20Silva.md)
 
 ---
 

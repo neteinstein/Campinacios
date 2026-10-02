@@ -12,13 +12,10 @@ O nome deste acampamento é acrónimo de: **G**rupo de **A**migos **N**a **Z**on
 
 O encontro chamou-se ERVA, acrónimo de Encontro ReViver o Alferrarede.
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
 - [André Gonçalves](../../Pessoas/A/Andr%C3%A9%20Gon%C3%A7alves.md)
-- [Filipe Queiroz e Melo](../../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md)
 - [José Luís Fernandes](../../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Fernandes.md)
-- [José da Silva Almeida](../../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
-- [Maria João Simões](../../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
 - [Ricardo Lopes](../../Pessoas/R/Ricardo%20Lopes.md)
 
 ---

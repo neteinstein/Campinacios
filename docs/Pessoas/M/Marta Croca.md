@@ -14,12 +14,6 @@
 
 É irmã da [Sara Croca](../S/Sara%20Croca.md).
 
-## Páginas que ligam para aqui
-
-- [Bora Bora](../../Acampamentos/2007/Bora%20Bora.md)
-- [Nómada](../../Acampamentos/2006/N%C3%B3mada.md)
-- [OrienTu](../../Acampamentos/2008/OrienTu.md)
-
 ---
 
 | Categorias |

@@ -10,14 +10,6 @@
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [António Pamplona](../../Pessoas/A/Ant%C3%B3nio%20Pamplona.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Afonso Espregueira](../../Pessoas/A/Afonso%20Espregueira.md) sj
 
-## Páginas que ligam para aqui
-
-- [Afonso Espregueira](../../Pessoas/A/Afonso%20Espregueira.md)
-- [António Pamplona](../../Pessoas/A/Ant%C3%B3nio%20Pamplona.md)
-- [Chumi](../../Pessoas/C/Chumi.md)
-- [Gonçalo Sá](../../Pessoas/G/Gon%C3%A7alo%20S%C3%A1.md)
-- [Isabel Fonseca](../../Pessoas/I/Isabel%20Fonseca.md)
-
 ---
 
 | Categorias |

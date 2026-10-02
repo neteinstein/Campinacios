@@ -9,10 +9,6 @@ Tomás Silva é antigo aluno do Colégio S. João de Brito, é animador dos Camp
 - **Animador:**
     - 2010 [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
-## Páginas que ligam para aqui
-
-- [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md)
-
 ---
 
 | Categorias |

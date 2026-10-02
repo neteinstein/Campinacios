@@ -17,11 +17,6 @@ Elias Oliveira é, desde 2005, um dos animadores do Colégio das Caldinhas.
     - 2007 [OPA](../../Acampamentos/2007/OPA.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2008 [OrienTu](../../Acampamentos/2008/OrienTu.md) - [Tio](../../Cargos/Tio.md)
 
-## Páginas que ligam para aqui
-
-- [OPA](../../Acampamentos/2007/OPA.md)
-- [OrienTu](../../Acampamentos/2008/OrienTu.md)
-
 ---
 
 | Categorias |

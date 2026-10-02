@@ -25,12 +25,6 @@ Secretariado Nacional do Apostolado da Oração
 
 - *Preço: 10€*
 
-## Páginas que ligam para aqui
-
-- [José da Silva Almeida](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
-- [Manual de Funções](Manual%20de%20Fun%C3%A7%C3%B5es.md)
-- [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
-
 ---
 
 | Categorias |

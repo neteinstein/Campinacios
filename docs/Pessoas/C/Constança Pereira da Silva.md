@@ -20,16 +20,6 @@
 
 É irmã do [Manuel Cordeiro Ferreira](../M/Manuel%20Cordeiro%20Ferreira.md) e do [Goga](../D/Diogo%20Cordeiro%20Ferreira.md)
 
-## Páginas que ligam para aqui
-
-- [Caldelas](../../Acampamentos/1996/Caldelas.md)
-- [Diogo Cordeiro Ferreira](../D/Diogo%20Cordeiro%20Ferreira.md)
-- [Gurugnu](../../Acampamentos/2000/Gurugnu.md)
-- [Koalas](../../Acampamentos/1999/Koalas.md)
-- [Manuel Cordeiro Ferreira](../M/Manuel%20Cordeiro%20Ferreira.md)
-- [Mikelin Descobre a Vida](../../Acampamentos/2004/Mikelin%20Descobre%20a%20Vida.md)
-- [Piripetroporco](../../Acampamentos/2002/Piripetroporco.md)
-
 ---
 
 **Outros nomes:** Constança Cordeiro Ferreira

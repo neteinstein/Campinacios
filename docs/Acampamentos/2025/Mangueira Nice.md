@@ -14,17 +14,6 @@
 
 O hino deste campo está no [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#mangueira-nice).
 
-## Páginas que ligam para aqui
-
-- [Cantinácio: Campinácios](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md)
-- [Daniela Gonçalves](../../Pessoas/D/Daniela%20Gon%C3%A7alves.md)
-- [Eduardo Amaral](../../Pessoas/E/Eduardo%20Amaral.md)
-- [Gonçalo Aguiar](../../Pessoas/G/Gon%C3%A7alo%20Aguiar.md)
-- [Heitor Rosa](../../Pessoas/H/Heitor%20Rosa.md)
-- [Lourenço Beato](../../Pessoas/L/Louren%C3%A7o%20Beato.md)
-- [Maria Carvalho](../../Pessoas/M/Maria%20Carvalho.md)
-- [Maria Silva](../../Pessoas/M/Maria%20Silva.md)
-
 ---
 
 | Categorias |

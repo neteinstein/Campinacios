@@ -24,14 +24,6 @@ Francisco Dioniz Barroso Loureiro, conhecido como Loureiro, é animador do CAIC.
 
 - 2023/2025 - Departamento de Locais de Campo
 
-## Páginas que ligam para aqui
-
-- [Caldorado](../../Acampamentos/2024/Caldorado.md)
-- [De Todas as Fôrmas](../../Acampamentos/2023/De%20Todas%20as%20F%C3%B4rmas.md)
-- [Exipto](../../Acampamentos/2025/Exipto.md)
-- [Limpo Pó](../../Acampamentos/2022/Limpo%20P%C3%B3.md)
-- [Sobe d'Andar](../../Acampamentos/2021/Sobe%20d%27Andar.md)
-
 ---
 
 **Outros nomes:** Loureiro

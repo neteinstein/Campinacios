@@ -10,13 +10,6 @@
 
 É irmã da [Francisca Mendes](../F/Francisca%20Mendes.md).
 
-## Páginas que ligam para aqui
-
-- [Bora Bora](../../Acampamentos/2007/Bora%20Bora.md)
-- [Eureka](../../Acampamentos/2008/Eureka.md)
-- [Francisca Mendes](../F/Francisca%20Mendes.md)
-- [Teresa Mendes](../T/Teresa%20Mendes.md)
-
 ---
 
 | Categorias |

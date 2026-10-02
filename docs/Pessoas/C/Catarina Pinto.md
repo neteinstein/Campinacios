@@ -14,10 +14,6 @@
 - **Animadora:**
     - 2011 [Pedra papel tesoura](../../Acampamentos/2011/Pedra%20papel%20tesoura.md)
 
-## Páginas que ligam para aqui
-
-- [Pedra papel tesoura](../../Acampamentos/2011/Pedra%20papel%20tesoura.md)
-
 ---
 
 | Categorias |

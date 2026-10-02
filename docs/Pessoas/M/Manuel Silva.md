@@ -14,14 +14,6 @@
     - 2008 [TufarfarAway](../../Acampamentos/2008/TufarfarAway.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2009 [Tira as rodinhas](../../Acampamentos/2009/Tira%20as%20rodinhas.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
-## Páginas que ligam para aqui
-
-- [Bora Bora](../../Acampamentos/2007/Bora%20Bora.md)
-- [Em Busca da CaraBela](../../Acampamentos/2006/Em%20Busca%20da%20CaraBela.md)
-- [João Manuel Silva](../J/Jo%C3%A3o%20Manuel%20Silva.md)
-- [Tira as rodinhas](../../Acampamentos/2009/Tira%20as%20rodinhas.md)
-- [TufarfarAway](../../Acampamentos/2008/TufarfarAway.md)
-
 ---
 
 | Categorias |

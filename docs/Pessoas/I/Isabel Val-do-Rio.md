@@ -6,10 +6,6 @@ Isabel Val-do-Rio foi uma dos animadoras do Colégio da Imaculada Conceição.
 
 É irmã da [Ana Val-do-Rio](../A/Ana%20Val-do-Rio.md).
 
-## Páginas que ligam para aqui
-
-- [Ana Val-do-Rio](../A/Ana%20Val-do-Rio.md)
-
 ---
 
 | Categorias |

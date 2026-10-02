@@ -11,10 +11,6 @@
 - **Animador**
     - 1998 [Tiw-y-moy](../../Acampamentos/1998/Tiw-y-moy.md) - [Director](../../Cargos/Director.md)
 
-## Páginas que ligam para aqui
-
-- [Tiw-y-moy](../../Acampamentos/1998/Tiw-y-moy.md)
-
 ---
 
 | Categorias |

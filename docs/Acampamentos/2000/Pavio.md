@@ -10,18 +10,11 @@ O Pavio foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) que dec
 - [Tia](../../Cargos/Tio.md) - [Marta Santos](../../Pessoas/M/Marta%20Santos.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Gabriela Poças](../../Pessoas/G/Gabriela%20Po%C3%A7as.md), [Guida](../../Pessoas/M/Margarida%20Rodrigues.md), [Sofia Azevedo Cardoso](../../Pessoas/S/Sofia%20Azevedo%20Cardoso.md) e Tiago Cunha Ferreira
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
 - [Bernardo Mendonça](../../Pessoas/B/Bernardo%20Mendon%C3%A7a.md)
 - [Bruno Azevedo](../../Pessoas/B/Bruno%20Azevedo.md)
-- [Gabriela Poças](../../Pessoas/G/Gabriela%20Po%C3%A7as.md)
-- [José Rui Sampaio](../../Pessoas/J/Jos%C3%A9%20Rui%20Sampaio.md)
-- [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
-- [Margarida Rodrigues](../../Pessoas/M/Margarida%20Rodrigues.md)
-- [Marta Santos](../../Pessoas/M/Marta%20Santos.md)
 - [Ricardo Oliveira](../../Pessoas/R/Ricardo%20Oliveira.md)
-- [Rita Antunes](../../Pessoas/R/Rita%20Antunes.md)
-- [Sofia Azevedo Cardoso](../../Pessoas/S/Sofia%20Azevedo%20Cardoso.md)
 - [Sílvia Reis](../../Pessoas/S/S%C3%ADlvia%20Reis.md)
 
 ---

@@ -11,19 +11,6 @@ Academia foi um acampamento de Triciclos que se realizou em [Digueifel](../../Re
 - [Animadores Livres](../../Cargos/Animador%20Livre.md)- [Francisco Penetra](../../Pessoas/F/Francisco%20Penetra.md) e [Pedro Rodrigues](../../Pessoas/P/Pedro%20Rodrigues.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [João Quintela](../../Pessoas/J/Jo%C3%A3o%20Quintela.md), [Pedro Turras](../../Pessoas/P/Pedro%20Turras.md) e [Rita Turras](../../Pessoas/R/Rita%20Turras.md)
 
-## Páginas que ligam para aqui
-
-- [Andreia Pereira](../../Pessoas/A/Andreia%20Pereira.md)
-- [Carolina Carvalho](../../Pessoas/C/Carolina%20Carvalho.md)
-- [Francisco Penetra](../../Pessoas/F/Francisco%20Penetra.md)
-- [Gonçalo Garcia](../../Pessoas/G/Gon%C3%A7alo%20Garcia.md)
-- [João Quintela](../../Pessoas/J/Jo%C3%A3o%20Quintela.md)
-- [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
-- [Mafalda Pereira](../../Pessoas/M/Mafalda%20Pereira.md)
-- [Pedro Rodrigues](../../Pessoas/P/Pedro%20Rodrigues.md)
-- [Pedro Turras](../../Pessoas/P/Pedro%20Turras.md)
-- [Rita Turras](../../Pessoas/R/Rita%20Turras.md)
-
 ---
 
 | Categorias |

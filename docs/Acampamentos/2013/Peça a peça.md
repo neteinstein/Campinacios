@@ -6,11 +6,10 @@
 
 - [Director](../../Cargos/Director.md) - [João Eiró](../../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
 - [Francisco Dioniz Barroso Loureiro](../../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
 - [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
-- [João Eiró](../../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md)
 
 ---
 

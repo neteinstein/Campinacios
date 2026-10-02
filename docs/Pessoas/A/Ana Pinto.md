@@ -15,11 +15,6 @@ Ana Isabel Pinto, também conhecida por Ni, estudou no Colégio das Caldinhas de
 
 É irmã do [Pedro Pinto](../P/Pedro%20Pinto.md).
 
-## Páginas que ligam para aqui
-
-- [Megafona](../../Acampamentos/2005/Megafona.md)
-- [Pedro Pinto](../P/Pedro%20Pinto.md)
-
 ---
 
 | Categorias |

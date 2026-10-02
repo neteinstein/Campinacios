@@ -14,16 +14,6 @@
     - 2009 [Lembras-te?](../../Acampamentos/2009/Lembras-te.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2012 [Sarcófago](../../Acampamentos/2012/Sarc%C3%B3fago.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
-## Páginas que ligam para aqui
-
-- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
-- [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md)
-- [Falésia](../../Acampamentos/2005/Fal%C3%A9sia.md)
-- [Lembras-te?](../../Acampamentos/2009/Lembras-te.md)
-- [M&M](../../Acampamentos/2007/M%26M.md)
-- [Origami](../../Acampamentos/2006/Origami.md)
-- [Sarcófago](../../Acampamentos/2012/Sarc%C3%B3fago.md)
-
 ---
 
 | Categorias |

@@ -19,15 +19,6 @@
 
 É irmã da [Andreia Pereira](../A/Andreia%20Pereira.md).
 
-## Páginas que ligam para aqui
-
-- [Academia](../../Acampamentos/2005/Academia.md)
-- [Andreia Pereira](../A/Andreia%20Pereira.md)
-- [Baza](../../Acampamentos/2007/Baza.md)
-- [Bike Just Do It](../../Acampamentos/2008/Bike%20Just%20Do%20It.md)
-- [Origami](../../Acampamentos/2006/Origami.md)
-- [Triciclos 1](../../Acampamentos/1997/Triciclos%201.md)
-
 ---
 
 | Categorias |

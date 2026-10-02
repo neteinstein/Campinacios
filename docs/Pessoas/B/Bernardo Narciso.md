@@ -18,16 +18,6 @@
     - 2007 [OPA](../../Acampamentos/2007/OPA.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2009 [Caminho](../../Acampamentos/2009/Caminho.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
-## Páginas que ligam para aqui
-
-- [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
-- [Caminho](../../Acampamentos/2009/Caminho.md)
-- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
-- [Gaivota](../../Acampamentos/2005/Gaivota.md)
-- [Long Tao](../../Acampamentos/2006/Long%20Tao.md)
-- [OPA](../../Acampamentos/2007/OPA.md)
-- [Triciclos 1](../../Acampamentos/1997/Triciclos%201.md)
-
 ---
 
 **Outros nomes:** CIzo · Ciso · Cizo

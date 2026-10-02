@@ -7,10 +7,6 @@ Manuel Matos foi um animador do Colégio das Caldinhas.
 - **Animador:**
     - 2003 [Génesis 2003 d.C.](../../Acampamentos/2003/G%C3%A9nesis%202003%20d.C..md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
-## Páginas que ligam para aqui
-
-- [Génesis 2003 d.C.](../../Acampamentos/2003/G%C3%A9nesis%202003%20d.C..md)
-
 ---
 
 | Categorias |

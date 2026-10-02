@@ -23,18 +23,6 @@
     - 1999 [Gipsy Kings](../../Acampamentos/1999/Gipsy%20Kings.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2000 [Gordurosa](../../Acampamentos/2000/Gordurosa.md) - [Director](../../Cargos/Director.md)
 
-## Páginas que ligam para aqui
-
-- [98 Covas](../../Acampamentos/1998/98%20Covas.md)
-- [Além](../../Acampamentos/1998/Al%C3%A9m.md)
-- [Aranha](../../Acampamentos/1997/Aranha.md)
-- [Benfeita 95](../../Acampamentos/1995/Benfeita%2095.md)
-- [Caldelas](../../Acampamentos/1996/Caldelas.md)
-- [Carolina Morão](../C/Carolina%20Mor%C3%A3o.md)
-- [Gipsy Kings](../../Acampamentos/1999/Gipsy%20Kings.md)
-- [Gordurosa](../../Acampamentos/2000/Gordurosa.md)
-- [Trotinetas 90](../../Acampamentos/1990/Trotinetas%2090.md)
-
 ---
 
 **Outros nomes:** Kaká

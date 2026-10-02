@@ -12,25 +12,6 @@ O Origami foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Duarte Dias](../../Pessoas/D/Duarte%20Dias.md), [Rita Luís](../../Pessoas/R/Rita%20Lu%C3%ADs.md) e [João Quintela](../../Pessoas/J/Jo%C3%A3o%20Quintela.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Eduardo Lima](../../Pessoas/E/Eduardo%20Lima.md), [Susana Vaz Pedro](../../Pessoas/S/Susana%20Vaz%20Pedro.md), [Joaquim Abreu](../../Pessoas/J/Joaquim%20Abreu.md), [Vítor Leite](../../Pessoas/V/V%C3%ADtor%20Leite.md), [Sofia Amaral](../../Pessoas/S/Sofia%20Amaral.md), [Mafalda Pereira](../../Pessoas/M/Mafalda%20Pereira.md) e [Pedro Lucas](../../Pessoas/P/Pedro%20Lucas.md)
 
-## Páginas que ligam para aqui
-
-- [Carlos Miguel Albuquerque](../../Pessoas/C/Carlos%20Miguel%20Albuquerque.md)
-- [Carolina Carvalho](../../Pessoas/C/Carolina%20Carvalho.md)
-- [Duarte Dias](../../Pessoas/D/Duarte%20Dias.md)
-- [Eduardo Lima](../../Pessoas/E/Eduardo%20Lima.md)
-- [Joana Ferreira](../../Pessoas/J/Joana%20Ferreira.md)
-- [Joaquim Abreu](../../Pessoas/J/Joaquim%20Abreu.md)
-- [João Quintela](../../Pessoas/J/Jo%C3%A3o%20Quintela.md)
-- [Mafalda Pereira](../../Pessoas/M/Mafalda%20Pereira.md)
-- [Pedro Lucas](../../Pessoas/P/Pedro%20Lucas.md)
-- [Pedro Rocha Mendes](../../Pessoas/P/Pedro%20Rocha%20Mendes.md)
-- [Rita Luís](../../Pessoas/R/Rita%20Lu%C3%ADs.md)
-- [Sofia Amaral](../../Pessoas/S/Sofia%20Amaral.md)
-- [Susana Vaz Pedro](../../Pessoas/S/Susana%20Vaz%20Pedro.md)
-- [Sílvio Gonçalves](../../Pessoas/S/S%C3%ADlvio%20Gon%C3%A7alves.md)
-- [Telmo Teixeira](../../Pessoas/T/Telmo%20Teixeira.md)
-- [Vítor Leite](../../Pessoas/V/V%C3%ADtor%20Leite.md)
-
 ---
 
 | Categorias |

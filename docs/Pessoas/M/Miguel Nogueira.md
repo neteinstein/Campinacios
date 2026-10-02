@@ -7,11 +7,6 @@
 - **Animador:**
     - 1992 [Verim](../../Acampamentos/1992/Verim.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
 
-## Páginas que ligam para aqui
-
-- [Miguel Nogueira Rodrigues](Miguel%20Nogueira%20Rodrigues.md)
-- [Verim](../../Acampamentos/1992/Verim.md)
-
 ---
 
 | Categorias |

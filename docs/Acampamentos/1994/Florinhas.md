@@ -11,11 +11,6 @@ O Florinhas foi um acampamento especial organizado com a ajuda dos [Campinácios
 
 http://www.candeia.org/historia.html
 
-## Páginas que ligam para aqui
-
-- [Concha Líbano Monteiro](../../Pessoas/C/Concha%20L%C3%ADbano%20Monteiro.md)
-- [Rodrigo Queiroz e Melo](../../Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md)
-
 ---
 
 | Categorias |

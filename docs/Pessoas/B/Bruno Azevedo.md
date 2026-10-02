@@ -21,16 +21,6 @@ Bruno Miguel Moreira Azevedo, nascido a 4 de Junho de 1983, é animador do CC de
 
 - 2010 [Encontro Nacional de Animadores 2010](../../Encontros/Encontro%20Nacional%20de%20Animadores%202010.md) - Coordenação
 
-## Páginas que ligam para aqui
-
-- [Bora Bora](../../Acampamentos/2007/Bora%20Bora.md)
-- [Encontro Nacional de Animadores 2010](../../Encontros/Encontro%20Nacional%20de%20Animadores%202010.md)
-- [Era Uma Vez...](../../Acampamentos/2008/Era%20Uma%20Vez....md)
-- [TSI](../../Acampamentos/2008/TSI.md)
-- [Tira as rodinhas](../../Acampamentos/2009/Tira%20as%20rodinhas.md)
-- [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md)
-- [XS](../../Acampamentos/2006/XS.md)
-
 ---
 
 | Categorias |

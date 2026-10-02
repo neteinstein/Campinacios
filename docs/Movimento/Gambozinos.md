@@ -32,12 +32,6 @@ http://www.Gambozinos.org Gambozinos
 
 Cfr. José da Silva ALMEIDA SJ, Para Educar Melhor - Campos de Férias Inacianos, AO, Braga, 2004
 
-## Páginas que ligam para aqui
-
-- [Animador](Animador.md)
-- [Florinhas](../Acampamentos/1994/Florinhas.md)
-- [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
-
 ---
 
 | Categorias |

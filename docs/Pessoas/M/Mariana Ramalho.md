@@ -9,10 +9,6 @@
 - **Animadora:**
     - 2026 [Ca Ganda Tanga](../../Acampamentos/2026/Ca%20Ganda%20Tanga.md) - [Tia](../../Cargos/Tio.md)
 
-## Páginas que ligam para aqui
-
-- [Ca Ganda Tanga](../../Acampamentos/2026/Ca%20Ganda%20Tanga.md)
-
 ---
 
 | Categorias |

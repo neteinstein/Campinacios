@@ -7,10 +7,6 @@
 - **Animadora**
     - 2008 [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md) - [Tia](../../Cargos/Tio.md)
 
-## Páginas que ligam para aqui
-
-- [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md)
-
 ---
 
 | Categorias |

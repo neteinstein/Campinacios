@@ -12,32 +12,17 @@ O Génesis foi um acampamento de Bicicletas que decorreu de 2 a 11 de Setembro d
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Gonçalo Belo](../../Pessoas/G/Gon%C3%A7alo%20Belo.md), [Motorzinho](../../Pessoas/A/Andr%C3%A9%20Gon%C3%A7alves.md) e [Manuel Matos](../../Pessoas/M/Manuel%20Matos.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Joana Cardoso](../../Pessoas/J/Joana%20Cardoso.md), [Tachi](../../Pessoas/T/Tachi.md) sj, [José Luís Fernandes](../../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Fernandes.md), [Manuel Vilhena](../../Pessoas/M/Manuel%20Vilhena.md), [Filipa Valle](../../Pessoas/F/Filipa%20Valle.md) e [Joana Nunes](../../Pessoas/J/Joana%20Nunes.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
 - [Ana Paula Sampaio](../../Pessoas/A/Ana%20Paula%20Sampaio.md)
 - [Andreia Gil](../../Pessoas/A/Andreia%20Gil.md)
-- [André Gonçalves](../../Pessoas/A/Andr%C3%A9%20Gon%C3%A7alves.md)
 - [Duarte Dias](../../Pessoas/D/Duarte%20Dias.md)
-- [Filipa Valle](../../Pessoas/F/Filipa%20Valle.md)
-- [Gonçalo Belo](../../Pessoas/G/Gon%C3%A7alo%20Belo.md)
 - [Gonçalo Vaz Pedro](../../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md)
-- [Joana Cardoso](../../Pessoas/J/Joana%20Cardoso.md)
-- [Joana Ferreira](../../Pessoas/J/Joana%20Ferreira.md)
-- [Joana Ferreira da Silva](../../Pessoas/J/Joana%20Ferreira%20da%20Silva.md)
-- [Joana Nunes](../../Pessoas/J/Joana%20Nunes.md)
 - [Joana Reis](../../Pessoas/J/Joana%20Reis.md)
-- [José Luís Fernandes](../../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Fernandes.md)
 - [João Freire de Andrade](../../Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md)
 - [João Monteiro](../../Pessoas/J/Jo%C3%A3o%20Monteiro.md)
-- [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
-- [Manuel Matos](../../Pessoas/M/Manuel%20Matos.md)
-- [Manuel Vilhena](../../Pessoas/M/Manuel%20Vilhena.md)
 - [Mariana Roxo](../../Pessoas/M/Mariana%20Roxo.md)
-- [Pedro Rocha Mendes](../../Pessoas/P/Pedro%20Rocha%20Mendes.md)
-- [Ricardo Lopes](../../Pessoas/R/Ricardo%20Lopes.md)
-- [Tachi](../../Pessoas/T/Tachi.md)
 - [Tiago Carneiro](../../Pessoas/T/Tiago%20Carneiro.md)
-- [Tiago Figueira](../../Pessoas/T/Tiago%20Figueira.md)
 
 ---
 

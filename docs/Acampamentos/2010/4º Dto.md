@@ -6,10 +6,6 @@
 
 - [Director](../../Cargos/Director.md) - [Joana Gomes](../../Pessoas/J/Joana%20Gomes.md)
 
-## Páginas que ligam para aqui
-
-- [Joana Gomes](../../Pessoas/J/Joana%20Gomes.md)
-
 ---
 
 **Outros nomes:** 4º direito

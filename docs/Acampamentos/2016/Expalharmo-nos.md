@@ -6,9 +6,8 @@
 
 - [Director](../../Cargos/Director.md) - [Afonso Oom](../../Pessoas/A/Afonso%20Oom.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [Afonso Oom](../../Pessoas/A/Afonso%20Oom.md)
 - [Jaime Lucas Pires](../../Pessoas/J/Jaime%20Lucas%20Pires.md)
 
 ---

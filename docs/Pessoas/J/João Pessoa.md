@@ -15,13 +15,6 @@ João Pessoa foi desde 1990 dos animadores do Colégio da Imaculada Conceição.
 
 Foi também professor de Educação Física do CAIC.
 
-## Páginas que ligam para aqui
-
-- [CAmpIC 89](../../Acampamentos/1989/CAmpIC%2089.md)
-- [CAmpIC 91](../../Acampamentos/1991/CAmpIC%2091.md)
-- [Caldas de S.Paulo](../../Acampamentos/1990/Caldas%20de%20S.Paulo.md)
-- [Campinácios](../../Movimento/Campin%C3%A1cios.md)
-
 ---
 
 | Categorias |

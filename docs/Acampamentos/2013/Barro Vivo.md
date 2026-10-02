@@ -6,10 +6,6 @@
 
 - [Director](../../Cargos/Director.md) - [Francisco Moitinho de Almeida](../../Pessoas/F/Francisco%20Moitinho%20Almeida.md)
 
-## Páginas que ligam para aqui
-
-- [Francisco Moitinho Almeida](../../Pessoas/F/Francisco%20Moitinho%20Almeida.md)
-
 ---
 
 | Categorias |

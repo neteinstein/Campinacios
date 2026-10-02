@@ -31,20 +31,6 @@ Sérgio Carvalho é um dos animadores do Colégio das Caldinhas.
 
 É irmão da [Carolina Carvalho](../C/Carolina%20Carvalho.md).
 
-## Páginas que ligam para aqui
-
-- [Além](../../Acampamentos/1998/Al%C3%A9m.md)
-- [Carolina Carvalho](../C/Carolina%20Carvalho.md)
-- [Cinena](../../Acampamentos/2001/Cinena.md)
-- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
-- [Graal II](../../Acampamentos/2003/Graal%20II.md)
-- [Liberata](../../Acampamentos/2000/Liberata.md)
-- [OPA](../../Acampamentos/2007/OPA.md)
-- [Pontes](../../Acampamentos/2001/Pontes.md)
-- [Poucha](../../Acampamentos/1997/Poucha.md)
-- [Tranquilo](../../Acampamentos/2000/Tranquilo.md)
-- [Êxodo](../../Acampamentos/2008/%C3%8Axodo.md)
-
 ---
 
 | Categorias |

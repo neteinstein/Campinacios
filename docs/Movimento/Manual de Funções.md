@@ -363,15 +363,6 @@ Agradecimentos aos diversos animadores que ajudaram na elaboração, reescrita e
 deste manual, bem como à DL-[CC](CC.md) e à DL-[CSJB](CSJB.md), e ao Perrú SJ, pelo texto
 inicial que é uma adaptação de um texto do Pe. Vasco SJ.
 
-## Páginas que ligam para aqui
-
-- [Caderno da Mamã](Caderno%20da%20Mam%C3%A3.md)
-- [Caderno de Jogos](Caderno%20de%20Jogos.md)
-- [Director](../Cargos/Director.md)
-- [Mamã](../Cargos/Mam%C3%A3.md)
-- [Manual do Director](Manual%20do%20Director.md)
-- [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
-
 ---
 
 | Categorias |

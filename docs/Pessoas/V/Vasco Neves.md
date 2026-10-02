@@ -9,10 +9,6 @@
 - **Animador:**
     - 2012 [Sarcófago](../../Acampamentos/2012/Sarc%C3%B3fago.md) - [Tio](../../Cargos/Tio.md)
 
-## Páginas que ligam para aqui
-
-- [Sarcófago](../../Acampamentos/2012/Sarc%C3%B3fago.md)
-
 ---
 
 | Categorias |

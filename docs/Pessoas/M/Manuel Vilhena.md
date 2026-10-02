@@ -20,18 +20,6 @@
     - 2006 [XS](../../Acampamentos/2006/XS.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2007 [Diz Que Sim](../../Acampamentos/2007/Diz%20Que%20Sim.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
-## Páginas que ligam para aqui
-
-- [Casca de Banana](../../Acampamentos/2005/Casca%20de%20Banana.md)
-- [Diz Que Sim](../../Acampamentos/2007/Diz%20Que%20Sim.md)
-- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
-- [Graal II](../../Acampamentos/2003/Graal%20II.md)
-- [Génesis 2003 d.C.](../../Acampamentos/2003/G%C3%A9nesis%202003%20d.C..md)
-- [Metrópole](../../Acampamentos/2004/Metr%C3%B3pole.md)
-- [Piripetroporco](../../Acampamentos/2002/Piripetroporco.md)
-- [Surpresa](../../Acampamentos/2001/Surpresa.md)
-- [XS](../../Acampamentos/2006/XS.md)
-
 ---
 
 | Categorias |

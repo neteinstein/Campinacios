@@ -10,12 +10,6 @@
 
 - 2023 [Encontro Nacional 2023](../../Encontros/Encontro%20Nacional%202023.md) - Direcção de Trotinetas
 
-## Páginas que ligam para aqui
-
-- [Encontro Nacional 2023](../../Encontros/Encontro%20Nacional%202023.md)
-- [Exipto](../../Acampamentos/2025/Exipto.md)
-- [Isto Só Visto](../../Acampamentos/2022/Isto%20S%C3%B3%20Visto.md)
-
 ---
 
 | Categorias |

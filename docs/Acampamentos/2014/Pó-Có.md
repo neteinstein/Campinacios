@@ -6,10 +6,6 @@
 
 - [Director](../../Cargos/Director.md) - [David Cruz e Silva](../../Pessoas/D/David%20Cruz%20e%20Silva.md)
 
-## Páginas que ligam para aqui
-
-- [David Cruz e Silva](../../Pessoas/D/David%20Cruz%20e%20Silva.md)
-
 ---
 
 | Categorias |

@@ -10,12 +10,6 @@
 
 - 2026 [Encontro Nacional 2026](../../Encontros/Encontro%20Nacional%202026.md) - Directora de Trotinetas
 
-## Páginas que ligam para aqui
-
-- [Ca Ganda Tanga](../../Acampamentos/2026/Ca%20Ganda%20Tanga.md)
-- [Encontro Nacional 2026](../../Encontros/Encontro%20Nacional%202026.md)
-- [PássaPorta](../../Acampamentos/2025/P%C3%A1ssaPorta.md)
-
 ---
 
 | Categorias |

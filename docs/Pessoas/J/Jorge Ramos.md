@@ -22,10 +22,6 @@ Jorge Ramos é desde 2008 um dos animadores do Colégio da Imaculada Conceição
 - **Animador:**
     - 2009 [Vi-O](../../Acampamentos/2009/Vi-O.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
-## Páginas que ligam para aqui
-
-- [Vi-O](../../Acampamentos/2009/Vi-O.md)
-
 ---
 
 | Categorias |

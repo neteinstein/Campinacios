@@ -29,12 +29,6 @@ Mariana Roxo é desde 2006, uma das animadoras do Colégio da Imaculada Conceiç
 
 É irmã da [Rita Roxo](../R/Rita%20Roxo.md).
 
-## Páginas que ligam para aqui
-
-- [Baúmerang](../../Acampamentos/2007/Ba%C3%BAmerang.md)
-- [Bike Just Do It](../../Acampamentos/2008/Bike%20Just%20Do%20It.md)
-- [Rita Roxo](../R/Rita%20Roxo.md)
-
 ---
 
 | Categorias |

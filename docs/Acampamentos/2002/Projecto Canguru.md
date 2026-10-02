@@ -9,10 +9,8 @@ Foi o primeiro campo volante da história dos Campinácios.
 - [Director](../../Cargos/Director.md) - [Gonçalo Frade](../../Pessoas/G/Gon%C3%A7alo%20Frade.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Tojú](../../Pessoas/A/Ant%C3%B3nio%20J%C3%BAlio%20Trigueiros.md) sj
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [António Júlio Trigueiros](../../Pessoas/A/Ant%C3%B3nio%20J%C3%BAlio%20Trigueiros.md)
-- [Gonçalo Frade](../../Pessoas/G/Gon%C3%A7alo%20Frade.md)
 - [Inês Patrício](../../Pessoas/I/In%C3%AAs%20Patr%C3%ADcio.md)
 - [Inês Próspero](../../Pessoas/I/In%C3%AAs%20Pr%C3%B3spero.md)
 - [Jacinto Bezerra](../../Pessoas/J/Jacinto%20Bezerra.md)

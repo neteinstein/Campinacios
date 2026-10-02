@@ -16,10 +16,6 @@ Inês Oliveira é desde 2006 um das animadoras do Colégio da Imaculada Conceiç
 - **Animador:**
     - 2008 [TSI](../../Acampamentos/2008/TSI.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
-## Páginas que ligam para aqui
-
-- [TSI](../../Acampamentos/2008/TSI.md)
-
 ---
 
 | Categorias |

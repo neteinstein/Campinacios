@@ -22,16 +22,6 @@
     - 2009 [Bublix](../../Acampamentos/2009/Bublix.md) - [Director](../../Cargos/Director.md)
     - 2010 [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
 
-## Páginas que ligam para aqui
-
-- [Baza](../../Acampamentos/2007/Baza.md)
-- [Bublix](../../Acampamentos/2009/Bublix.md)
-- [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
-- [Em Busca da CaraBela](../../Acampamentos/2006/Em%20Busca%20da%20CaraBela.md)
-- [Eureka](../../Acampamentos/2008/Eureka.md)
-- [Isabel Neves](../I/Isabel%20Neves.md)
-- [Terra do Nunca](../../Acampamentos/2005/Terra%20do%20Nunca.md)
-
 ---
 
 | Categorias |

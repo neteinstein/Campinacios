@@ -9,13 +9,6 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Tomás Costa](../../Pessoas/T/Tom%C3%A1s%20Costa.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Carvalho](../../Pessoas/C/Carlos%20Carvalho.md) sj
 
-## Páginas que ligam para aqui
-
-- [Carlos Carvalho](../../Pessoas/C/Carlos%20Carvalho.md)
-- [Eduarda Roxo](../../Pessoas/E/Eduarda%20Roxo.md)
-- [Mariana Cardal](../../Pessoas/M/Mariana%20Cardal.md)
-- [Tomás Costa](../../Pessoas/T/Tom%C3%A1s%20Costa.md)
-
 ---
 
 | Categorias |

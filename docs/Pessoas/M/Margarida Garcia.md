@@ -10,12 +10,6 @@
 
 - 2023 [Encontro Nacional 2023](../../Encontros/Encontro%20Nacional%202023.md) - Direcção de Triciclos
 
-## Páginas que ligam para aqui
-
-- [Encontro Nacional 2023](../../Encontros/Encontro%20Nacional%202023.md)
-- [Expresso 3 B](../../Acampamentos/2021/Expresso%203%20B.md)
-- [XP Fora da Roda](../../Acampamentos/2019/XP%20Fora%20da%20Roda.md)
-
 ---
 
 **Outros nomes:** Guida

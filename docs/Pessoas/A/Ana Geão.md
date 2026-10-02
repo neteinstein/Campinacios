@@ -10,16 +10,6 @@
     - 2003 [Pimpolhos](../../Acampamentos/2003/Pimpolhos.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2004 [Trolliciclos](../../Acampamentos/2004/Trolliciclos.md) - [Tia](../../Cargos/Tio.md)
 
-## Páginas que ligam para aqui
-
-- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
-- [Gipsy Kings](../../Acampamentos/1999/Gipsy%20Kings.md)
-- [Koalas](../../Acampamentos/1999/Koalas.md)
-- [Pimpolhos](../../Acampamentos/2003/Pimpolhos.md)
-- [Shampum de Pessêgo](../../Acampamentos/2001/Shampum%20de%20Pess%C3%AAgo.md)
-- [Tem Bicho Zweitausend](../../Acampamentos/2000/Tem%20Bicho%20Zweitausend.md)
-- [Trolliciclos](../../Acampamentos/2004/Trolliciclos.md)
-
 ---
 
 | Categorias |

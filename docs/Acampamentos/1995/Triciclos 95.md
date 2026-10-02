@@ -6,10 +6,6 @@
 
 - [Director](../../Cargos/Director.md) - [Paulo Pimenta](../../Pessoas/P/Paulo%20Pimenta.md)
 
-## Páginas que ligam para aqui
-
-- [Paulo Pimenta](../../Pessoas/P/Paulo%20Pimenta.md)
-
 ---
 
 | Categorias |

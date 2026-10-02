@@ -6,10 +6,6 @@
 
 - [Director](../../Cargos/Director.md) - [Henrique Mota Amaral](../../Pessoas/H/Henrique%20Mota%20Amaral.md)
 
-## Páginas que ligam para aqui
-
-- [Henrique Mota Amaral](../../Pessoas/H/Henrique%20Mota%20Amaral.md)
-
 ---
 
 | Categorias |

@@ -16,10 +16,6 @@ Frequentou o [CC](../../Movimento/CC.md) de 2000 a 2008. Animadora desde 2008 at
 - **Animadora:**
     - 2009 [Tira as rodinhas](../../Acampamentos/2009/Tira%20as%20rodinhas.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
-## Páginas que ligam para aqui
-
-- [Tira as rodinhas](../../Acampamentos/2009/Tira%20as%20rodinhas.md)
-
 ---
 
 | Categorias |

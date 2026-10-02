@@ -13,10 +13,6 @@ Alexandra Silva é desde 2008 uma das animadoras do Colégio da Imaculada Concei
 - **Animador:**
     - 2009 [Vi-O](../../Acampamentos/2009/Vi-O.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
-## Páginas que ligam para aqui
-
-- [Vi-O](../../Acampamentos/2009/Vi-O.md)
-
 ---
 
 | Categorias |

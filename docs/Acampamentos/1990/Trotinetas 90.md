@@ -6,7 +6,7 @@
 
 - [Ricardo Rodrigues](../../Pessoas/R/Ricardo%20Rodrigues.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
 - [Ricardo Rodrigues](../../Pessoas/R/Ricardo%20Rodrigues.md)
 
