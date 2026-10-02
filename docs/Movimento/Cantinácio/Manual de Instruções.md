@@ -1,7 +1,7 @@
 # Cantinácio: Manual de Instruções
 
 [![Capa da secção «Manual de Instruções»: rapaz a tocar guitarra, sobre fundo azul](../../assets/imagens/Cantin%C3%A1cio%202019/p175.jpg){ width="300" }](../../assets/imagens/Cantin%C3%A1cio%202019/p175.jpg)
-*Ilustração de [Francisco Rodrigues (Pica)](../../Pessoas/F/Francisco%20Rodrigues%20%28Pica%29.md) no Cantinácio 2019 (3.ª edição), p. 175.*
+*Ilustração de [Francisco Rodrigues (Pica)](../../Pessoas/F/Francisco%20Silva%20Rodrigues.md) no Cantinácio 2019 (3.ª edição), p. 175.*
 
 Dicas para aprender a tocar guitarra (e também cavaquinho e ukelele), da secção «Manual de Instruções» do Cantinácio de 2019 (3.ª edição), pp. 175 a 185.
 
