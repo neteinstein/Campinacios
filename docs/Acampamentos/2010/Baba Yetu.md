@@ -6,11 +6,13 @@
 
 - [Director](../../Cargos/Director.md) - [Ivo Reis](../../Pessoas/I/Ivo%20Reis.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Gonçalo Vaz Pedro](../../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md)
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Ricardo Costa](../../Pessoas/R/Ricardo%20Costa.md)
 
 ## Páginas que ligam para aqui
 
 - [Gonçalo Vaz Pedro](../../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md)
 - [Ivo Reis](../../Pessoas/I/Ivo%20Reis.md)
+- [Ricardo Costa](../../Pessoas/R/Ricardo%20Costa.md)
 
 ---
 

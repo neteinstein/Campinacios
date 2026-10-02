@@ -17,6 +17,7 @@
 - [Manuel Costa](../../Pessoas/M/Manuel%20Costa.md)
 - [Rafa Mano](../../Pessoas/R/Rafa%20Mano.md)
 - [Francisca Veloso](../../Pessoas/F/Francisca%20Veloso.md)
+- [Zé Guedes](../../Pessoas/Z/Z%C3%A9%20Guedes.md)
 
 ---
 

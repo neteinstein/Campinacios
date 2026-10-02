@@ -19,6 +19,7 @@
 - [Ricardo Amado](Ricardo%20Amado.md)
 - [Ricardo Barroso](Ricardo%20Barroso.md)
 - [Ricardo Batista](Ricardo%20Batista.md)
+- [Ricardo Costa](Ricardo%20Costa.md)
 - [Ricardo Dias](Ricardo%20Dias.md)
 - [Ricardo Lopes](Ricardo%20Lopes.md)
 - [Ricardo Neves](Ricardo%20Neves.md)
