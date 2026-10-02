@@ -1,70 +1,178 @@
-# Cantinácio 2019: Hits de Campo
+# Cantinácio: Músicas de Campo
 
-[![Capa da secção «Hits de Campo»: candeeiros e figuras de campo, sobre fundo azul escuro](../../../assets/imagens/Cantin%C3%A1cio%202019/p089.jpg){ width="300" }](../../../assets/imagens/Cantin%C3%A1cio%202019/p089.jpg)
-*Ilustração de [Francisco Rodrigues (Pica)](../../../Pessoas/F/Francisco%20Rodrigues%20%28Pica%29.md) no Cantinácio 2019 (3.ª edição), p. 89.*
+[![Capa da secção «Hits de Campo»: candeeiros e figuras de campo, sobre fundo azul escuro](../../assets/imagens/Cantin%C3%A1cio%202019/p089.jpg){ width="300" }](../../assets/imagens/Cantin%C3%A1cio%202019/p089.jpg)
+*Capa da secção «Hits de Campo» do Cantinácio 2019 (3.ª edição), com ilustração de [Francisco Rodrigues (Pica)](../../Pessoas/F/Francisco%20Rodrigues%20%28Pica%29.md).*
 
-Músicas nascidas ou cantadas nos acampamentos. Da secção «Hits de Campo» do Cantinácio de 2019 (3.ª edição).
+Músicas para cantar nos acampamentos: rodas, danças, bênçãos das refeições e outros êxitos de campo.
 
-Voltar ao [Cantinácio](../../Cantin%C3%A1cio.md).
+Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
 ## Índice (52 músicas)
 
-- [156. A minha avó e a tua avó](#a-minha-avo-e-a-tua-avo)
-- [157. A sopa da mamã](#a-sopa-da-mama)
-- [158. Ah uni](#ah-uni)
-- [159. Alguém à deriva](#alguem-a-deriva)
-- [160. Amar alguém](#amar-alguem)
-- [161. André e a Cecília](#andre-e-a-cecilia)
-- [162. Árvore da montanha](#arvore-da-montanha)
-- [163. BDS, reconhece e agradece](#bds-reconhece-e-agradece)
-- [164. Big Fat Pony](#big-fat-pony)
-- [165. Boa Noite, irmão](#boa-noite-irmao)
-- [166. Bom dia amigo I](#bom-dia-amigo-i)
-- [167. Bom dia amigo II](#bom-dia-amigo-ii)
-- [168. Chicabum](#chicabum)
-- [169. Comprei um carro usado](#comprei-um-carro-usado)
-- [170. Cupido certeiro](#cupido-certeiro)
-- [171. Deus nos livres](#deus-nos-livres) — Melodia “Bob, o construtor”
-- [172. Eu perdi o dó da minha viola](#eu-perdi-o-do-da-minha-viola)
-- [173. Eu sou o Zé](#eu-sou-o-ze)
-- [174. Estava no meio do mato](#estava-no-meio-do-mato)
-- [175. Faz as malas](#faz-as-malas) — Musical “Vida de Campo”
-- [176. Frango e a galinha](#frango-e-a-galinha)
-- [177. Hino dos 20 anos](#hino-dos-20-anos)
-- [178. Jovem como a planta](#jovem-como-a-planta)
-- [179. Joy d’ananás](#joy-dananas)
-- [180. Lá vai o vento](#la-vai-o-vento)
-- [181. Lancheira na mão](#lancheira-na-mao)
-- [182. Lesmas](#lesmas) — Melodia Get Lucky - Daft Punk
-- [183. Minha linda meu amor](#minha-linda-meu-amor)
-- [184. Nunca somos demais](#nunca-somos-demais)
-- [185. O Ducolax](#o-ducolax)
-- [186. O Petromax](#o-petromax)
-- [187. O amor é como um fogo](#o-amor-e-como-um-fogo)
-- [188. O nosso galo é bom cantor](#o-nosso-galo-e-bom-cantor)
-- [189. O pai buda](#o-pai-buda)
-- [190. Ode à farmácia](#ode-a-farmacia)
-- [191. Pão com manteiga](#pao-com-manteiga)
-- [192. Poema Lindo](#poema-lindo)
-- [193. Querida mamã](#querida-mama)
-- [194. Ré maior](#re-maior)
-- [195. Sai cicleta](#sai-cicleta)
-- [196. Sejas óleo, farinha](#sejas-oleo-farinha)
-- [197. Semeia a verdade](#semeia-a-verdade)
-- [198. Ter uma equipa](#ter-uma-equipa) — Musical “Vida de Campo”
-- [199. Tias](#tias) — (melodia Dunas)
-- [200. Tu és o meu fogo](#tu-es-o-meu-fogo)
-- [201. Tu já namoras?](#tu-ja-namoras)
-- [202. Vem acudir](#vem-acudir) — Genérico Novela - Long Tao, 2006
-- [203. Vida de campo](#vida-de-campo) — Musical “Vida de Campo”
-- [204. Você, que estava a dormir](#voce-que-estava-a-dormir)
-- [205. Xicaboom](#xicaboom)
-- [206. Yeyeah](#yeyeah)
-- [207. Patos, frangos, galinhas](#patos-frangos-galinhas)
+- [ABENÇOAI SENHOR 2](#abencoai-senhor-2)
+- [ABENÇOAR ESTE ALIMENTO](#abencoar-este-alimento) — (melodia Fizz de Limão)
+- [AH UNI](#ah-uni)
+- [ALGUÉM À DERIVA](#alguem-a-deriva)
+- [AMAR ALGUÉM](#amar-alguem)
+- [A MINHA AVÓ E A TUA AVÓ](#a-minha-avo-e-a-tua-avo)
+- [ANDRÉ E A CECÍLIA](#andre-e-a-cecilia)
+- [ÁRVORE DA MONTANHA](#arvore-da-montanha)
+- [A SOPA DA MAMÃ](#a-sopa-da-mama)
+- [BDS, RECONHECE E AGRADECE](#bds-reconhece-e-agradece)
+- [BIG FAT PONY](#big-fat-pony)
+- [BOA NOITE, IRMÃO](#boa-noite-irmao)
+- [BOM DIA AMIGO I](#bom-dia-amigo-i)
+- [BOM DIA AMIGO II](#bom-dia-amigo-ii)
+- [BROUSSE 2](#brousse-2)
+- [CHICABUM](#chicabum)
+- [COMPREI UM CARRO USADO](#comprei-um-carro-usado)
+- [CUPIDO CERTEIRO](#cupido-certeiro)
+- [DEUS NOS LIVRES](#deus-nos-livres) — Melodia “Bob, o construtor”
+- [ESTAVA NO MEIO DO MATO](#estava-no-meio-do-mato)
+- [EU PERDI O DÓ DA MINHA VIOLA](#eu-perdi-o-do-da-minha-viola)
+- [EU SOU O ZÉ](#eu-sou-o-ze)
+- [FAZ AS MALAS](#faz-as-malas) — Musical “Vida de Campo”
+- [FRANGO E A GALINHA](#frango-e-a-galinha)
+- [HINO DOS 20 ANOS](#hino-dos-20-anos)
+- [JOY D’ANANÁS](#joy-dananas)
+- [LANCHEIRA NA MÃO](#lancheira-na-mao)
+- [LÁ VAI O VENTO](#la-vai-o-vento)
+- [LESMAS](#lesmas) — Melodia Get Lucky - Daft Punk
+- [MINHA LINDA MEU AMOR](#minha-linda-meu-amor)
+- [O AMOR É COMO UM FOGO](#o-amor-e-como-um-fogo)
+- [OBRIGADO PELA BOA COMIDA](#obrigado-pela-boa-comida) — (estalidos de dedos)
+- [ODE À FARMÁCIA](#ode-a-farmacia)
+- [O DUCOLAX](#o-ducolax)
+- [O NOSSO GALO É BOM CANTOR](#o-nosso-galo-e-bom-cantor)
+- [O PAI BUDA](#o-pai-buda)
+- [O PETROMAX](#o-petromax)
+- [PATOS, FRANGOS, GALINHAS](#patos-frangos-galinhas)
+- [POR ESTA REFEIÇÃO](#por-esta-refeicao)
+- [QUERIDA MAMÃ](#querida-mama)
+- [RÉ MAIOR](#re-maior)
+- [SAI CICLETA](#sai-cicleta)
+- [SEJAS ÓLEO, FARINHA](#sejas-oleo-farinha)
+- [SEMEIA A VERDADE](#semeia-a-verdade)
+- [TER UMA EQUIPA](#ter-uma-equipa) — Musical “Vida de Campo”
+- [TIAS](#tias) — (melodia Dunas)
+- [TU ÉS O MEU FOGO](#tu-es-o-meu-fogo)
+- [TU JÁ NAMORAS?](#tu-ja-namoras)
+- [VIDA DE CAMPO](#vida-de-campo) — Musical “Vida de Campo”
+- [VOCÊ, QUE ESTAVA A DORMIR](#voce-que-estava-a-dormir)
+- [XICABOOM](#xicaboom)
+- [YEYEAH](#yeyeah)
 
 ## Músicas
+### ABENÇOAI SENHOR 2 {#abencoai-senhor-2}
 
-### 156. A minha avó e a tua avó {#a-minha-avo-e-a-tua-avo}
+```text
+Dó                   Fá      Sol
+Abençoai Senhor, a nossa refeição
+    Fá             Dó          Sol    Dó
+Que à volta desta roda haja sempre união!
+
+Abençoai Senhor, o pão de cada dia
+Que à volta desta roda haja sempre alegria!
+```
+
+### ABENÇOAR ESTE ALIMENTO {#abencoar-este-alimento}
+
+*(melodia Fizz de Limão)*
+
+```text
+     Sol                   Mim
+Se alguém pudesse abençoar este alimento
+Sol                  Mim
+Que a mamã preparou p’ra nosso sustento
+Ré                  Dó                  Sol
+Só tu senhor consegues dar sentido à refeição
+        Si     Mim
+Em jeito de oração
+        Dó         Ré
+Vamos todos cantar, cantar, cantar
+
+Sol
+Confiamos em ti, senhor
+               Dó
+Sabes que é para te servir
+                     Sim
+A graça que estamos a pedir
+         Dó        Ré
+Só pode vir de ti
+
+Sol
+Peço por quem não tem
+
+             Dó
+Agradeço o pão de cada dia
+                    Sim
+Para que nos encha de alegria
+                 Mim          Lá7
+Porque a vida sem Ti é bem diferente
+           Ré
+É triste e vazia
+Dó       Ré          Sol
+Dai-nos senhor, tua alegria
+```
+
+### AH UNI {#ah-uni}
+
+```text
+        Lá
+1ª voz - Ah uni, uni ah, ah uni
+          Ré          Mi
+       Ah uni, uni há aemos
+
+2ª voz - Haaaaaaaaa
+       Uni há aemos
+```
+
+### ALGUÉM À DERIVA {#alguem-a-deriva}
+
+```text
+Dó             Sol      Lám           Fá
+Há gente que escapa por entre os meus dedos
+Há portas que fecham o acesso aos segredos
+Há sítios que querem brincar as escondidas
+Há horas que fogem e caiem estendidas .
+
+Dó           Sol                 Lám
+E o espaço perdido por entre os pinhais
+            Mim               Fá
+Não pode esconder as pegadas rurais
+                   Rém              Sol
+Escondido entre a bruma de um porto fatal
+           Sol7           Dó
+Um barco perdido destino abismal
+Nanananana
+
+O dia já foi e a cidade aparece
+Há cenas que vejo enquanto o dia escurece
+Pessoas que choram e gritam enquanto o chão
+arrefece
+
+Saudade espalhada num deserto a ferver
+O tempo que acampa num desejo a morrer
+Poder ampliada de uma espada mortal
+Espetada na terra do reino infernal
+```
+
+### AMAR ALGUÉM {#amar-alguem}
+
+```text
+Sol             Ré
+Oh ______ tu não sabes
+Dó              Sol
+Oh ______ tu não sabes
+         Ré
+O que é amar alguém
+         Dó
+O que é amar alguém
+                 Sol
+Como o/a _____ te ama
+```
+
+### A MINHA AVÓ E A TUA AVÓ {#a-minha-avo-e-a-tua-avo}
 
 ```text
 Lá
@@ -90,7 +198,65 @@ ________________!
 Hey now […]
 ```
 
-### 157. A sopa da mamã {#a-sopa-da-mama}
+### ANDRÉ E A CECÍLIA {#andre-e-a-cecilia}
+
+```text
+Dó       Fá    Dó
+O André e a Cecília
+  Dó       Fá    Dó
+A beber um chá de tília
+Dó         Fá   Dó
+A Cecília e o André
+ Fá       Sol Dó
+A beberem um café
+Dó                   Fá
+Oh meu amor, minha paixão
+     Sol
+És o meu avião (x2)
+
+Um, dois, três, quatro!
+
+Dó              Fá    Dó
+És a marmelada do meu pão
+Dó               Fá    Dó
+És fofinha como o algodão
+Dó
+És o sangue que circula no meu
+Fá    Sol
+CO-RA-ÇÃO!
+
+O Camafeu e a Prespineta
+A dançar uma valseta
+A Prespineta ao Camafeu
+Muitos beijinhos lhe deu
+
+Ó meu xuxu, minha chupeta
+És a minha violeta (x2)
+
+Um, dois, três, quatro!
+
+És a marmelada do meu pão
+És fofinha como o algodão
+És o leite que derrama
+Do meu RE-QUEI-JÃO
+```
+
+### ÁRVORE DA MONTANHA {#arvore-da-montanha}
+
+```text
+Sol                  Dó  Sol
+A árvore da montanha, AEIOU
+Dó               Sol  Ré  Sol
+A árvore da montanha, AEIOU
+
+Sol
+Essa árvore tinha um ramo
+Ai aiai que lindo ramo!
+O ramo, da árvore da montanha.
+(ir acrescentando coisas à árvore)
+```
+
+### A SOPA DA MAMÃ {#a-sopa-da-mama}
 
 ```text
 A sopa da mamã é o melhor que há
@@ -135,122 +301,7 @@ Olha que já me irritas, olha que está a terminar!
 A sopa da mamã é espectacular!
 ```
 
-### 158. Ah uni {#ah-uni}
-
-```text
-        Lá
-1ª voz - Ah uni, uni ah, ah uni
-          Ré          Mi
-       Ah uni, uni há aemos
-
-2ª voz - Haaaaaaaaa
-       Uni há aemos
-```
-
-### 159. Alguém à deriva {#alguem-a-deriva}
-
-```text
-Dó             Sol      Lám           Fá
-Há gente que escapa por entre os meus dedos
-Há portas que fecham o acesso aos segredos
-Há sítios que querem brincar as escondidas
-Há horas que fogem e caiem estendidas .
-
-Dó           Sol                 Lám
-E o espaço perdido por entre os pinhais
-            Mim               Fá
-Não pode esconder as pegadas rurais
-                   Rém              Sol
-Escondido entre a bruma de um porto fatal
-           Sol7           Dó
-Um barco perdido destino abismal
-Nanananana
-
-O dia já foi e a cidade aparece
-Há cenas que vejo enquanto o dia escurece
-Pessoas que choram e gritam enquanto o chão
-arrefece
-
-Saudade espalhada num deserto a ferver
-O tempo que acampa num desejo a morrer
-Poder ampliada de uma espada mortal
-Espetada na terra do reino infernal
-```
-
-### 160. Amar alguém {#amar-alguem}
-
-```text
-Sol             Ré
-Oh ______ tu não sabes
-Dó              Sol
-Oh ______ tu não sabes
-         Ré
-O que é amar alguém
-         Dó
-O que é amar alguém
-                 Sol
-Como o/a _____ te ama
-```
-
-### 161. André e a Cecília {#andre-e-a-cecilia}
-
-```text
-Dó       Fá    Dó
-O André e a Cecília
-  Dó       Fá    Dó
-A beber um chá de tília
-Dó         Fá   Dó
-A Cecília e o André
- Fá       Sol Dó
-A beberem um café
-Dó                   Fá
-Oh meu amor, minha paixão
-     Sol
-És o meu avião (x2)
-
-Um, dois, três, quatro!
-
-Dó              Fá    Dó
-És a marmelada do meu pão
-Dó               Fá    Dó
-És fofinha como o algodão
-Dó
-És o sangue que circula no meu
-Fá    Sol
-CO-RA-ÇÃO!
-
-O Camafeu e a Prespineta
-A dançar uma valseta
-A Prespineta ao Camafeu
-Muitos beijinhos lhe deu
-
-Ó meu xuxu, minha chupeta
-És a minha violeta (x2)
-
-Um, dois, três, quatro!
-
-És a marmelada do meu pão
-És fofinha como o algodão
-És o leite que derrama
-Do meu RE-QUEI-JÃO
-```
-
-### 162. Árvore da montanha {#arvore-da-montanha}
-
-```text
-Sol                  Dó  Sol
-A árvore da montanha, AEIOU
-Dó               Sol  Ré  Sol
-A árvore da montanha, AEIOU
-
-Sol
-Essa árvore tinha um ramo
-Ai aiai que lindo ramo!
-O ramo, da árvore da montanha.
-(ir acrescentando coisas à árvore)
-```
-
-### 163. BDS, reconhece e agradece {#bds-reconhece-e-agradece}
+### BDS, RECONHECE E AGRADECE {#bds-reconhece-e-agradece}
 
 ```text
 Dó Lám        Fá                  Sol
@@ -265,7 +316,7 @@ BDS, reconhece e agradece
 BDS, uma Alegria que permanece
 ```
 
-### 164. Big Fat Pony {#big-fat-pony}
+### BIG FAT PONY {#big-fat-pony}
 
 ```text
 Dó
@@ -285,7 +336,7 @@ Cavalgando no meu pónei
 Assim reza a lenda
 ```
 
-### 165. Boa Noite, irmão {#boa-noite-irmao}
+### BOA NOITE, IRMÃO {#boa-noite-irmao}
 
 ```text
 Lám        Sol          Lám
@@ -307,7 +358,7 @@ Que o sonho faz bem
 Amanhã o dia é melhor!
 ```
 
-### 166. Bom dia amigo I {#bom-dia-amigo-i}
+### BOM DIA AMIGO I {#bom-dia-amigo-i}
 
 ```text
 Dó                      Sol
@@ -316,7 +367,7 @@ Bom dia amigo, bom dia irmão
 Levanta-te comigo, e canta esta canção!
 ```
 
-### 167. Bom dia amigo II {#bom-dia-amigo-ii}
+### BOM DIA AMIGO II {#bom-dia-amigo-ii}
 
 ```text
 Lá        Mi   Lá        Mi
@@ -327,7 +378,51 @@ Levanta-te comigo
 E canta esta canção, paraparapara!
 ```
 
-### 168. Chicabum {#chicabum}
+### BROUSSE 2 {#brousse-2}
+
+```text
+Mim
+J'aime la brousse
+Et la jolie savane
+Il y a des lyons
+Il y a des tigres
+Il y a des léopards
+          Lám
+J'aime la brousse
+              Mim
+Et la jolie savane
+        Lám  Si Mim
+J'aime la brousse
+
+Não te encostes à parreira
+Que a parreira deita pó
+Encosta-te à minha beira
+Sou solteiro e vivo só
+Sou solteiro e vivo só
+Nanana, oh nana
+
+Todos os patinhos
+Sabem bem nadar
+Cabeça para baixo
+Rabinho para o ar
+Todos os patinhooos
+Sabem bem nadar
+Nanana, oh nana
+
+Pinheiro, pinheiro, pinheiro
+E no meio um eucalipto
+Pinheeeeeiro
+E no meio um eucalipto
+Nanana, oh nana
+
+A 13 de Maio, na Cova da Iria
+Apareceu brilhando
+A Virgem Maria
+Apareceuuuuu, a Virgem Maria
+Nanana oh nana
+```
+
+### CHICABUM {#chicabum}
 
 ```text
 1ª voz
@@ -343,7 +438,7 @@ Chicagulé guli guli guli guli
 GULI GULI GULI GULIÉ ohhhh
 ```
 
-### 169. Comprei um carro usado {#comprei-um-carro-usado}
+### COMPREI UM CARRO USADO {#comprei-um-carro-usado}
 
 ```text
 Lá
@@ -362,10 +457,7 @@ HEY! Queres vir dar uma volta?
 Paparaparara
 ```
 
-[![Candeeiro de campismo pendurado](../../../assets/imagens/Cantin%C3%A1cio%202019/p093_1084.jpg){ width="200" }](../../../assets/imagens/Cantin%C3%A1cio%202019/p093_1084.jpg)
-*Ilustração de [Francisco Rodrigues (Pica)](../../../Pessoas/F/Francisco%20Rodrigues%20%28Pica%29.md) no Cantinácio 2019 (3.ª edição), p. 93.*
-
-### 170. Cupido certeiro {#cupido-certeiro}
+### CUPIDO CERTEIRO {#cupido-certeiro}
 
 ```text
 Sol
@@ -411,7 +503,7 @@ Quero o tempo que perdi já és meu
 O cupido venceu!
 ```
 
-### 171. Deus nos livres {#deus-nos-livres}
+### DEUS NOS LIVRES {#deus-nos-livres}
 
 *Melodia “Bob, o construtor”*
 
@@ -439,61 +531,7 @@ Eles são rijos e vais sempre encontrar
 Deus nos livres se com eles fores falar
 ```
 
-### 172. Eu perdi o dó da minha viola {#eu-perdi-o-do-da-minha-viola}
-
-```text
-Sol
-Eu perdi o Dó da minha viola
-Da minha viola eu perdi o Dó!
-Dó              Lám
-Dormir é muito bom, é muito bom
-Dó   Ré        Sol
-Dormir é muito bom, é muito bom
-É bom camarada, é bom camarada
-                Ré
-É bom, é bom, é bom!
-É bom camarada, é bom camarada
-                 Sol
-É bom, é bom, é bom!
-
-(correr restantes notas da escala)
-```
-
-### 173. Eu sou o Zé {#eu-sou-o-ze}
-
-```text
-Sol      Ré
-Eu sou o Zé
-Dó             Ré
-Estou na tenda aqui ao pé
-Sol      Ré
-Estou aqui ao lado
-Dó       Ré
-Tenho o fecho estragado
-
-Dó       Ré
-Se algum dia te sentires mal
-Dó        Ré                  Sol
-Durante a noite ou no geral
-          Ré                   Dó
-Dá-me um toque, vem-me chamar
-     Ré             Dó
-Para falar ou vomitar
-          Ré                    Sol
-Dá-me um toque, vem-me chamar!
-
-Se estás cansado, e andas desanimado
-Sou a solução, vem eu dou-te a mão!
-
-Se algum dia te sentires mal (…)
-
-Eu sou porreiro, e nunca passo da marca
-Se eu for foleiro, escreve-me uma carta!
-
-Se algum dia te sentires mal (…)
-```
-
-### 174. Estava no meio do mato {#estava-no-meio-do-mato}
+### ESTAVA NO MEIO DO MATO {#estava-no-meio-do-mato}
 
 ```text
 Dó Fá Sol
@@ -536,10 +574,61 @@ Hacendo la caca
 Ya no hay papel... higienico!
 ```
 
-[![Candeeiro de campismo pendurado](../../../assets/imagens/Cantin%C3%A1cio%202019/p095_1084.jpg){ width="200" }](../../../assets/imagens/Cantin%C3%A1cio%202019/p095_1084.jpg)
-*Ilustração de [Francisco Rodrigues (Pica)](../../../Pessoas/F/Francisco%20Rodrigues%20%28Pica%29.md) no Cantinácio 2019 (3.ª edição), p. 95.*
+### EU PERDI O DÓ DA MINHA VIOLA {#eu-perdi-o-do-da-minha-viola}
 
-### 175. Faz as malas {#faz-as-malas}
+```text
+Sol
+Eu perdi o Dó da minha viola
+Da minha viola eu perdi o Dó!
+Dó              Lám
+Dormir é muito bom, é muito bom
+Dó   Ré        Sol
+Dormir é muito bom, é muito bom
+É bom camarada, é bom camarada
+                Ré
+É bom, é bom, é bom!
+É bom camarada, é bom camarada
+                 Sol
+É bom, é bom, é bom!
+
+(correr restantes notas da escala)
+```
+
+### EU SOU O ZÉ {#eu-sou-o-ze}
+
+```text
+Sol      Ré
+Eu sou o Zé
+Dó             Ré
+Estou na tenda aqui ao pé
+Sol      Ré
+Estou aqui ao lado
+Dó       Ré
+Tenho o fecho estragado
+
+Dó       Ré
+Se algum dia te sentires mal
+Dó        Ré                  Sol
+Durante a noite ou no geral
+          Ré                   Dó
+Dá-me um toque, vem-me chamar
+     Ré             Dó
+Para falar ou vomitar
+          Ré                    Sol
+Dá-me um toque, vem-me chamar!
+
+Se estás cansado, e andas desanimado
+Sou a solução, vem eu dou-te a mão!
+
+Se algum dia te sentires mal (…)
+
+Eu sou porreiro, e nunca passo da marca
+Se eu for foleiro, escreve-me uma carta!
+
+Se algum dia te sentires mal (…)
+```
+
+### FAZ AS MALAS {#faz-as-malas}
 
 *Musical “Vida de Campo”*
 
@@ -636,7 +725,7 @@ Esses dias de Verão
 Já tinha ouvido dizer […]
 ```
 
-### 176. Frango e a galinha {#frango-e-a-galinha}
+### FRANGO E A GALINHA {#frango-e-a-galinha}
 
 ```text
 Ré                Lá
@@ -654,7 +743,7 @@ E o frango coitadinho na panela acabou
 E a galinha coitadinha nunca mais dançou!
 ```
 
-### 177. Hino dos 20 anos {#hino-dos-20-anos}
+### HINO DOS 20 ANOS {#hino-dos-20-anos}
 
 ```text
   Lá           Ré
@@ -725,35 +814,7 @@ Campinácios! […]
 Lá* - x02120; Ré* - xx0222
 ```
 
-[![Rapariga deitada a descansar](../../../assets/imagens/Cantin%C3%A1cio%202019/p097_1118.jpg){ width="200" }](../../../assets/imagens/Cantin%C3%A1cio%202019/p097_1118.jpg)
-*Ilustração de [Francisco Rodrigues (Pica)](../../../Pessoas/F/Francisco%20Rodrigues%20%28Pica%29.md) no Cantinácio 2019 (3.ª edição), p. 97.*
-
-### 178. Jovem como a planta {#jovem-como-a-planta}
-
-```text
-Ré                           Lá
-Eu canto por ser jovem como a planta
-          Sol     Lá
-E a malta canta, oh ohh
-Ré                       Lá             Sol  Lá
-É ter este cancro na garganta, ter esta dor
-
-Eu acho que é um fungo que há em mim
-E canto assim
-Por isso canto cada vez pior, sou um horror
-        Ré   Lá  Sol   Lá
-E sou cantooooooor!
-Eu mando por ser jovem como a planta
-E a malta canta
-É ter este apito na garganta, ter esta dor
-Eu acho que é um fungo que há em mim
-E mando assim
-Por isso mando cada vez pior
-Sou um horror
-Sou directooooor!
-```
-
-### 179. Joy d’ananás {#joy-dananas}
+### JOY D’ANANÁS {#joy-dananas}
 
 ```text
 Lá
@@ -770,7 +831,29 @@ Ai que bem que faz o Joy d’ananás
 O Joy de ananás
 ```
 
-### 180. Lá vai o vento {#la-vai-o-vento}
+### LANCHEIRA NA MÃO {#lancheira-na-mao}
+
+```text
+            Lá
+Lancheira na mão
+                      Mi
+Vou levar o almoço ao pai
+Lancheira na mão
+                      Lá
+Vou levar o almoço ao pai
+Lancheira na mão
+                      Si7
+Vou levar o almoço ao pai
+             Mi
+Lancheira na mão
+                      Lá
+Vou levar o almoço ao pai
+
+Pega na lancheira
+Vou levar o almoço ao pai…
+```
+
+### LÁ VAI O VENTO {#la-vai-o-vento}
 
 ```text
 Sol
@@ -806,32 +889,7 @@ Com fé e confiança
 Ele vem cá ter
 ```
 
-### 181. Lancheira na mão {#lancheira-na-mao}
-
-```text
-            Lá
-Lancheira na mão
-                      Mi
-Vou levar o almoço ao pai
-Lancheira na mão
-                      Lá
-Vou levar o almoço ao pai
-Lancheira na mão
-                      Si7
-Vou levar o almoço ao pai
-             Mi
-Lancheira na mão
-                      Lá
-Vou levar o almoço ao pai
-
-Pega na lancheira
-Vou levar o almoço ao pai…
-```
-
-[![Rádio de cassetes](../../../assets/imagens/Cantin%C3%A1cio%202019/p098_1128.jpg){ width="200" }](../../../assets/imagens/Cantin%C3%A1cio%202019/p098_1128.jpg)
-*Ilustração de [Francisco Rodrigues (Pica)](../../../Pessoas/F/Francisco%20Rodrigues%20%28Pica%29.md) no Cantinácio 2019 (3.ª edição), p. 98.*
-
-### 182. Lesmas {#lesmas}
+### LESMAS {#lesmas}
 
 *Melodia Get Lucky - Daft Punk*
 
@@ -871,7 +929,7 @@ Começamos a mirrar x5
 Freestyle!
 ```
 
-### 183. Minha linda meu amor {#minha-linda-meu-amor}
+### MINHA LINDA MEU AMOR {#minha-linda-meu-amor}
 
 ```text
 Dó     Sol        Fá
@@ -904,35 +962,46 @@ Sol                 Dó
 (versão light: vem e vigia-me as beiças!)
 ```
 
-### 184. Nunca somos demais {#nunca-somos-demais}
+### O AMOR É COMO UM FOGO {#o-amor-e-como-um-fogo}
 
 ```text
-Dó  Lám Rém Sol
-A   E   I  O   U, pararara (x2)
+Dó       Fá
+O amor, o amor
+   Dó            Fá
+O amor é como um fogo
+  Dó
+O amor...
 
-E dois e um, são três
-E três e um, são quatro
-E quatro e um, são cinco
-E assim já somos mais, são sei
-E seis e um, são sete
-E sete e um, são oito
-E nunca somos DEMAIS
-
-A E I O U, pararara! (x2)
-
-Dó       Lám
-Vem, vem connosco
-  Rém             Sol
-E canta a mesma canção
-   Dó         Lám
-O mundo é bem melhor
-      Rém              Sol
-Quando alguém nos dá a mão
-      Rém              Sol
-Quando alguém nos dá a mão!
+(x infinito, ir acrescentando vozes e sentimento)
 ```
 
-### 185. O Ducolax {#o-ducolax}
+### OBRIGADO PELA BOA COMIDA {#obrigado-pela-boa-comida}
+
+*(estalidos de dedos)*
+
+```text
+Muito obrigado pela boa comida (x4)
+Nós te agradecemos
+Pela boa, BOA, boa, BOA
+Boa comida
+```
+
+### ODE À FARMÁCIA {#ode-a-farmacia}
+
+```text
+       Sol        Dó           Ré
+Eu não sei o que é que ele vai dar
+      Sol      Dó          Ré
+E nem sei o que me vai aplicar
+      Dó
+Inventei uma dor
+    Ré
+Dói-me p’rai um rim
+        Dó          Ré     Sol
+Ai oh _______ cuida só de mim!
+```
+
+### O DUCOLAX {#o-ducolax}
 
 ```text
 Dó                      Lám
@@ -947,7 +1016,37 @@ O Dulcolax é bué potente
 O Dulcolax alivia muita gente!
 ```
 
-### 186. O Petromax {#o-petromax}
+### O NOSSO GALO É BOM CANTOR {#o-nosso-galo-e-bom-cantor}
+
+```text
+Dó             Sol    Dó
+O nosso galo é bom cantor
+Dó               Sol   Dó
+É bom cantor, tem boa voz
+Dó                   Sol     Dó
+Está sempre a cantar cocoró, cocoró (x3)
+
+Mas veio um dia e não cantou
+Outro e mais outro e não cantou
+Nunca mais se ouviu cocoró, cocoró (x3)
+```
+
+### O PAI BUDA {#o-pai-buda}
+
+```text
+Dó
+O pai buda tem muitos filhos
+                        Sol
+Tem muitos filhos o pai buda
+Eu sou um deles, e tu também
+              Sol
+Oremos ao pai buda.
+
+Mão direita, mão esquerda, pé direito, pé esquerdo,
+narina direita, narina esquerda, etc…
+```
+
+### O PETROMAX {#o-petromax}
 
 ```text
 Dó               Lám
@@ -980,146 +1079,35 @@ Porque ilumina as noites dos
 Campinácios!
 ```
 
-### 187. O amor é como um fogo {#o-amor-e-como-um-fogo}
+### PATOS, FRANGOS, GALINHAS {#patos-frangos-galinhas}
 
 ```text
-Dó       Fá
-O amor, o amor
-   Dó            Fá
-O amor é como um fogo
-  Dó
-O amor...
-
-(x infinito, ir acrescentando vozes e sentimento)
+Dó    Lám       Rém       Sol
+Patos, frangos e galinhas vão
+Correndo pelo galinheiro estão
+Perseguidos barbaramente são
+Pelo patrão, trão, trão trão trão!
 ```
 
-### 188. O nosso galo é bom cantor {#o-nosso-galo-e-bom-cantor}
+### POR ESTA REFEIÇÃO {#por-esta-refeicao}
 
 ```text
-Dó             Sol    Dó
-O nosso galo é bom cantor
-Dó               Sol   Dó
-É bom cantor, tem boa voz
-Dó                   Sol     Dó
-Está sempre a cantar cocoró, cocoró (x3)
+Dó           Fá            Sol
+Por esta refeição quero louvar
+Dó               Fá             Sol
+Estou a sentir o travo de Deus a entrar
 
-Mas veio um dia e não cantou
-Outro e mais outro e não cantou
-Nunca mais se ouviu cocoró, cocoró (x3)
+   Fá         Sol
+Por isso t’agradeço
+    Dó           Lám
+Por isso não te esqueço
+    Fá            Sol
+Por isso e muito mais
+         Dó
+Quero-te amar
 ```
 
-### 189. O pai buda {#o-pai-buda}
-
-```text
-Dó
-O pai buda tem muitos filhos
-                        Sol
-Tem muitos filhos o pai buda
-Eu sou um deles, e tu também
-              Sol
-Oremos ao pai buda.
-
-Mão direita, mão esquerda, pé direito, pé esquerdo,
-narina direita, narina esquerda, etc…
-```
-
-### 190. Ode à farmácia {#ode-a-farmacia}
-
-```text
-       Sol        Dó           Ré
-Eu não sei o que é que ele vai dar
-      Sol      Dó          Ré
-E nem sei o que me vai aplicar
-      Dó
-Inventei uma dor
-    Ré
-Dói-me p’rai um rim
-        Dó          Ré     Sol
-Ai oh _______ cuida só de mim!
-```
-
-### 191. Pão com manteiga {#pao-com-manteiga}
-
-```text
-Dó
-Pão com manteiga
-Sol
-Pão com marmelada
-Fá
-Leite com chocolate
-Sol
-Leite sem nada!
-
-Da minha varanda à tua
-São dois passos de distância
-Cuidado não escorregues
-Na casca de melância!
-
-Pão com manteiga (…)
-
-Sou um pobre marinheiro
-Mas também um grande heroí
-Tenho pouco dinheiro
-Mas isso não me inflói!
-
-Pão com manteiga (…)
-
-Perdi uma ovelha
-Lá para os lados da Várzea
-Se a encontrares
-Por favor trázea!
-
-Pão com manteiga (…)
-
-Minha mãe fez um bolo
-Um bolo de geleia
-Deu-me um bocadinho
-Eu pedi uma fateia!
-
-Fui a Belas ver as velas
-Mas em Belas velas não vi
-Porque a mais bela de todas
-Meu amor, eras ti
-
-(deixar a imaginação correr)
-```
-
-### 192. Poema Lindo {#poema-lindo}
-
-```text
-Ré*            Sim*
-Quero um poema lindo
-Fá#m         Sol
-Quero muito alguém
-Ré*                           Sim*
-Que se passa não sei, digo sorrindo
-Fá#m                 Sol
-Queria que viesses também
-
-   Ré             Lá
-Já sei porque te amo
-    Sim   Sol
-E amei…
-    Ré         Lá
-Parti à descoberta
-     Sim    Sol
-E achei!
-    Ré       Lá     Sim   Sol
-Vivi, sem saber de Ti
-Mim           Lá
-E agora, vou estar
-Ré            Sol
-Aqui - por ti! (x2)
-
-Deixo tudo andar
-Já nem consigo pensar
-Sem saber fazes-me sorrir
-Dás-me força pr’a explodir!
-
-Ré* - 000222; Sim* - xx4430
-```
-
-### 193. Querida mamã {#querida-mama}
+### QUERIDA MAMÃ {#querida-mama}
 
 ```text
    Dó     Sol   Fá    Dó
@@ -1142,7 +1130,7 @@ Sol      Dó
 Teu filhote
 ```
 
-### 194. Ré maior {#re-maior}
+### RÉ MAIOR {#re-maior}
 
 ```text
 Ré Maior
@@ -1156,7 +1144,7 @@ Mi menor
 Lá… (x2)
 ```
 
-### 195. Sai cicleta {#sai-cicleta}
+### SAI CICLETA {#sai-cicleta}
 
 ```text
 Dó                    Fá
@@ -1196,7 +1184,7 @@ Nele há-de haver sempre algo que te cative
 O dia está aí […]
 ```
 
-### 196. Sejas óleo, farinha {#sejas-oleo-farinha}
+### SEJAS ÓLEO, FARINHA {#sejas-oleo-farinha}
 
 ```text
       Mi
@@ -1217,7 +1205,7 @@ Que eu tenho um bom sabão
 Parecem diamantes quando passo o meu esfregão!
 ```
 
-### 197. Semeia a verdade {#semeia-a-verdade}
+### SEMEIA A VERDADE {#semeia-a-verdade}
 
 ```text
               Mi
@@ -1242,10 +1230,7 @@ E canta a canção, la-la-la-la-la-la
 (Sobe um tom e volta a cantar x100)
 ```
 
-[![Rapariga deitada a descansar](../../../assets/imagens/Cantin%C3%A1cio%202019/p102_1118.jpg){ width="200" }](../../../assets/imagens/Cantin%C3%A1cio%202019/p102_1118.jpg)
-*Ilustração de [Francisco Rodrigues (Pica)](../../../Pessoas/F/Francisco%20Rodrigues%20%28Pica%29.md) no Cantinácio 2019 (3.ª edição), p. 102.*
-
-### 198. Ter uma equipa {#ter-uma-equipa}
+### TER UMA EQUIPA {#ter-uma-equipa}
 
 *Musical “Vida de Campo”*
 
@@ -1311,7 +1296,7 @@ Jogamos juntos em grande animação
 Dó* - 020010
 ```
 
-### 199. Tias {#tias}
+### TIAS {#tias}
 
 *(melodia Dunas)*
 
@@ -1335,7 +1320,7 @@ Sol
 Tias....
 ```
 
-### 200. Tu és o meu fogo {#tu-es-o-meu-fogo}
+### TU ÉS O MEU FOGO {#tu-es-o-meu-fogo}
 
 ```text
 Lám      Fá Dó
@@ -1369,7 +1354,7 @@ Não posso mais viver sem ti
 Quer’os teus beijos
 ```
 
-### 201. Tu já namoras? {#tu-ja-namoras}
+### TU JÁ NAMORAS? {#tu-ja-namoras}
 
 ```text
     Sol            Ré
@@ -1383,53 +1368,7 @@ Namoras e namorarás, e com a/o_____
 Tu te casarás! (2x)
 ```
 
-### 202. Vem acudir {#vem-acudir}
-
-*Genérico Novela - Long Tao, 2006*
-
-```text
-Mi                        Sol#m
-Oh Floribella, vem cá vem cá
-    Dó#m            Lá
-A novela está começar
-    Fá#m
-Já deu telejornal
-Lá               Si   Mi
-Deixa os peúgos a secar
-
-Mi                    Sol#m
-Tremoço a ficar mole, Sôr Vítor no tintol
-Dó#m         Lá            Si
-Morangos com açúcar já não dá
-Si
-Tenho uma vela acesa, eu tive uma surpresa
-Lá        Si   Mi
-O Noddy apareceu cá
-
-Vem sacudire, veio a abanar
-O espinafre pelo ar
-Há Favas com Chouriço
-E grelo para ‘companhar
-
-Mi                         Sol#m
-Os piratas da banheira. içaram a bandeira
-Dó#m         Lá           Si
-O mar parece nunca mais ter fim
-Si
-Por terra, mar e céu, pelo sol e sem chapéu
-Lá         Si    Mi
-O tesouro está mim
-
-Já acabou, ‘tamos no ir
-Amanha nós tamos cá
-O pano vai subir…
-E mais animação vem lá!
-```
-
-[![Candeeiro de campismo pendurado](../../../assets/imagens/Cantin%C3%A1cio%202019/p104_1084.jpg){ width="200" }](../../../assets/imagens/Cantin%C3%A1cio%202019/p104_1084.jpg)
-*Ilustração de [Francisco Rodrigues (Pica)](../../../Pessoas/F/Francisco%20Rodrigues%20%28Pica%29.md) no Cantinácio 2019 (3.ª edição), p. 104.*
-
-### 203. Vida de campo {#vida-de-campo}
+### VIDA DE CAMPO {#vida-de-campo}
 
 *Musical “Vida de Campo”*
 
@@ -1467,7 +1406,7 @@ Campinácios! Salta, voa, arrisca
 Servir e receber é natural
 ```
 
-### 204. Você, que estava a dormir {#voce-que-estava-a-dormir}
+### VOCÊ, QUE ESTAVA A DORMIR {#voce-que-estava-a-dormir}
 
 ```text
 Dó
@@ -1482,7 +1421,7 @@ Foi _____
 Foi _____!
 ```
 
-### 205. Xicaboom {#xicaboom}
+### XICABOOM {#xicaboom}
 
 ```text
 1ª voz:
@@ -1496,7 +1435,7 @@ Xicaguli guliguliguliguli
 GULIGULIGULIGULI YEAH ohhh
 ```
 
-### 206. Yeyeah {#yeyeah}
+### YEYEAH {#yeyeah}
 
 ```text
 Sol Dó  Ré   Dó
@@ -1513,22 +1452,3 @@ E saltaremos!
 Ré
 Yeyeyeyey!
 ```
-
-### 207. Patos, frangos, galinhas {#patos-frangos-galinhas}
-
-```text
-Dó    Lám       Rém       Sol
-Patos, frangos e galinhas vão
-Correndo pelo galinheiro estão
-Perseguidos barbaramente são
-Pelo patrão, trão, trão trão trão!
-```
-
-[![Candeeiro de campismo pendurado](../../../assets/imagens/Cantin%C3%A1cio%202019/p105_1084.jpg){ width="200" }](../../../assets/imagens/Cantin%C3%A1cio%202019/p105_1084.jpg)
-*Ilustração de [Francisco Rodrigues (Pica)](../../../Pessoas/F/Francisco%20Rodrigues%20%28Pica%29.md) no Cantinácio 2019 (3.ª edição), p. 105.*
-
----
-
-| Categorias |
-| --- |
-| [Manuais](../../../Categorias/Manuais.md) |

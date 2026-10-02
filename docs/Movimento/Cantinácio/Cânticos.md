@@ -1,17 +1,21 @@
 # Cantinácio: Cânticos
 
+[![Capa da secção «Cânticos»: velas acesas, sobre fundo azul escuro](../../assets/imagens/Cantin%C3%A1cio%202019/p127.jpg){ width="300" }](../../assets/imagens/Cantin%C3%A1cio%202019/p127.jpg)
+*Capa da secção «Cânticos» do Cantinácio 2019 (3.ª edição), com ilustração de [Francisco Rodrigues (Pica)](../../Pessoas/F/Francisco%20Rodrigues%20%28Pica%29.md).*
+
 Cânticos religiosos para as eucaristias, orações e momentos de reflexão.
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (216 músicas)
+## Índice (260 músicas)
 
-- [A BONDADE DO SENHOR](#a-bondade-do-senhor)
+- [A BONDADE DO SENHOR](#a-bondade-do-senhor) — [Salmo 32 (33)]
 - [ADORAMUS TE CHRISTE](#adoramus-te-christe) — Taizé
 - [ADORAMUS TE DOMINE](#adoramus-te-domine) — Taizé
 - [AGORA É HORA](#agora-e-hora) — Filipa Andrade
-- [AGRADECE A DEUS](#agradece-a-deus)
-- [ÁGUA](#agua)
+- [AGRADECE A DEUS](#agradece-a-deus) — Hino dos Romeiros
+- [ÁGUA](#agua) — P. Nuno Tovar de Lemos
+- [ALE ALE, ALELUIA](#ale-ale-aleluia)
 - [ALELUIA 17](#aleluia-17) — Taizé
 - [ALELUIA 7](#aleluia-7) — Taizé
 - [ALELUIA (ALE, ALE)](#aleluia-ale-ale)
@@ -19,26 +23,33 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [ALELUIA (CÂNTICO AFRICANO)](#aleluia-cantico-africano)
 - [ALELUIA (CRISTO ESTÁ CONNOSCO)](#aleluia-cristo-esta-connosco)
 - [ALELUIA (DÓ MAIOR)](#aleluia-do-maior)
+- [ALELUIA GLÓRIA A DEUS](#aleluia-gloria-a-deus)
+- [ALELUIA I](#aleluia-i)
+- [ALELUIA II](#aleluia-ii)
 - [ALELUIA (SENZENINA)](#aleluia-senzenina)
 - [AMAR](#amar) — Schoenstatt
 - [AMAR-TE A TI SENHOR](#amar-te-a-ti-senhor)
 - [A PALAVRA É DEUS EM NÓS](#a-palavra-e-deus-em-nos)
-- [A PAZ VAI CORRENDO](#a-paz-vai-correndo)
+- [A PAZ VAI CORRENDO](#a-paz-vai-correndo) — Rocha Monteiro
 - [APRENDIZ DE VIAJANTE](#aprendiz-de-viajante) — Nuno Tovar de Lemos sj
 - [A TUA PALAVRA SENHOR](#a-tua-palavra-senhor)
 - [AVÉ MARIA](#ave-maria)
+- [AVÉ MARIA CHEIA DE GRAÇA](#ave-maria-cheia-de-graca) — Frei Hermano da Câmara
+- [AVÉ MARIA DE MEDJUGORJE](#ave-maria-de-medjugorje) — Medjugorje
 - [AVÉ MARIA DE MEDUGORGE](#ave-maria-de-medugorge)
-- [AVÉ MARIA ESTRELA DA MANHÃ](#ave-maria-estrela-da-manha)
+- [AVÉ MARIA ESTRELA DA MANHÃ](#ave-maria-estrela-da-manha) — Schoenstatt
 - [AVÉ MARIA, GRATIA PLENA](#ave-maria-gratia-plena)
+- [BEAUTIFUL](#beautiful) — Debby Kerner & Ernie Rettino
 - [BENDIZ ALMA MINHA](#bendiz-alma-minha)
 - [BONUM EST CONFIDERE](#bonum-est-confidere) — Taizé
 - [CAMINHANDO PELA VIDA](#caminhando-pela-vida)
-- [CAMINHAREI](#caminharei)
+- [CAMINHAREI](#caminharei) — Alberto Marani
 - [CAMINHO](#caminho)
 - [CANÇÃO DE MARIA](#cancao-de-maria) — Francisco Tavares- Dedicado ao Coro do CUMN
 - [CANTA ALELUIA](#canta-aleluia)
 - [CANTAI ALEGREMOS O SENHOR](#cantai-alegremos-o-senhor)
 - [CANTAI ALELUIA](#cantai-aleluia)
+- [CANTAI ALELUIAS](#cantai-aleluias)
 - [CANTAREI](#cantarei)
 - [CANTAREI AO SENHOR](#cantarei-ao-senhor) — Taizé
 - [CELEBREMOS](#celebremos)
@@ -47,78 +58,94 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [COMO A TERRA](#como-a-terra)
 - [COMO O PAI ME AMOU](#como-o-pai-me-amou)
 - [COMO O PÃO QUE SE PARTE](#como-o-pao-que-se-parte)
-- [COMO SÃO BELOS](#como-sao-belos)
+- [COMO SÃO BELOS](#como-sao-belos) — P. Zé Luís
 - [CONDUZ-ME, SENHOR](#conduz-me-senhor)
 - [CONFIO EM TI](#confio-em-ti) — Ir. Maria do Céu
 - [CONFITEMINI DOMINO](#confitemini-domino) — Taizé
-- [CONSAGRAÇÃO](#consagracao)
-- [CONSOLAÇÃO](#consolacao)
+- [CONSAGRAÇÃO](#consagracao) — Pe Zuchi & Vera Eiró
+- [CONSOLAÇÃO](#consolacao) — Coro de Reguengos
 - [CONTA AS ESTRELAS](#conta-as-estrelas)
+- [CONTA AS ESTRELAS NO CÉU](#conta-as-estrelas-no-ceu) — P. Nuno Tovar de Lemos
 - [CONTIGO MARIA](#contigo-maria)
 - [CONVERSÃO](#conversao)
 - [CORÇA](#corca) — P. Nuno Tovar de Lemos sj
 - [CORDEIRO DE DEUS](#cordeiro-de-deus)
-- [CRISTO REI DA GLÓRIA](#cristo-rei-da-gloria)
+- [CRISTO ESTÁ CONNOSCO](#cristo-esta-connosco)
+- [CRISTO REI DA GLÓRIA](#cristo-rei-da-gloria) — Frei Hermano da Câmara
 - [DÁ A PAZ](#da-a-paz)
 - [DÁ-ME UMA RAZÃO](#da-me-uma-razao)
 - [DÁ-NOS A TUA PAZ](#da-nos-a-tua-paz)
+- [DÁ-NOS TUA PAZ](#da-nos-tua-paz) — I Figli del Divino Amore
 - [DÁ-NOS UM CORAÇÃO](#da-nos-um-coracao)
+- [DAR MAIS](#dar-mais) — Danny Pelfrey
 - [DEIXA A LUZ DO CÉU ENTRAR](#deixa-a-luz-do-ceu-entrar)
-- [DEUS DE BELEZA](#deus-de-beleza)
+- [DEUS DE BELEZA](#deus-de-beleza) — Clara Almeida Santos e Xico Lemos
 - [DEUS É AMOR](#deus-e-amor) — Taizé
-- [DEUS ESTÁ AQUI](#deus-esta-aqui)
+- [DEUS ESTÁ AQUI](#deus-esta-aqui) — Javier Gácias
 - [DEUS PRECISA DE MIM](#deus-precisa-de-mim)
 - [DIA A DIA](#dia-a-dia)
+- [DIOS TE SALVE MARIA](#dios-te-salve-maria) — Manuel Pareja Obregón
+- [DONA NOBIS I (ANTIGO)](#dona-nobis-i-antigo)
+- [DONA NOBIS II (NOVO)](#dona-nobis-ii-novo) — Mozart
 - [DONA NOBIS PACEM](#dona-nobis-pacem)
 - [EGO SUM PAUPER](#ego-sum-pauper)
 - [É IMPOSSÍVEL](#e-impossivel)
 - [EIS QUE NA DOR](#eis-que-na-dor)
+- [EL ALMA QUE ANDA EN AMOR](#el-alma-que-anda-en-amor) — Taizé
 - [EMBARCAR](#embarcar) — P. Nuno Tovar De Lemos sj
-- [EM NOME DO PAI](#em-nome-do-pai)
-- [ENTREGA](#entrega)
+- [EM NOME DO PAI](#em-nome-do-pai) — P. Marcelo Rossi
+- [ENTREGA](#entrega) — Maria Durão
 - [É O MEU CORPO](#e-o-meu-corpo)
-- [ÉS A MINHA VIDA](#es-a-minha-vida)
+- [É O MEU CORPO TOMAI E COMEI](#e-o-meu-corpo-tomai-e-comei) — M. Bebaisieux
+- [ÉS A MINHA VIDA](#es-a-minha-vida) — Pierangelo Sequeri
 - [ÊSSA OFERTA](#essa-oferta) — Crioulo de Cabo Verde
 - [ESTA É A NOSSA OFERTA](#esta-e-a-nossa-oferta)
-- [ESTRELA POLAR](#estrela-polar)
+- [ESTRELA POLAR](#estrela-polar) — Focolares
 - [É TEU PÃO](#e-teu-pao)
 - [EU DESEJEI ARDENTEMENTE](#eu-desejei-ardentemente)
 - [EU IREI](#eu-irei)
 - [EU TE CANTO MARIA](#eu-te-canto-maria)
 - [EU TE DOU GRAÇAS](#eu-te-dou-gracas) — Ir. Maria do Céu
 - [FAZEI RESSOAR](#fazei-ressoar)
-- [FAZ-TE AO LARGO](#faz-te-ao-largo)
-- [FELIZES OS QUE AMAM O SENHOR](#felizes-os-que-amam-o-senhor)
-- [FICA ENTRE NÓS](#fica-entre-nos)
+- [FAZ-TE AO LARGO](#faz-te-ao-largo) — Candeia
+- [FELIZES OS QUE AMAM O SENHOR](#felizes-os-que-amam-o-senhor) — P. José Luís Souto Coelho
+- [FICA ENTRE NÓS](#fica-entre-nos) — D. Macheta
 - [FICA JUNTO A NÓS](#fica-junto-a-nos)
-- [GLÓRIA A DEUS](#gloria-a-deus)
+- [GLÓRIA](#gloria) — Taizé
+- [GLÓRIA A DEUS](#gloria-a-deus) — Kairoi
 - [GLÓRIA (TAIZÉ)](#gloria-taize) — Taizé
-- [GRÃO DE TRIGO](#grao-de-trigo)
+- [GRÃO DE TRIGO](#grao-de-trigo) — Kairoi
 - [GUIADO PELA MÃO](#guiado-pela-mao)
 - [HINO DA CARIDADE](#hino-da-caridade)
 - [HINO DOS ROMEIROS](#hino-dos-romeiros)
+- [HOSSANA EH](#hossana-eh)
 - [IDE E DAI DE GRAÇA](#ide-e-dai-de-graca)
 - [IMAGINEI](#imaginei)
 - [IN RESURRECTIONE TUA](#in-resurrectione-tua) — Taizé
-- [INUNDA O MEU SER](#inunda-o-meu-ser)
+- [INUNDA O MEU SER](#inunda-o-meu-ser) — Renovamento Carismático
 - [JUBILATE ALLELUIA](#jubilate-alleluia) — Taizé
 - [JUBILATE, SERVITE](#jubilate-servite)
 - [KIMBU](#kimbu)
 - [KYRIE](#kyrie)
 - [KYRIE ELEISON](#kyrie-eleison)
+- [LADAINHA DOS SANTOS](#ladainha-dos-santos)
+- [LANÇA-TE (VOA BEM MAIS ALTO)](#lanca-te-voa-bem-mais-alto) — Ir. Maria Amélia Costa
 - [LAUDATE DOMINUM](#laudate-dominum) — Taizé
 - [LAUDATE OMNES GENTES](#laudate-omnes-gentes) — Taizé
+- [LENTA E CALMA](#lenta-e-calma) — P. Reginaldo Manzotti
 - [LOUVADO SEJAS](#louvado-sejas)
 - [LUZ TERNA E SUAVE](#luz-terna-e-suave) — (Cardeal John Henry Newman)
-- [MÃE](#mae)
+- [MÃE](#mae) — Ir. Maria Amélia Costa
 - [MAGNIFICAT](#magnificat) — Taizé
-- [MARAVILHAS](#maravilhas)
+- [MARAVILHAS](#maravilhas) — Paula Willumsen
 - [MEU TUDO (SAL DA TERRA)](#meu-tudo-sal-da-terra) — Simplus
 - [MISERICORDIAS DOMINI](#misericordias-domini) — Taizé
-- [MOSTRA-ME SENHOR](#mostra-me-senhor)
+- [MOSTRA-ME SENHOR](#mostra-me-senhor) — Luís Alfredo Díaz
 - [NADA É IMPOSSÍVEL PARA TI](#nada-e-impossivel-para-ti) — Luís Roquette e Pedro Castro
-- [NADA NOS SEPARARÁ](#nada-nos-separara)
+- [NADA NOS SEPARARÁ](#nada-nos-separara) — Brotes de Olivo
+- [NADA TE PERTURBE](#nada-te-perturbe) — Taizé
 - [NADA TE TURBE](#nada-te-turbe) — Taizé
+- [NÃO ADORES](#nao-adores) — Luís Alfredo Díaz
 - [NÃO HÁ SOLIDÃO](#nao-ha-solidao)
 - [NÃO SEI COMO LOUVAR-TE](#nao-sei-como-louvar-te)
 - [NAQUELA NOITE](#naquela-noite) — P. Tarcísio Morais sdb
@@ -128,10 +155,12 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [NOSSA SENHORA DO CAMINHO](#nossa-senhora-do-caminho)
 - [NOSSA SENHORA DO SIM](#nossa-senhora-do-sim)
 - [O AUXÍLIO VIRÁ DO SENHOR](#o-auxilio-vira-do-senhor) — Taizé
+- [ORAÇÃO DE STO. INÁCIO](#oracao-de-sto-inacio) — Paulo Perloiro
+- [O SANCTISSIMA](#o-sanctissima) — Beethoven
 - [OBRIGADO](#obrigado)
-- [OCUPARMO-NOS MAIS](#ocuparmo-nos-mais)
+- [OCUPARMO-NOS MAIS](#ocuparmo-nos-mais) — Schoenstatt
 - [ONDE DEUS TE LEVAR](#onde-deus-te-levar)
-- [ORAÇÃO DE SANTO INÁCIO](#oracao-de-santo-inacio)
+- [ORAÇÃO DE SANTO INÁCIO](#oracao-de-santo-inacio) — Maria Durão
 - [ORAÇÃO DE S. FRANCISCO](#oracao-de-s-francisco)
 - [ORAÇÃO DE S. PEDRO](#oracao-de-s-pedro)
 - [O REINO DE DEUS](#o-reino-de-deus) — Taizé
@@ -140,85 +169,103 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [O SOL JÁ RAIOU](#o-sol-ja-raiou)
 - [OUVI A NOSSA ORAÇÃO](#ouvi-a-nossa-oracao)
 - [PAI](#pai)
-- [PAI NOSSO GALEGO](#pai-nosso-galego)
+- [PAI NOSSO GALEGO](#pai-nosso-galego) — Mari Cruz Giménez Ogando
 - [PAI QUE ESTÁS NO CÉU](#pai-que-estas-no-ceu)
-- [PAI SANTO, EU TE ADORO](#pai-santo-eu-te-adoro)
+- [PAI SANTO, EU TE ADORO](#pai-santo-eu-te-adoro) — Terrye Coelho Strom
 - [PARTO CONFIANTE](#parto-confiante)
-- [PEDACINHO DE DEUS](#pedacinho-de-deus)
+- [PEDACINHO DE DEUS](#pedacinho-de-deus) — Escuteiros
+- [PEDRO, TIAGO E JOÃO](#pedro-tiago-e-joao)
 - [PERDOA SENHOR](#perdoa-senhor)
 - [PERDOA SENHOR O NOSSO DIA](#perdoa-senhor-o-nosso-dia)
 - [PEREGRINO](#peregrino)
-- [PERMANECE EM MIM](#permanece-em-mim)
+- [PERMANECE EM MIM](#permanece-em-mim) — Irene Guia, ACI
+- [PÕE TUA MÃO](#poe-tua-mao) — P. Borga (Gene MacLellan)
 - [PORQUE TODA A VIDA VEM DE TI](#porque-toda-a-vida-vem-de-ti) — Jésed- Verbum Dei
 - [PREPARAI O CAMINHO AO SENHOR](#preparai-o-caminho-ao-senhor)
-- [PRINCIPALMENTE](#principalmente)
-- [QUANDO TE ENCONTRO DESCANSO](#quando-te-encontro-descanso)
-- [QUANTO ESPEREI ESTE MOMENTO](#quanto-esperei-este-momento)
+- [PRINCIPALMENTE](#principalmente) — P. Nuno Tovar de Lemos
+- [QUANDO TE ENCONTRO DESCANSO](#quando-te-encontro-descanso) — A.Cartageno
+- [QUANTO ESPEREI ESTE MOMENTO](#quanto-esperei-este-momento) — Martín Valverde
+- [QUE ESTE VINHO E ESTE PÃO](#que-este-vinho-e-este-pao)
 - [QUEIRA EU O QUE DEUS QUER](#queira-eu-o-que-deus-quer) — Luís Palha
 - [QUEM AS MÃOS ESTENDE](#quem-as-maos-estende)
+- [QUEM NOS SEPARARÁ](#quem-nos-separara) — M. Frisina
 - [QUEM NOS SEPARARÁ DO SEU AMOR](#quem-nos-separara-do-seu-amor)
-- [QUERO LOUVAR-TE](#quero-louvar-te)
+- [QUERO LOUVAR-TE](#quero-louvar-te) — Adhemar de Campos
+- [QUERO SER A LUZ DO MUNDO](#quero-ser-a-luz-do-mundo) — Missão País
 - [QUERO SER COMO TU](#quero-ser-como-tu)
 - [RAZÃO DE SER](#razao-de-ser) — Ir. Maria do Céu
 - [RECADO](#recado)
 - [SABOR DA MAÇÃ](#sabor-da-maca) — Pe. Duarte Rosado sj
+- [SANCTUS](#sanctus) — Umbaya
 - [SANTO (CABO VERDE)](#santo-cabo-verde)
+- [SANTO DAS ESCRAVAS](#santo-das-escravas)
 - [SANTO (DEUS DO UNIVERSO)](#santo-deus-do-universo)
+- [SANTO DO INA](#santo-do-ina) — Duas vozes
 - [SANTO (DUAS VOZES)](#santo-duas-vozes)
 - [SANTO FORTE](#santo-forte)
 - [SANTO (HOMENS)](#santo-homens)
 - [SANTO I](#santo-i)
 - [SANTO II](#santo-ii)
+- [SANTO III](#santo-iii)
 - [SANTO (LATIM)](#santo-latim)
 - [SANTO (LENTO)](#santo-lento)
 - [SANTO (ROCK)](#santo-rock)
 - [SANTO (ROCK EM SI MENOR)](#santo-rock-em-si-menor)
 - [SANTO (SANCTUS KYRIE)](#santo-sanctus-kyrie)
+- [SANTO SANTO É O SENHOR](#santo-santo-e-o-senhor)
+- [SE CRÊS EM DEUS](#se-cres-em-deus) — José Fernandes
 - [SEI QUE TE AMAR](#sei-que-te-amar)
 - [SEJA A CRUZ](#seja-a-cruz)
 - [SEMPRE PENSANDO EM TI](#sempre-pensando-em-ti)
 - [SENHOR AQUI NOS TENDES](#senhor-aqui-nos-tendes)
 - [SENHOR DA CRUZ](#senhor-da-cruz)
 - [SENHOR EIS-ME AQUI (A PENSAR EM TI)](#senhor-eis-me-aqui-a-pensar-em-ti)
-- [SENHOR ENSINA-ME A VIVER](#senhor-ensina-me-a-viver)
+- [SENHOR ENSINA-ME A VIVER](#senhor-ensina-me-a-viver) — Barclay James Harvest
 - [SENHOR JESUS, TU ÉS LUZ DO MUNDO](#senhor-jesus-tu-es-luz-do-mundo) — Taizé
 - [SENHOR NÓS VOS PEDIMOS](#senhor-nos-vos-pedimos)
 - [SENHOR QUE VIESTE SALVAR](#senhor-que-vieste-salvar)
 - [SENHOR TEM PIEDADE DE NÓS](#senhor-tem-piedade-de-nos)
 - [SENHOR TENDE PIEDADE (ALENTEJANO)](#senhor-tende-piedade-alentejano)
+- [SENHOR TENDE PIEDADE I](#senhor-tende-piedade-i)
+- [SENHOR TENDE PIEDADE II](#senhor-tende-piedade-ii) — Alentejano
+- [SENHOR TENDE PIEDADE III](#senhor-tende-piedade-iii) — Kumbaya
 - [SENHOR TENDE PIEDADE (KUMBAYA)](#senhor-tende-piedade-kumbaya)
 - [SENHOR TU ÉS A LUZ](#senhor-tu-es-a-luz)
 - [SENHOR TU FASCINAS-ME!](#senhor-tu-fascinas-me)
-- [SENHOR VENHO HOJE AQUI DEIXAR](#senhor-venho-hoje-aqui-deixar)
+- [SENHOR VENHO HOJE AQUI DEIXAR](#senhor-venho-hoje-aqui-deixar) — Pioneiros de Schoenstatt
 - [SE TU QUISERES SER FELIZ](#se-tu-quiseres-ser-feliz)
 - [SHEMA ISRAEL](#shema-israel)
 - [SIYAHAMBA](#siyahamba) — (música Sul-Africana “We are marching”)
-- [SÓ DEUS BASTA](#so-deus-basta)
-- [SÓ POR TI JESUS](#so-por-ti-jesus)
-- [SOPRO LEVE](#sopro-leve)
+- [SÓ DEUS BASTA](#so-deus-basta) — Jesed
+- [SOMOS UM](#somos-um) — Marty Panzer (adaptado)
+- [SÓ POR TI JESUS](#so-por-ti-jesus) — Martin Valverde
+- [SOPRO LEVE](#sopro-leve) — Gonçalo Saráiva
 - [SURREXIT CHRISTUS](#surrexit-christus) — Taizé
-- [TELA BRANCA](#tela-branca)
-- [TROCAR O CERTO PELO INCERTO](#trocar-o-certo-pelo-incerto)
+- [TELA BRANCA](#tela-branca) — P. Nuno Tovar de Lemos
+- [TROCAR O CERTO PELO INCERTO](#trocar-o-certo-pelo-incerto) — P. Nuno Tovar de Lemos
 - [TUA PALAVRA OUVI](#tua-palavra-ouvi)
 - [TU ÉS FONTE DE VIDA](#tu-es-fonte-de-vida) — Taizé
 - [TU MEU DEUS](#tu-meu-deus)
-- [TU VENS SENHOR](#tu-vens-senhor)
+- [TU VENS SENHOR](#tu-vens-senhor) — Maria Pineda
 - [UBI CARITAS](#ubi-caritas) — Taizé
-- [VASO NOVO](#vaso-novo)
+- [VASO NOVO](#vaso-novo) — Renovamento Carismático
 - [VASOS DE BARRO](#vasos-de-barro)
 - [VEDE SENHOR](#vede-senhor) — (“AS TEARS GO BY”)
-- [VEM ESPÍRITO](#vem-espirito)
+- [VEM ESPÍRITO](#vem-espirito) — Hamilton Apolónio
 - [VEM INTEIRO SENHOR](#vem-inteiro-senhor) — Ir. Maria do Céu
 - [VEM SENHOR](#vem-senhor)
 - [VEM SENHOR JESUS](#vem-senhor-jesus)
 - [VEM VIVER EM NÓS](#vem-viver-em-nos)
+- [VEM VIVER EM NÓS SENHOR](#vem-viver-em-nos-senhor)
+- [VENHO](#venho)
 - [VENHO PARA APRENDER A SER SANTO](#venho-para-aprender-a-ser-santo)
 - [VENI LUMEN](#veni-lumen) — Taizé
 - [VENITE EXULTEMUS DOMINUM](#venite-exultemus-dominum) — Taizé
-- [VIA DE AMOR](#via-de-amor)
+- [VIA DE AMOR](#via-de-amor) — Movimento dos Focolares
 - [VIESTE DAR A PAZ](#vieste-dar-a-paz) — Ir. Maria do Céu / “AMAZING GRACE”
-- [VIM AQUI](#vim-aqui)
+- [VIM AQUI](#vim-aqui) — Ana Maria Pinto Leite
 - [VINHO E PÃO](#vinho-e-pao)
+- [VIVA A DEUS](#viva-a-deus) — Senhor tende piedade
 - [VIVA A DEUS (SENHOR TENDE PIEDADE)](#viva-a-deus-senhor-tende-piedade)
 - [VIVEREI](#viverei)
 - [VOU-TE MOSTRAR](#vou-te-mostrar) — Simplus
@@ -226,6 +273,8 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 ## Músicas
 
 ### A BONDADE DO SENHOR {#a-bondade-do-senhor}
+
+*[Salmo 32 (33)]*
 
 ```text
 [Salmo 32 (33)]
@@ -309,7 +358,31 @@ Mas é tudo o que temos (2x)
 Agora é hora
 ```
 
+*Versão do Cantinácio 2019:*
+
+```text
+Sol     Sim
+Agora é hora
+Dó                  Ré
+De oferecer todo o meu ser
+
+Na tristeza, na pobreza
+Na alegria de cada dia
+
+Sol                  Mim
+É tão pouco o que oferecemos
+      Dó         Ré
+Mas é tudo o que temos (x2)
+
+Agora é hora
+De dizer obrigado
+Ao Senhor que é amor Nossa vida, nosso calor
+Agora é hora
+```
+
 ### AGRADECE A DEUS {#agradece-a-deus}
+
+*Hino dos Romeiros*
 
 ```text
 Ré          Mi
@@ -331,7 +404,32 @@ Mil passagens, mil portas de marfim
 Só p’ra ti
 ```
 
+*Versão do Cantinácio 2019:*
+
+```text
+Ré        Mi
+Agradece a Deus
+     Sol         Ré
+Pela vida* que te deu
+Ré                     Mi
+Pára, romeiro e louva a Deus
+      Sol            Ré
+Pela vida*, louva a Deus
+Ré   Lám           Ré
+Por cada passo que dás
+Lám                 Fá
+Inventa Deus lá dos céus
+Lám                 Mim
+Mil passagens, mil portas
+ Sol            Lá7
+De marfim, só p’ra ti
+
+*Amor, fé, força, sonho, terra
+```
+
 ### ÁGUA {#agua}
+
+*P. Nuno Tovar de Lemos*
 
 ```text
 Lá7*                     Fá#m
@@ -384,6 +482,26 @@ Unido a Vós estou,
 em minh’alma Vos busco, Senhor,
 minh’alma tem sede de Vós
 como terra sem…
+```
+
+### ALE ALE, ALELUIA {#ale-ale-aleluia}
+
+```text
+Sol  Ré     Sol
+Ale Ale Aleluia (bis)
+     Ré                Sol
+Ale Ale Aleluia Ale Aleluia
+
+       Ré       Sol
+Vamos ouvir Aleluia
+      Ré       Sol
+Jesus falar Aleluia
+      Ré
+Sua palavra Aleluia Ale
+          Sol
+Vamos proclamar
+
+Ale Ale...
 ```
 
 ### ALELUIA 17 {#aleluia-17}
@@ -475,6 +593,43 @@ Aleluia, aleluia, aleluia
 Aleluia, aleluia
 ```
 
+### ALELUIA GLÓRIA A DEUS {#aleluia-gloria-a-deus}
+
+```text
+Mi Mi7   Lá  Si7 Mi
+Aleluia glória a Deus
+Mi7  Lá  Si7   Mi
+Glória a Cristo Senhor
+Mi7  Lá   Sol#m  Dó#m
+Glória ao Espírito de amor
+Lá Si7  Mi
+Aleluia
+```
+
+### ALELUIA I {#aleluia-i}
+
+```text
+Ré       Lá
+Alé – Aleluia,
+Sim    Fá#m
+Aleluia Aleluia
+Sol     Ré    Sol
+Aleluia, Aleluia,
+      Ré        Lá  Ré
+A‐A‐Aleluia, Ale-luia (bis)
+```
+
+### ALELUIA II {#aleluia-ii}
+
+```text
+Dó   Sol    Fá        Dó
+Aleluia, aleluia, aleluia
+Fá   Dó     Sol
+Aleluia, aleluia
+Aleluia, aleluia, aleluia
+Aleluia, aleluia
+```
+
 ### ALELUIA (SENZENINA) {#aleluia-senzenina}
 
 ```text
@@ -541,6 +696,54 @@ Sabendo que vou fazer-te feliz
 Amar, eu quero aprender a amar (…)
 ```
 
+*Versão do Cantinácio 2019:*
+
+```text
+Sol            Ré/Fá#
+Senhor, eu não quero sentir
+      Fá
+Que o Teu mandamento de amor
+Dó          Mim7
+É só uma obrigação,
+Lám          Mim7
+Mas que ele venha de dentro.
+Dó           Ré
+Eu quero ser teu instrumento.
+
+Senhor, quero ser feliz,
+Amando os meus irmãos
+De uma forma natural.
+Quero sorrir e quero chorar,
+Com o que me deste para desfrutar.
+
+Sol      Ré
+Amar, eu quero aprender a amar,
+Mim      Sim  Dó     Mim7
+Porque eu nasci p’ra amar.
+Lám                Mim7
+Ao dar-me o Teu sopro divino,
+Dó            Ré
+Marcaste o meu ideal.
+
+Sol      Ré
+Amar, eu quero aprender a amar,
+Mim      Sim  Dó     Mim7
+Porque eu nasci p’ra amar,
+Lám              Mim7
+Para saber que estou vivo,
+Dó                  Ré
+Porque há algo teu que eu sei dar:
+ Sol
+O amor.
+
+Senhor, quero descobrir
+Que há algo que me deste
+Que posso partilhar
+Sabendo que vou fazer-te feliz.
+
+Ré/Fá# - 200033
+```
+
 ### AMAR-TE A TI SENHOR {#amar-te-a-ti-senhor}
 
 ```text
@@ -568,6 +771,8 @@ Aleluia, aleluia, aleluia
 ```
 
 ### A PAZ VAI CORRENDO {#a-paz-vai-correndo}
+
+*Rocha Monteiro*
 
 ```text
    Ré
@@ -646,6 +851,50 @@ Não penses que eu sei ser sem ti
 Pois sou apenas um aprendiz de Viajante
 ```
 
+*Versão do Cantinácio 2019:*
+
+```text
+Lá7 Mi
+
+Lá7                       Ré      Mi
+Tive um sonho e quando acordei, viajei no tempo e
+   Lá
+Desejei
+Fá#m         Sim             Mi
+Entregar-Te a vida, estender a taça toda a
+     Lá
+transbordar
+   Lá7          Sim                        Mi
+Cantei! Ir mais além, subindo estrelas no céu,
+                      Lá                 Fá#m
+Descendo ao fundo da terra, só contigo eu vou
+   Sim                    Mi
+Embalado nos teus passos vou,
+       Lá                 Lá7
+Abandonado em teus abraços sou
+     Sim             Mi                Ré Lá  Mi
+Aprendiz de viajante e até… me perco em ti…
+
+Deixei-Te à porta, mas quando voltei,
+Vi que esperavas e desejei
+Entregar-Te a vida…
+
+Tentei atalhos em que me afastei,
+Mas Tu chamaste e eu desejei
+Entregar-Te a vida…
+
+Lá7        Ré                  Mi
+E se algum dia eu me afastar de ti,
+           Lá                  Fá#m
+E se algum dia eu me esquecer de nós
+     Sim                   Mi
+Vem procurar-me onde eu estiver,
+   Dó#m                   Fá#m
+Não penses que eu sei ser sem ti
+    Sim           Mi          Ré     Lá
+Sou apenas um aprendiz de viajante
+```
+
 ### A TUA PALAVRA SENHOR {#a-tua-palavra-senhor}
 
 ```text
@@ -702,6 +951,68 @@ Perdão concede mais uma vez
       Seja a rezar, Avé Maria
 ```
 
+### AVÉ MARIA CHEIA DE GRAÇA {#ave-maria-cheia-de-graca}
+
+*Frei Hermano da Câmara*
+
+```text
+Dó                Sol
+Avé Maria cheia de Graça
+Rém       Fá        Sol  Dó
+Que por nós passa dando alegria
+Dó                  Sol
+Nosso Senhor convosco está
+Rém        Fá   Sol  Dó
+E a nós nos dá o Seu amor
+
+         Mim        Lám
+Rogai por nós, os pecadores
+         Ré          Sol
+Das nossas dores ouvi a voz
+Ré     Ré7          Sol Sol7
+E na agonia quando chegar
+       Dó        Sol
+Seja a rezar Avé Maria
+       Dó        Ré Ré7   Sol
+Seja a rezar Avé Mari – i - a
+Santa Maria, ó Mãe clemente
+De nossa gente sois luz e guia
+Ao pecador que a paz vos pede
+Perdão concede mais uma vez
+```
+
+### AVÉ MARIA DE MEDJUGORJE {#ave-maria-de-medjugorje}
+
+*Medjugorje*
+
+```text
+Ré     Lá      Sol  Lá
+Todo o dia eu espe - ro
+   Ré   Lá   Sol      Lá
+Que esta hora chegue enfim
+Ré      Lá Fá#m       Sim
+Para sentir que o teu olhar
+  Sol     Lá      Ré     Lá
+Descansa agora em mim
+
+Ré  Lá   Sol Lá Ré  Lá  Sol Lá
+A - vé Mari - a gra-tia ple-na
+Ré  Lá Fá#m     Sim
+Dominus  te  -  cum
+Sol Lá   Ré
+Benedicta tu
+
+Venho confiar-te
+O que tenho e o que sou
+P’las tuas mãos chegue a Jesus
+Tudo quanto dou
+
+Levo a confiança
+Que o teu amor deixou
+Olha por mim, Mãe de Jesus
+Em ti agora estou
+```
+
 ### AVÉ MARIA DE MEDUGORGE {#ave-maria-de-medugorge}
 
 ```text
@@ -734,6 +1045,8 @@ Contigo agora esto
 ```
 
 ### AVÉ MARIA ESTRELA DA MANHÃ {#ave-maria-estrela-da-manha}
+
+*Schoenstatt*
 
 ```text
 Lá          Fá#mLá                    Fá#m
@@ -794,6 +1107,29 @@ Contigo agora estou
      Avé Maria, Gratia Plena…
 ```
 
+### BEAUTIFUL {#beautiful}
+
+*Debby Kerner & Ernie Rettino*
+
+```text
+Ré         Lá
+Beautiful, beautiful,
+Sim    Sol
+Jesus is beatiful
+    Ré         Sim
+And Jesus makes beautiful
+Sol         Lá
+things of my life
+Ré        Lá
+Carefully, touching me,
+Sim       Sol
+Causing my eyes to see
+     Ré         Sim
+That Jesus makes beautiful
+Sol      Lá  Ré
+Things of my life.
+```
+
 ### BENDIZ ALMA MINHA {#bendiz-alma-minha}
 
 ```text
@@ -850,7 +1186,32 @@ Vou levando o Teu amor
      E no fim o amor
 ```
 
+*Versão do Cantinácio 2019:*
+
+```text
+Sol                      Mim
+Caminhando pela vida vou cantando
+Dó                 Ré
+Vou rezando ao meu Deus
+E a gente que encontro em meu caminho
+Me ensina a ser feliz
+
+Sol                   Mim
+Feliz caminhar para o Senhor, para o Senhor
+Dó                         Ré           Ré7
+Sempre a caminhar com muita fé, com muita fé
+Feliz caminhar para o Senhor, para o Senhor
+E no fim o amor
+
+Caminhando pela vida vou cantando
+Vou tentando ser melhor
+E aos outros que caminham a meu lado
+Vou levando o Teu amor
+```
+
 ### CAMINHAREI {#caminharei}
+
+*Alberto Marani*
 
 ```text
 Dó
@@ -1014,6 +1375,38 @@ Porque hoje é o dia em que somos irmãos
 Irmãos alegremo-nos, Aleluia
 ```
 
+### CANTAI ALELUIAS {#cantai-aleluias}
+
+```text
+Ré                   Sol       Ré
+Cantai aleluias, não haja mais dor
+                      Lá
+Ornai‐vos de festa, vesti de alegria
+        Ré                 Sol     Ré
+Porque hoje é o dia em que vence o amor
+ Sol      Ré          Lá  Ré
+Irmãos alegremo‐nos, aleluia
+
+Ré       Sol   Ré
+Aleluia, alelu-ia
+                     Lá
+Este é o dia em que vence o amor
+Ré       Sol   Ré
+Aleluia, alelu-ia
+ Sol     Ré          Lá   Ré
+Irmãos alegremo‐nos, aleluia
+
+Que venham os povos, não falte ninguém
+E tragam com eles as flores e a luz
+Não faltem canções para a festa do amor
+Irmãos alegremo-nos, aleluia
+
+Trazei o que houver nas vossas mansões
+Repartam o pão, a alegria e o amor
+Porque hoje é o dia em que somos irmãos
+Irmãos alegremo-nos, aleluia
+```
+
 ### CANTAREI {#cantarei}
 
 ```text
@@ -1136,6 +1529,44 @@ Vinde todos e comei
 Comei e jamais tereis fome
 ```
 
+*Versão do Cantinácio 2019:*
+
+```text
+Sol      Dó   Lám       Ré
+Comei do pão, bebei do vinho,
+Sim           Mim         Ré
+Quem vem a Mim não terá fome.
+Sol      Ré   Mim      Sim
+Comei do pão, bebei do vinho,
+Dó             Ré        Sol
+Quem vem a Mim não terá sede.
+
+Mim             Si7
+Eu sou o pão da vida,
+Dó        Lám       Ré
+o pão que desceu do Céu.
+Quem comer deste pão,
+viverá para a eternidade.
+
+Todo o que beber de mim,
+terá vida em abundância
+
+O pão que desceu do Céu,
+é para dar a vida ao mundo!
+
+Vinde todos e comei,
+comei e jamais tereis fome
+
+Quem vem a Mim não terá fome;
+quem crê em Mim não mais terá sede.
+
+Vós que tendes sede,
+vinde à fonte da Verdade
+
+Em verdade Eu vos digo:
+"Quem crê em Mim tem a vida eterna."
+```
+
 ### COMO A TERRA {#como-a-terra}
 
 ```text
@@ -1186,6 +1617,35 @@ Vem Senhor Jesus, ó vem depressa!
 Vem Senhor Jesus, ó vem depressa!
 ```
 
+*Versão do Cantinácio 2019:*
+
+```text
+      Sol
+Como a terra espera a chuva
+       Dó           Ré
+que a fecunda e a mantenha
+     Sol
+Como a areia do deserto
+        Dó             Ré
+ fala ao vento que a acompanha
+      Dó                        Ré
+Como a corça corre e salta até achar onde beber
+   Sol   Ré  Sol      Ré      Sol Sol7
+Esperamos o Senhor até Ele aparecer
+
+Dó         Ré          Sol    Sol7
+Vem Senhor Jesus, ó vem depressa!
+Dó         Ré           Sol
+Vem Senhor Jesus, ó vem depressa!
+
+Como a guarda pela aurora esperamos o Senhor
+Como alguém espera atento o seu amigo com
+ardor
+Como a palma espera o vento ao chegar o
+entardecer
+Esperamos o Senhor até Ele aparecer
+```
+
 ### COMO O PAI ME AMOU {#como-o-pai-me-amou}
 
 ```text
@@ -1211,6 +1671,39 @@ Se fizerem o que vos mando
 E se amarem de verdade
 Fruto dareis em abundância
 Meu amor manifestar-se-á
+```
+
+*Versão do Cantinácio 2019:*
+
+```text
+Jo 15, 9-17                           Kairoi
+
+Dó   Sol      Lám  Fá           Sol
+Como o Pai Me amou Eu vos tenho amado
+Dó     Sol        Lám
+Permanecei no Meu amor
+Fá     Sol       Dó
+Permanecei no Meu amor (2x)
+
+Lám                 Dó
+Se guardarem Minhas palavras
+Fá    Sol         Dó
+E se amarem como irmãos
+Mim              Lám
+Partilharão com alegria
+ Fá           Sol
+O dom da fraternidade
+
+Se fizerem o que vos mando
+E se amarem de verdade
+Fruto dareis em abundância
+Meu amor manifestar-se-á
+
+Não verão amor tão grande
+Como aquele que vos dei
+Por vós darei a Minha vida
+Amai-vos como Eu vos amei
+Se forem firmes no caminho
 ```
 
 ### COMO O PÃO QUE SE PARTE {#como-o-pao-que-se-parte}
@@ -1247,6 +1740,8 @@ Assim quero viver para dar vida
 
 ### COMO SÃO BELOS {#como-sao-belos}
 
+*P. Zé Luís*
+
 ```text
 Dó                         Fá              Dó
 Já se ouvem nossos passos a chegar
@@ -1267,6 +1762,35 @@ Na refeição do cordeiro
 Da palavra, vinho e pão
          Dó            Fá          Sol    Dó
 Somos o povo de Deus em comunhão
+```
+
+*Versão do Cantinácio 2019:*
+
+```text
+Dó                 Fá        Dó
+Já se ouvem nossos passos a chegar
+       Mim          Fá        Dó
+Já se ouvem nossas vozes de alegria
+      Fá           Dó             Rém      Dó
+Neste dia que é uma bênção para a Igreja reunida
+    Fá            Dó            Sol
+Jesus Cristo nos congrega e faz irmãos
+
+          Dó      Fá          Dó    Sol
+Como são belos os pés que anunciam a paz
+     Dó        Fá       Sol
+E as mãos que repartem o pão
+      Dó        Fá
+Na refeição do cordeiro
+    Dó              Sol
+Da palavra, vinho e pão
+    Dó          Fá     Sol  Dó
+Somos o povo de Deus em comunhão
+Já se mudam nossos corações de pedra
+Pela força do Espírito de Deus
+Já vencemos as barreiras
+Que destroem a harmonia
+Jesus Cristo nos congrega e faz irmãos
 ```
 
 ### CONDUZ-ME, SENHOR {#conduz-me-senhor}
@@ -1361,6 +1885,8 @@ Confitemini Domino, allelu  -  ia
 
 ### CONSAGRAÇÃO {#consagracao}
 
+*Pe Zuchi & Vera Eiró*
+
 ```text
 Mi            Dó#m
 Ó Senhora minha,
@@ -1401,6 +1927,8 @@ como coisa e propriedade vossa.
 
 ### CONSOLAÇÃO {#consolacao}
 
+*Coro de Reguengos*
+
 ```text
     Lá                              Mi
 Senhor quanta tristeza vejo em Teu olhar
@@ -1435,6 +1963,42 @@ Senhor só quero ajudar
       Eu sei que em Ti sempre vou encontrar
           Ré                      Mi            Lá
       Senhor eu quero assim Te amar
+```
+
+*Versão do Cantinácio 2019:*
+
+```text
+Dó                    Sol
+Senhor, quanta tristeza vejo em Teu olhar
+Fá     Sol        Dó
+Gostava de Te consolar
+       Sol
+Eu sei que sofres tanto sem o meu amor
+ Fá        Sol         Dó Dó7
+Senhor, eu quero ser melhor
+
+Fá      Sol              Dó     Lám
+Amor me dás sempre que eu venho aqui
+Fá              Sol         Dó   Dó7
+Amor me dás sem nunca te o pedir
+Fá            Sol           Dó    Lám
+Eu sei que em Ti sempre vou encontrar
+Fá                           Sol
+Senhor, eu quero assim poder amar
+
+Senhor, às vezes nem me lembro de rezar
+Às vezes esqueço-me de Ti
+Senhor, Tu sofres quando eu não sei amar
+Pois Tu sempre pensaste em mim
+
+Amor me dás sempre que…
+
+Eu vou tentar, Senhor, e hei-de conseguir
+A minha vida vou mudar
+Gostava tanto que deixasses de sofrer
+Senhor, só quero ajudar
+
+Amor me dás sempre que…
 ```
 
 ### CONTA AS ESTRELAS {#conta-as-estrelas}
@@ -1512,6 +2076,84 @@ Quando olhas p'ra mim.
 
  Lá7M     Lá7*   Lá7** Lá***
 x02120 x02320 x02323   xx2323
+```
+
+### CONTA AS ESTRELAS NO CÉU {#conta-as-estrelas-no-ceu}
+
+*P. Nuno Tovar de Lemos*
+
+```text
+Si7                  Mi
+Conta as estrelas do céu
+                    Fá#7
+Soma tudo o que Eu já fiz por ti
+Lá7M
+Antes do mar
+                Lá7*
+Antes que houvesse luar
+        Lá7**                 Si7  (Lá*** Si7)
+Antes do tempo Eu já esperava por ti
+                   Mi
+Ai se soubesses do Amor
+              Fá#7
+Uma só noite, uma paixão,
+       Lá7M
+Tu correrias p'ra Mim
+      Lá7*
+E dançarias com a cruz
+          Lá7**                 Si7
+Coisas da vida ao som da Minha canção
+
+Si7               Mi
+Tu, Senhor, sabes bem
+                Fá#7
+O que penso e conheces
+      Si7                   Mi
+Cada palavra antes de eu a dizer.
+Tu conheces minh'alma
+                  Fá#7
+Como a palma dessa Tua mão.
+        Lá7M
+Eu não entendo, Senhor,
+         Lá7*
+Como sou tanto para Ti;
+         Lá7**
+Por que Te páras
+                  Si7
+Quando olhas p'ra mim.
+
+Vês-me quando caminho
+Vês-me quando descanso,
+Segues atento cada passo que eu der;
+Vês-me quando tropeço
+E nem aí me queres condenar.
+Eu não entendo, Senhor,
+Como sou tanto para Ti;
+Por que Te páras
+Quando olhas p'ra mim.
+
+Se eu fugisse a voar
+Sobre as asas da aurora
+E me escondesse lá nos confins do mar
+Mesmo aí, eu sei bem,
+Haverias de me encontrar.
+Eu não entendo, Senhor,
+Como sou tanto para Ti;
+Por que Te páras
+Quando olhas p'ra mim.
+
+Incontáveis, ó Deus,
+Os mistérios da vida,
+Mais numerosos que as areias do mar.
+O mistério maior
+É mesmo Tu acreditares em mim.
+Eu não entendo, Senhor,
+Como sou tanto para Ti;
+Por que Te páras
+Quando olhas p'ra mim.
+
+Lá7M - x02120; Lá7* - x02320
+Lá7** - x02323; Lá*** - xx2323
 ```
 
 ### CONTIGO MARIA {#contigo-maria}
@@ -1612,6 +2254,23 @@ Enche-me Espirito
 Enche-me Espirito de Deus (2x)
 ```
 
+*Versão do Cantinácio 2019:*
+
+```text
+Ré              Sim
+Assim como uma corça
+Sol    Mim      Lá
+Suspira pelas águas
+Ré               Sim
+Assim suspira minh’alma
+Sol      Lá   Ré
+Espírito de Deus
+
+Ó enche-me Espírito
+Enche-me Espírito
+Enche-me Espírito de Deus (bis)
+```
+
 ### CORDEIRO DE DEUS {#cordeiro-de-deus}
 
 ```text
@@ -1637,7 +2296,18 @@ Que tiras o pecado do mundo
 Dá-nos a tua paz (4x)
 ```
 
+### CRISTO ESTÁ CONNOSCO {#cristo-esta-connosco}
+
+```text
+Dó            Ré
+Cristo está connosco
+Fá   Dó      Sol  (Dó)
+Aleluia , aleluia
+```
+
 ### CRISTO REI DA GLÓRIA {#cristo-rei-da-gloria}
+
+*Frei Hermano da Câmara*
 
 ```text
 Ré
@@ -1731,6 +2401,30 @@ Que Tu virás
 Jesus Cristo, Senhor
 ```
 
+*Versão do Cantinácio 2019:*
+
+```text
+Sim        Fá#     Sol          Lá  Sol
+Dá-me uma razão para Te seguir Senhor
+      Lá          Sim            Fá#
+Para cantar o Teu nome a quem não sabe
+Sol        Lá   Sol    Lá      Sim  Si
+Que Tu és Amor, Jesus Cristo Senhor
+
+                   Sol#m   Mi
+Ouve irmão o que Ele diz
+        Si         Lá
+Quando não te dão razão
+Si                  Sol#m   Mi
+Quando choras, quando ris
+    Si         Lá       Fá#
+Ele vem amigo, dar-te a mão
+
+Se tiver coragem de tudo largar
+Eu irei pela estrada anunciar
+Que tu virás, Jesus Cristo Senhor
+```
+
 ### DÁ-NOS A TUA PAZ {#da-nos-a-tua-paz}
 
 ```text
@@ -1745,6 +2439,24 @@ Fica aqui, Senhor, perto de nós (bis)
           Sol Fá   Dó
 Que a Tua paz reinará (bis)
 Mi  Ré  Lá
+```
+
+### DÁ-NOS TUA PAZ {#da-nos-tua-paz}
+
+*I Figli del Divino Amore*
+
+```text
+Lá
+Dá-nos Tua paz
+Sim
+Dá-nos Tua paz
+Ré        Lá
+Ó Senhor, dá-nos Tua paz (bis)
+
+Mi       Ré         Lá
+Fica aqui, Senhor, perto de nós (bis)
+Mi      Ré        Lá
+Que a Tua paz reinará (x2)
 ```
 
 ### DÁ-NOS UM CORAÇÃO {#da-nos-um-coracao}
@@ -1785,6 +2497,56 @@ Partilhando com eles tecto e pão
       Dá-nos um coração...
 ```
 
+### DAR MAIS {#dar-mais}
+
+*Danny Pelfrey*
+
+```text
+Sol Rém Dó Lám
+
+         Ré               Dó           Sol
+Se a tua voz trouxer mil vozes para cantar
+           Ré             Dó
+Vais descobrir mil harmonias belas
+       Lám            Ré
+Que ao céu hão-de chegar
+Rém                Dó         Sol
+Fica mais rica a alma de quem dá
+Rém                 Dó
+Chega mais alto o hino
+       Lám            Ré
+De quem vive a partilhar
+
+                          Sol
+Tu tens que dar um pouco mais do que tens
+                          Ré         Dó
+Tens que deixar um pouco mais do que há
+                       Sol         Ré
+Se vais ficar muito orgulhoso vê bem
+                Sol  Ré
+Tens que te lembrar
+                        Sol
+És um graõzinho de uma praia maior
+                        Ré        Dó
+E deves dar tudo o que tens de melhor
+                    Sol     Ré
+Para avaliar a tua alma há leis
+                          Dó          Sol
+Tu tens que dar um pouco mais do que tens
+Olhou p'ro céu, sentiu que a sorte estava ali
+E com valor, foi conseguido tornar bom
+O que até era mau
+E grão a grão construiu o seu poder
+E pouco a pouco subiu a escadaria do amor
+Tu tens que dar […]
+O tempo vai e de um rapaz um homem vêm
+Sem medo vê
+Porque o destino vai em frente p'ra servir o bem
+É tão profunda a mensagem que chegou
+São tão seguras e largas
+As pontes que ele deixou
+```
+
 ### DEIXA A LUZ DO CÉU ENTRAR {#deixa-a-luz-do-ceu-entrar}
 
 ```text
@@ -1799,6 +2561,8 @@ E deixa a luz do Céu entrar
 ```
 
 ### DEUS DE BELEZA {#deus-de-beleza}
+
+*Clara Almeida Santos e Xico Lemos*
 
 ```text
 Ré                 Ré*
@@ -1842,6 +2606,8 @@ Deus é  amor   na  -  da há a temer
 ```
 
 ### DEUS ESTÁ AQUI {#deus-esta-aqui}
+
+*Javier Gácias*
 
 ```text
 Dó      Sol  Lám
@@ -1950,6 +2716,91 @@ Dia a dia
 Dia a dia
 ```
 
+### DIOS TE SALVE MARIA {#dios-te-salve-maria}
+
+*Manuel Pareja Obregón*
+
+```text
+Ré            Sol
+Dios te salve María
+Lá         Ré
+Del Rocío Señora
+Sim              Mim
+Luna, sol, noche y día
+Ré       Lá     Ré
+Y pastora celestial
+
+Dios te salve María
+Todo el pueblo te adora
+Y repita a porfía
+Como tú no hay otra igual
+
+Ré
+Olé (x19)
+Lá
+Al Rocío yo quiero volver
+Lá7
+A cantar a la Virgen con fe
+Ré
+Con un olé
+
+Olé (x19)
+Al Rocío yo quiero volver
+A cantar a la Virgen con fe
+Con un...
+
+Dios te salve María
+Manancial de dulzura
+A tus pies noche y día
+Te venimos a rezar
+
+Dios te salve María
+Un rosal de hermosura
+Eres tú Madre mía
+De pureza virginal
+```
+
+### DONA NOBIS I (ANTIGO) {#dona-nobis-i-antigo}
+
+```text
+Dó  Sol    Dó   Sol
+Dona Nobis Pacem Pacem
+Fá   Dó    Sol Dó
+Dona Nobis Pa-cem
+```
+
+### DONA NOBIS II (NOVO) {#dona-nobis-ii-novo}
+
+*Mozart*
+
+```text
+Ré    Ré/Dó#     Sim
+Dona nobis, dona nobis
+Sol         Lá7
+Dona nobis pacem
+Ré    Ré/Dó#     Sim
+Dona nobis, Dona nobis
+Sol Lá    Ré  Ré7
+Dona nobis pacem
+
+Sol Lá7 Ré   Ré7
+Pacem, pacem
+Sol  Lá7  Ré Ré7
+Dona nobis pacem (2x)
+
+Sol Lá7 Ré   Sim
+Pacem, pacem
+Mim       Lá7
+Dona nobis pacem (2x)
+
+Sol   Ré/Fá#   Mim Ré/Fá#
+Pacem, pacem
+Sol    Lá7   Ré
+Dona nobis pacem
+
+Ré/Dó# - x4x232
+```
+
 ### DONA NOBIS PACEM {#dona-nobis-pacem}
 
 ```text
@@ -2038,6 +2889,18 @@ Proclamaremos no mundo
 O Senhor está vivo!
 ```
 
+### EL ALMA QUE ANDA EN AMOR {#el-alma-que-anda-en-amor}
+
+*Taizé*
+
+```text
+Dó#m
+   Fá#m   Dó#m   Mi  Lá     Ré    Mi    Fá#m
+El alma que anda en amor ni cansa ni se cansa.
+Sim Mi Lá Ré Sim Ré Mi
+O………………...o………..
+```
+
 ### EMBARCAR {#embarcar}
 
 *P. Nuno Tovar De Lemos sj*
@@ -2086,7 +2949,52 @@ O que te darei se até a força de dar vem de ti
 Falarei de Ti a todos (...)
 ```
 
+*Versão do Cantinácio 2019:*
+
+```text
+Lá7M                                  Sim
+Embarcar, deixar p'ra trás os sonhos certos,
+Mi7            Lá7M
+Arriscar tudo em Ti.
+Lá7M                          Sim
+Abrir asas grandes e deixar que sopres
+           Mi7                   Lá7M
+E à noite, os dois, trocar estrelas no céu.
+
+Lá7M       Fá#m           Sim
+Que posso dar a Alguém que deu
+          Mi   Mi7
+A vida por mim?
+Lá7M       Fá#m       Sim
+O que Te darei se até a força de dar
+     Mi    Mi7
+Vem de Ti?
+
+Ré         Mi7
+Falarei de Ti a todos,
+Lá7M          Fá#m
+Gritarei que És bom e Santo
+Sim
+E tudo o mais
+     Mi7      Lá7M     Lá7
+Só cresce junto a Ti. (x2)
+
+Navegar p'lo mar e acordar com as ondas
+Ser forte só em Ti.
+Pisar ilhas novas, acampar na praia
+E à noite os dois, trocar estrelas no céu.
+
+Passar e deixar que pensem que eu sou louco
+Por falar só de Ti,
+Cantar notas novas, inventar palavras
+E à noite, os dois, trocar estrelas no céu.
+
+Lá7M - x02120
+```
+
 ### EM NOME DO PAI {#em-nome-do-pai}
+
+*P. Marcelo Rossi*
 
 ```text
                   Sol
@@ -2109,6 +3017,8 @@ Ao teu dispor (bis)
 ```
 
 ### ENTREGA {#entrega}
+
+*Maria Durão*
 
 ```text
 Dó*        Sim*     Lám*
@@ -2179,7 +3089,50 @@ Cada homem é p´ra nós o nosso irmão
      É o Meu corpo, tomai e comei...
 ```
 
+### É O MEU CORPO TOMAI E COMEI {#e-o-meu-corpo-tomai-e-comei}
+
+*M. Bebaisieux*
+
+```text
+Dó                            Fá
+Como o Senhor nos amou jamais alguém pode
+Dó
+amar
+       Lám                  Sol
+P’lo caminho da justiça nos ensina a caminhar
+       Dó       Dó7         Fá          Dó
+Quando estamos reunidos e partilhamos o pão
+                  Sol         Dó
+Ele nos dá o seu amor e a sua paz
+
+               Fá       Dó
+É o Meu corpo tomai e comei
+               Fá       Sol
+É o Meu sangue tomai e bebei
+          Dó          Fá              Dó
+Porque Eu sou a vida, porque Eu sou o Amor
+                  Sol         Dó
+Ó Senhor faz-nos viver no Teu Amor
+Como o Senhor nos amou jamais alguém pode
+amar
+Em tudo o que nos legou manifestou seu amor
+Quem comer a minha carne e beber o meu sangue
+Permanecerá em mim e eu nele.
+
+Glória ao Pai que nos criou, glória ao Filho redentor
+Glória ao Espírito da vida que na Igreja é amor
+Unidos na caridade comemos do mesmo pão
+Cada homem é pr’a nós o nosso irmão.
+
+Se beberdes deste cálice e comerdes deste pão
+O Senhor vos há-de dar o dom da ressurreição
+Do altar vamos partir ao encontro dos irmãos
+Levando a graça de Deus em nossas mãos
+```
+
 ### ÉS A MINHA VIDA {#es-a-minha-vida}
+
+*Pierangelo Sequeri*
 
 ```text
 Rém          Lá#  Dó              Fá
@@ -2271,6 +3224,8 @@ Perdão Senhor, meu Deus.
 ```
 
 ### ESTRELA POLAR {#estrela-polar}
+
+*Focolares*
 
 ```text
 Mim                                              Sim
@@ -2512,6 +3467,8 @@ Levar a palavra de Deus a todo o lugar
 
 ### FAZ-TE AO LARGO {#faz-te-ao-largo}
 
+*Candeia*
+
 ```text
 Mi               Lá                          Mi
 Oh faz-te ao largo não fiques por aí
@@ -2533,6 +3490,8 @@ Oh faz-te ao largo…
 ```
 
 ### FELIZES OS QUE AMAM O SENHOR {#felizes-os-que-amam-o-senhor}
+
+*P. José Luís Souto Coelho*
 
 ```text
   Dó                               Mim
@@ -2565,6 +3524,8 @@ E a guardá-la com todo o coração
 ```
 
 ### FICA ENTRE NÓS {#fica-entre-nos}
+
+*D. Macheta*
 
 ```text
 Mi           Dó#m  Lá             Si7
@@ -2629,7 +3590,22 @@ Contigo somos nascentes de água pura
 Se estás presente o deserto florirá
 ```
 
+### GLÓRIA {#gloria}
+
+*Taizé*
+
+```text
+Dóm            Fám          Sol
+Gloria, gloria, in excelsis Deo
+Dóm             Fám   Sol
+Gloria, gloria, allelu-ia
+Et in terra pax hominibus
+Bonae voluntatis
+```
+
 ### GLÓRIA A DEUS {#gloria-a-deus}
+
+*Kairoi*
 
 ```text
 Sol
@@ -2664,6 +3640,38 @@ Glória ao Espírito Santo, Senhor que dá a vida
 Amor do Pai e do Filho que ao amor convida
 ```
 
+*Versão do Cantinácio 2019:*
+
+```text
+Dó             Sol     Lám            Mim
+Não sei como louvar-Te nem que dizer Senhor
+Fá             Dó  Lám    Ré              Sol
+Confio em Tua pala - vra  que me abre o coração
+Dó          Sol      Lám           Mim
+Toma a minha vida que é simples ante Ti
+Fá             Dó   Sol               Dó   Sol
+Ela quer ser louvor pelo que fazes em mim
+
+Dó   Sol  Lám     Mim
+Glóri-a , glória a Deus
+Fá   Dó    Fá      Sol
+Glóri-a , glória a Deus
+Dó   Sol   Lám     Mim
+Glóri-a , glória a Deus
+Fá   Dó    Fá Sol      Dó
+Glóri-a , gló - ria a Deus
+
+Sinto em mim Tua presença, sou como Tu me vês
+Baixas à minha pobreza, enches-me da Tua paz
+Indigno dos Teus dons mas por Teu grande amor
+Teu Espírito me anima, graças Te dou Senhor
+
+Graças por Tua Palavra, graças por Teu amor
+Graças por nossa Mãe, graças Te dou Senhor
+Graças por meus irmãos, graças pelo perdão
+Graças porque nos queres junto de Ti Senhor
+```
+
 ### GLÓRIA (TAIZÉ) {#gloria-taize}
 
 *Taizé*
@@ -2678,6 +3686,8 @@ Bonae voluntatis
 ```
 
 ### GRÃO DE TRIGO {#grao-de-trigo}
+
+*Kairoi*
 
 ```text
         Ré       Lá    Fá#m            Sim
@@ -2821,6 +3831,24 @@ De marfim, só para ti
 *Fé, Amor, Terra,...
 ```
 
+### HOSSANA EH {#hossana-eh}
+
+```text
+Mi     Lá     Mi Si7 Mi
+Santo, Santo, Hossana (x2)
+
+Mi           Lá      Mi
+Hossana, eh Hossana eh
+Lá           Si7     Mi
+Hossana p'ra Cristo, Senhor (x2)
+
+O Céu e a terra proclamam
+Tua Glória, Senhor (x2)
+
+Bendito aquele que vem
+Em nome do Senhor ((x2)
+```
+
 ### IDE E DAI DE GRAÇA {#ide-e-dai-de-graca}
 
 ```text
@@ -2902,6 +3930,8 @@ coeli et terra laetentur.
 
 ### INUNDA O MEU SER {#inunda-o-meu-ser}
 
+*Renovamento Carismático*
+
 ```text
  Dó                Mim Lám
 Inunda o meu ser, inunda o meu ser,
@@ -2973,6 +4003,27 @@ A-a-a-a-aleluia
 A-a-a-a-aleluia
 ```
 
+*Versão do Cantinácio 2019:*
+
+```text
+Lá
+Le lumita, mitata ------ Le lumita mitata
+Ré  Mi  Lá   Mi           Lá     Mi
+A - leluia, Kimbu ----- Kimbu, Kimbu
+                            Lá      Mi
+Aleluia ------------------ Kimbu, Kimbu
+Aleluia
+ Ré  Lá    Mi Lá
+A-a-a-a-a-leluia
+  Mi                      Lá      Mi
+Kimbu ------------------ Kimbu, Kimbu
+                            Lá     Mi
+Aleluia ----------------- Kimbu, Kimbu
+Aleluia
+Ré  Lá    Mi  Lá
+A-a-a-a-a-leluia
+```
+
 ### KYRIE {#kyrie}
 
 ```text
@@ -2999,6 +4050,92 @@ Kyrie, Kyrie Eleison
 Aleluia
 ```
 
+*Versão do Cantinácio 2019:*
+
+```text
+Ré            Sim
+Kyrie, Kyrie, Eleison (x2)
+Sol       Lá7     Ré
+Christe, Christe, Eleison (x2)
+
+Kyrie, Kyrie Eleison (x2)
+```
+
+### LADAINHA DOS SANTOS {#ladainha-dos-santos}
+
+```text
+Mi
+Santa Maria Mãe de Deus (rogai por nós)
+           Dó#m
+São João Baptista (rogai por nós)
+     Lá
+São José (rogai por nós)
+                Si
+São Pedro e São Paulo (rogai por nós)
+
+Santo António de Lisboa (rogai por nós)
+São Francisco (rogai por nós)
+São Bento (rogai por nós)
+São Nuno (rogai por nós)
+
+Mi       Sol#m  Lá     Si        Mi
+Rogai por nós, Santos e Santas de Deus
+
+Santa Ana mãe de Maria (rogai por nós)
+Santa Alexandra (rogai por nós)
+Santa Rita de Cássia (rogai por nós)
+Santa Isabel de Portugal (rogai por nós)
+Santo Inácio de Loyola (rogai por nós)
+São Francisco Xavier (rogai por nós)
+São João de Brito (rogai por nós)
+Santos e Santas de Deus (rogai por nós)
+
+Rogai por nós, Santos e Santas de Deus
+```
+
+### LANÇA-TE (VOA BEM MAIS ALTO) {#lanca-te-voa-bem-mais-alto}
+
+*Ir. Maria Amélia Costa*
+
+```text
+Lá
+Não fiques na praia com o barco amarrado
+E medo do mar
+              Ré                     Mi
+Tudo aqui é miragem, mas na outra margem
+            Lá
+Alguém a esperar
+
+Como onda que morre sozinha na praia
+Não fiques brincando
+No mar confiante, ensina o teu canto
+De ave voando
+
+Lá            Ré               Mi
+Voa bem mais alto, livre sem alforge
+                Dó#m Fá#m
+Nem prata, nem ouro
+              Ré                    Mi
+Amando este mundo, esta vida que é campo
+               Lá
+Que esconde o tesouro (x2)
+
+Ninguém te ensinou, mas no fundo tu sentes
+Asas p’ra voar
+Nem que o céu se tolde e as nuvens impeçam
+Tu não vais parar
+
+Há gente vivendo tranquila e contente
+Como eu já vivi
+És águia diferente, céu azul cinzento
+Foi feito p'ra ti
+
+Voa bem mais alto livre sem alforge
+Nem prata, nem ouro
+Amando este mundo, esta vida que é campo
+Que esconde o tesouro (x2)
+```
+
 ### LAUDATE DOMINUM {#laudate-dominum}
 
 *Taizé*
@@ -3009,6 +4146,19 @@ Laudate Dominum
 Lám      Sol
 Laudate Dominum
   Dó        Sol      Lám Fá  Rém Mi
+```
+
+*Versão do Cantinácio 2019:*
+
+```text
+Lám     Mi
+Laudate Dominum
+Lám     Sol
+Laudate Dominum
+ Dó      Sol    Lám  Fá   Rém   Mi
+1. Omnes gentes, A – le – lu – ia
+ Dó      Sol    Lám  Rém   Mi   Lám
+2. Omnes gentes, A – le – lu – ia
 ```
 
 ### LAUDATE OMNES GENTES {#laudate-omnes-gentes}
@@ -3024,6 +4174,32 @@ Lau   -   da  - te Dominum
 Laudate omnes gen-tes
 Sol#m Lá     Si7   Mi
 Lau  -  da-te Dominum
+```
+
+### LENTA E CALMA {#lenta-e-calma}
+
+*P. Reginaldo Manzotti*
+
+```text
+ Lá                  Mi
+Lenta e calma sobre a terra
+      Ré              Lá
+Cai a noite, vai-se a luz
+     Fá#m         Mi
+Quero agora despedir-me
+    Ré          Lá
+Boa noite, meu Jesus
+      Fá#m       Mi
+Quero agora despedir-me
+    Ré           Lá
+Boa noite, meu Jesus
+
+E vós, ó Virgem Maria
+Dai-nos a bênção também
+Velai por nós esta noite
+Boa noite, minha Mãe (bis)
+Vamos dar a despedida
+Boa noite, minha Mãe
 ```
 
 ### LOUVADO SEJAS {#louvado-sejas}
@@ -3110,7 +4286,51 @@ Para até ti chegar
 Luz terna e suave (…)
 ```
 
+*Versão do Cantinácio 2019:*
+
+```text
+Lá
+Que importa Senhor,
+Lá
+Se é tão longe para mim
+Lá                   Mi
+A praia onde tenho de chegar
+Mi
+Se sobre mim levar
+Mi7                     Lá
+Pousada a clara luz do Teu olhar
+       Fá#m
+Hoje Te peço, Senhor
+  Sim       Mi7        Lá
+Para seres a luz que me ilumina
+      Ré           Mi7
+Na plenitude da Tua luz divina
+
+Lá           Ré               Mi      Mi7
+Luz terna e suave no meio da noite
+Lá    Ré      Mi
+Leva-me mais longe,
+Fá#m       Ré       Fá#m        Mi
+Não temos aqui uma morada permanente
+Ré            Mi7
+Leva-me mais longe
+Lá         Ré      Mi7       Lá
+Luz terna e suave no meio da noite
+
+Que importam, Senhor,
+Os meus passos mal andados e o desamor Perdoa
+os meus pecados
+Eu sei que vai raiar a madrugada
+E não me deixarás abandonado
+Se Tu me dás a mão, Senhor
+Os meus passos serão firmes no andar
+Leva-me mais longe
+Para até Ti chegar
+```
+
 ### MÃE {#mae}
+
+*Ir. Maria Amélia Costa*
 
 ```text
 Lá               Ré                Mi
@@ -3151,7 +4371,22 @@ Ré7        Sol            Lá7 Ré
 Magnificat anima mea
 ```
 
+*Versão do Cantinácio 2019:*
+
+```text
+Sol    Dó   Ré     Sol
+Magnificat, magnificat
+       Dó        Ré  Sol
+Magnificat anima mea Dominum
+      Dó    Ré     Sol
+Magnificat, magnificat
+      Dó        Ré   Sol
+Magnificat anima me - a
+```
+
 ### MARAVILHAS {#maravilhas}
+
+*Paula Willumsen*
 
 ```text
       Dó                Mim
@@ -3226,6 +4461,8 @@ Misericordias Domini in aeternum cantabo
 
 ### MOSTRA-ME SENHOR {#mostra-me-senhor}
 
+*Luís Alfredo Díaz*
+
 ```text
 Ré         Lá     Sim  Fá#m Sol
 Mostra-me Senho - o   -  or,
@@ -3277,6 +4514,8 @@ Que não terá fim (im), e que hoje vive em mim
 
 ### NADA NOS SEPARARÁ {#nada-nos-separara}
 
+*Brotes de Olivo*
+
 ```text
 Dó             Fá        Dó             Fá
 Nada nos separará (nada nos separará)
@@ -3289,6 +4528,21 @@ Aleluia Aleluia (Aleluia aleluia)
 Aleluia Aleluia (Aleluia aleluia)
 Cantem todos ao Senhor
 Por Seu grande amor
+```
+
+### NADA TE PERTURBE {#nada-te-perturbe}
+
+*Taizé*
+
+```text
+Lám        Rém    Sol       Dó
+Nada te perturbe, nada te espante
+Fá         Rém  Mi       Lám
+Quem a Deus tem nada lhe falta
+Lám        Rém    Sol       Dó
+Nada te perturbe, nada te espante
+Fá Rém   Mi Lám
+Só Deus, bas-ta
 ```
 
 ### NADA TE TURBE {#nada-te-turbe}
@@ -3304,6 +4558,33 @@ Lám         Rém     Sol             Dó
 Nada te turbe, nada te espante
 Fá   Rém       Mi  Lám
 Só Deus ... basta
+```
+
+### NÃO ADORES {#nao-adores}
+
+*Luís Alfredo Díaz*
+
+```text
+Dó                Fá     Sol        Lám
+Não adores nunca ninguém mais que a Deus
+     Dó           Fá                Sol
+Não adores nunca ninguém mais que a Deus
+     Fá           Sol
+Não adores nunca ninguém mais
+      Dó          Lám
+Não adores nunca ninguém mais
+     Dó           Fá     Sol       Dó
+Não adores nunca ninguém mais que a Deus
+
+Não escutes...
+
+Não contemples...
+
+Porque só Ele nos pode saciar
+Porque só Ele nos pode saciar
+Não adores nunca ninguém mais
+Não escutes nunca ninguém mais
+Não contemples nunca ninguém mais que a Deus
 ```
 
 ### NÃO HÁ SOLIDÃO {#nao-ha-solidao}
@@ -3404,6 +4685,41 @@ Fazei em minha memória
 Tudo aquilo que Eu
            Ré       Sol
 Tudo o que Eu vos disser
+```
+
+*Versão do Cantinácio 2019:*
+
+```text
+Lá                     Mi
+"Naquela Noite, em que ele era entregue
+ Fá#m                         Dó#m
+Tomou o Pão e o Cálice, dando graças dizendo
+         Ré                Lá
+Que este Pão é Corpo do Meu Corpo
+       Ré                         Mi
+E este Cálice é Sangue da Nova Aliança
+
+  Lá            Dó#m
+Fazei em Minha memória
+              Fá#m
+Em memória de Mim
+               Mi
+O que Eu vos disser
+       Ré                        Lá
+Porque sempre que comerdes deste Pão
+                   Mi
+E beberdes deste Cálice
+     Fá#m          Dó#m
+Lembrareis a Minha Morte
+           Ré      Sim      Mi
+Até ao novo dia da Ressurreição
+
+ Lá              Dó#m
+Fazei, em Minha memória
+      Ré            Sim
+Tudo aquilo que eu,
+Mi                 Lá
+Tudo o que eu vos disser”
 ```
 
 ### NAS TUAS MÃOS SENHOR {#nas-tuas-maos-senhor}
@@ -3578,6 +4894,64 @@ que fez o céu e a terra,
 O céu e a terra
 ```
 
+### ORAÇÃO DE STO. INÁCIO {#oracao-de-sto-inacio}
+
+*Paulo Perloiro*
+
+```text
+Lá      Sim*       Dó#m*    Sim**
+Tomai Senhor e recebei
+Fá#m            Dó#m
+Toda a minha liberdade
+Fá#m      Mi
+A minha memória
+    Ré        Fá#m
+E o meu entendimento
+               Mi
+Toda a minha vontade
+  Ré              Fá#m
+E tudo o que eu possuo
+         Mi
+Vós me o destes
+  Ré        Lá    Sim*
+A Vós o restituo
+Lá     Sim*    Dó#m*   Sim**
+Tudo é vosso disponde
+Fá#m        Dó#m
+Pela vossa vontade
+Fá#m           Mi
+Dai-me apenas Senhor
+        Ré    Fá#m
+O vosso amor e graça
+     Mi      Lá   Sim* Dó#m*  Sim** Lá
+Que esta me basta
+
+Sim* - xx4432; Dó#m - xx6657
+Sim** - xx4435
+```
+
+### O SANCTISSIMA {#o-sanctissima}
+
+*Beethoven*
+
+```text
+Dó   Fá   Dó
+O Sanctissima,
+Dó   Fá  Dó
+O Piissima
+Dó Dó7   Fá  Ré7 Sol
+Dulcis Virgo Maria
+Sol   Sol7    Dó
+Mater amata intemerata
+Fá     Dó    Sol   Dó
+Ora, ora pro nobis
+
+Tu solatium et refugium
+Virgo Mater Maria
+Quidquid optamus per te speramus
+Ora, ora pro nobis.
+```
+
 ### O SOL JÁ RAIOU {#o-sol-ja-raiou}
 
 *Cântico da manhã*
@@ -3592,6 +4966,8 @@ Bom dia!
 ```
 
 ### OBRIGADO {#obrigado}
+
+*Schoenstatt*
 
 ```text
        Sol
@@ -3626,6 +5002,48 @@ P´la ternura, pelo vento que murmura
 Obrigado…
 ```
 
+*Versão do Cantinácio 2019:*
+
+```text
+Dó    Rém7     Sol
+Obrigado
+Dó                Rém7     Sol
+Por este dia que passou
+Dó           Rém7        Sol
+Pelos passos pelos voos
+Dó         Sol        Dó
+E pela vida que há em mim
+
+Obrigado
+Por essa força ao olhar
+Por essa chama que me queima
+Dó         Sol        Dó    Dó7
+E pela vida que há em mim
+
+Rém7   Sol
+Obrigado
+Rém7                   Sol   Sol7
+Por essa voz que em mim habita
+Dó       Mim7     Lám
+Por essa mão que necessita
+Rém7             Sol             Dó
+De outra mão que saiba amar e ser feliz
+Obrigado
+Pela estrada percorrida
+Pelos exemplos que dão vida
+Obrigado pelos dons que recebi
+
+Obrigado
+Pela amizade e confiança
+Pela saudade e a lembrança
+De tudo aquilo que nos marcou
+
+Obrigado
+Pela presença que não passa Pela esperança que
+abraça
+E pelo amor que em nós ficou
+```
+
 ### OCUPARMO-NOS MAIS {#ocuparmo-nos-mais}
 
 ```text
@@ -3638,6 +5056,8 @@ Dos interesses de Jesus
 ```
 
 ### ONDE DEUS TE LEVAR {#onde-deus-te-levar}
+
+*Maria Durão*
 
 ```text
 Sol                          Sim
@@ -3894,6 +5314,41 @@ Agora eu sei, que Tu comigo vens também
 Aonde fores, aí estarei, sem medo avançarei
 ```
 
+*Versão do Cantinácio 2019:*
+
+```text
+Dó Dó7
+                Fá             Sol     Dó Lám
+O Senhor é meu pastor, sei que nada temerei
+                Rém       Sol       Dó
+Ele guia o meu andar, sem medo avançarei (x2)
+
+      Lám                      Rém
+Confiarei nessa voz que não se impõe
+                    Sol
+Mas que ouço bem cá dentro no silêncio a
+   Dó
+Segredar
+
+      Lám                     Rém
+Confiarei ainda que mil outras vozes
+                   Sol                   Mi
+Corram muito mais velozes para me fazer parar
+       Lám                    Rém
+E avançarei, avançarei o meu caminho
+        Sol          Dó          Lám
+Agora eu sei que Tu comigo vens também
+                 Rém      Sol       Dó  Dó7
+Aonde fores aí estarei, em Ti avançarei
+
+Confiarei na Tua mão que não me prende
+Mas que aceita cada passo do caminho que eu
+fizer
+Confiarei ainda que o dia escureça
+Não há mal que me aconteça se contigo eu estiver
+E avançarei, avançarei o meu caminho...
+```
+
 ### OUVI A NOSSA ORAÇÃO {#ouvi-a-nossa-oracao}
 
 ```text
@@ -3956,7 +5411,58 @@ amor
 E sei que és o meu melhor amigo(…)
 ```
 
+*Versão do Cantinácio 2019:*
+
+```text
+Dó
+Pai, assim Te vou chamar
+Do universo és Senhor
+Dó               Sol
+Mas não sinto distância
+Dó     Dó7
+Em Ti
+Fá       Dó
+Para me abrigar
+ Fá                 Dó
+Estendeste o manto protector
+Dó                Sol     Sol7
+Num abraço de esperança
+
+              Fá           Dó   Dó7
+E sei que és o meu melhor amigo
+           Fá           Dó    Dó7
+E levo-Te dentro do meu ser
+                Fá
+Onde quer que eu vá
+   Sol    Dó   Dó7
+Tu vens comigo
+              Fá   Sol    Dó Mim7 Lám
+Teu Espírito em mim irá, me guiará
+                     Fá    Sol
+Um Pai que sempre estará
+        Dó
+Aonde eu vá
+
+Pai, o pão de cada dia
+Eu peço confiante e sei
+Que não devo temer
+O amanhã, a dor ou a alegria
+Ensina-me a aceitar sem medo
+O que a vida trouxer
+
+Fá         Dó
+Liberta a minha alma
+Fá       Dó
+De todo o rancor
+Fá              Dó
+Para que possa caber
+      Sol   Sol7
+O Teu amor
+```
+
 ### PAI NOSSO GALEGO {#pai-nosso-galego}
+
+*Mari Cruz Giménez Ogando*
 
 ```text
 Sol
@@ -4000,6 +5506,8 @@ Ajuda-nos a caminhar com muita fé
 ```
 
 ### PAI SANTO, EU TE ADORO {#pai-santo-eu-te-adoro}
+
+*Terrye Coelho Strom*
 
 ```text
 Ré Mim               Lá Ré
@@ -4061,6 +5569,8 @@ Até Ti querem chegar
 
 ### PEDACINHO DE DEUS {#pedacinho-de-deus}
 
+*Escuteiros*
+
 ```text
 Ré                         Fá#m  Mim        Lá
 Se sentes dentro de ti a vontade de amar
@@ -4093,6 +5603,31 @@ O nome da liberdade a coragem de falar
 A palavra da verdade e a servir participar
 Na construção da cidade na construção da cidade.
 Então...
+```
+
+### PEDRO, TIAGO E JOÃO {#pedro-tiago-e-joao}
+
+```text
+Dó                       Sol
+Pedro, Tiago, João no barquinho
+                         Dó
+Pedro, Tiago, João no barquinho
+                         Sol
+Pedro, Tiago, João no barquinho
+             Dó
+No mar da Galileia
+
+Lançaram as redes e não pescaram nada (x3)
+No mar da Galileia
+
+E veio Jesus andando pela areia (x3)
+No mar da Galileia
+
+Puxaram as redes cheinhas de peixinhos (x3)
+No mar da Galileia
+
+Deixaram as redes e seguiram Jesus (x3)
+No mar da Galileia
 ```
 
 ### PERDOA SENHOR {#perdoa-senhor}
@@ -4192,6 +5727,8 @@ Encontrar a paz
 
 ### PERMANECE EM MIM {#permanece-em-mim}
 
+*Irene Guia, ACI*
+
 ```text
 Dó               Sol              Solm
 Viste como te levou Iahweh,
@@ -4222,6 +5759,57 @@ E eu lhe direi "tu és Meu povo",
 Me responderá "Tu o meu Deus"
 ```
 
+*Versão do Cantinácio 2019:*
+
+```text
+Dó*       Mim*       Lá#*
+Viste como te levou Yahvé
+      Rém  Fá  Sol*
+O teu Deus e Senhor
+Por todo o caminho que percorreste
+Até chegar a este lugar
+
+Fá   Sol   Fá   Sol     Dó*
+Permanece, permanece em mim
+    Lám     Rém         Fá  Sol Dó*
+Permanece em mim, permanece em mim
+    Lám      Rém       Fá   Sol Dó*
+Permanece em mim, permanece em mim
+
+Assim a atrairei e a levarei ao deserto
+Falar-lhe-ei ao coração
+Fora já dali eu lhe darei suas vinhas e o vale
+Como porta de esperança
+
+E lhe direi: “tu és Meu povo”
+Me responderá: “Tu o meu Deus”
+
+Dó* - x32030; Mim* - x2x030
+Lá#* - x1x030; Sol* - 32x030
+```
+
+### PÕE TUA MÃO {#poe-tua-mao}
+
+*P. Borga (Gene MacLellan)*
+
+```text
+        Ré
+Põe tua mão na Mão do meu Senhor
+      Lá
+Da Galileia
+Põe tua mão na Mão do meu Senhor
+             Ré
+Que acalma o mar
+     Ré7
+Meu Jesus, que cuidas de mim
+        Sol
+Noite e dia sem cessar
+        Ré                 Lá
+Põe tua mão na Mão do meu Senhor
+             Ré
+Que acalma o mar
+```
+
 ### PORQUE TODA A VIDA VEM DE TI {#porque-toda-a-vida-vem-de-ti}
 
 *Jésed- Verbum Dei*
@@ -4235,6 +5823,28 @@ Em tua luz, vejo a luz
 Porque toda a vida vem de ti
 Sol   Lá    Sol   Lá    Ré
 E tua luz, faz-me ver a luz
+```
+
+*Versão do Cantinácio 2019:*
+
+```text
+Ré           Sol    Lá  Sim
+Porque toda a vida vem de Ti
+Sol    Ré   Sol    Lá
+Em Tua luz vejo a luz
+       Ré   Sol  Lá   Sim
+Porque toda a vida vem de Ti
+Sol    Lá  Sol   Lá     Ré
+E Tua luz faz-me ver a luz.
+
+Ré   Sol             Sim    Lá       Sol
+Que preciso é o Teu Amor, Senhor meu Deus
+    Lá    Ré       Lá
+Mais do que a Vida sim,
+Ré   Sol            Sim   Lá  Sol
+E na sombra das Tuas asas, buscarei
+   Lá    Ré
+Refúgio e Paz
 ```
 
 ### PREPARAI O CAMINHO AO SENHOR {#preparai-o-caminho-ao-senhor}
@@ -4266,6 +5876,8 @@ Preparai o caminho ao Senhor
 ```
 
 ### PRINCIPALMENTE {#principalmente}
+
+*P. Nuno Tovar de Lemos*
 
 ```text
 Sol
@@ -4334,6 +5946,8 @@ x02010  x2x230
 
 ### QUANDO TE ENCONTRO DESCANSO {#quando-te-encontro-descanso}
 
+*A.Cartageno*
+
 ```text
 Dó                               Sol
 Quando Te encontro descanso
@@ -4362,6 +5976,8 @@ Seja Tua casa Senhor
 ```
 
 ### QUANTO ESPEREI ESTE MOMENTO {#quanto-esperei-este-momento}
+
+*Martín Valverde*
 
 ```text
 Dó              Mim          Lám
@@ -4403,6 +6019,68 @@ Tenho sido o teu apoio
 Fui o teu melhor amigo
 ```
 
+*Versão do Cantinácio 2019:*
+
+```text
+Dó        Mim        Lám
+Quanto esperei este momento
+         Fá                Sol
+Quanto esperei que viesses aqui
+Dó      Mim            Lám
+Quanto esperei que me falasses
+          Fá                Sol
+Quanto esperei que viesses a mim
+
+Sei bem o que tens vivido
+Sei bem porque tens chorado
+Eu sei porque tens sofrido
+Sempre estive ao teu lado
+
+           Dó Mim   Lám
+Ninguém te ama como eu
+            Fá      Sol
+Ninguém te ama como eu
+            Dó      Mim        Lám
+Olha p’rá Cruz é a minha maior prova
+           Fá       Sol
+Ninguém te ama como eu
+
+Ninguém te ama como eu
+Ninguém te ama como eu
+Foi por ti, só por ti, porque te amo
+Ninguém te ama como eu
+```
+
+### QUE ESTE VINHO E ESTE PÃO {#que-este-vinho-e-este-pao}
+
+```text
+Ré
+Que este vinho e este pão sejam traço de união
+                Lá7
+Entre nós e o Senhor
+Sol               Lá7                  Sol
+E em cada hora do dia haja um hino de alegria
+                    Ré
+P’ra cantar o nosso amor
+                  Lá7                  Ré
+E em cada hora do dia haja um hino de alegria
+Sim               Lá7                   Sol
+E em cada hora do dia haja um hino de alegria
+                     Ré
+P’ra cantar o nosso amor
+
+Nós oferecemos ao Senhor neste cântico de amor
+A nossa força, a nossa vida
+Vem ó Senhor dar-nos a luz da redenção da Tua
+cruz
+Da Tua morte revivida
+Vem ó Senhor dar-nos a luz da redenção da Tua
+cruz
+Vem ó Senhor dar-nos a luz da redenção da Tua
+cruz
+Da Tua morte revivida
+```
+
 ### QUEIRA EU O QUE DEUS QUER {#queira-eu-o-que-deus-quer}
 
 *Luís Palha*
@@ -4420,6 +6098,23 @@ Esquecer o que se queria
 E querer O que Deus quer
         Lám Sol     Fá
 Queira eu o que Deus quer
+```
+
+*Versão do Cantinácio 2019:*
+
+```text
+Dó                  Sol       Fá*
+Mas que descanso é viver a morrer todos os dias
+       Dó                Sol
+Por ir contra o próprio querer
+    Fá*
+E esquecer o que se queria
+     Lám     Sol      Fá*
+E querer o que Deus quer
+      Lám     Sol      Fá*
+Queira eu o que Deus quer
+
+Fá* - xx3210
 ```
 
 ### QUEM AS MÃOS ESTENDE {#quem-as-maos-estende}
@@ -4450,6 +6145,31 @@ Sua força numa cruz
 De Deus essa luz
 ```
 
+### QUEM NOS SEPARARÁ {#quem-nos-separara}
+
+*M. Frisina*
+
+```text
+Lá            Mi  Fá#m Ré      Dó#m
+Quem   nos  separará   do Teu amor?
+Sim       Fá#m  Ré     Mi
+A   tribulação  ou a espada?
+Fá#m           Dó#m     Ré       Lá
+Nem a morte nem a vida  nos separarão
+Sim       Fá#m Ré      Lá-Mi-Lá
+Do Amor de Cris - to Se-nho - r.
+
+Quem nos separará da Tua paz?
+A perseguição, o medo ou a dor?
+Nenhum poder nos separará
+de quem deu a vida por nós.
+
+Quem nos separará da Tua alegria?
+Quem poderá afastar-nos do Teu perdão?
+Ninguém no mundo nos afastará
+da vida de Cristo Senhor.
+```
+
 ### QUEM NOS SEPARARÁ DO SEU AMOR {#quem-nos-separara-do-seu-amor}
 
 ```text
@@ -4477,6 +6197,8 @@ da vida de Cristo Senhor.
 
 ### QUERO LOUVAR-TE {#quero-louvar-te}
 
+*Adhemar de Campos*
+
 ```text
 Dó
 
@@ -4503,6 +6225,35 @@ Viver do Teu amor
 Encontrar Tua vontade
            Dó       Sol7                     Dó
 Quero sentir-Te, quero louvar-Te
+```
+
+### QUERO SER A LUZ DO MUNDO {#quero-ser-a-luz-do-mundo}
+
+*Missão País*
+
+```text
+Mi               Lá
+Sair do quarto escuro
+      Fá#m         Mi
+Tirar os olhos do chão
+     Dó#m         Fá#
+Não ter o coração duro
+     Lá    Si     Mi
+Entregar-me à Missão
+
+Não se esconde, a verdade
+Nas trevas é uma luz
+Quem procura a claridade
+Encontrará Jesus
+
+Mi       Fá#
+Quero ser luz do Mundo
+Lá         Mi        Si7
+Quero levar a vida de Quem me conduz
+Dó#m      Fá#
+Quero ser luz do Mundo
+Lá   Si    Dó
+Reflectir a Cruz
 ```
 
 ### QUERO SER COMO TU {#quero-ser-como-tu}
@@ -4671,6 +6422,82 @@ Quem foi o primeiro a amar
 e é dado (...)
 ```
 
+*Versão do Cantinácio 2019:*
+
+```text
+Mi
+Quem é que fez o mundo?
+         Lá             Mi
+Quem inventou o sabor da maçã?
+Dó#m               Sol#m    Lá
+Quem é que pintou as estrelas?
+        Mi    Si7         Mi
+Quem levanta o sol pela manhã?
+
+Quem é que faz bater as ondas
+Quem faz a arvores crescer
+Quem é que inventou a água
+E me faz a mim viver
+
+Mi       Lá
+Tudo isto me é dado,
+Mi                Si7
+Mesmo sem eu o merecer
+Mi        Mi7        Lá
+Se não o recebo como dom
+Mi       Si7     Mi
+Nunca saberei agradecer
+Mi             Lá
+Quantas vezes bate o coração
+Mi                    Si7
+Sem nunca depender de mim
+Mi     Mi7             Lá
+Quem é que sou eu para Ti
+        Mi       Si7   Mi
+Para gostares de mim assim
+
+Quem é que inventou a vida?
+Quem é que vestiu as flores?
+Quem encena o pôr-do-sol?
+Quem é que inventou as cores?
+
+Quem é que faz girar a Terra?
+Quem é que encheu o mar?
+Quem pintou de azul o Céu?
+Quem foi o primeiro a amar?
+```
+
+### SANCTUS {#sanctus}
+
+*Umbaya*
+
+```text
+Mi Dó#m Lá Si7
+
+Mi
+Umbaya, Umbaya
+Dó#m
+Umbaya, Umbaya
+Lá
+Umbaya, Umbaya
+Si7
+Umbaya, Umbaya (repete)
+
+Oh…
+Sanctus,
+Sanctus Dominus Deo Sabaoth
+Pleni sunt caeli et terra Gloria Tua
+Hossana in excelsis, in excelsis
+
+Oh…
+Sanctus,
+Sanctus Dominus Deo Sabaoth
+Benedictus Qui venit in nomine Domini
+Hossana in excelsis, in excelsis.
+
+Umbaya, Umbaya…
+```
+
 ### SANTO (CABO VERDE) {#santo-cabo-verde}
 
 ```text
@@ -4686,6 +6513,36 @@ Hossana nas alturas
 Bendito Aquele que vem em nome do Senhor
         Si7    Mi  Dó#m      Fá#m Si7    Mi Mi7
 Hossana Hossana        Hossana nas altu-ras (bis)
+```
+
+### SANTO DAS ESCRAVAS {#santo-das-escravas}
+
+```text
+Sol    Mim    Sim
+Santo, santo, santo
+Dó Lám     Ré
+Deus do Universo
+
+Sol       Mim       Sim
+Os céus e a terra proclamam
+       Dó          Ré
+A tua glória, para sempre
+
+Sol
+Hossana (hossana)
+Sim
+Hossana (hossana)
+Dó     Ré    Sol
+Hossana nas alturas  (bis)
+
+             Mim
+Bendito o que vem
+   Dó        Lám
+Em nome, em nome
+   Ré
+Do Senhor
+
+Hossana (hossana)…
 ```
 
 ### SANTO (DEUS DO UNIVERSO) {#santo-deus-do-universo}
@@ -4704,6 +6561,43 @@ Bendito o que vem em nome do Se - nhor  Hossana
 Santo Santo é o Senhor Deus
 Deus do Universo, Deus do Universo
 Santo Santo
+```
+
+### SANTO DO INA {#santo-do-ina}
+
+*Duas vozes*
+
+```text
+Dó*   Mim
+Santo, Santo
+Fá     Fám*      Dó*
+Senhor Deus do Universo
+Dó*   Mim
+Céus e terra
+Fá     Fám          Dó*
+Estão cheios da Tua Glória
+
+  Ré7        Mi Mi7
+Hossana nas altu-ras
+Lám    Lám*          Lám**
+Santo, Santo, Santo, Santo
+
+       Fá          Fám Dó
+Senhor Deus do Univer - so
+Lám    Lám*          Lám**
+Santo, Santo, Santo, Santo
+       Fá           Fám Dó*
+Senhor Deus do Univer - so
+
+Santo, Santo
+Senhor Deus do Universo
+Bendito o que vem
+Em nome do Senhor
+Santo, Santo, Santo, Santo,
+Senhor Deus do Universo (bis)
+
+Dó* - X32030; Sim* - x20030; Fám* - 131131
+Lám* - 3x2210; Lám** - 2x0210
 ```
 
 ### SANTO (DUAS VOZES) {#santo-duas-vozes}
@@ -4826,6 +6720,25 @@ Hossana, Hossana, Hossana no Céu
 Hossana, Hossana, Hossana no Céu
 ```
 
+*Versão do Cantinácio 2019:*
+
+```text
+Dó                     Mim
+Santo, Santo é o Senhor Deus
+          Fá             Dó   Sol
+Deus do Universo Deus do Univer-so (x2)
+
+          Fá      Sol            Dó   MimLám    Sol
+O céu e a terra proclamam a vossa gló-ri - a
+Hossana
+   Fá         Sol         Dó MimLám       Sol
+Bendito o que vem em nome do Se - nhor
+Hossana
+Santo Santo é o Senhor Deus
+Deus do Universo, Deus do Universo
+Santo Santo
+```
+
 ### SANTO II {#santo-ii}
 
 ```text
@@ -4846,6 +6759,50 @@ Santo, Santo, Santo é o Senhor
 Santo é o Senhor do Universo
 Bendito aquele que vem
 Em nome do Senhor
+Hossana nas alturas
+```
+
+*Versão do Cantinácio 2019:*
+
+```text
+Lám  Rém7    Sol Dó
+San – to ,  San-to,
+Fá         Rém         Mi Lám
+Santo é o Senhor Deus do Universo
+Lám     Rém7    Sol     Dó
+Cheios estão os céus e a Terra
+Fá     Rém      Mi Lám
+Da tua glória Hossana
+
+Lá7 Rém7  Sol7 Dó Fá   Rém   Mi  Lám
+Hossana , Hossana, Hossana   nos céus
+Lá7 Rém7  Sol7 Dó Fá   Rém   Mi  Lám
+Hossana , Hossana, Hossana   nos céus
+
+Bendito o que vem em nome do Senhor
+Hossana nos céus, Hossana
+Hossana, hossana, hossana nos céus
+Hossana, hossana, hossana nos céus
+```
+
+### SANTO III {#santo-iii}
+
+```text
+Dó            Sol      Lám
+Santo, Santo, Santo é o Senhor
+Fá         Rém        Sol
+Santo é o Senhor do Universo
+Dó       Mi       Lám
+O céu e a terra proclamam para sempre a vossa
+  Fá
+Glória
+  Sol       Dó
+Hossana nas alturas
+Santo, Santo, Santo é o Senhor
+Santo é o Senhor do Universo
+Bendito aquele que vem em nome do Senhor
+Hossana nas alturas
+Fá Sol       Dó
 Hossana nas alturas
 ```
 
@@ -4956,6 +6913,61 @@ Holly
 Gloria
 ```
 
+### SANTO SANTO É O SENHOR {#santo-santo-e-o-senhor}
+
+```text
+ Mi
+Santo, Santo é o Senhor
+Santo, Santo é o Senhor
+Fá#m
+Senhor Deus do Universo
+Senhor Deus do Universo
+Si
+O Céu e a terra proclamam
+O Céu e a terra proclamam
+Mi  Lá   Mi
+A vossa glória
+
+  Mi   Fá#m
+O Céu e a terra
+ Fá#m
+Proclamam vossa glória,
+ Lá    Si      Mi
+Hossana lá nas alturas.
+ Mi
+Bendito o que vem
+ Fá#m
+Em nome do senhor,
+Lá    Si       Mi
+Hossana lá nas alturas.
+```
+
+### SE CRÊS EM DEUS {#se-cres-em-deus}
+
+*José Fernandes*
+
+```text
+Dó        Rém          Mim                   Fá
+Se crês em Deus, se acreditas que Ele há-de voltar
+Dó        Rém        Mim             Fá
+Segue o caminho que Jesus nos veio ensinar
+Dó       Rém         Fá            Sol    Dó Dó7
+E então verás que a vida se pode tornar melhor
+
+     Fá       Sol Dó              Mi      Lám
+Cantarei, cantarei o que Deus nos veio ensinar
+        Fá                Sol    Dó       Dó7
+Que a maneira de chegar ao céu é amar, é amar
+   Fá      Sol Dó          Mi         Lám
+É amar, é amar o pobre, o rico e o pecador
+   Fá                  Sol            Dó
+E tudo o que nesta vida é querido do Senhor
+
+Se Deus quiser hei-de deixar de pensar em mim
+E assim roubar tempo ao tempo para O adorar
+Serei feliz e comigo será todo o que cantar
+```
+
 ### SEI QUE TE AMAR {#sei-que-te-amar}
 
 ```text
@@ -5063,6 +7075,40 @@ E a Fé sem fim
       Na felicidade e na dor, na paz e no amor
 ```
 
+*Versão do Cantinácio 2019:*
+
+```text
+Dó                             Rém
+Sempre pensando em Ti, Senhor, sempre
+pensando em Ti
+  Sol          Sol7                Dó
+Morre o ódio, morre a dor que se encontra em mim
+
+Sempre pensando em Ti, Senhor, sempre
+pensando em Ti
+Nasce em mim uma luz de amor e a paz sem fim
+
+  Fá         Sol               Dó     Dó7
+Senhor, perdoai-me as minhas faltas
+  Fá       Sol          Dó   Dó7
+Ajudai-me a ser um bom cristão
+     Fá           Sol      Dó      Lám       Fá Sol
+Na felicidade e na dor, na paz e no amor , oh oh oh
+        Dó        Dó7
+Tu és a Salvação
+     Fá           Sol      Dó      Lám      Fá  Sol
+Na felicidade e na dor, na paz e no amor, oh oh oh
+        Dó
+Tu és a Salvação
+
+Sempre pensando em Ti, Senhor, sempre
+pensando em Ti
+Nasce o dia, nasce a noite e o amor sem fim
+Sempre pensando em Ti, Senhor, sempre
+pensando em Ti
+Nasce em mim um amor de irmão e a fé sem fim
+```
+
 ### SENHOR AQUI NOS TENDES {#senhor-aqui-nos-tendes}
 
 ```text
@@ -5149,6 +7195,8 @@ Ouve a minha oração e dá-me o Teu perdão
 ```
 
 ### SENHOR ENSINA-ME A VIVER {#senhor-ensina-me-a-viver}
+
+*Barclay James Harvest*
 
 ```text
             Dó                 Fá                 Sol           Lám
@@ -5277,6 +7325,23 @@ Toma a nossa vida de pecado e dor
 Enche o nosso espírito de amor
 ```
 
+*Versão do Cantinácio 2019:*
+
+```text
+Dó           Sol    Lám
+Senhor tem piedade de nós
+Dó         Fá       Sol
+Somos o teu povo pecador
+Fá          Sol  Dó    Mim  Lám
+Toma a nossa vida de pecado e dor
+Fá              Sol       Dó
+Enche o nosso espírito de amor
+
+Cristo tem piedade de nós...
+
+Senhor tem piedade de nós...
+```
+
 ### SENHOR TENDE PIEDADE (ALENTEJANO) {#senhor-tende-piedade-alentejano}
 
 ```text
@@ -5288,6 +7353,75 @@ E perdoai a nossa culpa
 Porque nós somos vosso po    -    vo
                  Sol              LáRé
 Que vem pedir vosso perdão.
+
+Cristo tende piedade...
+
+Senhor tende piedade...
+```
+
+### SENHOR TENDE PIEDADE I {#senhor-tende-piedade-i}
+
+```text
+Sol           Sol7
+Senhor tende piedade
+ Dó
+Ouvi a nossa oração
+Tende piedade de nós
+   Ré         Sol
+E ajudai cada irmão
+
+ Sol7           Dó
+Cristo, tende piedade
+  Ré        Sol
+Dá-nos a Tua luz
+ Sol             Ré
+Vem caminhando connosco
+      Dó             Sol
+És a estrela que nos conduz
+
+Senhor tende piedade
+Ouvi a nossa oração
+Tende piedade de nós
+E dá-nos a Tua mão
+
+Vem caminhando connosco
+Dá-nos a Tua alegria
+Somos Teus filhos Senhor
+És o sol de cada dia
+```
+
+### SENHOR TENDE PIEDADE II {#senhor-tende-piedade-ii}
+
+*Alentejano*
+
+```text
+Ré                       Sol      Lá   Ré
+Senhor tende piedade e perdoai a nossa culpa
+     Sol           Lá Ré
+E perdoai a nossa culpa
+             Sol       Mim Lá Ré
+Porque nós somos vosso po  -  vo
+         Sol         LáRé
+Que vem pedir vosso perdão.
+
+Cristo tende piedade...
+
+Senhor tende piedade…
+```
+
+### SENHOR TENDE PIEDADE III {#senhor-tende-piedade-iii}
+
+*Kumbaya*
+
+```text
+Lá            Ré Lá
+Senhor tende piedade
+               Mi
+Senhor tende piedade
+      Lá    Ré  Lá
+Senhor tende piedade
+Ré  Lá Mi    Lá
+Pie-da-de de nós
 
 Cristo tende piedade...
 
@@ -5338,6 +7472,8 @@ Só Tu nos consegues completar
 ```
 
 ### SENHOR VENHO HOJE AQUI DEIXAR {#senhor-venho-hoje-aqui-deixar}
+
+*Pioneiros de Schoenstatt*
 
 ```text
 Ré      Sol        Lá           Ré
@@ -5436,7 +7572,34 @@ We are marching (marching)
 We are marching in the light of God (bis)
 ```
 
+*Versão do Cantinácio 2019:*
+
+```text
+ Fá
+Siyahamba ekukhanyeni kwenkos',
+ Dó             Fá
+Siyahamba ekukhanyeni kwenkos'. (2x)
+(anyen kwenkos)
+
+  Sib
+Siyahamba (hamba)
+   Fá
+Siyahamba (hamba)
+    Dó          Fá
+Siyahamba ekukhanyeni kwenkos',
+
+We are marching in the light of God
+We are marching in the light of God (the light of
+God) (2x)
+
+We are marching (marching)
+We are marching (marching)
+We are marching in the light of God
+```
+
 ### SÓ DEUS BASTA {#so-deus-basta}
+
+*Jesed*
 
 ```text
 Sol      Ré
@@ -5470,7 +7633,92 @@ Aleluia (2x)
 Aleluia
 ```
 
+*Versão do Cantinácio 2019:*
+
+```text
+Lá       Mi
+Tu nada temas
+Ré      Mi
+Nada te espante
+Lá          Mi
+Pois tudo passa
+Ré          Mi
+Deus nunca muda
+
+Fá#m     Dó#m
+A paciência
+Ré     Lá
+Tudo alcança
+Dó#m       Ré
+Quem a Deus tem
+Sim       Mi    Mi7
+Nada lhe falta
+
+         Lá Mi
+Só Deus basta
+         Ré Mi
+Só Deus basta
+        Fá#m   Ré
+Só Deus basta
+   Mi7   (na última repetição: Lá)
+Aleluia
+```
+
+### SOMOS UM {#somos-um}
+
+*Marty Panzer (adaptado)*
+
+```text
+Dó   Sol           Lám
+Ao passar a vida, eu sei,
+                 Fá         Dó
+Que nem tudo vai ser como sonhei
+Dó    Sol           Lám
+Ter caminho p’ra fazer
+                  Fá               Dó
+E um Plano, sem saber ser “Mais alguém”.
+
+       Dó           Rém         Sib          Fá
+E vais ver, vais sentir, não precisas desistir
+         Fá                  Sol
+Quando a Vida te para e diz “Não!”
+         Dó         Rém
+Pois Eu estou junto a ti,
+         Sib             Fá
+dou-te a Força que há em Mim
+      Rém           Sol          Dó
+Tu és mais do que “um só”: somos Um!
+
+Dó                     Fá       Sol
+Somos Um, somos Um... (eu e tu) somos Um
+Dó                     Fá       Sol
+Somos Um, somos Um... (eu e tu) somos Um
+
+Posso ser igual a mim
+Ou terei de desistir de ser assim?
+Confiar no coração?
+Ou no Plano que Deus tem para mim?
+
+Mesmo os que aqui não estão, de ti esperam, com
+razão
+Teu Rumo tu estás a traçar
+Seres alguém, seres Feliz, porque “Alguém” assim
+O quis
+Seres um “mais” para ti: somos Um!
+
+Somos Um, somos Um... somos Um
+Somos Um, somos Um... somos Um
+
+Somos Um, eu e Tu, como a Terra e o Céu
+Unidos pelo mesmo Sol
+E de ti vais colher o orgulho de crescer...
+E sorrires quando vires que somos...
+Um!
+```
+
 ### SÓ POR TI JESUS {#so-por-ti-jesus}
+
+*Martin Valverde*
 
 ```text
           Dó
@@ -5501,6 +7749,8 @@ Até ao fim por amor
 ```
 
 ### SOPRO LEVE {#sopro-leve}
+
+*Gonçalo Saráiva*
 
 ```text
     Ré                                           Lá
@@ -5549,6 +7799,8 @@ Aves do céu, bendizei o Senhor
 ```
 
 ### TELA BRANCA {#tela-branca}
+
+*P. Nuno Tovar de Lemos*
 
 ```text
 Dó Sim* Lám Mim Fá Sol Dó Sol
@@ -5611,6 +7863,8 @@ x2x030   x02120
 ```
 
 ### TROCAR O CERTO PELO INCERTO {#trocar-o-certo-pelo-incerto}
+
+*P. Nuno Tovar de Lemos*
 
 ```text
 Lá7 Lá#7* Sim* Mi* Dó#m* Fá#* Sim* Mi*
@@ -5764,6 +8018,8 @@ O que eu anseio, o que eu não sou, o que eu não tenho
 
 ### TU VENS SENHOR {#tu-vens-senhor}
 
+*Maria Pineda*
+
 ```text
 Ré              Lá               Ré
 Tu vens Senhor, dar amor
@@ -5792,6 +8048,8 @@ Ubi caritas    Deus ibi  est
 ```
 
 ### VASO NOVO {#vaso-novo}
+
+*Renovamento Carismático*
 
 ```text
 Dó                                      Fá Sol
@@ -5882,6 +8140,8 @@ Senhor, aceitai-nos assim.
 ```
 
 ### VEM ESPÍRITO {#vem-espirito}
+
+*Hamilton Apolónio*
 
 ```text
      Lá                    Dó#m
@@ -6010,6 +8270,38 @@ Vem viver em nós (2x)
 Ré/Dó#*:  x4x23
 ```
 
+### VEM VIVER EM NÓS SENHOR {#vem-viver-em-nos-senhor}
+
+```text
+Ré  Ré/Dó#   Sim
+Vem viver em nós Senhor
+Sol  Mim    Lá7
+Vem viver em nós (x2)
+```
+
+### VENHO {#venho}
+
+```text
+Ré                       Mim
+Venho com as minhas mãos vazias
+Lá7                     Ré
+Venho como cego atrás da luz
+Sim                  Mim
+Venho como criança perdida
+Lá7                    Ré    Lá7
+Venho aprender a amar Jesus
+
+Ré            Mim
+Perdoa-me, ensina-me Senhor
+        Lá7             Ré      Lá7
+A ser melhor, a amar-Te mais
+
+Venho para aprender a ser santo
+Venho pedir, Senhor, a Tua ajuda
+Quero ser alegre e ser humilde
+Sei que com fé a vida muda
+```
+
 ### VENHO PARA APRENDER A SER SANTO {#venho-para-aprender-a-ser-santo}
 
 ```text
@@ -6063,6 +8355,8 @@ Venite adore-mus
 
 ### VIA DE AMOR {#via-de-amor}
 
+*Movimento dos Focolares*
+
 ```text
       Dó           Sol
       Via de amor,
@@ -6103,6 +8397,35 @@ Pois Tu ficaste entre nós,
 E quem vive de Ti
 Vive para sempre
 És Deus connosco, és Deus para nós,
+És Deus no meio de nós
+```
+
+*Versão do Cantinácio 2019:*
+
+```text
+Lá     Dó#m   Ré      Lá
+Via de amor   és Tu Jesus
+Fa#m     Si  Ré      Mi          Lá
+O pão do céu que nos transforma em Ti (2x)
+
+Ré               Sim            Mi
+Não, não estamos sós sobre esta terra
+Do#m    Ré         Lá Ré         Lá
+Pois Tu ficaste entre nós para nos saciar
+Fa#m      Mi  Ré  Si            Lá
+És pão de vida e inflamas com Teu amor
+Sim    Mi    Lá
+Toda a humanidade
+
+Sim, temos o céu sobre esta terra
+Pois Tu ficaste entre nós mas nos levas contigo
+Para a Tua casa onde viveremos junto a Ti
+Toda a eternidade
+
+Não, a sombra da morte não nos traz medo
+Pois Tu ficaste entre nós e quem vive de Ti
+Vive para sempre, és Deus connosco, és Deus
+para nós
 És Deus no meio de nós
 ```
 
@@ -6321,6 +8644,8 @@ Vive para sempre
 
 ### VIM AQUI {#vim-aqui}
 
+*Ana Maria Pinto Leite*
+
 ```text
 Lám                      Rém
 Vim aqui, ó Virgem Mãe
@@ -6365,6 +8690,24 @@ Da Tua morte revivida
 Vem ó Senhor dar-nos a luz da redenção da Tua cruz
 Vem ó Senhor dar-nos a luz da redenção da Tua cruz
 Da Tua morte revivida
+```
+
+### VIVA A DEUS {#viva-a-deus}
+
+*Senhor tende piedade*
+
+```text
+Lá   Sim    Dó#m Sim   Lá   Sim   Dó#m-Mi
+Viva a Deus, viva a Deus, viva a Deus, vi - va a
+ Lá
+Deus
+
+Senhor tende piedade de nós,
+Senhor tende piedade de nós
+Cristo tende piedade de nós,
+Cristo tende piedade de nós
+Senhor tende piedade de nós,
+Senhor tende piedade de nós
 ```
 
 ### VIVA A DEUS (SENHOR TENDE PIEDADE) {#viva-a-deus-senhor-tende-piedade}
@@ -6445,4 +8788,37 @@ Olha a tua volta em pensa em Deus (…)
 Sim9:  x2x030
 
 Ré7m:  xx0211
+```
+
+*Versão do Cantinácio 2019:*
+
+```text
+Mim                            Ré     Dó
+Vou-te mostrar que as árvores riem para ti
+Mim                     Ré               Dó
+Vou-te mostrar que as estrelas dão sinais de si
+Mim                          Ré          Dó
+Vou-te mostrar que o sol te aquece e te abraça
+Mim                   Ré       Dó
+E que tudo não passa de saber viver
+      Sol
+E contemplar…
+
+Sol         Ré              Dó
+Olha à tua volta e pensa em Deus
+Sol            Ré              Dó
+Aquele que deu tudo e tudo aos seus
+Sol           Ré             Dó
+Entrega o teu estar e o teu olhar
+Dó Mim7   Lám
+E sem o reparar
+Si7    Ré      Dó
+Ele vai-te abraçar
+Mim   Ré   Dó
+Vai-te ajudar
+
+Vou-te mostrar que isto basta p'ra viver
+Vou-te mostrar que nada mais tu vais querer ter
+Que nada mais tu vais querer ser
+Apenas aquele que quer crescer
 ```
