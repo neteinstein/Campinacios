@@ -1,6 +1,7 @@
 # Cantinácio: Manual de Instruções
 
 [![Capa da secção «Manual de Instruções»: rapaz a tocar guitarra, sobre fundo azul](../../assets/imagens/Cantin%C3%A1cio%202019/p175.jpg){ width="300" }](../../assets/imagens/Cantin%C3%A1cio%202019/p175.jpg)
+
 *Ilustração de [Francisco Rodrigues (Pica)](../../Pessoas/F/Francisco%20Silva%20Rodrigues.md) no Cantinácio 2019 (3.ª edição), p. 175.*
 
 Dicas para aprender a tocar guitarra (e também cavaquinho e ukelele), da secção «Manual de Instruções» do Cantinácio de 2019 (3.ª edição), pp. 175 a 185.
@@ -18,9 +19,11 @@ Usaremos como referência a guitarra, mas muito do que segue também se aplica a
 ## A guitarra
 
 [![Esquema da guitarra com o nome das partes: boca, casa, ponte, trastes, corpo e cordas da 1.ª à 6.ª](../../assets/imagens/Cantin%C3%A1cio%202019/p177_1713.jpg){ width="500" }](../../assets/imagens/Cantin%C3%A1cio%202019/p177_1713.jpg)
+
 *Cantinácio 2019 (3.ª edição), p. 177.*
 
 [![Esquema da cabeça e do braço da guitarra: cabeça, cravelhas, pestana e braço](../../assets/imagens/Cantin%C3%A1cio%202019/p177_1715.jpg){ width="300" }](../../assets/imagens/Cantin%C3%A1cio%202019/p177_1715.jpg)
+
 *Cantinácio 2019 (3.ª edição), p. 177.*
 
 ## Notas musicais
@@ -61,6 +64,7 @@ Para além das partituras, podemos representar acordes através de duas formas s
 Se atribuirmos a cada dedo desta mão um número, podemos associá-lo a uma corda e casa específica no braço do instrumento. Repara na imagem abaixo.
 
 [![Mão esquerda com os dedos numerados de 1 (indicador) a 4 (mindinho)](../../assets/imagens/Cantin%C3%A1cio%202019/p179_1732.jpg){ width="200" }](../../assets/imagens/Cantin%C3%A1cio%202019/p179_1732.jpg)
+
 *Cantinácio 2019 (3.ª edição), p. 179.*
 
 Deves também ter em conta estes símbolos:
@@ -71,6 +75,7 @@ Deves também ter em conta estes símbolos:
 ## Diagrama
 
 [![Diagrama do acorde Ré: x x 0 nas três cordas mais graves, dedo 1 na 3.ª corda e dedo 2 na 1.ª corda, na segunda casa, e dedo 3 na 2.ª corda, na terceira casa](../../assets/imagens/Cantin%C3%A1cio%202019/p180_1738.jpg){ width="150" }](../../assets/imagens/Cantin%C3%A1cio%202019/p180_1738.jpg)
+
 *Cantinácio 2019 (3.ª edição), p. 180.*
 
 O diagrama representa o braço do instrumento, e a linha horizontal mais grossa representa o início do braço, a “pestana”. Cada número representa o dedo respectivo da mão esquerda.
@@ -135,17 +140,21 @@ Há mais sobre isto nas [Escalas](Escalas.md).
 ## Acordes para a guitarra
 
 [![Diagramas dos acordes de guitarra de Dó a Mim7: Dó, Dóm, Dó7, Dó#, Dó#m, Ré, Rém, Ré7, Ré#, Ré#m, Ré/Fá#, Rém7, Mi, Mim, Mi7 e Mim7](../../assets/imagens/Cantin%C3%A1cio%202019/p182.png){ width="600" }](../../assets/imagens/Cantin%C3%A1cio%202019/p182.png)
+
 *Cantinácio 2019 (3.ª edição), p. 182.*
 
 [![Diagramas dos acordes de guitarra de Fá a Sib: Fá, Fám, Fá7, Fá#, Fá#m, Fá#7, Fá#m7, Sol, Solm, Sol7, Sol#, Sol#m, Lá, Lám, Lá7, Lám7, Si, Sim, Si7 e Sib](../../assets/imagens/Cantin%C3%A1cio%202019/p183.png){ width="600" }](../../assets/imagens/Cantin%C3%A1cio%202019/p183.png)
+
 *Cantinácio 2019 (3.ª edição), p. 183.*
 
 ## Acordes para o ukelele
 
 [![Diagramas dos acordes de ukelele de Dó a Mim7: Dó, Dóm, Dó7, Dó#, Dó#m, Ré, Rém, Ré7, Ré#, Ré#m, Rém7, Mi, Mim, Mi7 e Mim7](../../assets/imagens/Cantin%C3%A1cio%202019/p184.png){ width="600" }](../../assets/imagens/Cantin%C3%A1cio%202019/p184.png)
+
 *Cantinácio 2019 (3.ª edição), p. 184.*
 
 [![Diagramas dos acordes de ukelele de Fá a Sib: Fá, Fám, Fá7, Fá#, Fá#m, Sol, Solm, Sol7, Sol#, Sol#m, Lá, Lám, Lá7, Lám7, Si, Sim, Si7 e Sib](../../assets/imagens/Cantin%C3%A1cio%202019/p185.png){ width="600" }](../../assets/imagens/Cantin%C3%A1cio%202019/p185.png)
+
 *Cantinácio 2019 (3.ª edição), p. 185.*
 
 ---
