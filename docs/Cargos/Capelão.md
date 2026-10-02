@@ -48,6 +48,7 @@
 - [Francisco Martins](../Pessoas/F/Francisco%20Martins.md)
 - [Francisco Montellano](../Pessoas/F/Francisco%20Montellano.md)
 - [Francisco Mota](../Pessoas/F/Francisco%20Mota.md)
+- [Francisco Rodrigues (CAIC)](../Pessoas/F/Francisco%20Rodrigues%20%28CAIC%29.md)
 - [Frederico Cardoso de Lemos](../Pessoas/F/Frederico%20Cardoso%20de%20Lemos.md)
 - [Gonçalo Eiró](../Pessoas/G/Gon%C3%A7alo%20Eir%C3%B3.md)
 - [Gonçalo Fonseca](../Pessoas/G/Gon%C3%A7alo%20Fonseca.md)
