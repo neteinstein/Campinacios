@@ -4,7 +4,7 @@ Cânticos religiosos para as eucaristias, orações e momentos de reflexão.
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (214 músicas)
+## Índice (216 músicas)
 
 - [A BONDADE DO SENHOR](#a-bondade-do-senhor)
 - [ADORAMUS TE CHRISTE](#adoramus-te-christe) — Taizé
@@ -42,6 +42,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [CANTAREI](#cantarei)
 - [CANTAREI AO SENHOR](#cantarei-ao-senhor) — Taizé
 - [CELEBREMOS](#celebremos)
+- [CHAPÉU](#chapeu)
 - [COMEI DO PÃO](#comei-do-pao) — Jacques Berthier (Compositor Francês)
 - [COMO A TERRA](#como-a-terra)
 - [COMO O PAI ME AMOU](#como-o-pai-me-amou)
@@ -136,6 +137,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [O REINO DE DEUS](#o-reino-de-deus) — Taizé
 - [O SENHOR É A MINHA FORÇA](#o-senhor-e-a-minha-forca) — Taizé
 - [O SENHOR É MEU PASTOR](#o-senhor-e-meu-pastor) — Nuno Tovar de Lemos
+- [O SOL JÁ RAIOU](#o-sol-ja-raiou)
 - [OUVI A NOSSA ORAÇÃO](#ouvi-a-nossa-oracao)
 - [PAI](#pai)
 - [PAI NOSSO GALEGO](#pai-nosso-galego)
@@ -1090,6 +1092,16 @@ Pelo Seu Espírito Santo
 Celebremos o Senhor que dá vida
 Dó#7       Fá#m Ré Lá Mi   Lá
 O ressuscitado, Cristo Senhor (2x)
+```
+
+### CHAPÉU {#chapeu}
+
+*Cântico curto, acabado em «Amem»*
+
+```text
+Chapéu, boné, gorrinho também
+Dispensa quem cabeça não tem
+Amem, amem, amem sempre amem
 ```
 
 ### COMEI DO PÃO {#comei-do-pao}
@@ -3564,6 +3576,19 @@ Nova terra e novos céus!
 Do Se(2)nhor, o nosso Deus,
 que fez o céu e a terra,
 O céu e a terra
+```
+
+### O SOL JÁ RAIOU {#o-sol-ja-raiou}
+
+*Cântico da manhã*
+
+```text
+O Sol já raiou, o sol já raiou
+A Natureza em flor
+O sol já raiou, o sol já raiou
+E eu encontrei o meu Senhor!
+
+Bom dia!
 ```
 
 ### OBRIGADO {#obrigado}

@@ -12,12 +12,15 @@ O Tábeeeim foi um campo de Bicicletas que decorreu entre os dias 9 e 18 de Agos
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Andreia Pereira](../../Pessoas/A/Andreia%20Pereira.md), [Renato Costa](../../Pessoas/R/Renato%20Costa.md) e [Paulo Mesquita](../../Pessoas/P/Paulo%20Mesquita.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Lelé](../../Pessoas/M/Madalena%20Saraiva.md), [Catarina Fonseca](../../Pessoas/C/Catarina%20Fonseca.md), [Sara Antunes](../../Pessoas/S/Sara%20Antunes.md), [Sara Rita](../../Pessoas/S/Sara%20Rita%20Sampaio.md), [Aninhas](../../Pessoas/A/Ana%20Junqueira.md) e [Tomás Silva](../../Pessoas/T/Tom%C3%A1s%20Silva.md)
 
+O hino deste campo está no [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#tabeeeim).
+
 ## Páginas que ligam para aqui
 
 - [Ana Junqueira](../../Pessoas/A/Ana%20Junqueira.md)
 - [Ana Paula Sampaio](../../Pessoas/A/Ana%20Paula%20Sampaio.md)
 - [Andreia Pereira](../../Pessoas/A/Andreia%20Pereira.md)
 - [Bruno Azevedo](../../Pessoas/B/Bruno%20Azevedo.md)
+- [Cantinácio: Campinácios](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md)
 - [Catarina Fonseca](../../Pessoas/C/Catarina%20Fonseca.md)
 - [João Pedro Gomes](../../Pessoas/J/Jo%C3%A3o%20Pedro%20Gomes.md)
 - [Madalena Saraiva](../../Pessoas/M/Madalena%20Saraiva.md)

@@ -12,7 +12,7 @@
 - [Tia](../../Cargos/Tio.md) - [Rita Salgueiro](../../Pessoas/R/Rita%20Salgueiro.md)
 - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Sara Rita Sampaio](../../Pessoas/S/Sara%20Rita%20Sampaio.md)
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - [João Monteiro](../../Pessoas/J/Jo%C3%A3o%20Monteiro.md)
-- [Animadores](../../Categorias/Animadores.md) - [Ana Sofia Pinelas](../../Pessoas/A/Ana%20Sofia%20Pinelas.md), [Carla Ferreira](../../Pessoas/C/Carla%20Ferreira.md), [Joana Trigo da Roza](../../Pessoas/J/Joana%20Trigo%20da%20Roza.md), [Ché](../../Pessoas/J/Jo%C3%A3o%20Pedro%20Gomes.md), Francisco Pardal, [Vítor Fernandes](../../Pessoas/V/V%C3%ADtor%20Fernandes.md), [Tiago Canilho](../../Pessoas/L/Lu%C3%ADs%20Tiago%20Canilho.md) e [Filipe Barroso](../../Pessoas/F/Filipe%20Barroso.md)
+- [Animadores](../../Categorias/Animadores.md) - [Ana Sofia Pinelas](../../Pessoas/A/Ana%20Sofia%20Pinelas.md), [Carla Ferreira](../../Pessoas/C/Carla%20Ferreira.md), [Joana Trigo da Roza](../../Pessoas/J/Joana%20Trigo%20da%20Roza.md), [Ché](../../Pessoas/J/Jo%C3%A3o%20Pedro%20Gomes.md), [Francisco Pardal](../../Pessoas/F/Francisco%20Pardal.md), [Vítor Fernandes](../../Pessoas/V/V%C3%ADtor%20Fernandes.md), [Tiago Canilho](../../Pessoas/L/Lu%C3%ADs%20Tiago%20Canilho.md) e [Filipe Barroso](../../Pessoas/F/Filipe%20Barroso.md)
 
 ## Páginas que ligam para aqui
 
@@ -20,6 +20,7 @@
 - [Bernardo Caldas](../../Pessoas/B/Bernardo%20Caldas.md)
 - [Carla Ferreira](../../Pessoas/C/Carla%20Ferreira.md)
 - [Filipe Barroso](../../Pessoas/F/Filipe%20Barroso.md)
+- [Francisco Pardal](../../Pessoas/F/Francisco%20Pardal.md)
 - [Joana Gomes](../../Pessoas/J/Joana%20Gomes.md)
 - [Joana Trigo da Roza](../../Pessoas/J/Joana%20Trigo%20da%20Roza.md)
 - [João Monteiro](../../Pessoas/J/Jo%C3%A3o%20Monteiro.md)
@@ -33,6 +34,8 @@
 - [Vítor Fernandes](../../Pessoas/V/V%C3%ADtor%20Fernandes.md)
 
 ---
+
+**Outros nomes:** Pesca Nova
 
 | Categorias |
 | --- |

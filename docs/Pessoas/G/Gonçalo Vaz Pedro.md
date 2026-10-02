@@ -40,6 +40,7 @@ Gonçalo Vaz Pedro, é desde 2006, um dos animadores do Colégio da Imaculada Co
 ## Páginas que ligam para aqui
 
 - [Baba Yetu](../../Acampamentos/2010/Baba%20Yetu.md)
+- [Calhambeques](../../Categorias/Calhambeques.md)
 - [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md)
 - [Encontro Nacional de Animadores 2007](../../Encontros/Encontro%20Nacional%20de%20Animadores%202007.md)
 - [Êxodo](../../Acampamentos/2008/%C3%8Axodo.md)

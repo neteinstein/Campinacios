@@ -56,7 +56,6 @@
 - [Carlos Rodrigues](../Pessoas/C/Carlos%20Rodrigues.md)
 - [Carlos Ruiz](../Pessoas/C/Carlos%20Ruiz.md)
 - [Carmo Ribeiro Corrêa](../Pessoas/C/Carmo%20Ribeiro%20Corr%C3%AAa.md)
-- [Caroço](../Acampamentos/1999/Caro%C3%A7o.md)
 - [Casca de Banana](../Acampamentos/2005/Casca%20de%20Banana.md)
 - [Chama de Novo](../Acampamentos/2019/Chama%20de%20Novo.md)
 - [Chico Carneiro](../Pessoas/C/Chico%20Carneiro.md)
@@ -286,7 +285,12 @@
 - [À Brava](../Acampamentos/2025/%C3%80%20Brava.md)
 - [À Grande e à Francesa](../Acampamentos/2022/%C3%80%20Grande%20e%20%C3%A0%20Francesa.md)
 - [À Mesa](../Acampamentos/2024/%C3%80%20Mesa.md)
+- [Além](../Acampamentos/1998/Al%C3%A9m.md)
+- [António Pedro](../Pessoas/A/Ant%C3%B3nio%20Pedro.md)
+- [Campo Ibérico](../Acampamentos/1995/Campo%20Ib%C3%A9rico.md)
+- [Gustavo Gapo](../Pessoas/G/Gustavo%20Gapo.md)
 - [Ídolo](../Acampamentos/2004/%C3%8Ddolo.md)
+- [Rafael Mourão](../Pessoas/R/Rafael%20Mour%C3%A3o.md)
 
 ---
 

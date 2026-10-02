@@ -2,7 +2,7 @@
 
 Animadores do Colégio da Imaculada Conceição
 
-## Páginas nesta categoria (110)
+## Páginas nesta categoria (111)
 
 - [Alexandra Silva](../Pessoas/A/Alexandra%20Silva.md)
 - [Ana Carolina Santos](../Pessoas/A/Ana%20Carolina%20Santos.md)
@@ -17,6 +17,7 @@ Animadores do Colégio da Imaculada Conceição
 - [Ana Val-do-Rio](../Pessoas/A/Ana%20Val-do-Rio.md)
 - [Analisa Lucas](../Pessoas/A/Analisa%20Lucas.md)
 - [Andreia Resende](../Pessoas/A/Andreia%20Resende.md)
+- [Bárbara Cruz](../Pessoas/B/B%C3%A1rbara%20Cruz.md)
 - [Beatriz Miranda](../Pessoas/B/Beatriz%20Miranda.md)
 - [Carla Gapo](../Pessoas/C/Carla%20Gapo.md)
 - [Carla Resende](../Pessoas/C/Carla%20Resende.md)

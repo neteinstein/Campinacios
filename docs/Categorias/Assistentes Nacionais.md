@@ -51,6 +51,7 @@ Assistentes Nacionais do Movimento
 
 ## Páginas que ligam para aqui
 
+- [Animador](../Movimento/Animador.md)
 - [António Pamplona](../Pessoas/A/Ant%C3%B3nio%20Pamplona.md)
 - [António Sant'Ana](../Pessoas/A/Ant%C3%B3nio%20Sant%27Ana.md)
 - [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md)

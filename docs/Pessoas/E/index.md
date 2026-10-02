@@ -1,6 +1,7 @@
 # E
 
 - [Eduarda Roxo](Eduarda%20Roxo.md)
+- [Eduarda Vilela](Eduarda%20Vilela.md)
 - [Eduardo Almeida](Eduardo%20Almeida.md)
 - [Eduardo Amaral](Eduardo%20Amaral.md)
 - [Eduardo Carvalho](Eduardo%20Carvalho.md)

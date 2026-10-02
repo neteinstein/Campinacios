@@ -65,6 +65,12 @@ body:
       description: Só a localidade e o concelho. As indicações e os contactos dos locais de campo são reservados à Direcção Nacional e aos directores.
       placeholder: Serpins (Lousã)
   - type: input
+    id: local-de-campo
+    attributes:
+      label: Local de campo
+      description: O nome do sítio onde se acampou (quinta, parque, escola, terreno…), se o souber, como aparece nos Locais de Acampamento. Só o nome — as indicações para lá chegar, as coordenadas e os contactos vão em privado aos Contribuidores, nunca aqui.
+      placeholder: Quinta da Adaúfa (Silgueiros, Viseu)
+  - type: input
     id: tema
     attributes:
       label: Imaginário ou tema do acampamento

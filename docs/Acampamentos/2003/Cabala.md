@@ -10,12 +10,13 @@ O Cabala foi um acampamento de Bicicletas que decorreu de 2 a 11 de Agosto de 20
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Rui Nunes](../../Pessoas/R/Rui%20Nunes.md) sj
 - [Tias](../../Cargos/Tio.md) - [Ana Pinto da Costa](../../Pessoas/A/Ana%20Pinto%20da%20Costa.md) e [Sara Ramalho](../../Pessoas/S/Sara%20Ramalho.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Kiko](../../Pessoas/F/Francisco%20Almeida%20%28Kiko%29.md) e [João Reis](../../Pessoas/J/Jo%C3%A3o%20Reis.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Isa Neves](../../Pessoas/I/Isa%20Neves.md), [Madalena Reis](../../Pessoas/M/Madalena%20Reis.md), Ana Rita Lynce, Simão Nabais, [Filipa Granado](../../Pessoas/F/Filipa%20Granado.md) e [Joana Cardoso](../../Pessoas/J/Joana%20Cardoso.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Isa Neves](../../Pessoas/I/Isa%20Neves.md), [Madalena Reis](../../Pessoas/M/Madalena%20Reis.md), [Ana Rita Lynce](../../Pessoas/A/Ana%20Rita%20Lynce.md), Simão Nabais, [Filipa Granado](../../Pessoas/F/Filipa%20Granado.md) e [Joana Cardoso](../../Pessoas/J/Joana%20Cardoso.md)
 
 ## Páginas que ligam para aqui
 
 - [Ana Pinto da Costa](../../Pessoas/A/Ana%20Pinto%20da%20Costa.md)
 - [Ana Ribeiro](../../Pessoas/A/Ana%20Ribeiro.md)
+- [Ana Rita Lynce](../../Pessoas/A/Ana%20Rita%20Lynce.md)
 - [Diogo Belo](../../Pessoas/D/Diogo%20Belo.md)
 - [Diogo Costa](../../Pessoas/D/Diogo%20Costa.md)
 - [Elias Oliveira](../../Pessoas/E/Elias%20Oliveira.md)

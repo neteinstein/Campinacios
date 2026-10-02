@@ -87,7 +87,7 @@ Como a experiência foi muito positiva, os directores dos três colégios – pa
 
 Assim, ainda neste mês de Julho, o [CSJB](CSJB.md) organiza o [Ferrugenta](../Acampamentos/1989/Ferrugenta.md), um acampamento de férias no Rossio ao sul do Tejo para alunos dos três colégios. Este será o primeiro acampamento inter-colegial, mas ainda sem a designação de CAMPINÁCIOS formalizada como movimento dos colégios. Este acampamento de férias teve como tema: “pelos frutos se conhece a árvore”. A equipa de animação era assim constituída: [Carlos Azevedo Mendes](../Pessoas/C/Carlos%20Azevedo%20Mendes.md) SJ ([Director](../Cargos/Director.md)), [Domingos Freitas](../Pessoas/D/Domingos%20Freitas.md) SJ ([Director-Adjunto](../Cargos/Director-Adjunto.md) e [Capelão](../Cargos/Capel%C3%A3o.md)) e [Concha Líbano Monteiro](../Pessoas/C/Concha%20L%C3%ADbano%20Monteiro.md) ([Mamã](../Cargos/Mam%C3%A3.md)).
 
-Ainda neste ano de 1989, no mês de Setembro, realizou-se o [Pedreira](../Acampamentos/1989/Pedreira.md), mais um acampamento de férias que teve a seguinte direcção: [Domingos Freitas](../Pessoas/D/Domingos%20Freitas.md) SJ ([Director](../Cargos/Director.md) e [Capelão](../Cargos/Capel%C3%A3o.md)), [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) ([Director-Adjunto](../Cargos/Director-Adjunto.md)), Mafalda Aleixo ([Mamã](../Cargos/Mam%C3%A3.md)), [Sandra Rodrigues](../Pessoas/S/Sandra%20Rodrigues.md) ([Tia](../Cargos/Tio.md)). Como animadores estiveram: [Carlos Lopes](../Pessoas/C/Carlos%20Lopes.md), [Carlos Ruiz](../Pessoas/C/Carlos%20Ruiz.md), [Filipe Queiroz e Melo](../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md), Jorge Nunes, Bernardo Perloiro, [Filipe Queiroz e Melo](../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md), Rosarinho Araújo, [Cristina Cabeça](../Pessoas/C/Cristina%20Cabe%C3%A7a.md) e Maria Manuel Martins.
+Ainda neste ano de 1989, no mês de Setembro, realizou-se o [Pedreira](../Acampamentos/1989/Pedreira.md), mais um acampamento de férias que teve a seguinte direcção: [Domingos Freitas](../Pessoas/D/Domingos%20Freitas.md) SJ ([Director](../Cargos/Director.md) e [Capelão](../Cargos/Capel%C3%A3o.md)), [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) ([Director-Adjunto](../Cargos/Director-Adjunto.md)), [Mafalda Aleixo](../Pessoas/M/Mafalda%20Aleixo.md) ([Mamã](../Cargos/Mam%C3%A3.md)), [Sandra Rodrigues](../Pessoas/S/Sandra%20Rodrigues.md) ([Tia](../Cargos/Tio.md)). Como animadores estiveram: [Carlos Lopes](../Pessoas/C/Carlos%20Lopes.md), [Carlos Ruiz](../Pessoas/C/Carlos%20Ruiz.md), [Filipe Queiroz e Melo](../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md), Jorge Nunes, Bernardo Perloiro, [Filipe Queiroz e Melo](../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md), [Rosarinho Araújo](../Pessoas/R/Rosarinho%20Ara%C3%BAjo.md), [Cristina Cabeça](../Pessoas/C/Cristina%20Cabe%C3%A7a.md) e Maria Manuel Martins.
 
 ### A consolidação dos Campinácios
 
@@ -99,6 +99,19 @@ Na prática os acampamentos começavam a funcionar com intercâmbio de participa
 
 Após este encontro, os CAMPINÁCIOS como movimento foi ganhando alguma estabilidade e solidificação. No entanto, estava decidido que os CAMPINÁCIOS como movimento de acampamentos de férias seriam uma realidade incontornável na vida e formação dos alunos dos colégios da Companhia de Jesus.
 
+Em Abril de 2002 os Campinácios comemoraram dez anos com um encontro no Colégio das Caldinhas ([CC](CC.md)), com 430 jovens ligados ao movimento.
+
+Os acampamentos destinam-se aos alunos dos colégios entre os 10 e os 17 anos, e os animadores são antigos alunos, já adultos, que geralmente fizeram os acampamentos como participantes.
+
+## Actividades ao longo do ano
+
+Num texto de 2009 e 2010, a [Joana Gomes](../Pessoas/J/Joana%20Gomes.md), animadora do [CSJB](CSJB.md), descrevia o que os Campinácios fazem fora do Verão:
+
+- o **Encontro Nacional**, a maior actividade, num dos três colégios durante um fim-de-semana, aberto a quem faz ou fez acampamentos e a quem tem curiosidade, com jogos e momentos parecidos com os de um acampamento e a parte espiritual no centro (o de 2010 foi o dos 20 anos);
+- a **Ceia de Natal**, feita em cada colégio ao longo de Dezembro, com missa, jantar e serão preparado pelos animadores;
+- actividades próprias de cada colégio: no [CC](CC.md), missas mensais com os participantes e os pais, preparadas pelos miúdos com os animadores; no [CSJB](CSJB.md), as Sobremesas Mensais, com jogos e concursos no recreio do almoço;
+- para os animadores, o **Encontro Nacional de Animadores**, para conviverem, e as reuniões mensais, onde se preparam as actividades e os acampamentos do Verão seguinte.
+
 ## Referências
 
 **Cfr. José da Silva ALMEIDA SJ**, Para Educar Melhor - Campos de Férias Inacianos, AO, Braga, 2004
@@ -109,6 +122,7 @@ Após este encontro, os CAMPINÁCIOS como movimento foi ganhando alguma estabili
 
 - [Amadeu Pinto](../Pessoas/A/Amadeu%20Pinto.md)
 - [Américo Mendes](../Pessoas/A/Am%C3%A9rico%20Mendes.md)
+- [Cantinácio: Campinácios](Cantin%C3%A1cio/Campin%C3%A1cios.md)
 - [Conteúdos](../Wikin%C3%A1cios/Conte%C3%BAdos.md)
 - [Florinhas](../Acampamentos/1994/Florinhas.md)
 - [Gambozinos](Gambozinos.md)
@@ -118,6 +132,7 @@ Após este encontro, os CAMPINÁCIOS como movimento foi ganhando alguma estabili
 - [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
 - [Manual de Funções](Manual%20de%20Fun%C3%A7%C3%B5es.md)
 - [Manual do Director](Manual%20do%20Director.md)
+- [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
 - [Sandra Rodrigues](../Pessoas/S/Sandra%20Rodrigues.md)
 - [Sobre](../Wikin%C3%A1cios/index.md)
 

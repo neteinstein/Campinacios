@@ -4,8 +4,9 @@ Músicas nascidas nos acampamentos dos [Campinácios](../Campin%C3%A1cios.md).
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (19 músicas)
+## Índice (22 músicas)
 
+- [HINO DOS CAMPINÁCIOS](#hino-dos-campinacios) — Hino dos Campinácios (2025)
 - [ABRE-TE AO SONHO](#abre-te-ao-sonho) — Hino do Campo Long Tao (2006)
 - [APRENDER A SER](#aprender-a-ser)
 - [BELO DO HINO](#belo-do-hino) — Hino do Campo Caminho (2009)
@@ -24,9 +25,62 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [POEMA LINDO](#poema-lindo) — Campo Mountain Bike (Chico Maria)
 - [RADROCA](#radroca) — adaptação de uma música do Camtil para o Gaivota 2005
 - [SÓIS HÁ MUITOS](#sois-ha-muitos)
+- [TÁBEEEIM](#tabeeeim) — Hino do Campo Tábeeeim (2010)
 - [VEM ACUDIR](#vem-acudir) — Hino da Novela do Campo Long Tao (2006)
+- [WALKABOUT](#walkabout) — Hino do Campo Walkabout (2010)
 
 ## Músicas
+
+### HINO DOS CAMPINÁCIOS {#hino-dos-campinacios}
+
+*Hino dos [Campinácios](../Campin%C3%A1cios.md) (2025)*
+
+Há um [vídeo do hino](https://drive.google.com/file/d/1AJpxYk45MEzgMU7tWRFnYh7D6u44PWGo/view) no Google Drive.
+
+```text
+Ré    Sol    Ré    Sol
+
+Ré                     Sol
+Nas Mimosas começou
+                          Ré
+Demos vida ao sonho bom
+                                     Sol
+Banhos de estrelas, banhos de rio
+                                         Ré
+Estranhas novelas, presas por um fio
+                                 Sol
+Lenço ao peito, roupa encardida
+                                     Ré
+Canções sem jeito, oferecer a vida
+                              Sol
+Deus connosco, olhar infinito
+Sim            Lá        Sol
+Saltar na roda, soltar o gritooooohhh
+
+[PRÉ-REFRÃO]
+Mim          Sol          Ré         Lá
+O sol e a lama vão-nos bronzear
+Sim             Dó                         Lá
+Se vem a chuva, junta-se a nós a cantar!
+
+[REFRÃO]
+Ré           Sol      Ré       Lá      Ré
+Campinácios, viver a ânsia de sorrir
+             Sol      Lá       Sol        Ré
+Campinácios, ousar sonhar e descobrir
+(2x)
+
+Sol                  Ré          Sim            Lá
+Triciclos a começar, Trotinetas a explorar
+Sol                   Ré          Sim            Lá
+Bicicletas a crescer, Lambretas a devolver
+Sim                   Dó                 Lá
+Tratores a construir, Campinácios a explodir!
+
+[PRÉ-REFRÃO]
+
+[REFRÃO]
+```
 
 ### ABRE-TE AO SONHO {#abre-te-ao-sonho}
 
@@ -697,6 +751,35 @@ Vai dar-te ao mundo aos que vivem
 Em tormento...
 ```
 
+### TÁBEEEIM {#tabeeeim}
+
+*Hino do Campo [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md) (2010)*
+
+```text
+('Tou cheio de t'oubir!!!)
+
+Quero ficar em tua casa e contigo viver
+Dar-te o mundo inteiro a conhecer
+Realizar teus sonhos, mostrar-te o luar
+As histórias da Maria e do François
+(Maria Ninguém, é Maria e é Maria meu bem)
+Dias p'ra saborear, dar a vida e te cuidar
+Eu acho que Jesus não xober xouriças
+Mas sei que quando eu pedi mais
+Ele respondeu Tábeeeim (Tábeeeim, Tábeeeim) (2x)
+
+Lavar a loiça bem, repeti-lo amanhã
+Dizer bem da comida da Mamã (Hey sexy lady, oh my sexy lady)
+Dar o litro em tudo só passa por mim
+Aprender a dizer não e a dizer sim (Então cala-te, ohoh ohoh ohoh)
+Estes momentos vou guardar, as vossas caras recordar
+Deus é o meu caminho, o que eu quero seguir
+E quando ele me pedir mais
+Vou responder Tábeeeim (Tábeeeim, Tábeeeim) (3x)
+
+(Altosss)
+```
+
 ### VEM ACUDIR {#vem-acudir}
 
 *Hino da Novela do Campo [Long Tao](../../Acampamentos/2006/Long%20Tao.md) (2006)*
@@ -734,4 +817,35 @@ O tesouro está mim
         Amanha nós tamos cá
         O pano vai subir…
         E mais animação vem lá
+```
+
+### WALKABOUT {#walkabout}
+
+*Hino do Campo [Walkabout](../../Acampamentos/2010/Walkabout.md) (2010)*
+
+```text
+Faz-te à estrada,
+pega em ti e vem daí
+estamos numa caminhada
+com principio e sem fim
+faz-te à estrada,
+pega na mochila e vem
+vamos conhecer o mundo
+um lugar mais além
+
+Vem caminhar comigo
+Neste mundo sem fim
+Arrisca o desconhecido
+Vem ser alguém aqui!
+Há sempre uma porta aberta
+Para quem quiser entrar
+O coração está alerta
+Só tens que o desafiar!
+
+Para um lugar (que é) desconhecido
+Com um estranho p'ra conhecer
+Vem tornar-te seu amigo
+Desde o pôr-do-sol até ao entardecer
+
+DEIXA-ME FICAR EM TUA CASA
 ```

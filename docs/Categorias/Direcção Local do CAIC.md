@@ -23,7 +23,7 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 | **2014/2015** | — | [João Manuel Silva](../Pessoas/J/Jo%C3%A3o%20Manuel%20Silva.md) sj | — |
 | **2013/2014** | [Rafael Carecho](../Pessoas/R/Rafael%20Carecho.md) | [João Manuel Silva](../Pessoas/J/Jo%C3%A3o%20Manuel%20Silva.md) sj | [Sara Fernandes](../Pessoas/S/Sara%20Fernandes.md), [Marcelo Vieira](../Pessoas/M/Marcelo%20Vieira.md), [Ana Carolina Santos](../Pessoas/A/Ana%20Carolina%20Santos.md) |
 | **2012/2013** | — | [João de Brito](../Pessoas/J/Jo%C3%A3o%20de%20Brito.md) sj | — |
-| **2011/2012** | [Rafael Carecho](../Pessoas/R/Rafael%20Carecho.md) | [Ricardo Barroso](../Pessoas/R/Ricardo%20Barroso.md) sj | — |
+| **2011/2012** | [Rafael Carecho](../Pessoas/R/Rafael%20Carecho.md) | [Ricardo Barroso](../Pessoas/R/Ricardo%20Barroso.md) sj | [Duda](../Pessoas/S/Sara%20Fernandes.md), [Bárbara Cruz](../Pessoas/B/B%C3%A1rbara%20Cruz.md) |
 | **2009/2011** | [Marta Carneiro](../Pessoas/M/Marta%20Carneiro.md) | [Francisco Martins](../Pessoas/F/Francisco%20Martins.md) sj | [Joana Lima](../Pessoas/J/Joana%20Lima.md), [Gonçalo Vaz Pedro](../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md), [Pascoal](../Pessoas/J/Jos%C3%A9%20Pascoal.md) |
 | **2008/2009** | [Gonçalo Vaz Pedro](../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md) | [Sérgio Carvalho](../Pessoas/S/S%C3%A9rgio%20Carvalho.md) sj / [Paulo Duarte](../Pessoas/P/Paulo%20Duarte.md) sj | [Ana Simões](../Pessoas/A/Ana%20Sim%C3%B5es.md), [Mariana Roxo](../Pessoas/M/Mariana%20Roxo.md), [Beatriz Miranda](../Pessoas/B/Beatriz%20Miranda.md) |
 | **2007/2008** | [Gonçalo Vaz Pedro](../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md) | [Sérgio Carvalho](../Pessoas/S/S%C3%A9rgio%20Carvalho.md) sj | [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md), [Mariana Roxo](../Pessoas/M/Mariana%20Roxo.md), [Inês Patrício](../Pessoas/I/In%C3%AAs%20Patr%C3%ADcio.md) |
@@ -103,9 +103,11 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [André Trigo](../Pessoas/A/Andr%C3%A9%20Trigo.md)
 - [António Sant'Ana](../Pessoas/A/Ant%C3%B3nio%20Sant%27Ana.md)
 - [António Santos Lourenço](../Pessoas/A/Ant%C3%B3nio%20Santos%20Louren%C3%A7o.md)
+- [Bárbara Cruz](../Pessoas/B/B%C3%A1rbara%20Cruz.md)
 - [Beatriz Miranda](../Pessoas/B/Beatriz%20Miranda.md)
 - [Carla Resende](../Pessoas/C/Carla%20Resende.md)
 - [Carlos Rodrigues](../Pessoas/C/Carlos%20Rodrigues.md)
+- [Direcção Nacional](Direc%C3%A7%C3%A3o%20Nacional.md)
 - [Eduarda Roxo](../Pessoas/E/Eduarda%20Roxo.md)
 - [Francisco Martins](../Pessoas/F/Francisco%20Martins.md)
 - [Gonçalo Vaz Pedro](../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md)

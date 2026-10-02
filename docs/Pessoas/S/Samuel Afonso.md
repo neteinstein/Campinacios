@@ -10,6 +10,7 @@
 ## Páginas que ligam para aqui
 
 - [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
+- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - [Quantos Somos](../../Acampamentos/2021/Quantos%20Somos.md)
 - [Repeat a História](../../Acampamentos/2025/Repeat%20a%20Hist%C3%B3ria.md)
 - [SPC](../../Acampamentos/2019/SPC.md)

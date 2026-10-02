@@ -1,5 +1,9 @@
 # Sara Moinhos
 
+### Cargos
+
+- 2011/2012 - Membro da [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
+
 ### Acampamentos
 
 - **Participante**
@@ -25,6 +29,7 @@
 
 ## Páginas que ligam para aqui
 
+- [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
 - [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
 - [João Paulo Moinhos](../J/Jo%C3%A3o%20Paulo%20Moinhos.md)
 - [Mergulha](../../Acampamentos/2015/Mergulha.md)

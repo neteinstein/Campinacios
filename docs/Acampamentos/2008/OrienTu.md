@@ -21,7 +21,7 @@ Foi também o primeiro acampamento a promover um serão conjunto entre acampamen
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Maria Ferreira](../../Pessoas/M/Maria%20Cort%C3%AAs%20Ferreira.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Filipe Próspero](../../Pessoas/F/Filipe%20Pr%C3%B3spero.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md) sj
-- [Capelinho](../../Cargos/Capelinho.md) - Filipe Noronha sj
+- [Capelinho](../../Cargos/Capelinho.md) - [Filipe Noronha](../../Pessoas/F/Filipe%20Noronha.md) sj
 - [Tios](../../Cargos/Tio.md) - [Sara Póvoa](../../Pessoas/S/Sara%20P%C3%B3voa.md) e [Elias Oliveira](../../Pessoas/E/Elias%20Oliveira.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Renato Costa](../../Pessoas/R/Renato%20Costa.md) e [Joaquim Abreu](../../Pessoas/J/Joaquim%20Abreu.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Diogo Carneiro](../../Pessoas/D/Diogo%20Jos%C3%A9%20Nunes%20Carneiro.md), [Jonifa](../../Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md), [Ana Luísa Reis](../../Pessoas/A/Ana%20Lu%C3%ADsa%20Reis.md), [Marta Croca](../../Pessoas/M/Marta%20Croca.md), [Madalena Mariz](../../Pessoas/M/Madalena%20Mariz.md) e [Susana Vaz Pedro](../../Pessoas/S/Susana%20Vaz%20Pedro.md)
@@ -51,6 +51,7 @@ O nome veio da junção de "Oriente" e do tema do ano, ou parte dele "Tu"... Ori
 - [Conteúdos](../../Wikin%C3%A1cios/Conte%C3%BAdos.md)
 - [Diogo José Nunes Carneiro](../../Pessoas/D/Diogo%20Jos%C3%A9%20Nunes%20Carneiro.md)
 - [Elias Oliveira](../../Pessoas/E/Elias%20Oliveira.md)
+- [Filipe Noronha](../../Pessoas/F/Filipe%20Noronha.md)
 - [Filipe Próspero](../../Pessoas/F/Filipe%20Pr%C3%B3spero.md)
 - [Joaquim Abreu](../../Pessoas/J/Joaquim%20Abreu.md)
 - [João Freire de Andrade](../../Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md)

@@ -11,6 +11,7 @@
 
 - [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
 - [Dá a volta](../../Acampamentos/2015/D%C3%A1%20a%20volta.md)
+- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - [Revolução](../../Acampamentos/2014/Revolu%C3%A7%C3%A3o.md)
 - [TásCá](../../Acampamentos/2016/T%C3%A1sC%C3%A1.md)
 

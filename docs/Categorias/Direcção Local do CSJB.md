@@ -23,8 +23,8 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 | **2014/2015** | [João Cativo](../Pessoas/J/Jo%C3%A3o%20Captivo.md) | [António Pamplona](../Pessoas/A/Ant%C3%B3nio%20Pamplona.md) sj | — |
 | **2013/2014** | [João Eiró](../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md) | [João Brandão](../Pessoas/J/Jo%C3%A3o%20Brand%C3%A3o.md) sj | [Vasco Neves](../Pessoas/V/Vasco%20Neves.md), [João Cativo](../Pessoas/J/Jo%C3%A3o%20Captivo.md), [Domingos Freire de Andrade](../Pessoas/D/Domingos%20Freire%20de%20Andrade.md) (Duda) |
 | **2012/2013** | — | [João Brandão](../Pessoas/J/Jo%C3%A3o%20Brand%C3%A3o.md) sj | — |
-| **2011/2012** | [Bernardo Caldas](../Pessoas/B/Bernardo%20Caldas.md) | [Andreas Lind](../Pessoas/A/Andreas%20Lind.md) sj | — |
-| **2009/2011** | [Joana Gomes](../Pessoas/J/Joana%20Gomes.md) | [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md) sj | [Jonifa](../Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md), [Edu](../Pessoas/A/Ant%C3%B3nio%20Queiroz%20Martins.md), [Miguel Martins](../Pessoas/M/Miguel%20Monteiro%20Martins.md) |
+| **2011/2012** | [Bernardo Caldas](../Pessoas/B/Bernardo%20Caldas.md) | [Andreas Lind](../Pessoas/A/Andreas%20Lind.md) sj | [Joana Cardim](../Pessoas/J/Joana%20Cardim.md), [Sara Oom](../Pessoas/S/Sara%20Oom.md), [João Eiró](../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md) |
+| **2009/2011** | [Joana Gomes](../Pessoas/J/Joana%20Gomes.md) | [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md) sj / [Andreas Lind](../Pessoas/A/Andreas%20Lind.md) sj | [Jonifa](../Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md), [Edu](../Pessoas/A/Ant%C3%B3nio%20Queiroz%20Martins.md), [Miguel Martins](../Pessoas/M/Miguel%20Monteiro%20Martins.md) |
 | **2008/2009** | [Ricardo Neves](../Pessoas/R/Ricardo%20Neves.md) | [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md) sj | [Filipe Próspero](../Pessoas/F/Filipe%20Pr%C3%B3spero.md) / [Martinho Lucas Pires](../Pessoas/M/Martinho%20Lucas%20Pires.md), [Jonifa](../Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md), [Pedro Snow](../Pessoas/P/Pedro%20Snow.md) |
 | **2007/2008** | [Filipe Próspero](../Pessoas/F/Filipe%20Pr%C3%B3spero.md) | [José da Silva Almeida](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md) sj | [Ricardo Neves](../Pessoas/R/Ricardo%20Neves.md), [Bernardo Narciso](../Pessoas/B/Bernardo%20Narciso.md), [Martinho Lucas Pires](../Pessoas/M/Martinho%20Lucas%20Pires.md) |
 | **2006/2007** | [Francisca Mendes](../Pessoas/F/Francisca%20Mendes.md) | [Nuno Branco](../Pessoas/N/Nuno%20Branco.md) sj | [Pica](../Movimento/Desambigua%C3%A7%C3%A3o/Pica.md), [Filipe Próspero](../Pessoas/F/Filipe%20Pr%C3%B3spero.md), [Ricardo Neves](../Pessoas/R/Ricardo%20Neves.md) |
@@ -124,9 +124,10 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [Carlos Ruiz](../Pessoas/C/Carlos%20Ruiz.md)
 - [Carmo Ribeiro Corrêa](../Pessoas/C/Carmo%20Ribeiro%20Corr%C3%AAa.md)
 - [Constança Pereira da Silva](../Pessoas/C/Constan%C3%A7a%20Pereira%20da%20Silva.md)
-- [CRAC](../Acampamentos/Sem%20data/CRAC.md)
+- [CRAC](../Acampamentos/2000/CRAC.md)
 - [Dinis Braga da Cruz](../Pessoas/D/Dinis%20Braga%20da%20Cruz.md)
 - [Diogo Faria](../Pessoas/D/Diogo%20Faria.md)
+- [Direcção Local do CAIC](Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md)
 - [Eduardo Amaral](../Pessoas/E/Eduardo%20Amaral.md)
 - [Filipa Lynce](../Pessoas/F/Filipa%20Lynce.md)
 - [Filipe Lima](../Pessoas/F/Filipe%20Lima.md)

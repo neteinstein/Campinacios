@@ -32,6 +32,7 @@ Joana Maria da Silva Martins, nascida a 4 de Outubro de 1985, é animadora do CC
 - [TSI](../../Acampamentos/2008/TSI.md)
 - [Xii Tava Kuase Lá...!](../../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md)
 - [Ídolo](../../Acampamentos/2004/%C3%8Ddolo.md)
+- [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
 
 ---
 

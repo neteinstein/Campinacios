@@ -6,4 +6,6 @@ CACAINA é um acrónimo para Conferência de Animação dos CAmpinácios do Inst
 
 | Categorias |
 | --- |
+| [Acampamentos](../../Categorias/Acampamentos.md) |
+| [Acampamentos de 1994](../../Categorias/Acampamentos%20de%201994.md) |
 | [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) |

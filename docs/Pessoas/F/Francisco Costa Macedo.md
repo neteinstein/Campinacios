@@ -8,7 +8,7 @@ Francisco Costa Macedo foi um animador do CSJB. Foi também jesuíta.
 
 ### Cargos
 
-- 1991 Coordenador do [CIFA I](../../Acampamentos/Sem%20data/CIFA%20I.md)
+- 1991 Coordenador do [CIFA I](../../Acampamentos/1991/CIFA%20I.md)
 
 ### Acampamentos
 
@@ -17,9 +17,11 @@ Francisco Costa Macedo foi um animador do CSJB. Foi também jesuíta.
 
 ## Páginas que ligam para aqui
 
-- [CIFA I](../../Acampamentos/Sem%20data/CIFA%20I.md)
+- [CIFA I](../../Acampamentos/1991/CIFA%20I.md)
 - [Concha Líbano Monteiro](../C/Concha%20L%C3%ADbano%20Monteiro.md)
 - [Constância](../../Acampamentos/1991/Const%C3%A2ncia.md)
+- [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
+- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 
 ---
 

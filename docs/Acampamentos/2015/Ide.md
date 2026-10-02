@@ -8,11 +8,12 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [João Eiró](../../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Filipa Caldas](../../Pessoas/F/Filipa%20Caldas.md)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md), Inês Furtado, [Teresa Cortês Ferreira](../../Pessoas/T/Teresa%20Cort%C3%AAs%20Ferreira.md) (Teté), João Maria Regueiras e João Coutinho Magalhães
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md), [Inês Furtado](../../Pessoas/I/In%C3%AAs%20Furtado.md), [Teresa Cortês Ferreira](../../Pessoas/T/Teresa%20Cort%C3%AAs%20Ferreira.md) (Teté), João Maria Regueiras e João Coutinho Magalhães
 
 ## Páginas que ligam para aqui
 
 - [Filipa Caldas](../../Pessoas/F/Filipa%20Caldas.md)
+- [Inês Furtado](../../Pessoas/I/In%C3%AAs%20Furtado.md)
 - [João Eiró](../../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md)
 - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
 - [Miguel França Martins](../../Pessoas/M/Miguel%20Fran%C3%A7a%20Martins.md)

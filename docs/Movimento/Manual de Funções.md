@@ -370,6 +370,7 @@ inicial que é uma adaptação de um texto do Pe. Vasco SJ.
 - [Director](../Cargos/Director.md)
 - [Mamã](../Cargos/Mam%C3%A3.md)
 - [Manual do Director](Manual%20do%20Director.md)
+- [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
 
 ---
 
