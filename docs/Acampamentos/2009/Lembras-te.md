@@ -23,6 +23,7 @@ O Lembras-te? decorreu entre os dias 29 de Julho e 7 de Agosto de 2009 no [Lugar
 - [João Quintela](../../Pessoas/J/Jo%C3%A3o%20Quintela.md)
 - [Paulo Cardoso](../../Pessoas/P/Paulo%20Cardoso.md)
 - [Rui Junqueira](../../Pessoas/R/Rui%20Junqueira.md)
+- [Sara Moinhos](../../Pessoas/S/Sara%20Moinhos.md)
 - [Tiago Gonçalves](../../Pessoas/T/Tiago%20Gon%C3%A7alves.md)
 - [Vasco Vasconcelos](../../Pessoas/V/Vasco%20Vasconcelos.md)
 

@@ -8,6 +8,7 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Rita Fonseca](../../Pessoas/R/Rita%20Fonseca.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Miguel Falcão Ramos](../../Pessoas/M/Miguel%20Falc%C3%A3o%20Ramos.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [António Pamplona](../../Pessoas/A/Ant%C3%B3nio%20Pamplona.md) sj
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Sara Moinhos](../../Pessoas/S/Sara%20Moinhos.md)
 
 ### Participantes
 
@@ -22,6 +23,7 @@
 - [Miguel Falcão Ramos](../../Pessoas/M/Miguel%20Falc%C3%A3o%20Ramos.md)
 - [Ribeira do Conde (Serpins)](../../Restrito/Locais%20de%20Acampamento/Ribeira%20do%20Conde%20%28Serpins%29.md)
 - [Rita Fonseca](../../Pessoas/R/Rita%20Fonseca.md)
+- [Sara Moinhos](../../Pessoas/S/Sara%20Moinhos.md)
 - [Vasco Lucas Pires](../../Pessoas/V/Vasco%20Lucas%20Pires.md)
 
 ---

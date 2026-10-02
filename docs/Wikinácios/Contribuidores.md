@@ -10,7 +10,7 @@ Estes foram os contribuidores que em 2009 ajudaram a criar a Wikinácios:
 - [Nuno Mesquita](../Pessoas/N/Nuno%20Mesquita.md): 1 contribuição
 - [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md): 433 contribuições
 - [Sílvia Lobo](../Pessoas/S/S%C3%ADlvia%20Lobo.md): 5 contribuições
-- [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md): 269 contribuições
+- [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md): 270 contribuições
 - [Vasco Lucas Pires](../Pessoas/V/Vasco%20Lucas%20Pires.md): 38 contribuições
 - Desconhecidos: 6 contribuições
 

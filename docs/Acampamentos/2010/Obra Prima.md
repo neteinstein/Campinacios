@@ -21,6 +21,7 @@ O 'Obra Prima' foi um campo de Formação que decorreu entre os dias 26 Julho e 
 - [Miguel Monteiro Martins](../../Pessoas/M/Miguel%20Monteiro%20Martins.md)
 - [Rui Junqueira](../../Pessoas/R/Rui%20Junqueira.md)
 - [Sara Antunes](../../Pessoas/S/Sara%20Antunes.md)
+- [Sara Moinhos](../../Pessoas/S/Sara%20Moinhos.md)
 - [Sara Rita Sampaio](../../Pessoas/S/Sara%20Rita%20Sampaio.md)
 - [Sílvia Lobo](../../Pessoas/S/S%C3%ADlvia%20Lobo.md)
 - [Tomás Silva](../../Pessoas/T/Tom%C3%A1s%20Silva.md)

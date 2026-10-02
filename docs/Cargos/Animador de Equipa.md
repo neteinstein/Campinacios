@@ -136,6 +136,7 @@
 - [Diogo Reis](../Pessoas/D/Diogo%20Reis.md)
 - [Diogo Torcato](../Pessoas/D/Diogo%20Torcato.md)
 - [Duarte Dias](../Pessoas/D/Duarte%20Dias.md)
+- [Ed mais 10](../Acampamentos/2010/Ed%20mais%2010.md)
 - [Eduardo Lima](../Pessoas/E/Eduardo%20Lima.md)
 - [Eduardo Rodrigues](../Pessoas/E/Eduardo%20Rodrigues.md)
 - [Elias Oliveira](../Pessoas/E/Elias%20Oliveira.md)
