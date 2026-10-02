@@ -21,7 +21,7 @@ O Piripetroporco foi um acampamento de Trotinetas que decorreu de 4 a 13 de Agos
 - [Diogo José Oliveira Cerejeira Carneiro](../../Pessoas/D/Diogo%20Jos%C3%A9%20Oliveira%20Cerejeira%20Carneiro.md)
 - [Filipa Caldas](../../Pessoas/F/Filipa%20Caldas.md)
 - [Filipa Granado](../../Pessoas/F/Filipa%20Granado.md)
-- [Francisco Silva](../../Pessoas/F/Francisco%20Silva.md)
+- [Francisco Silva (Kiko)](../../Pessoas/F/Francisco%20Silva%20%28Kiko%29.md)
 - [Irina Ramos](../../Pessoas/I/Irina%20Ramos.md)
 - [Joana Cardoso](../../Pessoas/J/Joana%20Cardoso.md)
 - [Joana Ferreira da Silva](../../Pessoas/J/Joana%20Ferreira%20da%20Silva.md)

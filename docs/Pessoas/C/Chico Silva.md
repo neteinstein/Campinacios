@@ -1,6 +1,6 @@
 # Chico Silva
 
-*Nota: Este artigo é sobre Chico Silva, dos acampamentos de 2022 e 2024. Se procura Francisco Silva («Kiko»), animador do CC desde 2006, consulte [Francisco Silva](../F/Francisco%20Silva.md).*
+*Nota: Este artigo é sobre Chico Silva, dos acampamentos de 2022 e 2024. Há outras pessoas chamadas Francisco Silva: ver [Francisco Silva](../../Movimento/Desambigua%C3%A7%C3%A3o/Francisco%20Silva.md).*
 
 ### Acampamentos
 
@@ -17,7 +17,7 @@
 - [Com Capricho](../../Acampamentos/2024/Com%20Capricho.md)
 - [Encontro Nacional 2023](../../Encontros/Encontro%20Nacional%202023.md)
 - [Foca-te](../../Acampamentos/2022/Foca-te.md)
-- [Francisco Silva](../F/Francisco%20Silva.md)
+- [Francisco Silva](../../Movimento/Desambigua%C3%A7%C3%A3o/Francisco%20Silva.md)
 
 ---
 

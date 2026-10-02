@@ -161,7 +161,7 @@
 - [Francisco Almeida (Kiko)](../Pessoas/F/Francisco%20Almeida%20%28Kiko%29.md)
 - [Francisco Carvalho](../Pessoas/F/Francisco%20Carvalho.md)
 - [Francisco Maria](../Pessoas/F/Francisco%20Maria.md)
-- [Francisco Silva](../Pessoas/F/Francisco%20Silva.md)
+- [Francisco Silva (Kiko)](../Pessoas/F/Francisco%20Silva%20%28Kiko%29.md)
 - [Francisco Silva Rodrigues](../Pessoas/F/Francisco%20Silva%20Rodrigues.md)
 - [Francisco Xavier](../Pessoas/F/Francisco%20Xavier.md)
 - [Gaivota](../Acampamentos/2005/Gaivota.md)

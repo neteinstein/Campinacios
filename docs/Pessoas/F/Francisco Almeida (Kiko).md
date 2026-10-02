@@ -1,5 +1,7 @@
 # Francisco Almeida (Kiko)
 
+*Nota: Este artigo é sobre Francisco Almeida («Kiko»), antigo animador do CSJB. Se procura Francisco Silva («Kiko»), animador do CC desde 2006, consulte [Francisco Silva (Kiko)](../F/Francisco%20Silva%20%28Kiko%29.md).*
+
 ### Acampamentos
 
 - **Animador**
@@ -12,6 +14,7 @@
 - [Cabala](../../Acampamentos/2003/Cabala.md)
 - [Cinena](../../Acampamentos/2001/Cinena.md)
 - [Francisco Almeida](../../Movimento/Desambigua%C3%A7%C3%A3o/Francisco%20Almeida.md)
+- [Francisco Silva (Kiko)](../F/Francisco%20Silva%20%28Kiko%29.md)
 - [Ninja Por Não Estar](../../Acampamentos/2002/Ninja%20Por%20N%C3%A3o%20Estar.md)
 
 ---
