@@ -1,6 +1,7 @@
 # Cantinácio: Cânticos
 
 [![Capa da secção «Cânticos»: velas acesas, sobre fundo azul escuro](../../assets/imagens/Cantin%C3%A1cio%202019/p127.jpg){ width="300" }](../../assets/imagens/Cantin%C3%A1cio%202019/p127.jpg)
+
 *Capa da secção «Cânticos» do Cantinácio 2019 (3.ª edição), com ilustração de [Francisco Rodrigues (Pica)](../../Pessoas/F/Francisco%20Silva%20Rodrigues.md).*
 
 Cânticos religiosos para as eucaristias, orações e momentos de reflexão.

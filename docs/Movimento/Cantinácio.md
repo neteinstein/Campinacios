@@ -1,6 +1,7 @@
 # Cantinácio
 
 [![Capa do Cantinácio de 2019: uma guitarra amarela coberta de autocolantes](../assets/imagens/Cantin%C3%A1cio%202019/p001.jpg){ width="250" }](../assets/imagens/Cantin%C3%A1cio%202019/p001.jpg)
+
 *Capa do Cantinácio 2019 (3.ª edição), com ilustração de [Francisco Rodrigues (Pica)](../Pessoas/F/Francisco%20Silva%20Rodrigues.md).*
 
 Reúne músicas e canções dos Campinácios e não só.
