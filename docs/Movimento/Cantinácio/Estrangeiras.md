@@ -1,6 +1,7 @@
 # Cantinácio: Estrangeiras
 
 [![Capa da secção «Da França, Espanha, tudo»: cantor de cabelo comprido a gritar, sobre fundo amarelo](../../assets/imagens/Cantin%C3%A1cio%202019/p041.jpg){ width="300" }](../../assets/imagens/Cantin%C3%A1cio%202019/p041.jpg)
+
 *Capa da secção «Da França, Espanha, tudo» do Cantinácio 2019 (3.ª edição), com ilustração de [Francisco Rodrigues (Pica)](../../Pessoas/F/Francisco%20Silva%20Rodrigues.md).*
 
 Músicas estrangeiras, sobretudo em inglês, para cantar à fogueira.
