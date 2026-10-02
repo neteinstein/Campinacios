@@ -27,6 +27,10 @@
 
 É filha do [João Paulo Moinhos](../J/Jo%C3%A3o%20Paulo%20Moinhos.md)
 
+### Cantinácio
+
+Pesquisa e edição do [Cantinácio](../../Movimento/Cantin%C3%A1cio.md) de 2019 (3.ª edição).
+
 ---
 
 | Categorias |

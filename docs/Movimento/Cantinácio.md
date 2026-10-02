@@ -1,17 +1,28 @@
 # Cantinácio
 
+[![Capa do Cantinácio de 2019: uma guitarra amarela coberta de autocolantes](../assets/imagens/Cantin%C3%A1cio%202019/p001.jpg){ width="250" }](../assets/imagens/Cantin%C3%A1cio%202019/p001.jpg)
+*Capa do Cantinácio 2019 (3.ª edição), com ilustração de [Francisco Rodrigues (Pica)](../Pessoas/F/Francisco%20Rodrigues%20%28Pica%29.md).*
+
 Reúne músicas e canções dos Campinácios e não só.
 
-Um novo Cantinácio foi lançado após anos e anos de tentativas, as músicas abaixo podem não reflectir essa nova versão.
+Um novo Cantinácio foi lançado após anos e anos de tentativas: a 3.ª edição, de 2019, com pesquisa e edição de [Sara Moinhos](../Pessoas/S/Sara%20Moinhos.md), ilustrações de [Francisco Rodrigues (Pica)](../Pessoas/F/Francisco%20Rodrigues%20%28Pica%29.md) e coordenação e assistência de [Francisca Pimentel](../Pessoas/F/Francisca%20Pimentel.md).
 
-## Letras e acordes (639 músicas)
+## Manual de Instruções
 
-- [Cânticos](Cantin%C3%A1cio/C%C3%A2nticos.md) — 216 cânticos para as eucaristias e orações
+O [Manual de Instruções](Cantin%C3%A1cio/Manual%20de%20Instru%C3%A7%C3%B5es.md) do Cantinácio de 2019 explica como ler acordes e tocar guitarra, e traz as tabelas de acordes para guitarra e ukelele.
+
+## Letras e acordes
+
+As músicas do Cantinácio de 2019 (3.ª edição) foram juntadas às que já estavam no Wikinácios. Quando uma música já existia e a versão de 2019 é diferente, as duas aparecem, uma a seguir à outra.
+
+- [Cânticos](Cantin%C3%A1cio/C%C3%A2nticos.md) — 260 cânticos para as eucaristias e orações
+- [Portuguesas](Cantin%C3%A1cio/Portuguesas.md) — 214 músicas portuguesas
+- [Estrangeiras](Cantin%C3%A1cio/Estrangeiras.md) — 226 músicas estrangeiras
+- [Músicas de Campo](Cantin%C3%A1cio/M%C3%BAsicas%20de%20Campo.md) — 52 músicas para cantar nos acampamentos
 - [Camtil](Cantin%C3%A1cio/Camtil.md) — 70 músicas nascidas nos acampamentos
 - [Campinácios](Cantin%C3%A1cio/Campin%C3%A1cios.md) — 22 músicas nascidas nos acampamentos
 - [Gambozinos](Cantin%C3%A1cio/Gambozinos.md) — 1 música nascida nos acampamentos
-- [Portuguesas](Cantin%C3%A1cio/Portuguesas.md) — 143 músicas portuguesas
-- [Estrangeiras](Cantin%C3%A1cio/Estrangeiras.md) — 187 músicas estrangeiras
+- [Aplausos](Cantin%C3%A1cio/Aplausos.md) — 134 palmas, aplausos e gritos de roda
 - [Escalas](Cantin%C3%A1cio/Escalas.md) — como mudar uma música de tom
 
 ## Gravações

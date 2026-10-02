@@ -2,6 +2,10 @@
 
 *Nota: Este artigo é sobre Francisco Rodrigues (Pica), animador do CSJB. Há outras pessoas chamadas Francisco Rodrigues: ver [Francisco Rodrigues](../../Movimento/Desambigua%C3%A7%C3%A3o/Francisco%20Rodrigues.md).*
 
+### Cantinácio
+
+Ilustrações do [Cantinácio](../../Movimento/Cantin%C3%A1cio.md) de 2019 (3.ª edição).
+
 ---
 
 | Categorias |
