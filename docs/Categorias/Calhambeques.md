@@ -17,12 +17,6 @@ Retomou-se assim em 2011 o escalão, com o "primeiro" campo a chamar-se [Esperan
 - [Esperança](../Acampamentos/2011/Esperan%C3%A7a.md)
 - [Quinta da Gorda](../Acampamentos/1993/Quinta%20da%20Gorda.md)
 
-## Páginas que ligam para aqui
-
-- [Calhambeques 90](../Acampamentos/1990/Calhambeques%2090.md)
-- [Calhambeques 91](../Acampamentos/1991/Calhambeques%2091.md)
-- [Esperança](../Acampamentos/2011/Esperan%C3%A7a.md)
-
 ---
 
 | Categorias |

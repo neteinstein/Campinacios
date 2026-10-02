@@ -6,10 +6,6 @@
 
 - [Director](../../Cargos/Director.md) - [Miguel Carneiro](../../Pessoas/M/Miguel%20Carneiro.md)
 
-## Páginas que ligam para aqui
-
-- [Miguel Carneiro](../../Pessoas/M/Miguel%20Carneiro.md)
-
 ---
 
 | Categorias |

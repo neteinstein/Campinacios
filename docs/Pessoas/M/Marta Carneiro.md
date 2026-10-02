@@ -30,20 +30,6 @@ Marta Oliveira Cerejeira Carneiro, nascida a 30 de Janeiro de 1982 é desde 1999
 
 É irmã do [Diogo Carneiro](../D/Diogo%20Jos%C3%A9%20Oliveira%20Cerejeira%20Carneiro.md).
 
-## Páginas que ligam para aqui
-
-- [Baúmerang](../../Acampamentos/2007/Ba%C3%BAmerang.md)
-- [Diogo José Oliveira Cerejeira Carneiro](../D/Diogo%20Jos%C3%A9%20Oliveira%20Cerejeira%20Carneiro.md)
-- [Gaivota](../../Acampamentos/2005/Gaivota.md)
-- [Gipsy Kings](../../Acampamentos/1999/Gipsy%20Kings.md)
-- [Metrópole](../../Acampamentos/2004/Metr%C3%B3pole.md)
-- [Piripetroporco](../../Acampamentos/2002/Piripetroporco.md)
-- [Tem Bicho Zweitausend](../../Acampamentos/2000/Tem%20Bicho%20Zweitausend.md)
-- [Tira as rodinhas](../../Acampamentos/2009/Tira%20as%20rodinhas.md)
-- [TufarfarAway](../../Acampamentos/2008/TufarfarAway.md)
-- [Waaassuuup](../../Acampamentos/2001/Waaassuuup.md)
-- [Xii Tava Kuase Lá...!](../../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md)
-
 ---
 
 | Categorias |

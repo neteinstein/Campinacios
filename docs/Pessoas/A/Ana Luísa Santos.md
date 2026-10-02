@@ -7,11 +7,6 @@ Ana Luísa Santos foi uma dos animadoras do Colégio da Imaculada Conceição.
 - **Animadora:**
     - 1997 [Aranha](../../Acampamentos/1997/Aranha.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
-## Páginas que ligam para aqui
-
-- [Aranha](../../Acampamentos/1997/Aranha.md)
-- [Encontro de Lambretas 94](../../Encontros/Encontro%20de%20Lambretas%2094.md)
-
 ---
 
 | Categorias |

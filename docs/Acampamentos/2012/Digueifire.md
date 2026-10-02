@@ -6,11 +6,6 @@
 
 - [Director](../../Cargos/Director.md) - [Bernardo Caldas](../../Pessoas/B/Bernardo%20Caldas.md)
 
-## Páginas que ligam para aqui
-
-- [Bernardo Caldas](../../Pessoas/B/Bernardo%20Caldas.md)
-- [Digueifel (Arganil)](../../Restrito/Locais%20de%20Acampamento/Digueifel%20%28Arganil%29.md)
-
 ---
 
 | Categorias |

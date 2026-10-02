@@ -11,11 +11,6 @@
 - 2021 [Encontro Nacional 2021](../../Encontros/Encontro%20Nacional%202021.md) - Organização
 - 2024 [Encontro Nacional 2024](../../Encontros/Encontro%20Nacional%202024.md) - Director-Adjunto
 
-## Páginas que ligam para aqui
-
-- [Encontro Nacional 2021](../../Encontros/Encontro%20Nacional%202021.md)
-- [Encontro Nacional 2024](../../Encontros/Encontro%20Nacional%202024.md)
-
 ---
 
 **Outros nomes:** Johnny

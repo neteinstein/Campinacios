@@ -10,14 +10,6 @@
 
 - 2024 [Encontro Nacional 2024](../../Encontros/Encontro%20Nacional%202024.md) - Director de Bicicletas
 
-## Páginas que ligam para aqui
-
-- [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
-- [Encontro Nacional 2024](../../Encontros/Encontro%20Nacional%202024.md)
-- [Xiè-Xiè Kung Fa](../../Acampamentos/2026/Xi%C3%A8-Xi%C3%A8%20Kung%20Fa.md)
-- [À Brava](../../Acampamentos/2025/%C3%80%20Brava.md)
-- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
-
 ---
 
 | Categorias |

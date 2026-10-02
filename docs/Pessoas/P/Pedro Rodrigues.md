@@ -17,11 +17,6 @@ Pedro Rodrigues foi de 2004 a 2006 um dos animadores do Colégio da Imaculada Co
 
 É filho do [Francisco Rodrigues](../F/Francisco%20Rodrigues%20%28CAIC%29.md).
 
-## Páginas que ligam para aqui
-
-- [Academia](../../Acampamentos/2005/Academia.md)
-- [Francisco Rodrigues (CAIC)](../F/Francisco%20Rodrigues%20%28CAIC%29.md)
-
 ---
 
 **Outros nomes:** Pedro Teixeira Rodrigues

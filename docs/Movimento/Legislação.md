@@ -436,7 +436,3 @@ O Presidente da República, JORGE SAMPAIO.
 
 Referendado em 30 de Novembro de 2002.
 O Primeiro-Ministro, José Manuel Durão Barroso.
-
-## Páginas que ligam para aqui
-
-- [Manual do Director](Manual%20do%20Director.md)

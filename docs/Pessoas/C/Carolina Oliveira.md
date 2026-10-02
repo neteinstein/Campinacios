@@ -12,14 +12,6 @@
 
 - 2019 [Encontro Nacional 2019](../../Encontros/Encontro%20Nacional%202019.md) - Responsável de Trotinetas
 
-## Páginas que ligam para aqui
-
-- [A Ir e Falta o S](../../Acampamentos/2018/A%20Ir%20e%20Falta%20o%20S.md)
-- [EmCena](../../Acampamentos/2022/EmCena.md)
-- [Encontro Nacional 2019](../../Encontros/Encontro%20Nacional%202019.md)
-- [SimBasta](../../Acampamentos/2019/SimBasta.md)
-- [Supera-te](../../Acampamentos/2017/Supera-te.md)
-
 ---
 
 | Categorias |

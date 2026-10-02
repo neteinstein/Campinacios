@@ -17,14 +17,6 @@
     - 1993 [Porto da Balsa 93](../../Acampamentos/1993/Porto%20da%20Balsa%2093.md) - [Director](../../Cargos/Director.md)
     - 1994 [Florinhas](../../Acampamentos/1994/Florinhas.md) - [Director](../../Cargos/Director.md)
 
-## Páginas que ligam para aqui
-
-- [Campinácios](../../Movimento/Campin%C3%A1cios.md)
-- [Constância](../../Acampamentos/1991/Const%C3%A2ncia.md)
-- [Florinhas](../../Acampamentos/1994/Florinhas.md)
-- [Porto da Balsa 92](../../Acampamentos/1992/Porto%20da%20Balsa%2092.md)
-- [Porto da Balsa 93](../../Acampamentos/1993/Porto%20da%20Balsa%2093.md)
-
 ---
 
 | Categorias |

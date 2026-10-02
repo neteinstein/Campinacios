@@ -11,13 +11,6 @@
     - 2007 [Diz Que Sim](../../Acampamentos/2007/Diz%20Que%20Sim.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2008 [Êxodo](../../Acampamentos/2008/%C3%8Axodo.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
-## Páginas que ligam para aqui
-
-- [Diz Que Sim](../../Acampamentos/2007/Diz%20Que%20Sim.md)
-- [Metrópole](../../Acampamentos/2004/Metr%C3%B3pole.md)
-- [XS](../../Acampamentos/2006/XS.md)
-- [Êxodo](../../Acampamentos/2008/%C3%8Axodo.md)
-
 ---
 
 | Categorias |

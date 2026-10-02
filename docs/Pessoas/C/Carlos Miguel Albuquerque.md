@@ -25,18 +25,6 @@ Carlos Miguel Correia de Albuquerque, mais conhecido por Cami, nascido a 4 de Ma
     - 2008 [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md) - [Director](../../Cargos/Director.md)
     - 2010 [Obra Prima](../../Acampamentos/2010/Obra%20Prima.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
 
-## Páginas que ligam para aqui
-
-- [Bora Bora](../../Acampamentos/2007/Bora%20Bora.md)
-- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
-- [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md)
-- [Falésia](../../Acampamentos/2005/Fal%C3%A9sia.md)
-- [Megafona](../../Acampamentos/2005/Megafona.md)
-- [Obra Prima](../../Acampamentos/2010/Obra%20Prima.md)
-- [Origami](../../Acampamentos/2006/Origami.md)
-- [Patos](../../Acampamentos/2004/Patos.md)
-- [Pimpolhos](../../Acampamentos/2003/Pimpolhos.md)
-
 ---
 
 **Outros nomes:** Cami

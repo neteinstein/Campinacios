@@ -26,21 +26,6 @@ Vítor Rafael Machado Fernandes, nascido a 2 de Setembro de 1982 é animador do 
     - 2010 [PaKasaDele](../../Acampamentos/2010/PaKasaDele.md) - [Director](../../Cargos/Director.md)
     - 2011 [Pescanova](../../Acampamentos/2011/Pescanova.md)
 
-## Páginas que ligam para aqui
-
-- [Baúmerang](../../Acampamentos/2007/Ba%C3%BAmerang.md)
-- [Descola](../../Acampamentos/2004/Descola.md)
-- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
-- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
-- [Era Uma Vez...](../../Acampamentos/2008/Era%20Uma%20Vez....md)
-- [Gaivota](../../Acampamentos/2005/Gaivota.md)
-- [PaKasaDele](../../Acampamentos/2010/PaKasaDele.md)
-- [Pescanova](../../Acampamentos/2011/Pescanova.md)
-- [Pontes](../../Acampamentos/2001/Pontes.md)
-- [Rastilho](../../Acampamentos/2003/Rastilho.md)
-- [Tira as rodinhas](../../Acampamentos/2009/Tira%20as%20rodinhas.md)
-- [Xii Tava Kuase Lá...!](../../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md)
-
 ---
 
 **Outros nomes:** Vitor Fernandes

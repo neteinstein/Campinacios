@@ -11,11 +11,6 @@
     - 2004 [Trolliciclos](../../Acampamentos/2004/Trolliciclos.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2006 [Origami](../../Acampamentos/2006/Origami.md) - [Tio](../../Cargos/Tio.md)
 
-## Páginas que ligam para aqui
-
-- [Origami](../../Acampamentos/2006/Origami.md)
-- [Trolliciclos](../../Acampamentos/2004/Trolliciclos.md)
-
 ---
 
 | Categorias |

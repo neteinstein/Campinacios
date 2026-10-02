@@ -15,12 +15,6 @@ Diogo José Oliveira Cerejeira Carneiro, nasceu a 23 de Outubro de 1984 e é ani
 
 É irmão da [Marta Carneiro](../M/Marta%20Carneiro.md).
 
-## Páginas que ligam para aqui
-
-- [Diogo Carneiro](../../Movimento/Desambigua%C3%A7%C3%A3o/Diogo%20Carneiro.md)
-- [Marta Carneiro](../M/Marta%20Carneiro.md)
-- [Piripetroporco](../../Acampamentos/2002/Piripetroporco.md)
-
 ---
 
 | Categorias |

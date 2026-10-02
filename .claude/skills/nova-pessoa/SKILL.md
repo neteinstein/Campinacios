@@ -66,8 +66,9 @@ them are this person when the name is common.
   the "nomes alternativos" count.
 - Plain-text mentions the user confirmed become links.
 - On the person's page, add the camp to the list (`    - <ano> [Camp](…)`
-  under **Participante**, or `… - [Cargo](…)` under **Animador/Animadora**)
-  and to `## Páginas que ligam para aqui` (sorted by title).
+  under **Participante**, or `… - [Cargo](…)` under **Animador/Animadora**).
+  Depois corra `pessoas.py secoes` (ver "Listas geradas", no fim): as
+  listas dos cargos e dos campos escrevem-se sozinhas.
   Na página do **campo**, um Animador Livre ou de Equipa novo junta-se à
   linha única do seu cargo ("Animadores Livres - A, B e C"), passando o
   cargo para o plural se antes era só um; nunca se abre uma linha por
@@ -105,8 +106,7 @@ them are this person when the name is common.
 `docs/Pessoas/<inicial>/<Nome>.md` (initial without accent: Á → A), shaped
 like `docs/Pessoas/J/João Eiró.md`: `# Nome`, the note if any, an intro if
 given, `### Acampamentos` with **Participante** / **Formação** /
-**Animador(a)** lists, `## Páginas que ligam para aqui` (the pages that now
-link here), then the footer `---` and `| Categorias |` table (Animadores,
+**Animador(a)** lists, then the footer `---` and `| Categorias |` table (Animadores,
 Animadores do <colégio> if known, Jesuítas…). Then list it: the letter's
 `index.md` (sorted), its count in `docs/Pessoas/index.md`, each category's
 `## Páginas nesta categoria (N)` (sorted, N+1), `docs/Todos os artigos.md`
@@ -126,8 +126,7 @@ mkdocs build --strict
 `reciprocas` verifica as páginas que mexeu (ou todas, com `--todos`):
 quem a página de uma pessoa diz ter sido animador num campo tem de estar
 na equipa desse campo, quem está na equipa de um campo tem de o ter em
-`### Acampamentos`, e cada um tem de estar em "Páginas que ligam para
-aqui" do outro. Uma ligação para uma página de desambiguação na equipa de
+`### Acampamentos`. Uma ligação para uma página de desambiguação na equipa de
 um campo também falha: aponte-a para a pessoa. Quem foi **Participante**
 ou esteve em **Formação** não tem de aparecer no campo, porque os campos
 só listam a equipa.
@@ -138,6 +137,30 @@ again to see that the camps now link the right page. If camps changed, also
 run the `novo-acampamento` validator. `verificar --todos` checks everyone;
 pairs the original wiki already had are in `legado.txt` and don't fail —
 never add a new pair there.
+
+## Listas geradas
+
+Já não há "Páginas que ligam para aqui" em nenhuma página. Só duas listas
+se escrevem a partir das páginas das pessoas, antes do rodapé:
+
+- **"Pessoas com este cargo"**, em cada página de `docs/Cargos/`: só
+  pessoas (nunca campos), todas as que ligam para o cargo em qualquer sítio
+  da sua página;
+- **"Participantes que se tornaram animadores"**, nos campos: as pessoas
+  com a categoria Animadores que têm o campo em **Participante** ou
+  **Formação** (quem foi animador do campo está na equipa, não aqui). Um
+  campo sem ninguém assim não tem a secção.
+
+Não se escrevem à mão: depois de mexer numa pessoa, num cargo ou num campo,
+corra
+
+```sh
+python3 .claude/skills/nova-pessoa/scripts/pessoas.py secoes
+```
+
+(muda só as páginas que mudam, e tira a antiga "Páginas que ligam para
+aqui" dessas páginas). `reciprocas` falha se uma destas listas estiver
+desactualizada ou se ainda existir a secção antiga.
 
 Finally tell the user who was linked to whom, which pages were created or
 got a note, and which names stayed plain text.

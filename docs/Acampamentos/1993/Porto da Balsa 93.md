@@ -7,11 +7,6 @@ Este acampamento de Lambretas realizou-se em [Porto da Balsa](../../Restrito/Loc
 - [Director](../../Cargos/Director.md) - [Rodrigo Queiroz e Melo](../../Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Jorge Moreira](../../Pessoas/J/Jorge%20Moreira.md) sj
 
-## Páginas que ligam para aqui
-
-- [Jorge Moreira](../../Pessoas/J/Jorge%20Moreira.md)
-- [Rodrigo Queiroz e Melo](../../Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md)
-
 ---
 
 | Categorias |

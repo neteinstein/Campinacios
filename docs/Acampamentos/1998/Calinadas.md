@@ -9,18 +9,9 @@
 - [Tias](../../Cargos/Tio.md) - [Majó](../../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - Inês, Pedro, [António Pedro](../../Pessoas/A/Ant%C3%B3nio%20Pedro.md), [Gonçalo Frade](../../Pessoas/G/Gon%C3%A7alo%20Frade.md), [Andreia Mendes](../../Pessoas/A/Andreia%20Mendes.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [Andreia Mendes](../../Pessoas/A/Andreia%20Mendes.md)
-- [António Pedro](../../Pessoas/A/Ant%C3%B3nio%20Pedro.md)
-- [Carlos Carneiro](../../Pessoas/C/Carlos%20Carneiro.md)
-- [Gonçalo Frade](../../Pessoas/G/Gon%C3%A7alo%20Frade.md)
-- [José Augusto Rosa](../../Pessoas/J/Jos%C3%A9%20Augusto%20Rosa.md)
-- [José da Silva Almeida](../../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
-- [João Currais](../../Pessoas/J/Jo%C3%A3o%20Currais.md)
-- [Maria João Simões](../../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
 - [Renato Lopes](../../Pessoas/R/Renato%20Lopes.md)
-- [Rita Feijó](../../Pessoas/R/Rita%20Feij%C3%B3.md)
 
 ---
 

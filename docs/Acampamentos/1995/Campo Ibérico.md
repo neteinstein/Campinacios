@@ -13,12 +13,6 @@ Não se chegou a realizar nestes moldes por falta de adesão dos Colégios espan
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [José Araújo](../../Pessoas/J/Jos%C3%A9%20Ara%C3%BAjo.md) sj
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Gustavo Gapo](../../Pessoas/G/Gustavo%20Gapo.md)
 
-## Páginas que ligam para aqui
-
-- [Carlos Ruiz](../../Pessoas/C/Carlos%20Ruiz.md)
-- [Gustavo Gapo](../../Pessoas/G/Gustavo%20Gapo.md)
-- [José Araújo](../../Pessoas/J/Jos%C3%A9%20Ara%C3%BAjo.md)
-
 ---
 
 | Categorias |

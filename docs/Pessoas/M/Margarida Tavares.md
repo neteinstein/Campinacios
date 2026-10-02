@@ -18,15 +18,6 @@
 - 2023 [Encontro Nacional 2023](../../Encontros/Encontro%20Nacional%202023.md) - Mamã
 - 2024 [Encontro Nacional 2024](../../Encontros/Encontro%20Nacional%202024.md) - Directora de Triciclos
 
-## Páginas que ligam para aqui
-
-- [Com Capricho](../../Acampamentos/2024/Com%20Capricho.md)
-- [Encontro Nacional 2023](../../Encontros/Encontro%20Nacional%202023.md)
-- [Encontro Nacional 2024](../../Encontros/Encontro%20Nacional%202024.md)
-- [Limpo Pó](../../Acampamentos/2022/Limpo%20P%C3%B3.md)
-- [Pó que Voo](../../Acampamentos/2023/P%C3%B3%20que%20Voo.md)
-- [Repeat a História](../../Acampamentos/2025/Repeat%20a%20Hist%C3%B3ria.md)
-
 ---
 
 **Outros nomes:** Mogui · Mógui

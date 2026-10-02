@@ -22,18 +22,6 @@ Joana Maria da Silva Martins, nascida a 4 de Outubro de 1985, é animadora do CC
     - 2008 [TSI](../../Acampamentos/2008/TSI.md) - [Tia](../../Cargos/Tio.md)
     - 2009 [Caminho](../../Acampamentos/2009/Caminho.md) - [Tia](../../Cargos/Tio.md)
 
-## Páginas que ligam para aqui
-
-- [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
-- [Caminho](../../Acampamentos/2009/Caminho.md)
-- [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md)
-- [Gaivota](../../Acampamentos/2005/Gaivota.md)
-- [OPA](../../Acampamentos/2007/OPA.md)
-- [TSI](../../Acampamentos/2008/TSI.md)
-- [Xii Tava Kuase Lá...!](../../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md)
-- [Ídolo](../../Acampamentos/2004/%C3%8Ddolo.md)
-- [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
-
 ---
 
 **Outros nomes:** Caramela

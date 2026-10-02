@@ -10,13 +10,9 @@
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - [Fernando Monteiro](../../Pessoas/F/Fernando%20Monteiro.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [António Pamplona](../../Pessoas/A/Ant%C3%B3nio%20Pamplona.md) sj
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [António Pamplona](../../Pessoas/A/Ant%C3%B3nio%20Pamplona.md)
-- [Fernando Monteiro](../../Pessoas/F/Fernando%20Monteiro.md)
-- [Manuel Costa](../../Pessoas/M/Manuel%20Costa.md)
-- [Rafa Mano](../../Pessoas/R/Rafa%20Mano.md)
-- [Francisca Veloso](../../Pessoas/F/Francisca%20Veloso.md)
+- [Zé Guedes](../../Pessoas/Z/Z%C3%A9%20Guedes.md)
 
 ---
 

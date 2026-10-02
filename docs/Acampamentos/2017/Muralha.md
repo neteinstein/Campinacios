@@ -6,9 +6,9 @@
 
 - [Director](../../Cargos/Director.md) - [Afonso Oom](../../Pessoas/A/Afonso%20Oom.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [Afonso Oom](../../Pessoas/A/Afonso%20Oom.md)
+- [Nuno Ferreira](../../Pessoas/N/Nuno%20Ferreira.md)
 
 ---
 

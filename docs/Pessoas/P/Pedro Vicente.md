@@ -73,31 +73,6 @@ E rever antigos amigos e fazer novos no encontro nacional… já com os campos �
 
 Respondendo à pergunta inicial… ganhei tudo… o que é importante pelo menos.
 
-## Páginas que ligam para aqui
-
-- [Caderno de Jogos](../../Movimento/Caderno%20de%20Jogos.md)
-- [Calhambeques](../../Categorias/Calhambeques.md)
-- [Caminho](../../Acampamentos/2009/Caminho.md)
-- [Campinácios](../../Movimento/Campin%C3%A1cios.md)
-- [Conteúdos](../../Wikin%C3%A1cios/Conte%C3%BAdos.md)
-- [Contribuidores](../../Wikin%C3%A1cios/Contribuidores.md)
-- [Diogo Costa](../D/Diogo%20Costa.md)
-- [Encontro Nacional 2007](../../Encontros/Encontro%20Nacional%202007.md)
-- [Encontro Nacional de Animadores 2007](../../Encontros/Encontro%20Nacional%20de%20Animadores%202007.md)
-- [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md)
-- [Filipe Barroso](../F/Filipe%20Barroso.md)
-- [Gaivota](../../Acampamentos/2005/Gaivota.md)
-- [Limpopolus](../../Acampamentos/2012/Limpopolus.md)
-- [Long Tao](../../Acampamentos/2006/Long%20Tao.md)
-- [Manual de Funções](../../Movimento/Manual%20de%20Fun%C3%A7%C3%B5es.md)
-- [Manual do Director](../../Movimento/Manual%20do%20Director.md)
-- [Online](../../Movimento/Online.md)
-- [OPA](../../Acampamentos/2007/OPA.md)
-- [OrienTu](../../Acampamentos/2008/OrienTu.md)
-- [Patos](../../Acampamentos/2004/Patos.md)
-- [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
-- [Walkabout](../../Acampamentos/2010/Walkabout.md)
-
 ---
 
 | Categorias |

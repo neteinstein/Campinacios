@@ -9,10 +9,6 @@ Joana Trigo da Roza, antiga aluna do S. João de Brito é animadora dos Campiná
 - **Animadora:**
     - 2011 [Pescanova](../../Acampamentos/2011/Pescanova.md)
 
-## Páginas que ligam para aqui
-
-- [Pescanova](../../Acampamentos/2011/Pescanova.md)
-
 ---
 
 | Categorias |

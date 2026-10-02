@@ -18,14 +18,6 @@ Teresa Maria Osório Dias dos Santos, nascida a 24 de Março de 1983, é animado
 
 É casada com o [Pedro Pinheiro](../P/Pedro%20Pinheiro.md).
 
-## Páginas que ligam para aqui
-
-- [Calhambeques](../../Categorias/Calhambeques.md)
-- [Farol](../../Acampamentos/2003/Farol.md)
-- [Fófinhos](../../Acampamentos/2005/F%C3%B3finhos.md)
-- [Pedro Pinheiro](../P/Pedro%20Pinheiro.md)
-- [Ídolo](../../Acampamentos/2004/%C3%8Ddolo.md)
-
 ---
 
 **Outros nomes:** Teresa Pinheiro

@@ -8,10 +8,6 @@
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - Samuel Beirão sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - Samuel Afonso sj
 
-## Páginas que ligam para aqui
-
-- [Pedro Pinto](../../Pessoas/P/Pedro%20Pinto.md)
-
 ---
 
 | Categorias |

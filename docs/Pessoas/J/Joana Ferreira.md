@@ -17,14 +17,6 @@ Joana Ferreira é desde 1999, um das animadoras do Colégio da Imaculada Concei�
     - 2004 [Patos](../../Acampamentos/2004/Patos.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2006 [Origami](../../Acampamentos/2006/Origami.md) - [Tia](../../Cargos/Tio.md)
 
-## Páginas que ligam para aqui
-
-- [Génesis 2003 d.C.](../../Acampamentos/2003/G%C3%A9nesis%202003%20d.C..md)
-- [Joana Ferreira](../../Movimento/Desambigua%C3%A7%C3%A3o/Joana%20Ferreira.md)
-- [Origami](../../Acampamentos/2006/Origami.md)
-- [Patos](../../Acampamentos/2004/Patos.md)
-- [Waaassuuup](../../Acampamentos/2001/Waaassuuup.md)
-
 ---
 
 | Categorias |

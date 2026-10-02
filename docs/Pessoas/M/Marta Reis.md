@@ -17,10 +17,6 @@
 
 É irmã da [Ana Luísa Reis](../A/Ana%20Lu%C3%ADsa%20Reis.md)
 
-## Páginas que ligam para aqui
-
-- [Incrível](../../Acampamentos/2009/Incr%C3%ADvel.md)
-
 ---
 
 | Categorias |

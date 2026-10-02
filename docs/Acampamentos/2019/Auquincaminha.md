@@ -7,11 +7,6 @@
 - [Director](../../Cargos/Director.md) - [Pê Fonseca](../../Pessoas/P/Pedro%20Fonseca.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
 
-## Páginas que ligam para aqui
-
-- [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
-- [Pedro Fonseca](../../Pessoas/P/Pedro%20Fonseca.md)
-
 ---
 
 | Categorias |

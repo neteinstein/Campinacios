@@ -6,10 +6,6 @@
 
 - [Director](../../Cargos/Director.md) - [Miguel Falcão Ramos](../../Pessoas/M/Miguel%20Falc%C3%A3o%20Ramos.md)
 
-## Páginas que ligam para aqui
-
-- [Miguel Falcão Ramos](../../Pessoas/M/Miguel%20Falc%C3%A3o%20Ramos.md)
-
 ---
 
 | Categorias |

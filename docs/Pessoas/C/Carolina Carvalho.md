@@ -27,15 +27,6 @@ Carolina Teixeira de Carvalho, nascida a 17 de Fevereiro de 1984 é animadora do
 
 É irmã do [Sérgio Carvalho](../S/S%C3%A9rgio%20Carvalho.md).
 
-## Páginas que ligam para aqui
-
-- [Academia](../../Acampamentos/2005/Academia.md)
-- [Caderno da Mamã](../../Movimento/Caderno%20da%20Mam%C3%A3.md)
-- [Descola](../../Acampamentos/2004/Descola.md)
-- [M&M](../../Acampamentos/2007/M%26M.md)
-- [Origami](../../Acampamentos/2006/Origami.md)
-- [Sérgio Carvalho](../S/S%C3%A9rgio%20Carvalho.md)
-
 ---
 
 | Categorias |

@@ -5,10 +5,6 @@
 - **Animador(a):**
     - 2023 [De Todas as Fôrmas](../../Acampamentos/2023/De%20Todas%20as%20F%C3%B4rmas.md) - [Director](../../Cargos/Director.md)
 
-## Páginas que ligam para aqui
-
-- [De Todas as Fôrmas](../../Acampamentos/2023/De%20Todas%20as%20F%C3%B4rmas.md)
-
 ---
 
 | Categorias |

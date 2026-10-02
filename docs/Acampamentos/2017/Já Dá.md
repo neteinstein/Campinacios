@@ -7,11 +7,9 @@
 - [Director](../../Cargos/Director.md) - [Joana Coelho](../../Pessoas/J/Joana%20Coelho.md)
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - [Nuno Mesquita](../../Pessoas/N/Nuno%20Mesquita.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
 - [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
-- [Joana Coelho](../../Pessoas/J/Joana%20Coelho.md)
-- [Nuno Mesquita](../../Pessoas/N/Nuno%20Mesquita.md)
 
 ---
 

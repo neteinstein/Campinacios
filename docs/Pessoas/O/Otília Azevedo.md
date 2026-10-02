@@ -13,11 +13,6 @@
     - 1993 [Tabuadelas II](../../Acampamentos/1993/Tabuadelas%20II.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 1994 [Vila do Bispo II/94](../../Acampamentos/1994/Vila%20do%20Bispo%20II-94.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
-## Páginas que ligam para aqui
-
-- [Tabuadelas II](../../Acampamentos/1993/Tabuadelas%20II.md)
-- [Vila do Bispo II/94](../../Acampamentos/1994/Vila%20do%20Bispo%20II-94.md)
-
 ---
 
 | Categorias |

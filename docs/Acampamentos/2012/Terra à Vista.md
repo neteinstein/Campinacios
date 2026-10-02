@@ -6,10 +6,6 @@
 
 - [Director](../../Cargos/Director.md) - [Miguel França Martins](../../Pessoas/M/Miguel%20Fran%C3%A7a%20Martins.md)
 
-## Páginas que ligam para aqui
-
-- [Miguel França Martins](../../Pessoas/M/Miguel%20Fran%C3%A7a%20Martins.md)
-
 ---
 
 | Categorias |

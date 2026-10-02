@@ -15,17 +15,10 @@
 O hino deste campo está no [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#clavis).
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - [Sara Rita Sampaio](../../Pessoas/S/Sara%20Rita%20Sampaio.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [Cantinácio: Campinácios](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md)
 - [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
-- [Ivo Reis](../../Pessoas/I/Ivo%20Reis.md)
-- [Joana Lima](../../Pessoas/J/Joana%20Lima.md)
-- [João Brandão](../../Pessoas/J/Jo%C3%A3o%20Brand%C3%A3o.md)
-- [José Pascoal](../../Pessoas/J/Jos%C3%A9%20Pascoal.md)
 - [Leonor Banha da Silva](../../Pessoas/L/Leonor%20Banha%20da%20Silva.md)
-- [Madalena Sena Esteves](../../Pessoas/M/Madalena%20Sena%20Esteves.md)
-- [Sara Rita Sampaio](../../Pessoas/S/Sara%20Rita%20Sampaio.md)
 
 ---
 

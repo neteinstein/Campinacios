@@ -6,10 +6,6 @@
 
 - [Director](../../Cargos/Director.md) - [Jonifa](../../Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md)
 
-## Páginas que ligam para aqui
-
-- [João Freire de Andrade](../../Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md)
-
 ---
 
 | Categorias |

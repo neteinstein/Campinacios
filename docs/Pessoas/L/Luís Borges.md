@@ -15,11 +15,6 @@
 
 É irmão gémeo do [Carlos Borges](../C/Carlos%20Borges.md)
 
-## Páginas que ligam para aqui
-
-- [Carlos Borges](../C/Carlos%20Borges.md)
-- [Tira as rodinhas](../../Acampamentos/2009/Tira%20as%20rodinhas.md)
-
 ---
 
 | Categorias |

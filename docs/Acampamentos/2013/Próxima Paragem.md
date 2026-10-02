@@ -5,10 +5,7 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Miguel França Martins](../../Pessoas/M/Miguel%20Fran%C3%A7a%20Martins.md)
-
-## Páginas que ligam para aqui
-
-- [Miguel França Martins](../../Pessoas/M/Miguel%20Fran%C3%A7a%20Martins.md)
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Sara Moinhos](../../Pessoas/S/Sara%20Moinhos.md)
 
 ---
 

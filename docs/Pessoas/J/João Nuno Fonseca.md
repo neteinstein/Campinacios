@@ -13,11 +13,6 @@
     - 2010 [Passaportas](../../Acampamentos/2010/Passaportas.md) - Adjunto
     - 2011 [Ara](../../Acampamentos/2011/Ara.md)
 
-## Páginas que ligam para aqui
-
-- [Ara](../../Acampamentos/2011/Ara.md)
-- [Passaportas](../../Acampamentos/2010/Passaportas.md)
-
 ---
 
 | Categorias |

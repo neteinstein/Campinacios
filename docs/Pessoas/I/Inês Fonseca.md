@@ -10,13 +10,6 @@
 
 É irmã da [Catarina Fonseca](../C/Catarina%20Fonseca.md)
 
-## Páginas que ligam para aqui
-
-- [Bublix](../../Acampamentos/2009/Bublix.md)
-- [Catarina Fonseca](../C/Catarina%20Fonseca.md)
-- [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md)
-- [Rita Fonseca](../R/Rita%20Fonseca.md)
-
 ---
 
 | Categorias |

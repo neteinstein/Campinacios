@@ -19,19 +19,6 @@
 
 É filho da [Margarida Valle](../M/Margarida%20Valle.md) e do [Rafael Lucas Pires](../R/Rafael%20Lucas%20Pires.md). É irmão do [Jaime Lucas Pires](../J/Jaime%20Lucas%20Pires.md).
 
-## Páginas que ligam para aqui
-
-- [Descola (2018)](../../Acampamentos/2018/Descola%20%282018%29.md)
-- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
-- [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
-- [Jaime Lucas Pires](../J/Jaime%20Lucas%20Pires.md)
-- [Margarida Valle](../M/Margarida%20Valle.md)
-- [Mergulha](../../Acampamentos/2015/Mergulha.md)
-- [Navalha-me Deus](../../Acampamentos/2026/Navalha-me%20Deus.md)
-- [Non Nobis](../../Acampamentos/2026/Non%20Nobis.md)
-- [Rafael Lucas Pires](../R/Rafael%20Lucas%20Pires.md)
-- [Sarcófago](../../Acampamentos/2012/Sarc%C3%B3fago.md)
-
 ---
 
 | Categorias |

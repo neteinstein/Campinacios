@@ -13,12 +13,6 @@
     - 2010 [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
     - 2011 [Pedra papel tesoura](../../Acampamentos/2011/Pedra%20papel%20tesoura.md)
 
-## Páginas que ligam para aqui
-
-- [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
-- [Pedra papel tesoura](../../Acampamentos/2011/Pedra%20papel%20tesoura.md)
-- [Survivor](../../Acampamentos/2009/Survivor.md)
-
 ---
 
 | Categorias |

@@ -7,11 +7,6 @@
     - 1999 ?? - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2000 [Pavio](../../Acampamentos/2000/Pavio.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
 
-## Páginas que ligam para aqui
-
-- [Pavio](../../Acampamentos/2000/Pavio.md)
-- [Tiw-y-moy](../../Acampamentos/1998/Tiw-y-moy.md)
-
 ---
 
 | Categorias |

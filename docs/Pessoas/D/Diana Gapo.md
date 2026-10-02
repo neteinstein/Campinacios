@@ -17,12 +17,6 @@ Diana Gapo foi uma das animadoras do Colégio da Imaculada Conceição.
     - 1999 [Gipsy Kings](../../Acampamentos/1999/Gipsy%20Kings.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2000 [Tem Bicho Zweitausend](../../Acampamentos/2000/Tem%20Bicho%20Zweitausend.md) - [Directora-Adjunta](../../Cargos/Director-Adjunto.md)
 
-## Páginas que ligam para aqui
-
-- [Gipsy Kings](../../Acampamentos/1999/Gipsy%20Kings.md)
-- [Tem Bicho Zweitausend](../../Acampamentos/2000/Tem%20Bicho%20Zweitausend.md)
-- [Tiw-y-moy](../../Acampamentos/1998/Tiw-y-moy.md)
-
 ---
 
 | Categorias |

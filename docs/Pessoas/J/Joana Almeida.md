@@ -17,11 +17,6 @@
     - 2009 [Vi-O](../../Acampamentos/2009/Vi-O.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2011 [Pedra papel tesoura](../../Acampamentos/2011/Pedra%20papel%20tesoura.md)
 
-## Páginas que ligam para aqui
-
-- [Pedra papel tesoura](../../Acampamentos/2011/Pedra%20papel%20tesoura.md)
-- [Vi-O](../../Acampamentos/2009/Vi-O.md)
-
 ---
 
 | Categorias |

@@ -11,11 +11,6 @@ Raquel Ferreira foi de 2001 a 2004 uma dos animadoras do Colégio da Imaculada C
 - **Animadora:**
     - 2000 [Liberata](../../Acampamentos/2000/Liberata.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
-## Páginas que ligam para aqui
-
-- [Hugo Rafael Ferreira](../H/Hugo%20Rafael%20Ferreira.md)
-- [Liberata](../../Acampamentos/2000/Liberata.md)
-
 ---
 
 | Categorias |

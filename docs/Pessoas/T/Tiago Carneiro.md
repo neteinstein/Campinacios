@@ -24,17 +24,6 @@ Tiago Reis Carneiro, nascido a 22 de Maio de 1987, é animador do CC desde 2005.
 
 - 2010 [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md) - COECA
 
-## Páginas que ligam para aqui
-
-- [Arethë](../../Acampamentos/2008/Areth%C3%AB.md)
-- [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md)
-- [Era Uma Vez...](../../Acampamentos/2008/Era%20Uma%20Vez....md)
-- [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md)
-- [M&M](../../Acampamentos/2007/M%26M.md)
-- [Nómada](../../Acampamentos/2006/N%C3%B3mada.md)
-- [PaKasaDele](../../Acampamentos/2010/PaKasaDele.md)
-- [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md)
-
 ---
 
 | Categorias |

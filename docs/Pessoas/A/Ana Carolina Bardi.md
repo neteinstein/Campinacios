@@ -11,10 +11,6 @@
 - **Animadora:**
     - 2009 [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
 
-## Páginas que ligam para aqui
-
-- [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md)
-
 ---
 
 **Outros nomes:** Carolina Bardi

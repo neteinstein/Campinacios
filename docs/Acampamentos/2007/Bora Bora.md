@@ -12,24 +12,6 @@ Bora Bora foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que s
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Madalena Mariz](../../Pessoas/M/Madalena%20Mariz.md), [Mafalda Trigo da Roza](../../Pessoas/M/Mafalda%20Trigo%20da%20Roza.md) e [Cami](../../Pessoas/C/Carlos%20Miguel%20Albuquerque.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Diana Conceição](../../Pessoas/D/Diana%20Concei%C3%A7%C3%A3o.md), [Marta Croca](../../Pessoas/M/Marta%20Croca.md), [Cecília Miranda](../../Pessoas/C/Cec%C3%ADlia%20Miranda.md), [Rita Mendes](../../Pessoas/R/Rita%20Mendes.md), [Bruno Azevedo](../../Pessoas/B/Bruno%20Azevedo.md) e [Manuel Silva](../../Pessoas/M/Manuel%20Silva.md)
 
-## Páginas que ligam para aqui
-
-- [Bruno Azevedo](../../Pessoas/B/Bruno%20Azevedo.md)
-- [Carlos Miguel Albuquerque](../../Pessoas/C/Carlos%20Miguel%20Albuquerque.md)
-- [Cecília Miranda](../../Pessoas/C/Cec%C3%ADlia%20Miranda.md)
-- [Diana Conceição](../../Pessoas/D/Diana%20Concei%C3%A7%C3%A3o.md)
-- [Diana Pereira](../../Pessoas/D/Diana%20Pereira.md)
-- [Diogo Torcato](../../Pessoas/D/Diogo%20Torcato.md)
-- [Francisco Silva Rodrigues](../../Pessoas/F/Francisco%20Silva%20Rodrigues.md)
-- [Juliana Fernandes](../../Pessoas/J/Juliana%20Fernandes.md)
-- [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
-- [Madalena Mariz](../../Pessoas/M/Madalena%20Mariz.md)
-- [Mafalda Coelho](../../Pessoas/M/Mafalda%20Coelho.md)
-- [Mafalda Trigo da Roza](../../Pessoas/M/Mafalda%20Trigo%20da%20Roza.md)
-- [Manuel Silva](../../Pessoas/M/Manuel%20Silva.md)
-- [Marta Croca](../../Pessoas/M/Marta%20Croca.md)
-- [Rita Mendes](../../Pessoas/R/Rita%20Mendes.md)
-
 ---
 
 | Categorias |

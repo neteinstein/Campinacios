@@ -12,18 +12,6 @@
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - Francisco Ilhão, [Maria Cunhal](../../Pessoas/M/Maria%20Cunhal.md) (Mawi), [Catarina Gaio](../../Pessoas/C/Catarina%20Gaio.md) e João Madureira
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Francisco Montellano](../../Pessoas/F/Francisco%20Montellano.md) sj
 
-## Páginas que ligam para aqui
-
-- [Beatriz Mesquita](../../Pessoas/B/Beatriz%20Mesquita.md)
-- [Carolina Morão](../../Pessoas/C/Carolina%20Mor%C3%A3o.md)
-- [Catarina Gaio](../../Pessoas/C/Catarina%20Gaio.md)
-- [Francisco Montellano](../../Pessoas/F/Francisco%20Montellano.md)
-- [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
-- [Lourenço Barjona](../../Pessoas/L/Louren%C3%A7o%20Barjona.md)
-- [Maria Cunhal](../../Pessoas/M/Maria%20Cunhal.md)
-- [Teresa Cannas](../../Pessoas/T/Teresa%20Cannas.md)
-- [Tomás Ribeiro](../../Pessoas/T/Tom%C3%A1s%20Ribeiro.md)
-
 ---
 
 | Categorias |

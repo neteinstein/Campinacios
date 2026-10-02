@@ -18,14 +18,6 @@ Francisca Veloso, conhecida por Tita, é animadora do [CAIC](../../Categorias/An
 
 - 2024 [Encontro Nacional 2024](../../Encontros/Encontro%20Nacional%202024.md) - Directora
 
-## Páginas que ligam para aqui
-
-- [Atira-te](../../Acampamentos/2023/Atira-te.md)
-- [Em Frente À'Fera](../../Acampamentos/2025/Em%20Frente%20%C3%80%27Fera.md)
-- [Encontro Nacional 2024](../../Encontros/Encontro%20Nacional%202024.md)
-- [Isto Só Visto](../../Acampamentos/2022/Isto%20S%C3%B3%20Visto.md)
-- [ParTijolo](../../Acampamentos/2024/ParTijolo.md)
-
 ---
 
 **Outros nomes:** Tita

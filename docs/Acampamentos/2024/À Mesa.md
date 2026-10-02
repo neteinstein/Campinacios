@@ -9,13 +9,6 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Miguel Teixeira](../../Pessoas/M/Miguel%20Teixeira.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Afonso Espregueira](../../Pessoas/A/Afonso%20Espregueira.md) sj
 
-## Páginas que ligam para aqui
-
-- [Afonso Espregueira](../../Pessoas/A/Afonso%20Espregueira.md)
-- [André Teixeira](../../Pessoas/A/Andr%C3%A9%20Teixeira.md)
-- [Maria Silva](../../Pessoas/M/Maria%20Silva.md)
-- [Miguel Teixeira](../../Pessoas/M/Miguel%20Teixeira.md)
-
 ---
 
 | Categorias |

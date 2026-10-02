@@ -5,10 +5,6 @@
 - **Animador**
     - 2011 [Pescanova](../../Acampamentos/2011/Pescanova.md)
 
-## Páginas que ligam para aqui
-
-- [Pescanova](../../Acampamentos/2011/Pescanova.md)
-
 ---
 
 | Categorias |

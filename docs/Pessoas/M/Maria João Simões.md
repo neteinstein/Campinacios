@@ -34,21 +34,6 @@ Maria João Simões, mais conhecida por Majo, é desde 1996 uma das animadoras d
     - 2007 [OPA](../../Acampamentos/2007/OPA.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
     - 2009 [Caminho](../../Acampamentos/2009/Caminho.md) - [Directora-Adjunta](../../Cargos/Director-Adjunto.md)
 
-## Páginas que ligam para aqui
-
-- [Cabala](../../Acampamentos/2003/Cabala.md)
-- [Calinadas](../../Acampamentos/1998/Calinadas.md)
-- [Caminho](../../Acampamentos/2009/Caminho.md)
-- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
-- [Falésia](../../Acampamentos/2005/Fal%C3%A9sia.md)
-- [GANZA](../../Acampamentos/1997/GANZA.md)
-- [Gipsy Kings](../../Acampamentos/1999/Gipsy%20Kings.md)
-- [Megafona](../../Acampamentos/2005/Megafona.md)
-- [OPA](../../Acampamentos/2007/OPA.md)
-- [Patos](../../Acampamentos/2004/Patos.md)
-- [Shampum de Pessêgo](../../Acampamentos/2001/Shampum%20de%20Pess%C3%AAgo.md)
-- [Tem Bicho Zweitausend](../../Acampamentos/2000/Tem%20Bicho%20Zweitausend.md)
-
 ---
 
 **Outros nomes:** Majo · Majó

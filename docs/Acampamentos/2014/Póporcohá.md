@@ -8,11 +8,6 @@
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - Miguel Bacalhau sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Missé](../../Pessoas/M/Miguel%20Melo.md) sj
 
-## Páginas que ligam para aqui
-
-- [Miguel Carneiro](../../Pessoas/M/Miguel%20Carneiro.md)
-- [Miguel Melo](../../Pessoas/M/Miguel%20Melo.md)
-
 ---
 
 | Categorias |

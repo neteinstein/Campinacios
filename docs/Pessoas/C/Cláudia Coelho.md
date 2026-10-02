@@ -13,11 +13,6 @@ Cláudia Coelho foi de 2002 a 2005 um das animadoras do Colégio da Imaculada Co
 - **Animador:**
     - 2004 [Patos](../../Acampamentos/2004/Patos.md) - [Tia](../../Cargos/Tio.md)
 
-## Páginas que ligam para aqui
-
-- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
-- [Patos](../../Acampamentos/2004/Patos.md)
-
 ---
 
 | Categorias |

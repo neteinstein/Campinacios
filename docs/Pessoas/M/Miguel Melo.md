@@ -17,18 +17,6 @@
     - 2015 [Encontrei-te](../../Acampamentos/2015/Encontrei-te.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2021 [Vesp'á Luz](../../Acampamentos/2021/Vesp%27%C3%A1%20Luz.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
-## Páginas que ligam para aqui
-
-- [Bublix](../../Acampamentos/2009/Bublix.md)
-- [Encontrei-te](../../Acampamentos/2015/Encontrei-te.md)
-- [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md)
-- [Gaivota](../../Acampamentos/2005/Gaivota.md)
-- [Miguel Melo Ribeiro](Miguel%20Melo%20Ribeiro.md)
-- [Póporcohá](../../Acampamentos/2014/P%C3%B3porcoh%C3%A1.md)
-- [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
-- [Vesp'á Luz](../../Acampamentos/2021/Vesp%27%C3%A1%20Luz.md)
-- [Xii Tava Kuase Lá...!](../../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md)
-
 ---
 
 **Outros nomes:** Missé · Miguel Pedro Melo

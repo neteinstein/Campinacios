@@ -13,16 +13,6 @@
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Francisca Veloso](../../Pessoas/F/Francisca%20Veloso.md) (Tita), Diogo Rêgo, Maria Solla e Inês Guimarães
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Nelson Faria](../../Pessoas/N/Nelson%20Faria.md) sj
 
-## Páginas que ligam para aqui
-
-- [Beatriz Maia](../../Pessoas/B/Beatriz%20Maia.md)
-- [Francisca Veloso](../../Pessoas/F/Francisca%20Veloso.md)
-- [Gonçalo Sá](../../Pessoas/G/Gon%C3%A7alo%20S%C3%A1.md)
-- [Marta Martins](../../Pessoas/M/Marta%20Martins.md)
-- [Nelson Faria](../../Pessoas/N/Nelson%20Faria.md)
-- [Pedro Leitão](../../Pessoas/P/Pedro%20Leit%C3%A3o.md)
-- [Toni](../../Pessoas/T/Toni.md)
-
 ---
 
 | Categorias |

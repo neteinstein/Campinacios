@@ -14,11 +14,6 @@
     - 2008 [Eureka](../../Acampamentos/2008/Eureka.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2009 [Bublix](../../Acampamentos/2009/Bublix.md) - [Tia](../../Cargos/Tio.md)
 
-## Páginas que ligam para aqui
-
-- [Bublix](../../Acampamentos/2009/Bublix.md)
-- [Eureka](../../Acampamentos/2008/Eureka.md)
-
 ---
 
 | Categorias |

@@ -9,7 +9,7 @@ Animadores dos Campinácios
 - [Animadores do CSJB](Animadores%20do%20CSJB.md)
 - [Jesuítas](Jesu%C3%ADtas.md)
 
-## Páginas nesta categoria (776)
+## Páginas nesta categoria (777)
 
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Afonso Barrocas](../Pessoas/A/Afonso%20Barrocas.md)
@@ -239,7 +239,6 @@ Animadores dos Campinácios
 - [Francisco Moitinho Almeida](../Pessoas/F/Francisco%20Moitinho%20Almeida.md)
 - [Francisco Penetra](../Pessoas/F/Francisco%20Penetra.md)
 - [Francisco Rodrigues (CAIC)](../Pessoas/F/Francisco%20Rodrigues%20%28CAIC%29.md)
-- [Francisco Rodrigues (Pica)](../Pessoas/F/Francisco%20Rodrigues%20%28Pica%29.md)
 - [Francisco Seabra](../Pessoas/F/Francisco%20Seabra.md)
 - [Francisco Silva (1995)](../Pessoas/F/Francisco%20Silva%20%281995%29.md)
 - [Francisco Silva (Kiko)](../Pessoas/F/Francisco%20Silva%20%28Kiko%29.md)
@@ -262,6 +261,7 @@ Animadores dos Campinácios
 - [Gonçalo Aguiar](../Pessoas/G/Gon%C3%A7alo%20Aguiar.md)
 - [Gonçalo Belo](../Pessoas/G/Gon%C3%A7alo%20Belo.md)
 - [Gonçalo Coimbra](../Pessoas/G/Gon%C3%A7alo%20Coimbra.md)
+- [Gonçalo Costa](../Pessoas/G/Gon%C3%A7alo%20Costa.md)
 - [Gonçalo Fonseca](../Pessoas/G/Gon%C3%A7alo%20Fonseca.md)
 - [Gonçalo Fonseca Carvalho](../Pessoas/G/Gon%C3%A7alo%20Fonseca%20Carvalho.md)
 - [Gonçalo Forte Vaz](../Pessoas/G/Gon%C3%A7alo%20Forte%20Vaz.md)
@@ -777,6 +777,7 @@ Animadores dos Campinácios
 - [Vasco Vasconcelos](../Pessoas/V/Vasco%20Vasconcelos.md)
 - [Vera Cunha](../Pessoas/V/Vera%20Cunha.md)
 - [Vera Eiró](../Pessoas/V/Vera%20Eir%C3%B3.md)
+- [Vera Pina](../Pessoas/V/Vera%20Pina.md)
 - [Virgílio](../Pessoas/V/Virg%C3%ADlio.md)
 - [Vânia Carvalho](../Pessoas/V/V%C3%A2nia%20Carvalho.md)
 - [Vítor Fernandes](../Pessoas/V/V%C3%ADtor%20Fernandes.md)
@@ -787,23 +788,3 @@ Animadores dos Campinácios
 - [Zé Guedes](../Pessoas/Z/Z%C3%A9%20Guedes.md)
 - [Zé Pedro Carneiro](../Pessoas/Z/Z%C3%A9%20Pedro%20Carneiro.md)
 - [Zélia Ferreira](../Pessoas/Z/Z%C3%A9lia%20Ferreira.md)
-
-## Páginas que ligam para aqui
-
-- [Alfa](../Acampamentos/1990/Alfa.md)
-- [Animador](../Movimento/Animador.md)
-- [Caldiclos](../Acampamentos/1994/Caldiclos.md)
-- [Conteúdos](../Wikin%C3%A1cios/Conte%C3%BAdos.md)
-- [Ed mais 10](../Acampamentos/2010/Ed%20mais%2010.md)
-- [Exipto](../Acampamentos/2025/Exipto.md)
-- [Ferrugenta](../Acampamentos/1989/Ferrugenta.md)
-- [Florinhas](../Acampamentos/1994/Florinhas.md)
-- [Fornelos](../Acampamentos/1992/Fornelos.md)
-- [Graal I](../Acampamentos/2002/Graal%20I.md)
-- [Graal II](../Acampamentos/2003/Graal%20II.md)
-- [Koalas](../Acampamentos/1999/Koalas.md)
-- [Pedreira](../Acampamentos/1989/Pedreira.md)
-- [Pescanova](../Acampamentos/2011/Pescanova.md)
-- [Shampum de Pessêgo](../Acampamentos/2001/Shampum%20de%20Pess%C3%AAgo.md)
-- [Torneira](../Acampamentos/1997/Torneira.md)
-

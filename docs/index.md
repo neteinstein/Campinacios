@@ -3,7 +3,7 @@
 <div class="wk-top" markdown="span">[Boas-vindas](Movimento/Boas-vindas.md) | [Ajuda](Wikin%C3%A1cios/Conte%C3%BAdos.md) | [Perguntas Frequentes](Movimento/FAQ.md) | [Contactos](Movimento/Contactos.md)</div>
 
 <div class="wk-banner" markdown>
-<div class="wk-count" markdown="span">**[1257 artigos](Todos%20os%20artigos.md)**</div>
+<div class="wk-count" markdown="span">**[1258 artigos](Todos%20os%20artigos.md)**</div>
 <div class="wk-welcome" markdown="span">[Bem-vindo(a)](Movimento/Boas-vindas.md) à **Wikinacios**,</div>
 <div class="wk-tagline" markdown="span">a enciclopédia livre sobre Campinácios que [(quase) todos podem editar](Wikin%C3%A1cios/Conte%C3%BAdos.md).</div>
 </div>
@@ -32,20 +32,24 @@ Ainda neste ano de 1989, no mês de Setembro, realizou-se o [Pedreira](Acampamen
 <div class="wk-box wk-yellow" markdown>
 <div class="wk-head" markdown="span">Sabia que...</div>
 
-- ... **[Lourenço Eiró](Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj** esteve no primeiro ano de acampamentos de que há registo, 1989, e é a pessoa com mais acampamentos animados (21, até 2012), nove deles como [Director](Cargos/Director.md) — mais do que qualquer outra pessoa como Director?
-- ... **[Miguel França Martins](Pessoas/M/Miguel%20Fran%C3%A7a%20Martins.md)** é o leigo que mais vezes foi [Director](Cargos/Director.md): 5 acampamentos, entre 2012 e 2016?
+- ... **[Lourenço Eiró](Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj** esteve no primeiro ano de acampamentos de que há registo, 1989, e é a pessoa com mais acampamentos animados (21, até 2012)?
 - ... **[Pedro Vicente](Pessoas/P/Pedro%20Vicente.md)** foi o primeiro leigo a ser Director de um Acampamento de Formação ([Caminho](Acampamentos/2009/Caminho.md), 2009), depois de cinco acampamentos de Formação dirigidos por Jesuítas?
-- ... **[Heitor Rosa](Pessoas/H/Heitor%20Rosa.md)** foi [Director-Adjunto](Cargos/Director-Adjunto.md) em 6 acampamentos, entre 2021 e 2025 — mais do que qualquer outra pessoa nesse cargo?
-- ... **[São Martinho](Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)** foi [Mamã](Cargos/Mam%C3%A3.md) em 10 acampamentos, entre 1992 e 1999 — mais do que qualquer outra pessoa nesse cargo?
-- ... **[Luís Onofre](Pessoas/L/Lu%C3%ADs%20Onofre.md) sj** foi [Capelão](Cargos/Capel%C3%A3o.md) em 17 acampamentos, entre 2003 e 2026 — mais do que qualquer outra pessoa nesse cargo — e, em 2015, foi Capelão de três acampamentos no mesmo ano?
-- ... **[Ana Geão](Pessoas/A/Ana%20Ge%C3%A3o.md)**, **[Maria João Simões](Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)** e **[Ricardo Lopes](Pessoas/R/Ricardo%20Lopes.md)** partilham o recorde de [Tio/Tia](Cargos/Tio.md), com 4 acampamentos cada?
-- ... **[Vasco Vasconcelos](Pessoas/V/Vasco%20Vasconcelos.md)** foi [Animador Livre](Cargos/Animador%20Livre.md) em 9 acampamentos, entre 2004 e 2014 — mais do que qualquer outra pessoa nesse cargo?
-- ... **[Joana Nunes](Pessoas/J/Joana%20Nunes.md)** foi [Animadora de Equipa](Cargos/Animador%20de%20Equipa.md) em 6 acampamentos seguidos, um por ano de 1999 a 2004 — mais do que qualquer outra pessoa nesse cargo?
+- ... **[Luís Onofre](Pessoas/L/Lu%C3%ADs%20Onofre.md) sj**, em 2015, foi [Capelão](Cargos/Capel%C3%A3o.md) de três acampamentos no mesmo ano?
 - ... **[Tiago Bahia](Pessoas/T/Tiago%20Bahia.md)** é o animador leigo com mais acampamentos animados (13, entre 2006 e 2023), só ultrapassado pelos Jesuítas [Lourenço Eiró](Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) (21) e [Luís Onofre](Pessoas/L/Lu%C3%ADs%20Onofre.md) (18), e o leigo que animou durante mais anos (17)?
 - ... três Jesuítas animaram acampamentos durante 23 anos, o período mais longo de que há registo: **[Lourenço Eiró](Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)** (1989–2012), **[Pedro Rocha Mendes](Pessoas/P/Pedro%20Rocha%20Mendes.md)** (1993–2016) e **[Luís Onofre](Pessoas/L/Lu%C3%ADs%20Onofre.md)** (2003–2026)?
 - ... **[João Paulo Moinhos](Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md)** foi Coordenador da [Direcção Local do CC](Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) e membro da [Direcção Nacional](Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) durante nove anos seguidos (2001 a 2010), o mandato mais longo de que há registo?
 - ... **[Ana Paula Sampaio](Pessoas/A/Ana%20Paula%20Sampaio.md)** é a pessoa que ocupou mais cargos diferentes em acampamentos (seis, entre 2007 e 2013): [Animadora de Equipa](Cargos/Animador%20de%20Equipa.md), [Directora-Adjunta](Cargos/Director-Adjunto.md), [Directora](Cargos/Director.md), [Mamã](Cargos/Mam%C3%A3.md), [Capelinha](Cargos/Capelinho.md) e [Animadora Livre](Cargos/Animador%20Livre.md)?
 - ... em **2020** foi o único ano, desde 1989, sem acampamentos, por causa da pandemia? O tema do ano foi *Viver Agradecido* e houve apenas actividades nos colégios.
+
+**Recordes por cargo:**
+
+- [Director](Cargos/Director.md) - [Lourenço Eiró](Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj (9, entre 1991 e 2011); entre leigos, [Miguel França Martins](Pessoas/M/Miguel%20Fran%C3%A7a%20Martins.md) (5, entre 2012 e 2016)
+- [Director-Adjunto](Cargos/Director-Adjunto.md) - [Heitor Rosa](Pessoas/H/Heitor%20Rosa.md) (6, entre 2021 e 2025)
+- [Mamã](Cargos/Mam%C3%A3.md) - [São Martinho](Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md) (10, entre 1992 e 1999)
+- [Capelão](Cargos/Capel%C3%A3o.md) - [Luís Onofre](Pessoas/L/Lu%C3%ADs%20Onofre.md) sj (17, entre 2003 e 2026)
+- [Tio/Tia](Cargos/Tio.md) - [Ana Geão](Pessoas/A/Ana%20Ge%C3%A3o.md) (4, entre 1999 e 2004), [Maria João Simões](Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md) (4, entre 1997 e 2005) e [Ricardo Lopes](Pessoas/R/Ricardo%20Lopes.md) (4, entre 2000 e 2003)
+- [Animador Livre](Cargos/Animador%20Livre.md) - [Vasco Vasconcelos](Pessoas/V/Vasco%20Vasconcelos.md) (9, entre 2004 e 2014)
+- [Animador de Equipa](Cargos/Animador%20de%20Equipa.md) - [Joana Nunes](Pessoas/J/Joana%20Nunes.md) (6, entre 1999 e 2004)
 
 </div>
 
