@@ -36,31 +36,6 @@ Acampamentos de Formação de Animadores - Destinados a antigos alunos dos colé
 - [Às 10 faz xiu](../Acampamentos/2015/%C3%80s%2010%20faz%20xiu.md)
 - [Êxodo](../Acampamentos/2008/%C3%8Axodo.md)
 
-## Páginas que ligam para aqui
-
-- [Antestreia](../Acampamentos/2022/Antestreia.md)
-- [Ara](../Acampamentos/2011/Ara.md)
-- [Caminho](../Acampamentos/2009/Caminho.md)
-- [Camp & Nácios, S.A](../Acampamentos/2013/Camp%20%26%20N%C3%A1cios%2C%20S.A.md)
-- [Graal I](../Acampamentos/2002/Graal%20I.md)
-- [Graal II](../Acampamentos/2003/Graal%20II.md)
-- [Graal III](../Acampamentos/2007/Graal%20III.md)
-- [Ide](../Acampamentos/2015/Ide.md)
-- [Limpopolus](../Acampamentos/2012/Limpopolus.md)
-- [Navalha-me Deus](../Acampamentos/2026/Navalha-me%20Deus.md)
-- [Não Confundas](../Acampamentos/2025/N%C3%A3o%20Confundas.md)
-- [ParTijolo](../Acampamentos/2024/ParTijolo.md)
-- [Parte de Ti](../Acampamentos/2023/Parte%20de%20Ti.md)
-- [Plano B](../Acampamentos/2016/Plano%20B.md)
-- [Prega Fundo](../Acampamentos/2021/Prega%20Fundo.md)
-- [Prosopon](../Acampamentos/2018/Prosopon.md)
-- [Quantos Somos](../Acampamentos/2021/Quantos%20Somos.md)
-- [ReComeçar de Novo](../Acampamentos/2017/ReCome%C3%A7ar%20de%20Novo.md)
-- [SPC](../Acampamentos/2019/SPC.md)
-- [Sentido](../Acampamentos/2014/Sentido.md)
-- [Às 10 faz xiu](../Acampamentos/2015/%C3%80s%2010%20faz%20xiu.md)
-- [Êxodo](../Acampamentos/2008/%C3%8Axodo.md)
-
 ---
 
 | Categorias |

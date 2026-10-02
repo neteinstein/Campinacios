@@ -82,8 +82,7 @@ maioria crianças.
   `### TÍTULO {#ancora}`, uma linha `*Hino do Campo [Nome](…) (ano)*` e a
   letra num bloco ```` ```text ````; somar também 1 às contagens de
   `docs/Movimento/Cantinácio.md`. A página do campo fica só com uma
-  ligação ("O hino deste campo está no [Cantinácio](…#ancora).") e ganha
-  "Cantinácio: Campinácios" em "Páginas que ligam para aqui".
+  ligação ("O hino deste campo está no [Cantinácio](…#ancora).").
 - **Pessoa**: seguir a skill `nova-pessoa`. As linhas de campos ligam os
   campos que existem; os que não estão no wiki ficam em texto ("2003
   Farol"), a não ser que o utilizador peça para os criar.
@@ -93,14 +92,16 @@ maioria crianças.
   ou se a linha fica para depois. Um animador escreve-se nos dois lados: na
   equipa do campo (`### Animadores`) e em `### Acampamentos` da pessoa. Um
   Participante ou quem esteve em Formação escreve-se só na página da
-  pessoa: o campo só tem a equipa. Em todos os casos, cada página entra em
-  "Páginas que ligam para aqui" da outra.
+  pessoa: o campo só tem a equipa. Depois corra `pessoas.py secoes` (ver
+  `nova-pessoa`), que acrescenta o animador ao campo em "Participantes que
+  se tornaram animadores" e a pessoa à página do cargo.
 - **Participantes de um Acampamento**: os participantes nunca se
   acrescentam à página do campo, que só tem a equipa de animação. Num campo
   de Calhambeques ou Formação de Animadores, cada participante que já tem
   página ganha o campo em `### Acampamentos` (**Participante**, ou
-  **Formação** num campo de Formação de Animadores), e o campo ganha-o em
-  "Páginas que ligam para aqui". Para quem ainda não tem página, pergunte
+  **Formação** num campo de Formação de Animadores), e `pessoas.py secoes`
+  põe-no no campo em "Participantes que se tornaram animadores". Para quem
+  ainda não tem página, pergunte
   ao utilizador se se cria (`nova-pessoa`); se não, o nome não se publica.
   Noutro escalão os nomes são de menores e não se publicam — **excepto**
   quem já tem página como Animador(a), que prova que é adulto: acrescente o
@@ -109,11 +110,10 @@ maioria crianças.
   `### Participantes` que já existem em alguns campos ficam como estão.
 - **Encontro** (issue escrita à mão): uma página em `docs/Encontros/`,
   como `Encontro Nacional 2026.md` — introdução, `## Organização` com uma
-  linha "**Cargo**: Nome" por cargo, "Páginas que ligam para aqui" e a
-  categoria. Listá-la em `docs/Encontros/index.md`, na categoria
+  linha "**Cargo**: Nome" por cargo e a categoria. Listá-la em `docs/Encontros/index.md`, na categoria
   (`docs/Categorias/Encontros Nacionais.md` ou a de Animadores) e em
   `docs/Todos os artigos.md`; cada pessoa ligada ganha o encontro em
-  `### Encontros` e em "Páginas que ligam para aqui".
+  `### Encontros`.
 - **Remoção de Informação**: um pedido para retirar, corrigir ou esconder
   os dados de quem envia. Confirme que se trata de quem envia (ou de alguém
   que o autorizou) antes de agir — se não for claro, pergunte em vez de

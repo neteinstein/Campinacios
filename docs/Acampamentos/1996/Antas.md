@@ -6,14 +6,12 @@
 - [Tia](../../Cargos/Tio.md) - [Margarida Santos](../../Pessoas/M/Margarida%20Santos.md)
 - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Joana Silva
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
 - [Ana Salgado](../../Pessoas/A/Ana%20Salgado.md)
 - [Eduardo Almeida](../../Pessoas/E/Eduardo%20Almeida.md)
-- [Hélder Sousa](../../Pessoas/H/H%C3%A9lder%20Sousa.md)
 - [Inês Serra Ferreira](../../Pessoas/I/In%C3%AAs%20Serra%20Ferreira.md)
 - [José Pedro Ferreira](../../Pessoas/J/Jos%C3%A9%20Pedro%20Ferreira.md)
-- [Margarida Santos](../../Pessoas/M/Margarida%20Santos.md)
 - [Marta Carneiro](../../Pessoas/M/Marta%20Carneiro.md)
 - [Teresa Santos](../../Pessoas/T/Teresa%20Santos.md)
 

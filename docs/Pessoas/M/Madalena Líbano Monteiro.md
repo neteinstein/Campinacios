@@ -11,10 +11,6 @@ Madalena Líbano Monteiro é animadora do [CSJB](../../Categorias/Animadores%20d
 - **Animador(a):**
     - 2022 [Foca-te](../../Acampamentos/2022/Foca-te.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
-## Páginas que ligam para aqui
-
-- [Foca-te](../../Acampamentos/2022/Foca-te.md)
-
 ---
 
 | Categorias |

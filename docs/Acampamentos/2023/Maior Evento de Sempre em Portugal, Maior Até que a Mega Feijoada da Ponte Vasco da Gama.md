@@ -10,14 +10,6 @@
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Duarte Nifo](../../Pessoas/D/Duarte%20Nifo.md) sj
 
-## Páginas que ligam para aqui
-
-- [Duarte Nifo](../../Pessoas/D/Duarte%20Nifo.md)
-- [Gonçalo Sá](../../Pessoas/G/Gon%C3%A7alo%20S%C3%A1.md)
-- [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
-- [Johnny Sousa](../../Pessoas/J/Johnny%20Sousa.md)
-- [Maria Coimbra](../../Pessoas/M/Maria%20Coimbra.md)
-
 ---
 
 | Categorias |

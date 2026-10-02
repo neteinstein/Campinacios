@@ -16,15 +16,6 @@ Diogo Cordeiro Ferreira, mais conhecido por Goga, é animador do CSJB.
 
 É irmão do [Manuel Cordeiro Ferreira](../M/Manuel%20Cordeiro%20Ferreira.md) e da [Constança Cordeiro Ferreira](../C/Constan%C3%A7a%20Pereira%20da%20Silva.md).
 
-## Páginas que ligam para aqui
-
-- [Constança Pereira da Silva](../C/Constan%C3%A7a%20Pereira%20da%20Silva.md)
-- [Manuel Cordeiro Ferreira](../M/Manuel%20Cordeiro%20Ferreira.md)
-- [Nómada](../../Acampamentos/2006/N%C3%B3mada.md)
-- [OPA](../../Acampamentos/2007/OPA.md)
-- [Survivor](../../Acampamentos/2009/Survivor.md)
-- [TSI](../../Acampamentos/2008/TSI.md)
-
 ---
 
 **Outros nomes:** Goga

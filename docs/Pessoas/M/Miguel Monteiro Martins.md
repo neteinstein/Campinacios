@@ -12,12 +12,6 @@
     - 2009 [Bublix](../../Acampamentos/2009/Bublix.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2010 [Obra Prima](../../Acampamentos/2010/Obra%20Prima.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
-## Páginas que ligam para aqui
-
-- [Bublix](../../Acampamentos/2009/Bublix.md)
-- [Miguel Martins](../../Movimento/Desambigua%C3%A7%C3%A3o/Miguel%20Martins.md)
-- [Obra Prima](../../Acampamentos/2010/Obra%20Prima.md)
-
 ---
 
 | Categorias |

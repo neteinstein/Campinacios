@@ -6,15 +6,11 @@
 - [Animadora Livre](../../Cargos/Animador%20Livre.md) - [Rita Maria Fernandes](../../Pessoas/R/Rita%20Maria%20Fernandes.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Maria João Costa, [António Leal](../../Pessoas/A/Ant%C3%B3nio%20Leal.md) e [Rita Reis](../../Pessoas/R/Rita%20Reis.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [António Leal](../../Pessoas/A/Ant%C3%B3nio%20Leal.md)
 - [Bernardo Mendonça](../../Pessoas/B/Bernardo%20Mendon%C3%A7a.md)
 - [Cristina Lopo Monteiro](../../Pessoas/C/Cristina%20Lopo%20Monteiro.md)
-- [Luís Godinho](../../Pessoas/L/Lu%C3%ADs%20Godinho.md)
 - [Nuno Carvalho](../../Pessoas/N/Nuno%20Carvalho.md)
-- [Rita Maria Fernandes](../../Pessoas/R/Rita%20Maria%20Fernandes.md)
-- [Rita Reis](../../Pessoas/R/Rita%20Reis.md)
 - [Sílvia Alexandra](../../Pessoas/S/S%C3%ADlvia%20Alexandra.md)
 - [Teresa Santos](../../Pessoas/T/Teresa%20Santos.md)
 - [Vítor Fernandes](../../Pessoas/V/V%C3%ADtor%20Fernandes.md)

@@ -32,22 +32,6 @@ Jaime Lucas Pires é animador do CSJB.
 
 - 2025 [Encontro Nacional 2025](../../Encontros/Encontro%20Nacional%202025.md) - Direcção de Triciclos
 
-## Páginas que ligam para aqui
-
-- [Caldorado](../../Acampamentos/2024/Caldorado.md)
-- [Cibicleta Como És](../../Acampamentos/2023/Cibicleta%20Como%20%C3%89s.md)
-- [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md)
-- [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
-- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
-- [Encontro Nacional 2025](../../Encontros/Encontro%20Nacional%202025.md)
-- [Exipto](../../Acampamentos/2025/Exipto.md)
-- [Margarida Valle](../M/Margarida%20Valle.md)
-- [Non Nobis](../../Acampamentos/2026/Non%20Nobis.md)
-- [Rafael Lucas Pires](../R/Rafael%20Lucas%20Pires.md)
-- [Sobe d'Andar](../../Acampamentos/2021/Sobe%20d%27Andar.md)
-- [Vasco Lucas Pires](../V/Vasco%20Lucas%20Pires.md)
-- [À Grande e à Francesa](../../Acampamentos/2022/%C3%80%20Grande%20e%20%C3%A0%20Francesa.md)
-
 ---
 
 | Categorias |

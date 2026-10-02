@@ -6,10 +6,6 @@
 
 - [Director](../../Cargos/Director.md) - [André Trigo](../../Pessoas/A/Andr%C3%A9%20Trigo.md)
 
-## Páginas que ligam para aqui
-
-- [André Trigo](../../Pessoas/A/Andr%C3%A9%20Trigo.md)
-
 ---
 
 | Categorias |

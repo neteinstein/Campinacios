@@ -16,12 +16,6 @@ Frequentou o CC de 2002 a 2008. Animador desde 2008 até hoje.
     - 2010 [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2011 [Ara](../../Acampamentos/2011/Ara.md)
 
-## Páginas que ligam para aqui
-
-- [Ara](../../Acampamentos/2011/Ara.md)
-- [Talithá Kum](../../Acampamentos/2009/Talith%C3%A1%20Kum.md)
-- [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md)
-
 ---
 
 | Categorias |

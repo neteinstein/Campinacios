@@ -10,11 +10,6 @@ Maria Freire de Andrade é antiga aluna do Colégio S. João de Brito, é animad
     - 2010 [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
     - 2011 [Pedra papel tesoura](../../Acampamentos/2011/Pedra%20papel%20tesoura.md) - [Directora-Adjunta](../../Cargos/Director-Adjunto.md)
 
-## Páginas que ligam para aqui
-
-- [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
-- [Pedra papel tesoura](../../Acampamentos/2011/Pedra%20papel%20tesoura.md)
-
 ---
 
 | Categorias |

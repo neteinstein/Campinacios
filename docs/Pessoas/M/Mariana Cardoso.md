@@ -12,11 +12,6 @@ Mariana Soares Cardoso, nascida a 10 de Junho de 1985 é animadora do CC.
 - **Animador**
     - 2006 [Em Busca da CaraBela](../../Acampamentos/2006/Em%20Busca%20da%20CaraBela.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
-## Páginas que ligam para aqui
-
-- [Em Busca da CaraBela](../../Acampamentos/2006/Em%20Busca%20da%20CaraBela.md)
-- [Triciclos 1](../../Acampamentos/1997/Triciclos%201.md)
-
 ---
 
 | Categorias |

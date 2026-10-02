@@ -42,7 +42,10 @@ matching work:
   Sempre que mexer em pessoas ou equipas de campos, corra também
   `python3 .claude/skills/nova-pessoa/scripts/pessoas.py reciprocas <páginas>`
   (ou `--todos`): os animadores têm de estar ligados nos dois sentidos; os
-  participantes não aparecem nos campos.
+  participantes não aparecem nos campos. As listas "Pessoas com este cargo"
+  (cargos) e "Participantes que se tornaram animadores" (campos) escrevem-se
+  com `python3 .claude/skills/nova-pessoa/scripts/pessoas.py secoes`; não há
+  "Páginas que ligam para aqui".
 - **`.claude/skills/processar-contributo/SKILL.md`** — turning a GitHub
   issue (or pasted template) submitted through
   `.github/ISSUE_TEMPLATE/*.yml` into site pages, via the two skills

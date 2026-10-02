@@ -25,12 +25,6 @@ Margarida Rodrigues foi de 1995 a 2004 uma das animadoras do Colégio da Imacula
 
 É actualmente professora no Colégio da Imaculada Conceição.
 
-## Páginas que ligam para aqui
-
-- [Encontro de Lambretas 94](../../Encontros/Encontro%20de%20Lambretas%2094.md)
-- [Pavio](../../Acampamentos/2000/Pavio.md)
-- [Trolliciclos](../../Acampamentos/2004/Trolliciclos.md)
-
 ---
 
 | Categorias |

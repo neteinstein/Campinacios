@@ -10,14 +10,9 @@
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Filipe Lima](../../Pessoas/F/Filipe%20Lima.md) sj
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - [Francisco Dioniz Barroso Loureiro](../../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
 - [Daniela Gonçalves](../../Pessoas/D/Daniela%20Gon%C3%A7alves.md)
-- [Digas Vasconcelos](../../Pessoas/D/Digas%20Vasconcelos.md)
-- [Filipe Lima](../../Pessoas/F/Filipe%20Lima.md)
-- [Francisco Dioniz Barroso Loureiro](../../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
-- [Joana Ferreira (2019)](../../Pessoas/J/Joana%20Ferreira%20%282019%29.md)
-- [Sofia Ângelo](../../Pessoas/S/Sofia%20%C3%82ngelo.md)
 
 ---
 

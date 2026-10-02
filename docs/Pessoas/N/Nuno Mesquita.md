@@ -9,16 +9,6 @@
     - 2018 [A Ir e Falta o S](../../Acampamentos/2018/A%20Ir%20e%20Falta%20o%20S.md) - [Director](../../Cargos/Director.md)
     - 2019 [Grito](../../Acampamentos/2019/Grito.md) - [Director](../../Cargos/Director.md)
 
-## Páginas que ligam para aqui
-
-- [A Ir e Falta o S](../../Acampamentos/2018/A%20Ir%20e%20Falta%20o%20S.md)
-- [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
-- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
-- [Do Avesso](../../Acampamentos/2016/Do%20Avesso.md)
-- [Encontrei-te](../../Acampamentos/2015/Encontrei-te.md)
-- [Grito](../../Acampamentos/2019/Grito.md)
-- [Já Dá](../../Acampamentos/2017/J%C3%A1%20D%C3%A1.md)
-
 ---
 
 | Categorias |

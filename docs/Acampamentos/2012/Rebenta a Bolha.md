@@ -7,11 +7,6 @@
 - [Director](../../Cargos/Director.md) - [Paulo Cardoso](../../Pessoas/P/Paulo%20Cardoso.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Sílvia Lobo](../../Pessoas/S/S%C3%ADlvia%20Lobo.md)
 
-## Páginas que ligam para aqui
-
-- [Paulo Cardoso](../../Pessoas/P/Paulo%20Cardoso.md)
-- [Sílvia Lobo](../../Pessoas/S/S%C3%ADlvia%20Lobo.md)
-
 ---
 
 | Categorias |

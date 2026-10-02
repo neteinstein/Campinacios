@@ -19,13 +19,6 @@ Uma Direcção Local (DL) é o órgão deliberativo e executivo de carácter loc
 - [Direcção Local do CC](Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
 - [Direcção Local do CSJB](Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
 
-## Páginas que ligam para aqui
-
-- [Carla Resende](../Pessoas/C/Carla%20Resende.md)
-- [Conceição Martinho](../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)
-- [Manual de Deliberações](../Movimento/Manual%20de%20Delibera%C3%A7%C3%B5es.md)
-- [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)
-
 ---
 
 | Categorias |

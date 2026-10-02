@@ -12,13 +12,6 @@ Paulo Pimenta foi um dos animadores do Colégio da Imaculada Conceição.
     - 1995 [Triciclos 95](../../Acampamentos/1995/Triciclos%2095.md) - [Director](../../Cargos/Director.md)
     - 1999 [Alvoco II](../../Acampamentos/1999/Alvoco%20II.md) - [Director](../../Cargos/Director.md)
 
-## Páginas que ligam para aqui
-
-- [Agroal](../../Acampamentos/1992/Agroal.md)
-- [Alvoco II](../../Acampamentos/1999/Alvoco%20II.md)
-- [Fragas de S.Simão 94](../../Acampamentos/1994/Fragas%20de%20S.Sim%C3%A3o%2094.md)
-- [Triciclos 95](../../Acampamentos/1995/Triciclos%2095.md)
-
 ---
 
 | Categorias |

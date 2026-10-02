@@ -17,14 +17,6 @@ Inês Próspero é antiga aluna do [CSJB](../../Movimento/CSJB.md) e animadora d
 
 É irmã do [Filipe Próspero](../F/Filipe%20Pr%C3%B3spero.md).
 
-## Páginas que ligam para aqui
-
-- [Baza](../../Acampamentos/2007/Baza.md)
-- [Filipe Próspero](../F/Filipe%20Pr%C3%B3spero.md)
-- [Graal II](../../Acampamentos/2003/Graal%20II.md)
-- [Long Tao](../../Acampamentos/2006/Long%20Tao.md)
-- [TufarfarAway](../../Acampamentos/2008/TufarfarAway.md)
-
 ---
 
 **Outros nomes:** Inês Prospero

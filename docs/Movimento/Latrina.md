@@ -29,8 +29,3 @@ ATENÇÕES ESPECIAIS
 A importância do sinal na entrada é enorme. Numa casa de banho normal temos uma porta que se pode fechar e por isso não se tem que perguntar se estão gente ou não. Uma vez que no acampamento as coisas são um bocadinho diferentes usamos um sinal, se virado para um lado está gente, se virado para o outro está livre. É importante que se relembre os participantes do cuidado a ter com este sinal porque ele evita que se pergunte quem está (o que pode ser constrangedor).
 
 E como em tudo num campo de férias o animador tem que dar o exemplo. Nos escalões dos mais novos deve haver um animador responsável por, há noite, antes do Boa Noite, ir à latrina com os participantes (um animador com os rapazes e uma animadora com as raparigas). Assim há a garantia que em termos de saúde tudo está a correr pela maior normalidade e o participante ao ver o animador a ir à Latrina não se sente tão intimidado.
-
-## Páginas que ligam para aqui
-
-- [Manual do Director](Manual%20do%20Director.md)
-- [Vocabulário](Vocabul%C3%A1rio.md)

@@ -11,24 +11,10 @@ O Iháquesermais decorreu entre os dias 10 e 19 de Agosto de 2009 em [Digueifel 
 - [Tia](../../Cargos/Tio.md) - [Inês Amorim](../../Pessoas/I/In%C3%AAs%20Amorim.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Catarina Fonseca](../../Pessoas/C/Catarina%20Fonseca.md), [Rita Quintela](../../Pessoas/R/Rita%20Quintela.md), [Carolina Bardi](../../Pessoas/A/Ana%20Carolina%20Bardi.md), [Gonçalo Carvalho](../../Pessoas/G/Gon%C3%A7alo%20Fonseca%20Carvalho.md), [Tiago Carneiro](../../Pessoas/T/Tiago%20Carneiro.md), [Kiko](../../Pessoas/F/Francisco%20Silva.md), [Hugo Ferreira](../../Pessoas/H/Hugo%20Ferreira.md) e [Tiago Madeira](../../Pessoas/T/Tiago%20Madeira.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [Ana Carolina Bardi](../../Pessoas/A/Ana%20Carolina%20Bardi.md)
-- [Ana Luísa Reis](../../Pessoas/A/Ana%20Lu%C3%ADsa%20Reis.md)
-- [Catarina Fonseca](../../Pessoas/C/Catarina%20Fonseca.md)
-- [Filipe Martins](../../Pessoas/F/Filipe%20Martins.md)
-- [Filipe Próspero](../../Pessoas/F/Filipe%20Pr%C3%B3spero.md)
-- [Francisco Martins](../../Pessoas/F/Francisco%20Martins.md)
-- [Francisco Silva](../../Pessoas/F/Francisco%20Silva.md)
-- [Gonçalo Fonseca Carvalho](../../Pessoas/G/Gon%C3%A7alo%20Fonseca%20Carvalho.md)
-- [Hugo Ferreira](../../Pessoas/H/Hugo%20Ferreira.md)
-- [Inês Amorim](../../Pessoas/I/In%C3%AAs%20Amorim.md)
-- [João Freire de Andrade](../../Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md)
 - [Madalena Sena Esteves](../../Pessoas/M/Madalena%20Sena%20Esteves.md)
-- [Rita Quintela](../../Pessoas/R/Rita%20Quintela.md)
 - [Sara Rita Sampaio](../../Pessoas/S/Sara%20Rita%20Sampaio.md)
-- [Tiago Carneiro](../../Pessoas/T/Tiago%20Carneiro.md)
-- [Tiago Madeira](../../Pessoas/T/Tiago%20Madeira.md)
 
 ---
 

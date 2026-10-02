@@ -12,35 +12,19 @@ O Ídolo foi um acampamento de Trotinetas, que decorreu de 3 a 12 de Agosto de 2
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Rui Junqueira](../../Pessoas/R/Rui%20Junqueira.md) e [Vasco Vasconcelos](../../Pessoas/V/Vasco%20Vasconcelos.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Joana Sá](../../Pessoas/J/Joana%20S%C3%A1.md), [Catarina Alves](../../Pessoas/C/Catarina%20Alves.md), [Caramela](../../Pessoas/J/Joana%20Martins.md), [Ricardo Oliveira](../../Pessoas/R/Ricardo%20Oliveira.md), [Bernardo Mendonça](../../Pessoas/B/Bernardo%20Mendon%C3%A7a.md) e [Luís Azevedo](../../Pessoas/L/Lu%C3%ADs%20Azevedo.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [Ana Pinto da Costa](../../Pessoas/A/Ana%20Pinto%20da%20Costa.md)
-- [Bernardo Mendonça](../../Pessoas/B/Bernardo%20Mendon%C3%A7a.md)
-- [Catarina Alves](../../Pessoas/C/Catarina%20Alves.md)
 - [Cátia Carvalho](../../Pessoas/C/C%C3%A1tia%20Carvalho.md)
 - [Filipa Marcelino](../../Pessoas/F/Filipa%20Marcelino.md)
 - [Isabel Neves](../../Pessoas/I/Isabel%20Neves.md)
-- [Joana Martins](../../Pessoas/J/Joana%20Martins.md)
-- [Joana Sá](../../Pessoas/J/Joana%20S%C3%A1.md)
 - [Jorge Ramos](../../Pessoas/J/Jorge%20Ramos.md)
 - [José Pascoal](../../Pessoas/J/Jos%C3%A9%20Pascoal.md)
-- [Luís Azevedo](../../Pessoas/L/Lu%C3%ADs%20Azevedo.md)
 - [Lúcia Ribeiro](../../Pessoas/L/L%C3%BAcia%20Ribeiro.md)
-- [Nuno Branco](../../Pessoas/N/Nuno%20Branco.md)
 - [Paulo Cardoso](../../Pessoas/P/Paulo%20Cardoso.md)
-- [Pedro Pinheiro](../../Pessoas/P/Pedro%20Pinheiro.md)
 - [Pedro Pinto](../../Pessoas/P/Pedro%20Pinto.md)
-- [Renato Costa](../../Pessoas/R/Renato%20Costa.md)
-- [Ricardo Oliveira](../../Pessoas/R/Ricardo%20Oliveira.md)
-- [Rui Junqueira](../../Pessoas/R/Rui%20Junqueira.md)
 - [Sara Fernandes](../../Pessoas/S/Sara%20Fernandes.md)
-- [Sílvia Alexandra](../../Pessoas/S/S%C3%ADlvia%20Alexandra.md)
-- [Sílvia Reis](../../Pessoas/S/S%C3%ADlvia%20Reis.md)
 - [Teresa Mendes](../../Pessoas/T/Teresa%20Mendes.md)
-- [Teresa Santos](../../Pessoas/T/Teresa%20Santos.md)
 - [Tiago Pimenta](../../Pessoas/T/Tiago%20Pimenta.md)
-- [Vasco Vasconcelos](../../Pessoas/V/Vasco%20Vasconcelos.md)
-- [Zeca Lima](../../Pessoas/Z/Zeca%20Lima.md)
 
 ---
 

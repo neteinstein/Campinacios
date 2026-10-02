@@ -12,24 +12,6 @@ Este acampamento decorreu de 25 de Julho a 3 de Agosto de 2006 em [Vila da Ponte
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Rui Junqueira](../../Pessoas/R/Rui%20Junqueira.md), [Sara Póvoa](../../Pessoas/S/Sara%20P%C3%B3voa.md) e [Vasco Vasconcelos](../../Pessoas/V/Vasco%20Vasconcelos.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Diogo Torcato](../../Pessoas/D/Diogo%20Torcato.md), [Manuel Silva](../../Pessoas/M/Manuel%20Silva.md), [Filipe Barroso](../../Pessoas/F/Filipe%20Barroso.md), [Andreia Gil](../../Pessoas/A/Andreia%20Gil.md), [Catarina Alves](../../Pessoas/C/Catarina%20Alves.md) e [Mariana Cardoso](../../Pessoas/M/Mariana%20Cardoso.md)
 
-## Páginas que ligam para aqui
-
-- [Ana Pinheiro](../../Pessoas/A/Ana%20Pinheiro.md)
-- [Ana Poças](../../Pessoas/A/Ana%20Po%C3%A7as.md)
-- [Ana Ribeiro](../../Pessoas/A/Ana%20Ribeiro.md)
-- [Andreia Gil](../../Pessoas/A/Andreia%20Gil.md)
-- [Catarina Alves](../../Pessoas/C/Catarina%20Alves.md)
-- [Diogo Torcato](../../Pessoas/D/Diogo%20Torcato.md)
-- [Filipe Barroso](../../Pessoas/F/Filipe%20Barroso.md)
-- [Manuel Silva](../../Pessoas/M/Manuel%20Silva.md)
-- [Mariana Cardoso](../../Pessoas/M/Mariana%20Cardoso.md)
-- [Pedro Pinheiro](../../Pessoas/P/Pedro%20Pinheiro.md)
-- [Ricardo Neves](../../Pessoas/R/Ricardo%20Neves.md)
-- [Rui Junqueira](../../Pessoas/R/Rui%20Junqueira.md)
-- [Sara Póvoa](../../Pessoas/S/Sara%20P%C3%B3voa.md)
-- [Vasco Vasconcelos](../../Pessoas/V/Vasco%20Vasconcelos.md)
-- [Zeca Lima](../../Pessoas/Z/Zeca%20Lima.md)
-
 ---
 
 | Categorias |

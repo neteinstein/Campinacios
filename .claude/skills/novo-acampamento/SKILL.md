@@ -38,8 +38,7 @@ Leave new names as plain text unless the user asks for pages.
 `docs/Acampamentos/<ano>/<Nome>.md`. Copy the shape of a recent camp,
 e.g. `docs/Acampamentos/2011/Esperança.md`: intro, `### Animadores`
 (`- [Director](../../Cargos/Director.md) - [Pessoa](...)`), nunca
-`### Participantes`, `## Páginas que ligam para aqui` (the pages
-you are about to make link here, sorted by title), then the footer:
+`### Participantes`, then the footer:
 
 ```markdown
 ---
@@ -103,9 +102,12 @@ And the rest of the year and cross-references:
   (`## Páginas nesta categoria (N)`).
 - Each linked person: add `    - <ano> [Nome](…) - [Cargo](…)` under
   **Animador/Animadora** (team) or `    - <ano> [Nome](…)` under
-  **Participante**, and the camp to their `## Páginas que ligam para aqui`.
-  Um participante com página entra também nas "Páginas que ligam para aqui"
-  do campo, mas não numa lista de participantes no campo.
+  **Participante**. Um participante com página não entra na equipa do campo;
+  se é animador, o campo ganha-o em `## Participantes que se tornaram
+  animadores`, e as páginas de `docs/Cargos/` ganham as pessoas em
+  `## Pessoas com este cargo`. Ambas se escrevem com
+  `python3 .claude/skills/nova-pessoa/scripts/pessoas.py secoes` (ver
+  `nova-pessoa`), não à mão.
   Same for the role pages in `docs/Cargos/` (Director, Mamã, …).
 - `docs/Todos os artigos.md`: the camp under its letter, and 1 more in the
   "N artigos" count; the home page `docs/index.md` count (`**[N artigos]**`)
@@ -123,9 +125,9 @@ python3 .claude/skills/nova-pessoa/scripts/pessoas.py reciprocas "docs/Acampamen
 mkdocs build --strict
 ```
 
-`reciprocas` confirma que cada pessoa da equipa tem o campo na sua página
-(e o campo nas suas "Páginas que ligam para aqui"), e o contrário. Os
-participantes não entram no campo: o campo só lista a equipa.
+`reciprocas` confirma que cada pessoa da equipa tem o campo na sua página,
+e o contrário, e que as listas geradas dos campos e dos cargos estão
+certas. Os participantes não entram na equipa do campo.
 
 The validator checks the table row, the category list and its count, that
 `docs/Acampamentos/index.md` has the same table rows, page list and count

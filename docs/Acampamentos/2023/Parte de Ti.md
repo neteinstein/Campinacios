@@ -10,16 +10,9 @@
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [António Pamplona](../../Pessoas/A/Ant%C3%B3nio%20Pamplona.md) sj
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md), [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md) e [Leonor Banha da Silva](../../Pessoas/L/Leonor%20Banha%20da%20Silva.md) (Licas)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [António Pamplona](../../Pessoas/A/Ant%C3%B3nio%20Pamplona.md)
 - [Fernando Monteiro](../../Pessoas/F/Fernando%20Monteiro.md)
-- [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
-- [Isabel Fonseca](../../Pessoas/I/Isabel%20Fonseca.md)
-- [Janine Silva](../../Pessoas/J/Janine%20Silva.md)
-- [Leonor Banha da Silva](../../Pessoas/L/Leonor%20Banha%20da%20Silva.md)
-- [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md)
-- [Tiago Vilas Boas](../../Pessoas/T/Tiago%20Vilas%20Boas.md)
 
 ---
 

@@ -26,15 +26,6 @@ José Luís Martins Fernandes, nascido a 1 de Dezembro de 1979, é animador do C
 
 É irmão do [Zé Aves](Jos%C3%A9%20Miguel%20Fernandes.md)
 
-## Páginas que ligam para aqui
-
-- [Caldelas](../../Acampamentos/1996/Caldelas.md)
-- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
-- [Génesis 2003 d.C.](../../Acampamentos/2003/G%C3%A9nesis%202003%20d.C..md)
-- [José Fernandes](../../Movimento/Desambigua%C3%A7%C3%A3o/Jos%C3%A9%20Fernandes.md)
-- [José Miguel Fernandes](Jos%C3%A9%20Miguel%20Fernandes.md)
-- [Tranquilo](../../Acampamentos/2000/Tranquilo.md)
-
 ---
 
 | Categorias |

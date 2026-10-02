@@ -97,27 +97,6 @@ SECRETO! AMIGO! SECRETO! AMIGO!
 
 http://OPA07.blogspot.com *OPA 07*
 
-## Páginas que ligam para aqui
-
-- [Ana Quaresma](../../Pessoas/A/Ana%20Quaresma.md)
-- [Ana Simões](../../Pessoas/A/Ana%20Sim%C3%B5es.md)
-- [Beatriz Miranda](../../Pessoas/B/Beatriz%20Miranda.md)
-- [Bernardo Narciso](../../Pessoas/B/Bernardo%20Narciso.md)
-- [Cantinácio: Campinácios](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md)
-- [Diogo Cordeiro Ferreira](../../Pessoas/D/Diogo%20Cordeiro%20Ferreira.md)
-- [Elias Oliveira](../../Pessoas/E/Elias%20Oliveira.md)
-- [Gonçalo Vaz Pedro](../../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md)
-- [Joana Martins](../../Pessoas/J/Joana%20Martins.md)
-- [Maria Cortês Ferreira](../../Pessoas/M/Maria%20Cort%C3%AAs%20Ferreira.md)
-- [Maria João Simões](../../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
-- [Mariana Franco](../../Pessoas/M/Mariana%20Franco.md)
-- [Martinho Lucas Pires](../../Pessoas/M/Martinho%20Lucas%20Pires.md)
-- [Mário Carvalho](../../Pessoas/M/M%C3%A1rio%20Carvalho.md)
-- [Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md)
-- [Rita Lourenço](../../Pessoas/R/Rita%20Louren%C3%A7o.md)
-- [Sérgio Carvalho](../../Pessoas/S/S%C3%A9rgio%20Carvalho.md)
-- [Sílvia Reis](../../Pessoas/S/S%C3%ADlvia%20Reis.md)
-
 ---
 
 | Categorias |

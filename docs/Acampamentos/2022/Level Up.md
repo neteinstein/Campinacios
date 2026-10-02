@@ -9,13 +9,6 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Kiko Carmo](../../Pessoas/K/Kiko%20Carmo.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Miranda](../../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md) sj
 
-## Páginas que ligam para aqui
-
-- [Francisco Seabra](../../Pessoas/F/Francisco%20Seabra.md)
-- [José Carlos Miranda](../../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md)
-- [Kiko Carmo](../../Pessoas/K/Kiko%20Carmo.md)
-- [Maria Silva](../../Pessoas/M/Maria%20Silva.md)
-
 ---
 
 | Categorias |

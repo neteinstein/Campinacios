@@ -6,10 +6,6 @@
 
 - [Director](../../Cargos/Director.md) - [Filipe Próspero](../../Pessoas/F/Filipe%20Pr%C3%B3spero.md)
 
-## Páginas que ligam para aqui
-
-- [Filipe Próspero](../../Pessoas/F/Filipe%20Pr%C3%B3spero.md)
-
 ---
 
 **Outros nomes:** Nheca Nheca Macacão

@@ -18,10 +18,6 @@ Teresa Mendes mais conhecida por Nini.
 
 É irmã da [Francisca Mendes](../F/Francisca%20Mendes.md) e [Rita Mendes](../R/Rita%20Mendes.md)
 
-## Páginas que ligam para aqui
-
-- [Francisca Mendes](../F/Francisca%20Mendes.md)
-
 ---
 
 **Outros nomes:** Nini

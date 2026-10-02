@@ -11,11 +11,9 @@
 - [Capelinho](../../Cargos/Capelinho.md) - -----
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - -----
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
 - [João Miguel Rodrigues](../../Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md)
-- [Tiago Carneiro](../../Pessoas/T/Tiago%20Carneiro.md)
-- [Vítor Fernandes](../../Pessoas/V/V%C3%ADtor%20Fernandes.md)
 
 ---
 

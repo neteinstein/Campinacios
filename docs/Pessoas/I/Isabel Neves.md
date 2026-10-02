@@ -19,11 +19,6 @@ Isabel Neves, mais conhecida por Pica
 
 É irmã do [Ricardo Neves](../R/Ricardo%20Neves.md)
 
-## Páginas que ligam para aqui
-
-- [Pica](../../Movimento/Desambigua%C3%A7%C3%A3o/Pica.md)
-- [Survivor](../../Acampamentos/2009/Survivor.md)
-
 ---
 
 | Categorias |

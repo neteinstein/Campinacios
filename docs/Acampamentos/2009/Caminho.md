@@ -61,23 +61,18 @@ Deixo-vos aqui as indicações para chegar ao ponto de partida...mas tenham pres
 
 Paulo de Tarso
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
 - [Alexandra Silva](../../Pessoas/A/Alexandra%20Silva.md)
 - [Ana Carolina Bardi](../../Pessoas/A/Ana%20Carolina%20Bardi.md)
 - [Ana Carolina Santos](../../Pessoas/A/Ana%20Carolina%20Santos.md)
-- [Ana Martins](../../Pessoas/A/Ana%20Martins.md)
 - [Ana Pais](../../Pessoas/A/Ana%20Pais.md)
 - [Ana Paula Gomes](../../Pessoas/A/Ana%20Paula%20Gomes.md)
 - [Ana Sofia Pinelas](../../Pessoas/A/Ana%20Sofia%20Pinelas.md)
 - [André Barreiras](../../Pessoas/A/Andr%C3%A9%20Barreiras.md)
-- [António Queiroz Martins](../../Pessoas/A/Ant%C3%B3nio%20Queiroz%20Martins.md)
-- [Bernardo Narciso](../../Pessoas/B/Bernardo%20Narciso.md)
-- [Cantinácio: Campinácios](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md)
 - [Carla Carneiro](../../Pessoas/C/Carla%20Carneiro.md)
 - [Carla Ferreira](../../Pessoas/C/Carla%20Ferreira.md)
 - [Catarina Fonseca](../../Pessoas/C/Catarina%20Fonseca.md)
-- [Cristiana Leite](../../Pessoas/C/Cristiana%20Leite.md)
 - [Cátia Carvalho](../../Pessoas/C/C%C3%A1tia%20Carvalho.md)
 - [Filipa Marcelino](../../Pessoas/F/Filipa%20Marcelino.md)
 - [Francisco Carvalho](../../Pessoas/F/Francisco%20Carvalho.md)
@@ -86,26 +81,18 @@ Paulo de Tarso
 - [Joana Amado](../../Pessoas/J/Joana%20Amado.md)
 - [Joana Cardim](../../Pessoas/J/Joana%20Cardim.md)
 - [Joana Costa](../../Pessoas/J/Joana%20Costa.md)
-- [Joana Martins](../../Pessoas/J/Joana%20Martins.md)
-- [João Cortês Ferreira](../../Pessoas/J/Jo%C3%A3o%20Cort%C3%AAs%20Ferreira.md)
 - [Jorge Ramos](../../Pessoas/J/Jorge%20Ramos.md)
 - [José Pascoal](../../Pessoas/J/Jos%C3%A9%20Pascoal.md)
-- [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
-- [Luís Borges](../../Pessoas/L/Lu%C3%ADs%20Borges.md)
 - [Lúcia Ribeiro](../../Pessoas/L/L%C3%BAcia%20Ribeiro.md)
+- [Luís Borges](../../Pessoas/L/Lu%C3%ADs%20Borges.md)
 - [Margarida Maury](../../Pessoas/M/Margarida%20Maury.md)
-- [Maria Cortês Ferreira](../../Pessoas/M/Maria%20Cort%C3%AAs%20Ferreira.md)
-- [Maria João Simões](../../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
 - [Mariana Rato](../../Pessoas/M/Mariana%20Rato.md)
 - [Natacha Soares](../../Pessoas/N/Natacha%20Soares.md)
 - [Paulo Mesquita](../../Pessoas/P/Paulo%20Mesquita.md)
 - [Pedro Pinto](../../Pessoas/P/Pedro%20Pinto.md)
-- [Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md)
-- [Renato Costa](../../Pessoas/R/Renato%20Costa.md)
 - [Rita Quintela](../../Pessoas/R/Rita%20Quintela.md)
 - [Sara Fernandes](../../Pessoas/S/Sara%20Fernandes.md)
 - [Sílvia Lobo](../../Pessoas/S/S%C3%ADlvia%20Lobo.md)
-- [Sílvia Reis](../../Pessoas/S/S%C3%ADlvia%20Reis.md)
 
 ---
 

@@ -16,15 +16,6 @@
 
 É casada com [Francisco Costa Macedo](../F/Francisco%20Costa%20Macedo.md)
 
-## Páginas que ligam para aqui
-
-- [Campinácios](../../Movimento/Campin%C3%A1cios.md)
-- [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md)
-- [Ferrugenta](../../Acampamentos/1989/Ferrugenta.md)
-- [Florinhas](../../Acampamentos/1994/Florinhas.md)
-- [Francisco Costa Macedo](../F/Francisco%20Costa%20Macedo.md)
-- [Pedreira](../../Acampamentos/1989/Pedreira.md)
-
 ---
 
 **Outros nomes:** Concha Macedo

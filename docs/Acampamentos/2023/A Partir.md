@@ -9,13 +9,6 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Chico Carneiro](../../Pessoas/C/Chico%20Carneiro.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Diogo Couceiro](../../Pessoas/D/Diogo%20Couceiro.md) sj
 
-## Páginas que ligam para aqui
-
-- [Chico Carneiro](../../Pessoas/C/Chico%20Carneiro.md)
-- [Diogo Couceiro](../../Pessoas/D/Diogo%20Couceiro.md)
-- [Rafaela Azevedo](../../Pessoas/R/Rafaela%20Azevedo.md)
-- [Rita Sousa](../../Pessoas/R/Rita%20Sousa.md)
-
 ---
 
 | Categorias |

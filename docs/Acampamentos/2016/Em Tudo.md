@@ -6,10 +6,6 @@
 
 - [Director](../../Cargos/Director.md) - [Duda](../../Pessoas/D/Duda.md)
 
-## Páginas que ligam para aqui
-
-- [Duda](../../Pessoas/D/Duda.md)
-
 ---
 
 | Categorias |

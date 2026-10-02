@@ -6,10 +6,6 @@
 
 - [Director](../../Cargos/Director.md) - [Afonso Oom](../../Pessoas/A/Afonso%20Oom.md)
 
-## Páginas que ligam para aqui
-
-- [Afonso Oom](../../Pessoas/A/Afonso%20Oom.md)
-
 ---
 
 | Categorias |

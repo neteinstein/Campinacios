@@ -12,10 +12,6 @@
 
 É irmã da [Ana Salgado](../A/Ana%20Salgado.md).
 
-## Páginas que ligam para aqui
-
-- [Ana Salgado](../A/Ana%20Salgado.md)
-
 ---
 
 | Categorias |

@@ -13,11 +13,6 @@
 
 É irmã de [Helena Pais](../H/Helena%20Pais.md)
 
-## Páginas que ligam para aqui
-
-- [Helena Pais](../H/Helena%20Pais.md)
-- [Vi-O](../../Acampamentos/2009/Vi-O.md)
-
 ---
 
 **Outros nomes:** Ana Luna Pais

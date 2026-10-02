@@ -12,10 +12,6 @@ Sofia Amaral foi de 2005 a 2006 uma das animadoras do Colégio da Imaculada Conc
 - **Animador:**
     - 2006 [Origami](../../Acampamentos/2006/Origami.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
-## Páginas que ligam para aqui
-
-- [Origami](../../Acampamentos/2006/Origami.md)
-
 ---
 
 | Categorias |

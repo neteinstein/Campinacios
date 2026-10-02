@@ -13,14 +13,6 @@ Joana Ferreira é animadora do [CC](../../Movimento/CC.md).
 
 - 2022 [Encontro Nacional 2022](../../Encontros/Encontro%20Nacional%202022.md) - Directora
 
-## Páginas que ligam para aqui
-
-- [Coordenadores Nacionais](../../Categorias/Coordenadores%20Nacionais.md)
-- [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
-- [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
-- [Encontro Nacional 2022](../../Encontros/Encontro%20Nacional%202022.md)
-- [Joana Ferreira](../../Movimento/Desambigua%C3%A7%C3%A3o/Joana%20Ferreira.md)
-
 ---
 
 | Categorias |

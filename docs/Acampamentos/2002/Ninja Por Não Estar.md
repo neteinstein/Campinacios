@@ -12,28 +12,14 @@ O Ninja Por Não Estar foi um acampamento de Bicicletas que decorreu de 1 a 10 d
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Motorzinho](../../Pessoas/A/Andr%C3%A9%20Gon%C3%A7alves.md) e [Kiko](../../Pessoas/F/Francisco%20Almeida%20%28Kiko%29.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Joana Nunes](../../Pessoas/J/Joana%20Nunes.md), [João Coimbra](../../Pessoas/J/Jo%C3%A3o%20Coimbra.md), [Isa Neves](../../Pessoas/I/Isa%20Neves.md), [Madalena Reis](../../Pessoas/M/Madalena%20Reis.md), [JPC](../../Pessoas/J/Jo%C3%A3o%20Pedro%20Carlos.md) e [Joana Santos](../../Pessoas/J/Joana%20Santos.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
 - [Ana Simões](../../Pessoas/A/Ana%20Sim%C3%B5es.md)
-- [Ana Val-do-Rio](../../Pessoas/A/Ana%20Val-do-Rio.md)
 - [Analisa Lucas](../../Pessoas/A/Analisa%20Lucas.md)
-- [André Gonçalves](../../Pessoas/A/Andr%C3%A9%20Gon%C3%A7alves.md)
-- [António Valério](../../Pessoas/A/Ant%C3%B3nio%20Val%C3%A9rio.md)
 - [Beatriz Miranda](../../Pessoas/B/Beatriz%20Miranda.md)
-- [Diogo Romão](../../Pessoas/D/Diogo%20Rom%C3%A3o.md)
 - [Elias Oliveira](../../Pessoas/E/Elias%20Oliveira.md)
-- [Francisco Almeida (Kiko)](../../Pessoas/F/Francisco%20Almeida%20%28Kiko%29.md)
-- [Gonçalo Belo](../../Pessoas/G/Gon%C3%A7alo%20Belo.md)
-- [Isa Neves](../../Pessoas/I/Isa%20Neves.md)
-- [Joana Nunes](../../Pessoas/J/Joana%20Nunes.md)
-- [Joana Santos](../../Pessoas/J/Joana%20Santos.md)
-- [João Coimbra](../../Pessoas/J/Jo%C3%A3o%20Coimbra.md)
-- [João Pedro Carlos](../../Pessoas/J/Jo%C3%A3o%20Pedro%20Carlos.md)
 - [Madalena Mariz](../../Pessoas/M/Madalena%20Mariz.md)
-- [Madalena Reis](../../Pessoas/M/Madalena%20Reis.md)
 - [Mafalda Pereira](../../Pessoas/M/Mafalda%20Pereira.md)
-- [Maria Cristina Leal](../../Pessoas/M/Maria%20Cristina%20Leal.md)
-- [Ricardo Lopes](../../Pessoas/R/Ricardo%20Lopes.md)
 - [Tiago Carneiro](../../Pessoas/T/Tiago%20Carneiro.md)
 
 ---

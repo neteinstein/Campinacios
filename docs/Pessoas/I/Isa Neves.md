@@ -7,12 +7,6 @@
     - 2002 [Ninja Por Não Estar](../../Acampamentos/2002/Ninja%20Por%20N%C3%A3o%20Estar.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2003 [Cabala](../../Acampamentos/2003/Cabala.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
-## Páginas que ligam para aqui
-
-- [Cabala](../../Acampamentos/2003/Cabala.md)
-- [Cinena](../../Acampamentos/2001/Cinena.md)
-- [Ninja Por Não Estar](../../Acampamentos/2002/Ninja%20Por%20N%C3%A3o%20Estar.md)
-
 ---
 
 | Categorias |

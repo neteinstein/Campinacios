@@ -12,16 +12,6 @@
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Rui Fernandes](../../Pessoas/R/Rui%20Fernandes.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Gonçalo Pedrosa](../../Pessoas/G/Gon%C3%A7alo%20Pedrosa.md) sj
 
-## Páginas que ligam para aqui
-
-- [Gonçalo Pedrosa](../../Pessoas/G/Gon%C3%A7alo%20Pedrosa.md)
-- [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
-- [Jaime Lucas Pires](../../Pessoas/J/Jaime%20Lucas%20Pires.md)
-- [Johnny Sousa](../../Pessoas/J/Johnny%20Sousa.md)
-- [Rafaela Azevedo](../../Pessoas/R/Rafaela%20Azevedo.md)
-- [Rui Fernandes](../../Pessoas/R/Rui%20Fernandes.md)
-- [Sofia Ângelo](../../Pessoas/S/Sofia%20%C3%82ngelo.md)
-
 ---
 
 | Categorias |

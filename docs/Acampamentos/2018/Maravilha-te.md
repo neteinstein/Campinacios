@@ -8,12 +8,9 @@
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Vasco Teixeira](../../Pessoas/V/Vasco%20Teixeira.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Duarte Rosado](../../Pessoas/D/Duarte%20Rosado.md) sj
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [Duarte Rosado](../../Pessoas/D/Duarte%20Rosado.md)
 - [Francisco Dioniz Barroso Loureiro](../../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
-- [Pedro Santos](../../Pessoas/P/Pedro%20Santos.md)
-- [Vasco Teixeira](../../Pessoas/V/Vasco%20Teixeira.md)
 
 ---
 

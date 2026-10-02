@@ -8,12 +8,9 @@ Este acampamento decorreu em [Alvoco das Várzeas](../../Restrito/Locais%20de%20
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [São Martinho](../../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)
 - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Inês Serra Ferreira](../../Pessoas/I/In%C3%AAs%20Serra%20Ferreira.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [Conceição Martinho](../../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)
-- [Inês Serra Ferreira](../../Pessoas/I/In%C3%AAs%20Serra%20Ferreira.md)
 - [Mariana Franco](../../Pessoas/M/Mariana%20Franco.md)
-- [Paulo Pimenta](../../Pessoas/P/Paulo%20Pimenta.md)
 - [Tiago Carneiro](../../Pessoas/T/Tiago%20Carneiro.md)
 
 ---

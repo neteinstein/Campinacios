@@ -14,11 +14,6 @@
 - **Animadora:**
     - 2009 [Incrível](../../Acampamentos/2009/Incr%C3%ADvel.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
-## Páginas que ligam para aqui
-
-- [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md)
-- [Incrível](../../Acampamentos/2009/Incr%C3%ADvel.md)
-
 ---
 
 | Categorias |

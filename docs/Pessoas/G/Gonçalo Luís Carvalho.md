@@ -21,16 +21,6 @@ Gonçalo Carvalho, é desde 2005 um dos animadores do Colégio da Imaculada Conc
 
 - 2010 [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md) - Encaminhamento/Segurança
 
-## Páginas que ligam para aqui
-
-- [Baza](../../Acampamentos/2007/Baza.md)
-- [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md)
-- [Gonçalo Carvalho](../../Movimento/Desambigua%C3%A7%C3%A3o/Gon%C3%A7alo%20Carvalho.md)
-- [Limpopolus](../../Acampamentos/2012/Limpopolus.md)
-- [Nómada](../../Acampamentos/2006/N%C3%B3mada.md)
-- [Pedra papel tesoura](../../Acampamentos/2011/Pedra%20papel%20tesoura.md)
-- [TufarfarAway](../../Acampamentos/2008/TufarfarAway.md)
-
 ---
 
 **Outros nomes:** Bolachão

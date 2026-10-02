@@ -21,15 +21,6 @@ José Miguel Martins Fernandes, nascido a 15 de Abril de 1987, é animador do CC
 
 É irmão do [José Luís Fernandes](Jos%C3%A9%20Lu%C3%ADs%20Fernandes.md).
 
-## Páginas que ligam para aqui
-
-- [Baúmerang](../../Acampamentos/2007/Ba%C3%BAmerang.md)
-- [Eureka](../../Acampamentos/2008/Eureka.md)
-- [Incrível](../../Acampamentos/2009/Incr%C3%ADvel.md)
-- [José Fernandes](../../Movimento/Desambigua%C3%A7%C3%A3o/Jos%C3%A9%20Fernandes.md)
-- [José Luís Fernandes](Jos%C3%A9%20Lu%C3%ADs%20Fernandes.md)
-- [Nómada](../../Acampamentos/2006/N%C3%B3mada.md)
-
 ---
 
 **Outros nomes:** Zé Aves

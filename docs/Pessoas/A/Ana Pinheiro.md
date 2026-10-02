@@ -19,15 +19,6 @@
 
 É irmã do [Pedro Pinheiro](../P/Pedro%20Pinheiro.md).
 
-## Páginas que ligam para aqui
-
-- [Arethë](../../Acampamentos/2008/Areth%C3%AB.md)
-- [Bublix](../../Acampamentos/2009/Bublix.md)
-- [Em Busca da CaraBela](../../Acampamentos/2006/Em%20Busca%20da%20CaraBela.md)
-- [Fófinhos](../../Acampamentos/2005/F%C3%B3finhos.md)
-- [Pedro Pinheiro](../P/Pedro%20Pinheiro.md)
-- [Triciclos 1](../../Acampamentos/1997/Triciclos%201.md)
-
 ---
 
 | Categorias |

@@ -19,11 +19,6 @@ Miguel Monteiro é um dos animadores do Colégio da Imaculada Conceição.
     - 2009 [Talithá Kum](../../Acampamentos/2009/Talith%C3%A1%20Kum.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2011 [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md)
 
-## Páginas que ligam para aqui
-
-- [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md)
-- [Talithá Kum](../../Acampamentos/2009/Talith%C3%A1%20Kum.md)
-
 ---
 
 | Categorias |

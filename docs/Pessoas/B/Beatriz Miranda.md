@@ -27,14 +27,6 @@ Beatriz Miranda é desde 2006, um das animadoras do Colégio da Imaculada Concei
 
 É irmã da [Cecília Miranda](../C/Cec%C3%ADlia%20Miranda.md) e [José Carlos Miranda](../J/Jos%C3%A9%20Carlos%20Miranda.md).
 
-## Páginas que ligam para aqui
-
-- [Arethë](../../Acampamentos/2008/Areth%C3%AB.md)
-- [Cecília Miranda](../C/Cec%C3%ADlia%20Miranda.md)
-- [José Carlos Miranda](../J/Jos%C3%A9%20Carlos%20Miranda.md)
-- [Lembras-te?](../../Acampamentos/2009/Lembras-te.md)
-- [OPA](../../Acampamentos/2007/OPA.md)
-
 ---
 
 | Categorias |

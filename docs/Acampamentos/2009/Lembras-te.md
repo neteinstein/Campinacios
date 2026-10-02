@@ -10,23 +10,13 @@ O Lembras-te? decorreu entre os dias 29 de Julho e 7 de Agosto de 2009 no [Lugar
 - [Tio](../../Cargos/Tio.md) - [Tiago Gonçalves](../../Pessoas/T/Tiago%20Gon%C3%A7alves.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Beatriz Miranda](../../Pessoas/B/Beatriz%20Miranda.md), [Cecília Miranda](../../Pessoas/C/Cec%C3%ADlia%20Miranda.md), [Duarte Dias](../../Pessoas/D/Duarte%20Dias.md), [Rui Junqueira](../../Pessoas/R/Rui%20Junqueira.md) e [Vasco Vasconcelos](../../Pessoas/V/Vasco%20Vasconcelos.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [Andreia Gil](../../Pessoas/A/Andreia%20Gil.md)
-- [Beatriz Miranda](../../Pessoas/B/Beatriz%20Miranda.md)
 - [Catarina Pinto](../../Pessoas/C/Catarina%20Pinto.md)
-- [Cecília Miranda](../../Pessoas/C/Cec%C3%ADlia%20Miranda.md)
-- [Duarte Dias](../../Pessoas/D/Duarte%20Dias.md)
-- [Gonçalo Fonseca](../../Pessoas/G/Gon%C3%A7alo%20Fonseca.md)
-- [João Goulão](../../Pessoas/J/Jo%C3%A3o%20Goul%C3%A3o.md)
 - [João Miguel Rodrigues](../../Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md)
-- [João Quintela](../../Pessoas/J/Jo%C3%A3o%20Quintela.md)
 - [Paulo Cardoso](../../Pessoas/P/Paulo%20Cardoso.md)
 - [Ricardo Costa](../../Pessoas/R/Ricardo%20Costa.md)
-- [Rui Junqueira](../../Pessoas/R/Rui%20Junqueira.md)
 - [Sara Moinhos](../../Pessoas/S/Sara%20Moinhos.md)
-- [Tiago Gonçalves](../../Pessoas/T/Tiago%20Gon%C3%A7alves.md)
-- [Vasco Vasconcelos](../../Pessoas/V/Vasco%20Vasconcelos.md)
 
 ---
 

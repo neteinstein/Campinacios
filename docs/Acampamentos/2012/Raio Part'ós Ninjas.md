@@ -7,11 +7,6 @@
 - [Director](../../Cargos/Director.md) - [Gonçalo Vaz Pedro](../../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md)
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - [Sara Moinhos](../../Pessoas/S/Sara%20Moinhos.md)
 
-## Páginas que ligam para aqui
-
-- [Gonçalo Vaz Pedro](../../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md)
-- [Sara Moinhos](../../Pessoas/S/Sara%20Moinhos.md)
-
 ---
 
 **Outros nomes:** Rais parta os ninja · Raios Part'os Ninja

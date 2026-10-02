@@ -15,11 +15,6 @@
     - 2010 [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md) - [Tia](../../Cargos/Tio.md)
     - 2011 [Pedra papel tesoura](../../Acampamentos/2011/Pedra%20papel%20tesoura.md)
 
-## Páginas que ligam para aqui
-
-- [Pedra papel tesoura](../../Acampamentos/2011/Pedra%20papel%20tesoura.md)
-- [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md)
-
 ---
 
 | Categorias |

@@ -26,22 +26,6 @@
 
 É irmão da [Mafalda Junqueira](../M/Mafalda%20Junqueira.md).
 
-## Páginas que ligam para aqui
-
-- [Ana Junqueira](../A/Ana%20Junqueira.md)
-- [Casca de Banana](../../Acampamentos/2005/Casca%20de%20Banana.md)
-- [Em Busca da CaraBela](../../Acampamentos/2006/Em%20Busca%20da%20CaraBela.md)
-- [Fófinhos](../../Acampamentos/2005/F%C3%B3finhos.md)
-- [Jangada](../../Acampamentos/2002/Jangada.md)
-- [Lembras-te?](../../Acampamentos/2009/Lembras-te.md)
-- [Mafalda Junqueira](../M/Mafalda%20Junqueira.md)
-- [Obra Prima](../../Acampamentos/2010/Obra%20Prima.md)
-- [Pirilama](../../Acampamentos/2000/Pirilama.md)
-- [Regresso a Alvoco II](../../Acampamentos/1998/Regresso%20a%20Alvoco%20II.md)
-- [Surpresa](../../Acampamentos/2001/Surpresa.md)
-- [Xii Tava Kuase Lá...!](../../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md)
-- [Ídolo](../../Acampamentos/2004/%C3%8Ddolo.md)
-
 ---
 
 | Categorias |

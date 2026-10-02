@@ -12,22 +12,6 @@ O Bike Just do it foi um acampamento de Bicicletas, ocorrido em [Quinta da Mata 
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - [Jacinto Bezerra](../../Pessoas/J/Jacinto%20Bezerra.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Kiko](../../Pessoas/F/Francisco%20Silva.md), [Vítor Leite](../../Pessoas/V/V%C3%ADtor%20Leite.md), [Mafalda Pereira](../../Pessoas/M/Mafalda%20Pereira.md), [Tiago Madeira](../../Pessoas/T/Tiago%20Madeira.md) e [Ana Quaresma](../../Pessoas/A/Ana%20Quaresma.md)
 
-## Páginas que ligam para aqui
-
-- [Ana Paula Sampaio](../../Pessoas/A/Ana%20Paula%20Sampaio.md)
-- [Ana Quaresma](../../Pessoas/A/Ana%20Quaresma.md)
-- [Andreia Gil](../../Pessoas/A/Andreia%20Gil.md)
-- [António Valério](../../Pessoas/A/Ant%C3%B3nio%20Val%C3%A9rio.md)
-- [Francisco Silva](../../Pessoas/F/Francisco%20Silva.md)
-- [Jacinto Bezerra](../../Pessoas/J/Jacinto%20Bezerra.md)
-- [Joana Gomes](../../Pessoas/J/Joana%20Gomes.md)
-- [João Quintela](../../Pessoas/J/Jo%C3%A3o%20Quintela.md)
-- [Mafalda Pereira](../../Pessoas/M/Mafalda%20Pereira.md)
-- [Mariana Roxo](../../Pessoas/M/Mariana%20Roxo.md)
-- [Nuno Branco](../../Pessoas/N/Nuno%20Branco.md)
-- [Tiago Madeira](../../Pessoas/T/Tiago%20Madeira.md)
-- [Vítor Leite](../../Pessoas/V/V%C3%ADtor%20Leite.md)
-
 ---
 
 | Categorias |

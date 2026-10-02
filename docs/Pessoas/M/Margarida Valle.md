@@ -10,13 +10,6 @@
 
 É mãe do [Vasco Lucas Pires](../V/Vasco%20Lucas%20Pires.md) e do [Jaime Lucas Pires](../J/Jaime%20Lucas%20Pires.md).
 
-## Páginas que ligam para aqui
-
-- [Jaime Lucas Pires](../J/Jaime%20Lucas%20Pires.md)
-- [Tribal](../../Acampamentos/1992/Tribal.md)
-- [Vasco Lucas Pires](../V/Vasco%20Lucas%20Pires.md)
-- [Wally](../../Acampamentos/1994/Wally.md)
-
 ---
 
 | Categorias |
