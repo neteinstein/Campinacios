@@ -6,10 +6,6 @@
 
 - [Director](../../Cargos/Director.md) - [António Pimenta](../../Pessoas/A/Ant%C3%B3nio%20Pimenta.md)
 
-## Páginas que ligam para aqui
-
-- [António Pimenta](../../Pessoas/A/Ant%C3%B3nio%20Pimenta.md)
-
 ---
 
 | Categorias |

@@ -9,13 +9,6 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Renato Gonçalves](../../Pessoas/R/Renato%20Gon%C3%A7alves.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md) sj
 
-## Páginas que ligam para aqui
-
-- [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
-- [Mariana Cardal](../../Pessoas/M/Mariana%20Cardal.md)
-- [Pedro Amado](../../Pessoas/P/Pedro%20Amado.md)
-- [Renato Gonçalves](../../Pessoas/R/Renato%20Gon%C3%A7alves.md)
-
 ---
 
 | Categorias |

@@ -7,11 +7,6 @@
 - [Director](../../Cargos/Director.md) - [Miguel França Martins](../../Pessoas/M/Miguel%20Fran%C3%A7a%20Martins.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
 
-## Páginas que ligam para aqui
-
-- [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
-- [Miguel França Martins](../../Pessoas/M/Miguel%20Fran%C3%A7a%20Martins.md)
-
 ---
 
 | Categorias |

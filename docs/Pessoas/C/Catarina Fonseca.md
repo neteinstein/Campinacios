@@ -17,14 +17,6 @@
 
 É irmã da [Inês Fonseca](../I/In%C3%AAs%20Fonseca.md)
 
-## Páginas que ligam para aqui
-
-- [Ara](../../Acampamentos/2011/Ara.md)
-- [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md)
-- [Inês Fonseca](../I/In%C3%AAs%20Fonseca.md)
-- [Rita Fonseca](../R/Rita%20Fonseca.md)
-- [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md)
-
 ---
 
 | Categorias |

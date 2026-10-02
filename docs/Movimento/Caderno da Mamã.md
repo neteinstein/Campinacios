@@ -464,14 +464,6 @@ Cada colégio leva 8 pacotes de bolachas.
 Se te lembrares de alguma coisa que não está aqui escrita, não hesites, põe-na em prática!
 Já agora, escreve-a na tua avaliação. Muita saúde e boa sorte para os vossos acampamentos.
 
-## Páginas que ligam para aqui
-
-- [Caderno de Jogos](Caderno%20de%20Jogos.md)
-- [Culinácio](Culin%C3%A1cio.md)
-- [Mamã](../Cargos/Mam%C3%A3.md)
-- [Manual de Funções](Manual%20de%20Fun%C3%A7%C3%B5es.md)
-- [Manual do Director](Manual%20do%20Director.md)
-
 ---
 
 | Categorias |

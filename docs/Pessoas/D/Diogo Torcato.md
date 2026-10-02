@@ -11,13 +11,6 @@
     - 2007 [Bora Bora](../../Acampamentos/2007/Bora%20Bora.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2008 [Arethë](../../Acampamentos/2008/Areth%C3%AB.md) - [Director](../../Cargos/Director.md)
 
-## Páginas que ligam para aqui
-
-- [Arethë](../../Acampamentos/2008/Areth%C3%AB.md)
-- [Bora Bora](../../Acampamentos/2007/Bora%20Bora.md)
-- [Em Busca da CaraBela](../../Acampamentos/2006/Em%20Busca%20da%20CaraBela.md)
-- [Terra do Nunca](../../Acampamentos/2005/Terra%20do%20Nunca.md)
-
 ---
 
 | Categorias |

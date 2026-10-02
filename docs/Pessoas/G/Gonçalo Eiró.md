@@ -13,14 +13,6 @@
     - 1993 [Tabuadelas II](../../Acampamentos/1993/Tabuadelas%20II.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 1993 [Ermal](../../Acampamentos/1993/Ermal.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
-## Páginas que ligam para aqui
-
-- [CIFA II](../../Acampamentos/1991/CIFA%20II.md)
-- [Camtil](../../Movimento/Camtil.md)
-- [Ermal](../../Acampamentos/1993/Ermal.md)
-- [Fornelos](../../Acampamentos/1992/Fornelos.md)
-- [Tabuadelas II](../../Acampamentos/1993/Tabuadelas%20II.md)
-
 ---
 
 | Categorias |

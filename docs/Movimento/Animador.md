@@ -139,9 +139,3 @@ Em 2009 a página da [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campi
 - **Excepções:** um impedimento de ir ao acampamento de formação é avaliado pela Direcção Nacional; uma acção substituída por outra da Pastoral Intercolegial e Universitária dos Jesuítas tem de ser aprovada pela Direcção Local; e os animadores do [Camtil](Camtil.md) e dos [Gambozinos](Gambozinos.md) com dois ou mais anos de animação podem animar acampamentos dos Campinácios sem fazer o plano.
 
 Na mesma secção estava o texto «Os Animadores», do [António Valério](../Pessoas/A/Ant%C3%B3nio%20Val%C3%A9rio.md) sj (Dezembro de 2009), sobre uma reunião de animadores ao fim do sétimo dia de campo e o que os leva a dar tanto de si: devolver o que receberam como participantes, conhecer os próprios limites sem querer ser «animador-estrela», e o valor do serviço gratuito. Ver os dois textos [no web.archive.org](https://web.archive.org/web/20110916032317/http://www.campinacios.org:80/index.php?option=com_content&view=category&layout=blog&id=41&Itemid=82).
-
-## Páginas que ligam para aqui
-
-- [Manual de Funções](Manual%20de%20Fun%C3%A7%C3%B5es.md)
-- [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
-- [Vocabulário](Vocabul%C3%A1rio.md)

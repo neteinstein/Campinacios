@@ -7,10 +7,8 @@
 - [Director](../../Cargos/Director.md) - [Joana Matos](../../Pessoas/J/Joana%20Matos.md)
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - [Sara Moinhos](../../Pessoas/S/Sara%20Moinhos.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [Joana Matos](../../Pessoas/J/Joana%20Matos.md)
-- [Sara Moinhos](../../Pessoas/S/Sara%20Moinhos.md)
 - [Tiago Vilas Boas](../../Pessoas/T/Tiago%20Vilas%20Boas.md)
 
 ---

@@ -9,13 +9,6 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Kiko Sá](../../Pessoas/K/Kiko%20S%C3%A1.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Diogo Couceiro](../../Pessoas/D/Diogo%20Couceiro.md) sj
 
-## Páginas que ligam para aqui
-
-- [André Teixeira](../../Pessoas/A/Andr%C3%A9%20Teixeira.md)
-- [Diogo Couceiro](../../Pessoas/D/Diogo%20Couceiro.md)
-- [Kiko Sá](../../Pessoas/K/Kiko%20S%C3%A1.md)
-- [Mariana Cardim](../../Pessoas/M/Mariana%20Cardim.md)
-
 ---
 
 | Categorias |

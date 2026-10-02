@@ -12,19 +12,6 @@
 - [Tias](../../Cargos/Tio.md) - [Joana Coelho](../../Pessoas/J/Joana%20Coelho.md), Ana Catarina Gil
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - Teresinha Esteves da Fonseca, [Ana Rita Costa](../../Pessoas/A/Ana%20Rita%20Costa.md), [Ana Luísa Reis](../../Pessoas/A/Ana%20Lu%C3%ADsa%20Reis.md), [Sofia Fernandes](../../Pessoas/S/Sofia%20Fernandes.md), António Rebelo (Toni), [Sebastião Veloso](../../Pessoas/S/Sebasti%C3%A3o%20Veloso.md) (Pião)
 
-## Páginas que ligam para aqui
-
-- [Ana Luísa Reis](../../Pessoas/A/Ana%20Lu%C3%ADsa%20Reis.md)
-- [Ana Rita Costa](../../Pessoas/A/Ana%20Rita%20Costa.md)
-- [Joana Coelho](../../Pessoas/J/Joana%20Coelho.md)
-- [José Emanuel Ferreira](../../Pessoas/J/Jos%C3%A9%20Emanuel%20Ferreira.md)
-- [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
-- [Rita Quintela](../../Pessoas/R/Rita%20Quintela.md)
-- [Sebastião Veloso](../../Pessoas/S/Sebasti%C3%A3o%20Veloso.md)
-- [Sofia Fernandes](../../Pessoas/S/Sofia%20Fernandes.md)
-- [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md)
-- [Vasco Teixeira](../../Pessoas/V/Vasco%20Teixeira.md)
-
 ---
 
 | Categorias |

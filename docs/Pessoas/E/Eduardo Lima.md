@@ -12,11 +12,6 @@ Eduardo Daniel Martins Lima, nascido a 12 de Abril de 1984 é animador do CC.
     - 2005 [Falésia](../../Acampamentos/2005/Fal%C3%A9sia.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2006 [Origami](../../Acampamentos/2006/Origami.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
-## Páginas que ligam para aqui
-
-- [Falésia](../../Acampamentos/2005/Fal%C3%A9sia.md)
-- [Origami](../../Acampamentos/2006/Origami.md)
-
 ---
 
 | Categorias |

@@ -19,16 +19,6 @@ Eduardo Manuel Ferreira de Castro Almeida, mais conhecido por Edu, nascido a 2 d
     - 2006 [Xii Tava Kuase Lá...!](../../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2007 [Diz Que Sim](../../Acampamentos/2007/Diz%20Que%20Sim.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
-## Páginas que ligam para aqui
-
-- [Descola](../../Acampamentos/2004/Descola.md)
-- [Diz Que Sim](../../Acampamentos/2007/Diz%20Que%20Sim.md)
-- [Edu](../../Movimento/Desambigua%C3%A7%C3%A3o/Edu.md)
-- [Jangada](../../Acampamentos/2002/Jangada.md)
-- [Pontes](../../Acampamentos/2001/Pontes.md)
-- [Rastilho](../../Acampamentos/2003/Rastilho.md)
-- [Xii Tava Kuase Lá...!](../../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md)
-
 ---
 
 | Categorias |

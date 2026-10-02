@@ -27,18 +27,6 @@
 
 É filha do [João Paulo Moinhos](../J/Jo%C3%A3o%20Paulo%20Moinhos.md)
 
-## Páginas que ligam para aqui
-
-- [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
-- [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
-- [João Paulo Moinhos](../J/Jo%C3%A3o%20Paulo%20Moinhos.md)
-- [Mergulha](../../Acampamentos/2015/Mergulha.md)
-- [Plano B](../../Acampamentos/2016/Plano%20B.md)
-- [Próxima Paragem](../../Acampamentos/2013/Pr%C3%B3xima%20Paragem.md)
-- [Raio Part'ós Ninjas](../../Acampamentos/2012/Raio%20Part%27%C3%B3s%20Ninjas.md)
-- [ReComeçar de Novo](../../Acampamentos/2017/ReCome%C3%A7ar%20de%20Novo.md)
-- [XP Fora da Roda](../../Acampamentos/2019/XP%20Fora%20da%20Roda.md)
-
 ---
 
 | Categorias |

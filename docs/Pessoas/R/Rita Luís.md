@@ -8,13 +8,6 @@
     - 2008 [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2009 [Survivor](../../Acampamentos/2009/Survivor.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
-## Páginas que ligam para aqui
-
-- [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md)
-- [M&M](../../Acampamentos/2007/M%26M.md)
-- [Origami](../../Acampamentos/2006/Origami.md)
-- [Survivor](../../Acampamentos/2009/Survivor.md)
-
 ---
 
 | Categorias |

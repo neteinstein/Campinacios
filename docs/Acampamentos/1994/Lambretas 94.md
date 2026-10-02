@@ -9,12 +9,8 @@ Este acampamento de [Lambretas](../../Categorias/Lambretas.md) decorreu de 27 de
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Proença](../../Pessoas/L/Lu%C3%ADs%20Proen%C3%A7a.md) sj
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Joana Silva, [Jorge Neves](../../Pessoas/J/Jorge%20Neves.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [Catarina Godinho](../../Pessoas/C/Catarina%20Godinho.md)
-- [Jorge Neves](../../Pessoas/J/Jorge%20Neves.md)
-- [José Manuel Filgueiras](../../Pessoas/J/Jos%C3%A9%20Manuel%20Filgueiras.md)
-- [Luís Proença](../../Pessoas/L/Lu%C3%ADs%20Proen%C3%A7a.md)
 - [Ricardo Rodrigues](../../Pessoas/R/Ricardo%20Rodrigues.md)
 
 ---

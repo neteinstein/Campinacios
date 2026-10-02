@@ -17,11 +17,6 @@ Frequentou o CC de 2002 a 2008. Animadora desde 2008 até hoje.
     - 2009 [Vi-O](../../Acampamentos/2009/Vi-O.md) - [Tia](../../Cargos/Tio.md)
     - 2011 [Pedra papel tesoura](../../Acampamentos/2011/Pedra%20papel%20tesoura.md)
 
-## Páginas que ligam para aqui
-
-- [Pedra papel tesoura](../../Acampamentos/2011/Pedra%20papel%20tesoura.md)
-- [Vi-O](../../Acampamentos/2009/Vi-O.md)
-
 ---
 
 | Categorias |

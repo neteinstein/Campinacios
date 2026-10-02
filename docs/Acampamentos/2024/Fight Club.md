@@ -9,13 +9,6 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Francisco Ilhão](../../Pessoas/F/Francisco%20Ilh%C3%A3o.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Eduardo Amaral](../../Pessoas/E/Eduardo%20Amaral.md) sj
 
-## Páginas que ligam para aqui
-
-- [António Neves](../../Pessoas/A/Ant%C3%B3nio%20Neves.md)
-- [Eduardo Amaral](../../Pessoas/E/Eduardo%20Amaral.md)
-- [Francisco Ilhão](../../Pessoas/F/Francisco%20Ilh%C3%A3o.md)
-- [Joana Rocha](../../Pessoas/J/Joana%20Rocha.md)
-
 ---
 
 | Categorias |

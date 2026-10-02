@@ -14,15 +14,6 @@
     - 1992 [Agroal](../../Acampamentos/1992/Agroal.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 1993 [Rebordosa](../../Acampamentos/1993/Rebordosa.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
-## Páginas que ligam para aqui
-
-- [Agroal](../../Acampamentos/1992/Agroal.md)
-- [CAmpIC 89](../../Acampamentos/1989/CAmpIC%2089.md)
-- [Caldas de S.Paulo](../../Acampamentos/1990/Caldas%20de%20S.Paulo.md)
-- [Campinácios](../../Movimento/Campin%C3%A1cios.md)
-- [Loyola](../../Acampamentos/1991/Loyola.md)
-- [Rebordosa](../../Acampamentos/1993/Rebordosa.md)
-
 ---
 
 | Categorias |

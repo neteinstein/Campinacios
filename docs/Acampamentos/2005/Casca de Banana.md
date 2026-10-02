@@ -11,7 +11,7 @@ Campo de Formação que decorreu na casa de Singeverga na Páscoa de 2005.
 - [Tia](../../Cargos/Tio.md) - [Rita Roxo](../../Pessoas/R/Rita%20Roxo.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Joana Cardoso](../../Pessoas/J/Joana%20Cardoso.md) e [Rui Junqueira](../../Pessoas/R/Rui%20Junqueira.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
 - [Ana Pinheiro](../../Pessoas/A/Ana%20Pinheiro.md)
 - [Ana Pinto](../../Pessoas/A/Ana%20Pinto.md)
@@ -23,20 +23,11 @@ Campo de Formação que decorreu na casa de Singeverga na Páscoa de 2005.
 - [Filipe Matos](../../Pessoas/F/Filipe%20Matos.md)
 - [Francisca Mendes](../../Pessoas/F/Francisca%20Mendes.md)
 - [Francisco Silva Rodrigues](../../Pessoas/F/Francisco%20Silva%20Rodrigues.md)
-- [Joana Cardoso](../../Pessoas/J/Joana%20Cardoso.md)
-- [Joana Ferreira da Silva](../../Pessoas/J/Joana%20Ferreira%20da%20Silva.md)
-- [José da Silva Almeida](../../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
-- [José Frazão](../../Pessoas/J/Jos%C3%A9%20Fraz%C3%A3o.md)
-- [José Maria Brito](../../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md)
 - [João Quintela](../../Pessoas/J/Jo%C3%A3o%20Quintela.md)
 - [Madalena Mariz](../../Pessoas/M/Madalena%20Mariz.md)
 - [Mafalda Coelho](../../Pessoas/M/Mafalda%20Coelho.md)
-- [Manuel Vilhena](../../Pessoas/M/Manuel%20Vilhena.md)
-- [Marco Cunha](../../Pessoas/M/Marco%20Cunha.md)
 - [Miguel Melo](../../Pessoas/M/Miguel%20Melo.md)
 - [Pedro Rodrigues](../../Pessoas/P/Pedro%20Rodrigues.md)
-- [Rita Roxo](../../Pessoas/R/Rita%20Roxo.md)
-- [Rui Junqueira](../../Pessoas/R/Rui%20Junqueira.md)
 - [Sérgio Lopes](../../Pessoas/S/S%C3%A9rgio%20Lopes.md)
 
 ---

@@ -9,13 +9,6 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Manuel Costa](../../Pessoas/M/Manuel%20Costa.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [António Santos Lourenço](../../Pessoas/A/Ant%C3%B3nio%20Santos%20Louren%C3%A7o.md) sj
 
-## Páginas que ligam para aqui
-
-- [António Santos Lourenço](../../Pessoas/A/Ant%C3%B3nio%20Santos%20Louren%C3%A7o.md)
-- [Manuel Costa](../../Pessoas/M/Manuel%20Costa.md)
-- [Paula Gonçalves](../../Pessoas/P/Paula%20Gon%C3%A7alves.md)
-- [Rita Sousa](../../Pessoas/R/Rita%20Sousa.md)
-
 ---
 
 | Categorias |

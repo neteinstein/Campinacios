@@ -118,24 +118,6 @@ Num texto de 2009 e 2010, a [Joana Gomes](../Pessoas/J/Joana%20Gomes.md), animad
 
 **Arquivos dos Campinácios** - Colégio das Caldinhas e Colégio da Imaculada Conceição.
 
-## Páginas que ligam para aqui
-
-- [Amadeu Pinto](../Pessoas/A/Amadeu%20Pinto.md)
-- [Américo Mendes](../Pessoas/A/Am%C3%A9rico%20Mendes.md)
-- [Cantinácio: Campinácios](Cantin%C3%A1cio/Campin%C3%A1cios.md)
-- [Conteúdos](../Wikin%C3%A1cios/Conte%C3%BAdos.md)
-- [Florinhas](../Acampamentos/1994/Florinhas.md)
-- [Gambozinos](Gambozinos.md)
-- [Jambo 99](../Acampamentos/1999/Jambo%2099.md)
-- [Jorge Manuel Sena](../Pessoas/J/Jorge%20Manuel%20Sena.md)
-- [José Manuel Lopes](../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md)
-- [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
-- [Manual de Funções](Manual%20de%20Fun%C3%A7%C3%B5es.md)
-- [Manual do Director](Manual%20do%20Director.md)
-- [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
-- [Sandra Rodrigues](../Pessoas/S/Sandra%20Rodrigues.md)
-- [Sobre](../Wikin%C3%A1cios/index.md)
-
 ---
 
 **Outros nomes:** Campinacios

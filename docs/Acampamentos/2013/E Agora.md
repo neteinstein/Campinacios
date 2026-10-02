@@ -6,10 +6,6 @@
 
 - [Director](../../Cargos/Director.md) - [Ana Reis Sá](../../Pessoas/A/Ana%20Reis%20S%C3%A1.md)
 
-## Páginas que ligam para aqui
-
-- [Ana Reis Sá](../../Pessoas/A/Ana%20Reis%20S%C3%A1.md)
-
 ---
 
 | Categorias |

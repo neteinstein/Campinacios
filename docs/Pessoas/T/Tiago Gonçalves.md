@@ -15,13 +15,6 @@
     - 2009 [Lembras-te?](../../Acampamentos/2009/Lembras-te.md) - [Tio](../../Cargos/Tio.md)
     - 2010 [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md) - [Director](../../Cargos/Director.md)
 
-## Páginas que ligam para aqui
-
-- [Baúmerang](../../Acampamentos/2007/Ba%C3%BAmerang.md)
-- [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
-- [Lembras-te?](../../Acampamentos/2009/Lembras-te.md)
-- [Êxodo](../../Acampamentos/2008/%C3%8Axodo.md)
-
 ---
 
 | Categorias |

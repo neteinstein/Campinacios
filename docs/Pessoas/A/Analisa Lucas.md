@@ -18,11 +18,6 @@ Analisa Lucas mais conhecida por Isa, é desde 2005 uma das animadoras do Colég
     - 2006 [Long Tao](../../Acampamentos/2006/Long%20Tao.md)
     - 2008 [Eureka](../../Acampamentos/2008/Eureka.md)
 
-## Páginas que ligam para aqui
-
-- [Eureka](../../Acampamentos/2008/Eureka.md)
-- [Long Tao](../../Acampamentos/2006/Long%20Tao.md)
-
 ---
 
 **Outros nomes:** Isa

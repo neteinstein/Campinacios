@@ -31,23 +31,6 @@
 
 - [Página antiga sobre os Campinácios](https://www.geocities.ws/iosef_sj/campinacios.htm) (Geocities)
 
-## Páginas que ligam para aqui
-
-- ["Para Educar Melhor - Campos de férias inacianos"](../../Movimento/Para%20Educar%20Melhor%20-%20Campos%20de%20f%C3%A9rias%20inacianos.md)
-- [Calinadas](../../Acampamentos/1998/Calinadas.md)
-- [Casca de Banana](../../Acampamentos/2005/Casca%20de%20Banana.md)
-- [Dilúvio](../../Acampamentos/1999/Dil%C3%BAvio.md)
-- [Diz Que Sim](../../Acampamentos/2007/Diz%20Que%20Sim.md)
-- [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
-- [Gaivota](../../Acampamentos/2005/Gaivota.md)
-- [GANZA](../../Acampamentos/1997/GANZA.md)
-- [Manual de Funções](../../Movimento/Manual%20de%20Fun%C3%A7%C3%B5es.md)
-- [Manual do Director](../../Movimento/Manual%20do%20Director.md)
-- [Patos](../../Acampamentos/2004/Patos.md)
-- [Pimpolhos](../../Acampamentos/2003/Pimpolhos.md)
-- [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
-- [Shampum de Pessêgo](../../Acampamentos/2001/Shampum%20de%20Pess%C3%AAgo.md)
-
 ---
 
 **Outros nomes:** José Silva · José Silva Almeida

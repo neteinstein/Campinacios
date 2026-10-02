@@ -10,11 +10,6 @@
 - 2009 [Vi-O](../../Acampamentos/2009/Vi-O.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 - 2010 [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
-## Páginas que ligam para aqui
-
-- [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md)
-- [Vi-O](../../Acampamentos/2009/Vi-O.md)
-
 ---
 
 | Categorias |

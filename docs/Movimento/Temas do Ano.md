@@ -43,10 +43,6 @@
 | 2025 | <ul><li>Tornai-vos como crianças</li></ul> |
 | 2026 | <ul><li>Escolhe a melhor parte</li></ul> |
 
-## Páginas que ligam para aqui
-
-- [Manual do Director](Manual%20do%20Director.md)
-
 ---
 
 **Outros nomes:** Tema do ano

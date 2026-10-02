@@ -16,15 +16,6 @@ António Sant'Ana sj pertenceu à DL-CAIC sendo posteriormente Assistente Nacion
     - 2008 [TSI](../../Acampamentos/2008/TSI.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2009 [Tira as rodinhas](../../Acampamentos/2009/Tira%20as%20rodinhas.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
-## Páginas que ligam para aqui
-
-- [Calhambeques](../../Categorias/Calhambeques.md)
-- [Encontro Nacional 2007](../../Encontros/Encontro%20Nacional%202007.md)
-- [Falésia](../../Acampamentos/2005/Fal%C3%A9sia.md)
-- [Long Tao](../../Acampamentos/2006/Long%20Tao.md)
-- [TSI](../../Acampamentos/2008/TSI.md)
-- [Tira as rodinhas](../../Acampamentos/2009/Tira%20as%20rodinhas.md)
-
 ---
 
 **Outros nomes:** António Santana

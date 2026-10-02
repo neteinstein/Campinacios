@@ -15,19 +15,11 @@
 
 Ana Isabel Martins, Beatriz Sobral, Leonor Dias, Margarida Ferreira, Gabriel Ponte, Beatriz Bettencourt, Carolina Sampaio, Lourenço Martins, Luís Monteiro, Madalena Lopes, Madalena Vale, Manuel Varela, Margarida Francisco, Mariana Cortez, Pedro Oliveira (Oli), Rita Caeiro, Sofia Antunes, Zé Matias
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [Agroal (Tomar)](../../Restrito/Locais%20de%20Acampamento/Agroal%20%28Tomar%29.md)
-- [Alexandre Alípio](../../Pessoas/A/Alexandre%20Al%C3%ADpio.md)
 - [Ana Isabel Martins](../../Pessoas/A/Ana%20Isabel%20Martins.md)
-- [Beatriz Maia](../../Pessoas/B/Beatriz%20Maia.md)
-- [Carmo Ribeiro Corrêa](../../Pessoas/C/Carmo%20Ribeiro%20Corr%C3%AAa.md)
-- [Carolina Picciochi](../../Pessoas/C/Carolina%20Picciochi.md)
-- [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
 - [Mariana Cortez](../../Pessoas/M/Mariana%20Cortez.md)
 - [Pedro Oliveira](../../Pessoas/P/Pedro%20Oliveira.md)
-- [Sebastião Caldas](../../Pessoas/S/Sebasti%C3%A3o%20Caldas.md)
-- [Vasco Lucas Pires](../../Pessoas/V/Vasco%20Lucas%20Pires.md)
 
 ---
 

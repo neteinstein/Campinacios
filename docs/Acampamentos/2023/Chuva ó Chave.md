@@ -9,13 +9,6 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Kiko Alves da Silva](../../Pessoas/K/Kiko%20Alves%20da%20Silva.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Filipe Lima](../../Pessoas/F/Filipe%20Lima.md) sj
 
-## Páginas que ligam para aqui
-
-- [Alexandre Alípio](../../Pessoas/A/Alexandre%20Al%C3%ADpio.md)
-- [Alice Rodrigues](../../Pessoas/A/Alice%20Rodrigues.md)
-- [Filipe Lima](../../Pessoas/F/Filipe%20Lima.md)
-- [Kiko Alves da Silva](../../Pessoas/K/Kiko%20Alves%20da%20Silva.md)
-
 ---
 
 | Categorias |

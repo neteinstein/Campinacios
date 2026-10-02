@@ -8,12 +8,6 @@
     - 1999 [Dilúvio](../../Acampamentos/1999/Dil%C3%BAvio.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
     - 2001 [Shampum de Pessêgo](../../Acampamentos/2001/Shampum%20de%20Pess%C3%AAgo.md)
 
-## Páginas que ligam para aqui
-
-- [Dilúvio](../../Acampamentos/1999/Dil%C3%BAvio.md)
-- [Maria Cristina Sousa Costa](../M/Maria%20Cristina%20Sousa%20Costa.md)
-- [Shampum de Pessêgo](../../Acampamentos/2001/Shampum%20de%20Pess%C3%AAgo.md)
-
 ---
 
 | Categorias |

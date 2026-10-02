@@ -250,9 +250,8 @@ informação e [peça a alteração](#pedir-uma-alteracao) por um pedido.
       que se grava fica lá mesmo depois de apagado.
     - **Não invente.** O que não se sabe fica de fora; os Contribuidores
       preferem um artigo curto a um artigo com dúvidas.
-    - **As ligações vão nos dois sentidos.** Quando um artigo passa a ligar
-      para outro, este ganha a ligação de volta em *Páginas que ligam para
-      aqui*, por ordem alfabética.
+    - **As ligações vão nos dois sentidos.** Quem anima um acampamento está
+      na equipa do acampamento, e o acampamento está no artigo da pessoa.
 
 ### Acampamento novo, com a equipa de animação {#acampamento-novo}
 
@@ -299,10 +298,6 @@ O «Nome do acampamento» foi um acampamento de [«Escalão»](<../Categorias/«
 
 «De onde veio o nome, o que aconteceu, as histórias que vale a pena guardar»
 
-## Páginas que ligam para aqui
-
-- [«Nome»](<../Pessoas/«Inicial»/«Nome».md>)
-
 ---
 
 | Categorias |
@@ -338,8 +333,11 @@ Depois de gravar, acrescente o acampamento também em:
 3. `docs/Categorias/Acampamentos de «ano».md` e a página do escalão em
    `docs/Categorias/`.
 4. O artigo de cada pessoa da equipa (ver
-   [Pessoas em acampamentos](#pessoas-em-acampamentos)) e as páginas dos
-   cargos em `docs/Cargos/`, em *Páginas que ligam para aqui*.
+   [Pessoas em acampamentos](#pessoas-em-acampamentos)). As páginas dos
+   cargos em `docs/Cargos/` ganham as pessoas em *Pessoas com este cargo*, e
+   o acampamento ganha em *Participantes que se tornaram animadores* os
+   animadores que lá foram participantes; ambas se escrevem com
+   `python3 .claude/skills/nova-pessoa/scripts/pessoas.py secoes`.
 5. `docs/Todos os artigos.md`, somando 1 ao número de artigos, e o mesmo
    número na página principal (`docs/index.md`).
 
@@ -383,10 +381,6 @@ acento (Álvaro vai para `A`). Exemplos:
     - «ano» [«Acampamento»](<../Acampamentos/«ano»/«Acampamento».md>)
 - **Animador:**
     - «ano» [«Acampamento»](<../Acampamentos/«ano»/«Acampamento».md>) - [«Cargo»](<../Cargos/«Cargo».md>)
-
-## Páginas que ligam para aqui
-
-- [«Acampamento»](<../Acampamentos/«ano»/«Acampamento».md>)
 
 ---
 
@@ -452,10 +446,6 @@ No artigo do acampamento (`docs/Acampamentos/«ano»/«Acampamento».md`):
 ### Animadores
 
 - [«Cargo»](<../Cargos/«Cargo».md>) - [«Nome»](<../Pessoas/«Inicial»/«Nome».md>)
-
-## Páginas que ligam para aqui
-
-- [«Nome»](<../Pessoas/«Inicial»/«Nome».md>)
 ```
 
 No artigo da pessoa (`docs/Pessoas/«Inicial»/«Nome».md`):
@@ -469,10 +459,6 @@ No artigo da pessoa (`docs/Pessoas/«Inicial»/«Nome».md`):
     - «ano» [«Acampamento»](<../Acampamentos/«ano»/«Acampamento».md>)
 - **Animador:**
     - «ano» [«Acampamento»](<../Acampamentos/«ano»/«Acampamento».md>) - [«Cargo»](<../Cargos/«Cargo».md>)
-
-## Páginas que ligam para aqui
-
-- [«Acampamento»](<../Acampamentos/«ano»/«Acampamento».md>)
 ```
 
 !!! warning "Cuidados"
@@ -488,11 +474,10 @@ No artigo da pessoa (`docs/Pessoas/«Inicial»/«Nome».md`):
       linha ("Tios - A e B") em vez de repetir o cargo.
     - Num acampamento de Formação de Animadores, quem lá foi formar-se fica
       em **Formação** no seu artigo, não em **Participante**.
-    - Participantes e formação não se acrescentam ao acampamento; mas o
-      acampamento ganha a pessoa em *Páginas que ligam para aqui*, porque o
-      artigo dela liga para ele.
-    - No artigo da pessoa, os acampamentos vão por ordem de ano; em
-      *Páginas que ligam para aqui*, por ordem alfabética.
+    - Participantes e formação não se acrescentam à equipa do acampamento;
+      se a pessoa é animadora, o acampamento ganha-a em *Participantes que
+      se tornaram animadores*.
+    - No artigo da pessoa, os acampamentos vão por ordem de ano.
     - Se a pessoa ou o acampamento não tiver artigo, escreva o nome sem
       ligação.
 
@@ -559,10 +544,6 @@ ficheiro):
 ## Observações
 
 «…»
-
-## Páginas que ligam para aqui
-
-- [«Acampamento»](<../Acampamentos/«ano»/«Acampamento».md>)
 
 ---
 
@@ -645,5 +626,6 @@ No artigo de cada participante (`docs/Pessoas/«Inicial»/«Nome».md`):
       fazer. Não se escreve o nome solto no artigo do acampamento.
     - Veja se a pessoa já tem artigo, às vezes com a alcunha ou só com um
       apelido, antes de criar outro.
-    - O acampamento ganha a pessoa na sua lista *Páginas que ligam para
-      aqui*, e a pessoa ganha o acampamento na dela.
+    - O acampamento ganha a pessoa em *Participantes que se tornaram
+      animadores* (se ela é animadora), e a pessoa ganha o acampamento em
+      `### Acampamentos`.

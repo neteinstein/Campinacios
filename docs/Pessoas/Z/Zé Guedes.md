@@ -16,11 +16,6 @@ Zé Guedes, também conhecido por Zédes, é animador do [CC](../../Categorias/A
     - 2025 [À Brava](../../Acampamentos/2025/%C3%80%20Brava.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2026 [Oh Pai, Keshumo](../../Acampamentos/2026/Oh%20Pai%2C%20Keshumo.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
 
-## Páginas que ligam para aqui
-
-- [À Brava](../../Acampamentos/2025/%C3%80%20Brava.md)
-- [Oh Pai, Keshumo](../../Acampamentos/2026/Oh%20Pai%2C%20Keshumo.md)
-
 ---
 
 **Outros nomes:** Zédes

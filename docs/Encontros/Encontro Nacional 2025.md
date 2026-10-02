@@ -14,16 +14,6 @@ No YouTube há um [documentário sobre o encontro](https://youtu.be/OJqm7PydBd4)
 - **Direcção de Bicicletas**: [Duarte Ribeiro](../Pessoas/D/Duarte%20Ribeiro.md) (Dudu)
 - **Direcção de Lambretas**: [Maria Carvalho](../Pessoas/M/Maria%20Carvalho.md)
 
-## Páginas que ligam para aqui
-
-- [Beatriz Mesquita](../Pessoas/B/Beatriz%20Mesquita.md)
-- [Duarte Ribeiro](../Pessoas/D/Duarte%20Ribeiro.md)
-- [Gonçalo Sá](../Pessoas/G/Gon%C3%A7alo%20S%C3%A1.md)
-- [Jaime Lucas Pires](../Pessoas/J/Jaime%20Lucas%20Pires.md)
-- [Maria Carvalho](../Pessoas/M/Maria%20Carvalho.md)
-- [Maria João Guedes](../Pessoas/M/Maria%20Jo%C3%A3o%20Guedes.md)
-- [Renato Sousa](../Pessoas/R/Renato%20Sousa.md)
-
 ---
 
 | Categorias |

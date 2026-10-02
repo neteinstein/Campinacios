@@ -18,16 +18,6 @@ Ricardo Costa, conhecido por Teddy Bear, é animador do [CC](../../Categorias/An
     - 2018 [Vaivém](../../Acampamentos/2018/Vaiv%C3%A9m.md) - [Tio](../../Cargos/Tio.md)
     - 2019 [Zapping](../../Acampamentos/2019/Zapping.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
-## Páginas que ligam para aqui
-
-- [Baba Yetu](../../Acampamentos/2010/Baba%20Yetu.md)
-- [Fiat'ársea](../../Acampamentos/2014/Fiat%27%C3%A1rsea.md)
-- [Mostra Garra](../../Acampamentos/2016/Mostra%20Garra.md)
-- [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md)
-- [Supera-te](../../Acampamentos/2017/Supera-te.md)
-- [Vaivém](../../Acampamentos/2018/Vaiv%C3%A9m.md)
-- [Zapping](../../Acampamentos/2019/Zapping.md)
-
 ---
 
 **Outros nomes:** Teddy Bear

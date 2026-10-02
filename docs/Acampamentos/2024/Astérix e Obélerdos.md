@@ -9,13 +9,9 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Manuel Costa](../../Pessoas/M/Manuel%20Costa.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [António Santos Lourenço](../../Pessoas/A/Ant%C3%B3nio%20Santos%20Louren%C3%A7o.md) sj
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [António Santos Lourenço](../../Pessoas/A/Ant%C3%B3nio%20Santos%20Louren%C3%A7o.md)
 - [Daniela Gonçalves](../../Pessoas/D/Daniela%20Gon%C3%A7alves.md)
-- [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
-- [Manuel Costa](../../Pessoas/M/Manuel%20Costa.md)
-- [Maria João Guedes](../../Pessoas/M/Maria%20Jo%C3%A3o%20Guedes.md)
 
 ---
 

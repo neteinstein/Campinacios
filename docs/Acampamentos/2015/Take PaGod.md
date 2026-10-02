@@ -13,17 +13,6 @@
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - Madalena Pires, João Pedro Coutinho, [Henrique Mota Amaral](../../Pessoas/H/Henrique%20Mota%20Amaral.md) e José Pedro Carneiro
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Rita Dias Coelho, André Faria, Raquel Araújo, Catarina Marques, [Pedro Santos](../../Pessoas/P/Pedro%20Santos.md), Marta Galán Coimbra e Francisca Captivo
 
-## Páginas que ligam para aqui
-
-- [Henrique Mota Amaral](../../Pessoas/H/Henrique%20Mota%20Amaral.md)
-- [Joana Gomes](../../Pessoas/J/Joana%20Gomes.md)
-- [João Brandão](../../Pessoas/J/Jo%C3%A3o%20Brand%C3%A3o.md)
-- [João Miguel Rodrigues](../../Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md)
-- [Miguel Santos](../../Pessoas/M/Miguel%20Santos.md)
-- [Pedro Santos](../../Pessoas/P/Pedro%20Santos.md)
-- [Sara Fernandes](../../Pessoas/S/Sara%20Fernandes.md)
-- [Sara Rita Sampaio](../../Pessoas/S/Sara%20Rita%20Sampaio.md)
-
 ---
 
 | Categorias |

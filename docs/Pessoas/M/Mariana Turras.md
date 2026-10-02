@@ -16,12 +16,6 @@
 
 A Mariana Turras é irmã do [Pedro Turras](../P/Pedro%20Turras.md),da [Rita Turras](../R/Rita%20Turras.md) e da [Inês Turras](../I/In%C3%AAs%20Turras.md).
 
-## Páginas que ligam para aqui
-
-- [Inês Turras](../I/In%C3%AAs%20Turras.md)
-- [Pedro Turras](../P/Pedro%20Turras.md)
-- [Rita Turras](../R/Rita%20Turras.md)
-
 ---
 
 | Categorias |

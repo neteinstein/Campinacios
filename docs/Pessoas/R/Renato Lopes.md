@@ -23,13 +23,6 @@ Renato Lopes foi de 1998 a 2004 um dos animadores do Colégio da Imaculada Conce
 
 É irmão do [Francisco Lopes](../F/Francisco%20Lopes.md).
 
-## Páginas que ligam para aqui
-
-- [Francisco Lopes](../F/Francisco%20Lopes.md)
-- [Liberata](../../Acampamentos/2000/Liberata.md)
-- [Pontes](../../Acampamentos/2001/Pontes.md)
-- [Trolliciclos](../../Acampamentos/2004/Trolliciclos.md)
-
 ---
 
 | Categorias |

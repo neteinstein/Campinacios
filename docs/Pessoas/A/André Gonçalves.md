@@ -15,14 +15,6 @@ André Filipe de Faria Ramalho da Silva Gonçalves, nascido a 12 de Fevereiro de
     - 2003 [Génesis 2003 d.C.](../../Acampamentos/2003/G%C3%A9nesis%202003%20d.C..md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2004 [Metrópole](../../Acampamentos/2004/Metr%C3%B3pole.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
-## Páginas que ligam para aqui
-
-- [Cinena](../../Acampamentos/2001/Cinena.md)
-- [Génesis 2003 d.C.](../../Acampamentos/2003/G%C3%A9nesis%202003%20d.C..md)
-- [Metrópole](../../Acampamentos/2004/Metr%C3%B3pole.md)
-- [Ninja Por Não Estar](../../Acampamentos/2002/Ninja%20Por%20N%C3%A3o%20Estar.md)
-- [Tranquilo](../../Acampamentos/2000/Tranquilo.md)
-
 ---
 
 **Outros nomes:** Motorzinho

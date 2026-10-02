@@ -10,12 +10,6 @@ Na avaliação feita na Direcção Nacional, destacaram-se a organização, a fe
 - [Ana Paula Sampaio](../Pessoas/A/Ana%20Paula%20Sampaio.md)
 - [Ana Luísa Reis](../Pessoas/A/Ana%20Lu%C3%ADsa%20Reis.md)
 
-## Páginas que ligam para aqui
-
-- [Ana Luísa Reis](../Pessoas/A/Ana%20Lu%C3%ADsa%20Reis.md)
-- [Ana Paula Sampaio](../Pessoas/A/Ana%20Paula%20Sampaio.md)
-- [Bruno Azevedo](../Pessoas/B/Bruno%20Azevedo.md)
-
 ---
 
 | Categorias |

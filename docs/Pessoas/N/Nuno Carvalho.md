@@ -10,10 +10,6 @@ Nuno Filipe Ferreira Carvalho, nascido a 31 de Março de 1983, é animador do CC
 - **Animador**
     - 2001 [Surpresa](../../Acampamentos/2001/Surpresa.md)
 
-## Páginas que ligam para aqui
-
-- [Surpresa](../../Acampamentos/2001/Surpresa.md)
-
 ---
 
 | Categorias |

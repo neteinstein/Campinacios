@@ -8,10 +8,6 @@
 
 - 2022 [Encontro Nacional 2022](../../Encontros/Encontro%20Nacional%202022.md) - Director-Adjunto
 
-## Páginas que ligam para aqui
-
-- [Encontro Nacional 2022](../../Encontros/Encontro%20Nacional%202022.md)
-
 ---
 
 | Categorias |

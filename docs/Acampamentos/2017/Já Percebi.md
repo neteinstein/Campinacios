@@ -6,10 +6,6 @@
 
 - [Director](../../Cargos/Director.md) - [Pedro Santos](../../Pessoas/P/Pedro%20Santos.md)
 
-## Páginas que ligam para aqui
-
-- [Pedro Santos](../../Pessoas/P/Pedro%20Santos.md)
-
 ---
 
 | Categorias |

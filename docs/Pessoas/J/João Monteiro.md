@@ -20,18 +20,6 @@ João Pedro Azevedo Lopes Monteiro, nascido a 2 de Julho de 1986, é animador do
     - 2011 [Pescanova](../../Acampamentos/2011/Pescanova.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2012 [Limpopolus](../../Acampamentos/2012/Limpopolus.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
-## Páginas que ligam para aqui
-
-- [Cantinácio](../../Movimento/Cantin%C3%A1cio.md)
-- [Incrível](../../Acampamentos/2009/Incr%C3%ADvel.md)
-- [Limpopolus](../../Acampamentos/2012/Limpopolus.md)
-- [M&M](../../Acampamentos/2007/M%26M.md)
-- [Passaportas](../../Acampamentos/2010/Passaportas.md)
-- [Pescanova](../../Acampamentos/2011/Pescanova.md)
-- [Triciclos 1](../../Acampamentos/1997/Triciclos%201.md)
-- [TufarfarAway](../../Acampamentos/2008/TufarfarAway.md)
-- [XS](../../Acampamentos/2006/XS.md)
-
 ---
 
 | Categorias |

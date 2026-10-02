@@ -7,11 +7,6 @@
 - [Director](../../Cargos/Director.md) - [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj
 - [Capelinha](../../Cargos/Capelinho.md) - [Ana Paula Sampaio](../../Pessoas/A/Ana%20Paula%20Sampaio.md)
 
-## Páginas que ligam para aqui
-
-- [Ana Paula Sampaio](../../Pessoas/A/Ana%20Paula%20Sampaio.md)
-- [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
-
 ---
 
 | Categorias |

@@ -18,12 +18,6 @@ Ana Val-do-Rio foi uma das animadoras do Colégio da Imaculada Conceição.
 
 É irmã da [Isabel Val-do-Rio](../I/Isabel%20Val-do-Rio.md).
 
-## Páginas que ligam para aqui
-
-- [Isabel Val-do-Rio](../I/Isabel%20Val-do-Rio.md)
-- [Ninja Por Não Estar](../../Acampamentos/2002/Ninja%20Por%20N%C3%A3o%20Estar.md)
-- [Rastilho](../../Acampamentos/2003/Rastilho.md)
-
 ---
 
 | Categorias |

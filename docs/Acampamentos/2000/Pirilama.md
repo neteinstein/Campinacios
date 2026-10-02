@@ -11,21 +11,11 @@ O Pirilama foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que 
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Gonçalo Forte Vaz](../../Pessoas/G/Gon%C3%A7alo%20Forte%20Vaz.md), [Frederico Ferreira](../../Pessoas/F/Frederico%20Ferreira.md) e [Pedro Pinheiro](../../Pessoas/P/Pedro%20Pinheiro.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [João Rosa](../../Pessoas/J/Jo%C3%A3o%20Rosa.md), [Margarida Matias](../../Pessoas/M/Margarida%20Matias.md), Inês Ferreira, [Rui Junqueira](../../Pessoas/R/Rui%20Junqueira.md), [Juliana Silva](../../Pessoas/J/Juliana%20Silva.md) e Maria Cunha Ferreira
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
 - [António Queiroz Martins](../../Pessoas/A/Ant%C3%B3nio%20Queiroz%20Martins.md)
-- [Bafo](../../Pessoas/B/Bafo.md)
 - [Francisco Silva](../../Pessoas/F/Francisco%20Silva.md)
-- [Frederico Ferreira](../../Pessoas/F/Frederico%20Ferreira.md)
-- [Gonçalo Forte Vaz](../../Pessoas/G/Gon%C3%A7alo%20Forte%20Vaz.md)
-- [Joana Osório](../../Pessoas/J/Joana%20Os%C3%B3rio.md)
-- [João Rosa](../../Pessoas/J/Jo%C3%A3o%20Rosa.md)
-- [Juliana Silva](../../Pessoas/J/Juliana%20Silva.md)
-- [Margarida Matias](../../Pessoas/M/Margarida%20Matias.md)
 - [Mariana Turras](../../Pessoas/M/Mariana%20Turras.md)
-- [Martim Cunha Ferreira](../../Pessoas/M/Martim%20Cunha%20Ferreira.md)
-- [Pedro Pinheiro](../../Pessoas/P/Pedro%20Pinheiro.md)
-- [Rui Junqueira](../../Pessoas/R/Rui%20Junqueira.md)
 
 ---
 

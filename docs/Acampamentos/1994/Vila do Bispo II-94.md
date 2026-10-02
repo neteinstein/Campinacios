@@ -12,22 +12,10 @@ Este acampamento de [Bicicletas](../../Categorias/Bicicletas.md) decorreu de 9 a
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - [Jorge Moreira](../../Pessoas/J/Jorge%20Moreira.md) sj
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Pedro Castro](../../Pessoas/P/Pedro%20Castro.md), [Bruno Campos](../../Pessoas/B/Bruno%20Campos.md), [Marco António](../../Pessoas/M/Marco%20Ant%C3%B3nio.md), [Joana Godinho](../../Pessoas/J/Joana%20Godinho.md), Maria João e [Ema Patrícia](../../Pessoas/E/Ema%20Patr%C3%ADcia.md)
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [Amílcar Sousa](../../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
-- [Andreia](../../Pessoas/A/Andreia.md)
 - [António Leal](../../Pessoas/A/Ant%C3%B3nio%20Leal.md)
-- [Bruno Campos](../../Pessoas/B/Bruno%20Campos.md)
-- [Eduardo Rodrigues](../../Pessoas/E/Eduardo%20Rodrigues.md)
-- [Ema Patrícia](../../Pessoas/E/Ema%20Patr%C3%ADcia.md)
-- [Joana Godinho](../../Pessoas/J/Joana%20Godinho.md)
-- [Jorge Moreira](../../Pessoas/J/Jorge%20Moreira.md)
 - [José Luís Fernandes](../../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Fernandes.md)
-- [Liliana](../../Pessoas/L/Liliana.md)
-- [Luís Proença](../../Pessoas/L/Lu%C3%ADs%20Proen%C3%A7a.md)
-- [Marco António](../../Pessoas/M/Marco%20Ant%C3%B3nio.md)
-- [Otília Azevedo](../../Pessoas/O/Ot%C3%ADlia%20Azevedo.md)
-- [Pedro Castro](../../Pessoas/P/Pedro%20Castro.md)
 
 ---
 

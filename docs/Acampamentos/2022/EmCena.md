@@ -10,14 +10,6 @@
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Samuel Beirão](../../Pessoas/S/Samuel%20Beir%C3%A3o.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Eduardo Carvalho](../../Pessoas/E/Eduardo%20Carvalho.md) sj
 
-## Páginas que ligam para aqui
-
-- [Carolina Oliveira](../../Pessoas/C/Carolina%20Oliveira.md)
-- [Eduardo Carvalho](../../Pessoas/E/Eduardo%20Carvalho.md)
-- [Heitor Rosa](../../Pessoas/H/Heitor%20Rosa.md)
-- [Pedro Dias](../../Pessoas/P/Pedro%20Dias.md)
-- [Samuel Beirão](../../Pessoas/S/Samuel%20Beir%C3%A3o.md)
-
 ---
 
 | Categorias |

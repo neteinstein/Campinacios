@@ -9,13 +9,9 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Formiga](../../Pessoas/F/Formiga.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [António Pamplona](../../Pessoas/A/Ant%C3%B3nio%20Pamplona.md) sj
 
-## Páginas que ligam para aqui
+## Participantes que se tornaram animadores
 
-- [António Pamplona](../../Pessoas/A/Ant%C3%B3nio%20Pamplona.md)
-- [Formiga](../../Pessoas/F/Formiga.md)
 - [Jaime Lucas Pires](../../Pessoas/J/Jaime%20Lucas%20Pires.md)
-- [Maria Amorim](../../Pessoas/M/Maria%20Amorim.md)
-- [Pedro Mendonça](../../Pessoas/P/Pedro%20Mendon%C3%A7a.md)
 
 ---
 
