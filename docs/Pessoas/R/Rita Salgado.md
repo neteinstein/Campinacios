@@ -4,7 +4,7 @@
 
 - **Participante:**
     - 2001 [Surpresa](../../Acampamentos/2001/Surpresa.md)
-    - 2002 [Farol](../../Acampamentos/2003/Farol.md)
+    - 2003 [Farol](../../Acampamentos/2003/Farol.md)
     - 2004 [Descola](../../Acampamentos/2004/Descola.md)
     - 2005 [Gaivota](../../Acampamentos/2005/Gaivota.md)
 
