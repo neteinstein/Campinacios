@@ -9,7 +9,8 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Formiga](../../Pessoas/F/Formiga.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Miranda](../../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md) sj
 - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Leonor Banha da Silva](../../Pessoas/L/Leonor%20Banha%20da%20Silva.md) (Licas)
-- Animadores - [Francisco Cunha e Carmo](../../Pessoas/F/Francisco%20Cunha%20e%20Carmo.md), [Leonor Cardoso](../../Pessoas/L/Leonor%20Cardoso.md), [Joana Silva](../../Pessoas/J/Joana%20Branco%20da%20Silva.md), [Sara Moinhos](../../Pessoas/S/Sara%20Moinhos.md), [Bárbara Cardoso](../../Pessoas/B/B%C3%A1rbara%20Cardoso.md), [Maria Ramos](../../Pessoas/M/Maria%20Ramos.md), [Francisco Seabra](../../Pessoas/F/Francisco%20Seabra.md), [Margarida Garcia](../../Pessoas/M/Margarida%20Garcia.md) (Guida), [Anita Couto](../../Pessoas/A/Anita%20Couto.md), [Rafa Silva](../../Pessoas/R/Rafa%20Silva.md), [Kiko Gomes](../../Pessoas/K/Kiko%20Gomes.md)
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Sara Moinhos](../../Pessoas/S/Sara%20Moinhos.md)
+- Animadores - [Francisco Cunha e Carmo](../../Pessoas/F/Francisco%20Cunha%20e%20Carmo.md), [Leonor Cardoso](../../Pessoas/L/Leonor%20Cardoso.md), [Joana Silva](../../Pessoas/J/Joana%20Branco%20da%20Silva.md), [Bárbara Cardoso](../../Pessoas/B/B%C3%A1rbara%20Cardoso.md), [Maria Ramos](../../Pessoas/M/Maria%20Ramos.md), [Francisco Seabra](../../Pessoas/F/Francisco%20Seabra.md), [Margarida Garcia](../../Pessoas/M/Margarida%20Garcia.md) (Guida), [Anita Couto](../../Pessoas/A/Anita%20Couto.md), [Rafa Silva](../../Pessoas/R/Rafa%20Silva.md), [Kiko Gomes](../../Pessoas/K/Kiko%20Gomes.md)
 
 ## Páginas que ligam para aqui
 

@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1255 artigos e, em itálico, os 197 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1257 artigos e, em itálico, os 198 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -566,6 +566,7 @@
 - [GANZA](Acampamentos/1997/GANZA.md)
 - *Genesis* → [Génesis 2003 d.C.](Acampamentos/2003/G%C3%A9nesis%202003%20d.C..md)
 - [Gonçalo Aguiar](Pessoas/G/Gon%C3%A7alo%20Aguiar.md)
+- [Gonçalo Costa](Pessoas/G/Gon%C3%A7alo%20Costa.md)
 - [Gonçalo Forte Vaz](Pessoas/G/Gon%C3%A7alo%20Forte%20Vaz.md)
 - [Gonçalo Machado](Pessoas/G/Gon%C3%A7alo%20Machado.md)
 - *Genito* → [José Eugénio Lopes](Pessoas/J/Jos%C3%A9%20Eug%C3%A9nio%20Lopes.md)
@@ -1473,6 +1474,7 @@
 - [Vânia Carvalho](Pessoas/V/V%C3%A2nia%20Carvalho.md)
 - [Vera Cunha](Pessoas/V/Vera%20Cunha.md)
 - [Vera Eiró](Pessoas/V/Vera%20Eir%C3%B3.md)
+- [Vera Pina](Pessoas/V/Vera%20Pina.md)
 - [Verim](Acampamentos/1992/Verim.md)
 - [Verim (Braga)](Restrito/Locais%20de%20Acampamento/Verim%20%28Braga%29.md) 🔒
 - [Vesp'á Luz](Acampamentos/2021/Vesp%27%C3%A1%20Luz.md)
@@ -1526,6 +1528,7 @@
 - *Zé Lopes* → [José Manuel Lopes](Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md)
 - *Zé Tó* → [José António Lima](Pessoas/J/Jos%C3%A9%20Ant%C3%B3nio%20Lima.md)
 - [Zeca Lima](Pessoas/Z/Zeca%20Lima.md)
+- *Zédes* → [Zé Guedes](Pessoas/Z/Z%C3%A9%20Guedes.md)
 - [Zélia Ferreira](Pessoas/Z/Z%C3%A9lia%20Ferreira.md)
 - [Zimbora Lá para fora](Acampamentos/2018/Zimbora%20L%C3%A1%20para%20fora.md)
 

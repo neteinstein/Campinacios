@@ -212,6 +212,7 @@
 - [TufarfarAway](../Acampamentos/2008/TufarfarAway.md)
 - [Tábeeeim](../Acampamentos/2010/T%C3%A1beeeim.md)
 - [Valéria Magalhães](../Pessoas/V/Val%C3%A9ria%20Magalh%C3%A3es.md)
+- [Vasco Neves](../Pessoas/V/Vasco%20Neves.md)
 - [Verim](../Acampamentos/1992/Verim.md)
 - [Vi-O](../Acampamentos/2009/Vi-O.md)
 - [Vila do Bispo II/94](../Acampamentos/1994/Vila%20do%20Bispo%20II-94.md)

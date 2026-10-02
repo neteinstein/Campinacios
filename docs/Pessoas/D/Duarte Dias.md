@@ -12,6 +12,7 @@
     - 2007 [M&M](../../Acampamentos/2007/M%26M.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2008 [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2009 [Lembras-te?](../../Acampamentos/2009/Lembras-te.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2012 [Sarcófago](../../Acampamentos/2012/Sarc%C3%B3fago.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
 ## Páginas que ligam para aqui
 
@@ -21,6 +22,7 @@
 - [Lembras-te?](../../Acampamentos/2009/Lembras-te.md)
 - [M&M](../../Acampamentos/2007/M%26M.md)
 - [Origami](../../Acampamentos/2006/Origami.md)
+- [Sarcófago](../../Acampamentos/2012/Sarc%C3%B3fago.md)
 
 ---
 

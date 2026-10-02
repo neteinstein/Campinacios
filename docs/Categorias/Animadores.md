@@ -9,7 +9,7 @@ Animadores dos Campinácios
 - [Animadores do CSJB](Animadores%20do%20CSJB.md)
 - [Jesuítas](Jesu%C3%ADtas.md)
 
-## Páginas nesta categoria (775)
+## Páginas nesta categoria (777)
 
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Afonso Barrocas](../Pessoas/A/Afonso%20Barrocas.md)
@@ -261,6 +261,7 @@ Animadores dos Campinácios
 - [Gonçalo Aguiar](../Pessoas/G/Gon%C3%A7alo%20Aguiar.md)
 - [Gonçalo Belo](../Pessoas/G/Gon%C3%A7alo%20Belo.md)
 - [Gonçalo Coimbra](../Pessoas/G/Gon%C3%A7alo%20Coimbra.md)
+- [Gonçalo Costa](../Pessoas/G/Gon%C3%A7alo%20Costa.md)
 - [Gonçalo Fonseca](../Pessoas/G/Gon%C3%A7alo%20Fonseca.md)
 - [Gonçalo Fonseca Carvalho](../Pessoas/G/Gon%C3%A7alo%20Fonseca%20Carvalho.md)
 - [Gonçalo Forte Vaz](../Pessoas/G/Gon%C3%A7alo%20Forte%20Vaz.md)
@@ -776,6 +777,7 @@ Animadores dos Campinácios
 - [Vasco Vasconcelos](../Pessoas/V/Vasco%20Vasconcelos.md)
 - [Vera Cunha](../Pessoas/V/Vera%20Cunha.md)
 - [Vera Eiró](../Pessoas/V/Vera%20Eir%C3%B3.md)
+- [Vera Pina](../Pessoas/V/Vera%20Pina.md)
 - [Virgílio](../Pessoas/V/Virg%C3%ADlio.md)
 - [Vânia Carvalho](../Pessoas/V/V%C3%A2nia%20Carvalho.md)
 - [Vítor Fernandes](../Pessoas/V/V%C3%ADtor%20Fernandes.md)

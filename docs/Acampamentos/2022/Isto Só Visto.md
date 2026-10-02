@@ -31,6 +31,7 @@
 - [Madalena Ramalho](../../Pessoas/M/Madalena%20Ramalho.md)
 - [Maria Carvalho](../../Pessoas/M/Maria%20Carvalho.md)
 - [Valéria Magalhães](../../Pessoas/V/Val%C3%A9ria%20Magalh%C3%A3es.md)
+- [Zé Guedes](../../Pessoas/Z/Z%C3%A9%20Guedes.md)
 
 ---
 
