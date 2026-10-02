@@ -5,6 +5,7 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Luís Panão](../../Pessoas/L/Lu%C3%ADs%20Pan%C3%A3o.md)
+- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Nuno Ferreira](../../Pessoas/N/Nuno%20Ferreira.md) (Broski)
 
 ---
 

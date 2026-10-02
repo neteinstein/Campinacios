@@ -6,6 +6,10 @@
 
 - [Director](../../Cargos/Director.md) - [David Cruz e Silva](../../Pessoas/D/David%20Cruz%20e%20Silva.md)
 
+## Participantes que se tornaram animadores
+
+- [Nuno Ferreira](../../Pessoas/N/Nuno%20Ferreira.md)
+
 ---
 
 | Categorias |
