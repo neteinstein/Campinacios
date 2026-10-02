@@ -1,6 +1,6 @@
 # Francisco Silva Rodrigues
 
-*Nota: Este artigo é sobre Francisco Silva Rodrigues («Pica»), animador do CSJB desde 2005. Se procura Francisco Silva («Kiko»), animador do CC desde 2006, consulte [Francisco Silva](Francisco%20Silva.md). Há outras pessoas chamadas Francisco Rodrigues: ver [Francisco Rodrigues](../../Movimento/Desambigua%C3%A7%C3%A3o/Francisco%20Rodrigues.md).*
+*Nota: Este artigo é sobre Francisco Silva Rodrigues («Pica»), animador do CSJB desde 2005. Há outras pessoas chamadas Francisco Silva: ver [Francisco Silva](../../Movimento/Desambigua%C3%A7%C3%A3o/Francisco%20Silva.md). Há outras pessoas chamadas Francisco Rodrigues: ver [Francisco Rodrigues](../../Movimento/Desambigua%C3%A7%C3%A3o/Francisco%20Rodrigues.md).*
 
 Francisco Rodrigues, também conhecido por Pica é animador do Colégio São João de Brito.
 

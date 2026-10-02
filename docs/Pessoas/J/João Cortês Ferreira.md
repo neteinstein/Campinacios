@@ -17,7 +17,7 @@
 
 ### Família
 
-É irmão da [Maria Cortês Ferreira](../M/Maria%20Cort%C3%AAs%20Ferreira.md)
+É irmão da [Maria Cortês Ferreira](../M/Maria%20Cort%C3%AAs%20Ferreira.md), do [Francisco Cortês Ferreira](../F/Francisco%20Cort%C3%AAs%20Ferreira.md) e da [Teresa Cortês Ferreira](../T/Teresa%20Cort%C3%AAs%20Ferreira.md).
 
 ---
 

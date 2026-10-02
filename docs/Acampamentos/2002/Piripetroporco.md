@@ -18,7 +18,7 @@ O Piripetroporco foi um acampamento de Trotinetas que decorreu de 4 a 13 de Agos
 - [Diogo Belo](../../Pessoas/D/Diogo%20Belo.md)
 - [Diogo Costa](../../Pessoas/D/Diogo%20Costa.md)
 - [Filipa Caldas](../../Pessoas/F/Filipa%20Caldas.md)
-- [Francisco Silva](../../Pessoas/F/Francisco%20Silva.md)
+- [Francisco Silva (Kiko)](../../Pessoas/F/Francisco%20Silva%20%28Kiko%29.md)
 - [João Freire de Andrade](../../Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md)
 - [Madalena Saraiva](../../Pessoas/M/Madalena%20Saraiva.md)
 

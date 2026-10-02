@@ -12,7 +12,7 @@ Juliana Fernandes, nascida a 22 de Junho de 1987, é animadora do CC desde 2005.
     - 2007 [Bora Bora](../../Acampamentos/2007/Bora%20Bora.md) - [Tia](../../Cargos/Tio.md)
     - 2008 [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md) - [Tia](../../Cargos/Tio.md)
     - 2009 [Survivor](../../Acampamentos/2009/Survivor.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
-    - 2009 [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
+    - 2010 [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2012 [Limpopolus](../../Acampamentos/2012/Limpopolus.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
 ### Encontros
