@@ -9,6 +9,10 @@
     - 2022 [Isto Só Visto](../../Acampamentos/2022/Isto%20S%C3%B3%20Visto.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2026 [Oh Pai, Keshumo](../../Acampamentos/2026/Oh%20Pai%2C%20Keshumo.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
+### Família
+
+É irmão do [João Cortês Ferreira](../J/Jo%C3%A3o%20Cort%C3%AAs%20Ferreira.md), da [Maria Cortês Ferreira](../M/Maria%20Cort%C3%AAs%20Ferreira.md) e da [Teresa Cortês Ferreira](../T/Teresa%20Cort%C3%AAs%20Ferreira.md).
+
 ---
 
 **Outros nomes:** Chico Cortês Ferreira · Francisco Cortez · Francisco Ferreira

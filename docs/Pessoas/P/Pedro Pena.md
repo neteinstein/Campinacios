@@ -13,7 +13,7 @@ Pedro Pena é um dos animadores do Colégio da Imaculada Conceição.
 
 - **Participante**
     - 2006 [Long Tao](../../Acampamentos/2006/Long%20Tao.md)
-    - 2006 [Diz Que Sim](../../Acampamentos/2007/Diz%20Que%20Sim.md)
+    - 2007 [Diz Que Sim](../../Acampamentos/2007/Diz%20Que%20Sim.md)
 - **Formação:**
     - Nenhum
 - **Animador:**
