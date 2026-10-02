@@ -311,6 +311,7 @@
 - [Regresso a Alvoco I](../Acampamentos/1998/Regresso%20a%20Alvoco%20I.md)
 - [Regresso a Alvoco II](../Acampamentos/1998/Regresso%20a%20Alvoco%20II.md)
 - [Renato Lopes](../Pessoas/R/Renato%20Lopes.md)
+- [Ricardo Costa](../Pessoas/R/Ricardo%20Costa.md)
 - [Ricardo Lopes](../Pessoas/R/Ricardo%20Lopes.md)
 - [Ricardo Oliveira](../Pessoas/R/Ricardo%20Oliveira.md)
 - [Ricardo Rodrigues](../Pessoas/R/Ricardo%20Rodrigues.md)
