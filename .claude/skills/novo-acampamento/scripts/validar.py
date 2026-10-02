@@ -1,30 +1,33 @@
 #!/usr/bin/env python3
-"""Check that camp pages are listed everywhere a camp must appear.
+"""Verifica que as páginas dos campos estão em todas as listas onde um campo
+tem de aparecer.
 
-MkDocs does not build these lists: they are plain Markdown, written once by
-scripts/mediawiki_to_markdown.py and kept by hand since. A camp page that is
-missing from them still builds (mkdocs --strict only catches broken links),
-it just cannot be found.
+O MkDocs não constrói estas listas: são Markdown simples, escritas uma vez
+por scripts/mediawiki_to_markdown.py e mantidas à mão desde então. Uma
+página de campo que falte nelas continua a ser publicada (o mkdocs --strict
+só apanha ligações partidas), mas ninguém a encontra.
 
-For each camp page docs/Acampamentos/<ano>/<nome>.md it checks:
+Para cada página de campo docs/Acampamentos/<ano>/<nome>.md verifica:
 
   1. docs/Categorias/Acampamentos.md
-       a. the row of <ano> in the camps-by-year table links to it
-       b. the "Páginas nesta categoria (N)" list links to it
-  2. docs/Acampamentos/<ano>/index.md links to it
-  3. mkdocs.yml has <ano> in the navigation
+       a. a linha de <ano> na tabela dos acampamentos por ano liga a ela
+       b. a lista "Páginas nesta categoria (N)" liga a ela
+  2. docs/Acampamentos/<ano>/index.md liga a ela
+  3. o mkdocs.yml tem <ano> na navegação
 
-and, for the whole site, that the "(N)" count matches its list and that
-docs/Acampamentos/index.md, which shows the same content as the category,
-mirrors it: the same camps in each year's table row, the same page list
-and the same count.
+e, para o site todo, que a contagem "(N)" bate certo com a lista, que cada
+ano da tabela liga à sua categoria (docs/Categorias/Acampamentos de
+<ano>.md), quando ela existe, e que docs/Acampamentos/index.md, que mostra
+o mesmo que a categoria, é igual a ela: os mesmos campos e ligações em cada
+linha da tabela, a mesma lista de páginas e a mesma contagem.
 
-Usage:
-    python3 .claude/skills/novo-acampamento/scripts/validar.py <camp.md> ...
+Uso:
+    python3 .claude/skills/novo-acampamento/scripts/validar.py <campo.md> ...
     python3 .claude/skills/novo-acampamento/scripts/validar.py --todos
 
-Exits with 1 if a checked camp or a count is wrong. With --todos, gaps that
-the old wiki already had (see LEGACY) are reported apart and do not fail.
+Sai com 1 se um campo verificado ou uma contagem estiver errado. Com
+--todos, as falhas que a wiki antiga já tinha (ver LEGACY) aparecem à parte
+e não fazem falhar.
 """
 import os
 import re
@@ -36,15 +39,15 @@ ROOT = Path(__file__).resolve().parents[4]
 DOCS = ROOT / 'docs'
 CAMPS = DOCS / 'Acampamentos'
 CATEGORY = DOCS / 'Categorias' / 'Acampamentos.md'
-MIRROR = CAMPS / 'index.md'  # same table and page list as CATEGORY
-UNDATED = 'Sem data'  # camps without a year: no table row
+MIRROR = CAMPS / 'index.md'  # a mesma tabela e lista de páginas que CATEGORY
+UNDATED = 'Sem data'  # campos sem ano: não têm linha na tabela
 
 LINK = re.compile(r'\]\((<[^>]+>|[^)\s]+)\)')
 
 
 def targets(text, source):
-    """Files that the Markdown links in `text` (written in `source`) open;
-    both [a](Nome%20x.md) and [a](<Nome x.md>) forms."""
+    """Os ficheiros que as ligações Markdown de `text` (escritas em `source`)
+    abrem; tanto na forma [a](Nome%20x.md) como [a](<Nome x.md>)."""
     out = set()
     for href in LINK.findall(text):
         href = href.strip('<>').split('#')[0]
@@ -54,7 +57,7 @@ def targets(text, source):
 
 
 def section_list(text, heading):
-    """The '- ...' lines under a '## heading (N)' and that N."""
+    """As linhas '- ...' debaixo de um '## título (N)', e esse N."""
     m = re.search(rf'^## {re.escape(heading)} \((\d+)\)\n\n((?:- .*\n?)*)',
                   text, re.M)
     if not m:
@@ -67,9 +70,26 @@ def year_of(camp):
 
 
 def table_rows(text):
-    """The camps-by-year table: {year: that row's text}."""
+    """A tabela dos acampamentos por ano: {ano: o texto dessa linha}. O ano
+    pode estar em texto simples (| 2020 |) ou ligado à sua categoria
+    (| [1989](Acampamentos%20de%201989.md) |)."""
     return {m.group(1): m.group(0) for m in
-            re.finditer(r'^\| (\d{4}) \|.*$', text, re.M)}
+            re.finditer(r'^\| \[?(\d{4})(?:\]\([^)]*\))? \|.*$', text, re.M)}
+
+
+def year_link_problems(rows):
+    """Cada ano da tabela da categoria liga à página Acampamentos de <ano>,
+    quando ela existe (o docs/Acampamentos/index.md fica igual por
+    mirror_problems)."""
+    out = []
+    rel_c = CATEGORY.relative_to(ROOT)
+    for year, row in sorted(rows.items()):
+        page = CATEGORY.parent / f'Acampamentos de {year}.md'
+        cell = re.match(r'^\| (.*?) \|', row).group(1)
+        if page.exists() and page not in targets(cell, CATEGORY):
+            out.append(f'{rel_c}: o ano {year} da tabela não liga a '
+                       f'{page.relative_to(ROOT)}')
+    return out
 
 
 def camp_pages():
@@ -108,7 +128,7 @@ def equipa_problems(camp):
 
 
 def check(camps):
-    """Problems per camp (list of strings) and site-wide count problems."""
+    """Os problemas de cada campo (lista de textos) e os do site todo."""
     cat_text = CATEGORY.read_text(encoding='utf-8')
     nav = (ROOT / 'mkdocs.yml').read_text(encoding='utf-8')
     rows = table_rows(cat_text)
@@ -122,6 +142,7 @@ def check(camps):
     elif count != len(members):
         general.append(f'{CATEGORY.relative_to(ROOT)}: diz "Páginas nesta '
                        f'categoria ({count})" mas a lista tem {len(members)}')
+    general += year_link_problems(rows)
     general += mirror_problems(rows, count, member_files)
 
     problems = {}
@@ -156,7 +177,7 @@ def check(camps):
 
 
 def mirror_problems(rows, count, member_files):
-    """Where docs/Acampamentos/index.md differs from the category page."""
+    """Onde docs/Acampamentos/index.md é diferente da página da categoria."""
     rel_m, rel_c = MIRROR.relative_to(ROOT), CATEGORY.relative_to(ROOT)
     text = MIRROR.read_text(encoding='utf-8')
     out = []
@@ -194,8 +215,8 @@ def mirror_problems(rows, count, member_files):
     return out
 
 
-# Gaps already in the wiki when it was converted (the table and the category
-# were kept by hand there too). New camps must not add to this list.
+# Falhas que a wiki já tinha quando foi convertida (também lá a tabela e a
+# categoria eram mantidas à mão). Os campos novos não podem aumentar a lista.
 LEGACY = ROOT / '.claude' / 'skills' / 'novo-acampamento' / 'legado.txt'
 
 
