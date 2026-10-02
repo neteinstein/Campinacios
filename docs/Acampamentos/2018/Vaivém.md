@@ -5,10 +5,12 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Luís Panão](../../Pessoas/L/Lu%C3%ADs%20Pan%C3%A3o.md)
+- [Tio](../../Cargos/Tio.md) - [Ricardo Costa](../../Pessoas/R/Ricardo%20Costa.md)
 
 ## Páginas que ligam para aqui
 
 - [Luís Panão](../../Pessoas/L/Lu%C3%ADs%20Pan%C3%A3o.md)
+- [Ricardo Costa](../../Pessoas/R/Ricardo%20Costa.md)
 
 ---
 

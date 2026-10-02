@@ -2,7 +2,7 @@
 
 Animadores do Colégio das Caldinhas
 
-## Páginas nesta categoria (157)
+## Páginas nesta categoria (159)
 
 - [Amílcar Sousa](../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
 - [Ana Carolina Bardi](../Pessoas/A/Ana%20Carolina%20Bardi.md)
@@ -134,6 +134,7 @@ Animadores do Colégio das Caldinhas
 - [Pedro Pinheiro](../Pessoas/P/Pedro%20Pinheiro.md)
 - [Pedro Pinto](../Pessoas/P/Pedro%20Pinto.md)
 - [Renato Costa](../Pessoas/R/Renato%20Costa.md)
+- [Ricardo Costa](../Pessoas/R/Ricardo%20Costa.md)
 - [Ricardo Lopes](../Pessoas/R/Ricardo%20Lopes.md)
 - [Ricardo Oliveira](../Pessoas/R/Ricardo%20Oliveira.md)
 - [Rita Quintela](../Pessoas/R/Rita%20Quintela.md)
@@ -161,6 +162,7 @@ Animadores do Colégio das Caldinhas
 - [Vânia Carvalho](../Pessoas/V/V%C3%A2nia%20Carvalho.md)
 - [Vítor Fernandes](../Pessoas/V/V%C3%ADtor%20Fernandes.md)
 - [Vítor Leite](../Pessoas/V/V%C3%ADtor%20Leite.md)
+- [Zé Guedes](../Pessoas/Z/Z%C3%A9%20Guedes.md)
 
 ---
 

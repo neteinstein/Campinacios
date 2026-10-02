@@ -11,6 +11,7 @@
 - [Vânia Carvalho](V%C3%A2nia%20Carvalho.md)
 - [Vera Cunha](Vera%20Cunha.md)
 - [Vera Eiró](Vera%20Eir%C3%B3.md)
+- [Vera Pina](Vera%20Pina.md)
 - [Vicente Goes](Vicente%20Goes.md)
 - [Virgílio](Virg%C3%ADlio.md)
 - [Vítor Fernandes](V%C3%ADtor%20Fernandes.md)

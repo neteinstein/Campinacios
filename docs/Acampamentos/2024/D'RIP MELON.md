@@ -26,6 +26,7 @@
 - [Matilde Ferreira](../../Pessoas/M/Matilde%20Ferreira.md)
 - [Pedro Leitão](../../Pessoas/P/Pedro%20Leit%C3%A3o.md)
 - [Rafa Mano](../../Pessoas/R/Rafa%20Mano.md)
+- [Zé Guedes](../../Pessoas/Z/Z%C3%A9%20Guedes.md)
 
 ---
 
