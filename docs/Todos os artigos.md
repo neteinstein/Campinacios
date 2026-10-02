@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1258 artigos e, em itálico, os 199 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1261 artigos e, em itálico, os 199 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -468,6 +468,7 @@
 
 ## F
 
+- [Faia (Sernancelhe)](Restrito/Locais%20de%20Acampamento/Faia%20%28Sernancelhe%29.md) 🔒
 - [Fairplay](Acampamentos/2013/Fairplay.md)
 - [Falésia](Acampamentos/2005/Fal%C3%A9sia.md)
 - [FAQ](Movimento/FAQ.md)
@@ -888,6 +889,7 @@
 ## M
 
 - [M&M](Acampamentos/2007/M%26M.md)
+- [Mação (Santarém)](Restrito/Locais%20de%20Acampamento/Ma%C3%A7%C3%A3o%20%28Santar%C3%A9m%29.md) 🔒
 - *Machoqueira do Grou* → [Machoqueira do Grou (Santarém)](Restrito/Locais%20de%20Acampamento/Machoqueira%20do%20Grou%20%28Santar%C3%A9m%29.md) 🔒
 - [Machoqueira do Grou (Santarém)](Restrito/Locais%20de%20Acampamento/Machoqueira%20do%20Grou%20%28Santar%C3%A9m%29.md) 🔒
 - [Madalena Dantas](Pessoas/M/Madalena%20Dantas.md)
@@ -1201,6 +1203,7 @@
 - [Pó-Có](Acampamentos/2014/P%C3%B3-C%C3%B3.md)
 - *Poço de Corga* → [Poço de Corga (Castanheira de Pêra)](Restrito/Locais%20de%20Acampamento/Po%C3%A7o%20de%20Corga%20%28Castanheira%20de%20P%C3%AAra%29.md) 🔒
 - [Poço de Corga (Castanheira de Pêra)](Restrito/Locais%20de%20Acampamento/Po%C3%A7o%20de%20Corga%20%28Castanheira%20de%20P%C3%AAra%29.md) 🔒
+- [Pomar dos Braços (Miranda do Corvo)](Restrito/Locais%20de%20Acampamento/Pomar%20dos%20Bra%C3%A7os%20%28Miranda%20do%20Corvo%29.md) 🔒
 - [Pontes](Acampamentos/2001/Pontes.md)
 - [Póporcohá](Acampamentos/2014/P%C3%B3porcoh%C3%A1.md)
 - [Porto da Balsa](Restrito/Locais%20de%20Acampamento/Porto%20da%20Balsa.md) 🔒
