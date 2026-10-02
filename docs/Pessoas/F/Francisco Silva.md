@@ -1,6 +1,6 @@
 # Francisco Silva
 
-*Nota: Este artigo é sobre Francisco Silva («Kiko»), animador do CC desde 2006. Se procura Chico Silva, dos acampamentos de 2022 e 2024, consulte [Chico Silva](../C/Chico%20Silva.md).*
+*Nota: Este artigo é sobre Francisco Silva («Kiko»), animador do CC desde 2006. Se procura Chico Silva, dos acampamentos de 2022 e 2024, consulte [Chico Silva](../C/Chico%20Silva.md). Se procura Francisco Silva Rodrigues («Pica»), animador do CSJB desde 2005, consulte [Francisco Silva Rodrigues](Francisco%20Silva%20Rodrigues.md).*
 
 Francisco Goiana Godinho da Silva, nascido a 15 de Abril de 1989, mais conhecido por Kiko, é animador do Colégio das Caldinhas desde 2006.
 

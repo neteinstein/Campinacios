@@ -5,7 +5,7 @@
 **Francisco Rodrigues** pode ser:
 
 - [Francisco Rodrigues](../../Pessoas/F/Francisco%20Rodrigues%20%28CAIC%29.md) animador do CAIC.
-- [Francisco Rodrigues (Pica)](../../Pessoas/F/Francisco%20Rodrigues%20%28Pica%29.md) animador do CSJB.
+- [Francisco Silva Rodrigues](../../Pessoas/F/Francisco%20Silva%20Rodrigues.md) (Pica), animador do CSJB desde 2005.
 
 ---
 
