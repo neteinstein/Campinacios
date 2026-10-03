@@ -22,6 +22,10 @@ Animador do CC desde 2004.
     - 2009 [Lembras-te?](../../Acampamentos/2009/Lembras-te.md) - [Director](../../Cargos/Director.md)
     - 2010 [Obra Prima](../../Acampamentos/2010/Obra%20Prima.md) - [Director](../../Cargos/Director.md)
 
+### Família
+
+É casado com a [Andreia Gil](../A/Andreia%20Gil.md).
+
 ---
 
 | Categorias |

@@ -19,6 +19,10 @@ Juliana Fernandes, nascida a 22 de Junho de 1987, é animadora do CC desde 2005.
 
 - 2010 [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md) - Mamã
 
+### Família
+
+É casada com o [Gonçalo Luís Carvalho](../G/Gon%C3%A7alo%20Lu%C3%ADs%20Carvalho.md).
+
 ---
 
 | Categorias |

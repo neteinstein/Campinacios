@@ -13,6 +13,10 @@
     - 2014 [Sentido](../../Acampamentos/2014/Sentido.md) - [Director](../../Cargos/Director.md)
     - 2015 [Ide](../../Acampamentos/2015/Ide.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
 
+### Família
+
+É casado com a [Teresa Cortês Ferreira](../T/Teresa%20Cort%C3%AAs%20Ferreira.md).
+
 ---
 
 | Categorias |

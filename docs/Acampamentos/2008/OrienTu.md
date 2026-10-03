@@ -57,6 +57,10 @@ O nome veio da junção de "Oriente" e do tema do ano, ou parte dele "Tu"... Ori
 
 O [relatório de campo](../../Restrito/Relat%C3%B3rios%20de%20Campo/OrienTu%202008.md) 🔒 escrito pela direcção é uma página restrita.
 
+## Participantes que se tornaram animadores
+
+- [Olga Couto](../../Pessoas/O/Olga%20Couto.md)
+
 ---
 
 | Categorias |

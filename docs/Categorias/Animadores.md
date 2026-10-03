@@ -9,7 +9,7 @@ Animadores dos Campinácios
 - [Animadores do CSJB](Animadores%20do%20CSJB.md)
 - [Jesuítas](Jesu%C3%ADtas.md)
 
-## Páginas nesta categoria (778)
+## Páginas nesta categoria (779)
 
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Afonso Barrocas](../Pessoas/A/Afonso%20Barrocas.md)
@@ -607,6 +607,7 @@ Animadores dos Campinácios
 - [Nuno Santos](../Pessoas/N/Nuno%20Santos.md)
 - [Nuno Simões](../Pessoas/N/Nuno%20Sim%C3%B5es.md)
 - [Nuno Tomás](../Pessoas/N/Nuno%20Tom%C3%A1s.md)
+- [Olga Couto](../Pessoas/O/Olga%20Couto.md)
 - [Otília Azevedo](../Pessoas/O/Ot%C3%ADlia%20Azevedo.md)
 - [Pablo Fernandes](../Pessoas/P/Pablo%20Fernandes.md)
 - [Padre Pina](../Pessoas/P/Padre%20Pina.md)
