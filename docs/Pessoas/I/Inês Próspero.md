@@ -1,6 +1,6 @@
 # Inês Próspero
 
-Inês Próspero é antiga aluna do [CSJB](../../Movimento/CSJB.md) e animadora desde 2006.
+Inês Próspero é antiga aluna do [CSJB](../../Movimento/CSJB.md) e animadora desde 2003.
 
 ### Acampamentos
 
