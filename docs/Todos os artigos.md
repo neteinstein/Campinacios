@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1265 artigos e, em itálico, os 199 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1266 artigos e, em itálico, os 199 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -51,6 +51,7 @@
 - [Ana Bela](Pessoas/A/Ana%20Bela.md)
 - [Ana Carolina Bardi](Pessoas/A/Ana%20Carolina%20Bardi.md)
 - [Ana Carolina Santos](Pessoas/A/Ana%20Carolina%20Santos.md)
+- [Ana Catarina Gil](Pessoas/A/Ana%20Catarina%20Gil.md)
 - [Ana Curto](Pessoas/A/Ana%20Curto.md)
 - *Ana da Rocha Gonçalves* → [Ana Rocha](Pessoas/A/Ana%20Rocha.md)
 - [Ana Geão](Pessoas/A/Ana%20Ge%C3%A3o.md)

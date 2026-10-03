@@ -6,6 +6,10 @@
 
 - [Director](../../Cargos/Director.md) - [Jonifa](../../Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md)
 
+## Participantes que se tornaram animadores
+
+- [Ana Catarina Gil](../../Pessoas/A/Ana%20Catarina%20Gil.md)
+
 ---
 
 | Categorias |

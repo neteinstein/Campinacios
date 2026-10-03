@@ -10,6 +10,10 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Filipa Caldas](../../Pessoas/F/Filipa%20Caldas.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Tiago Bahia](../../Pessoas/T/Tiago%20Bahia.md), [Inês Furtado](../../Pessoas/I/In%C3%AAs%20Furtado.md), [Teresa Cortês Ferreira](../../Pessoas/T/Teresa%20Cort%C3%AAs%20Ferreira.md) (Teté), João Maria Regueiras e João Coutinho Magalhães
 
+## Participantes que se tornaram animadores
+
+- [Ana Catarina Gil](../../Pessoas/A/Ana%20Catarina%20Gil.md)
+
 ---
 
 | Categorias |

@@ -7,6 +7,10 @@
 - [Director](../../Cargos/Director.md) - [Miguel França Martins](../../Pessoas/M/Miguel%20Fran%C3%A7a%20Martins.md)
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - [Sara Moinhos](../../Pessoas/S/Sara%20Moinhos.md)
 
+## Participantes que se tornaram animadores
+
+- [Ana Catarina Gil](../../Pessoas/A/Ana%20Catarina%20Gil.md)
+
 ---
 
 | Categorias |
