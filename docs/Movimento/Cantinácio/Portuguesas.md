@@ -717,6 +717,8 @@ Dó7(9)*:  x32033
 Fá7M*:  1x221x
 ```
 
+*Outra versão:*
+
 ```text
  Fá         Sib   Rém         Sol
 Se um dia alguém perguntar por mim
@@ -946,6 +948,8 @@ Eu sei que eu não sou quem você sempre sonhou,
 Mas vou reconquistar o seu amor todo p’ra mim.
 ```
 
+*Outra versão:*
+
 ```text
  Sol         Mim            Sim
 Quem te ver passar assim por mim
@@ -1015,6 +1019,8 @@ De que cor pintar a minha vida
      Já não há nada de novo aqui
      Debaixo do sol
 ```
+
+*Outra versão:*
 
 ```text
 Lá           Mi
@@ -1878,6 +1884,8 @@ As estrelas os trilhos
 E as tralhas dos dois
 ```
 
+*Outra versão:*
+
 ```text
        Dó        Fá
 Quando Deus pôs o mundo
@@ -2450,6 +2458,8 @@ E eu sou melhor que nada
 é o tempo (...) (2x)
 ```
 
+*Outra versão:*
+
 ```text
 Sol                         Ré
 Tu estás livre e eu estou livre
@@ -2542,6 +2552,8 @@ E eu sou melhor que nada
 *  B.P. (Baden Powell), no original
 ** Lenço Rubro, no original
 ```
+
+*Outra versão:*
 
 ```text
 Lá                  Sim
@@ -3669,6 +3681,8 @@ Tanto orgulho numa só mulher moderna oh-ai
 Que ora corre ora cai (bis)
 ```
 
+*Outra versão:*
+
 ```text
 Sim Sol Lá Ré (4x)
 
@@ -3869,6 +3883,8 @@ Boiando vazias
 Nas ondas da manhã
 ```
 
+*Outra versão:*
+
 ```text
 Sol              Mim
 Dunas, são como divãs
@@ -4046,6 +4062,8 @@ A primeira mão que me apertou
 Dei a volta, cheguei ao fim
 Encontrou-me, não me largou
 ```
+
+*Outra versão:*
 
 ```text
   Lá                     Mi
@@ -4401,6 +4419,8 @@ ar p’ra já,
 ais um lugar,
 erei maior
 ```
+
+*Outra versão:*
 
 ```text
   Sol  Lá Ré
@@ -6451,6 +6471,8 @@ Siga a roda p’ra diante
 Quem manda é o meu amor
 ```
 
+*Outra versão:*
+
 ```text
      Lám
 Não te encostes à parreira
@@ -6735,6 +6757,8 @@ Com o teu cabelo à lua
 Menina estás à janela
 ```
 
+*Outra versão:*
+
 ```text
    Dó          Fá
 Menina estás à janela
@@ -6981,6 +7005,8 @@ Estou entre a espada e a parede
                DóLámFáSol              DóLámFáSol              DóLámFá
        Não há      estrelas no céu,    estrelas no céu...
 ```
+
+*Outra versão:*
 
 ```text
       Sol
@@ -7396,6 +7422,8 @@ Quando alguém nos dá a mão
      A - E - I - O - U
      Pararara
 ```
+
+*Outra versão:*
 
 ```text
 Dó  Lám Rém Sol
@@ -8551,6 +8579,8 @@ Fui feliz enquanto pude ser
 Perdoa se peço demais (...) (x2)
 ```
 
+*Outra versão:*
+
 ```text
 Mi          Fá#    Sol#m
  Perdoa se peço demais
@@ -9581,6 +9611,8 @@ Miúda quem és .... miuuuda
 (5x)
 ```
 
+*Outra versão:*
+
 ```text
 Mi
 Quando passas a minha rua
@@ -9727,6 +9759,8 @@ A água em todas as fontes
       Ó rama do olival
 ```
 
+*Outra versão:*
+
 ```text
 Dó
 Ó rama, ó que linda rama
@@ -9837,6 +9871,8 @@ Adianta e troca o par
       Enquanto rega e não rega     (bis)
       Meu amor te vou falar
 ```
+
+*Outra versão:*
 
 ```text
 Lá                                   Mi
@@ -10401,6 +10437,8 @@ Sou teu amigo sim
 Sou teu amigo sim!
 Sol*  =  3x304x  Ré*  =  2x023x
 ```
+
+*Outra versão:*
 
 ```text
 Sol     Ré7   Sol   Sol7
@@ -11095,6 +11133,8 @@ Somente nós
 Todos
       Só seu e meu
 ```
+
+*Outra versão:*
 
 ```text
 Dó
