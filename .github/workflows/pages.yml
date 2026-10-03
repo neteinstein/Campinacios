@@ -19,10 +19,13 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0  # a página Recentes lê o histórico do git
       - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
+      - run: python3 scripts/actualizar_recentes.py
       - run: mkdocs build --strict  # a broken link stops the deploy
       - uses: actions/upload-pages-artifact@v5
         with:

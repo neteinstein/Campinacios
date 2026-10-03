@@ -14,6 +14,15 @@ No YouTube há vídeos do serão e de outros momentos do encontro:
 - ["Parabéns aos Campinácios"](https://www.youtube.com/watch?v=uQ7maOt8zaQ)
 - [Anúncio do novo logotipo](https://www.youtube.com/watch?v=AhlhiVLZQmE)
 
+Uma série de vídeos curtos «Campinácios», de Miguel da Câmara Machado e Francisco Lemos Caldas:
+
+- [Barack Obama](https://www.youtube.com/watch?v=mCqRteZty5E)
+- [Bob](https://www.youtube.com/watch?v=Lapq6uPLVTQ)
+- [Cristiano Ronaldo e Mãe](https://www.youtube.com/watch?v=ohh4sXZXZ2w)
+- [Harry Potter](https://www.youtube.com/watch?v=-IRLCfpiCmc)
+- [São Paulo](https://www.youtube.com/watch?v=hKFDdT5HlsA)
+- [Scolari](https://www.youtube.com/watch?v=v_QglEdtVRU)
+
 ## Organização
 
 - **Director**: [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md)
