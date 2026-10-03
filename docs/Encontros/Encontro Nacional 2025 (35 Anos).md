@@ -1,4 +1,4 @@
-# Encontro Nacional 2025
+# Encontro Nacional 2025 (35 Anos)
 
 Em 2025 celebraram-se os 35 anos dos Campinácios com um MEGA Encontro Nacional no antigo CAIC, de 4 a 6 de Abril de 2025. Fizeram-se camisolas novas, a partir do logótipo comemorativo dos 35 anos.
 
