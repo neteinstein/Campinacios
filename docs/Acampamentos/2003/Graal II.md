@@ -10,7 +10,6 @@ Foi neste campo que se cantou a música "Pára e Repara" (ver [Cantinácio](../.
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Joana Osório](../../Pessoas/J/Joana%20Os%C3%B3rio.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [José Frazão](../../Pessoas/J/Jos%C3%A9%20Fraz%C3%A3o.md) sj
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Sérgio Carvalho](../../Pessoas/S/S%C3%A9rgio%20Carvalho.md) sj, [Luís Pereira](../../Pessoas/L/Lu%C3%ADs%20Pereira.md), [Alexandra Gonçalves](../../Pessoas/A/Alexandra%20Gon%C3%A7alves.md), [Martim Cunha Ferreira](../../Pessoas/M/Martim%20Cunha%20Ferreira.md), [Manuel Vilhena](../../Pessoas/M/Manuel%20Vilhena.md), [Rita Simões](../../Pessoas/R/Rita%20Sim%C3%B5es.md) e [Daniela Ribeiro](../../Pessoas/D/Daniela%20Ribeiro.md)
-- [Animadores](../../Categorias/Animadores.md) - [Inês Próspero](../../Pessoas/I/In%C3%AAs%20Pr%C3%B3spero.md)
 
 ## Participantes que se tornaram animadores
 
@@ -23,6 +22,7 @@ Foi neste campo que se cantou a música "Pára e Repara" (ver [Cantinácio](../.
 - [Diogo Faria](../../Pessoas/D/Diogo%20Faria.md)
 - [Francisco Penetra](../../Pessoas/F/Francisco%20Penetra.md)
 - [Inês Patrício](../../Pessoas/I/In%C3%AAs%20Patr%C3%ADcio.md)
+- [Inês Próspero](../../Pessoas/I/In%C3%AAs%20Pr%C3%B3spero.md)
 - [Jacinto Bezerra](../../Pessoas/J/Jacinto%20Bezerra.md)
 - [Joana Martins](../../Pessoas/J/Joana%20Martins.md)
 - [Leonardo Carvalho](../../Pessoas/L/Leonardo%20Carvalho.md)
