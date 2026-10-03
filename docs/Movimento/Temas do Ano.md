@@ -33,7 +33,7 @@
 | 2015 | <ul><li>Change Your Selfie</li></ul> |
 | 2016 | <ul><li>Já estavas à minha espera ([vídeo](https://www.youtube.com/watch?v=bn9HMYSNAhs))</li></ul> |
 | 2017 | <ul><li>Guarda tudo no teu coração ([vídeo](https://www.youtube.com/watch?v=UgWgdo_oG0Y))</li></ul> |
-| 2018 | <ul><li>Vem e verás</li></ul> |
+| 2018 | <ul><li>Vem e verás ([vídeo](https://www.youtube.com/watch?v=T_BYno-RdJE))</li></ul> |
 | 2019 | <ul><li>Enche a tua vida de alegria</li></ul> |
 | 2020 | <ul><li>Viver Agradecido</li></ul> |
 | 2021 | <ul><li>Há uma luz que nunca se apaga</li></ul> |
