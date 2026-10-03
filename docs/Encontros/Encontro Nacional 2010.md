@@ -7,7 +7,7 @@ Foi o maior encontro até à data: participaram mais de 700 participantes e 100 
 
 Durante o encontro foi feito o logótipo humano dos Campinácios, com todos os participantes a formá-lo.
 
-No YouTube há um [vídeo do serão "Os Famosos"](https://www.youtube.com/watch?v=YJjbKU1wu84) e outro, ["Parabéns aos Campinácios"](https://www.youtube.com/watch?v=uQ7maOt8zaQ).
+No YouTube há um [vídeo do serão "Os Famosos"](https://www.youtube.com/watch?v=YJjbKU1wu84) e outros dois: ["Parabéns aos Campinácios"](https://www.youtube.com/watch?v=uQ7maOt8zaQ) e o [anúncio do novo logotipo](https://www.youtube.com/watch?v=AhlhiVLZQmE).
 
 ## Organização
 
