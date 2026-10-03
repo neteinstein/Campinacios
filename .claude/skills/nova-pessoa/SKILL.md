@@ -164,3 +164,20 @@ desactualizada ou se ainda existir a secção antiga.
 
 Finally tell the user who was linked to whom, which pages were created or
 got a note, and which names stayed plain text.
+
+## Recentes
+
+Toda a alteração a uma página tem de ficar reflectida na página
+[Recentes](../../../docs/Recentes.md). Essa página não se edita à mão: lê o
+histórico do git e reescreve-se a cada publicação. Por isso, a alteração tem
+de estar num commit (ficheiros em `docs/`) e, antes de dar o trabalho por
+terminado, confirma-se:
+
+```sh
+python3 scripts/actualizar_recentes.py   # depois do commit
+grep "<nome da página>" docs/Recentes.md # as páginas mexidas têm de aparecer
+git restore docs/Recentes.md             # a publicação volta a gerá-la
+```
+
+As páginas restritas, os índices, as categorias, `Wikinácios/` e as páginas
+geradas não aparecem nunca em Recentes; e só entram as 50 mais recentes.
