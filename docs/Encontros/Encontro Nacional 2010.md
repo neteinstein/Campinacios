@@ -7,6 +7,13 @@ Foi o maior encontro até à data: participaram mais de 700 participantes e 100 
 
 Durante o encontro foi feito o logótipo humano dos Campinácios, com todos os participantes a formá-lo.
 
+No YouTube há vídeos do serão e de outros momentos do encontro:
+
+- [Abertura do serão](https://www.youtube.com/watch?v=NJ2JxOCmaXw)
+- [Serão "Os Famosos"](https://www.youtube.com/watch?v=YJjbKU1wu84)
+- ["Parabéns aos Campinácios"](https://www.youtube.com/watch?v=uQ7maOt8zaQ)
+- [Anúncio do novo logotipo](https://www.youtube.com/watch?v=AhlhiVLZQmE)
+
 ## Organização
 
 - **Director**: [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md)
