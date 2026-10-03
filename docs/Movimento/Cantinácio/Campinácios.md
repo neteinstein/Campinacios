@@ -8,7 +8,7 @@ Músicas nascidas nos acampamentos dos [Campinácios](../Campin%C3%A1cios.md) e 
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (74 músicas)
+## Índice (75 músicas)
 
 - [HINO DOS CAMPINÁCIOS](#hino-dos-campinacios) — Hino dos Campinácios (2025)
 - [ABENÇOAI SENHOR 2](#abencoai-senhor-2)
@@ -17,6 +17,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [AH UNI](#ah-uni)
 - [ALGUÉM À DERIVA](#alguem-a-deriva)
 - [AMAR ALGUÉM](#amar-alguem)
+- [AMIGO SECRETO](#amigo-secreto) — Campo OPA (2007)
 - [A MINHA AVÓ E A TUA AVÓ](#a-minha-avo-e-a-tua-avo)
 - [ANDRÉ E A CECÍLIA](#andre-e-a-cecilia)
 - [APRENDER A SER](#aprender-a-ser)
@@ -282,6 +283,35 @@ O que é amar alguém
 O que é amar alguém
                  Sol
 Como o/a _____ te ama
+```
+
+### AMIGO SECRETO {#amigo-secreto}
+
+*Música do Campo [OPA](../../Acampamentos/2007/OPA.md) (2007)*
+
+```text
+Secreto,
+
+Um amigo especial,
+
+Secreto,
+
+Estejas bem ou estejas mal,
+
+Secreto,
+
+Uma pessoa brutal,
+
+Secreto,
+
+Alguém monumental,
+
+Secreto,
+
+Segue-me e vem comigo,
+eu sou o teu amigo,
+
+SECRETO! AMIGO! SECRETO! AMIGO!
 ```
 
 ### A MINHA AVÓ E A TUA AVÓ {#a-minha-avo-e-a-tua-avo}
