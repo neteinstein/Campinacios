@@ -6,7 +6,10 @@ O hino deste campo foi a música "Abre-te ao Sonho" (ver [Cantinácio](../../Mov
 
 ### Vídeos
 
-No YouTube há três vídeos deste campo: a [explicação do nome](https://www.youtube.com/watch?v=yqpzj9MOvK0), a [desmontagem do mastro](https://www.youtube.com/watch?v=XT5QGCC-Efo) e a [apresentação do hino de campo](https://www.youtube.com/watch?v=LuINMt_ugjA).
+- [Explicação do nome](https://www.youtube.com/watch?v=yqpzj9MOvK0)
+- [Desmontagem do mastro](https://www.youtube.com/watch?v=XT5QGCC-Efo)
+- [Apresentação do hino de campo](https://www.youtube.com/watch?v=LuINMt_ugjA)
+- [Retrospectiva do campo](https://www.youtube.com/watch?v=6vGvbsBp8TU)
 
 ### Animadores
 
