@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1261 artigos e, em itálico, os 199 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1265 artigos e, em itálico, os 199 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -218,6 +218,7 @@
 - *Cami* → [Carlos Miguel Albuquerque](Pessoas/C/Carlos%20Miguel%20Albuquerque.md)
 - [Camila Martins](Pessoas/C/Camila%20Martins.md)
 - [Caminho](Acampamentos/2009/Caminho.md)
+- [Caminho 2009](Restrito/Relat%C3%B3rios%20de%20Campo/Caminho%202009.md) 🔒
 - [Camp & Nácios, S.A](Acampamentos/2013/Camp%20%26%20N%C3%A1cios%2C%20S.A.md)
 - *CAmpIC* → [CAmpIC 91](Acampamentos/1991/CAmpIC%2091.md)
 - [CAmpIC 89](Acampamentos/1989/CAmpIC%2089.md)
@@ -460,6 +461,7 @@
 - [Era Uma Vez...](Acampamentos/2008/Era%20Uma%20Vez....md)
 - [Ermal](Acampamentos/1993/Ermal.md)
 - [Esperança](Acampamentos/2011/Esperan%C3%A7a.md)
+- [Esperança 2011](Restrito/Relat%C3%B3rios%20de%20Campo/Esperan%C3%A7a%202011.md) 🔒
 - [Eureka](Acampamentos/2008/Eureka.md)
 - [Exipto](Acampamentos/2025/Exipto.md)
 - [Êxodo](Acampamentos/2008/%C3%8Axodo.md)
@@ -1108,7 +1110,9 @@
 - *Oli* → [Pedro Oliveira](Pessoas/P/Pedro%20Oliveira.md)
 - [Online](Movimento/Online.md)
 - [OPA](Acampamentos/2007/OPA.md)
+- [OPA 2007](Restrito/Relat%C3%B3rios%20de%20Campo/OPA%202007.md) 🔒
 - [OrienTu](Acampamentos/2008/OrienTu.md)
+- [OrienTu 2008](Restrito/Relat%C3%B3rios%20de%20Campo/OrienTu%202008.md) 🔒
 - [Origami](Acampamentos/2006/Origami.md)
 - [Otília Azevedo](Pessoas/O/Ot%C3%ADlia%20Azevedo.md)
 
