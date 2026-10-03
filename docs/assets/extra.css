@@ -480,3 +480,35 @@
 .md-typeset table [hidden] {
   display: none !important;
 }
+
+/* Plano de campo (grelha de horários com células fundidas) */
+.md-typeset .wk-plano-campo table:not([class]) {
+  display: block;
+  overflow-x: auto;
+  font-size: .62rem;
+  border-collapse: collapse;
+}
+.md-typeset .wk-plano-campo table:not([class]) th,
+.md-typeset .wk-plano-campo table:not([class]) td {
+  padding: .3em .5em;
+  text-align: center;
+  vertical-align: middle;
+  border: 1px solid var(--md-default-fg-color--lightest);
+}
+.md-typeset .wk-plano-campo table:not([class]) tbody th {
+  white-space: nowrap;
+}
+/* Categorias com cor no plano de campo e na respectiva legenda */
+.md-typeset .wk-cat-refeicao { background-color: rgba(255, 214, 0, .22); }
+.md-typeset .wk-cat-jogo { background-color: rgba(0, 140, 40, .22); }
+.md-typeset .wk-cat-formacao { background-color: rgba(227, 108, 9, .24); }
+.md-typeset .wk-cat-autogestao { background-color: rgba(51, 102, 255, .22); }
+.md-typeset .wk-cat-oracao { background-color: rgba(130, 0, 130, .22); }
+.md-typeset .wk-cat-diferente { background-color: rgba(221, 8, 6, .2); }
+.md-typeset .wk-plano-legenda span {
+  display: inline-block;
+  margin: 0 .4em .4em 0;
+  padding: .1em .6em;
+  font-size: .75rem;
+  border-radius: .2rem;
+}
