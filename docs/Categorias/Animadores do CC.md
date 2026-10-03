@@ -2,10 +2,11 @@
 
 Animadores do Colégio das Caldinhas
 
-## Páginas nesta categoria (168)
+## Páginas nesta categoria (169)
 
 - [Amílcar Sousa](../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
 - [Ana Carolina Bardi](../Pessoas/A/Ana%20Carolina%20Bardi.md)
+- [Ana Catarina Gil](../Pessoas/A/Ana%20Catarina%20Gil.md)
 - [Ana Geão](../Pessoas/A/Ana%20Ge%C3%A3o.md)
 - [Ana Junqueira](../Pessoas/A/Ana%20Junqueira.md)
 - [Ana Lima](../Pessoas/A/Ana%20Lima.md)

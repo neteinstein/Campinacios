@@ -10,6 +10,10 @@
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - [João Monteiro](../../Pessoas/J/Jo%C3%A3o%20Monteiro.md)
 
+## Participantes que se tornaram animadores
+
+- [Ana Catarina Gil](../../Pessoas/A/Ana%20Catarina%20Gil.md)
+
 ---
 
 | Categorias |

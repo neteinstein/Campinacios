@@ -9,7 +9,7 @@ Animadores dos Campinácios
 - [Animadores do CSJB](Animadores%20do%20CSJB.md)
 - [Jesuítas](Jesu%C3%ADtas.md)
 
-## Páginas nesta categoria (777)
+## Páginas nesta categoria (778)
 
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Afonso Barrocas](../Pessoas/A/Afonso%20Barrocas.md)
@@ -28,6 +28,7 @@ Animadores dos Campinácios
 - [Ana Bela](../Pessoas/A/Ana%20Bela.md)
 - [Ana Carolina Bardi](../Pessoas/A/Ana%20Carolina%20Bardi.md)
 - [Ana Carolina Santos](../Pessoas/A/Ana%20Carolina%20Santos.md)
+- [Ana Catarina Gil](../Pessoas/A/Ana%20Catarina%20Gil.md)
 - [Ana Curto](../Pessoas/A/Ana%20Curto.md)
 - [Ana Geão](../Pessoas/A/Ana%20Ge%C3%A3o.md)
 - [Ana Isabel Catalão](../Pessoas/A/Ana%20Isabel%20Catal%C3%A3o.md)

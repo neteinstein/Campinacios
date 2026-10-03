@@ -7,7 +7,7 @@ Estes foram os contribuidores que em 2009 ajudaram a criar a Wikinácios:
 - [João Miguel Rodrigues](../Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md): 3 contribuições
 - [João Monteiro](../Pessoas/J/Jo%C3%A3o%20Monteiro.md): 1 contribuição
 - [Joaquim Abreu](../Pessoas/J/Joaquim%20Abreu.md): 4 contribuições
-- [Nuno Mesquita](../Pessoas/N/Nuno%20Mesquita.md): 1 contribuição
+- [Nuno Mesquita](../Pessoas/N/Nuno%20Mesquita.md): 2 contribuições
 - [Nuno Ferreira](../Pessoas/N/Nuno%20Ferreira.md): 1 contribuição
 - [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md): 433 contribuições
 - [Sílvia Lobo](../Pessoas/S/S%C3%ADlvia%20Lobo.md): 5 contribuições
