@@ -66,6 +66,7 @@ BDS – Bom Dia Senhor.
 ## Participantes que se tornaram animadores
 
 - [João Miguel Rodrigues](../../Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md)
+- [Teresa Cortês Ferreira](../../Pessoas/T/Teresa%20Cort%C3%AAs%20Ferreira.md)
 
 ---
 
