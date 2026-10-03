@@ -36,7 +36,7 @@
 | 2018 | <ul><li>Vem e verás ([vídeo](https://www.youtube.com/watch?v=T_BYno-RdJE))</li></ul> |
 | 2019 | <ul><li>Enche a tua vida de alegria</li></ul> |
 | 2020 | <ul><li>Viver Agradecido</li></ul> |
-| 2021 | <ul><li>Há uma luz que nunca se apaga</li></ul> |
+| 2021 | <ul><li>Há uma luz que nunca se apaga ([vídeo](https://www.youtube.com/watch?v=B4MnP9S-sCI))</li></ul> |
 | 2022 | <ul><li>Ver novas todas as coisas em Cristo</li></ul> |
 | 2023 | <ul><li>Maria Levantou-se e Partiu Apressadamente</li></ul> |
 | 2024 | <ul><li>Fica connosco</li></ul> |
