@@ -10,17 +10,17 @@
 
   var SITE = "http://campinacios.pedrovicente.pt";
 
-  // Pela ordem do Cantinácio de 2019; o título é o da secção nessa edição.
+  // Pela ordem do Cantinácio de 2019, excepto os Aplausos, que ficam no fim; o título é o da secção nessa edição.
   var SECCOES = [
     { pagina: "Portuguesas", titulo: "Radar Tuga", capa: "p011.jpg" },
     { pagina: "Estrangeiras", titulo: "Da França, Espanha, tudo", capa: "p041.jpg" },
     { pagina: "Campinácios", titulo: "Hits de Campo", capa: "p089.jpg" },
     { pagina: "Camtil", titulo: "Camtil" },
     { pagina: "Gambozinos", titulo: "Gambozinos" },
-    { pagina: "Aplausos", titulo: "Não há palmas nos Campinácios", capa: "p111.jpg" },
     { pagina: "Cânticos", titulo: "Cânticos", capa: "p127.jpg" },
     { pagina: "Manual de Instruções", titulo: "Manual de Instruções", capa: "p175.jpg", texto: true },
-    { pagina: "Escalas", titulo: "Escalas", texto: true }
+    { pagina: "Escalas", titulo: "Escalas", texto: true },
+    { pagina: "Aplausos", titulo: "Não há palmas nos Campinácios", capa: "p111.jpg" }
   ];
 
   var TAM_LETRA = 8.5;  // pt, o tamanho normal das letras e acordes
