@@ -1,6 +1,6 @@
 <h1 class="wk-title">Wikinácios</h1>
 
-<div class="wk-top" markdown="span">[Boas-vindas](Movimento/Boas-vindas.md) | [Ajuda](Wikin%C3%A1cios/Conte%C3%BAdos.md) | [Perguntas Frequentes](Movimento/FAQ.md) | [Contactos](Movimento/Contactos.md)</div>
+<div class="wk-top" markdown="span">[Boas-vindas](Movimento/Boas-vindas.md) | [Ajuda](Wikin%C3%A1cios/Conte%C3%BAdos.md) | [Perguntas Frequentes](Movimento/FAQ.md) | [Contactos](Movimento/Contactos.md) | [Aplausos](Movimento/Cantin%C3%A1cio/Aplausos.md)</div>
 
 <div class="wk-banner" markdown>
 <div class="wk-count" markdown="span">**[1275 artigos](Todos%20os%20artigos.md)**</div>
@@ -10,24 +10,6 @@
 
 <div class="wk-grid" markdown>
 <div class="wk-col" markdown>
-
-<div class="wk-box wk-blue" markdown>
-<div class="wk-head" markdown="span">Como tudo começou...</div>
-
-Os [CAMPINÁCIOS](Movimento/Campin%C3%A1cios.md) são um movimento de acampamentos de férias estreitamente ligado à Companhia de Jesus mas, especificamente integrado na vida pastoral dos seus três colégios existentes em Portugal: Colégio das Caldinhas ([CC](Movimento/CC.md))*, Colégio S. João de Brito ([CSJB](Movimento/CSJB.md)) e Colégio da Imaculada Conceição ([CAIC](Movimento/CAIC.md)).
-
-Em Julho de 1989, na Serra da Estrela (casa das Mimosas), o ([CAIC](Movimento/CAIC.md)), de Cernache, organiza o [CAmpIC 89](Acampamentos/1989/CAmpIC%2089.md), um acampamento para os alunos do colégio.
-Neste acampamento o padre [Manuel Paiva](Pessoas/M/Manuel%20Paiva.md) SJ propôs inserir como participantes, além dos alunos do [CAIC](Movimento/CAIC.md), alunos dos outros dois colégios da Companhia de Jesus: [CSJB](Movimento/CSJB.md) e [CC](Movimento/CC.md). A equipa de animação deste acampamento era constituída por: [José Manuel Lopes](Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md) SJ ([Director](Cargos/Director.md)), [Maria Manuel Urbano](Pessoas/M/Maria%20Manuel%20Urbano.md) ([Directora-Adjunta](Cargos/Director-Adjunto.md)), [Manuel Paiva](Pessoas/M/Manuel%20Paiva.md) SJ ([Capelão](Cargos/Capel%C3%A3o.md)), [Paula Ferrand](Pessoas/P/Paula%20Ferrand.md) ([Mamã](Cargos/Mam%C3%A3.md)) e [João Pessoa](Pessoas/J/Jo%C3%A3o%20Pessoa.md) ([Tio](Cargos/Tio.md)).
-
-Como a experiência foi muito positiva, os directores dos três colégios – padre [Jorge Manuel Sena](Pessoas/J/Jorge%20Manuel%20Sena.md) ([CSJB](Movimento/CSJB.md)), padre [Amadeu Pinto](Pessoas/A/Amadeu%20Pinto.md) ([CC](Movimento/CC.md)) e padre [Américo Mendes](Pessoas/A/Am%C3%A9rico%20Mendes.md) ([CAIC](Movimento/CAIC.md)) – por proposta dos Magisteriantes dos três colégios e do padre [Manuel Paiva](Pessoas/M/Manuel%20Paiva.md), decidiram formalizar dando continuidade a esta experiência como actividade pastoral inter-colegial.
-
-Assim, ainda neste mês de Julho, o [CSJB](Movimento/CSJB.md) organiza o [Ferrugenta](Acampamentos/1989/Ferrugenta.md), um acampamento de férias no Rossio ao sul do Tejo para alunos dos três colégios. Este será o primeiro acampamento inter-colegial, mas ainda sem a designação de CAMPINÁCIOS formalizada como movimento dos colégios. Este acampamento de férias teve como tema: “pelos frutos se conhece a árvore”. A equipa de animação era assim constituída: [Carlos Azevedo Mendes](Pessoas/C/Carlos%20Azevedo%20Mendes.md) SJ ([Director](Cargos/Director.md)), [Domingos Freitas](Pessoas/D/Domingos%20Freitas.md) SJ ([Director-Adjunto](Cargos/Director-Adjunto.md) e [Capelão](Cargos/Capel%C3%A3o.md)) e [Concha Líbano Monteiro](Pessoas/C/Concha%20L%C3%ADbano%20Monteiro.md) ([Mamã](Cargos/Mam%C3%A3.md)).
-
-Ainda neste ano de 1989, no mês de Setembro, realizou-se o [Pedreira](Acampamentos/1989/Pedreira.md), mais um acampamento de férias que teve a seguinte direcção: [Domingos Freitas](Pessoas/D/Domingos%20Freitas.md) SJ ([Director](Cargos/Director.md) e [Capelão](Cargos/Capel%C3%A3o.md)), [Lourenço Eiró](Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) ([Director-Adjunto](Cargos/Director-Adjunto.md)), [Mafalda Aleixo](Pessoas/M/Mafalda%20Aleixo.md) ([Mamã](Cargos/Mam%C3%A3.md)), [Sandra Rodrigues](Pessoas/S/Sandra%20Rodrigues.md) ([Tia](Cargos/Tio.md)). Como animadores estiveram: [Carlos Lopes](Pessoas/C/Carlos%20Lopes.md), [Carlos Ruiz](Pessoas/C/Carlos%20Ruiz.md), [Filipe Queiroz e Melo](Pessoas/F/Filipe%20Queiroz%20e%20Melo.md), [Carlos Nunes](Pessoas/C/Carlos%20Nunes.md), [Bernardo Perloiro](Pessoas/B/Bernardo%20Perloiro.md), [Filipe Queiroz e Melo](Pessoas/F/Filipe%20Queiroz%20e%20Melo.md), [Rosarinho Araújo](Pessoas/R/Rosarinho%20Ara%C3%BAjo.md), [Cristina Cabeça](Pessoas/C/Cristina%20Cabe%C3%A7a.md) e [Maria Manuel Martins](Pessoas/M/Maria%20Manuel%20Urbano.md).
-
-<div class="wk-more" markdown="span">[ler mais...](Movimento/Campin%C3%A1cios.md)</div>
-
-</div>
 
 <div class="wk-box wk-yellow" markdown>
 <div class="wk-head" markdown="span">Sabia que...</div>
@@ -50,6 +32,24 @@ Ainda neste ano de 1989, no mês de Setembro, realizou-se o [Pedreira](Acampamen
 - [Tio/Tia](Cargos/Tio.md) - [Ana Geão](Pessoas/A/Ana%20Ge%C3%A3o.md) (4, entre 1999 e 2004), [Maria João Simões](Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md) (4, entre 1997 e 2005) e [Ricardo Lopes](Pessoas/R/Ricardo%20Lopes.md) (4, entre 2000 e 2003)
 - [Animador Livre](Cargos/Animador%20Livre.md) - [Vasco Vasconcelos](Pessoas/V/Vasco%20Vasconcelos.md) (9, entre 2004 e 2014)
 - [Animador de Equipa](Cargos/Animador%20de%20Equipa.md) - [Joana Nunes](Pessoas/J/Joana%20Nunes.md) (6, entre 1999 e 2004)
+
+</div>
+
+<div class="wk-box wk-blue" markdown>
+<div class="wk-head" markdown="span">Como tudo começou...</div>
+
+Os [CAMPINÁCIOS](Movimento/Campin%C3%A1cios.md) são um movimento de acampamentos de férias estreitamente ligado à Companhia de Jesus mas, especificamente integrado na vida pastoral dos seus três colégios existentes em Portugal: Colégio das Caldinhas ([CC](Movimento/CC.md))*, Colégio S. João de Brito ([CSJB](Movimento/CSJB.md)) e Colégio da Imaculada Conceição ([CAIC](Movimento/CAIC.md)).
+
+Em Julho de 1989, na Serra da Estrela (casa das Mimosas), o ([CAIC](Movimento/CAIC.md)), de Cernache, organiza o [CAmpIC 89](Acampamentos/1989/CAmpIC%2089.md), um acampamento para os alunos do colégio.
+Neste acampamento o padre [Manuel Paiva](Pessoas/M/Manuel%20Paiva.md) SJ propôs inserir como participantes, além dos alunos do [CAIC](Movimento/CAIC.md), alunos dos outros dois colégios da Companhia de Jesus: [CSJB](Movimento/CSJB.md) e [CC](Movimento/CC.md). A equipa de animação deste acampamento era constituída por: [José Manuel Lopes](Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md) SJ ([Director](Cargos/Director.md)), [Maria Manuel Urbano](Pessoas/M/Maria%20Manuel%20Urbano.md) ([Directora-Adjunta](Cargos/Director-Adjunto.md)), [Manuel Paiva](Pessoas/M/Manuel%20Paiva.md) SJ ([Capelão](Cargos/Capel%C3%A3o.md)), [Paula Ferrand](Pessoas/P/Paula%20Ferrand.md) ([Mamã](Cargos/Mam%C3%A3.md)) e [João Pessoa](Pessoas/J/Jo%C3%A3o%20Pessoa.md) ([Tio](Cargos/Tio.md)).
+
+Como a experiência foi muito positiva, os directores dos três colégios – padre [Jorge Manuel Sena](Pessoas/J/Jorge%20Manuel%20Sena.md) ([CSJB](Movimento/CSJB.md)), padre [Amadeu Pinto](Pessoas/A/Amadeu%20Pinto.md) ([CC](Movimento/CC.md)) e padre [Américo Mendes](Pessoas/A/Am%C3%A9rico%20Mendes.md) ([CAIC](Movimento/CAIC.md)) – por proposta dos Magisteriantes dos três colégios e do padre [Manuel Paiva](Pessoas/M/Manuel%20Paiva.md), decidiram formalizar dando continuidade a esta experiência como actividade pastoral inter-colegial.
+
+Assim, ainda neste mês de Julho, o [CSJB](Movimento/CSJB.md) organiza o [Ferrugenta](Acampamentos/1989/Ferrugenta.md), um acampamento de férias no Rossio ao sul do Tejo para alunos dos três colégios. Este será o primeiro acampamento inter-colegial, mas ainda sem a designação de CAMPINÁCIOS formalizada como movimento dos colégios. Este acampamento de férias teve como tema: “pelos frutos se conhece a árvore”. A equipa de animação era assim constituída: [Carlos Azevedo Mendes](Pessoas/C/Carlos%20Azevedo%20Mendes.md) SJ ([Director](Cargos/Director.md)), [Domingos Freitas](Pessoas/D/Domingos%20Freitas.md) SJ ([Director-Adjunto](Cargos/Director-Adjunto.md) e [Capelão](Cargos/Capel%C3%A3o.md)) e [Concha Líbano Monteiro](Pessoas/C/Concha%20L%C3%ADbano%20Monteiro.md) ([Mamã](Cargos/Mam%C3%A3.md)).
+
+Ainda neste ano de 1989, no mês de Setembro, realizou-se o [Pedreira](Acampamentos/1989/Pedreira.md), mais um acampamento de férias que teve a seguinte direcção: [Domingos Freitas](Pessoas/D/Domingos%20Freitas.md) SJ ([Director](Cargos/Director.md) e [Capelão](Cargos/Capel%C3%A3o.md)), [Lourenço Eiró](Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) ([Director-Adjunto](Cargos/Director-Adjunto.md)), [Mafalda Aleixo](Pessoas/M/Mafalda%20Aleixo.md) ([Mamã](Cargos/Mam%C3%A3.md)), [Sandra Rodrigues](Pessoas/S/Sandra%20Rodrigues.md) ([Tia](Cargos/Tio.md)). Como animadores estiveram: [Carlos Lopes](Pessoas/C/Carlos%20Lopes.md), [Carlos Ruiz](Pessoas/C/Carlos%20Ruiz.md), [Filipe Queiroz e Melo](Pessoas/F/Filipe%20Queiroz%20e%20Melo.md), [Carlos Nunes](Pessoas/C/Carlos%20Nunes.md), [Bernardo Perloiro](Pessoas/B/Bernardo%20Perloiro.md), [Filipe Queiroz e Melo](Pessoas/F/Filipe%20Queiroz%20e%20Melo.md), [Rosarinho Araújo](Pessoas/R/Rosarinho%20Ara%C3%BAjo.md), [Cristina Cabeça](Pessoas/C/Cristina%20Cabe%C3%A7a.md) e [Maria Manuel Martins](Pessoas/M/Maria%20Manuel%20Urbano.md).
+
+<div class="wk-more" markdown="span">[ler mais...](Movimento/Campin%C3%A1cios.md)</div>
 
 </div>
 
