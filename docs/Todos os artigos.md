@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1267 artigos e, em itálico, os 201 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1274 artigos e, em itálico, os 206 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -159,6 +159,7 @@
 - [Barro Vivo](Acampamentos/2013/Barro%20Vivo.md)
 - [Baúmerang](Acampamentos/2007/Ba%C3%BAmerang.md)
 - [Baza](Acampamentos/2007/Baza.md)
+- *BDS* → [Bom Dia Senhor](Movimento/Bom%20Dia%20Senhor.md)
 - [Benedita Rolim](Pessoas/B/Benedita%20Rolim.md)
 - [Benedita Vasconcelos](Pessoas/B/Benedita%20Vasconcelos.md)
 - *Bernardo Morais Sarmento* → [Bernardo Moraes Sarmento](Pessoas/B/Bernardo%20Moraes%20Sarmento.md)
@@ -183,7 +184,9 @@
 - [Bicicletas 94 I](Acampamentos/1994/Bicicletas%2094%20I.md)
 - [Bicicletas II](Acampamentos/1996/Bicicletas%20II.md)
 - [Bike Just Do It](Acampamentos/2008/Bike%20Just%20Do%20It.md)
+- *Boa Tarde Senhor* → [Bom Dia Senhor](Movimento/Bom%20Dia%20Senhor.md)
 - [Boas-vindas](Movimento/Boas-vindas.md)
+- [Bom Dia Senhor](Movimento/Bom%20Dia%20Senhor.md)
 - [Bruno Campos](Pessoas/B/Bruno%20Campos.md)
 - *Bolachao* → [Gonçalo Luís Carvalho](Pessoas/G/Gon%C3%A7alo%20Lu%C3%ADs%20Carvalho.md)
 - *Bolachão* → [Gonçalo Luís Carvalho](Pessoas/G/Gon%C3%A7alo%20Lu%C3%ADs%20Carvalho.md)
@@ -192,6 +195,7 @@
 - [Bruno Azevedo](Pessoas/B/Bruno%20Azevedo.md)
 - [Bruno Costa](Pessoas/B/Bruno%20Costa.md)
 - [Bruno Nobre](Pessoas/B/Bruno%20Nobre.md)
+- *BTS* → [Bom Dia Senhor](Movimento/Bom%20Dia%20Senhor.md)
 - [Bublix](Acampamentos/2009/Bublix.md)
 
 ## C
@@ -212,6 +216,7 @@
 - [Calhambeques 90](Acampamentos/1990/Calhambeques%2090.md)
 - [Calhambeques 91](Acampamentos/1991/Calhambeques%2091.md)
 - [Calinadas](Acampamentos/1998/Calinadas.md)
+- [Caminhada](Movimento/Caminhada.md)
 - [Carla Antunes](Pessoas/C/Carla%20Antunes.md)
 - *Carla Cardoso* → [Carla Ferreira](Pessoas/C/Carla%20Ferreira.md)
 - *Carla Cardoso Ferreira* → [Carla Ferreira](Pessoas/C/Carla%20Ferreira.md)
@@ -461,6 +466,8 @@
 - *Era Uma Vez* → [Era Uma Vez...](Acampamentos/2008/Era%20Uma%20Vez....md)
 - [Era Uma Vez...](Acampamentos/2008/Era%20Uma%20Vez....md)
 - [Ermal](Acampamentos/1993/Ermal.md)
+- *Escalão* → [Escalões](Movimento/Escal%C3%B5es.md)
+- [Escalões](Movimento/Escal%C3%B5es.md)
 - [Esperança](Acampamentos/2011/Esperan%C3%A7a.md)
 - [Esperança 2011](Restrito/Relat%C3%B3rios%20de%20Campo/Esperan%C3%A7a%202011.md) 🔒
 - [Eureka](Acampamentos/2008/Eureka.md)
@@ -641,6 +648,7 @@
 
 - [Ide](Acampamentos/2015/Ide.md)
 - [Iháquesermais](Acampamentos/2009/Ih%C3%A1quesermais.md)
+- [Imaginarium](Movimento/Imaginarium.md)
 - [Incrível](Acampamentos/2009/Incr%C3%ADvel.md)
 - [Inês Amorim](Pessoas/I/In%C3%AAs%20Amorim.md)
 - [Inês Fonseca](Pessoas/I/In%C3%AAs%20Fonseca.md)
@@ -959,6 +967,8 @@
 - *Mawi* → [Maria Cunhal](Pessoas/M/Maria%20Cunhal.md)
 - *Migalha* → [Miguel Melo Ribeiro](Pessoas/M/Miguel%20Melo%20Ribeiro.md)
 - *Mimas* → [Mariana Rato](Pessoas/M/Mariana%20Rato.md)
+- *Mocamfe* → [MOCAMFE](Movimento/MOCAMFE.md)
+- [MOCAMFE](Movimento/MOCAMFE.md)
 - *Mogui* → [Margarida Tavares](Pessoas/M/Margarida%20Tavares.md)
 - [Mãos à Obra](Acampamentos/2014/M%C3%A3os%20%C3%A0%20Obra.md)
 - [Maravilha-te](Acampamentos/2018/Maravilha-te.md)
@@ -1308,6 +1318,7 @@
 - [Rita Turras](Pessoas/R/Rita%20Turras.md)
 - [Rita Ventura](Pessoas/R/Rita%20Ventura.md)
 - *Ritinha Ângelo* → [Rita Ângelo](Pessoas/R/Rita%20%C3%82ngelo.md)
+- [Roda](Movimento/Roda.md)
 - [Rodrigo Calçarão](Pessoas/R/Rodrigo%20Cal%C3%A7ar%C3%A3o.md)
 - [Rodrigo Queiroz e Melo](Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md)
 - [Rosa](Pessoas/R/Rosa.md)
@@ -1355,6 +1366,7 @@
 - [Sem Truques](Acampamentos/2025/Sem%20Truques.md)
 - [Sentido](Acampamentos/2014/Sentido.md)
 - [Sequeiros (Braga)](Restrito/Locais%20de%20Acampamento/Sequeiros%20%28Braga%29.md) 🔒
+- [Serão](Movimento/Ser%C3%A3o.md)
 - *Serpins* → [Ribeira do Conde (Serpins)](Restrito/Locais%20de%20Acampamento/Ribeira%20do%20Conde%20%28Serpins%29.md) 🔒
 - *Serra de Arga* → [Serra de Arga (Paredes de Coura)](Restrito/Locais%20de%20Acampamento/Serra%20de%20Arga%20%28Paredes%20de%20Coura%29.md) 🔒
 - [Serra de Arga (Paredes de Coura)](Restrito/Locais%20de%20Acampamento/Serra%20de%20Arga%20%28Paredes%20de%20Coura%29.md) 🔒
