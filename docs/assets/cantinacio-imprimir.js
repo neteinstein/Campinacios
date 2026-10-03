@@ -1,4 +1,4 @@
-// Botão «Imprimir» da página do Cantinácio (docs/Movimento/Cantinácio.md).
+// Botão «Cantinácio Virtual» da página do Cantinácio (docs/Movimento/Cantinácio.md).
 // Junta as letras e os acordes de todas as secções do Cantinácio numa janela
 // nova, paginada em A4 a duas colunas à maneira do Cantinácio de 2019
 // (3.ª edição) — capa, ficha técnica, índice com números de página, capas das
@@ -590,7 +590,7 @@
   function abrir(base) {
     var w = window.open("", "_blank");
     if (!w) {
-      window.alert("O navegador bloqueou a janela nova. Autorize as janelas deste site e carregue outra vez em «Imprimir».");
+      window.alert("O navegador bloqueou a janela nova. Autorize as janelas deste site e carregue outra vez em «Cantinácio Virtual».");
       return;
     }
     var doc = w.document;
