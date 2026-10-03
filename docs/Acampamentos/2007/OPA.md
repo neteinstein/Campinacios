@@ -107,28 +107,7 @@ BDS – Bom Dia Senhor.
 
 ## Amigo Secreto
 
-Secreto,
-
-Um amigo especial,
-
-Secreto,
-
-Estejas bem ou estejas mal,
-
-Secreto,
-
-Uma pessoa brutal,
-
-Secreto,
-
-Alguém monumental,
-
-Secreto,
-
-Segue-me e vem comigo,
-eu sou o teu amigo,
-
-SECRETO! AMIGO! SECRETO! AMIGO!
+A música do amigo secreto está no [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#amigo-secreto).
 
 ## Blog
 
