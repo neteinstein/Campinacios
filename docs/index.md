@@ -59,9 +59,9 @@ Ainda neste ano de 1989, no mês de Setembro, realizou-se o [Pedreira](Acampamen
 <div class="wk-box wk-green" markdown>
 <div class="wk-head" markdown="span">Eventos recentes</div>
 
-- **6 de Janeiro de 2009**<br>Inicia-se a [Revolução Campinácios v2.0](Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md) com nova página e o início da Wikinácios!
-- **25 de Novembro de 2009**<br>É oficialmente divulgada a Wikinácios com 630 artigos, sendo a primeira das grandes mudanças da Revolução a ser divulgada!
 - **26 de Setembro de 2026**<br>Wikinácios é [recuperada de um backup](Wikin%C3%A1cios/Sobre%20este%20arquivo.md) depois de ter sido "perdida" em 2013. Passa nesse mesmo dia de 650 artigos para 950.
+- **25 de Novembro de 2009**<br>É oficialmente divulgada a Wikinácios com 630 artigos, sendo a primeira das grandes mudanças da Revolução a ser divulgada!
+- **6 de Janeiro de 2009**<br>Inicia-se a [Revolução Campinácios v2.0](Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md) com nova página e o início da Wikinácios!
 
 </div>
 
