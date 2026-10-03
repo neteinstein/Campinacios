@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1267 artigos e, em itálico, os 199 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1267 artigos e, em itálico, os 201 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -529,6 +529,7 @@
 - [Fragas de S.Simão 94](Acampamentos/1994/Fragas%20de%20S.Sim%C3%A3o%2094.md)
 - [Francisca Crujeira](Pessoas/F/Francisca%20Crujeira.md)
 - [Francisca Dias](Pessoas/F/Francisca%20Dias.md)
+- *Francisca Matos Dias* → [Francisca Dias](Pessoas/F/Francisca%20Dias.md)
 - [Francisca Mendes](Pessoas/F/Francisca%20Mendes.md)
 - [Francisca Serrano](Pessoas/F/Francisca%20Serrano.md)
 - [Francisco Almeida](Movimento/Desambigua%C3%A7%C3%A3o/Francisco%20Almeida.md)
@@ -755,6 +756,7 @@
 - [João Paulo Moinhos](Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md)
 - [João Pedro Alves](Pessoas/J/Jo%C3%A3o%20Pedro%20Alves.md)
 - [João Pedro Carlos](Pessoas/J/Jo%C3%A3o%20Pedro%20Carlos.md)
+- *João Amorim Gomes* → [João Pedro Gomes](Pessoas/J/Jo%C3%A3o%20Pedro%20Gomes.md)
 - [João Pedro Gomes](Pessoas/J/Jo%C3%A3o%20Pedro%20Gomes.md)
 - [João Pessoa](Pessoas/J/Jo%C3%A3o%20Pessoa.md)
 - [João Pinto da Costa](Pessoas/J/Jo%C3%A3o%20Pinto%20da%20Costa.md)
