@@ -13,6 +13,11 @@ O Encontro Nacional 2019 realizou-se no Colégio das Caldinhas, nos dias 6 e 7 d
 - **Responsáveis de Bicicletas**: [Pedro Rosa](../Pessoas/P/Pedro%20Rosa.md) e [Duarte Pinto](../Pessoas/D/Duarte%20Pinto.md)
 - **Responsáveis de Lambretas**: [Francisco Caldas](../Pessoas/F/Francisco%20Caldas.md) e [Joana Dias Coelho](../Pessoas/J/Joana%20Coelho.md)
 
+## Vídeos
+
+- [Serão: parte 2](https://www.youtube.com/watch?v=-X9gpmS1BvE)
+- [Serão: parte 4](https://www.youtube.com/watch?v=7ico0EJQc8w)
+
 ---
 
 | Categorias |

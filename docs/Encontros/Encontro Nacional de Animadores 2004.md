@@ -75,6 +75,10 @@ Foi o primeiro Encontro Nacional de Animadores, organizado pelo então [Assisten
 - [Juliana Costa](../Pessoas/J/Juliana%20Costa.md)
 - [António Valério](../Pessoas/A/Ant%C3%B3nio%20Val%C3%A9rio.md) sj
 
+## Vídeos
+
+- [I Encontro Nacional de Animadores](https://www.youtube.com/watch?v=vOopwWuVyZY)
+
 ---
 
 | Categorias |
