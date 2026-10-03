@@ -1,22 +1,5 @@
 # Contactos
 
-## Assistente Nacional
-
-Lourenço Eiró
-
-Colégio das Caldinhas
-
-Caldas da Saúde
-4784-907 AREIAS STS
-
-Telef.: 252 830 900
-
-Fax: 252 830 999
-
-## Coordenador Nacional
-
-Tiago Bahia
-
 ## Colégio das Caldinhas
 
 Colégio - Geral@colegiodascaldinhas.pt
@@ -32,20 +15,6 @@ Telef.: 252 830 900
 Fax: 252 830 999
 
 URL: http://www.colegiodascaldinhas.pt
-
-## Colégio da Imaculada Conceição
-
-Colégio - geral@caic.mail.pt
-
-Campinácios
-
-Cernache
-
-3044 - 519 Cernache
-
-Telef.: 239 940 030
-
-Fax: 239 940 037
 
 ## Colégio São João de Brito
 
