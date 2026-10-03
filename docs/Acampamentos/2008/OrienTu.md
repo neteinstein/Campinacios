@@ -44,6 +44,10 @@ O nome veio da junção de "Oriente" e do tema do ano, ou parte dele "Tu"... Ori
 
 [*Jornal de Edo*](http://Edo1613.blogspot.com)
 
+## Relatório de Campo
+
+O [relatório de campo](../../Restrito/Relat%C3%B3rios%20de%20Campo/OrienTu%202008.md) 🔒 escrito pela direcção é uma página restrita.
+
 ---
 
 | Categorias |

@@ -35,6 +35,10 @@ O Esperança foi um acampamento de [Calhambeques](../../Categorias/Calhambeques.
 - [Sara Oom](../../Pessoas/S/Sara%20Oom.md)
 - [Teresa Cortês Ferreira](../../Pessoas/T/Teresa%20Cort%C3%AAs%20Ferreira.md)
 
+## Relatório de Campo
+
+O [relatório de campo](../../Restrito/Relat%C3%B3rios%20de%20Campo/Esperan%C3%A7a%202011.md) 🔒 escrito pela direcção é uma página restrita.
+
 ---
 
 | Categorias |
