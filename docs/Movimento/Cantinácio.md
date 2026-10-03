@@ -22,7 +22,7 @@ As músicas do Cantinácio de 2019 (3.ª edição) foram juntadas às que já es
 - [Portuguesas](Cantin%C3%A1cio/Portuguesas.md) — 214 músicas portuguesas
 - [Estrangeiras](Cantin%C3%A1cio/Estrangeiras.md) — 226 músicas estrangeiras
 - [Camtil](Cantin%C3%A1cio/Camtil.md) — 70 músicas nascidas nos acampamentos
-- [Campinácios](Cantin%C3%A1cio/Campin%C3%A1cios.md) — 74 músicas nascidas ou cantadas nos acampamentos
+- [Campinácios](Cantin%C3%A1cio/Campin%C3%A1cios.md) — 75 músicas nascidas ou cantadas nos acampamentos
 - [Gambozinos](Cantin%C3%A1cio/Gambozinos.md) — 1 música nascida nos acampamentos
 
 ## Aplausos
