@@ -55,6 +55,9 @@ LEGACY = ROOT / '.claude' / 'skills' / 'nova-pessoa' / 'legado.txt'
 # Secções geradas a partir das páginas das pessoas (ver `secoes`).
 SEC_CARGO = 'Pessoas com este cargo'
 SEC_CAMPO = 'Participantes que se tornaram animadores'
+# Campos que, por decisão editorial, não mostram a lista de participantes
+# que se tornaram animadores (caminhos relativos à raiz do projecto).
+SEM_SECCAO = {'docs/Acampamentos/2011/Esperança.md'}
 DERIVED = re.compile(rf'^## (?:{SEC_CARGO}|{SEC_CAMPO})$', re.M)
 FOOTER = re.compile(r'^---$\n\n(?:\*\*Outros nomes|\| Categorias)', re.M)
 CARGOS = DOCS / 'Cargos'
@@ -356,7 +359,7 @@ class Ties:
                     out[target(h, person)][1].add(person)
             if is_animador(person):
                 for camp, role in self.roles[person].items():
-                    if role in JOINED:
+                    if role in JOINED and rel(camp) not in SEM_SECCAO:
                         out[camp][1].add(person)
         return out
 
