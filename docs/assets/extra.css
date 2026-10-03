@@ -512,3 +512,11 @@
   font-size: .75rem;
   border-radius: .2rem;
 }
+
+/* Os botões do Cantinácio (um <button>, outro <a>) com exactamente a mesma altura:
+   o <button> usa por omissão line-height: normal e o <a> herda 1.6. */
+.md-typeset .md-button {
+  box-sizing: border-box;
+  line-height: 1.6;
+  vertical-align: middle;
+}
