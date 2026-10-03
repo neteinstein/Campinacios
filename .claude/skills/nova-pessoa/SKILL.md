@@ -110,6 +110,9 @@ given, `### Acampamentos` with **Participante** / **Formação** /
 Animadores do <colégio> if known, Jesuítas…). As relações de parentesco ou de casamento (irmãos, pais, filhos, cônjuges…)
 escrevem-se sempre numa secção `### Família`, nunca soltas no fim da página
 nem noutra secção.
+Uma pessoa é animador a partir do campo de formação: se a introdução diz
+"animador desde <ano>", esse ano é o da **Formação**, mesmo que só tenha
+estado na equipa de um campo mais tarde.
 Then list it: the letter's
 `index.md` (sorted), its count in `docs/Pessoas/index.md`, each category's
 `## Páginas nesta categoria (N)` (sorted, N+1), `docs/Todos os artigos.md`
