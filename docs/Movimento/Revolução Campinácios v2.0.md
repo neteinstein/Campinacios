@@ -61,10 +61,10 @@ Antes de a página nova abrir, o endereço mostrou em Abril de 2009 «Campináci
 - **3 de Outubro de 2010** — «After Ben», com ligação para afterben.com.
 - **9 de Agosto de 2010** — «Novo visual»: com o começo dos acampamentos, a página mudou de aspecto.
 - **13 de Junho de 2010** — «Ansiedade»: listas de participantes fechadas e animadores prontos para os acampamentos.
-- **4 de Maio de 2010** — O Catálogo Online, para encomendar o DVD do [Encontro Nacional 2010](../Encontros/Encontro%20Nacional%202010.md), com mais de 3000 fotografias e um vídeo, a 4 €, levantado no colégio de cada um (era preciso estar registado na página).
+- **4 de Maio de 2010** — O Catálogo Online, para encomendar o DVD do [Encontro Nacional 2010 (20 Anos)](../Encontros/Encontro%20Nacional%202010%20%2820%20Anos%29.md), com mais de 3000 fotografias e um vídeo, a 4 €, levantado no colégio de cada um (era preciso estar registado na página).
 - **15 de Abril de 2010** — «Tu por acaso…», sobre as fotografias de uma *flash-mob*.
 - **12 de Abril de 2010** — A apresentação do livro «[Para Educar Melhor — Campos de férias inacianos](Para%20Educar%20Melhor%20-%20Campos%20de%20f%C3%A9rias%20inacianos.md)», do [José da Silva Almeida](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md) sj, e a apresentação da Revolução 2.0 em Prezi, feita pelo [Filipe Barroso](../Pessoas/F/Filipe%20Barroso.md).
-- **3 de Fevereiro de 2010** — As fichas de inscrição dos participantes no [Encontro Nacional 2010](../Encontros/Encontro%20Nacional%202010.md), uma por colégio.
+- **3 de Fevereiro de 2010** — As fichas de inscrição dos participantes no [Encontro Nacional 2010 (20 Anos)](../Encontros/Encontro%20Nacional%202010%20%2820%20Anos%29.md), uma por colégio.
 - **25 de Outubro de 2009** — A lista dos acampamentos que já se tinham feito, no Wikinácios.
 
 **Secções** ([Conhecer](https://web.archive.org/web/20110916100811/http://www.campinacios.org:80/index.php?option=com_content&view=article&id=101&Itemid=142) e Viver):

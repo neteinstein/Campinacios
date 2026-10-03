@@ -23,7 +23,7 @@ O escalão dos Calhambeques é para animadores já formados, normalmente em acam
 
 ## Rodinhas
 
-No Encontro Nacional de 2025, o dos 35 anos, houve ainda um escalão exclusivo do encontro: os Rodinhas, do 4.º ano para baixo. Ver [Encontro Nacional 2025](../Encontros/Encontro%20Nacional%202025.md).
+No Encontro Nacional de 2025, o dos 35 anos, houve ainda um escalão exclusivo do encontro: os Rodinhas, do 4.º ano para baixo. Ver [Encontro Nacional 2025 (35 Anos)](../Encontros/Encontro%20Nacional%202025%20%2835%20Anos%29.md).
 
 ## Nos encontros
 

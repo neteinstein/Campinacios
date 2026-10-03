@@ -41,7 +41,7 @@ Lourenço Eiró foi um dos fundadores dos [Campinácios](../../Movimento/Campin%
 ### Encontros
 
 - 2008 [Encontro Nacional de Animadores 2008](../../Encontros/Encontro%20Nacional%20de%20Animadores%202008.md) - Organização
-- 2010 [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md) - COECA
+- 2010 [Encontro Nacional 2010 (20 Anos)](../../Encontros/Encontro%20Nacional%202010%20%2820%20Anos%29.md) - COECA
 
 ---
 
