@@ -6,6 +6,10 @@
 
 Reúne músicas e canções dos Campinácios e não só.
 
+<button type="button" class="md-button md-button--primary wk-cantinacio-imprimir">Imprimir</button>
+
+O botão **Imprimir** gera o Cantinácio Virtual: todas as letras e acordes do Wikinácios, paginados à maneira do Cantinácio de 2019, com índice e números de página, prontos a imprimir ou a guardar em PDF.
+
 Um novo Cantinácio foi lançado após anos e anos de tentativas: a 3.ª edição, de 2019, com pesquisa e edição de [Sara Moinhos](../Pessoas/S/Sara%20Moinhos.md), ilustrações de [Francisco Rodrigues (Pica)](../Pessoas/F/Francisco%20Silva%20Rodrigues.md) e coordenação e assistência de [Francisca Pimentel](../Pessoas/F/Francisca%20Pimentel.md).
 
 ## Manual de Instruções
