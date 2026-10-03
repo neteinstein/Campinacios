@@ -1,6 +1,6 @@
 <h1 class="wk-title">Wikinácios</h1>
 
-<div class="wk-top" markdown="span">[Boas-vindas](Movimento/Boas-vindas.md) | [Ajuda](Wikin%C3%A1cios/Conte%C3%BAdos.md) | [Perguntas Frequentes](Movimento/FAQ.md) | [Contactos](Movimento/Contactos.md)</div>
+<div class="wk-top" markdown="span">[Boas-vindas](Movimento/Boas-vindas.md) | [Ajuda](Wikin%C3%A1cios/Conte%C3%BAdos.md) | [Perguntas Frequentes](Movimento/FAQ.md) | [Contactos](Movimento/Contactos.md) | [Aplausos](Movimento/Cantin%C3%A1cio/Aplausos.md)</div>
 
 <div class="wk-banner" markdown>
 <div class="wk-count" markdown="span">**[1275 artigos](Todos%20os%20artigos.md)**</div>
