@@ -71,7 +71,7 @@ def year_of(camp):
 def table_rows(text):
     """A tabela dos acampamentos por ano: {ano: o texto dessa linha}."""
     return {m.group(1): m.group(0) for m in
-            re.finditer(r'^\| (\d{4}) \|.*$', text, re.M)}
+            re.finditer(r'^\| \[?(\d{4})\]?(?:\([^)]*\))? \|.*$', text, re.M)}
 
 
 def camp_pages():
