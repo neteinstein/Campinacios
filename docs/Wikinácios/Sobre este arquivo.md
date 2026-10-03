@@ -43,23 +43,6 @@ python3 scripts/restrito.py fechar   # volta a cifrar e apaga restrito-aberto/
 A segurança depende só da palavra-passe: quem tiver uma cópia do site pode
 tentar adivinhá-la sem limite, por isso deve ser longa e aleatória.
 
-## O que ficou de fora
-
-- Contas de utilizador, palavras-passe, registos, páginas apagadas e o
-  histórico de revisões, incluindo o autor e a data da última edição de
-  cada página.
-- A página "Main Page", que era a página de instalação do MediaWiki, e as
-  páginas restritas *ToDo* (notas internas dos Contribuidores, de 2009), *Restrito à
-  DN* e *Restrito aos Directores* (só tinham uma ligação para os locais de
-  acampamento, para onde as ligações a elas apontam agora).
-- As imagens: o backup só tem a base de dados, não os ficheiros. Alguns dos
-  logótipos da página [Campinácios](../Movimento/Campin%C3%A1cios.md) foram
-  recuperados à parte.
-- As páginas de gestão da wiki (Administradores, Burocratas, Artigos
-  pedidos, Portal comunitário, Página de testes, Utilizadores).
-- Os endereços de e-mail e as ligações do domínio campinacios.org, que
-  já não existe.
-
 ## Como editar e publicar
 
 Os ficheiros Markdown em `docs/` são agora a fonte do site e podem ser

@@ -2,8 +2,6 @@
 
 **Bem-vindo à Wiki dos [Campinácios](../Movimento/Campin%C3%A1cios.md)!**
 
-*Este sitio faz parte da [Revolução Campinácios v2.0](../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)!*
-
 Funciona da mesma maneira que a famosa Wikipédia, com o mesmo "motor", e com uma filosofia semelhante...reunir o conhecimento e história dos Campinácios num sítio, aberto ao público.
 
 Qualquer um de vocês, desde que se registe, pode adicionar/editar informações sobre acampamentos, encontros...
