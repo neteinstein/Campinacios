@@ -5,6 +5,9 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Sofia Pinelas](../../Pessoas/A/Ana%20Sofia%20Pinelas.md)
+### Vídeos
+
+- [Wipeout, com GoPro](https://www.youtube.com/watch?v=awVMdPeshUc)
 
 ---
 
