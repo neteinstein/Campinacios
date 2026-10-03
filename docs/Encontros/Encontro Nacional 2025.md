@@ -2,8 +2,6 @@
 
 Em 2025 celebraram-se os 35 anos dos Campinácios com um MEGA Encontro Nacional no antigo CAIC, de 4 a 6 de Abril de 2025. Fizeram-se camisolas novas, a partir do logótipo comemorativo dos 35 anos.
 
-No YouTube há um [documentário sobre o encontro](https://youtu.be/OJqm7PydBd4).
-
 ## Organização
 
 - **Director**: [Gonçalo Sá](../Pessoas/G/Gon%C3%A7alo%20S%C3%A1.md)
@@ -13,6 +11,18 @@ No YouTube há um [documentário sobre o encontro](https://youtu.be/OJqm7PydBd4)
 - **Direcção de Trotinetas**: [Beatriz Mesquita](../Pessoas/B/Beatriz%20Mesquita.md)
 - **Direcção de Bicicletas**: [Duarte Ribeiro](../Pessoas/D/Duarte%20Ribeiro.md) (Dudu)
 - **Direcção de Lambretas**: [Maria Carvalho](../Pessoas/M/Maria%20Carvalho.md)
+
+## Vídeos
+
+Na [lista «35 anos Campinácios»](https://www.youtube.com/playlist?list=PL4qd_YTJ4tpI68TFtOJx8eu5XFWz3vQlT), no YouTube:
+
+- [Documentário «35 ANOS»](https://www.youtube.com/watch?v=OJqm7PydBd4)
+- [Hino dos Campinácios 2025](https://www.youtube.com/watch?v=u6NnGG5zVlk)
+- [Testemunho «Os campos mudam vidas?»](https://www.youtube.com/watch?v=5-kAXRrQWhA)
+- [Testemunho sobre o pilar «Natureza»](https://www.youtube.com/watch?v=v89Qha6QBe0)
+- [Testemunho sobre o pilar «Deus»](https://www.youtube.com/watch?v=XAPTXppQXss)
+- [Testemunho sobre o pilar «Outros»](https://www.youtube.com/watch?v=eltpLWcSOUc)
+- [Testemunho sobre o pilar «Eu»](https://www.youtube.com/watch?v=QIDOg2CaIZY)
 
 ---
 
