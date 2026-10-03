@@ -831,23 +831,23 @@ A contar vindo do céu!
 *Dina*
 
 ```text
-Dó Dó                  Mim Mim
-QQuuaannddoo eeuu vvii oollhhooss ddee aammeeiixxaa
-     Fá Fá                           Sol Sol
-EE aa bbooccaa ddee aammoorraa ssiillvveessttrree
-Dó Dó                 Mim Mim
-TTaannttoo mmeell,, ttaannttoo ssooll
-           Fá Fá                       Rém Rém                                Sol Sol
-NNeessssaa ttuuaa mmaaddeeiixxaa ppeerrffilil,, ssuummaarreennttaa ee aaggrreessttee
+Dó           Mim
+Quando eu vi olhos de ameixa
+   Fá                Sol
+E a boca de amora silvestre
+Dó          Mim
+Tanto mel, tanto sol
+      Fá             Rém                  Sol
+Nessa tua madeixa perfil, sumarenta e agreste
 
-  Mim Mim           Lám Lám                    Mim Mim
-FFooii aa cceerrtteezzaa qquuee eerraass ttuu
-          Lám Lám
-OO mmeeuu ddooccee ddee uuvvaa
-   Rém Rém
-EE nnoozz ssoobbrree aa mmeessaa
-       Fá Fá                         Sol Sol
-OO aammoorr ddee mmoorraannggoo ee ccaajjuu
+ Mim       Lám             Mim
+Foi a certeza que eras tu
+      Lám
+O meu doce de uva
+  Rém
+E noz sobre a mesa
+    Fá               Sol
+O amor de morango e caju
 
               Dó               Fá
 Peguei, trinquei e meti-te na cesta
@@ -864,18 +864,15 @@ Tanto mel, tanto sol, fruta,
 sumo, água fresca
 Provei e perdi o juízo
 
-Peguei, trinquei e me
-             Dó
-Peguei, trinquei e
+Peguei, trinquei e meti-te na cesta (…) (2x)
 
 Foi na manhã acesa em ti
 Abacate, abrunho
 E a pêra francesa, romã
 Framboesa, kiwi
 
-ti-te na cesta (…) (2x)
-            Fá
-meti-te na cesta!
+             Dó                Fá
+Peguei, trinquei e meti-te na cesta!
 ```
 
 ### A MORTE SAÍU À RUA {#a-morte-saiu-a-rua}

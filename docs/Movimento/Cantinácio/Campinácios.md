@@ -1640,6 +1640,8 @@ Campinácios!
 
 *Hino do Campo [OrienTu](../../Acampamentos/2008/OrienTu.md) (2008)*
 
+Há um [vídeo do hino](https://www.youtube.com/watch?v=yYx5OMsmS_s) no YouTube.
+
 ```text
 Nas encruzilhadas da vida
 Surgem duvidas que assustam
@@ -2317,6 +2319,8 @@ Tu te casarás! (2x)
 
 *Hino da Novela do Campo [Long Tao](../../Acampamentos/2006/Long%20Tao.md) (2006)*
 
+Há um [vídeo da música](https://www.youtube.com/watch?v=8P5SykzFBbw) no YouTube.
+
 ```text
 E                                          G#m
 Oh Floribella, vem cá vem cá
@@ -2408,6 +2412,8 @@ Foi _____!
 ### WALKABOUT {#walkabout}
 
 *Hino do Campo [Walkabout](../../Acampamentos/2010/Walkabout.md) (2010)*
+
+Há um [vídeo do hino](https://web.archive.org/web/20110917011938/http://www.youtube.com/watch?v=2900bEFt2KE) no YouTube, guardado no web.archive.org.
 
 ```text
 Faz-te à estrada,

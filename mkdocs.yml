@@ -58,6 +58,7 @@ extra_javascript:
   - assets/restrito.js
   - assets/pessoas.js
   - assets/pesquisa-campos.js
+  - assets/cantinacio-imprimir.js
 
 validation:
   links:
