@@ -616,8 +616,6 @@ Risking it all, though it’s hard
 [REFRÃO]
 ```
 
-*Versão do Cantinácio 2019:*
-
 ```text
 Lám       Fá*                       Dó
 What would I do without your smart mouth
@@ -1157,8 +1155,6 @@ Like I love you, I love you
       Maybe if I told you the right words
       At the right time, you’d be mine
 ```
-
-*Versão do Cantinácio 2019:*
 
 ```text
 Ré      Ré*
@@ -1714,8 +1710,6 @@ J’aime la brousse
            Mi7    Lám
 Et la jolie savane
 ```
-
-*Versão do Cantinácio 2019:*
 
 ```text
 Lám
@@ -2534,8 +2528,6 @@ You can sing most anything
            Doe, a deer, a female deer (…)
 ```
 
-*Versão do Cantinácio 2019:*
-
 ```text
 Sol
 Do(e), a deer, a female deer
@@ -2731,8 +2723,6 @@ Llena mi al - ma
              Lá  Lá7
 Llena mi ser (2x)
 ```
-
-*Versão do Cantinácio 2019:*
 
 ```text
            Rém
@@ -3079,8 +3069,6 @@ And I.........
 [REFRÃO]
 ```
 
-*Versão do Cantinácio 2019:*
-
 ```text
          Dó                 Mim         Lám7  Sol*
 When you try your best but you don't succeed
@@ -3158,8 +3146,6 @@ In other words
 In other words I love you!
 ```
 
-*Versão do Cantinácio 2019:*
-
 ```text
 Mim           Lám7         Ré7             Sol
 Fly me to the moon, let me play among the stars
@@ -3228,8 +3214,6 @@ Oh I’m gonna leave this world for a while
 
 [REFRÃO]
 ```
-
-*Versão do Cantinácio 2019:*
 
 ```text
        Ré    Ré*        Ré   Lá
@@ -3450,8 +3434,6 @@ hallelujah
 
 [REFRÃO]
 ```
-
-*Versão do Cantinácio 2019:*
 
 ```text
       Sol               Mim
@@ -5891,8 +5873,6 @@ Is it a flame: no
 Is it a twister: yeah
 ```
 
-*Versão do Cantinácio 2019:*
-
 ```text
 C'mon everybody, clap your hands
 Ah, you're looking good
@@ -6163,8 +6143,6 @@ One more look and I forget everything,
 
 [REFRÃO]
 ```
-
-*Versão do Cantinácio 2019:*
 
 ```text
 Ré                                          Sol
@@ -7424,8 +7402,6 @@ Until you’re in my arms again
 Re-mem-ber me
 ```
 
-*Versão do Cantinácio 2019:*
-
 ```text
     Dó
 Remember me
@@ -8513,8 +8489,6 @@ Stand by me
       Stand by me, stand by me
 ```
 
-*Versão do Cantinácio 2019:*
-
 ```text
           Lá
 When the night has come
@@ -8846,8 +8820,6 @@ Sib               Mib                         Fá
 
     Standing on your nanna's porch - you told me it'd last forever (…)
 ```
-
-*Versão do Cantinácio 2019:*
 
 ```text
 Dó
@@ -9907,8 +9879,6 @@ Savent très bien ce qu’aimer veut-il dire.
       Brillera le soleil.
 ```
 
-*Versão do Cantinácio 2019:*
-
 ```text
 Dó                      Lám
 Tous les garçons et les filles de mon âge
@@ -10116,8 +10086,6 @@ ser, now, (twist a little closer)
 ine. (let me know you’re mine)
 aby, now. (shake it up baby) (3x)
 ```
-
-*Versão do Cantinácio 2019:*
 
 ```text
                   Dó         Fá         Sol
@@ -11429,8 +11397,6 @@ But I don’t know how
      Because maybe… (3x)
 ```
 
-*Versão do Cantinácio 2019:*
-
 ```text
  Mim*     Sol
 Today is gonna be today
@@ -11630,8 +11596,6 @@ Love was such an easy game to play
 Now I need a place to hide away
 Oh I believe in yesterday
 ```
-
-*Versão do Cantinácio 2019:*
 
 ```text
 Dó         Sim

@@ -1247,8 +1247,6 @@ Sou um horror!
 *  Adaptação  Camtílica
 ```
 
-*Versão do Cantinácio 2019:*
-
 ```text
 Ré                           Lá
 Eu canto por ser jovem como a planta
@@ -1704,8 +1702,6 @@ Pela a rua acima (ima), Ia um limão a descer (e-er)
 Ou a rua era redonda (onda), Ou o limão era a subir (i-ir)
 ```
 
-*Versão do Cantinácio 2019:*
-
 ```text
 Dó
 Pão com manteiga
@@ -1827,8 +1823,6 @@ Eu estou contigo
 Juntos vamos caminhar.
 ```
 
-*Versão do Cantinácio 2019:*
-
 ```text
 Pára e Repara
 O que andas tu para aí a viver
@@ -1905,8 +1899,6 @@ Já não consigo pensar
 Sem saber fazes me rir
 Dás-me força para explodir.
 ```
-
-*Versão do Cantinácio 2019:*
 
 ```text
 Ré*            Sim*
@@ -2114,8 +2106,6 @@ Que é alimentador, que é uma brasa
 Vai dar-te ao mundo aos que vivem
 Em tormento...
 ```
-
-*Versão do Cantinácio 2019:*
 
 ```text
 Sol                       Sim

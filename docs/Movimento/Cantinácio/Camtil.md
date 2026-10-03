@@ -139,8 +139,6 @@ Que a volta desta roda
 Haja sempre alegria
 ```
 
-*Versão do Cantinácio 2019:*
-
 ```text
 Abençoai Senhor, a nossa refeição
 Que à volta desta roda haja sempre união!
@@ -1588,8 +1586,6 @@ Que este pão dê força, luz e alegria
 P’ra melhor Te amar em cada dia
 ```
 
-*Versão do Cantinácio 2019:*
-
 ```text
 Dó Fá*    Lám7 Lá*
 
@@ -2008,8 +2004,6 @@ Por isso peço o Teu perdão,
 Senhor
 ```
 
-*Versão do Cantinácio 2019:*
-
 ```text
    Dó
 Perdoa-me Senhor
@@ -2342,8 +2336,6 @@ Lá*:  xx0230
 Dó(9)*:x32033
 ```
 
-*Versão do Cantinácio 2019:*
-
 ```text
 Ré        Dó*
 Ensinaste-me a pedir
@@ -2408,8 +2400,6 @@ Tudo o que eu sou
 Foi feito por Ti
 ```
 
-*Versão do Cantinácio 2019:*
-
 ```text
 Dó     Sol     Dó   Sol      Dó
 Senhor eis-me aqui, o que me cerca
@@ -2460,8 +2450,6 @@ Sei que posso, sempre re-partir,
 Reparto tudo o que sou,
 Faço do meu tempo a minha entrega.
 ```
-
-*Versão do Cantinácio 2019:*
 
 ```text
 Lá     Fá#7    Sim     Mi7   Lá

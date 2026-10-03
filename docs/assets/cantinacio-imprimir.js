@@ -275,7 +275,8 @@
     t.setAttribute("data-junto", "");
     if (m.autor) b.appendChild(this.el("p", "autor", m.autor)).setAttribute("data-junto", "");
     var maior = 0;
-    m.partes.forEach(function (p) {
+    m.partes.forEach(function (p, i) {
+      var anterior = m.partes[i - 1];
       if (!p.linhas) {
         var e = livro.doc.importNode(p.el, true);
         e.classList.add("texto");
@@ -286,6 +287,7 @@
       // inteiras (senão os acordes desalinham); as outras linhas compridas
       // continuam na linha seguinte, com recuo.
       var depoisDeAcordes = false;
+      if (anterior && anterior.linhas) b.appendChild(livro.el("div", "linha vazia"));
       var cabe = Math.floor(largura / (TAM_MINIMO * livro.mono));
       var linhas = p.linhas.map(function (l) { return l.replace(/\s+$/, ""); });
       linhas.forEach(function (l, i) {
