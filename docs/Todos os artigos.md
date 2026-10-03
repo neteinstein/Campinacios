@@ -452,7 +452,7 @@
 - [Encontro Nacional 2022](Encontros/Encontro%20Nacional%202022.md)
 - [Encontro Nacional 2023](Encontros/Encontro%20Nacional%202023.md)
 - [Encontro Nacional 2024](Encontros/Encontro%20Nacional%202024.md)
-- [Encontro Nacional 2025](Encontros/Encontro%20Nacional%202025.md)
+- [Encontro Nacional 2025 (35 Anos)](Encontros/Encontro%20Nacional%202025%20%2835%20Anos%29.md)
 - [Encontro Nacional 2026](Encontros/Encontro%20Nacional%202026.md)
 - [Encontro Nacional de Animadores 2004](Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
 - [Encontro Nacional de Animadores 2005](Encontros/Encontro%20Nacional%20de%20Animadores%202005.md)
