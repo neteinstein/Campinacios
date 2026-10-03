@@ -154,6 +154,10 @@
         }
         if (!actual) return;
         if (!actual.video) actual.video = videoDe(el);
+        // «Há um vídeo … no Google Drive» não se imprime: o vídeo fica na «Música Viva», com o QR Code.
+        if (el.tagName === "P" && Array.prototype.some.call(el.querySelectorAll("a"), function (a) {
+          return /^https:\/\/drive\.google\.com\//.test(a.getAttribute("href") || "") && /v[ií]deo/i.test(a.textContent);
+        })) return;
         var soItalico = el.tagName === "P" && el.children.length === 1 &&
           el.children[0].tagName === "EM" && el.textContent.trim() === el.children[0].textContent.trim();
         if (soItalico && !actual.partes.length && !actual.autor) {
