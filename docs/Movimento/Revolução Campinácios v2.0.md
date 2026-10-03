@@ -48,7 +48,7 @@ A iniciativa teve o apoio directo da [Direcção Nacional](../Categorias/Direc%C
 
 ### O que havia na página
 
-O web.archive.org guardou a página da Revolução em Campinacios.org entre 2009 e 2012 ([página principal a 16 de Setembro de 2011](https://web.archive.org/web/20110916050818/http://www.campinacios.org:80/index.php?)). No rodapé lia-se «Copyleft Revolução Campinácios v2.0 — [Filipe Barroso](../Pessoas/F/Filipe%20Barroso.md) e [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)».
+O web.archive.org guardou a página Campinacios.org entre 2009 e 2012 ([página principal a 16 de Setembro de 2011](https://web.archive.org/web/20110916050818/http://www.campinacios.org:80/index.php?)).
 
 Antes de a página nova abrir, o endereço mostrou em Abril de 2009 «Campinácios v2.0 — A Revolução começou…», com uma ligação para a página antiga e uma legenda por cores para as actividades nacionais, da Direcção Nacional e de cada colégio; em Setembro de 2009, «Memórias de Campinácios 2004 - 2008… (um teaser enquanto o novo site não chega!)»; e em Dezembro de 2009, «A revolução começou…».
 
