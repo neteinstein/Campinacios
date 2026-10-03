@@ -11,7 +11,7 @@ Nos horários dos acampamentos, a noite é preenchida por sketches e jogos como 
 No Encontro Nacional, o serão é o grande momento preparado pelos animadores, e há quem tenha responsáveis próprios para o preparar (por exemplo, em 2019 e em 2026). Alguns serões ficaram gravados em vídeo:
 
 - [Encontro Nacional 2007](../Encontros/Encontro%20Nacional%202007.md): o serão «Homem que só come pão e bebe leite», com publicidades e um programa à maneira de José Hermano Saraiva;
-- [Encontro Nacional 2010](../Encontros/Encontro%20Nacional%202010.md): «Os Famosos»;
+- [Encontro Nacional 2010 (20 Anos)](../Encontros/Encontro%20Nacional%202010%20%2820%20Anos%29.md): «Os Famosos»;
 - [Encontro Nacional 2013](../Encontros/Encontro%20Nacional%202013.md): «Portugal Tem Circo!», em dez partes;
 - [Encontro Nacional 2019](../Encontros/Encontro%20Nacional%202019.md).
 
