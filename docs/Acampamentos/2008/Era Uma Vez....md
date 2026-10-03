@@ -31,6 +31,11 @@ Realizou-se na [Quinta da Mata (Ponte da Barca)](../../Restrito/Locais%20de%20Ac
 - [Sara Rita Sampaio](../../Pessoas/S/Sara%20Rita%20Sampaio.md)
 - [Sílvia Lobo](../../Pessoas/S/S%C3%ADlvia%20Lobo.md)
 
+## Vídeos
+
+- [Era uma vez](https://www.youtube.com/watch?v=v30W8wSXVv0)
+- [Guerra na lama](https://www.youtube.com/watch?v=6azkUXk651s)
+
 ---
 
 **Outros nomes:** Era Uma Vez

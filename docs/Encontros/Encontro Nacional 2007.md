@@ -13,6 +13,24 @@ Teve como particularidade apostar em ter animadores dos 3 colégios a organizar 
 
 Todos os animadores do CAIC no activo.
 
+## Vídeos
+
+Vídeos do encontro no YouTube:
+
+- [Publicidade ao encontro](https://www.youtube.com/watch?v=j1Rr0TWkafU)
+- [Recepção: Gália](https://www.youtube.com/watch?v=ILFTsJ4lyzM)
+- [Publicidade do serão: Caminhada](https://www.youtube.com/watch?v=9k5oyUzV844)
+- [Serão: «Homem que só come pão e bebe leite» (introdução)](https://www.youtube.com/watch?v=xRlki2qjcL0)
+- [Serão: «Homem que só come pão e bebe leite»](https://www.youtube.com/watch?v=w2-tHs7gUKA)
+- [Serão: making of](https://www.youtube.com/watch?v=BjrjwzfE-Ps)
+- [Serão: making of das publicidades (1)](https://www.youtube.com/watch?v=FApma1hkzTU)
+- [Serão: making of das publicidades (2)](https://www.youtube.com/watch?v=FxaF3S0dzUU)
+- [Missa](https://www.youtube.com/watch?v=kAU3QX1L1rg)
+- [Serão (parte 1): programa do José Hermano de Saraiva e fotografias do Herói XS 06](https://www.youtube.com/watch?v=7KH9zi7zL5k)
+- [Missa: «Ubi caritas»](https://www.youtube.com/watch?v=Qljdr1HlVUI)
+- [Missa: «Sei que te amar»](https://www.youtube.com/watch?v=p2v7qpLQJHs)
+- [Missa: «Entrega»](https://www.youtube.com/watch?v=TN-hC4AAx6c)
+
 ---
 
 | Categorias |
