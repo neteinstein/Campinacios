@@ -31,6 +31,8 @@ Maria Mendes Cortês Ferreira, nascida a 6 de Março de 1985, é desde 2003 anim
 
 - 2010 [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md) - PIP (Polícia Investigação de Pormenores)
 
+É casada com o [Pedro Vicente](../P/Pedro%20Vicente.md).
+
 ---
 
 **Outros nomes:** Maria Ferreira · Maria bolacha

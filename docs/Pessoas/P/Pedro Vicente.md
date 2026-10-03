@@ -73,6 +73,10 @@ E rever antigos amigos e fazer novos no encontro nacional… já com os campos �
 
 Respondendo à pergunta inicial… ganhei tudo… o que é importante pelo menos.
 
+### Família
+
+É casado com a [Maria Cortês Ferreira](../M/Maria%20Cort%C3%AAs%20Ferreira.md).
+
 ---
 
 | Categorias |

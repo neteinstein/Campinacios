@@ -14,6 +14,8 @@
 
 É irmã do [João Cortês Ferreira](../J/Jo%C3%A3o%20Cort%C3%AAs%20Ferreira.md), da [Maria Cortês Ferreira](../M/Maria%20Cort%C3%AAs%20Ferreira.md) e do [Francisco Cortês Ferreira](../F/Francisco%20Cort%C3%AAs%20Ferreira.md).
 
+É casada com o [João Eiró](../J/Jo%C3%A3o%20Eir%C3%B3.md).
+
 ---
 
 **Outros nomes:** Teté

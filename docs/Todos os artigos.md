@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1266 artigos e, em itálico, os 199 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1267 artigos e, em itálico, os 199 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -1107,6 +1107,7 @@
 
 - [Obra Prima](Acampamentos/2010/Obra%20Prima.md)
 - [Oh Pai, Keshumo](Acampamentos/2026/Oh%20Pai%2C%20Keshumo.md)
+- [Olga Couto](Pessoas/O/Olga%20Couto.md)
 - [Olha, Isto Aqui é uma Estátua](Acampamentos/2011/Olha%2C%20Isto%20Aqui%20%C3%A9%20uma%20Est%C3%A1tua.md)
 - *Oli* → [Pedro Oliveira](Pessoas/P/Pedro%20Oliveira.md)
 - [Online](Movimento/Online.md)
