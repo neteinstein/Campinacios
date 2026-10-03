@@ -18,6 +18,10 @@
     - 2007 [OPA](../../Acampamentos/2007/OPA.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2009 [Caminho](../../Acampamentos/2009/Caminho.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
+### Família
+
+É casado com a [Ana Simões](../A/Ana%20Sim%C3%B5es.md).
+
 ---
 
 **Outros nomes:** CIzo · Ciso · Cizo

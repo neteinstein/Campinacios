@@ -40,6 +40,10 @@ Tiago Neves Bahia, nascido a 6 de Março de 1987, é animador do CC desde 2005.
 - 2008 [Encontro Nacional de Animadores 2008](../../Encontros/Encontro%20Nacional%20de%20Animadores%202008.md) - Organização
 - 2010 [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md) - Director e Coordenador da COECA
 
+### Família
+
+É casado com a [Ana Paula Sampaio](../A/Ana%20Paula%20Sampaio.md).
+
 ---
 
 | Categorias |

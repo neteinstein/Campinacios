@@ -18,6 +18,10 @@
     - 2013 [Camp & Nácios, S.A](../../Acampamentos/2013/Camp%20%26%20N%C3%A1cios%2C%20S.A.md) - [Director](../../Cargos/Director.md)
     - 2018 [Descola (2018)](../../Acampamentos/2018/Descola%20%282018%29.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
 
+### Família
+
+É casado com a [Olga Couto](../O/Olga%20Couto.md).
+
 ---
 
 | Categorias |

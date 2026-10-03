@@ -29,6 +29,8 @@ Animadora do CC desde 2005.
 
 - 2010 [Encontro Nacional de Animadores 2010](../../Encontros/Encontro%20Nacional%20de%20Animadores%202010.md) - Organização
 
+É casada com o [Tiago Bahia](../T/Tiago%20Bahia.md).
+
 ---
 
 | Categorias |

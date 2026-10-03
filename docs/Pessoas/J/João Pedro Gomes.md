@@ -14,9 +14,13 @@
     - 2010 [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2011 [Pescanova](../../Acampamentos/2011/Pescanova.md)
 
+### Família
+
+É casado com a [Francisca Dias](../F/Francisca%20Dias.md).
+
 ---
 
-**Outros nomes:** Che · Ché
+**Outros nomes:** Che · Ché · João Amorim Gomes
 
 | Categorias |
 | --- |

@@ -23,6 +23,8 @@ Susana Vaz Pedro é desde 2002, uma das animadoras do Colégio da Imaculada Conc
 
 É irmã do [Gonçalo Vaz Pedro](../G/Gon%C3%A7alo%20Vaz%20Pedro.md).
 
+É casada com o [Joaquim Abreu](../J/Joaquim%20Abreu.md).
+
 ---
 
 **Outros nomes:** SVP
