@@ -11,6 +11,10 @@ Foi também o primeiro acampamento a promover um serão conjunto entre acampamen
 [![Carta de campo do OrienTu (1.ª página)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcKN-_HIYNP6v0zCY72QmN5nQTjs1rmjYmVEJj3oBGdLzlCkRaXX91m8aEV12H8UNAdkLeCmdmVv5kHDzEkxLMk4wWYpUlRnypA5N1nuf6Uce2-i8LvFzhwaSBD1pOSuWsaSCEwJdbxlM/s320/Diapositivo1.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcKN-_HIYNP6v0zCY72QmN5nQTjs1rmjYmVEJj3oBGdLzlCkRaXX91m8aEV12H8UNAdkLeCmdmVv5kHDzEkxLMk4wWYpUlRnypA5N1nuf6Uce2-i8LvFzhwaSBD1pOSuWsaSCEwJdbxlM/s320/Diapositivo1.JPG)
 [![Carta de campo do OrienTu (2.ª página)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZTGANJAKGN__9bCoAMrT3H8H9CUcizGPD9jURmiNx3mREe-pm8sYLnfYT9go_g6OTEVub3PRc9gn8lDrYrl1gQWMTcZgu-tlxq4T9yertY2tTXGORmAlMfVV4R9Riy-APo-tZ3ZP0KCg/s320/Diapositivo2.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZTGANJAKGN__9bCoAMrT3H8H9CUcizGPD9jURmiNx3mREe-pm8sYLnfYT9go_g6OTEVub3PRc9gn8lDrYrl1gQWMTcZgu-tlxq4T9yertY2tTXGORmAlMfVV4R9Riy-APo-tZ3ZP0KCg/s320/Diapositivo2.JPG)
 
+## Vídeo de introdução
+
+No YouTube há um [vídeo de introdução do campo](https://www.youtube.com/watch?v=6RPCJ5oA4FU).
+
 ## Foto de Campo
 
 [![Foto de campo do OrienTu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh4PeFo-XCtQMHSWbuO_cRo1QU04HYTYGzYmP_qrVbqSFNTmgCcNdYMLU1BjFTlgk6doquuvuy7FMa7DWw8KMvVpdVyR7ScJx3bWH1rIYov_lFEdzZIttKBQ9QIMfN45-cpkdUqW0JP5U/s400/IMG_1241.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh4PeFo-XCtQMHSWbuO_cRo1QU04HYTYGzYmP_qrVbqSFNTmgCcNdYMLU1BjFTlgk6doquuvuy7FMa7DWw8KMvVpdVyR7ScJx3bWH1rIYov_lFEdzZIttKBQ9QIMfN45-cpkdUqW0JP5U/s400/IMG_1241.JPG)

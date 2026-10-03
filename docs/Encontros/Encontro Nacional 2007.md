@@ -6,6 +6,8 @@ O Encontro Nacional 2007 realizou-se no CAIC tendo como Imaginarium a Gália de 
 
 Teve como particularidade apostar em ter animadores dos 3 colégios a organizar os momentos, tendo aberto inscrições para cada secção a que os animadores se podiam candidatar.
 
+No YouTube há um [vídeo da recepção na Gália](https://www.youtube.com/watch?v=ILFTsJ4lyzM) e outros dois: a [missa](https://www.youtube.com/watch?v=kAU3QX1L1rg) e o [making of do serão](https://www.youtube.com/watch?v=BjrjwzfE-Ps).
+
 ## Organização
 
 - **Responsáveis**: [António Sant'Ana](../Pessoas/A/Ant%C3%B3nio%20Sant%27Ana.md) sj e [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)
