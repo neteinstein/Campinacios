@@ -2,7 +2,7 @@
 
 O Encontro Nacional de Animadores de 2006 foi proposto para se realizar em 10 e 11 de Setembro, no CAIC (Colégio da Imaculada Conceição).
 
-Na página da [Revolução Campinácios v2.0](../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md), o ENA 2006 aparece com a indicação «@ Gafanha da Nazaré», como o de 2007.
+O ENA 2006 foi realizado «@ Gafanha da Nazaré», como o de 2007.
 
 Nesse ano realizou-se também, em Novembro, o [Fim-de-Semana de Espiritualidade e Encontro 2006](Fim-de-Semana%20de%20Espiritualidade%20e%20Encontro%202006.md), que é um encontro à parte.
 

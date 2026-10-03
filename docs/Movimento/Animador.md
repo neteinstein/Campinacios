@@ -128,7 +128,7 @@ Tem que haver uma diversidade e complementação dos vários membros da família
 
 ## Plano de Formação de Animadores {#plano-de-formacao}
 
-Em 2009 a página da [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md) publicou o plano de formação para os novos animadores, assente nos Estatutos e na ideia de que a qualidade dos acampamentos depende da formação de quem os anima. Em resumo:
+Em 2009 foi publicado o plano de formação para os novos animadores, assente nos Estatutos e na ideia de que a qualidade dos acampamentos depende da formação de quem os anima. Em resumo:
 
 - **Quem pode ser proposto pela Direcção Local:** quem foi participante dos acampamentos (de preferência com o acampamento de Lambretas feito ou em lista de espera), tem 18 anos ou os faz nesse ano, já saiu do colégio ou está a repetir o 12.º ano, é aprovado pela [Direcção Nacional](../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) e se compromete com o plano. Os outros casos são vistos pela Direcção Local e pela Direcção Nacional.
 - **Duração:** um ano lectivo, de Setembro a Setembro, com participação no Encontro Nacional de Animadores e no Encontro Nacional.
