@@ -31,3 +31,8 @@ Telef.: 217 519 000
 Fax: 217 599 835
 
 URL: http://www.csjb.pt
+
+
+---
+
+Se desejas contactar com o responsável da Wikinácios, [acede aqui](https://www.pedrovicente.pt/pt#contact).
