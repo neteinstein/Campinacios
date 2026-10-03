@@ -107,7 +107,10 @@ them are this person when the name is common.
 like `docs/Pessoas/J/João Eiró.md`: `# Nome`, the note if any, an intro if
 given, `### Acampamentos` with **Participante** / **Formação** /
 **Animador(a)** lists, then the footer `---` and `| Categorias |` table (Animadores,
-Animadores do <colégio> if known, Jesuítas…). Uma pessoa é animador a partir do campo de formação: se a introdução diz
+Animadores do <colégio> if known, Jesuítas…). As relações de parentesco ou de casamento (irmãos, pais, filhos, cônjuges…)
+escrevem-se sempre numa secção `### Família`, nunca soltas no fim da página
+nem noutra secção.
+Uma pessoa é animador a partir do campo de formação: se a introdução diz
 "animador desde <ano>", esse ano é o da **Formação**, mesmo que só tenha
 estado na equipa de um campo mais tarde.
 Then list it: the letter's
