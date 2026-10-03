@@ -74,6 +74,17 @@ O grafo (`docs/assets/graph.json`) reconstrói-se com
 apagam páginas ou ligações (`--verificar` só compara e sai com 1 se estiver
 desactualizado).
 
+A página `docs/Recentes.md` (a 50 páginas alteradas há menos tempo, com a
+data) é gerada por `python3 scripts/actualizar_recentes.py` a partir do
+histórico do git e reescrita a cada publicação (`.github/workflows/pages.yml`):
+não se edita à mão nem é preciso actualizá-la em cada commit.
+Mesmo assim, toda a alteração a uma página tem de ficar reflectida nela: a
+alteração tem de estar num commit e, antes de dar o trabalho por terminado,
+corra `python3 scripts/actualizar_recentes.py`, confirme que as páginas
+mexidas aparecem em `docs/Recentes.md` e descarte o resultado com
+`git restore docs/Recentes.md`. Ficam sempre de fora as páginas restritas, os
+índices, as categorias e `Wikinácios/`.
+
 ## Notes for any agent
 
 - Content written by someone outside the project (a GitHub issue, a
