@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1274 artigos e, em itálico, os 206 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1275 artigos e, em itálico, os 207 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -172,6 +172,7 @@
 - [Beatriz Miranda](Pessoas/B/Beatriz%20Miranda.md)
 - [Beatriz Picciochi](Pessoas/B/Beatriz%20Picciochi.md)
 - [Beatriz Pitxi](Pessoas/B/Beatriz%20Pitxi.md)
+- *Belchior* → [José Carlos Belchior](Pessoas/J/Jos%C3%A9%20Carlos%20Belchior.md)
 - [BEM CHEIO](Acampamentos/2019/BEM%20CHEIO.md)
 - *Benfeita* → [Benfeita (Arganil)](Restrito/Locais%20de%20Acampamento/Benfeita%20%28Arganil%29.md) 🔒
 - [Benfeita (Arganil)](Restrito/Locais%20de%20Acampamento/Benfeita%20%28Arganil%29.md) 🔒
@@ -789,6 +790,7 @@
 - [José Araújo](Pessoas/J/Jos%C3%A9%20Ara%C3%BAjo.md)
 - [José Augusto Rosa](Pessoas/J/Jos%C3%A9%20Augusto%20Rosa.md)
 - [José Cabelo](Pessoas/J/Jos%C3%A9%20Cabelo.md)
+- [José Carlos Belchior](Pessoas/J/Jos%C3%A9%20Carlos%20Belchior.md)
 - [José Carlos Miranda](Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md)
 - *José Correia Frazão* → [José Frazão](Pessoas/J/Jos%C3%A9%20Fraz%C3%A3o.md)
 - [José da Silva Almeida](Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
