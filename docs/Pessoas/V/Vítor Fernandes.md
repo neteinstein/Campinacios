@@ -26,6 +26,10 @@ Vítor Rafael Machado Fernandes, nascido a 2 de Setembro de 1982 é animador do 
     - 2010 [PaKasaDele](../../Acampamentos/2010/PaKasaDele.md) - [Director](../../Cargos/Director.md)
     - 2011 [Pescanova](../../Acampamentos/2011/Pescanova.md)
 
+### Família
+
+É casado com a [Magda Martins](../M/Magda%20Martins.md).
+
 ---
 
 **Outros nomes:** Vitor Fernandes

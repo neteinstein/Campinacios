@@ -14,6 +14,10 @@
     - 2009 [Tira as rodinhas](../../Acampamentos/2009/Tira%20as%20rodinhas.md) - [Tia](../../Cargos/Tio.md)
     - 2011 [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
+### Família
+
+É casada com o [Vítor Fernandes](../V/V%C3%ADtor%20Fernandes.md).
+
 ---
 
 | Categorias |
