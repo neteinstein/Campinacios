@@ -24,8 +24,20 @@
     { pagina: "Aplausos", titulo: "Não há palmas nos Campinácios", capa: "p111.jpg" }
   ];
 
-  var TAM_LETRA = 8.5;  // pt, o tamanho normal das letras e acordes
-  var TAM_MINIMO = 6;   // pt, o mais pequeno a que se encolhe uma música larga
+  // Como no Cantinácio de 2019: Arial, letras e acordes a 11 pt, títulos a 18 pt.
+  var FAMILIA = "Arial, Helvetica, 'Liberation Sans', sans-serif";
+  var TAM_LETRA = 11;  // pt, o tamanho normal das letras e acordes
+  var TAM_MINIMO = 7;  // pt, o mais pequeno a que se encolhe uma música larga
+
+  // Ilustrações do Pica, tiradas do Cantinácio de 2019 (largura × altura em px).
+  var ILUSTRACOES = [
+    [1, 700, 679], [2, 230, 700], [3, 443, 700], [4, 405, 700], [5, 700, 665],
+    [6, 700, 464], [7, 630, 700], [8, 700, 603], [9, 649, 700], [10, 419, 700],
+    [11, 700, 521], [12, 635, 700], [13, 594, 700], [14, 437, 700]
+  ].map(function (i) {
+    return { ficheiro: "ilustracao-" + (i[0] < 10 ? "0" : "") + i[0] + ".jpg", altura: i[2] / i[1] };
+  });
+  var PX_POR_MM = 96 / 25.4;
 
   var NOTA = "(?:Dó|Do|Ré|Re|Mi|Fá|Fa|Sol|Lá|La|Si|[A-G])(?:#|b|♯|♭)?";
   var ACORDE = new RegExp("^\\(?" + NOTA +
@@ -44,20 +56,22 @@
     return acordes > 0;
   }
 
-  // Muitas linhas de acordes vieram de um tipo de letra proporcional e são
-  // muito mais compridas do que a letra por baixo. Quando uma linha de acordes
-  // não cabe na coluna, aproximam-se os acordes na mesma proporção, até à
-  // largura da letra ou da coluna, em vez de a partir em duas.
-  function encolherAcordes(linha, alvo) {
-    var fator = alvo / linha.length;
-    var saida = "";
-    var re = /\S+/g, m;
-    while ((m = re.exec(linha))) {
-      var pos = Math.round(m.index * fator);
-      if (saida && pos < saida.length + 1) pos = saida.length + 1;
-      saida += new Array(pos - saida.length + 1).join(" ") + m[0];
-    }
-    return saida;
+  // No site os títulos das músicas estão em maiúsculas; no Cantinácio de 2019
+  // só a primeira letra é maiúscula («Amar alguém», «Árvore da montanha»).
+  // Ficam em maiúsculas as siglas (palavras sem vogais, como BDS ou CSJB) e as
+  // poucas que se sabem de cor.
+  var SIGLAS = /^(AEIOU|ABC|DVD|OK|ONU|TV|UE|EUA|USA|JMJ|SJ|CC|CAIC|CSJB)$/;
+  function titulo(t) {
+    if (t !== t.toUpperCase()) return t;  // já tem minúsculas: foi escrito à mão
+    var primeira = true;
+    return t.replace(/[A-Za-zÀ-ÿ0-9]+(?:['’][A-Za-zÀ-ÿ]+)?/g, function (p) {
+      var f = p.toLowerCase();
+      if (SIGLAS.test(p) || (!/[AEIOUÀ-ÿ0-9]/.test(p) && p.length > 1)) f = p;
+      else if (/^i(['’](m|ll|ve|d))?$/.test(f)) f = "I" + f.slice(1);
+      else if (primeira) f = f.charAt(0).toUpperCase() + f.slice(1);
+      primeira = false;
+      return f;
+    });
   }
 
   function hoje() {
@@ -148,7 +162,7 @@
         }
         if (!dentro || el.tagName === "HR") { if (el.tagName === "HR") dentro = false; return; }
         if (el.tagName === "H3") {
-          actual = { titulo: texto(el), autor: "", partes: [], video: "" };
+          actual = { titulo: titulo(texto(el)), autor: "", partes: [], video: "" };
           musicas.push(actual);
           return;
         }
@@ -260,65 +274,96 @@
     }
   };
 
-  // Largura de um carácter da letra mono, em px por pt.
-  Livro.prototype.medirMono = function () {
-    var s = this.el("span", "linha", new Array(101).join("0"));
-    s.style.cssText = "position:absolute;visibility:hidden;font-size:10pt;white-space:pre";
-    this.doc.body.appendChild(s);
-    var l = s.getBoundingClientRect().width / 1000;
-    s.remove();
-    return l;
+  // Largura (em «em») de um texto em Arial, medida num <canvas>; serve para
+  // pôr cada acorde por cima da letra certa, como no Cantinácio de 2019.
+  Livro.prototype.largura = function (texto, italico) {
+    if (!this.tela) this.tela = this.doc.createElement("canvas").getContext("2d");
+    this.tela.font = (italico ? "italic " : "") + "100px " + FAMILIA;
+    return this.tela.measureText(texto).width / 100;
   };
 
+  // Uma música: as linhas de acordes vêm por cima da letra, na posição do
+  // carácter correspondente, e o tamanho da letra é sempre o mesmo (TAM_LETRA),
+  // só encolhendo se uma linha com acordes não couber na coluna.
   Livro.prototype.blocoMusica = function (m, numero, largura) {
     var livro = this;
     var b = this.el("article", "musica");
     var t = b.appendChild(this.el("h3", "titulo", numero + ". " + m.titulo));
     t.setAttribute("data-junto", "");
     if (m.autor) b.appendChild(this.el("p", "autor", m.autor)).setAttribute("data-junto", "");
-    var maior = 0;
+
+    // 1.º passo: as linhas de cada bloco, sem o recuo comum, e o tamanho.
+    var emPorPt = 96 / 72;
+    var maisLarga = 0;  // em «em», entre as linhas que não podem partir-se
+    var itens = [];
     m.partes.forEach(function (p) {
-      if (!p.linhas) {
-        var e = livro.doc.importNode(p.el, true);
+      if (!p.linhas) { itens.push({ el: p.el }); return; }
+      var recuo = Infinity;
+      p.linhas.forEach(function (l) {
+        if (l.trim()) recuo = Math.min(recuo, l.match(/^ */)[0].length);
+      });
+      var linhas = p.linhas.map(function (l) { return l.replace(/\s+$/, "").slice(isFinite(recuo) ? recuo : 0); });
+      for (var i = 0; i < linhas.length; i++) {
+        var l = linhas[i];
+        if (!l) { itens.push({ vazia: true }); continue; }
+        if (linhaDeAcordes(l)) {
+          var letra = linhas[i + 1];
+          if (letra && !linhaDeAcordes(letra)) {
+            itens.push({ acordes: l, letra: letra });
+            maisLarga = Math.max(maisLarga, livro.largura(letra), livro.largura(l.trim(), true) * 0.8);
+            i++;
+          } else {
+            itens.push({ acordes: l, letra: "" });
+            maisLarga = Math.max(maisLarga, livro.largura(l.trim().split(/\s+/).join("   "), true));
+          }
+        } else {
+          itens.push({ solta: l });
+        }
+      }
+    });
+    var tam = TAM_LETRA;
+    if (maisLarga * tam * emPorPt > largura) tam = Math.max(largura / (maisLarga * emPorPt), TAM_MINIMO);
+    b.style.setProperty("--tam", tam.toFixed(2) + "pt");
+    var larguraEm = largura / (tam * emPorPt);
+    var espaco = livro.largura(" ");
+
+    // 2.º passo: os elementos.
+    itens.forEach(function (it) {
+      if (it.el) {
+        var e = livro.doc.importNode(it.el, true);
         e.classList.add("texto");
         b.appendChild(e);
-        return;
+      } else if (it.vazia) {
+        b.appendChild(livro.el("div", "linha vazia"));
+      } else if (it.solta != null) {
+        b.appendChild(livro.el("div", "linha solta", it.solta));
+      } else if (!it.letra) {
+        // Só acordes (introdução, ponte…): ficam lado a lado.
+        b.appendChild(livro.el("div", "linha acorde", it.acordes.trim().split(/\s+/).join(" ")));
+      } else {
+        var par = b.appendChild(livro.el("div", "par"));
+        var linhaAc = par.appendChild(livro.el("div", "acordes"));
+        // Acordes escritos para outro tipo de letra podem ser bem mais
+        // compridos do que a letra: aproximam-se na mesma proporção.
+        var fator = it.acordes.length > it.letra.length * 1.2 ? it.letra.length / it.acordes.length : 1;
+        var fim = 0;
+        var re = /\S+/g, m2;
+        while ((m2 = re.exec(it.acordes))) {
+          var idx = m2.index * fator;
+          var k = Math.floor(idx);
+          var x = k <= it.letra.length
+            ? livro.largura(it.letra.slice(0, k)) + (idx - k) * espaco
+            : livro.largura(it.letra) + (idx - it.letra.length) * espaco;
+          var w = livro.largura(m2[0], true);
+          x = Math.max(x, fim ? fim + 0.35 : 0);
+          if (x + w > larguraEm) x = Math.max(larguraEm - w, fim ? fim + 0.1 : 0);
+          var s = linhaAc.appendChild(livro.el("span", "ac", m2[0]));
+          s.style.left = x.toFixed(3) + "em";
+          fim = x + w;
+        }
+        par.appendChild(livro.el("div", "linha", it.letra));
       }
-      // Só as linhas de acordes e a letra logo por baixo têm de caber
-      // inteiras (senão os acordes desalinham); as outras linhas compridas
-      // continuam na linha seguinte, com recuo.
-      var depoisDeAcordes = false;
-      var cabe = Math.floor(largura / (TAM_MINIMO * livro.mono));
-      var linhas = p.linhas.map(function (l) { return l.replace(/\s+$/, ""); });
-      linhas.forEach(function (l, i) {
-        var letra = linhas[i + 1] || "";
-        if (l.length > cabe && linhaDeAcordes(l)) {
-          var alvo = cabe;
-          if (letra && !linhaDeAcordes(letra) && l.length > letra.length * 1.2) {
-            alvo = Math.min(cabe, letra.length);
-          }
-          l = encolherAcordes(l, alvo);
-        }
-        var d = b.appendChild(livro.el("div", "linha", l));
-        if (!l) {
-          d.classList.add("vazia");
-          depoisDeAcordes = false;
-        } else if (linhaDeAcordes(l)) {
-          d.classList.add("acorde");
-          d.setAttribute("data-junto", "");
-          maior = Math.max(maior, l.length);
-          depoisDeAcordes = true;
-        } else {
-          if (depoisDeAcordes) maior = Math.max(maior, l.length);
-          else d.classList.add("solta");
-          depoisDeAcordes = false;
-        }
-      });
     });
-    if (maior) {
-      var tam = Math.min(TAM_LETRA, largura / (maior * this.mono));
-      b.style.setProperty("--tam", Math.max(tam, TAM_MINIMO).toFixed(2) + "pt");
-    }
     return b;
   };
 
@@ -335,7 +380,6 @@
   function montar(w, seccoes, base, estado) {
     var doc = w.document;
     var livro = new Livro(doc);
-    livro.mono = livro.medirMono();
     var imagens = new URL("../assets/imagens/", base).href;
     var ilustracoes = imagens + "Cantin%C3%A1cio%202019/";
 
@@ -459,6 +503,34 @@
       });
     });
 
+    // Onde sobra espaço no fim de uma coluna de músicas, pôr uma das
+    // ilustrações de 2019 (cada uma só uma vez, pela ordem).
+    cadeia = cadeia.then(function () {
+      estado("A pôr as ilustrações…");
+      var porUsar = ILUSTRACOES.slice();
+      var colunas = [];
+      doc.querySelectorAll(".pagina.musicas .coluna").forEach(function (c) { colunas.push(c); });
+      colunas.forEach(function (col) {
+        if (!porUsar.length || !col.lastElementChild) return;
+        var livre = (col.getBoundingClientRect().bottom - col.lastElementChild.getBoundingClientRect().bottom) / PX_POR_MM;
+        var larguraCol = col.clientWidth / PX_POR_MM;
+        for (var k = 0; k < porUsar.length; k++) {
+          var il = porUsar[k];
+          var larg = Math.min(larguraCol * 0.8, 70);
+          if (larg * il.altura > livre - 8) larg = (livre - 8) / il.altura;
+          if (larg < 35) continue;
+          var img = livro.el("img", "ilustracao");
+          img.src = ilustracoes + il.ficheiro;
+          img.alt = "";
+          img.style.width = larg.toFixed(1) + "mm";
+          img.style.height = (larg * il.altura).toFixed(1) + "mm";
+          col.appendChild(img);
+          porUsar.splice(k, 1);
+          break;
+        }
+      });
+    });
+
     return cadeia.then(function () {
       estado("A fazer o índice…");
       livro.pagina("indice", 2, "Índice", marcaIndice);
@@ -512,12 +584,12 @@
     "#barra button { font: inherit; padding: 6px 14px; border: 0; border-radius: 4px; background: #fff; color: #1f2a44; cursor: pointer; }",
     "#barra button:disabled { opacity: .5; cursor: default; }",
     ".pagina { position: relative; box-sizing: border-box; width: 210mm; height: 297mm; margin: 8mm auto;",
-    "  padding: 14mm 14mm 17mm; overflow: hidden; background: #fff; display: flex; flex-direction: column;",
+    "  padding: 14mm 12mm 17mm; overflow: hidden; background: #fff; display: flex; flex-direction: column;",
     "  box-shadow: 0 1px 6px rgba(0,0,0,.35); }",
-    ".colunas { flex: 1; min-height: 0; display: flex; gap: 8mm; }",
+    ".colunas { flex: 1; min-height: 0; display: flex; gap: 7mm; }",
     ".coluna { flex: 1; min-width: 0; overflow: hidden; }",
-    ".numero { position: absolute; bottom: 8mm; font-size: 10pt; }",
-    ".numero.direita { right: 14mm; } .numero.esquerda { left: 14mm; }",
+    ".numero { position: absolute; bottom: 8mm; font: 700 16pt " + FAMILIA + "; }",
+    ".numero.direita { right: 12mm; } .numero.esquerda { left: 12mm; }",
     ".cabecalho { margin: 0 0 5mm; padding-bottom: 1.5mm; border-bottom: 1.5pt solid #000;",
     "  font: 600 22pt Oswald, 'Arial Narrow', sans-serif; text-transform: uppercase; letter-spacing: .02em; }",
 
@@ -548,16 +620,20 @@
     ".coluna > .grupo:first-child .entrada.seccao { margin-top: 0; }",
 
     // Músicas
-    ".musica { margin: 0 0 5mm; }",
+    ".musica { margin: 0 0 11mm; }",
     ".musica.continua { margin-top: 0; }",
-    ".titulo { margin: 0; padding-bottom: .6mm; border-bottom: .7pt solid #000; font-size: 11pt; font-weight: 700; line-height: 1.25; }",
-    ".autor { margin: .6mm 0 1.8mm; text-align: right; font-size: 8pt; line-height: 1.25; }",
-    ".linha { min-height: 1.22em; font-family: 'Roboto Mono', 'DejaVu Sans Mono', Menlo, monospace;",
-    "  font-size: var(--tam, 8.5pt); line-height: 1.22; white-space: pre-wrap; overflow-wrap: anywhere; }",
-    ".linha.acorde { font-style: italic; font-weight: 500; }",
+    ".musica { font-family: " + FAMILIA + "; font-size: var(--tam, 11pt); line-height: 1.25; }",
+    ".titulo { margin: 0 0 3.5mm; padding-bottom: .8mm; border-bottom: 1pt solid #000; font-size: 18pt; font-weight: 700; line-height: 1.15; }",
+    ".titulo:has(+ .autor) { margin-bottom: 0; }",
+    ".autor { margin: .6mm 0 3mm; text-align: right; font-size: 12pt; line-height: 1.2; }",
+    ".linha { min-height: 1.25em; white-space: pre-wrap; overflow-wrap: anywhere; }",
+    ".linha.acorde { font-style: italic; }",
     ".linha.solta { padding-left: 1.5em; text-indent: -1.5em; }",
-    ".musica .texto { margin: 0 0 1.6mm; font-size: 8.5pt; line-height: 1.32; overflow-wrap: anywhere; }",
+    ".par .acordes { position: relative; height: 1.25em; }",
+    ".par .ac { position: absolute; top: 0; font-style: italic; white-space: pre; }",
+    ".musica .texto { margin: 0 0 1.6mm; font-size: 1em; line-height: 1.3; overflow-wrap: anywhere; }",
     ".musica ul.texto, .musica ol.texto { padding-left: 5mm; }",
+    ".ilustracao { display: block; margin: 6mm auto 0; }",
 
     // Música Viva
     ".viva-intro { margin: 0 0 4mm; font-size: 9pt; line-height: 1.4; }",
@@ -587,7 +663,7 @@
   ].join("\n");
 
   var FONTES = "https://fonts.googleapis.com/css2?family=Oswald:wght@500;600" +
-    "&family=Roboto:ital,wght@0,400;0,700;1,400&family=Roboto+Mono:ital,wght@0,400;0,500;1,400;1,500&display=swap";
+    "&family=Roboto:ital,wght@0,400;0,700;1,400&display=swap";
 
   function abrir(base) {
     var w = window.open("", "_blank");
@@ -614,8 +690,7 @@
     var fontes = comPrazo(new Promise(function (ok) {
       if (folha.sheet) ok(); else { folha.onload = folha.onerror = ok; }
     }), 5000).then(function () {
-      return comPrazo(Promise.all(["10pt Roboto", "bold 10pt Roboto", "10pt 'Roboto Mono'",
-        "italic 500 10pt 'Roboto Mono'", "600 10pt Oswald"].map(function (f) {
+      return comPrazo(Promise.all(["10pt Roboto", "bold 10pt Roboto", "600 10pt Oswald"].map(function (f) {
         return doc.fonts.load(f).catch(function () { return null; });
       })), 5000);
     });
