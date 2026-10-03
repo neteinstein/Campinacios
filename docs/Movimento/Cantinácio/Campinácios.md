@@ -68,9 +68,8 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [POEMA LINDO](#poema-lindo) — Campo Mountain Bike (Chico Maria)
 - [POR ESTA REFEIÇÃO](#por-esta-refeicao)
 - [QUERIDA MAMÃ](#querida-mama)
-- [RADROCA](#radroca) — adaptação de uma música do Camtil para o Gaivota 2005
+- [RADROCA](#radroca) — adaptação de uma música do Camtil para o Gaivota 2005 (também "Sai Cicleta")
 - [RÉ MAIOR](#re-maior)
-- [SAI CICLETA](#sai-cicleta)
 - [SEJAS ÓLEO, FARINHA](#sejas-oleo-farinha)
 - [SEMEIA A VERDADE](#semeia-a-verdade)
 - [SÓIS HÁ MUITOS](#sois-ha-muitos)
@@ -1983,7 +1982,7 @@ Teu filhote
 
 ### RADROCA {#radroca}
 
-*Adaptação de uma música do [Camtil](../Camtil.md) para o [Gaivota](../../Acampamentos/2005/Gaivota.md) (2005)*
+*Adaptação de uma música do [Camtil](../Camtil.md) para o [Gaivota](../../Acampamentos/2005/Gaivota.md) (2005). Também conhecida por "Sai Cicleta".*
 
 ```text
 Acorda aí, acorda vai,
@@ -1993,20 +1992,21 @@ E siga p'ra desbunda,
 És atrofiado, porco deslavado
 Não tens o que fazer
 A mamã põe-te a encher..
-'Cause
+'Cause cicleta
 
 Rf.:   Fá                       Sib
-      Sai cicleta, o dia está ai [ele está ai, ele está ai, ele está ai]
+      Sai cicleta, o dia está aí [ele está aí, ele está aí, ele está aí]
       Dó                                  Fá
-      Lava os dentes e faz um xixi [tiqui,   tiqui, tiqui, tiiii]
+      Lava os dentes e faz um xixi [tiqui, tiqui, tiqui, tiiii]
       Despacha-te p'ró pequeno-almoço
+      (ou: Prepara-te p'ró pequeno-almoço)
       Ou és rápido ou levas um coço
 
 Canta aí, canta vai, vibra borracho
 Move se és fêmea, baila se és macho
 Andas a viver com o cérebro ardente,
 yo, baza para a roda com um spirit diferente
-'Cause
+'Cause cicleta
 
 REFRÃO
 
@@ -2015,8 +2015,12 @@ Sente estas rimas,
 deste movimento que tu tanto estimas,
 Não digas que não o conheces 'cause I don't believe
 Nele há-de haver sempre algo que te cative,
-'Cause
+'Cause cicleta
+
+REFRÃO
 ```
+
+Variante (versão "Sai Cicleta", em Dó): os acordes do refrão são Dó, Fá, Sol, Dó; o primeiro verso pode começar "Acorda aí, acorda o baile!".
 
 ### RÉ MAIOR {#re-maior}
 
@@ -2030,46 +2034,6 @@ Sol, Sol, Sol, Sol
 Ré, Ré, Ré, Ré
 Mi menor
 Lá… (x2)
-```
-
-### SAI CICLETA {#sai-cicleta}
-
-```text
-Dó                    Fá
-Sai cicleta o dia está aí
-(Está aí! Está aí! Está aí!)
-Sol                      Dó
-Lava os dentes e faz um chichi
-(Tiqui tiqui tiqui ti!)
-Dó                       Fá
-Prepara-te p’ró pequeno almoço
-Sol                      Dó
-Ou és rápido ou levas um coço
-
-Acorda aí, acorda o baile!
-Levanta-me essa bunda
-Sai cicleta feio e siga pá desbunda
-És atrofiado, porco, deslavado
-Não tens que fazer? A mamã põe-te a encher
-Cause cicleta
-
-O dia está aí […]
-
-Canta aí, canta vai, vibra borracho
-Move se és fêmea, baila se és macho
-Andar a viver com o cérebro ardente,
-Yo, baza para a roda com um spirit diferente
-‘Cause cicleta
-
-O dia está aí […]
-
-Vibra aí, vibra vai, sente estas rimas
-Deste movimento que tu tanto estimas
-Não digas que não o conheces 'case I don't believe
-Nele há-de haver sempre algo que te cative
-‘Cause cicleta
-
-O dia está aí […]
 ```
 
 ### SEJAS ÓLEO, FARINHA {#sejas-oleo-farinha}
