@@ -10,14 +10,14 @@
 
   var SITE = "http://campinacios.pedrovicente.pt";
 
-  // Pela ordem do Cantinácio de 2019, excepto os Aplausos, que ficam no fim; o título é o da secção nessa edição.
+  // Pela ordem do Cantinácio de 2019, excepto as Portuguesas e as Estrangeiras, que vão depois dos Cânticos, e os Aplausos, que ficam no fim; o título é o da secção nessa edição.
   var SECCOES = [
-    { pagina: "Portuguesas", titulo: "Radar Tuga", capa: "p011.jpg" },
-    { pagina: "Estrangeiras", titulo: "Da França, Espanha, tudo", capa: "p041.jpg" },
     { pagina: "Campinácios", titulo: "Hits de Campo", capa: "p089.jpg" },
     { pagina: "Camtil", titulo: "Camtil" },
     { pagina: "Gambozinos", titulo: "Gambozinos" },
     { pagina: "Cânticos", titulo: "Cânticos", capa: "p127.jpg" },
+    { pagina: "Portuguesas", titulo: "Radar Tuga", capa: "p011.jpg" },
+    { pagina: "Estrangeiras", titulo: "Da França, Espanha, tudo", capa: "p041.jpg" },
     { titulo: "Música Viva", viva: true },  // QR Codes dos vídeos das músicas; vai antes do manual
     { pagina: "Manual de Instruções", titulo: "Manual de Instruções", capa: "p175.jpg", texto: true },
     { pagina: "Escalas", titulo: "Escalas", texto: true },
