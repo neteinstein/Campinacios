@@ -25,6 +25,7 @@ Quando tiveres dúvidas do que é ser mamã de acampamento lembra-te como é (ex
 ## Pessoas com este cargo
 
 - [Alice Rodrigues](../Pessoas/A/Alice%20Rodrigues.md)
+- [Ana Catarina Gil](../Pessoas/A/Ana%20Catarina%20Gil.md)
 - [Ana Curto](../Pessoas/A/Ana%20Curto.md)
 - [Ana Geão](../Pessoas/A/Ana%20Ge%C3%A3o.md)
 - [Ana Isabel Catalão](../Pessoas/A/Ana%20Isabel%20Catal%C3%A3o.md)

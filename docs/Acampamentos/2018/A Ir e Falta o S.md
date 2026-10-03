@@ -5,7 +5,7 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Nuno Mesquita](../../Pessoas/N/Nuno%20Mesquita.md)
-- [Mamã](../../Cargos/Mam%C3%A3.md) - Ana Catarina Gil
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [Ana Catarina Gil](../../Pessoas/A/Ana%20Catarina%20Gil.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [João Miguel Rodrigues](../../Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Francisco Cortez](../../Pessoas/F/Francisco%20Cort%C3%AAs%20Ferreira.md) sj
 - [Tia](../../Cargos/Tio.md) - [Carolina Oliveira](../../Pessoas/C/Carolina%20Oliveira.md)
