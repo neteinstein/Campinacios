@@ -40,6 +40,11 @@ O genérico da novela deste campo está no [Cantinácio](../../Movimento/Cantin%
 
 O nome veio da junção de "Oriente" e do tema do ano, ou parte dele "Tu"... OrienTu!
 
+## Vídeos
+
+- [Entrega de lenços por equipa](https://www.youtube.com/watch?v=NdJz5fl6Adg)
+- [Dragão](https://www.youtube.com/watch?v=5Z2HpUDnIwo)
+
 ## Blog
 
 [*Jornal de Edo*](http://Edo1613.blogspot.com)
