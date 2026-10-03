@@ -29,6 +29,16 @@
   var TAM_LETRA = 11;  // pt, o tamanho normal das letras e acordes
   var TAM_MINIMO = 7;  // pt, o mais pequeno a que se encolhe uma música larga
 
+  // Ilustrações do Pica, tiradas do Cantinácio de 2019 (largura × altura em px).
+  var ILUSTRACOES = [
+    [1, 700, 679], [2, 230, 700], [3, 443, 700], [4, 405, 700], [5, 700, 665],
+    [6, 700, 464], [7, 630, 700], [8, 700, 603], [9, 649, 700], [10, 419, 700],
+    [11, 700, 521], [12, 635, 700], [13, 594, 700], [14, 437, 700]
+  ].map(function (i) {
+    return { ficheiro: "ilustracao-" + (i[0] < 10 ? "0" : "") + i[0] + ".jpg", altura: i[2] / i[1] };
+  });
+  var PX_POR_MM = 96 / 25.4;
+
   var NOTA = "(?:Dó|Do|Ré|Re|Mi|Fá|Fa|Sol|Lá|La|Si|[A-G])(?:#|b|♯|♭)?";
   var ACORDE = new RegExp("^\\(?" + NOTA +
     "(?:m|M|maj|min|dim|aug|sus|add|º|°|\\+)?\\d*(?:sus\\d*|add\\d*|maj\\d*|M\\d*|\\+|º|°)*\\*?" +
@@ -493,6 +503,34 @@
       });
     });
 
+    // Onde sobra espaço no fim de uma coluna de músicas, pôr uma das
+    // ilustrações de 2019 (cada uma só uma vez, pela ordem).
+    cadeia = cadeia.then(function () {
+      estado("A pôr as ilustrações…");
+      var porUsar = ILUSTRACOES.slice();
+      var colunas = [];
+      doc.querySelectorAll(".pagina.musicas .coluna").forEach(function (c) { colunas.push(c); });
+      colunas.forEach(function (col) {
+        if (!porUsar.length || !col.lastElementChild) return;
+        var livre = (col.getBoundingClientRect().bottom - col.lastElementChild.getBoundingClientRect().bottom) / PX_POR_MM;
+        var larguraCol = col.clientWidth / PX_POR_MM;
+        for (var k = 0; k < porUsar.length; k++) {
+          var il = porUsar[k];
+          var larg = Math.min(larguraCol * 0.8, 70);
+          if (larg * il.altura > livre - 8) larg = (livre - 8) / il.altura;
+          if (larg < 35) continue;
+          var img = livro.el("img", "ilustracao");
+          img.src = ilustracoes + il.ficheiro;
+          img.alt = "";
+          img.style.width = larg.toFixed(1) + "mm";
+          img.style.height = (larg * il.altura).toFixed(1) + "mm";
+          col.appendChild(img);
+          porUsar.splice(k, 1);
+          break;
+        }
+      });
+    });
+
     return cadeia.then(function () {
       estado("A fazer o índice…");
       livro.pagina("indice", 2, "Índice", marcaIndice);
@@ -595,6 +633,7 @@
     ".par .ac { position: absolute; top: 0; font-style: italic; white-space: pre; }",
     ".musica .texto { margin: 0 0 1.6mm; font-size: 1em; line-height: 1.3; overflow-wrap: anywhere; }",
     ".musica ul.texto, .musica ol.texto { padding-left: 5mm; }",
+    ".ilustracao { display: block; margin: 6mm auto 0; }",
 
     // Música Viva
     ".viva-intro { margin: 0 0 4mm; font-size: 9pt; line-height: 1.4; }",
