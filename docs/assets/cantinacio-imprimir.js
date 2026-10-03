@@ -10,14 +10,15 @@
 
   var SITE = "http://campinacios.pedrovicente.pt";
 
-  // Pela ordem do Cantinácio de 2019, excepto os Aplausos, que ficam no fim; o título é o da secção nessa edição.
+  // Pela ordem do Cantinácio de 2019, excepto as Portuguesas e as Estrangeiras, que vão depois dos Cânticos, e os Aplausos, que ficam no fim; o título é o da secção nessa edição.
   var SECCOES = [
-    { pagina: "Portuguesas", titulo: "Radar Tuga", capa: "p011.jpg" },
-    { pagina: "Estrangeiras", titulo: "Da França, Espanha, tudo", capa: "p041.jpg" },
     { pagina: "Campinácios", titulo: "Hits de Campo", capa: "p089.jpg" },
     { pagina: "Camtil", titulo: "Camtil" },
     { pagina: "Gambozinos", titulo: "Gambozinos" },
     { pagina: "Cânticos", titulo: "Cânticos", capa: "p127.jpg" },
+    { pagina: "Portuguesas", titulo: "Radar Tuga", capa: "p011.jpg" },
+    { pagina: "Estrangeiras", titulo: "Da França, Espanha, tudo", capa: "p041.jpg" },
+    { titulo: "Música Viva", viva: true },  // QR Codes dos vídeos das músicas; vai antes do manual
     { pagina: "Manual de Instruções", titulo: "Manual de Instruções", capa: "p175.jpg", texto: true },
     { pagina: "Escalas", titulo: "Escalas", texto: true },
     { pagina: "Aplausos", titulo: "Não há palmas nos Campinácios", capa: "p111.jpg" }
@@ -100,7 +101,19 @@
     return el;
   }
 
+  // O endereço do vídeo de uma música: a primeira ligação para fora do site
+  // cujo texto fala em «vídeo» (por exemplo «Há um [vídeo do hino](…)»).
+  function videoDe(el) {
+    var ligacoes = el.tagName === "A" ? [el] : Array.prototype.slice.call(el.querySelectorAll("a"));
+    for (var i = 0; i < ligacoes.length; i++) {
+      var href = ligacoes[i].getAttribute("href") || "";
+      if (/^https?:/.test(href) && /v[ií]deo/i.test(ligacoes[i].textContent)) return href;
+    }
+    return "";
+  }
+
   function ler(seccao, base) {
+    if (seccao.viva) return Promise.resolve(seccao);
     var url = new URL("Cantin%C3%A1cio/" + encodeURIComponent(seccao.pagina) + ".html", base).href;
     return fetch(url).then(function (r) {
       if (!r.ok) throw new Error(seccao.pagina + ": " + r.status);
@@ -135,11 +148,12 @@
         }
         if (!dentro || el.tagName === "HR") { if (el.tagName === "HR") dentro = false; return; }
         if (el.tagName === "H3") {
-          actual = { titulo: texto(el), autor: "", partes: [] };
+          actual = { titulo: texto(el), autor: "", partes: [], video: "" };
           musicas.push(actual);
           return;
         }
         if (!actual) return;
+        if (!actual.video) actual.video = videoDe(el);
         var soItalico = el.tagName === "P" && el.children.length === 1 &&
           el.children[0].tagName === "EM" && el.textContent.trim() === el.children[0].textContent.trim();
         if (soItalico && !actual.partes.length && !actual.autor) {
@@ -352,11 +366,44 @@
 
     var entradas = [];  // para o índice: { seccao, titulo, numero, pagina }
     var numero = 0;
+
+    // Os números das músicas são seguidos de secção para secção, por isso
+    // sabem-se já, e a «Música Viva» pode ir antes de algumas das músicas.
+    var comVideo = [];
+    var contador = 0;
+    seccoes.forEach(function (s) {
+      (s.musicas || []).forEach(function (m) {
+        m.numero = ++contador;
+        if (m.video) comVideo.push(m);
+      });
+    });
+    var paginaDe = {};  // número da música -> página
     var cadeia = Promise.resolve();
 
+    var referencias = [];  // números de página a preencher: { el, musica }
+
     seccoes.forEach(function (s) {
+      if (s.viva && !comVideo.length) return;
       cadeia = cadeia.then(function () {
         estado("A paginar «" + s.titulo + "»…");
+        if (s.viva) {
+          var pv = livro.pagina("musica-viva", 2, s.titulo);
+          entradas.push({ seccao: s.titulo, pagina: pv });
+          var intro = livro.el("p", "viva-intro",
+            "Aponte a câmara do telemóvel para o código para ver o vídeo da música.");
+          livro.colunas[0].appendChild(intro);
+          comVideo.forEach(function (m) {
+            var c = livro.el("div", "viva-cartao");
+            var q = c.appendChild(livro.el("div", "qr"));
+            q.innerHTML = window.WkQR.svg(m.video);
+            var t = c.appendChild(livro.el("div", "viva-texto"));
+            t.appendChild(livro.el("strong", "", m.numero + ". " + m.titulo));
+            var pg = t.appendChild(livro.el("span", "viva-pag", "página 000"));
+            referencias.push({ el: pg, musica: m });
+            livro.colocar(c, false);
+          });
+          return espera();
+        }
         var primeira;
         if (s.capa) {
           primeira = livro.pagina("capa", 0);
@@ -403,6 +450,7 @@
           numero++;
           var b = livro.blocoMusica(m, numero, largura);
           livro.colocar(b, true);
+          paginaDe[m.numero] = b.closest(".pagina");
           entradas.push({ titulo: m.titulo, numero: numero, pagina: b.closest(".pagina") });
         });
         return espera();
@@ -446,6 +494,9 @@
         p.appendChild(livro.el("div", "numero " + (i % 2 ? "esquerda" : "direita"), String(i + 1)));
       });
       numeros.forEach(function (n) { n.el.textContent = n.pagina.dataset.numero; });
+      referencias.forEach(function (r) {
+        r.el.textContent = "página " + paginaDe[r.musica.numero].dataset.numero;
+      });
       return esperarImagens(doc.body).then(function () { return paginas.length; });
     });
   }
@@ -505,6 +556,14 @@
     ".linha.solta { padding-left: 1.5em; text-indent: -1.5em; }",
     ".musica .texto { margin: 0 0 1.6mm; font-size: 8.5pt; line-height: 1.32; overflow-wrap: anywhere; }",
     ".musica ul.texto, .musica ol.texto { padding-left: 5mm; }",
+
+    // Música Viva
+    ".viva-intro { margin: 0 0 4mm; font-size: 9pt; line-height: 1.4; }",
+    ".viva-cartao { display: flex; align-items: center; gap: 3mm; margin: 0 0 4mm; }",
+    ".viva-cartao .qr { flex: none; width: 20mm; height: 20mm; }",
+    ".viva-cartao .qr svg { display: block; width: 100%; height: 100%; }",
+    ".viva-texto { font-size: 9pt; line-height: 1.3; min-width: 0; overflow-wrap: anywhere; }",
+    ".viva-pag { display: block; margin-top: .5mm; font-size: 8pt; }",
 
     // Manual de Instruções e Escalas
     ".textual .coluna > * { margin-top: 0; }",

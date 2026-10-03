@@ -1247,7 +1247,7 @@ Sou um horror!
 *  Adaptação  Camtílica
 ```
 
-*Versão do Cantinácio 2019:*
+*Outra versão:*
 
 ```text
 Ré                           Lá
@@ -1704,7 +1704,7 @@ Pela a rua acima (ima), Ia um limão a descer (e-er)
 Ou a rua era redonda (onda), Ou o limão era a subir (i-ir)
 ```
 
-*Versão do Cantinácio 2019:*
+*Outra versão:*
 
 ```text
 Dó
@@ -1827,7 +1827,7 @@ Eu estou contigo
 Juntos vamos caminhar.
 ```
 
-*Versão do Cantinácio 2019:*
+*Outra versão:*
 
 ```text
 Pára e Repara
@@ -1906,7 +1906,7 @@ Sem saber fazes me rir
 Dás-me força para explodir.
 ```
 
-*Versão do Cantinácio 2019:*
+*Outra versão:*
 
 ```text
 Ré*            Sim*
@@ -2115,7 +2115,7 @@ Vai dar-te ao mundo aos que vivem
 Em tormento...
 ```
 
-*Versão do Cantinácio 2019:*
+*Outra versão:*
 
 ```text
 Sol                       Sim

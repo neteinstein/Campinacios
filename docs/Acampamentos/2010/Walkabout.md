@@ -17,6 +17,10 @@ Originalmente a palavra walkabout referia-se a um rito de passagem que os aborig
 
 O hino deste campo está no [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#walkabout). No YouTube há um [vídeo do hino](https://www.youtube.com/watch?v=2900bEFt2KE), também guardado no [web.archive.org](https://web.archive.org/web/20110917011938/http://www.youtube.com/watch?v=2900bEFt2KE).
 
+## Participantes que se tornaram animadores
+
+- [Olga Couto](../../Pessoas/O/Olga%20Couto.md)
+
 ---
 
 | Categorias |
