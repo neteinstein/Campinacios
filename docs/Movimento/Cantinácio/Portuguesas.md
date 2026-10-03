@@ -717,7 +717,7 @@ Dó7(9)*:  x32033
 Fá7M*:  1x221x
 ```
 
-*Versão do Cantinácio 2019:*
+*Outra versão:*
 
 ```text
  Fá         Sib   Rém         Sol
@@ -948,7 +948,7 @@ Eu sei que eu não sou quem você sempre sonhou,
 Mas vou reconquistar o seu amor todo p’ra mim.
 ```
 
-*Versão do Cantinácio 2019:*
+*Outra versão:*
 
 ```text
  Sol         Mim            Sim
@@ -1020,7 +1020,7 @@ De que cor pintar a minha vida
      Debaixo do sol
 ```
 
-*Versão do Cantinácio 2019:*
+*Outra versão:*
 
 ```text
 Lá           Mi
@@ -1884,7 +1884,7 @@ As estrelas os trilhos
 E as tralhas dos dois
 ```
 
-*Versão do Cantinácio 2019:*
+*Outra versão:*
 
 ```text
        Dó        Fá
@@ -2458,7 +2458,7 @@ E eu sou melhor que nada
 é o tempo (...) (2x)
 ```
 
-*Versão do Cantinácio 2019:*
+*Outra versão:*
 
 ```text
 Sol                         Ré
@@ -2553,7 +2553,7 @@ E eu sou melhor que nada
 ** Lenço Rubro, no original
 ```
 
-*Versão do Cantinácio 2019:*
+*Outra versão:*
 
 ```text
 Lá                  Sim
@@ -3681,7 +3681,7 @@ Tanto orgulho numa só mulher moderna oh-ai
 Que ora corre ora cai (bis)
 ```
 
-*Versão do Cantinácio 2019:*
+*Outra versão:*
 
 ```text
 Sim Sol Lá Ré (4x)
@@ -3883,7 +3883,7 @@ Boiando vazias
 Nas ondas da manhã
 ```
 
-*Versão do Cantinácio 2019:*
+*Outra versão:*
 
 ```text
 Sol              Mim
@@ -4063,7 +4063,7 @@ Dei a volta, cheguei ao fim
 Encontrou-me, não me largou
 ```
 
-*Versão do Cantinácio 2019:*
+*Outra versão:*
 
 ```text
   Lá                     Mi
@@ -4420,7 +4420,7 @@ ais um lugar,
 erei maior
 ```
 
-*Versão do Cantinácio 2019:*
+*Outra versão:*
 
 ```text
   Sol  Lá Ré
@@ -6471,7 +6471,7 @@ Siga a roda p’ra diante
 Quem manda é o meu amor
 ```
 
-*Versão do Cantinácio 2019:*
+*Outra versão:*
 
 ```text
      Lám
@@ -6757,7 +6757,7 @@ Com o teu cabelo à lua
 Menina estás à janela
 ```
 
-*Versão do Cantinácio 2019:*
+*Outra versão:*
 
 ```text
    Dó          Fá
@@ -7006,7 +7006,7 @@ Estou entre a espada e a parede
        Não há      estrelas no céu,    estrelas no céu...
 ```
 
-*Versão do Cantinácio 2019:*
+*Outra versão:*
 
 ```text
       Sol
@@ -7423,7 +7423,7 @@ Quando alguém nos dá a mão
      Pararara
 ```
 
-*Versão do Cantinácio 2019:*
+*Outra versão:*
 
 ```text
 Dó  Lám Rém Sol
@@ -8579,7 +8579,7 @@ Fui feliz enquanto pude ser
 Perdoa se peço demais (...) (x2)
 ```
 
-*Versão do Cantinácio 2019:*
+*Outra versão:*
 
 ```text
 Mi          Fá#    Sol#m
@@ -9611,7 +9611,7 @@ Miúda quem és .... miuuuda
 (5x)
 ```
 
-*Versão do Cantinácio 2019:*
+*Outra versão:*
 
 ```text
 Mi
@@ -9759,7 +9759,7 @@ A água em todas as fontes
       Ó rama do olival
 ```
 
-*Versão do Cantinácio 2019:*
+*Outra versão:*
 
 ```text
 Dó
@@ -9872,7 +9872,7 @@ Adianta e troca o par
       Meu amor te vou falar
 ```
 
-*Versão do Cantinácio 2019:*
+*Outra versão:*
 
 ```text
 Lá                                   Mi
@@ -10438,7 +10438,7 @@ Sou teu amigo sim!
 Sol*  =  3x304x  Ré*  =  2x023x
 ```
 
-*Versão do Cantinácio 2019:*
+*Outra versão:*
 
 ```text
 Sol     Ré7   Sol   Sol7
@@ -11134,7 +11134,7 @@ Todos
       Só seu e meu
 ```
 
-*Versão do Cantinácio 2019:*
+*Outra versão:*
 
 ```text
 Dó
