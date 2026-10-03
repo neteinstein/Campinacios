@@ -3,7 +3,7 @@
 <div class="wk-top" markdown="span">[Boas-vindas](Movimento/Boas-vindas.md) | [Ajuda](Wikin%C3%A1cios/Conte%C3%BAdos.md) | [Perguntas Frequentes](Movimento/FAQ.md) | [Contactos](Movimento/Contactos.md)</div>
 
 <div class="wk-banner" markdown>
-<div class="wk-count" markdown="span">**[1261 artigos](Todos%20os%20artigos.md)**</div>
+<div class="wk-count" markdown="span">**[1265 artigos](Todos%20os%20artigos.md)**</div>
 <div class="wk-welcome" markdown="span">[Bem-vindo(a)](Movimento/Boas-vindas.md) à **Wikinacios**,</div>
 <div class="wk-tagline" markdown="span">a enciclopédia livre sobre Campinácios que [(quase) todos podem editar](Wikin%C3%A1cios/Conte%C3%BAdos.md).</div>
 </div>
@@ -72,7 +72,7 @@ Ainda neste ano de 1989, no mês de Setembro, realizou-se o [Pedreira](Acampamen
 <div class="wk-section" markdown="span">**[Animadores](Categorias/Animadores.md)** e **[Jesuítas](Categorias/Jesu%C3%ADtas.md)**<br>[Animadores do CAIC](Categorias/Animadores%20do%20CAIC.md) &middot; [Animadores do CC](Categorias/Animadores%20do%20CC.md) &middot; [Animadores do CSJB](Categorias/Animadores%20do%20CSJB.md)</div>
 <div class="wk-section" markdown="span">**[Direcção Nacional](Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)**<br>[Direcção Local do CAIC](Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md) &middot; [Direcção Local do CC](Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) &middot; [Direcção Local do CSJB](Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)</div>
 <div class="wk-section" markdown="span">**[Arquivo](Categorias/Manuais.md)**<br>[Manual do Director](Movimento/Manual%20do%20Director.md) &middot; [Caderno da Mamã](Movimento/Caderno%20da%20Mam%C3%A3.md) &middot; [Manual de Funções](Movimento/Manual%20de%20Fun%C3%A7%C3%B5es.md) &middot; [Caderno de Jogos](Movimento/Caderno%20de%20Jogos.md) &middot; [Cantinácio](Movimento/Cantin%C3%A1cio.md)</div>
-<div class="wk-section" markdown="span">**[Áreas Restrictas](Restrito/%C3%81reas%20Restrictas.md)**<br>[Locais de Campo](Categorias/Locais%20de%20Acampamento.md)</div>
+<div class="wk-section" markdown="span">**[Áreas Restrictas](Restrito/%C3%81reas%20Restrictas.md)**<br>[Locais de Campo](Categorias/Locais%20de%20Acampamento.md) &middot; [Relatórios de Campo](Restrito/Relat%C3%B3rios%20de%20Campo/index.md)</div>
 <div class="wk-section" markdown="span">**[Amigos](Movimento/Campin%C3%A1cios.md)**<br>[Camtil](Movimento/Camtil.md) &middot; [Gambozinos](Movimento/Gambozinos.md) &middot; [Florinhas](Acampamentos/1994/Florinhas.md)</div>
 <div class="wk-section" markdown="span">**[Vocabulário](Movimento/Vocabul%C3%A1rio.md)**<br>[Animador](Movimento/Animador.md) &middot; [Jesuíta](Movimento/Jesu%C3%ADta.md) &middot; [Participante](Movimento/Participante.md) &middot; [Culinácio](Movimento/Culin%C3%A1cio.md) &middot; [mais...](Movimento/Vocabul%C3%A1rio.md)</div>
 <div class="wk-section" markdown="span">**[Legislação](Movimento/Legisla%C3%A7%C3%A3o.md)**<br>[Legislação de Acampamentos Ocasionais](Movimento/Legisla%C3%A7%C3%A3o.md)</div>

@@ -97,6 +97,10 @@ SECRETO! AMIGO! SECRETO! AMIGO!
 
 http://OPA07.blogspot.com *OPA 07*
 
+## Relatório de Campo
+
+O [relatório de campo](../../Restrito/Relat%C3%B3rios%20de%20Campo/OPA%202007.md) 🔒 escrito pela direcção é uma página restrita.
+
 ---
 
 | Categorias |

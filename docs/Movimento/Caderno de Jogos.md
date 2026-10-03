@@ -1471,6 +1471,94 @@ barras de esferovite que sirvam de jangada.
 **Nota:** na ficha, os jogos estão só "mais ou menos pensados": as provas vão sendo
 inventadas consoante o material que se arranjar e as condições do sítio.
 
+## Vamos Dançar Juntos
+
+*Adicionado por: [Ana Quaresma](../Pessoas/A/Ana%20Quaresma.md) e
+[Ana Simões](../Pessoas/A/Ana%20Sim%C3%B5es.md)*
+
+**Duração:** 20 a 30 minutos.
+
+**Objectivo:** formar as equipas; os participantes conhecerem-se e darem-se a conhecer ao
+animador de equipa e aos outros.
+
+**Material:** rádio; CDs com músicas típicas de cada povo.
+
+**Regras:** cada participante recebe um papel com uma característica de um povo (por
+exemplo, povo chinês: olhos em bico). Tem de andar por entre os outros a mostrar claramente
+essa característica e encontrar os participantes que têm características diferentes mas do
+mesmo povo (chinês: fazer karaté). Quando todos os elementos de uma equipa se encontram,
+põe-se no rádio uma música característica desse povo; o animador dança-a e a equipa junta-se
+a ele (Brasil: dançar samba).
+
+Por fim, animador e participantes apresentam-se de uma forma que depende do povo que lhes
+calhou, por exemplo: "Eu sou o X e, se eu fosse uma taça de arroz chau-chau… (tinha uma
+risca dourada)"; "…se eu fosse um côco… (rebolava até ao mar)"; "…se eu comesse uma
+lasanha… (lavava os dentes)". Depois conversam, escolhem o nome da equipa e fazem um sketch
+de apresentação.
+
+## Sobrevivência
+
+*Adicionado por: [Silvinha](../Pessoas/S/S%C3%ADlvia%20Reis.md) e
+[Beatriz Miranda](../Pessoas/B/Beatriz%20Miranda.md)*
+
+*Ver também [Herbívoros e Carnívoros](#herbívoros-e-carnívoros).*
+
+**Duração:** 1h30, mas pode demorar mais ou menos.
+
+**Objectivo:** compreender como funciona a cadeia alimentar, a competição pela comida
+escassa, os danos causados pelas doenças e pelo fogo, e também os causados pelos humanos.
+
+**Material:** papéis com os animais, a água e a comida (papel branco); papéis com as vidas
+(papéis verdes, azuis, amarelos e laranja); maquilhagem verde, azul, amarela, laranja,
+branca, vermelha e preta; balões de água; seringas.
+
+**Regras:** o jogo envolve humanos, fogo, doenças, grandes e pequenos carnívoros e grandes e
+pequenos herbívoros. Cada animal tem a cara pintada da cor do seu tipo e tem cartões de vida.
+Espalhados pelo terreno há cartões de água e de comida: 5 postos de água e 5 de comida, com
+40 etiquetas cada (há menos etiquetas do que animais, para simular a competição pela comida
+na natureza).
+
+Começam os pequenos herbívoros; alguns minutos depois entram os pequenos carnívoros, a
+seguir os grandes herbívoros, depois os grandes carnívoros, o fogo e a doença e, por fim, o
+humano. Para capturar, o predador tem de agarrar a presa, que lhe dá um dos seus cartões de
+vida (nunca uma etiqueta de comida ou água, nem um cartão de vida de um animal que ela
+própria capturou). Para sobreviver no fim do jogo, um animal tem de ter pelo menos um dos
+seus próprios cartões de vida; quem perde todos morre e volta à roda até ao fim do jogo.
+
+- **Pequenos herbívoros:** para sobreviver precisam de 4 cartões de água e 4 de comida, de
+  postos diferentes.
+- **Grandes herbívoros:** precisam de um cartão de cada posto de água e de comida.
+- **Pequenos carnívoros:** precisam de 6 cartões de vida de pequenos herbívoros, 2 cartões
+  de água e 2 de comida, de postos diferentes. Só podem capturar pequenos herbívoros.
+- **Grandes carnívoros:** podem capturar qualquer animal. Precisam de capturar 2 grandes
+  herbívoros e 3 animais pequenos (herbívoros ou carnívoros), e de 1 cartão de comida e 3
+  de água.
+- **Fogo e doença:** atacam qualquer animal só com um toque e não precisam de comida nem de
+  água.
+- **Humano:** tem armas de água (balões, seringas); um animal molhado pelo humano morre logo,
+  tenha os cartões de vida que tiver.
+
+Num jogo com 60 jogadores: um humano (preto); um fogo (vermelho); uma doença (branco); 7
+grandes carnívoros (laranja, 1 cartão de vida); 12 grandes herbívoros (amarelo, 3 cartões
+de vida); 8 pequenos carnívoros (azul, 4 cartões de vida); 30 pequenos herbívoros (verde, 6
+cartões de vida).
+
+## Noite de Cinema
+
+*Adicionado por: [Ana Quaresma](../Pessoas/A/Ana%20Quaresma.md),
+[Caramela](../Pessoas/J/Joana%20Martins.md) e [Silvinha](../Pessoas/S/S%C3%ADlvia%20Reis.md)*
+
+**Duração:** tarde e noite.
+
+**Objectivo:** um jogo de suspense em que se tem de descobrir o autor de um crime; no
+[OPA](../Acampamentos/2007/OPA.md) serviu também para animar a aldeia.
+
+**Material:** caracterização facial; fatos; tintas; papel de cenário; corda; lápis de cor;
+marcadores; lápis; borracha; tesouras; papel crepe.
+
+**Regras:** fazem-se grupos: um trata do cenário, outro da caracterização e outro da
+representação.
+
 ## Compilação e agradecimentos
 
 Compilação por [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md), com contribuições de
