@@ -1,4 +1,4 @@
-// Botão «Imprimir» da página do Cantinácio (docs/Movimento/Cantinácio.md).
+// Botão «Cantinácio Virtual» da página do Cantinácio (docs/Movimento/Cantinácio.md).
 // Junta as letras e os acordes de todas as secções do Cantinácio numa janela
 // nova, paginada em A4 a duas colunas à maneira do Cantinácio de 2019
 // (3.ª edição) — capa, ficha técnica, índice com números de página, capas das
@@ -154,6 +154,8 @@
         }
         if (!actual) return;
         if (!actual.video) actual.video = videoDe(el);
+        // «Há um vídeo … no YouTube» (ou no Google Drive…) não se imprime: o vídeo fica na «Música Viva», com o QR Code.
+        if (el.tagName === "P" && videoDe(el)) return;
         var soItalico = el.tagName === "P" && el.children.length === 1 &&
           el.children[0].tagName === "EM" && el.textContent.trim() === el.children[0].textContent.trim();
         if (soItalico && !actual.partes.length && !actual.autor) {
@@ -590,7 +592,7 @@
   function abrir(base) {
     var w = window.open("", "_blank");
     if (!w) {
-      window.alert("O navegador bloqueou a janela nova. Autorize as janelas deste site e carregue outra vez em «Imprimir».");
+      window.alert("O navegador bloqueou a janela nova. Autorize as janelas deste site e carregue outra vez em «Cantinácio Virtual».");
       return;
     }
     var doc = w.document;
