@@ -70,11 +70,8 @@ browse:
   - the camps-by-year table: add the camp to the `| <ano> |` row under its
     escalão, as `<li>**<Escalão>**<ul><li>[Nome](../Acampamentos/<ano>/Nome.md)</li></ul></li>`;
     um ano novo ganha uma linha nova a seguir à do ano anterior
-    (`| [<ano>](Acampamentos%20de%20<ano>.md) | <ul>…</ul> | *tema* | <ul><li>local</li></ul> |`,
-    com as células vazias se não se souber), com o ano ligado à página
-    `Acampamentos de <ano>` da categoria; em `docs/Acampamentos/index.md`
-    a ligação é `(../Categorias/Acampamentos%20de%20<ano>.md)`. Só um ano
-    sem essa página (como 2020, sem campos) fica em texto simples;
+    (`| <ano> | <ul>…</ul> | *tema* | <ul><li>local</li></ul> |`, com as
+    células vazias se não se souber);
   - `## Páginas nesta categoria (N)`: insert the link in title order and
     add 1 to N.
 - **`docs/Acampamentos/index.md`**: shows the same content as
@@ -133,7 +130,6 @@ e o contrário, e que as listas geradas dos campos e dos cargos estão
 certas. Os participantes não entram na equipa do campo.
 
 The validator checks the table row, the category list and its count, que
-cada ano da tabela liga à sua categoria `Acampamentos de <ano>`, that
 `docs/Acampamentos/index.md` has the same table rows, page list and count
 as the category, the year's index and the nav. Fix every `ERRO` and run it again until it prints `OK`; then the
 strict build catches any broken link. `validar.py --todos` checks every

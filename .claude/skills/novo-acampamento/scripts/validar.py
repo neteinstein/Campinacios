@@ -15,11 +15,10 @@ Para cada página de campo docs/Acampamentos/<ano>/<nome>.md verifica:
   2. docs/Acampamentos/<ano>/index.md liga a ela
   3. o mkdocs.yml tem <ano> na navegação
 
-e, para o site todo, que a contagem "(N)" bate certo com a lista, que cada
-ano da tabela liga à sua categoria (docs/Categorias/Acampamentos de
-<ano>.md), quando ela existe, e que docs/Acampamentos/index.md, que mostra
-o mesmo que a categoria, é igual a ela: os mesmos campos e ligações em cada
-linha da tabela, a mesma lista de páginas e a mesma contagem.
+e, para o site todo, que a contagem "(N)" bate certo com a lista e que
+docs/Acampamentos/index.md, que mostra o mesmo que a categoria, é igual a
+ela: os mesmos campos em cada linha da tabela, a mesma lista de páginas e a
+mesma contagem.
 
 Uso:
     python3 .claude/skills/novo-acampamento/scripts/validar.py <campo.md> ...
@@ -70,26 +69,9 @@ def year_of(camp):
 
 
 def table_rows(text):
-    """A tabela dos acampamentos por ano: {ano: o texto dessa linha}. O ano
-    pode estar em texto simples (| 2020 |) ou ligado à sua categoria
-    (| [1989](Acampamentos%20de%201989.md) |)."""
+    """A tabela dos acampamentos por ano: {ano: o texto dessa linha}."""
     return {m.group(1): m.group(0) for m in
-            re.finditer(r'^\| \[?(\d{4})(?:\]\([^)]*\))? \|.*$', text, re.M)}
-
-
-def year_link_problems(rows):
-    """Cada ano da tabela da categoria liga à página Acampamentos de <ano>,
-    quando ela existe (o docs/Acampamentos/index.md fica igual por
-    mirror_problems)."""
-    out = []
-    rel_c = CATEGORY.relative_to(ROOT)
-    for year, row in sorted(rows.items()):
-        page = CATEGORY.parent / f'Acampamentos de {year}.md'
-        cell = re.match(r'^\| (.*?) \|', row).group(1)
-        if page.exists() and page not in targets(cell, CATEGORY):
-            out.append(f'{rel_c}: o ano {year} da tabela não liga a '
-                       f'{page.relative_to(ROOT)}')
-    return out
+            re.finditer(r'^\| (\d{4}) \|.*$', text, re.M)}
 
 
 def camp_pages():
@@ -142,7 +124,6 @@ def check(camps):
     elif count != len(members):
         general.append(f'{CATEGORY.relative_to(ROOT)}: diz "Páginas nesta '
                        f'categoria ({count})" mas a lista tem {len(members)}')
-    general += year_link_problems(rows)
     general += mirror_problems(rows, count, member_files)
 
     problems = {}
