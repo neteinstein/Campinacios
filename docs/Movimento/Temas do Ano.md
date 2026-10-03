@@ -31,8 +31,8 @@
 | 2013 | <ul><li>Ámen</li></ul> |
 | 2014 | <ul><li>Na tua companhia</li></ul> |
 | 2015 | <ul><li>Change Your Selfie</li></ul> |
-| 2016 | <ul><li>Já estavas à minha espera</li></ul> |
-| 2017 | <ul><li>Guarda tudo no teu coração</li></ul> |
+| 2016 | <ul><li>Já estavas à minha espera ([vídeo](https://www.youtube.com/watch?v=bn9HMYSNAhs))</li></ul> |
+| 2017 | <ul><li>Guarda tudo no teu coração ([vídeo](https://www.youtube.com/watch?v=UgWgdo_oG0Y))</li></ul> |
 | 2018 | <ul><li>Vem e verás</li></ul> |
 | 2019 | <ul><li>Enche a tua vida de alegria</li></ul> |
 | 2020 | <ul><li>Viver Agradecido</li></ul> |
