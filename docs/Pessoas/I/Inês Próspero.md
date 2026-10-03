@@ -6,7 +6,7 @@ Inês Próspero é antiga aluna do [CSJB](../../Movimento/CSJB.md) e animadora d
 
 - **Participante**
     - 2002 [Projecto Canguru](../../Acampamentos/2002/Projecto%20Canguru.md)
-- **Animadora**
+- **Formação**
     - 2003 [Graal II](../../Acampamentos/2003/Graal%20II.md)
 - **Animadora**
     - 2006 [Long Tao](../../Acampamentos/2006/Long%20Tao.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
