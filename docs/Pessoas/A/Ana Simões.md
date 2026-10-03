@@ -31,6 +31,8 @@ Ana Simões é, desde 2004, um dos animadores do Colégio da Imaculada Conceiç�
 
 É irmã da [Rita Simões](../R/Rita%20Sim%C3%B5es.md).
 
+É casada com o [Bernardo Narciso](../B/Bernardo%20Narciso.md).
+
 ---
 
 | Categorias |
