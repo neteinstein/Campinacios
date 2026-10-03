@@ -12,12 +12,6 @@ O botão **Imprimir** gera o Cantinácio Virtual: todas as letras e acordes do W
 
 Um novo Cantinácio foi lançado após anos e anos de tentativas: a 3.ª edição, de 2019, com pesquisa e edição de [Sara Moinhos](../Pessoas/S/Sara%20Moinhos.md), ilustrações de [Francisco Rodrigues (Pica)](../Pessoas/F/Francisco%20Silva%20Rodrigues.md) e coordenação e assistência de [Francisca Pimentel](../Pessoas/F/Francisca%20Pimentel.md).
 
-## Manual de Instruções
-
-O [Manual de Instruções](Cantin%C3%A1cio/Manual%20de%20Instru%C3%A7%C3%B5es.md) do Cantinácio de 2019 explica como ler acordes e tocar guitarra, e traz as tabelas de acordes para guitarra e ukelele.
-
-- [Escalas](Cantin%C3%A1cio/Escalas.md) — como mudar uma música de tom
-
 ## Letras e acordes
 
 As músicas do Cantinácio de 2019 (3.ª edição) foram juntadas às que já estavam no Wikinácios. Quando uma música já existia e a versão de 2019 é diferente, as duas aparecem, uma a seguir à outra.
@@ -28,6 +22,12 @@ As músicas do Cantinácio de 2019 (3.ª edição) foram juntadas às que já es
 - [Estrangeiras](Cantin%C3%A1cio/Estrangeiras.md) — 226 músicas estrangeiras
 - [Gambozinos](Cantin%C3%A1cio/Gambozinos.md) — 1 música nascida nos acampamentos
 - [Portuguesas](Cantin%C3%A1cio/Portuguesas.md) — 214 músicas portuguesas
+
+## Manual de Instruções
+
+O [Manual de Instruções](Cantin%C3%A1cio/Manual%20de%20Instru%C3%A7%C3%B5es.md) do Cantinácio de 2019 explica como ler acordes e tocar guitarra, e traz as tabelas de acordes para guitarra e ukelele.
+
+- [Escalas](Cantin%C3%A1cio/Escalas.md) — como mudar uma música de tom
 
 ## Aplausos
 
