@@ -107,7 +107,10 @@ them are this person when the name is common.
 like `docs/Pessoas/J/João Eiró.md`: `# Nome`, the note if any, an intro if
 given, `### Acampamentos` with **Participante** / **Formação** /
 **Animador(a)** lists, then the footer `---` and `| Categorias |` table (Animadores,
-Animadores do <colégio> if known, Jesuítas…). Then list it: the letter's
+Animadores do <colégio> if known, Jesuítas…). As relações de parentesco ou de casamento (irmãos, pais, filhos, cônjuges…)
+escrevem-se sempre numa secção `### Família`, nunca soltas no fim da página
+nem noutra secção.
+Then list it: the letter's
 `index.md` (sorted), its count in `docs/Pessoas/index.md`, each category's
 `## Páginas nesta categoria (N)` (sorted, N+1), `docs/Todos os artigos.md`
 ("N artigos" +1) and the home page count in `docs/index.md`; o grafo
