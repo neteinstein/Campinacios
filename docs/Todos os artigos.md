@@ -444,7 +444,7 @@
 - [Encontro Nacional 2007](Encontros/Encontro%20Nacional%202007.md)
 - [Encontro Nacional 2008](Encontros/Encontro%20Nacional%202008.md)
 - [Encontro Nacional 2009](Encontros/Encontro%20Nacional%202009.md)
-- [Encontro Nacional 2010](Encontros/Encontro%20Nacional%202010.md)
+- [Encontro Nacional 2010 (20 Anos)](Encontros/Encontro%20Nacional%202010%20%2820%20Anos%29.md)
 - [Encontro Nacional 2013](Encontros/Encontro%20Nacional%202013.md)
 - [Encontro Nacional 2019](Encontros/Encontro%20Nacional%202019.md)
 - [Encontro Nacional 2020](Encontros/Encontro%20Nacional%202020.md)

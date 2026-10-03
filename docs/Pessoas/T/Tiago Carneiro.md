@@ -22,7 +22,7 @@ Tiago Reis Carneiro, nascido a 22 de Maio de 1987, é animador do CC desde 2005.
 
 ### Encontros
 
-- 2010 [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md) - COECA
+- 2010 [Encontro Nacional 2010 (20 Anos)](../../Encontros/Encontro%20Nacional%202010%20%2820%20Anos%29.md) - COECA
 
 ---
 
