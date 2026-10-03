@@ -8,6 +8,10 @@
     - 2018 [Agora Vês](../../Acampamentos/2018/Agora%20V%C3%AAs.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2021 [Quantos Somos](../../Acampamentos/2021/Quantos%20Somos.md) - [Director](../../Cargos/Director.md)
 
+### Família
+
+É casada com o [Miguel França Martins](Miguel%20Fran%C3%A7a%20Martins.md).
+
 ---
 
 **Outros nomes:** Maria Amorim Gomes
