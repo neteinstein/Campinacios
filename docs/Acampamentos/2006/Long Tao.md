@@ -4,6 +4,10 @@ O Long Tao foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) qu
 
 O hino deste campo foi a música "Abre-te ao Sonho" (ver [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#abre-te-ao-sonho)) e o hino da novela foi a música "Vem Acudir" (ver [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#vem-acudir)). No YouTube há um [vídeo do hino da novela](https://www.youtube.com/watch?v=8P5SykzFBbw).
 
+### Vídeos
+
+No YouTube há dois vídeos deste campo: a [explicação do nome](https://www.youtube.com/watch?v=yqpzj9MOvK0) e a [desmontagem do mastro](https://www.youtube.com/watch?v=XT5QGCC-Efo).
+
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Ivo Reis](../../Pessoas/I/Ivo%20Reis.md)
