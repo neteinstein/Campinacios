@@ -14,6 +14,38 @@ Foi para este campo que se adaptou a música "Radroca", do Camtil (ver [Cantiná
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Cecília Mendonça](../../Pessoas/C/Cec%C3%ADlia%20Mendon%C3%A7a.md), [Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md) e [Luís Canilho](../../Pessoas/L/Lu%C3%ADs%20Tiago%20Canilho.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Ana Simões](../../Pessoas/A/Ana%20Sim%C3%B5es.md), [Missé](../../Pessoas/M/Miguel%20Melo.md), [Ciso](../../Pessoas/B/Bernardo%20Narciso.md), [Diana Pereira](../../Pessoas/D/Diana%20Pereira.md), [Sílvia Reis](../../Pessoas/S/S%C3%ADlvia%20Reis.md), [Caramela](../../Pessoas/J/Joana%20Martins.md) e [Vítor Fernandes](../../Pessoas/V/V%C3%ADtor%20Fernandes.md)
 
+### Plano de campo
+
+Réplica do esquema de campo preparado pela equipa de animação.
+
+<div class="wk-plano-campo" markdown>
+<table>
+<thead>
+<tr><th></th><th>12</th><th>13</th><th>14</th><th>15</th><th>16</th><th>17</th><th>18</th><th>19</th><th>20</th><th>21</th></tr>
+</thead>
+<tbody>
+<tr><th>8:30</th><td rowspan="6"></td><td>Acordar</td><td>Acordar</td><td rowspan="5">Caminhada</td><td>Acordar</td><td>Acordar</td><td>Acordar</td><td>Acordar</td><td>Acordar</td><td>Acordar</td></tr>
+<tr><th>8:45</th><td>Ginástica<br>Pedro &amp; Vítor</td><td>Ginástica<br>Ivo, Missé &amp; Silvinha</td><td>Ginástica<br>Canilho &amp; Marta</td><td>Ginástica<br>Diana &amp; Narciso</td><td>Ginástica<br>Caramela e Ana Sal.</td><td>Ginástica<br>Ana S. &amp; Ceci</td><td>Ginástica<br>Rita S. &amp; Renato</td><td rowspan="2">Avaliação</td></tr>
+<tr><th>9:15</th><td>PA</td><td>PA</td><td>PA</td><td>PA</td><td>PA</td><td>PA</td><td>PA</td></tr>
+<tr><th>10:00</th><td>BDS<br>Mimo</td><td>Preparação da missa</td><td>BDS</td><td>BDS</td><td>BDS</td><td>BDS</td><td>BDS</td><td rowspan="2">Wash &amp;<br>Go</td></tr>
+<tr><th>11:00</th><td>Gincana “tropa”<br>Pedro &amp; Joana</td><td>Missa na aldeia</td><td>Bruto ball<br>Canilho</td><td>Gincana<br>Ana &amp; R. Simões</td><td></td><td>Jogo dos balões<br>Rui</td><td>Caça ao Tesouro<br>Directores &amp; Canilho</td></tr>
+<tr><th>13:00</th><td>Almoço</td><td>Almoço</td><td>Almoço</td><td>Almoço</td><td>Almoço</td><td>Almoço</td><td>Almoço</td><td>Almoço</td><td>Almoço</td></tr>
+<tr><th>14:30</th><td></td><td>Sorna</td><td rowspan="5">Caminhada</td><td rowspan="5">Caminhada</td><td>Sorna</td><td>Sorna</td><td rowspan="5">Tarde de Serviço</td><td>Sorna</td><td>Sorna</td><td>Partida</td></tr>
+<tr><th>15:15</th><td>Chegada – Pedro, Missé, Vítor</td><td rowspan="3">“Paint ball”<br>Ana Salgado &amp; Diana</td><td>Preparação dos sketch’s</td><td rowspan="3">Ateliers</td><td rowspan="4">Jogo dos sonhos<br>Ceci</td><td>Missa de campo (?)</td><td rowspan="9"></td></tr>
+<tr><th>17:30</th><td rowspan="3">Discurso<br><br>Jogo de equipas<br>Entrega dos lenços</td><td rowspan="2">Jogo aquático<br>Silvinha, Ceci &amp; Caramela</td><td rowspan="6">Arraial<br>Vítor e Rui</td></tr>
+<tr><th>18:00</th></tr>
+<tr><th>19:30</th><td>CP</td><td>CP</td><td>CP</td></tr>
+<tr><th>20:00</th><td>Jantar</td><td>Jantar</td><td>Jantar</td><td>Jantar</td><td>Jantar</td><td>Jantar</td><td>Jantar</td><td>Jantar</td></tr>
+<tr><th rowspan="2">21:30</th><td rowspan="2">Noite: Sketch’s; novela</td><td rowspan="2">Jogo personagens<br>Canilho &amp; Diana</td><td rowspan="2">Sketch novela</td><td rowspan="2">Sketch<br>“Livres”</td><td rowspan="2">Sketch Equipas<br>Ceci &amp; Missé</td><td rowspan="2">Assalto ao castelo<br>Pedro e Ana S.</td><td>Jogos de roda<br>Discussão</td><td rowspan="2">Oração guiada</td></tr>
+<tr><td>BN</td></tr>
+<tr><th>0:00</th><td>BN</td><td>BN</td><td>BN</td><td>BN</td><td>BN</td><td>BN</td><td>RC</td><td>BN</td><td>BN</td></tr>
+<tr><th></th><td>RC</td><td>RC</td><td>RC</td><td>RC</td><td>RC</td><td>RC</td><td>Jogo nocturno<br>Canilho, Ciso, Vítor</td><td>RC</td><td>RC</td></tr>
+</tbody>
+</table>
+</div>
+
+BDS – Bom Dia Senhor; PA – Pequeno-almoço; BN – Boa Noite; CP – Celebração da Palavra.
+
 ## Participantes que se tornaram animadores
 
 - [Ana Veiga](../../Pessoas/A/Ana%20Veiga.md)
