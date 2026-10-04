@@ -186,4 +186,4 @@ git restore docs/Recentes.md             # a publicação volta a gerá-la
 ```
 
 As páginas restritas, os índices, as categorias, `Wikinácios/` e as páginas
-geradas não aparecem nunca em Recentes; e só entram as 50 mais recentes.
+geradas não aparecem nunca em Recentes; e só entram as 100 mais recentes.
