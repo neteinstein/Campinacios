@@ -56,16 +56,6 @@ Ainda neste ano de 1989, no mês de Setembro, realizou-se o [Pedreira](Acampamen
 </div>
 <div class="wk-col" markdown>
 
-<div class="wk-box wk-green" markdown>
-<div class="wk-head" markdown="span">Eventos recentes</div>
-
-- **3 de Outubro de 2026**<br>O [Cantinácio Virtual](Movimento/Cantin%C3%A1cio.md) fica disponível.
-- **26 de Setembro de 2026**<br>Wikinácios é [recuperada de um backup](Wikin%C3%A1cios/Sobre%20este%20arquivo.md) depois de ter sido "perdida" em 2013. Passa nesse mesmo dia de 650 artigos para 950.
-- **25 de Novembro de 2009**<br>É oficialmente divulgada a Wikinácios com 630 artigos, sendo a primeira das grandes mudanças da Revolução a ser divulgada!
-- **6 de Janeiro de 2009**<br>Inicia-se a [Revolução Campinácios v2.0](Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md) com nova página e o início da Wikinácios!
-
-</div>
-
 <div class="wk-index" markdown>
 <div class="wk-section" markdown="span">**[Campinácios](Movimento/Campin%C3%A1cios.md)**<br>[História](Movimento/Campin%C3%A1cios.md) &middot; [Cargos](Categorias/Cargos.md) &middot; [Temas do Ano](Movimento/Temas%20do%20Ano.md) &middot; [Locais de Acampamento](Categorias/Locais%20de%20Acampamento.md)</div>
 <div class="wk-section" markdown="span">**[Acampamentos](Categorias/Acampamentos.md)**<br>[Triciclos](Categorias/Triciclos.md) &middot; [Trotinetas](Categorias/Trotinetas.md) &middot; [Bicicletas](Categorias/Bicicletas.md) &middot; [Lambretas](Categorias/Lambretas.md) &middot; [Calhambeques](Categorias/Calhambeques.md) &middot; [Formação de Animadores](Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md)</div>
@@ -80,6 +70,16 @@ Ainda neste ano de 1989, no mês de Setembro, realizou-se o [Pedreira](Acampamen
 <div class="wk-section" markdown="span">**[Online](Movimento/Online.md)**<br>[Página oficial](https://www.campinacios.pt) &middot; [YouTube](https://www.youtube.com/@campinacios) &middot; [Instagram](https://www.instagram.com/campinacios/) &middot; [Facebook](https://www.facebook.com/campinacios/?locale=pt_PT) &middot; [Notícias](Movimento/Not%C3%ADcias.md)</div>
 <div class="wk-section" markdown="span">**[Contribuidores](Wikin%C3%A1cios/Contribuidores.md)**</div>
 <div class="wk-section" markdown="span">**[Todos os artigos](Todos%20os%20artigos.md)**</div>
+</div>
+
+<div class="wk-box wk-green" markdown>
+<div class="wk-head" markdown="span">Eventos recentes</div>
+
+- **3 de Outubro de 2026**<br>O [Cantinácio Virtual](Movimento/Cantin%C3%A1cio.md) fica disponível.
+- **26 de Setembro de 2026**<br>Wikinácios é [recuperada de um backup](Wikin%C3%A1cios/Sobre%20este%20arquivo.md) depois de ter sido "perdida" em 2013. Passa nesse mesmo dia de 650 artigos para 950.
+- **25 de Novembro de 2009**<br>É oficialmente divulgada a Wikinácios com 630 artigos, sendo a primeira das grandes mudanças da Revolução a ser divulgada!
+- **6 de Janeiro de 2009**<br>Inicia-se a [Revolução Campinácios v2.0](Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md) com nova página e o início da Wikinácios!
+
 </div>
 
 </div>
