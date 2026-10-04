@@ -29,11 +29,23 @@
   var TAM_LETRA = 11;  // pt, o tamanho normal das letras e acordes
   var TAM_MINIMO = 7;  // pt, o mais pequeno a que se encolhe uma música larga
 
-  // Ilustrações do Pica, tiradas do Cantinácio de 2019 (largura × altura em px).
+  // Ilustrações (largura × altura em px): as 14 primeiras são do Pica, tiradas
+  // do Cantinácio de 2019; as seguintes foram desenhadas para o Wikinácios ao
+  // mesmo estilo, com temas de campo (lanterna, Petromax, Cerelac, latrina,
+  // roda, guitarra, djambé, sol, tenda, pão, marmelada, manteiga, leite,
+  // Coca-Cola, fogueira, caminhada, comboio, árvores, cruz, abraço, ajoelhar)
+  // e da Camtilena (mosquito, cegonha, arco-íris, pêra, galinha, sopa, aranha,
+  // semente, gota).
   var ILUSTRACOES = [
     [1, 700, 679], [2, 230, 700], [3, 443, 700], [4, 405, 700], [5, 700, 665],
     [6, 700, 464], [7, 630, 700], [8, 700, 603], [9, 649, 700], [10, 419, 700],
-    [11, 700, 521], [12, 635, 700], [13, 594, 700], [14, 437, 700]
+    [11, 700, 521], [12, 635, 700], [13, 594, 700], [14, 437, 700],
+    [15, 700, 482], [16, 433, 700], [17, 644, 700], [18, 700, 635], [19, 690, 700],
+    [20, 573, 700], [21, 601, 700], [22, 700, 699], [23, 700, 559], [24, 700, 528],
+    [25, 700, 685], [26, 700, 593], [27, 553, 700], [28, 441, 700], [29, 651, 700],
+    [30, 700, 680], [31, 700, 636], [32, 700, 632], [33, 656, 700], [34, 480, 700],
+    [35, 476, 700], [36, 700, 668], [37, 700, 639], [38, 700, 433], [39, 582, 700],
+    [40, 700, 601], [41, 650, 700], [42, 700, 693], [43, 683, 700], [44, 614, 700]
   ].map(function (i) {
     return { ficheiro: "ilustracao-" + (i[0] < 10 ? "0" : "") + i[0] + ".jpg", altura: i[2] / i[1] };
   });
@@ -431,6 +443,7 @@
       '<dl class="creditos">' +
       "<dt>Pesquisa e edição</dt><dd>Sara Moinhos</dd>" +
       "<dt>Ilustrações</dt><dd>Francisco Rodrigues (Pica)</dd>" +
+      "<dt>Ilustrações adicionais</dt><dd>Wikinácios, ao estilo do Pica</dd>" +
       "<dt>Coordenação e assistência</dt><dd>Francisca Pimentel</dd>" +
       "</dl>" +
       '<p class="agradecimento">Um agradecimento muito especial a todos os que colaboraram neste projecto.<br>' +
