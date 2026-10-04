@@ -21,7 +21,7 @@
     { titulo: "Música Viva", viva: true },  // QR Codes dos vídeos das músicas; vai antes do manual
     { pagina: "Manual de Instruções", titulo: "Manual de Instruções", capa: "p175.jpg", texto: true },
     { pagina: "Escalas", titulo: "Escalas", texto: true },
-    { pagina: "Aplausos", titulo: "Não há palmas nos Campinácios", capa: "p111.jpg" }
+    { pagina: "Aplausos", titulo: "Não há palmas nos Campinácios", capa: "p111.jpg", fluir: true }  // fluir: as músicas seguem-se sem começar página nova
   ];
 
   // Como no Cantinácio de 2019: Arial, letras e acordes a 11 pt, títulos a 18 pt.
@@ -274,6 +274,39 @@
     }
   };
 
+  // Põe uma música na página actual se ela couber toda nas colunas que sobram
+  // (pode passar da primeira para a segunda coluna, mas não para outra
+  // página); se não couber, desfaz e começa uma página nova. Devolve o
+  // primeiro bloco da música.
+  Livro.prototype.colocarNaPagina = function (criar) {
+    var pagina = this.colunas[0].closest(".pagina");
+    var coluna = this.coluna;
+    var colunas = this.colunas;
+    var molde = this.molde;
+    var contagens = colunas.map(function (c) { return c.childNodes.length; });
+    var b = criar();
+    this.colocar(b, true);
+    var vazia = contagens.every(function (n) { return n === 0; });
+    if (this.colunas[0].closest(".pagina") === pagina || vazia) return b;
+
+    // Passou para outra página: desfaz tudo o que a música acrescentou.
+    var seguinte;
+    while ((seguinte = pagina.nextElementSibling)) {
+      if (seguinte.classList.contains("pagina")) seguinte.remove();
+      else break;
+    }
+    colunas.forEach(function (c, i) {
+      while (c.childNodes.length > contagens[i]) c.lastChild.remove();
+    });
+    this.colunas = colunas;
+    this.coluna = coluna;
+    this.molde = molde;
+    this.pagina(molde.classe, molde.colunas, null, molde.antesDe);
+    b = criar();
+    this.colocar(b, true);
+    return b;
+  };
+
   // Largura (em «em») de um texto em Arial, medida num <canvas>; serve para
   // pôr cada acorde por cima da letra certa, como no Cantinácio de 2019.
   Livro.prototype.largura = function (texto, italico) {
@@ -494,8 +527,13 @@
         var largura = livro.colunas[0].clientWidth;
         s.musicas.forEach(function (m) {
           numero++;
-          var b = livro.blocoMusica(m, numero, largura);
-          livro.colocar(b, true);
+          // Cada página começa com uma música: só se junta outra a uma página
+          // se couber inteira nela (as músicas maiores do que uma página, e as
+          // dos Aplausos, seguem-se sem esta regra).
+          var b = s.fluir ? livro.blocoMusica(m, numero, largura) : livro.colocarNaPagina(function () {
+            return livro.blocoMusica(m, numero, largura);
+          });
+          if (s.fluir) livro.colocar(b, true);
           paginaDe[m.numero] = b.closest(".pagina");
           entradas.push({ titulo: m.titulo, numero: numero, pagina: b.closest(".pagina") });
         });
