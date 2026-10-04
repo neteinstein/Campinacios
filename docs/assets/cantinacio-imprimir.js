@@ -38,7 +38,8 @@
   // semente, gota), e ainda triciclo, trotinete, bicicleta, lambreta, tractor,
   // calhambeque, garrafa, boi, mira («tens mira?»), Super Boi, cantil, rio,
   // banho de rio, banana, melancia, casaco camuflado da tropa, bandeira num
-  // mastro, lenço de campo, lama, jipe e chinelos.
+  // mastro, lenço de campo, lama, jipe, chinelos, massa com atum, nadar,
+  // saco-cama e estendal.
   var ILUSTRACOES = [
     [1, 700, 679], [2, 230, 700], [3, 443, 700], [4, 405, 700], [5, 700, 665],
     [6, 700, 464], [7, 630, 700], [8, 700, 603], [9, 649, 700], [10, 419, 700],
@@ -53,7 +54,7 @@
     [50, 700, 430], [51, 541, 700], [52, 700, 571], [53, 612, 700], [54, 700, 667],
     [55, 358, 700], [56, 655, 700], [57, 700, 523], [58, 700, 667], [59, 700, 615],
     [60, 700, 614], [61, 658, 700], [62, 700, 630], [63, 674, 700], [64, 700, 412],
-    [65, 587, 700]
+    [65, 587, 700], [66, 700, 695], [67, 700, 475], [68, 700, 592], [69, 697, 700]
   ].map(function (i) {
     return { ficheiro: "ilustracao-" + (i[0] < 10 ? "0" : "") + i[0] + ".jpg", altura: i[2] / i[1] };
   });
