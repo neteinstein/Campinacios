@@ -61,6 +61,10 @@ Aqui ficam algumas músicas gravadas por [João Monteiro](../Pessoas/J/Jo%C3%A3o
 
 <audio controls src="../assets/musicas/Cantin%C3%A1cio/12%20-%20Algu%C3%A9m%20%C3%80%20Deriva.mp3"></audio><br>12 - Alguém À Deriva
 
+Outras gravações:
+
+<audio controls src="../assets/musicas/Cantin%C3%A1cio/Long%20Tao%202006%20-%20Vem%20Acudir.mp3"></audio><br>[Vem Acudir](Cantin%C3%A1cio/Campin%C3%A1cios.md#vem-acudir) — hino da novela do campo [Long Tao](../Acampamentos/2006/Long%20Tao.md) (2006), de [António Amaral](../Pessoas/A/Ant%C3%B3nio%20Amaral.md) e [Leonardo Carvalho](../Pessoas/L/Leonardo%20Carvalho.md)
+
 ---
 
 | Categorias |
