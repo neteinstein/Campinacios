@@ -2321,6 +2321,8 @@ Tu te casarás! (2x)
 
 Há um [vídeo da música](https://www.youtube.com/watch?v=8P5SykzFBbw) no YouTube.
 
+<audio controls src="../../assets/musicas/Cantin%C3%A1cio/Vem%20Acudir%20%28Long%20Tao%202006%29.mp3"></audio><br>Gravação do hino da novela
+
 ```text
 E                                          G#m
 Oh Floribella, vem cá vem cá
