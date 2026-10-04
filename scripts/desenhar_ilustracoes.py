@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Desenhos novos para o Cantinácio Virtual, a imitar o traço solto a tinta
-das ilustrações do Pica: linhas pretas tremidas, algumas manchas cheias e as
-bochechas pintalgadas das personagens. Escreve um SVG por desenho.
+"""Desenhos gerados por IA (Claude) para o Cantinácio Virtual, a imitar o
+traço solto a tinta das ilustrações do Pica: linhas pretas tremidas, algumas
+manchas cheias e as bochechas pintalgadas das personagens. Escreve um SVG por desenho.
 
 Gerou as ilustrações 15 a 74 de docs/assets/imagens/Cantinácio 2019/ (pela
 ordem do dicionário D), usadas por docs/assets/cantinacio-imprimir.js.

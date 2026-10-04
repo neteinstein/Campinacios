@@ -29,22 +29,28 @@
   var TAM_LETRA = 11;  // pt, o tamanho normal das letras e acordes
   var TAM_MINIMO = 7;  // pt, o mais pequeno a que se encolhe uma música larga
 
-  // Ilustrações (largura × altura em px): as 14 primeiras são do Pica, tiradas
-  // do Cantinácio de 2019; as seguintes foram desenhadas para o Wikinácios ao
-  // mesmo estilo, com temas de campo (lanterna, Petromax, Cerelac, latrina,
-  // roda, guitarra, djambé, sol, tenda, pão, marmelada, manteiga, leite,
-  // Coca-Cola, fogueira, caminhada, comboio, árvores, cruz, abraço, ajoelhar)
-  // e da Camtilena (mosquito, cegonha, arco-íris, pêra, galinha, sopa, aranha,
-  // semente, gota), e ainda triciclo, trotinete, bicicleta, lambreta, tractor,
-  // calhambeque, garrafa, boi, mira («tens mira?»), Super Boi, cantil, rio,
-  // banho de rio, banana, melancia, casaco camuflado da tropa, bandeira num
-  // mastro, lenço de campo, lama, jipe, chinelos, massa com atum, nadar,
-  // saco-cama, estendal, padre, criança, despedida com lágrimas, luar e
-  // estrelas no céu.
-  var ILUSTRACOES = [
+  // Ilustrações (número do ficheiro, largura × altura em px), com o registo da
+  // origem de cada uma:
+  // - ORIGINAIS: as do Pica (Francisco Rodrigues), tiradas do Cantinácio de
+  //   2019;
+  // - GERADAS: desenhadas por IA (Claude, por código, em
+  //   scripts/desenhar_ilustracoes.py) para o Wikinácios, ao estilo do Pica:
+  //   lanterna, Petromax, Cerelac, latrina, roda, guitarra, djambé, sol, tenda,
+  //   pão, marmelada, manteiga, leite, Coca-Cola, fogueira, caminhada, comboio,
+  //   árvores, cruz, abraço, ajoelhar, mosquito, cegonha, arco-íris, pêra,
+  //   galinha, sopa, aranha, semente, gota, triciclo, trotinete, bicicleta,
+  //   lambreta, tractor, calhambeque, garrafa, boi, mira («tens mira?»), Super
+  //   Boi, cantil, rio, banho de rio, banana, melancia, casaco camuflado da
+  //   tropa, bandeira num mastro, lenço de campo, lama, jipe, chinelos, massa
+  //   com atum, nadar, saco-cama, estendal, padre, criança, despedida com
+  //   lágrimas, luar e estrelas no céu (pela ordem dos ficheiros 15 a 74).
+  // Cada imagem posta no Cantinácio leva a origem em data-origem.
+  var ORIGINAIS = [
     [1, 700, 679], [2, 230, 700], [3, 443, 700], [4, 405, 700], [5, 700, 665],
     [6, 700, 464], [7, 630, 700], [8, 700, 603], [9, 649, 700], [10, 419, 700],
-    [11, 700, 521], [12, 635, 700], [13, 594, 700], [14, 437, 700],
+    [11, 700, 521], [12, 635, 700], [13, 594, 700], [14, 437, 700]
+  ];
+  var GERADAS = [
     [15, 700, 482], [16, 433, 700], [17, 644, 700], [18, 700, 635], [19, 690, 700],
     [20, 573, 700], [21, 601, 700], [22, 700, 699], [23, 700, 559], [24, 700, 528],
     [25, 700, 685], [26, 700, 593], [27, 553, 700], [28, 441, 700], [29, 651, 700],
@@ -57,9 +63,20 @@
     [60, 700, 614], [61, 658, 700], [62, 700, 630], [63, 674, 700], [64, 700, 412],
     [65, 587, 700], [66, 700, 695], [67, 700, 475], [68, 700, 592], [69, 697, 700],
     [70, 597, 700], [71, 573, 700], [72, 700, 647], [73, 700, 682], [74, 700, 676]
-  ].map(function (i) {
-    return { ficheiro: "ilustracao-" + (i[0] < 10 ? "0" : "") + i[0] + ".jpg", altura: i[2] / i[1] };
-  });
+  ];
+  function ilustracao(origem) {
+    return function (i) {
+      return {
+        ficheiro: "ilustracao-" + (i[0] < 10 ? "0" : "") + i[0] + ".jpg",
+        altura: i[2] / i[1],
+        origem: origem
+      };
+    };
+  }
+  var ILUSTRACOES = ORIGINAIS.map(ilustracao("Pica, Cantinácio de 2019"))
+    .concat(GERADAS.map(ilustracao("gerada por IA, ao estilo do Pica")));
+  var RECENTES = 12;  // ao repetir, não se repete nenhuma das últimas 12
+
   var PX_POR_MM = 96 / 25.4;
 
   var NOTA = "(?:Dó|Do|Ré|Re|Mi|Fá|Fa|Sol|Lá|La|Si|[A-G])(?:#|b|♯|♭)?";
@@ -454,7 +471,7 @@
       '<dl class="creditos">' +
       "<dt>Pesquisa e edição</dt><dd>Sara Moinhos</dd>" +
       "<dt>Ilustrações</dt><dd>Francisco Rodrigues (Pica)</dd>" +
-      "<dt>Ilustrações adicionais</dt><dd>Wikinácios, ao estilo do Pica</dd>" +
+      "<dt>Ilustrações adicionais</dt><dd>Geradas por IA, ao estilo do Pica</dd>" +
       "<dt>Coordenação e assistência</dt><dd>Francisca Pimentel</dd>" +
       "</dl>" +
       '<p class="agradecimento">Um agradecimento muito especial a todos os que colaboraram neste projecto.<br>' +
@@ -569,27 +586,42 @@
     // ilustrações de 2019 (cada uma só uma vez, pela ordem).
     cadeia = cadeia.then(function () {
       estado("A pôr as ilustrações…");
+      // Primeiro todas uma vez, pela ordem; depois repetem-se ao acaso,
+      // sem repetir nenhuma das últimas RECENTES.
       var porUsar = ILUSTRACOES.slice();
+      var ultimas = [];
       var colunas = [];
       doc.querySelectorAll(".pagina.musicas .coluna").forEach(function (c) { colunas.push(c); });
       colunas.forEach(function (col) {
-        if (!porUsar.length || !col.lastElementChild) return;
+        if (!col.lastElementChild) return;
         var livre = (col.getBoundingClientRect().bottom - col.lastElementChild.getBoundingClientRect().bottom) / PX_POR_MM;
         var larguraCol = col.clientWidth / PX_POR_MM;
-        for (var k = 0; k < porUsar.length; k++) {
-          var il = porUsar[k];
+        function largura(il) {
           var larg = Math.min(larguraCol * 0.8, 70);
           if (larg * il.altura > livre - 8) larg = (livre - 8) / il.altura;
-          if (larg < 35) continue;
-          var img = livro.el("img", "ilustracao");
-          img.src = ilustracoes + il.ficheiro;
-          img.alt = "";
-          img.style.width = larg.toFixed(1) + "mm";
-          img.style.height = (larg * il.altura).toFixed(1) + "mm";
-          col.appendChild(img);
-          porUsar.splice(k, 1);
-          break;
+          return larg < 35 ? 0 : larg;
         }
+        var il = null;
+        for (var k = 0; k < porUsar.length; k++) {
+          if (largura(porUsar[k])) { il = porUsar.splice(k, 1)[0]; break; }
+        }
+        if (!il && !porUsar.length) {
+          var hipoteses = ILUSTRACOES.filter(function (i) {
+            return ultimas.indexOf(i) < 0 && largura(i);
+          });
+          if (hipoteses.length) il = hipoteses[Math.floor(Math.random() * hipoteses.length)];
+        }
+        if (!il) return;
+        var larg = largura(il);
+        var img = livro.el("img", "ilustracao");
+        img.src = ilustracoes + il.ficheiro;
+        img.alt = "";
+        img.dataset.origem = il.origem;
+        img.style.width = larg.toFixed(1) + "mm";
+        img.style.height = (larg * il.altura).toFixed(1) + "mm";
+        col.appendChild(img);
+        ultimas.push(il);
+        if (ultimas.length > RECENTES) ultimas.shift();
       });
     });
 
