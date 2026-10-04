@@ -74,8 +74,8 @@ O grafo (`docs/assets/graph.json`) reconstrói-se com
 apagam páginas ou ligações (`--verificar` só compara e sai com 1 se estiver
 desactualizado).
 
-A página `docs/Recentes.md` (a 50 páginas alteradas há menos tempo, com a
-data) é gerada por `python3 scripts/actualizar_recentes.py` a partir do
+A página `docs/Recentes.md` (as 100 páginas alteradas há menos tempo, com a
+data, o pedido e as issues) é gerada por `python3 scripts/actualizar_recentes.py` a partir do
 histórico do git e reescrita a cada publicação (`.github/workflows/pages.yml`):
 não se edita à mão nem é preciso actualizá-la em cada commit.
 Mesmo assim, toda a alteração a uma página tem de ficar reflectida nela: a
