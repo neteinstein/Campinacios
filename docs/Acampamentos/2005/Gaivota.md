@@ -48,9 +48,11 @@ BDS – Bom Dia Senhor; PA – Pequeno-almoço; BN – Boa Noite; CP – Celebra
 
 ### A Novela
 
-A novela foi um dos pontos altos do campo. A personagem principal era Maria Isgnovite, interpretada por [Joana Martins](../../Pessoas/J/Joana%20Martins.md), uma pessoa de carácter duvidoso.
+A novela foi um dos pontos altos do campo. A personagem principal era Maria Isgnovite, interpretada por [Joana Martins](../../Pessoas/J/Joana%20Martins.md), uma pessoa de carácter duvidoso. A outra personagem principal era interpretada por [Bernardo Narciso](../../Pessoas/B/Bernardo%20Narciso.md).
 
-O narrador (a voz off) era [Vítor Fernandes](../../Pessoas/V/V%C3%ADtor%20Fernandes.md), que quase sempre ignorava por completo o guião e narrava momentos inesperados, a que as personagens em cena obedeciam e que interpretavam à letra, o que muitas vezes as metia em situações difíceis ("e agora faz um mortal!"). Foram estas surpresas que deram à novela um elemento cómico muito forte.
+A novela tinha duas vozes off: [Vítor Fernandes](../../Pessoas/V/V%C3%ADtor%20Fernandes.md) e [Miguel Pedro Melo](../../Pessoas/M/Miguel%20Melo.md) sj (Missé). Quase sempre ignoravam por completo o guião e narravam momentos inesperados, a que as personagens em cena obedeciam e que interpretavam à letra, o que muitas vezes as metia em situações difíceis ("e agora faz um mortal!"). Foram estas surpresas que deram à novela um elemento cómico muito forte.
+
+A realidade entrava muitas vezes pela novela dentro. Foi o que aconteceu com a entrada do "Super" ([Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md)), que saltou à Super-Homem por cima da roda e aterrou de peito no chão.
 
 ## Participantes que se tornaram animadores
 
