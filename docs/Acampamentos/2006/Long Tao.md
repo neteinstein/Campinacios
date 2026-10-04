@@ -2,7 +2,7 @@
 
 O Long Tao foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que decorreu na [Quinta Sto António do Rio Zézere](../../Restrito/Locais%20de%20Acampamento/Quinta%20Sto%20Ant%C3%B3nio%20do%20Rio%20Z%C3%A9zere%20%28Covilh%C3%A3%29.md), em Caria (Covilhã) de 16 a 25 de Agosto.
 
-O hino deste campo foi a música "Abre-te ao Sonho" (ver [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#abre-te-ao-sonho)) e o hino da novela foi a música "Vem Acudir" (ver [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#vem-acudir)). No YouTube há um [vídeo do hino da novela](https://www.youtube.com/watch?v=8P5SykzFBbw).
+O hino deste campo foi a música "Abre-te ao Sonho" (ver [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#abre-te-ao-sonho)) e o hino da novela foi a música "Vem Acudir", de [António Amaral](../../Pessoas/A/Ant%C3%B3nio%20Amaral.md) e [Leonardo Carvalho](../../Pessoas/L/Leonardo%20Carvalho.md) (ver [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#vem-acudir), onde está também uma gravação). No YouTube há um [vídeo do hino da novela](https://www.youtube.com/watch?v=8P5SykzFBbw).
 
 ### Vídeos
 

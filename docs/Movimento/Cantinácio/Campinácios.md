@@ -78,7 +78,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [TIAS](#tias) — (melodia Dunas)
 - [TU ÉS O MEU FOGO](#tu-es-o-meu-fogo)
 - [TU JÁ NAMORAS?](#tu-ja-namoras)
-- [VEM ACUDIR](#vem-acudir) — Hino da Novela do Campo Long Tao (2006)
+- [VEM ACUDIR](#vem-acudir) — Hino da Novela do Campo Long Tao (2006) (António Amaral e Leonardo Carvalho)
 - [VIDA DE CAMPO](#vida-de-campo) — Musical “Vida de Campo”
 - [VOCÊ, QUE ESTAVA A DORMIR](#voce-que-estava-a-dormir)
 - [WALKABOUT](#walkabout) — Hino do Campo Walkabout (2010)
@@ -2317,9 +2317,11 @@ Tu te casarás! (2x)
 
 ### VEM ACUDIR {#vem-acudir}
 
-*Hino da Novela do Campo [Long Tao](../../Acampamentos/2006/Long%20Tao.md) (2006)*
+*Hino da Novela do Campo [Long Tao](../../Acampamentos/2006/Long%20Tao.md) (2006), de [António Amaral](../../Pessoas/A/Ant%C3%B3nio%20Amaral.md) e [Leonardo Carvalho](../../Pessoas/L/Leonardo%20Carvalho.md)*
 
-Há um [vídeo da música](https://www.youtube.com/watch?v=8P5SykzFBbw) no YouTube.
+Há um [vídeo da música](https://www.youtube.com/watch?v=8P5SykzFBbw) no YouTube. Gravação da música:
+
+<audio controls src="../../assets/musicas/Cantin%C3%A1cio/Long%20Tao%202006%20-%20Vem%20Acudir.mp3"></audio>
 
 ```text
 E                                          G#m

@@ -15,6 +15,10 @@
     - 2005 [Falésia](../../Acampamentos/2005/Fal%C3%A9sia.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2006 [Long Tao](../../Acampamentos/2006/Long%20Tao.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
+### Música
+
+É um dos autores, com o [António Amaral](../A/Ant%C3%B3nio%20Amaral.md), do hino da novela do campo [Long Tao](../../Acampamentos/2006/Long%20Tao.md) (2006), "Vem Acudir" (ver [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#vem-acudir), onde está também uma gravação).
+
 ### Família
 
 É irmão do [Francisco Carvalho](../F/Francisco%20Carvalho.md)
