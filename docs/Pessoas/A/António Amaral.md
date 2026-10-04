@@ -19,6 +19,10 @@
     - 2008 [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2009 [Survivor](../../Acampamentos/2009/Survivor.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
+### Música
+
+É um dos autores, com o [Leonardo Carvalho](../L/Leonardo%20Carvalho.md), do hino da novela do campo [Long Tao](../../Acampamentos/2006/Long%20Tao.md) (2006), "Vem Acudir" (ver [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#vem-acudir), onde está também uma gravação).
+
 ---
 
 | Categorias |
