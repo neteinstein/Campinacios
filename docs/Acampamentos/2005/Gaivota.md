@@ -46,6 +46,12 @@ Réplica do esquema de campo preparado pela equipa de animação.
 
 BDS – Bom Dia Senhor; PA – Pequeno-almoço; BN – Boa Noite; CP – Celebração da Palavra.
 
+### A Novela
+
+A novela foi um dos pontos altos do campo. A personagem principal era Maria Isgnovite, interpretada por [Joana Martins](../../Pessoas/J/Joana%20Martins.md), uma pessoa de carácter duvidoso.
+
+O narrador (a voz off) era [Vítor Fernandes](../../Pessoas/V/V%C3%ADtor%20Fernandes.md), que quase sempre ignorava por completo o guião e narrava momentos inesperados, a que as personagens em cena obedeciam e que interpretavam à letra, o que muitas vezes as metia em situações difíceis ("e agora faz um mortal!"). Foram estas surpresas que deram à novela um elemento cómico muito forte.
+
 ## Participantes que se tornaram animadores
 
 - [Ana Veiga](../../Pessoas/A/Ana%20Veiga.md)
