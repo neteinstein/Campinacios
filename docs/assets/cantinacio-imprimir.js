@@ -35,7 +35,9 @@
   // roda, guitarra, djambé, sol, tenda, pão, marmelada, manteiga, leite,
   // Coca-Cola, fogueira, caminhada, comboio, árvores, cruz, abraço, ajoelhar)
   // e da Camtilena (mosquito, cegonha, arco-íris, pêra, galinha, sopa, aranha,
-  // semente, gota).
+  // semente, gota), e ainda triciclo, trotinete, bicicleta, lambreta, tractor,
+  // calhambeque, garrafa, boi, mira («tens mira?»), Super Boi, cantil, rio e
+  // banho de rio.
   var ILUSTRACOES = [
     [1, 700, 679], [2, 230, 700], [3, 443, 700], [4, 405, 700], [5, 700, 665],
     [6, 700, 464], [7, 630, 700], [8, 700, 603], [9, 649, 700], [10, 419, 700],
@@ -45,7 +47,10 @@
     [25, 700, 685], [26, 700, 593], [27, 553, 700], [28, 441, 700], [29, 651, 700],
     [30, 700, 680], [31, 700, 636], [32, 700, 632], [33, 656, 700], [34, 480, 700],
     [35, 476, 700], [36, 700, 668], [37, 700, 639], [38, 700, 433], [39, 582, 700],
-    [40, 700, 601], [41, 650, 700], [42, 700, 693], [43, 683, 700], [44, 614, 700]
+    [40, 700, 601], [41, 650, 700], [42, 700, 693], [43, 683, 700], [44, 614, 700],
+    [45, 700, 487], [46, 700, 585], [47, 700, 476], [48, 700, 513], [49, 700, 663],
+    [50, 700, 430], [51, 541, 700], [52, 700, 571], [53, 612, 700], [54, 700, 667],
+    [55, 358, 700], [56, 655, 700], [57, 700, 523]
   ].map(function (i) {
     return { ficheiro: "ilustracao-" + (i[0] < 10 ? "0" : "") + i[0] + ".jpg", altura: i[2] / i[1] };
   });
