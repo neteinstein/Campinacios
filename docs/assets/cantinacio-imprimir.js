@@ -43,8 +43,13 @@
   //   Boi, cantil, rio, banho de rio, banana, melancia, casaco camuflado da
   //   tropa, bandeira num mastro, lenço de campo, lama, jipe, chinelos, massa
   //   com atum, nadar, saco-cama, estendal, padre, criança, despedida com
-  //   lágrimas, luar e estrelas no céu (pela ordem dos ficheiros 15 a 74).
-  // Cada imagem posta no Cantinácio leva a origem em data-origem.
+  //   lágrimas, luar, estrelas no céu, apito, boné, calções, bolhas nos pés,
+  //   vegetação, flores, sabão azul, moscas, botija de gás, amizade, pó, mamã,
+  //   tia, director, director adjunto, capelão, animador livre, animador de
+  //   equipa, maçã, palmas com uma cruz por cima e raposa (pela ordem dos
+  //   ficheiros 15 a 95).
+  // Cada imagem posta no Cantinácio leva a origem em data-origem e, num canto,
+  // a marca «Pica» ou «IA».
   var ORIGINAIS = [
     [1, 700, 679], [2, 230, 700], [3, 443, 700], [4, 405, 700], [5, 700, 665],
     [6, 700, 464], [7, 630, 700], [8, 700, 603], [9, 649, 700], [10, 419, 700],
@@ -62,19 +67,25 @@
     [55, 358, 700], [56, 655, 700], [57, 700, 523], [58, 700, 667], [59, 700, 615],
     [60, 700, 614], [61, 658, 700], [62, 700, 630], [63, 674, 700], [64, 700, 412],
     [65, 587, 700], [66, 700, 695], [67, 700, 475], [68, 700, 592], [69, 697, 700],
-    [70, 597, 700], [71, 573, 700], [72, 700, 647], [73, 700, 682], [74, 700, 676]
+    [70, 597, 700], [71, 573, 700], [72, 700, 647], [73, 700, 682], [74, 700, 676],
+    [75, 700, 496], [76, 700, 476], [77, 700, 608], [78, 602, 700], [79, 700, 400],
+    [80, 700, 635], [81, 700, 631], [82, 700, 668], [83, 538, 700], [84, 493, 700],
+    [85, 700, 568], [86, 499, 700], [87, 495, 700], [88, 583, 700], [89, 439, 700],
+    [90, 369, 700], [91, 444, 700], [92, 700, 683], [93, 644, 700], [94, 700, 664],
+    [95, 601, 700]
   ];
-  function ilustracao(origem) {
+  function ilustracao(origem, marca) {
     return function (i) {
       return {
         ficheiro: "ilustracao-" + (i[0] < 10 ? "0" : "") + i[0] + ".jpg",
         altura: i[2] / i[1],
-        origem: origem
+        origem: origem,
+        marca: marca
       };
     };
   }
-  var ILUSTRACOES = ORIGINAIS.map(ilustracao("Pica, Cantinácio de 2019"))
-    .concat(GERADAS.map(ilustracao("gerada por IA, ao estilo do Pica")));
+  var ILUSTRACOES = ORIGINAIS.map(ilustracao("Pica, Cantinácio de 2019", "Pica"))
+    .concat(GERADAS.map(ilustracao("gerada por IA, ao estilo do Pica", "IA")));
   var RECENTES = 12;  // ao repetir, não se repete nenhuma das últimas 12
 
   var PX_POR_MM = 96 / 25.4;
@@ -594,11 +605,15 @@
       doc.querySelectorAll(".pagina.musicas .coluna").forEach(function (c) { colunas.push(c); });
       colunas.forEach(function (col) {
         if (!col.lastElementChild) return;
-        var livre = (col.getBoundingClientRect().bottom - col.lastElementChild.getBoundingClientRect().bottom) / PX_POR_MM;
+        var ultimo = col.lastElementChild;
+        // A margem de baixo da última música junta-se à de cima da ilustração
+        // (6 mm): conta a maior, mais 2 mm de folga e 2 mm para a marca.
+        var margem = Math.max(6, parseFloat(w.getComputedStyle(ultimo).marginBottom) / PX_POR_MM) + 4;
+        var livre = (col.getBoundingClientRect().bottom - ultimo.getBoundingClientRect().bottom) / PX_POR_MM - margem;
         var larguraCol = col.clientWidth / PX_POR_MM;
         function largura(il) {
           var larg = Math.min(larguraCol * 0.8, 70);
-          if (larg * il.altura > livre - 8) larg = (livre - 8) / il.altura;
+          if (larg * il.altura > livre) larg = livre / il.altura;
           return larg < 35 ? 0 : larg;
         }
         var il = null;
@@ -613,13 +628,15 @@
         }
         if (!il) return;
         var larg = largura(il);
-        var img = livro.el("img", "ilustracao");
+        var caixa = livro.el("div", "ilustracao");
+        caixa.dataset.origem = il.origem;
+        caixa.style.width = larg.toFixed(1) + "mm";
+        caixa.style.height = (larg * il.altura).toFixed(1) + "mm";
+        var img = caixa.appendChild(livro.el("img"));
         img.src = ilustracoes + il.ficheiro;
         img.alt = "";
-        img.dataset.origem = il.origem;
-        img.style.width = larg.toFixed(1) + "mm";
-        img.style.height = (larg * il.altura).toFixed(1) + "mm";
-        col.appendChild(img);
+        caixa.appendChild(livro.el("span", "marca", il.marca));
+        col.appendChild(caixa);
         ultimas.push(il);
         if (ultimas.length > RECENTES) ultimas.shift();
       });
@@ -727,7 +744,9 @@
     ".par .ac { position: absolute; top: 0; font-style: italic; white-space: pre; }",
     ".musica .texto { margin: 0 0 1.6mm; font-size: 1em; line-height: 1.3; overflow-wrap: anywhere; }",
     ".musica ul.texto, .musica ol.texto { padding-left: 5mm; }",
-    ".ilustracao { display: block; margin: 6mm auto 0; }",
+    ".ilustracao { position: relative; margin: 6mm auto 0; }",
+    ".ilustracao img { display: block; width: 100%; height: 100%; }",
+    ".ilustracao .marca { position: absolute; right: 0; bottom: -1mm; font: italic 6.5pt " + FAMILIA + "; color: #666; }",
 
     // Música Viva
     ".viva-intro { margin: 0 0 4mm; font-size: 9pt; line-height: 1.4; }",
