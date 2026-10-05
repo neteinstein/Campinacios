@@ -4,7 +4,7 @@
 
 [Bem-vindo(a)](docs/Movimento/Boas-vindas.md) à **Wikinacios**, a enciclopédia livre sobre Campinácios que [(quase) todos podem editar](docs/Wikin%C3%A1cios/Conte%C3%BAdos.md).
 
-[Boas-vindas](docs/Movimento/Boas-vindas.md) | [Ajuda](docs/Wikin%C3%A1cios/Conte%C3%BAdos.md) | [Perguntas Frequentes](docs/Movimento/FAQ.md) | [Contactos](docs/Movimento/Contactos.md)
+[Boas-vindas](docs/Movimento/Boas-vindas.md) | [Ajuda](docs/Wikin%C3%A1cios/Conte%C3%BAdos.md) | [Estatísticas](https://wikinacios.goatcounter.com/) | [Contactos](docs/Movimento/Contactos.md)
 
 ## Explorar
 
