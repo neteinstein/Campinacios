@@ -51,6 +51,12 @@ matching work:
   `.github/ISSUE_TEMPLATE/*.yml` into site pages, via the two skills
   above, while keeping private data (contacts, minors' names, camp-site
   directions) off the public site.
+- **`.claude/skills/refrescar-recentes/SKILL.md`** — garantir que a
+  página Recentes do site fica refrescada a cada pull request: confirmar
+  antes de abrir o pedido e, depois de integrado, que a Action «Publicar
+  site» correu e que a página publicada o mostra, com
+  `python3 .claude/skills/refrescar-recentes/scripts/verificar_recentes.py <N> --esperar`
+  (e `--publicar` para voltar a publicar).
 - **`.claude/skills/conteudo-em-portugues/SKILL.md`** — the language rule
   above, plus a checker
   (`python3 .claude/skills/conteudo-em-portugues/scripts/verificar_portugues.py`)
@@ -82,7 +88,8 @@ Mesmo assim, toda a alteração a uma página tem de ficar reflectida nela: a
 alteração tem de estar num commit e, antes de dar o trabalho por terminado,
 corra `python3 scripts/actualizar_recentes.py`, confirme que as páginas
 mexidas aparecem em `docs/Recentes.md` e descarte o resultado com
-`git restore docs/Recentes.md`. Ficam sempre de fora as páginas restritas, os
+`git restore docs/Recentes.md`. Depois de o pedido ser integrado, confirme
+que a página publicada o mostra (skill `refrescar-recentes`). Ficam sempre de fora as páginas restritas, os
 índices, as categorias e `Wikinácios/`.
 
 ## Notes for any agent
