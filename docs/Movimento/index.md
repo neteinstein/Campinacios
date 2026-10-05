@@ -21,7 +21,6 @@ História, organização, colégios, manuais e outros artigos sobre o movimento.
 - [CSJB](CSJB.md)
 - [Culinácio](Culin%C3%A1cio.md)
 - [Escalões](Escal%C3%B5es.md)
-- [FAQ](FAQ.md)
 - [Gambozinos](Gambozinos.md)
 - [Imaginarium](Imaginarium.md)
 - [Jesuíta](Jesu%C3%ADta.md)

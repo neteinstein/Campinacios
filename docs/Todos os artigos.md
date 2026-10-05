@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1275 artigos e, em itálico, os 207 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1274 artigos e, em itálico, os 207 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -482,7 +482,6 @@
 - [Faia (Sernancelhe)](Restrito/Locais%20de%20Acampamento/Faia%20%28Sernancelhe%29.md) 🔒
 - [Fairplay](Acampamentos/2013/Fairplay.md)
 - [Falésia](Acampamentos/2005/Fal%C3%A9sia.md)
-- [FAQ](Movimento/FAQ.md)
 - [Farol](Acampamentos/2003/Farol.md)
 - [Francisca Pimentel](Pessoas/F/Francisca%20Pimentel.md)
 - [Francisco Caldas](Pessoas/F/Francisco%20Caldas.md)
