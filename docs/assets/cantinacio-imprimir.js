@@ -221,6 +221,8 @@
         if (!actual.video) actual.video = videoDe(el);
         // «Há um vídeo … no YouTube» (ou no Google Drive…) não se imprime: o vídeo fica na «Música Viva», com o QR Code.
         if (el.tagName === "P" && videoDe(el)) return;
+        // As gravações (<audio>) só se ouvem no site: não se imprimem.
+        if (el.tagName === "AUDIO" || el.querySelector("audio")) return;
         var soItalico = el.tagName === "P" && el.children.length === 1 &&
           el.children[0].tagName === "EM" && el.textContent.trim() === el.children[0].textContent.trim();
         if (soItalico && !actual.partes.length && !actual.autor) {
