@@ -131,7 +131,7 @@ def main():
         'alteração, o pedido (pull request) que a fez, as issues resolvidas por '
         'ele, quem as propôs e quem fez a alteração. As páginas restritas não '
         'aparecem.', '',
-        '| Página | Alterada em | Pedido | Issues | Proposto por | Alterado por |',
+        '| Página | Alterada em | Pedido | Issues | Proposta de | Executada por |',
         '| --- | --- | --- | --- | --- | --- |']
     for data, rel, pedido, issues, autor in ultimas():
         ligacao = urllib.parse.quote(rel.as_posix())
