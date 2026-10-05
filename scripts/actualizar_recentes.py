@@ -1,11 +1,17 @@
 #!/usr/bin/env python3
 """Escreve docs/Recentes.md: as 100 páginas do Wikinácios alteradas há menos
-tempo, com a data da última alteração, o pull request que a fez e as issues
-que esse trabalho resolveu, lidos do histórico do git.
+tempo, com a data da última alteração, o pull request que a fez, as issues
+que esse trabalho resolveu, quem as propôs e quem fez a alteração, lidos do
+histórico do git e da API do GitHub.
 
 O pull request sai da junção «Merge pull request #N» (ou do «(#N)» do título,
 nas junções por «squash»); as issues saem das mensagens dos commits («issue
 #N», «fecha #N»...). Alterações feitas directamente no main não têm pedido.
+
+Quem propôs é o autor de cada issue no GitHub; quem fez a alteração é o autor
+do pull request no GitHub ou, sem pedido, o autor do commit. Os autores lêem-se
+com o `gh` (no GitHub Actions, com `GH_TOKEN`); sem ele, ou sem rede, a coluna
+de quem propôs fica vazia e a de quem alterou mostra o autor do commit.
 
 Ficam de fora as páginas restritas (Restrito/), os índices, as categorias,
 as páginas geradas ("Todos os artigos", "Grafo", "Recentes") e as de
@@ -15,6 +21,8 @@ Wikinácios/. O histórico tem de estar completo (no GitHub Actions:
 Uso:
     python3 scripts/actualizar_recentes.py
 """
+import functools
+import json
 import re
 import subprocess
 import sys
@@ -52,6 +60,24 @@ def git(*args):
                           capture_output=True, text=True, check=True).stdout
 
 
+@functools.cache
+def autor_github(tipo, numero):
+    """Login de quem abriu a issue ou o pull request, ou '' se não se souber."""
+    try:
+        saida = subprocess.run(
+            ['gh', 'api', f'repos/neteinstein/Campinacios/{tipo}/{numero}'],
+            cwd=RAIZ, capture_output=True, text=True, timeout=30)
+    except (OSError, subprocess.TimeoutExpired):
+        return ''
+    if saida.returncode != 0:
+        return ''
+    return (json.loads(saida.stdout).get('user') or {}).get('login', '')
+
+
+def utilizador(login):
+    return f'[{login}](https://github.com/{login})'
+
+
 def pedidos():
     """{hash de um commit: número do pull request que o trouxe para o main}."""
     mapa = {}
@@ -70,30 +96,31 @@ def pedidos():
 
 
 def ultimas():
-    """[(data, caminho, pedido ou '', [issues])] das páginas mais recentes."""
+    """[(data, caminho, pedido ou '', [issues], autor do commit)] das páginas
+    mais recentes."""
     if git('rev-parse', '--is-shallow-repository').strip() == 'true':
         sys.exit('Histórico incompleto: corra `git fetch --unshallow`.')
     saida = git('log', '--no-merges', '--name-only', '--date=format:%d/%m/%Y',
-                '--format=%x01%H%x00%ad%x00%B%x00', '--', 'docs')
+                '--format=%x01%H%x00%ad%x00%an%x00%B%x00', '--', 'docs')
     vistas = {}
     for bloco in saida.split('\x01')[1:]:
-        hash_, data, mensagem, nomes = bloco.split('\x00', 3)
+        hash_, data, autor, mensagem, nomes = bloco.split('\x00', 4)
         for linha in nomes.splitlines():
             if not linha.startswith('docs/'):
                 continue
             rel = Path(linha).relative_to('docs')
             if rel in vistas or not (DOCS / rel).is_file() or not elegivel(rel):
                 continue
-            vistas[rel] = (data, hash_, mensagem)
+            vistas[rel] = (data, hash_, autor, mensagem)
         if len(vistas) >= LIMITE:
             break
     mapa = pedidos()
     resultado = []
-    for rel, (data, hash_, mensagem) in vistas.items():  # por ordem decrescente
+    for rel, (data, hash_, autor, mensagem) in vistas.items():  # por ordem decrescente
         issues = []
         for grupo in ISSUES.findall(mensagem):
             issues += [n for n in re.findall(r'\d+', grupo) if n not in issues]
-        resultado.append((data, rel, mapa.get(hash_, ''), issues))
+        resultado.append((data, rel, mapa.get(hash_, ''), issues, autor))
     return resultado
 
 
@@ -101,15 +128,25 @@ def main():
     linhas = [
         '# Recentes', '',
         f'As {LIMITE} páginas alteradas há menos tempo, com a data da última '
-        'alteração, o pedido (pull request) que a fez e as issues resolvidas por '
-        'ele. As páginas restritas não aparecem.', '',
-        '| Página | Alterada em | Pedido | Issues |', '| --- | --- | --- | --- |']
-    for data, rel, pedido, issues in ultimas():
+        'alteração, o pedido (pull request) que a fez, as issues resolvidas por '
+        'ele, quem as propôs e quem fez a alteração. As páginas restritas não '
+        'aparecem.', '',
+        '| Página | Alterada em | Pedido | Issues | Proposto por | Alterado por |',
+        '| --- | --- | --- | --- | --- | --- |']
+    for data, rel, pedido, issues, autor in ultimas():
         ligacao = urllib.parse.quote(rel.as_posix())
         pr = f'[#{pedido}]({REPO}/pull/{pedido})' if pedido else ''
         iss = ', '.join(f'[#{n}]({REPO}/issues/{n})' for n in issues)
+        propostas = []
+        for n in issues:
+            login = autor_github('issues', n)
+            if login and utilizador(login) not in propostas:
+                propostas.append(utilizador(login))
+        login = autor_github('pulls', pedido) if pedido else ''
+        alterado = utilizador(login) if login else autor
         linhas.append(f'| [{titulo(DOCS / rel)}]({ligacao}) '
-                      f'| {data} | {pr} | {iss} |')
+                      f'| {data} | {pr} | {iss} | {", ".join(propostas)} '
+                      f'| {alterado} |')
     SAIDA.write_text('\n'.join(linhas) + '\n', encoding='utf-8')
     print(f'{SAIDA.relative_to(RAIZ)} escrito.')
 
