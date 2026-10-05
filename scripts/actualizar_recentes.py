@@ -128,10 +128,10 @@ def main():
     linhas = [
         '# Recentes', '',
         f'As {LIMITE} páginas alteradas há menos tempo, com a data da última '
-        'alteração, o pedido (pull request) que a fez, as issues resolvidas por '
-        'ele, quem as propôs e quem fez a alteração. As páginas restritas não '
-        'aparecem.', '',
-        '| Página | Alterada em | Pedido | Issues | Proposta de | Executada por |',
+        'alteração, os pedidos (issues) que ela resolveu, a edição (pull request) '
+        'que a fez, quem propôs os pedidos e quem executou a edição. As páginas '
+        'restritas não aparecem.', '',
+        '| Página | Alterada em | Pedidos | Edição | Proposta de | Executada por |',
         '| --- | --- | --- | --- | --- | --- |']
     for data, rel, pedido, issues, autor in ultimas():
         ligacao = urllib.parse.quote(rel.as_posix())
@@ -145,7 +145,7 @@ def main():
         login = autor_github('pulls', pedido) if pedido else ''
         alterado = utilizador(login) if login else autor
         linhas.append(f'| [{titulo(DOCS / rel)}]({ligacao}) '
-                      f'| {data} | {pr} | {iss} | {", ".join(propostas)} '
+                      f'| {data} | {iss} | {pr} | {", ".join(propostas)} '
                       f'| {alterado} |')
     SAIDA.write_text('\n'.join(linhas) + '\n', encoding='utf-8')
     print(f'{SAIDA.relative_to(RAIZ)} escrito.')
