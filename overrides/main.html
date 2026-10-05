@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+
+{# Estatísticas de visitas com o GoatCounter: sem cookies, não precisa de aviso de consentimento. #}
+{% block analytics %}
+  {{ super() }}
+  <script data-goatcounter="https://wikinacios.goatcounter.com/count"
+          async src="//gc.zgo.at/count.js"></script>
+{% endblock %}
