@@ -585,3 +585,12 @@
   width: 100%;
   text-align: center;
 }
+
+/* Prefácio do Cantinácio: a citação ao centro e a assinatura à direita */
+.md-typeset .wk-epigrafe {
+  text-align: center;
+}
+
+.md-typeset .wk-assinatura {
+  text-align: right;
+}
