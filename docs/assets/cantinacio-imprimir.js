@@ -1296,7 +1296,7 @@
         "</fieldset>" +
         '<fieldset><legend class="wk-cv__escondido">Versões e Aplausos</legend>' +
         caixa("originais", "1", "Mostrar versões originais") +
-        caixa("simplificadas", "1", "Mostrar versões simplificadas") +
+        caixa("simplificadas", "1", "Mostrar versões simplificadas (Cantinácio 2019)") +
         caixa("aplausos", "1", "Incluir Aplausos") +
         "</fieldset>" +
         '<button type="submit" class="md-button md-button--primary wk-cv__gerar">Gerar o meu Cantinácio Virtual!</button>' +
