@@ -9,7 +9,7 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Chico Carneiro](../../Pessoas/C/Chico%20Carneiro.md)
 - [Tia](../../Cargos/Tio.md) - Margarida Farelo, Maria Coimbra
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - Joana Silva, Alexandre Alípio, Carminho Simões de Almeida e [Margarida Faria](../../Pessoas/M/Margarida%20Faria.md)
-- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Miranda](../../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md) sj
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Miranda](../../Pessoas/C/Carlos%20Miranda.md) sj
 
 ## Participantes que se tornaram animadores
 
