@@ -359,7 +359,7 @@ Mas é tudo o que temos (2x)
 Agora é hora
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Sol     Sim
@@ -405,7 +405,7 @@ Mil passagens, mil portas de marfim
 Só p’ra ti
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Ré        Mi
@@ -697,7 +697,7 @@ Sabendo que vou fazer-te feliz
 Amar, eu quero aprender a amar (…)
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Sol            Ré/Fá#
@@ -852,7 +852,7 @@ Não penses que eu sei ser sem ti
 Pois sou apenas um aprendiz de Viajante
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Lá7 Mi
@@ -1187,7 +1187,7 @@ Vou levando o Teu amor
      E no fim o amor
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Sol                      Mim
@@ -1530,7 +1530,7 @@ Vinde todos e comei
 Comei e jamais tereis fome
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Sol      Dó   Lám       Ré
@@ -1618,7 +1618,7 @@ Vem Senhor Jesus, ó vem depressa!
 Vem Senhor Jesus, ó vem depressa!
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
       Sol
@@ -1674,7 +1674,7 @@ Fruto dareis em abundância
 Meu amor manifestar-se-á
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Jo 15, 9-17                           Kairoi
@@ -1765,7 +1765,7 @@ Da palavra, vinho e pão
 Somos o povo de Deus em comunhão
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Dó                 Fá        Dó
@@ -1966,7 +1966,7 @@ Senhor só quero ajudar
       Senhor eu quero assim Te amar
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Dó                    Sol
@@ -2255,7 +2255,7 @@ Enche-me Espirito
 Enche-me Espirito de Deus (2x)
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Ré              Sim
@@ -2402,7 +2402,7 @@ Que Tu virás
 Jesus Cristo, Senhor
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Sim        Fá#     Sol          Lá  Sol
@@ -2950,7 +2950,7 @@ O que te darei se até a força de dar vem de ti
 Falarei de Ti a todos (...)
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Lá7M                                  Sim
@@ -3641,7 +3641,7 @@ Glória ao Espírito Santo, Senhor que dá a vida
 Amor do Pai e do Filho que ao amor convida
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Dó             Sol     Lám            Mim
@@ -4004,7 +4004,7 @@ A-a-a-a-aleluia
 A-a-a-a-aleluia
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Lá
@@ -4051,7 +4051,7 @@ Kyrie, Kyrie Eleison
 Aleluia
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Ré            Sim
@@ -4149,7 +4149,7 @@ Laudate Dominum
   Dó        Sol      Lám Fá  Rém Mi
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Lám     Mi
@@ -4287,7 +4287,7 @@ Para até ti chegar
 Luz terna e suave (…)
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Lá
@@ -4372,7 +4372,7 @@ Ré7        Sol            Lá7 Ré
 Magnificat anima mea
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Sol    Dó   Ré     Sol
@@ -4688,7 +4688,7 @@ Tudo aquilo que Eu
 Tudo o que Eu vos disser
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Lá                     Mi
@@ -5003,7 +5003,7 @@ P´la ternura, pelo vento que murmura
 Obrigado…
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Dó    Rém7     Sol
@@ -5315,7 +5315,7 @@ Agora eu sei, que Tu comigo vens também
 Aonde fores, aí estarei, sem medo avançarei
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Dó Dó7
@@ -5412,7 +5412,7 @@ amor
 E sei que és o meu melhor amigo(…)
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Dó
@@ -5760,7 +5760,7 @@ E eu lhe direi "tu és Meu povo",
 Me responderá "Tu o meu Deus"
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Dó*       Mim*       Lá#*
@@ -5826,7 +5826,7 @@ Sol   Lá    Sol   Lá    Ré
 E tua luz, faz-me ver a luz
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Ré           Sol    Lá  Sim
@@ -6020,7 +6020,7 @@ Tenho sido o teu apoio
 Fui o teu melhor amigo
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Dó        Mim        Lám
@@ -6101,7 +6101,7 @@ E querer O que Deus quer
 Queira eu o que Deus quer
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Dó                  Sol       Fá*
@@ -6423,7 +6423,7 @@ Quem foi o primeiro a amar
 e é dado (...)
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Mi
@@ -6721,7 +6721,7 @@ Hossana, Hossana, Hossana no Céu
 Hossana, Hossana, Hossana no Céu
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Dó                     Mim
@@ -6763,7 +6763,7 @@ Em nome do Senhor
 Hossana nas alturas
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Lám  Rém7    Sol Dó
@@ -7076,7 +7076,7 @@ E a Fé sem fim
       Na felicidade e na dor, na paz e no amor
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Dó                             Rém
@@ -7326,7 +7326,7 @@ Toma a nossa vida de pecado e dor
 Enche o nosso espírito de amor
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Dó           Sol    Lám
@@ -7573,7 +7573,7 @@ We are marching (marching)
 We are marching in the light of God (bis)
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
  Fá
@@ -7634,7 +7634,7 @@ Aleluia (2x)
 Aleluia
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Lá       Mi
@@ -8401,7 +8401,7 @@ Vive para sempre
 És Deus no meio de nós
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Lá     Dó#m   Ré      Lá
@@ -8608,7 +8608,7 @@ Sim9:  x2x030
 Ré7m:  xx0211
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Mim                            Ré     Dó
