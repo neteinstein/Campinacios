@@ -7,7 +7,7 @@
 - [Director](../../Cargos/Director.md) - [Francisco Seabra](../../Pessoas/F/Francisco%20Seabra.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Maria Silva](../../Pessoas/M/Maria%20Silva.md) (Malú)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Kiko Carmo](../../Pessoas/K/Kiko%20Carmo.md)
-- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Miranda](../../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md) sj
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Miranda](../../Pessoas/C/Carlos%20Miranda.md) sj
 
 ---
 

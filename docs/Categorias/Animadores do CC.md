@@ -2,7 +2,7 @@
 
 Animadores do Colégio das Caldinhas
 
-## Páginas nesta categoria (169)
+## Páginas nesta categoria (171)
 
 - [Amílcar Sousa](../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
 - [Ana Carolina Bardi](../Pessoas/A/Ana%20Carolina%20Bardi.md)
@@ -24,6 +24,7 @@ Animadores do Colégio das Caldinhas
 - [Ana Veiga](../Pessoas/A/Ana%20Veiga.md)
 - [André Barreiras](../Pessoas/A/Andr%C3%A9%20Barreiras.md)
 - [André Gonçalves](../Pessoas/A/Andr%C3%A9%20Gon%C3%A7alves.md)
+- [André Vale](../Pessoas/A/Andr%C3%A9%20Vale.md)
 - [Andreia Gil](../Pessoas/A/Andreia%20Gil.md)
 - [Andreia Magalhães](../Pessoas/A/Andreia%20Magalh%C3%A3es.md)
 - [Andreia Mendes](../Pessoas/A/Andreia%20Mendes.md)
@@ -83,6 +84,7 @@ Animadores do Colégio das Caldinhas
 - [Joana Martins](../Pessoas/J/Joana%20Martins.md)
 - [Joana Reis](../Pessoas/J/Joana%20Reis.md)
 - [João Cortês Ferreira](../Pessoas/J/Jo%C3%A3o%20Cort%C3%AAs%20Ferreira.md)
+- [João Ilhão](../Pessoas/J/Jo%C3%A3o%20Ilh%C3%A3o.md)
 - [João Miguel Rodrigues](../Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md)
 - [João Monteiro](../Pessoas/J/Jo%C3%A3o%20Monteiro.md)
 - [João Nuno Fonseca](../Pessoas/J/Jo%C3%A3o%20Nuno%20Fonseca.md)

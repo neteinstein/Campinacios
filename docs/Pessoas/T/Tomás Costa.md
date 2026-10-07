@@ -8,6 +8,10 @@
     - 2023 [CRUZZ](../../Acampamentos/2023/CRUZZ.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2024 [Mestrarte](../../Acampamentos/2024/Mestrarte.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
 
+### Encontros
+
+- 2023 [Rockstock 2023](../../Encontros/Rockstock%202023.md) - Director-Adjunto
+
 ---
 
 | Categorias |

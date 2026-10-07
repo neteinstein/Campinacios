@@ -7,6 +7,7 @@
 - [Director](../../Cargos/Director.md) - [Manas Vasconcelos](../../Pessoas/M/Manas%20Vasconcelos.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Concha Sampaio Soares](../../Pessoas/C/Concha%20Sampaio%20Soares.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Chico Carneiro](../../Pessoas/C/Chico%20Carneiro.md)
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - [André Vale](../../Pessoas/A/Andr%C3%A9%20Vale.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Filipe Lima](../../Pessoas/F/Filipe%20Lima.md) sj
 - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Nuno Ferreira](../../Pessoas/N/Nuno%20Ferreira.md) (Broski)
 
