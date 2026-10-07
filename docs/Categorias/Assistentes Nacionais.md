@@ -5,8 +5,8 @@ Assistentes Nacionais do Movimento
 ### Assistentes Nacionais
 
 - 2025/2026 a 2026/2027 [Vasco Lucas Pires](../Pessoas/V/Vasco%20Lucas%20Pires.md) sj
-- 2024/2025 [Carlos Miranda](../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md) sj
-- 2023/2024 [Carlos Miranda](../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md) sj
+- 2024/2025 [Carlos Miranda](../Pessoas/C/Carlos%20Miranda.md) sj
+- 2023/2024 [Carlos Miranda](../Pessoas/C/Carlos%20Miranda.md) sj
 - 2022/2023 [António Pamplona](../Pessoas/A/Ant%C3%B3nio%20Pamplona.md) sj
 - 2021/2022 [Luís Onofre](../Pessoas/L/Lu%C3%ADs%20Onofre.md) sj
 - 2020/2021 [Luís Onofre](../Pessoas/L/Lu%C3%ADs%20Onofre.md) sj
@@ -41,8 +41,8 @@ Assistentes Nacionais do Movimento
 - [António Pamplona](../Pessoas/A/Ant%C3%B3nio%20Pamplona.md)
 - [António Sant'Ana](../Pessoas/A/Ant%C3%B3nio%20Sant%27Ana.md)
 - [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md)
+- [Carlos Miranda](../Pessoas/C/Carlos%20Miranda.md)
 - [Domingos Freitas](../Pessoas/D/Domingos%20Freitas.md)
-- [José Carlos Miranda](../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md)
 - [José Manuel Lopes](../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md)
 - [José da Silva Almeida](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
 - [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)

@@ -10,6 +10,10 @@
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md) sj
 - Animador - [Nuno Ferreira](../../Pessoas/N/Nuno%20Ferreira.md) (Broski)
 
+## Participantes que se tornaram animadores
+
+- [André Vale](../../Pessoas/A/Andr%C3%A9%20Vale.md)
+
 ---
 
 | Categorias |

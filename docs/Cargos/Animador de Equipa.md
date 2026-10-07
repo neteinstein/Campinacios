@@ -61,6 +61,7 @@
 - [Ana Veiga](../Pessoas/A/Ana%20Veiga.md)
 - [André Barreiras](../Pessoas/A/Andr%C3%A9%20Barreiras.md)
 - [André Gonçalves](../Pessoas/A/Andr%C3%A9%20Gon%C3%A7alves.md)
+- [André Vale](../Pessoas/A/Andr%C3%A9%20Vale.md)
 - [Andreia](../Pessoas/A/Andreia.md)
 - [Andreia Gil](../Pessoas/A/Andreia%20Gil.md)
 - [Andreia Magalhães](../Pessoas/A/Andreia%20Magalh%C3%A3es.md)

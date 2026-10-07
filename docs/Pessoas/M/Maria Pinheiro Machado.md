@@ -9,6 +9,10 @@ Maria Pinheiro Machado é animadora do [CC](../../Categorias/Animadores%20do%20C
 - **Formação:**
     - 2019 [SPC](../../Acampamentos/2019/SPC.md)
 
+### Encontros
+
+- 2023 [Rockstock 2023](../../Encontros/Rockstock%202023.md) - Mamã
+
 ---
 
 | Categorias |
