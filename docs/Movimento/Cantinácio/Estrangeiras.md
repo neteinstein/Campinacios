@@ -616,7 +616,7 @@ Risking it all, though it’s hard
 [REFRÃO]
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Lám       Fá*                       Dó
@@ -1158,7 +1158,7 @@ Like I love you, I love you
       At the right time, you’d be mine
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Ré      Ré*
@@ -1715,7 +1715,7 @@ J’aime la brousse
 Et la jolie savane
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Lám
@@ -2534,7 +2534,7 @@ You can sing most anything
            Doe, a deer, a female deer (…)
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Sol
@@ -2732,7 +2732,7 @@ Llena mi al - ma
 Llena mi ser (2x)
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
            Rém
@@ -3079,7 +3079,7 @@ And I.........
 [REFRÃO]
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
          Dó                 Mim         Lám7  Sol*
@@ -3158,7 +3158,7 @@ In other words
 In other words I love you!
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Mim           Lám7         Ré7             Sol
@@ -3229,7 +3229,7 @@ Oh I’m gonna leave this world for a while
 [REFRÃO]
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
        Ré    Ré*        Ré   Lá
@@ -3451,7 +3451,7 @@ hallelujah
 [REFRÃO]
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
       Sol               Mim
@@ -5891,7 +5891,7 @@ Is it a flame: no
 Is it a twister: yeah
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 C'mon everybody, clap your hands
@@ -6164,7 +6164,7 @@ One more look and I forget everything,
 [REFRÃO]
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Ré                                          Sol
@@ -7424,7 +7424,7 @@ Until you’re in my arms again
 Re-mem-ber me
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
     Dó
@@ -8513,7 +8513,7 @@ Stand by me
       Stand by me, stand by me
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
           Lá
@@ -8847,7 +8847,7 @@ Sib               Mib                         Fá
     Standing on your nanna's porch - you told me it'd last forever (…)
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Dó
@@ -9907,7 +9907,7 @@ Savent très bien ce qu’aimer veut-il dire.
       Brillera le soleil.
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Dó                      Lám
@@ -10117,7 +10117,7 @@ ine. (let me know you’re mine)
 aby, now. (shake it up baby) (3x)
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
                   Dó         Fá         Sol
@@ -11429,7 +11429,7 @@ But I don’t know how
      Because maybe… (3x)
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
  Mim*     Sol
@@ -11631,7 +11631,7 @@ Now I need a place to hide away
 Oh I believe in yesterday
 ```
 
-*Outra versão:*
+*Versão simplificada Cantinácio 2019:*
 
 ```text
 Dó         Sim

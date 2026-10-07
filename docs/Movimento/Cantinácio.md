@@ -15,7 +15,7 @@ Reúne músicas e canções dos Campinácios e não só.
 <a class="md-button md-button--primary" href="https://www.camtil.pt/camtilena" target="_blank" rel="noopener">Camtilena Virtual</a>
 </div>
 
-O botão **Cantinácio Virtual** gera todas as letras e acordes do Wikinácios, aumentando em largas centenas a edição física de 2019. Mantém-se a paginação à maneira do Cantinácio de 2019, com índice e números de página, prontos a imprimir ou a guardar em PDF. Antes do Manual de Instruções vai a secção **Música Viva**, com um QR Code para o vídeo de cada música que o tenha.
+O botão **Cantinácio Virtual** gera um PDF, pronto a descarregar e a imprimir, com todas as letras e acordes do Wikinácios, aumentando em largas centenas a edição física de 2019. Antes de o gerar, escolhem-se as secções de músicas que deve ter, se vão os Aplausos e, nas músicas com duas versões, se vai a original, a versão simplificada do Cantinácio de 2019 ou as duas. Mantém-se a paginação à maneira do Cantinácio de 2019, com índice e números de página. Antes do Manual de Instruções vai a secção **Música Viva**, com um QR Code para o vídeo de cada música que o tenha.
 
 O botão **Cantinácio Original** abre o PDF do Cantinácio de 2019 (3.ª edição), tal como foi feito para imprimir, com as ilustrações e o índice originais.
 
@@ -23,7 +23,7 @@ O botão **Camtilena Virtual** permite o download da versão pública da 10.ª E
 
 ## Letras e acordes
 
-As músicas do Cantinácio de 2019 (3.ª edição) foram juntadas às que já estavam no Wikinácios. Quando uma música já existia e a versão de 2019 é diferente, as duas aparecem, uma a seguir à outra.
+As músicas do Cantinácio de 2019 (3.ª edição) foram juntadas às que já estavam no Wikinácios. Quando uma música já existia e a versão de 2019 é diferente, as duas aparecem, uma a seguir à outra: primeiro a original e depois a «Versão simplificada Cantinácio 2019».
 
 - [Campinácios](Cantin%C3%A1cio/Campin%C3%A1cios.md) — 75 músicas nascidas ou cantadas nos acampamentos
 - [Camtil](Cantin%C3%A1cio/Camtil.md) — 70 músicas nascidas nos acampamentos
