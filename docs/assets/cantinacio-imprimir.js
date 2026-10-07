@@ -1219,7 +1219,7 @@
 
   // Monta o Cantinácio numa moldura escondida e transforma-o num PDF que se
   // descarrega. «opcoes»: { seccoes: [páginas escolhidas], originais,
-  // simplificadas, aplausos }.
+  // simplificadas, aplausos, manual, escalas }.
   function gerar(base, opcoes, estado) {
     var fontes = new URL("../assets/fontes/", base).href;
     var moldura = document.createElement("iframe");
@@ -1250,6 +1250,8 @@
 
     var seccoes = SECCOES.filter(function (s) {
       if (s.pagina === "Aplausos") return opcoes.aplausos;
+      if (s.pagina === "Manual de Instruções") return opcoes.manual;
+      if (s.pagina === "Escalas") return opcoes.escalas;
       return ESCOLHAS.indexOf(s.pagina) < 0 || opcoes.seccoes.indexOf(s.pagina) >= 0;
     });
 
@@ -1298,6 +1300,8 @@
         caixa("originais", "1", "Mostrar versões originais") +
         caixa("simplificadas", "1", "Mostrar versões simplificadas (Cantinácio 2019)") +
         caixa("aplausos", "1", "Incluir Aplausos") +
+        caixa("manual", "1", "Incluir Manual de Instruções") +
+        caixa("escalas", "1", "Incluir Escalas") +
         "</fieldset>" +
         '<button type="submit" class="md-button md-button--primary wk-cv__gerar">Gerar o meu Cantinácio Virtual!</button>' +
         '<p class="wk-cv__estado" role="status" aria-live="polite"></p>' +
@@ -1340,7 +1344,9 @@
           seccoes: escolhidas(),
           originais: form.originais.checked,
           simplificadas: form.simplificadas.checked,
-          aplausos: form.aplausos.checked
+          aplausos: form.aplausos.checked,
+          manual: form.manual.checked,
+          escalas: form.escalas.checked
         };
         var campos = form.querySelectorAll("input, .wk-cv__gerar");
         campos.forEach(function (c) { c.disabled = true; });
