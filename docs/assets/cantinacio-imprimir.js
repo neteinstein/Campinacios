@@ -3,7 +3,7 @@
 // vão as versões originais, as simplificadas do Cantinácio de 2019 ou ambas) e
 // gera um PDF para descarregar com as letras e os acordes, paginado em A4 a
 // duas colunas à maneira do Cantinácio de 2019 (3.ª edição) — capa, ficha
-// técnica, índice com números de página, capas das secções. As páginas são
+// técnica, prefácio, índice com números de página, capas das secções. As páginas são
 // montadas numa moldura escondida e desenhadas no PDF com o jsPDF, com texto
 // (não imagens) para o ficheiro ficar pequeno e se poder pesquisar. As
 // músicas são lidas das próprias páginas do site, por isso o PDF está sempre
@@ -22,6 +22,7 @@
 
   // Pela ordem do Cantinácio de 2019, excepto as Portuguesas e as Estrangeiras, que vão depois dos Cânticos, e os Aplausos, que ficam no fim; o título é o da secção nessa edição.
   var SECCOES = [
+    { pagina: "Prefácio", titulo: "Prefácio", texto: true, preambulo: true },  // preambulo: vai antes do índice, como em 2019, e não entra nele
     { pagina: "Campinácios", titulo: "Hits de Campo", capa: "p089.jpg" },
     { pagina: "Camtil", titulo: "Camtil" },
     { pagina: "Gambozinos", titulo: "Gambozinos" },
@@ -215,6 +216,8 @@
         // Tudo a partir do primeiro subtítulo: fica de fora a capa da secção
         // e o «Voltar ao Cantinácio».
         var inicio = filhos.findIndex(function (el) { return el.tagName === "H2"; });
+        // No preâmbulo, o subtítulo é o cabeçalho da página: não se repete.
+        if (seccao.preambulo && inicio >= 0) inicio++;
         seccao.elementos = [];
         for (var i = Math.max(inicio, 0); i < filhos.length; i++) {
           if (filhos[i].tagName === "HR") break;
@@ -571,9 +574,9 @@
           primeira.appendChild(livro.el("img")).src = ilustracoes + s.capa;
         }
         if (s.texto) {
-          var p = livro.pagina("textual", 1, s.capa ? null : s.titulo);
+          var p = livro.pagina("textual", 1, s.capa ? null : s.titulo, s.preambulo ? marcaIndice : null);
           primeira = primeira || p;
-          entradas.push({ seccao: s.titulo, pagina: primeira });
+          if (!s.preambulo) entradas.push({ seccao: s.titulo, pagina: primeira });
           // Cada subtítulo vai junto com o que vem a seguir.
           var elementos = [];
           s.elementos.forEach(function (el, i) {
@@ -795,7 +798,7 @@
     ".viva-texto { font-size: 9pt; line-height: 1.3; min-width: 0; overflow-wrap: anywhere; }",
     ".viva-pag { display: block; margin-top: .5mm; font-size: 8pt; }",
 
-    // Manual de Instruções e Escalas
+    // Prefácio, Manual de Instruções e Escalas
     ".textual .coluna > * { margin-top: 0; }",
     ".textual .coluna > .grupo-texto:first-child > h2 { margin-top: 0; }",
     ".textual h2 { margin: 3mm 0 2mm; font: 600 15pt Oswald, 'Arial Narrow', sans-serif; text-transform: uppercase; }",
@@ -804,7 +807,9 @@
     ".textual pre { margin: 0 0 2.2mm; font: 9.5pt 'Courier New', Courier, monospace; white-space: pre-wrap; }",
     ".textual img { display: block; max-width: 100%; max-height: 225mm; height: auto; margin: 0 auto 2mm; }",
     ".textual table { width: 100%; margin: 0 0 3mm; border-collapse: collapse; font-size: 9pt; }",
-    ".textual th, .textual td { padding: 1.2mm .8mm; border: .5pt solid #777; text-align: center; }"
+    ".textual th, .textual td { padding: 1.2mm .8mm; border: .5pt solid #777; text-align: center; }",
+    ".textual .wk-epigrafe { margin: 4mm 0 9mm; text-align: center; }",
+    ".textual .wk-assinatura { margin-top: 9mm; text-align: right; }"
   ].join("\n");
 
   // --- PDF -----------------------------------------------------------------
