@@ -16,4 +16,10 @@ Estes foram (alguns dos) contribuidores que desde 2009 ajudaram a Wikinácios a 
 - [Zé Guedes](../Pessoas/Z/Z%C3%A9%20Guedes.md): 1 contribuição
 - Desconhecidos: 6 contribuições
 
+Muito mais pessoas ajudaram e nem sempre se mantém o registo. Uma lista completamente justa é assim impossível. Esteja aqui o teu nome ou não, se ajudaste OBRIGADO!
+
+Se ajudaste e gostavas de ver o teu nome aqui é só dizer!
+
+A Wikinácios, tal como o movimento, só está viva por vossa causa!
+
 Ver também [Sobre este arquivo](Sobre%20este%20arquivo.md).
