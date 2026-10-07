@@ -28,7 +28,7 @@
     { pagina: "Cânticos", titulo: "Cânticos", capa: "p127.jpg" },
     { pagina: "Portuguesas", titulo: "Radar Tuga", capa: "p011.jpg" },
     { pagina: "Estrangeiras", titulo: "Da França, Espanha, tudo", capa: "p041.jpg" },
-    { titulo: "Música Viva", viva: true },  // QR Codes dos vídeos das músicas; vai antes do manual
+    { titulo: "Música Viva", viva: true },  // QR Codes dos vídeos (ou das gravações) das músicas; vai antes do manual
     { pagina: "Manual de Instruções", titulo: "Manual de Instruções", capa: "p175.jpg", texto: true },
     { pagina: "Escalas", titulo: "Escalas", texto: true },
     { pagina: "Aplausos", titulo: "Não há palmas nos Campinácios", capa: "p111.jpg", fluir: true }  // fluir: as músicas seguem-se sem começar página nova
@@ -199,6 +199,17 @@
     return m;
   }
 
+  // O endereço público (no SITE) da primeira gravação (<audio>) de um
+  // elemento, para o QR Code funcionar também fora do site onde se gerou.
+  function audioDe(el, url, base) {
+    var a = el.tagName === "AUDIO" ? el : el.querySelector("audio");
+    var src = a && (a.getAttribute("src") || (a.querySelector("source") || {}).src);
+    if (!src) return "";
+    var raiz = new URL("../", base).href;
+    var abs = new URL(src, url).href;
+    return abs.indexOf(raiz) === 0 ? SITE + "/" + abs.slice(raiz.length) : abs;
+  }
+
   function ler(seccao, base, opcoes) {
     if (seccao.viva) return Promise.resolve(seccao);
     var url = new URL("Cantin%C3%A1cio/" + encodeURIComponent(seccao.pagina) + ".html", base).href;
@@ -241,9 +252,10 @@
         }
         if (!actual) return;
         if (!actual.video) actual.video = videoDe(el);
+        if (!actual.audio) actual.audio = audioDe(el, url, base);
         // «Há um vídeo … no YouTube» (ou no Google Drive…) não se imprime: o vídeo fica na «Música Viva», com o QR Code.
         if (el.tagName === "P" && videoDe(el)) return;
-        // As gravações (<audio>) só se ouvem no site: não se imprimem.
+        // As gravações (<audio>) não se imprimem: se a música não tiver vídeo, ficam na «Música Viva», com o QR Code.
         if (el.tagName === "AUDIO" || el.querySelector("audio")) return;
         var soItalico = el.tagName === "P" && el.children.length === 1 &&
           el.children[0].tagName === "EM" && el.textContent.trim() === el.children[0].textContent.trim();
@@ -534,7 +546,9 @@
     seccoes.forEach(function (s) {
       (s.musicas || []).forEach(function (m) {
         m.numero = ++contador;
-        if (m.video) comVideo.push(m);
+        // O vídeo, ou a gravação quando não há vídeo.
+        m.ligacao = m.video || m.audio;
+        if (m.ligacao) comVideo.push(m);
       });
     });
     var paginaDe = {};  // número da música -> página
@@ -550,13 +564,13 @@
           var pv = livro.pagina("musica-viva", 2, s.titulo);
           entradas.push({ seccao: s.titulo, pagina: pv });
           var intro = livro.el("p", "viva-intro",
-            "Aponte a câmara do telemóvel para o código para ver o vídeo da música.");
+            "Aponte a câmara do telemóvel para o código para ver o vídeo ou ouvir a gravação da música.");
           livro.colunas[0].appendChild(intro);
           comVideo.forEach(function (m) {
             var c = livro.el("div", "viva-cartao");
             var q = c.appendChild(livro.el("div", "qr"));
-            q.innerHTML = window.WkQR.svg(m.video);
-            q.dataset.url = m.video;  // no PDF, o código é também uma ligação para o vídeo
+            q.innerHTML = window.WkQR.svg(m.ligacao);
+            q.dataset.url = m.ligacao;  // no PDF, o código é também uma ligação para o vídeo ou a gravação
             var t = c.appendChild(livro.el("div", "viva-texto"));
             t.appendChild(livro.el("strong", "", m.numero + ". " + m.titulo));
             var pg = t.appendChild(livro.el("span", "viva-pag", "página 000"));
@@ -1214,7 +1228,7 @@
 
   // Monta o Cantinácio numa moldura escondida e transforma-o num PDF que se
   // descarrega. «opcoes»: { seccoes: [páginas escolhidas], originais,
-  // simplificadas, aplausos }.
+  // simplificadas, aplausos, viva, manual, escalas }.
   function gerar(base, opcoes, estado) {
     var fontes = new URL("../assets/fontes/", base).href;
     var moldura = document.createElement("iframe");
@@ -1245,6 +1259,9 @@
 
     var seccoes = SECCOES.filter(function (s) {
       if (s.pagina === "Aplausos") return opcoes.aplausos;
+      if (s.viva) return opcoes.viva;
+      if (s.pagina === "Manual de Instruções") return opcoes.manual;
+      if (s.pagina === "Escalas") return opcoes.escalas;
       return ESCOLHAS.indexOf(s.pagina) < 0 || opcoes.seccoes.indexOf(s.pagina) >= 0;
     });
 
@@ -1289,10 +1306,15 @@
         "<fieldset><legend>Deve ter músicas de:</legend>" +
         ESCOLHAS.map(function (s) { return caixa("seccao", s, s); }).join("") +
         "</fieldset>" +
-        '<fieldset><legend class="wk-cv__escondido">Versões e Aplausos</legend>' +
+        '<fieldset><legend class="wk-cv__escondido">Versões</legend>' +
         caixa("originais", "1", "Mostrar versões originais") +
         caixa("simplificadas", "1", "Mostrar versões simplificadas") +
+        "</fieldset>" +
+        '<fieldset><legend class="wk-cv__escondido">Outras secções</legend>' +
         caixa("aplausos", "1", "Incluir Aplausos") +
+        caixa("viva", "1", "Música Viva (links para áudio ou vídeo)") +
+        caixa("manual", "1", "Manual de Instruções") +
+        caixa("escalas", "1", "Escalas") +
         "</fieldset>" +
         '<button type="submit" class="md-button md-button--primary wk-cv__gerar">Gerar o meu Cantinácio Virtual!</button>' +
         '<p class="wk-cv__estado" role="status" aria-live="polite"></p>' +
@@ -1335,7 +1357,10 @@
           seccoes: escolhidas(),
           originais: form.originais.checked,
           simplificadas: form.simplificadas.checked,
-          aplausos: form.aplausos.checked
+          aplausos: form.aplausos.checked,
+          viva: form.viva.checked,
+          manual: form.manual.checked,
+          escalas: form.escalas.checked
         };
         var campos = form.querySelectorAll("input, .wk-cv__gerar");
         campos.forEach(function (c) { c.disabled = true; });
