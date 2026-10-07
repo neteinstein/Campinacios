@@ -247,6 +247,7 @@
 - [Cantinácio: Estrangeiras](Movimento/Cantin%C3%A1cio/Estrangeiras.md)
 - [Cantinácio: Manual de Instruções](Movimento/Cantin%C3%A1cio/Manual%20de%20Instru%C3%A7%C3%B5es.md)
 - [Cantinácio: Portuguesas](Movimento/Cantin%C3%A1cio/Portuguesas.md)
+- [Cantinácio: Prefácio](Movimento/Cantin%C3%A1cio/Pref%C3%A1cio.md)
 - *Capelães* → [Capelão](Cargos/Capel%C3%A3o.md)
 - [Capelão](Cargos/Capel%C3%A3o.md)
 - [Capelinho](Cargos/Capelinho.md)

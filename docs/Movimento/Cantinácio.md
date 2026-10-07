@@ -8,6 +8,24 @@ Um novo Cantinácio foi lançado após anos e anos de tentativas: a 3.ª ediçã
 
 Reúne músicas e canções dos Campinácios e não só.
 
+## Prefácio
+
+*Now, I've heard there was a secret chord*<br>
+*That David played, and it pleased the Lord*<br>
+*But you don't really care for music, do you?*
+{ .wk-epigrafe }
+
+Na música *Hallelujah*, Leonard Cohen queixa-se do facto da sua amada não ligar nada à sua música. É uma pena, porque ele sabe muito bem que o próprio Deus ficava todo contente quando o Rei David (grande compositor de aleluias e salmos) tocava para Si o seu “acorde secreto.”
+
+Este Cantinácio pode não ter um acorde secreto, mas tem a banda sonora de imensos momentos memoráveis, mágicos, únicos: acordar, ginástica, BDSs, bênção das refeições, sornas, banhos, caminhadas, missas de campo, novelas, boa-noite... Nenhum destes momentos seria a mesma coisa sem aquela música, aquele cântico, aquele aplauso.
+
+Se *quem canta seus males espanta*; se *quem canta reza duas vezes*; então: canta! Canta a plenos pulmões, canta até que a voz te doa. Podes correr o risco de ficar rouco, mas sabes que isso torna melhor o dia dos outros, gera alegria e bom ambiente. No fundo, sabes que isso faz com que Deus fique satisfeito.
+
+E tu também, porque *you really care for music, don’t you?*
+
+[Luís Onofre](../Pessoas/L/Lu%C3%ADs%20Onofre.md), sj
+{ .wk-assinatura }
+
 <div class="wk-botoes" markdown="0">
 <button type="button" class="md-button md-button--primary wk-cantinacio-imprimir">Cantinácio Virtual</button>
 <a class="md-button md-button--primary" href="../assets/documentos/Cantin%C3%A1cio%202019.pdf" target="_blank" rel="noopener">Cantinácio Original</a>
@@ -15,7 +33,7 @@ Reúne músicas e canções dos Campinácios e não só.
 <a class="md-button md-button--primary" href="https://www.camtil.pt/camtilena" target="_blank" rel="noopener">Camtilena Virtual</a>
 </div>
 
-O botão **Cantinácio Virtual** gera um PDF, pronto a descarregar e a imprimir, com todas as letras e acordes do Wikinácios, aumentando em largas centenas a edição física de 2019. Antes de o gerar, escolhem-se as secções de músicas que deve ter, se vão os Aplausos e, nas músicas com duas versões, se vai a original, a versão simplificada do Cantinácio de 2019 ou as duas. Mantém-se a paginação à maneira do Cantinácio de 2019, com índice e números de página. Antes do Manual de Instruções vai a secção **Música Viva**, com um QR Code para o vídeo de cada música que o tenha.
+O botão **Cantinácio Virtual** gera um PDF, pronto a descarregar e a imprimir, com todas as letras e acordes do Wikinácios, aumentando em largas centenas a edição física de 2019. Antes de o gerar, escolhem-se as secções de músicas que deve ter, se vão os Aplausos e, nas músicas com duas versões, se vai a original, a versão simplificada do Cantinácio de 2019 ou as duas. Mantém-se a paginação à maneira do Cantinácio de 2019, com o Prefácio, índice e números de página. Antes do Manual de Instruções vai a secção **Música Viva**, com um QR Code para o vídeo de cada música que o tenha.
 
 O botão **Cantinácio Original** abre o PDF do Cantinácio de 2019 (3.ª edição), tal como foi feito para imprimir, com as ilustrações e o índice originais.
 
