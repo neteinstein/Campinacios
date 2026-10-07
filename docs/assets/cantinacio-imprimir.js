@@ -512,10 +512,10 @@
       '<h2 class="edicao">Cantinácio Virtual</h2>' +
       '<p class="versao"></p>' +
       '<dl class="creditos">' +
-      "<dt>Pesquisa e edição</dt><dd>Sara Moinhos</dd>" +
+      "<dt>Pesquisa e edição</dt><dd>Sara Moinhos (2019) &amp; Pedro Vicente (virtual)</dd>" +
       "<dt>Ilustrações</dt><dd>Francisco Rodrigues (Pica)</dd>" +
       "<dt>Ilustrações adicionais</dt><dd>Geradas por IA, ao estilo do Pica</dd>" +
-      "<dt>Coordenação e assistência</dt><dd>Francisca Pimentel</dd>" +
+      "<dt>Coordenação e assistência</dt><dd>Francisca Pimentel (2019)</dd>" +
       "</dl>" +
       '<p class="agradecimento">Um agradecimento muito especial a todos os que colaboraram neste projecto.<br>' +
       "Conseguimos o que parecia impossível. UMA SALVA DE PALMAS! Clap.</p>" +
