@@ -512,10 +512,10 @@
       '<h2 class="edicao">Cantinácio Virtual</h2>' +
       '<p class="versao"></p>' +
       '<dl class="creditos">' +
-      "<dt>Pesquisa e edição</dt><dd>Sara Moinhos</dd>" +
+      "<dt>Pesquisa e edição</dt><dd>Sara Moinhos (2019) &amp; Pedro Vicente (virtual)</dd>" +
       "<dt>Ilustrações</dt><dd>Francisco Rodrigues (Pica)</dd>" +
       "<dt>Ilustrações adicionais</dt><dd>Geradas por IA, ao estilo do Pica</dd>" +
-      "<dt>Coordenação e assistência</dt><dd>Francisca Pimentel</dd>" +
+      "<dt>Coordenação e assistência</dt><dd>Francisca Pimentel (2019)</dd>" +
       "</dl>" +
       '<p class="agradecimento">Um agradecimento muito especial a todos os que colaboraram neste projecto.<br>' +
       "Conseguimos o que parecia impossível. UMA SALVA DE PALMAS! Clap.</p>" +
@@ -1219,7 +1219,7 @@
 
   // Monta o Cantinácio numa moldura escondida e transforma-o num PDF que se
   // descarrega. «opcoes»: { seccoes: [páginas escolhidas], originais,
-  // simplificadas, aplausos }.
+  // simplificadas, aplausos, manual, escalas }.
   function gerar(base, opcoes, estado) {
     var fontes = new URL("../assets/fontes/", base).href;
     var moldura = document.createElement("iframe");
@@ -1250,6 +1250,8 @@
 
     var seccoes = SECCOES.filter(function (s) {
       if (s.pagina === "Aplausos") return opcoes.aplausos;
+      if (s.pagina === "Manual de Instruções") return opcoes.manual;
+      if (s.pagina === "Escalas") return opcoes.escalas;
       return ESCOLHAS.indexOf(s.pagina) < 0 || opcoes.seccoes.indexOf(s.pagina) >= 0;
     });
 
@@ -1296,8 +1298,10 @@
         "</fieldset>" +
         '<fieldset><legend class="wk-cv__escondido">Versões e Aplausos</legend>' +
         caixa("originais", "1", "Mostrar versões originais") +
-        caixa("simplificadas", "1", "Mostrar versões simplificadas") +
+        caixa("simplificadas", "1", "Mostrar versões simplificadas (Cantinácio 2019)") +
         caixa("aplausos", "1", "Incluir Aplausos") +
+        caixa("manual", "1", "Incluir Manual de Instruções") +
+        caixa("escalas", "1", "Incluir Escalas") +
         "</fieldset>" +
         '<button type="submit" class="md-button md-button--primary wk-cv__gerar">Gerar o meu Cantinácio Virtual!</button>' +
         '<p class="wk-cv__estado" role="status" aria-live="polite"></p>' +
@@ -1340,7 +1344,9 @@
           seccoes: escolhidas(),
           originais: form.originais.checked,
           simplificadas: form.simplificadas.checked,
-          aplausos: form.aplausos.checked
+          aplausos: form.aplausos.checked,
+          manual: form.manual.checked,
+          escalas: form.escalas.checked
         };
         var campos = form.querySelectorAll("input, .wk-cv__gerar");
         campos.forEach(function (c) { c.disabled = true; });

@@ -4,7 +4,7 @@
 
 *Capa do Cantinácio 2019 (3.ª edição), com ilustração de [Francisco Rodrigues (Pica)](../Pessoas/F/Francisco%20Silva%20Rodrigues.md).*
 
-Um novo Cantinácio foi lançado após anos e anos de tentativas: a 3.ª edição, de 2019, com pesquisa e edição de [Sara Moinhos](../Pessoas/S/Sara%20Moinhos.md), ilustrações de [Francisco Rodrigues (Pica)](../Pessoas/F/Francisco%20Silva%20Rodrigues.md) e coordenação e assistência de [Francisca Pimentel](../Pessoas/F/Francisca%20Pimentel.md).
+Um novo Cantinácio foi lançado após anos e anos de tentativas: a 3.ª edição, de 2019, com pesquisa e edição de [Sara Moinhos](../Pessoas/S/Sara%20Moinhos.md) (2019) e Pedro Vicente (virtual), ilustrações de [Francisco Rodrigues (Pica)](../Pessoas/F/Francisco%20Silva%20Rodrigues.md) e coordenação e assistência de [Francisca Pimentel](../Pessoas/F/Francisca%20Pimentel.md) (2019).
 
 Reúne músicas e canções dos Campinácios e não só.
 
@@ -35,11 +35,11 @@ E tu também, porque *you really care for music, don’t you?*
 
 !!! info "Como funcionam os botões"
 
-    O botão **Cantinácio Virtual** gera um PDF, pronto a descarregar e a imprimir, com todas as letras e acordes do Wikinácios, aumentando em largas centenas a edição física de 2019. Antes de o gerar, escolhem-se as secções de músicas que deve ter, se vão os Aplausos e, nas músicas com duas versões, se vai a original, a versão simplificada do Cantinácio de 2019 ou as duas. Mantém-se a paginação à maneira do Cantinácio de 2019, com o Prefácio, índice e números de página. Antes do Manual de Instruções vai a secção **Música Viva**, com um QR Code para o vídeo de cada música que o tenha.
+    O botão **Cantinácio Virtual** gera um PDF, pronto a descarregar e a imprimir, com todas as letras e acordes do Wikinácios, aumentando em largas centenas a edição física de 2019. Antes de o gerar, escolhem-se as secções de músicas que deve ter, se vão os Aplausos, o Manual de Instruções e as Escalas e, nas músicas com duas versões, se vai a original, a versão simplificada do Cantinácio de 2019 ou as duas. Mantém-se a paginação à maneira do Cantinácio de 2019, com o Prefácio, índice e números de página. Antes do Manual de Instruções vai a secção **Música Viva**, com um QR Code para o vídeo de cada música que o tenha.
 
     O botão **Cantinácio Original** abre o PDF do Cantinácio de 2019 (3.ª edição), tal como foi feito para imprimir, com as ilustrações e o índice originais.
 
-    O botão **Camtilena Virtual** permite o download da versão pública da 10.ª Edição da Camtilena no site do [Camtil](Camtil.md).
+    O botão **Camtilena Virtual** permite o download da versão pública da 10.ª Edição da Camtilena no site do [Camtil](Camtil.md). O seu [Prefácio](Cantin%C3%A1cio/Camtilena%20Pref%C3%A1cio.md) é do Pe. [António Sant'Ana](../Pessoas/A/Ant%C3%B3nio%20Sant%27Ana.md), sj.
 
 ## Letras e acordes
 
