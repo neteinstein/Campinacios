@@ -520,3 +520,17 @@
   line-height: 1.6;
   vertical-align: middle;
 }
+
+/* Botões do Cantinácio lado a lado, dois a dois, com espaço entre as linhas. */
+.md-typeset .wk-botoes {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: .8rem;
+  max-width: 34rem;
+  margin: 1em 0;
+}
+.md-typeset .wk-botoes .md-button {
+  margin: 0;
+  width: 100%;
+  text-align: center;
+}
