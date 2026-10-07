@@ -14,6 +14,7 @@
 - [Carlos Carvalho](Carlos%20Carvalho.md)
 - [Carlos Lopes](Carlos%20Lopes.md)
 - [Carlos Miguel Albuquerque](Carlos%20Miguel%20Albuquerque.md)
+- [Carlos Miranda](Carlos%20Miranda.md)
 - [Carlos Nunes](Carlos%20Nunes.md)
 - [Carlos Pereira da Silva](Carlos%20Pereira%20da%20Silva.md)
 - [Carlos Rodrigues](Carlos%20Rodrigues.md)

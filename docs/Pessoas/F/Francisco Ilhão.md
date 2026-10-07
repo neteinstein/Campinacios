@@ -12,6 +12,10 @@
 - 2023 [Encontro Nacional 2023](../../Encontros/Encontro%20Nacional%202023.md) - Direcção de Bicicletas
 - 2026 [Encontro Nacional 2026](../../Encontros/Encontro%20Nacional%202026.md) - Director-Adjunto
 
+### Família
+
+É irmão do [João Ilhão](../J/Jo%C3%A3o%20Ilh%C3%A3o.md).
+
 ---
 
 | Categorias |
