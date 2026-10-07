@@ -37,7 +37,7 @@ O botão **Cantinácio Virtual** gera um PDF, pronto a descarregar e a imprimir,
 
 O botão **Cantinácio Original** abre o PDF do Cantinácio de 2019 (3.ª edição), tal como foi feito para imprimir, com as ilustrações e o índice originais.
 
-O botão **Camtilena Virtual** permite o download da versão pública da 10.ª Edição da Camtilena no site do [Camtil](Camtil.md).
+O botão **Camtilena Virtual** permite o download da versão pública da 10.ª Edição da Camtilena no site do [Camtil](Camtil.md). O seu [Prefácio](Cantin%C3%A1cio/Camtilena%20Pref%C3%A1cio.md) é do Pe. [António Sant'Ana](../Pessoas/A/Ant%C3%B3nio%20Sant%27Ana.md), sj.
 
 ## Letras e acordes
 
