@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1274 artigos e, em itálico, os 207 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1283 artigos e, em itálico, os 208 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -250,6 +250,7 @@
 - *Capelães* → [Capelão](Cargos/Capel%C3%A3o.md)
 - [Capelão](Cargos/Capel%C3%A3o.md)
 - [Capelinho](Cargos/Capelinho.md)
+- [Carlos Miranda](Pessoas/C/Carlos%20Miranda.md)
 - [Carlos Pereira da Silva](Pessoas/C/Carlos%20Pereira%20da%20Silva.md)
 - *Carmo Cunha e Carmo* → [Maria do Carmo Cunha e Carmo](Pessoas/M/Maria%20do%20Carmo%20Cunha%20e%20Carmo.md)
 - [Carmo Madeira](Pessoas/C/Carmo%20Madeira.md)
@@ -275,7 +276,6 @@
 - [Carlos Carvalho](Pessoas/C/Carlos%20Carvalho.md)
 - [Carlos Lopes](Pessoas/C/Carlos%20Lopes.md)
 - [Carlos Miguel Albuquerque](Pessoas/C/Carlos%20Miguel%20Albuquerque.md)
-- *Carlos Miranda* → [José Carlos Miranda](Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md)
 - [Carlos Nunes](Pessoas/C/Carlos%20Nunes.md)
 - [Carlos Rodrigues](Pessoas/C/Carlos%20Rodrigues.md)
 - [Carlos Ruiz](Pessoas/C/Carlos%20Ruiz.md)
@@ -683,6 +683,7 @@
 - *Janine* → [Janine Silva](Pessoas/J/Janine%20Silva.md)
 - [Janine Silva](Pessoas/J/Janine%20Silva.md)
 - [Joana Antunes](Pessoas/J/Joana%20Antunes.md)
+- [João Ilhão](Pessoas/J/Jo%C3%A3o%20Ilh%C3%A3o.md)
 - *Jocas* → [Joana Antunes](Pessoas/J/Joana%20Antunes.md)
 - *Johnny* → [João Afonso Sousa](Pessoas/J/Jo%C3%A3o%20Afonso%20Sousa.md)
 - [Já Dá](Acampamentos/2017/J%C3%A1%20D%C3%A1.md)
@@ -928,6 +929,7 @@
 - [Maior Evento de Sempre em Portugal, Maior Até que a Mega Feijoada da Ponte Vasco da Gama](Acampamentos/2023/Maior%20Evento%20de%20Sempre%20em%20Portugal%2C%20Maior%20At%C3%A9%20que%20a%20Mega%20Feijoada%20da%20Ponte%20Vasco%20da%20Gama.md)
 - *Malú* → [Maria Silva](Pessoas/M/Maria%20Silva.md)
 - [Manuel Cardoso](Pessoas/M/Manuel%20Cardoso.md)
+- *Manuel Vasconcelos* → [Manas Vasconcelos](Pessoas/M/Manas%20Vasconcelos.md)
 - [Manuel Vassalo](Pessoas/M/Manuel%20Vassalo.md)
 - [Marcelo Vieira](Pessoas/M/Marcelo%20Vieira.md)
 - [Marco António](Pessoas/M/Marco%20Ant%C3%B3nio.md)
@@ -1319,6 +1321,13 @@
 - [Rita Turras](Pessoas/R/Rita%20Turras.md)
 - [Rita Ventura](Pessoas/R/Rita%20Ventura.md)
 - *Ritinha Ângelo* → [Rita Ângelo](Pessoas/R/Rita%20%C3%82ngelo.md)
+- [Rockstock 2017](Encontros/Rockstock%202017.md)
+- [Rockstock 2018](Encontros/Rockstock%202018.md)
+- [Rockstock 2022](Encontros/Rockstock%202022.md)
+- [Rockstock 2023](Encontros/Rockstock%202023.md)
+- [Rockstock 2024](Encontros/Rockstock%202024.md)
+- [Rockstock 2025](Encontros/Rockstock%202025.md)
+- [Rockstock 2026](Encontros/Rockstock%202026.md)
 - [Roda](Movimento/Roda.md)
 - [Rodrigo Calçarão](Pessoas/R/Rodrigo%20Cal%C3%A7ar%C3%A3o.md)
 - [Rodrigo Queiroz e Melo](Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md)
@@ -1489,6 +1498,7 @@
 ## V
 
 - [Vaivém](Acampamentos/2018/Vaiv%C3%A9m.md)
+- *Vale* → [André Vale](Pessoas/A/Andr%C3%A9%20Vale.md)
 - [Valéria Magalhães](Pessoas/V/Val%C3%A9ria%20Magalh%C3%A3es.md)
 - [Vasco Lucas Pires](Pessoas/V/Vasco%20Lucas%20Pires.md)
 - [Vasco Meneses](Pessoas/V/Vasco%20Meneses.md)

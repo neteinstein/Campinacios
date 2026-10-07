@@ -38,6 +38,7 @@
 - [Joana Trigo da Roza](Joana%20Trigo%20da%20Roza.md)
 - [Joana Vala](Joana%20Vala.md)
 - [Joana Videira](Joana%20Videira.md)
+- [João Ilhão](Jo%C3%A3o%20Ilh%C3%A3o.md)
 - [Joaquim Abreu](Joaquim%20Abreu.md)
 - [Joca](Joca.md)
 - [Johnny Sousa](Johnny%20Sousa.md)
