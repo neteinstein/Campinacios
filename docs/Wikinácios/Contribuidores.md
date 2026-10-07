@@ -1,6 +1,6 @@
 # Contribuidores
 
-Estes foram os contribuidores que em 2009 ajudaram a criar a Wikinácios:
+Estes foram (alguns dos) contribuidores que desde 2009 ajudaram a Wikinácios a crescer:
 
 - [António Queiroz Martins](../Pessoas/A/Ant%C3%B3nio%20Queiroz%20Martins.md): 31 contribuições
 - [Filipe Barroso](../Pessoas/F/Filipe%20Barroso.md): 5 contribuições
