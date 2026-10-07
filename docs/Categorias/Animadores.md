@@ -9,7 +9,7 @@ Animadores dos Campinácios
 - [Animadores do CSJB](Animadores%20do%20CSJB.md)
 - [Jesuítas](Jesu%C3%ADtas.md)
 
-## Páginas nesta categoria (779)
+## Páginas nesta categoria (780)
 
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Afonso Barrocas](../Pessoas/A/Afonso%20Barrocas.md)
@@ -354,6 +354,7 @@ Animadores dos Campinácios
 - [Joana Trigo da Roza](../Pessoas/J/Joana%20Trigo%20da%20Roza.md)
 - [Joana Vala](../Pessoas/J/Joana%20Vala.md)
 - [Joana Videira](../Pessoas/J/Joana%20Videira.md)
+- [João Ilhão](../Pessoas/J/Jo%C3%A3o%20Ilh%C3%A3o.md)
 - [Joaquim Abreu](../Pessoas/J/Joaquim%20Abreu.md)
 - [Joca](../Pessoas/J/Joca.md)
 - [Johnny Sousa](../Pessoas/J/Johnny%20Sousa.md)

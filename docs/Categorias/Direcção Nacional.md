@@ -64,7 +64,7 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 
 | | |
 | --- | --- |
-| **Assistente Nacional** | [Carlos Miranda](../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md) sj |
+| **Assistente Nacional** | [Carlos Miranda](../Pessoas/C/Carlos%20Miranda.md) sj |
 | **Coordenador Nacional** | [Guilherme Balhau](../Pessoas/G/Guilherme%20Balhau.md) |
 | **Coordenadora Adjunta** | [Sofia Ângelo](../Pessoas/S/Sofia%20%C3%82ngelo.md) |
 | **DL-CC** | [Afonso Carvalho](../Pessoas/A/Afonso%20Carvalho.md) (Coordenador da DL) e [Domingos Perloiro](../Pessoas/D/Domingos%20Perloiro.md) sj |
@@ -79,7 +79,7 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 
 | | |
 | --- | --- |
-| **Assistente Nacional** | [Carlos Miranda](../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md) sj |
+| **Assistente Nacional** | [Carlos Miranda](../Pessoas/C/Carlos%20Miranda.md) sj |
 | **Coordenador Nacional** | [Jaime Lucas Pires](../Pessoas/J/Jaime%20Lucas%20Pires.md) |
 | **Coordenadora Adjunta** | [Maria Silva](../Pessoas/M/Maria%20Silva.md) (Malú) |
 | **DL-CC** | [Francisco Ilhão](../Pessoas/F/Francisco%20Ilh%C3%A3o.md) (Coordenador da DL) e [Domingos Perloiro](../Pessoas/D/Domingos%20Perloiro.md) sj |
@@ -167,7 +167,7 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 | **Assistente Nacional** | [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md) sj |
 | **Coordenadora Nacional** | [Helena Cunha e Carmo](../Pessoas/H/Helena%20Cunha%20e%20Carmo.md) |
 | **DL-CC** | [Joana Dias Coelho](../Pessoas/J/Joana%20Coelho.md) (Coordenadora da DL) e [Samuel Afonso](../Pessoas/S/Samuel%20Afonso.md) sj |
-| **DL-CAIC** | [André Trigo](../Pessoas/A/Andr%C3%A9%20Trigo.md) (Coordenador da DL) e [Carlos Miranda](../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md) sj |
+| **DL-CAIC** | [André Trigo](../Pessoas/A/Andr%C3%A9%20Trigo.md) (Coordenador da DL) e [Carlos Miranda](../Pessoas/C/Carlos%20Miranda.md) sj |
 | **DL-CSJB** | [Pedro Santos](../Pessoas/P/Pedro%20Santos.md) (Coordenador da DL) e [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md) sj |
 
 </div>
@@ -181,7 +181,7 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 | **Assistente Nacional** | [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md) sj |
 | **Coordenadora Nacional** | [Sílvia Lobo](../Pessoas/S/S%C3%ADlvia%20Lobo.md) |
 | **DL-CC** | [Sofia Pinelas](../Pessoas/A/Ana%20Sofia%20Pinelas.md) (Coordenadora da DL) e [Samuel Afonso](../Pessoas/S/Samuel%20Afonso.md) sj |
-| **DL-CAIC** | [Carlos Miranda](../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md) sj |
+| **DL-CAIC** | [Carlos Miranda](../Pessoas/C/Carlos%20Miranda.md) sj |
 | **DL-CSJB** | [Afonso Oom](../Pessoas/A/Afonso%20Oom.md) (Coordenador da DL) e [Ricardo Batista](../Pessoas/R/Ricardo%20Batista.md) sj |
 
 </div>
@@ -195,7 +195,7 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 | **Assistente Nacional** | [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md) sj |
 | **Coordenador Nacional** | [João Eiró](../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md) |
 | **DL-CC** | [Sofia Pinelas](../Pessoas/A/Ana%20Sofia%20Pinelas.md) (Coordenadora da DL) e [Nelson Faria](../Pessoas/N/Nelson%20Faria.md) sj |
-| **DL-CAIC** | [Joana Matos](../Pessoas/J/Joana%20Matos.md) (Coordenadora da DL) e [Carlos Miranda](../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md) sj |
+| **DL-CAIC** | [Joana Matos](../Pessoas/J/Joana%20Matos.md) (Coordenadora da DL) e [Carlos Miranda](../Pessoas/C/Carlos%20Miranda.md) sj |
 | **DL-CSJB** | [João Cativo](../Pessoas/J/Jo%C3%A3o%20Captivo.md) (Coordenador da DL) e [António Pamplona](../Pessoas/A/Ant%C3%B3nio%20Pamplona.md) sj |
 
 </div>
@@ -531,6 +531,7 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 - [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md)
 - [Carlos Lopes](../Pessoas/C/Carlos%20Lopes.md)
 - [Carlos Miguel Albuquerque](../Pessoas/C/Carlos%20Miguel%20Albuquerque.md)
+- [Carlos Miranda](../Pessoas/C/Carlos%20Miranda.md)
 - [Carlos Rodrigues](../Pessoas/C/Carlos%20Rodrigues.md)
 - [Carlos Ruiz](../Pessoas/C/Carlos%20Ruiz.md)
 - [Conceição Martinho](../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)
@@ -576,7 +577,6 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 - [Jorge Moreira](../Pessoas/J/Jorge%20Moreira.md)
 - [José Araújo](../Pessoas/J/Jos%C3%A9%20Ara%C3%BAjo.md)
 - [José Augusto Rosa](../Pessoas/J/Jos%C3%A9%20Augusto%20Rosa.md)
-- [José Carlos Miranda](../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md)
 - [José da Silva Almeida](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
 - [José Frazão](../Pessoas/J/Jos%C3%A9%20Fraz%C3%A3o.md)
 - [José Luís Silva](../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Silva.md)

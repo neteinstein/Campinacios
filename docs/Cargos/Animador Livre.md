@@ -25,6 +25,7 @@
 - [Ana Rita Costa](../Pessoas/A/Ana%20Rita%20Costa.md)
 - [Ana Salgado](../Pessoas/A/Ana%20Salgado.md)
 - [André Gonçalves](../Pessoas/A/Andr%C3%A9%20Gon%C3%A7alves.md)
+- [André Vale](../Pessoas/A/Andr%C3%A9%20Vale.md)
 - [Andreia Mendes](../Pessoas/A/Andreia%20Mendes.md)
 - [Andreia Pereira](../Pessoas/A/Andreia%20Pereira.md)
 - [António Amaral](../Pessoas/A/Ant%C3%B3nio%20Amaral.md)

@@ -10,6 +10,7 @@
 
 ## Participantes que se tornaram animadores
 
+- [André Vale](../../Pessoas/A/Andr%C3%A9%20Vale.md)
 - [Fernando Monteiro](../../Pessoas/F/Fernando%20Monteiro.md)
 
 ---

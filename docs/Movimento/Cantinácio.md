@@ -8,11 +8,16 @@ Um novo Cantinácio foi lançado após anos e anos de tentativas: a 3.ª ediçã
 
 Reúne músicas e canções dos Campinácios e não só.
 
+<div class="wk-botoes" markdown="0">
 <button type="button" class="md-button md-button--primary wk-cantinacio-imprimir">Cantinácio Virtual</button>
+<a class="md-button md-button--primary" href="../assets/documentos/Cantin%C3%A1cio%202019.pdf" target="_blank" rel="noopener">Cantinácio Original</a>
 <a class="md-button" href="#letras-e-acordes">Ver Músicas Aqui</a>
 <a class="md-button md-button--primary" href="https://www.camtil.pt/camtilena" target="_blank" rel="noopener">Camtilena Virtual</a>
+</div>
 
 O botão **Cantinácio Virtual** gera um PDF, pronto a descarregar e a imprimir, com todas as letras e acordes do Wikinácios, aumentando em largas centenas a edição física de 2019. Antes de o gerar, escolhem-se as secções de músicas que deve ter, se vão os Aplausos e, nas músicas com duas versões, se vai a original, a versão simplificada do Cantinácio de 2019 ou as duas. Mantém-se a paginação à maneira do Cantinácio de 2019, com índice e números de página. Antes do Manual de Instruções vai a secção **Música Viva**, com um QR Code para o vídeo de cada música que o tenha.
+
+O botão **Cantinácio Original** abre o PDF do Cantinácio de 2019 (3.ª edição), tal como foi feito para imprimir, com as ilustrações e o índice originais.
 
 O botão **Camtilena Virtual** permite o download da versão pública da 10.ª Edição da Camtilena no site do [Camtil](Camtil.md).
 
