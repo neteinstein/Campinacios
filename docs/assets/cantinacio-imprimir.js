@@ -1,14 +1,24 @@
 // Botão «Cantinácio Virtual» da página do Cantinácio (docs/Movimento/Cantinácio.md).
-// Junta as letras e os acordes de todas as secções do Cantinácio numa janela
-// nova, paginada em A4 a duas colunas à maneira do Cantinácio de 2019
-// (3.ª edição) — capa, ficha técnica, índice com números de página, capas das
-// secções —, e abre a caixa de impressão do navegador (onde também se pode
-// guardar em PDF). As músicas são lidas das próprias páginas do site, por
-// isso a versão impressa está sempre actualizada.
+// Abre uma pequena janela de configuração (que secções de músicas entram e se
+// vão as versões originais, as simplificadas do Cantinácio de 2019 ou ambas) e
+// gera um PDF para descarregar com as letras e os acordes, paginado em A4 a
+// duas colunas à maneira do Cantinácio de 2019 (3.ª edição) — capa, ficha
+// técnica, índice com números de página, capas das secções. As páginas são
+// montadas numa moldura escondida e desenhadas no PDF com o jsPDF, com texto
+// (não imagens) para o ficheiro ficar pequeno e se poder pesquisar. As
+// músicas são lidas das próprias páginas do site, por isso o PDF está sempre
+// actualizado.
 (function () {
   "use strict";
 
   var SITE = "http://campinacios.pedrovicente.pt";
+
+  // As secções de músicas que se podem escolher na configuração.
+  var ESCOLHAS = ["Campinácios", "Camtil", "Cânticos", "Estrangeiras", "Gambozinos", "Portuguesas"];
+
+  // Nas músicas com duas versões, esta legenda (em itálico) separa a original,
+  // que vem antes, da simplificada do Cantinácio de 2019, que vem depois.
+  var LEGENDA_SIMPLIFICADA = /^Versão simplificada Cantinácio 2019:?$/;
 
   // Pela ordem do Cantinácio de 2019, excepto as Portuguesas e as Estrangeiras, que vão depois dos Cânticos, e os Aplausos, que ficam no fim; o título é o da secção nessa edição.
   var SECCOES = [
@@ -177,7 +187,19 @@
     return "";
   }
 
-  function ler(seccao, base) {
+  // Numa música com duas versões, fica só a original, só a simplificada ou as
+  // duas (com a legenda entre elas), conforme a configuração.
+  function versoes(m, opcoes) {
+    if (!m.simplificada) return m;
+    var ambas = opcoes.originais && opcoes.simplificadas;
+    m.partes = m.partes.filter(function (p) {
+      if (p.legenda) return ambas;
+      return p.simplificada ? opcoes.simplificadas : opcoes.originais;
+    });
+    return m;
+  }
+
+  function ler(seccao, base, opcoes) {
     if (seccao.viva) return Promise.resolve(seccao);
     var url = new URL("Cantin%C3%A1cio/" + encodeURIComponent(seccao.pagina) + ".html", base).href;
     return fetch(url).then(function (r) {
@@ -225,16 +247,21 @@
         if (el.tagName === "AUDIO" || el.querySelector("audio")) return;
         var soItalico = el.tagName === "P" && el.children.length === 1 &&
           el.children[0].tagName === "EM" && el.textContent.trim() === el.children[0].textContent.trim();
-        if (soItalico && !actual.partes.length && !actual.autor) {
+        var simplificada = !!actual.simplificada;
+        if (soItalico && LEGENDA_SIMPLIFICADA.test(el.textContent.trim())) {
+          actual.simplificada = true;
+          el.classList.add("legenda-versao");
+          actual.partes.push({ el: limpar(el, url), legenda: true });
+        } else if (soItalico && !actual.partes.length && !actual.autor) {
           actual.autor = el.textContent.trim();
         } else if (el.tagName === "PRE") {
           var linhas = el.textContent.replace(/\s+$/, "").split("\n");
-          actual.partes.push({ linhas: linhas });
+          actual.partes.push({ linhas: linhas, simplificada: simplificada });
         } else {
-          actual.partes.push({ el: limpar(el, url) });
+          actual.partes.push({ el: limpar(el, url), simplificada: simplificada });
         }
       });
-      seccao.musicas = musicas;
+      seccao.musicas = musicas.map(function (m) { return versoes(m, opcoes); });
       return seccao;
     });
   }
@@ -529,6 +556,7 @@
             var c = livro.el("div", "viva-cartao");
             var q = c.appendChild(livro.el("div", "qr"));
             q.innerHTML = window.WkQR.svg(m.video);
+            q.dataset.url = m.video;  // no PDF, o código é também uma ligação para o vídeo
             var t = c.appendChild(livro.el("div", "viva-texto"));
             t.appendChild(livro.el("strong", "", m.numero + ". " + m.titulo));
             var pg = t.appendChild(livro.el("span", "viva-pag", "página 000"));
@@ -654,7 +682,7 @@
         linha.appendChild(livro.el("span", "nome", e.titulo ? e.numero + ". " + e.titulo : e.seccao));
         linha.appendChild(livro.el("span", "pontos"));
         var n = linha.appendChild(livro.el("span", "pag", "000"));
-        numeros.push({ el: n, pagina: e.pagina });
+        numeros.push({ el: n, linha: linha, pagina: e.pagina });
         if (!e.titulo) {
           // O nome da secção fica sempre junto da primeira música.
           if (cabecalho) livro.colocar(cabecalho, false);
@@ -680,9 +708,16 @@
         if (p.classList.contains("capa") || p.classList.contains("ficha")) return;
         p.appendChild(livro.el("div", "numero " + (i % 2 ? "esquerda" : "direita"), String(i + 1)));
       });
-      numeros.forEach(function (n) { n.el.textContent = n.pagina.dataset.numero; });
+      // No PDF, cada entrada do índice e cada «página N» da Música Viva são
+      // ligações para essa página.
+      numeros.forEach(function (n) {
+        n.el.textContent = n.pagina.dataset.numero;
+        n.linha.dataset.destino = n.pagina.dataset.numero;
+      });
       referencias.forEach(function (r) {
-        r.el.textContent = "página " + paginaDe[r.musica.numero].dataset.numero;
+        var numeroDaPagina = paginaDe[r.musica.numero].dataset.numero;
+        r.el.textContent = "página " + numeroDaPagina;
+        r.el.dataset.destino = numeroDaPagina;
       });
       return esperarImagens(doc.body).then(function () { return paginas.length; });
     });
@@ -691,11 +726,12 @@
   var ESTILO = [
     "@page { size: A4; margin: 0; }",
     "html, body { margin: 0; background: #8a8f98; }",
-    "body { font-family: Roboto, Arial, Helvetica, sans-serif; color: #000; }",
-    "#barra { position: sticky; top: 0; z-index: 1; display: flex; gap: 12px; align-items: center;",
-    "  padding: 10px 16px; background: #1f2a44; color: #fff; font-size: 14px; }",
-    "#barra button { font: inherit; padding: 6px 14px; border: 0; border-radius: 4px; background: #fff; color: #1f2a44; cursor: pointer; }",
-    "#barra button:disabled { opacity: .5; cursor: default; }",
+    // No PDF, Arial passa a Helvetica (tem as mesmas medidas) e o texto de
+    // largura fixa a Courier; a Oswald vai embutida.
+    "body { font-family: " + FAMILIA + "; color: #000; }",
+    // O PDF escreve sem kerning nem ligaduras: a paginação também, para as
+    // larguras serem as mesmas.
+    "* { font-kerning: none; font-variant-ligatures: none; }",
     ".pagina { position: relative; box-sizing: border-box; width: 210mm; height: 297mm; margin: 8mm auto;",
     "  padding: 14mm 12mm 17mm; overflow: hidden; background: #fff; display: flex; flex-direction: column;",
     "  box-shadow: 0 1px 6px rgba(0,0,0,.35); }",
@@ -746,6 +782,7 @@
     ".par .ac { position: absolute; top: 0; font-style: italic; white-space: pre; }",
     ".musica .texto { margin: 0 0 1.6mm; font-size: 1em; line-height: 1.3; overflow-wrap: anywhere; }",
     ".musica ul.texto, .musica ol.texto { padding-left: 5mm; }",
+    ".musica .legenda-versao { margin-top: 3mm; }",
     ".ilustracao { position: relative; margin: 6mm auto 0; }",
     ".ilustracao img { display: block; width: 100%; height: 100%; }",
     ".ilustracao .marca { position: absolute; right: 0; bottom: -1mm; font: italic 6.5pt " + FAMILIA + "; color: #666; }",
@@ -764,65 +801,565 @@
     ".textual h2 { margin: 3mm 0 2mm; font: 600 15pt Oswald, 'Arial Narrow', sans-serif; text-transform: uppercase; }",
     ".textual p, .textual li { font-size: 10pt; line-height: 1.42; margin: 0 0 2.2mm; }",
     ".textual ol, .textual ul { margin: 0 0 2.2mm; padding-left: 6mm; }",
-    ".textual pre { margin: 0 0 2.2mm; font: 9.5pt 'Roboto Mono', monospace; white-space: pre-wrap; }",
+    ".textual pre { margin: 0 0 2.2mm; font: 9.5pt 'Courier New', Courier, monospace; white-space: pre-wrap; }",
     ".textual img { display: block; max-width: 100%; max-height: 225mm; height: auto; margin: 0 auto 2mm; }",
     ".textual table { width: 100%; margin: 0 0 3mm; border-collapse: collapse; font-size: 9pt; }",
-    ".textual th, .textual td { padding: 1.2mm .8mm; border: .5pt solid #777; text-align: center; }",
-
-    "@media print {",
-    "  html, body { background: none; }",
-    "  #barra { display: none; }",
-    "  .pagina { margin: 0; box-shadow: none; break-after: page; }",
-    "  .pagina:last-child { break-after: auto; }",
-    "}"
+    ".textual th, .textual td { padding: 1.2mm .8mm; border: .5pt solid #777; text-align: center; }"
   ].join("\n");
 
-  var FONTES = "https://fonts.googleapis.com/css2?family=Oswald:wght@500;600" +
-    "&family=Roboto:ital,wght@0,400;0,700;1,400&display=swap";
+  // --- PDF -----------------------------------------------------------------
 
-  function abrir(base) {
-    var w = window.open("", "_blank");
-    if (!w) {
-      window.alert("O navegador bloqueou a janela nova. Autorize as janelas deste site e carregue outra vez em «Cantinácio Virtual».");
-      return;
-    }
+  var JSPDF = {
+    src: "https://cdnjs.cloudflare.com/ajax/libs/jspdf/4.2.1/jspdf.umd.min.js",
+    integrity: "sha512-plOdviVmws4Y3JAvbnpfKb2hVxKM1lCwsi3vmElYRj+tiDLffZ4FVUj5a8vyKJ9pIgl8JCAHEJ4D1iUKBecswg=="
+  };
+  // A Oswald (títulos) vai embutida no PDF; as mesmas fontes servem para
+  // paginar, para as medidas baterem certo. Licença em assets/fontes/OFL.txt.
+  var OSWALD = [
+    { ficheiro: "Oswald-Medium.ttf", peso: 500, estilo: "normal" },
+    { ficheiro: "Oswald-SemiBold.ttf", peso: 600, estilo: "bold" }
+  ];
+
+  var aCarregarJsPdf = null;
+  function carregarJsPdf() {
+    if (window.jspdf) return Promise.resolve(window.jspdf.jsPDF);
+    if (!aCarregarJsPdf) aCarregarJsPdf = new Promise(function (ok, falha) {
+      var s = document.createElement("script");
+      s.src = JSPDF.src;
+      s.integrity = JSPDF.integrity;
+      s.crossOrigin = "anonymous";
+      s.referrerPolicy = "no-referrer";
+      s.onload = function () {
+        if (window.jspdf) ok(window.jspdf.jsPDF); else falha(new Error("o jsPDF não arrancou"));
+      };
+      s.onerror = function () {
+        aCarregarJsPdf = null;
+        s.remove();
+        falha(new Error("não foi possível carregar o jsPDF"));
+      };
+      document.head.appendChild(s);
+    });
+    return aCarregarJsPdf;
+  }
+
+  function bytes(url) {
+    return fetch(url).then(function (r) {
+      if (!r.ok) throw new Error(decodeURIComponent(url.split("/").pop()) + ": " + r.status);
+      return r.arrayBuffer();
+    }).then(function (b) { return new Uint8Array(b); });
+  }
+
+  function base64(u8) {
+    var s = "";
+    for (var i = 0; i < u8.length; i += 0x8000) s += String.fromCharCode.apply(null, u8.subarray(i, i + 0x8000));
+    return btoa(s);
+  }
+
+  // Os caracteres que as fontes de base do PDF (Helvetica, Courier) sabem
+  // escrever; o resto (cirílico, grego, árabe…) vai como imagem.
+  var WINANSI = /^[ -~ -ÿ€‚ƒ„…†‡ˆ‰Š‹ŒŽ‘’“”•–—˜™š›œžŸ]*$/;
+  var TROCAS = { "‟": "“", "‐": "-", "‑": "-", " ": " ", " ": " ", "­": "" };
+  function normalizar(t) {
+    return t.normalize("NFC").replace(/[‟‐‑  ­]/g, function (c) { return TROCAS[c]; });
+  }
+
+  function cor(css) {
+    var n = (css.match(/[\d.]+/g) || [0, 0, 0]).map(Number);
+    return [n[0], n[1], n[2]];
+  }
+
+  // As imagens das páginas, lidas tal como estão (os JPEG vão para o PDF sem
+  // serem recomprimidos; as que se repetem vão uma só vez).
+  function lerImagens(doc) {
+    var imagens = {};
+    var lista = [];
+    doc.querySelectorAll(".pagina img").forEach(function (img) {
+      if (img.src && !(img.src in imagens)) { imagens[img.src] = null; lista.push(img); }
+    });
+    return Promise.all(lista.map(function (img) {
+      return bytes(img.src).then(function (b) {
+        var tipo = b[0] === 0xff && b[1] === 0xd8 ? "JPEG" : b[0] === 0x89 && b[1] === 0x50 ? "PNG" : null;
+        if (!tipo) {
+          // Outro formato: passa por um <canvas> e vai como PNG.
+          var c = document.createElement("canvas");
+          c.width = img.naturalWidth;
+          c.height = img.naturalHeight;
+          c.getContext("2d").drawImage(img, 0, 0);
+          b = c.toDataURL("image/png");
+          tipo = "PNG";
+        }
+        imagens[img.src] = { dados: b, tipo: tipo, nome: "img" + Object.keys(imagens).indexOf(img.src) };
+      }).catch(function () { return null; });  // uma imagem que falte não impede o PDF
+    })).then(function () { return imagens; });
+  }
+
+  // Desenha no PDF as páginas montadas na moldura: o texto palavra a palavra
+  // (juntando as que o PDF põe sozinho no mesmo sítio), as linhas, as imagens
+  // e os QR Codes, cada coisa onde o navegador a pôs.
+  function paraPdf(JsPdf, w, oswald, imagens, estado) {
     var doc = w.document;
+    var pdf = new JsPdf({ unit: "mm", format: "a4", compress: true });
+    oswald.forEach(function (f) {
+      pdf.addFileToVFS(f.ficheiro, f.dados);
+      pdf.addFont(f.ficheiro, "Oswald", f.estilo);
+    });
+    pdf.setProperties({
+      title: "Cantinácio Virtual — " + hoje(),
+      subject: "Letras e acordes do Wikinácios",
+      creator: SITE
+    });
+    if (pdf.setLanguage) pdf.setLanguage("pt-PT");
+
+    var paginas = Array.prototype.slice.call(doc.querySelectorAll(".pagina"));
+    var gama = doc.createRange();
+    var tela = document.createElement("canvas");
+    var bases = {};
+
+    // Distância do cimo do texto à linha de base, em fracção do tamanho da
+    // letra, medida no próprio navegador para cada tipo de letra.
+    function linhaDeBase(cs) {
+      var chave = cs.fontStyle + "|" + cs.fontWeight + "|" + cs.fontFamily;
+      if (chave in bases) return bases[chave];
+      var s = doc.createElement("span");
+      s.style.cssText = "position:absolute;left:0;top:0;white-space:nowrap;line-height:normal;font-size:100px";
+      s.style.fontFamily = cs.fontFamily;
+      s.style.fontWeight = cs.fontWeight;
+      s.style.fontStyle = cs.fontStyle;
+      s.textContent = "Hg";
+      var marca = s.appendChild(doc.createElement("span"));
+      marca.style.cssText = "display:inline-block;width:0;height:0;vertical-align:baseline";
+      doc.body.appendChild(s);
+      var g = doc.createRange();
+      g.selectNodeContents(s.firstChild);
+      var r = (g.getBoundingClientRect().top);
+      bases[chave] = (marca.getBoundingClientRect().bottom - r) / 100;
+      s.remove();
+      return bases[chave];
+    }
+
+    function fonte(cs) {
+      var negrito = parseInt(cs.fontWeight, 10) >= 600;
+      var italico = cs.fontStyle !== "normal";
+      var f = { px: parseFloat(cs.fontSize), base: linhaDeBase(cs), cor: cor(cs.color), cs: cs };
+      if (/Oswald/i.test(cs.fontFamily)) {
+        f.nome = "Oswald";
+        f.estilo = negrito ? "bold" : "normal";
+        f.unicode = true;
+      } else {
+        f.nome = /Courier|mono/i.test(cs.fontFamily) ? "courier" : "helvetica";
+        f.estilo = negrito && italico ? "bolditalic" : negrito ? "bold" : italico ? "italic" : "normal";
+      }
+      f.maiusculas = cs.textTransform === "uppercase";
+      f.espacado = cs.letterSpacing !== "normal" && parseFloat(cs.letterSpacing) !== 0;
+      return f;
+    }
+
+    function usar(f) {
+      pdf.setFont(f.nome, f.estilo);
+      pdf.setFontSize(f.px * 0.75);
+      pdf.setTextColor(f.cor[0], f.cor[1], f.cor[2]);
+    }
+
+    function desenharPagina(p) {
+      var o = p.getBoundingClientRect();
+      function X(px) { return (px - o.left) / PX_POR_MM; }
+      function Y(px) { return (px - o.top) / PX_POR_MM; }
+      function mm(px) { return px / PX_POR_MM; }
+      function dentro(r, recorte) {
+        var cx = (r.left + r.right) / 2, cy = (r.top + r.bottom) / 2;
+        return cx >= recorte.left && cx <= recorte.right && cy >= recorte.top && cy <= recorte.bottom;
+      }
+
+      // Um bocado de texto que o PDF vai escrever de seguida.
+      var seg = null;
+      function fecharSegmento() {
+        if (seg) pdf.text(seg.texto, seg.x, seg.y);
+        seg = null;
+      }
+
+      function palavra(t, r, f, recorte) {
+        if (!r.width || !dentro(r, recorte)) return;
+        if (f.maiusculas) t = t.toUpperCase();
+        var x = X(r.left);
+        var y = Y(r.top + f.base * f.px);
+        if (!f.unicode && !WINANSI.test(t)) {
+          fecharSegmento();
+          comoImagem(t, r, f);
+          return;
+        }
+        if (seg && !f.espacado && Math.abs(seg.y - y) < 0.1) {
+          var espaco = pdf.getTextWidth(" ");
+          var n = Math.max(1, Math.round((x - seg.fim) / espaco));
+          var junto = seg.texto + new Array(n + 1).join(" ") + t;
+          if (Math.abs(seg.x + pdf.getTextWidth(junto) - pdf.getTextWidth(t) - x) < 0.15) {
+            seg.texto = junto;
+            seg.fim = X(r.right);
+            return;
+          }
+        }
+        fecharSegmento();
+        seg = { texto: t, x: x, y: y, fim: X(r.right) };
+      }
+
+      // Uma palavra que as fontes de base não sabem escrever: desenha-se num
+      // <canvas> com o tipo de letra do navegador e vai como imagem.
+      function comoImagem(t, r, f) {
+        var escala = 4;
+        tela.width = Math.ceil(r.width * escala);
+        tela.height = Math.ceil(r.height * escala);
+        var ctx = tela.getContext("2d");
+        ctx.scale(escala, escala);
+        ctx.font = f.cs.fontStyle + " " + f.cs.fontWeight + " " + f.px + "px " + f.cs.fontFamily;
+        ctx.fillStyle = f.cs.color;
+        ctx.textBaseline = "alphabetic";
+        ctx.fillText(t, 0, f.base * f.px);
+        pdf.addImage(tela.toDataURL("image/png"), "PNG", X(r.left), Y(r.top), mm(r.width), mm(r.height));
+      }
+
+      function texto(n, cs, recorte) {
+        var f = fonte(cs);
+        usar(f);
+        var dados = n.data;
+        var re = /\S+/g, m;
+        while ((m = re.exec(dados))) {
+          gama.setStart(n, m.index);
+          gama.setEnd(n, m.index + m[0].length);
+          var rs = gama.getClientRects();
+          if (rs.length <= 1) {
+            if (rs.length) palavra(normalizar(m[0]), rs[0], f, recorte);
+            continue;
+          }
+          // Uma palavra partida entre duas linhas: letra a letra.
+          var pedaco = "", inicio = null, topo = null, fim = null;
+          for (var i = 0; i < m[0].length; i++) {
+            gama.setStart(n, m.index + i);
+            gama.setEnd(n, m.index + i + 1);
+            var c = gama.getBoundingClientRect();
+            if (topo !== null && Math.abs(c.top - topo) > 1) {
+              palavra(normalizar(pedaco), { left: inicio, right: fim, top: topo, bottom: topo + 1, width: fim - inicio }, f, recorte);
+              pedaco = "";
+              inicio = null;
+            }
+            if (inicio === null) { inicio = c.left; topo = c.top; }
+            pedaco += m[0].charAt(i);
+            fim = c.right;
+          }
+          if (pedaco) palavra(normalizar(pedaco), { left: inicio, right: fim, top: topo, bottom: topo + 1, width: fim - inicio }, f, recorte);
+        }
+        fecharSegmento();
+      }
+
+      // Um texto cortado com «…» (as entradas do índice largas demais).
+      function reticencias(el, cs, r) {
+        var f = fonte(cs);
+        usar(f);
+        var t = normalizar(el.textContent.trim());
+        if (f.maiusculas) t = t.toUpperCase();
+        var largura = mm(r.width);
+        while (t && pdf.getTextWidth(t + "…") > largura) t = t.slice(0, -1);
+        var g = doc.createRange();
+        g.selectNodeContents(el);
+        var topo = g.getClientRects()[0] ? g.getClientRects()[0].top : r.top;
+        if (WINANSI.test(t)) pdf.text(t.replace(/\s+$/, "") + "…", X(r.left), Y(topo + f.base * f.px));
+      }
+
+      function bordas(cs, r) {
+        ["Top", "Right", "Bottom", "Left"].forEach(function (lado) {
+          var largura = parseFloat(cs["border" + lado + "Width"]);
+          var estilo = cs["border" + lado + "Style"];
+          if (!largura || estilo === "none" || estilo === "hidden") return;
+          var lw = mm(largura);
+          var c = cor(cs["border" + lado + "Color"]);
+          pdf.setDrawColor(c[0], c[1], c[2]);
+          pdf.setLineWidth(lw);
+          if (estilo === "dotted") {
+            pdf.setLineCap("round");
+            pdf.setLineDashPattern([0, lw * 2.5], 0);
+          } else if (estilo === "dashed") {
+            pdf.setLineDashPattern([lw * 3, lw * 2], 0);
+          }
+          var meio = largura / 2;
+          if (lado === "Top") pdf.line(X(r.left), Y(r.top + meio), X(r.right), Y(r.top + meio));
+          else if (lado === "Bottom") pdf.line(X(r.left), Y(r.bottom - meio), X(r.right), Y(r.bottom - meio));
+          else if (lado === "Left") pdf.line(X(r.left + meio), Y(r.top), X(r.left + meio), Y(r.bottom));
+          else pdf.line(X(r.right - meio), Y(r.top), X(r.right - meio), Y(r.bottom));
+          if (estilo === "dotted" || estilo === "dashed") {
+            pdf.setLineDashPattern([], 0);
+            pdf.setLineCap("butt");
+          }
+        });
+      }
+
+      function imagem(el, cs, r) {
+        var dados = imagens[el.src];
+        if (!dados || !r.width || !r.height) return;
+        var x = r.left, y = r.top, larg = r.width, alt = r.height;
+        if (cs.objectFit === "contain" && el.naturalWidth) {
+          var e = Math.min(larg / el.naturalWidth, alt / el.naturalHeight);
+          x += (larg - el.naturalWidth * e) / 2;
+          y += (alt - el.naturalHeight * e) / 2;
+          larg = el.naturalWidth * e;
+          alt = el.naturalHeight * e;
+        }
+        pdf.addImage(dados.dados, dados.tipo, X(x), Y(y), mm(larg), mm(alt), dados.nome, "FAST");
+      }
+
+      // Os QR Codes: um rectângulo por sequência de módulos escuros, como no
+      // <svg> de qrcode.js.
+      function qr(el, r) {
+        var vb = el.viewBox && el.viewBox.baseVal;
+        if (!vb || !vb.width) return;
+        var e = r.width / vb.width;
+        pdf.setFillColor(0, 0, 0);
+        el.querySelectorAll("path").forEach(function (c) {
+          var re = /M(\d+) (\d+)h(\d+)/g, m;
+          var d = c.getAttribute("d") || "";
+          while ((m = re.exec(d))) {
+            // Um pouco mais altos, para não se verem riscas entre as linhas.
+            pdf.rect(X(r.left + m[1] * e), Y(r.top + m[2] * e), mm(m[3] * e), mm(e) + 0.03, "F");
+          }
+        });
+      }
+
+      // O número ou a bolinha de um item de lista (o ::marker não está no
+      // DOM): fica à esquerda do item, na linha de base da primeira linha.
+      function marcador(el, cs) {
+        var tipo = cs.listStyleType;
+        if (tipo === "none" || cs.listStylePosition !== "outside") return;
+        var t = "•";
+        if (/decimal/.test(tipo)) {
+          var lista = el.parentElement;
+          var n = lista && lista.tagName === "OL" && lista.hasAttribute("start") ? lista.start : 1;
+          for (var irmao = el.previousElementSibling; irmao; irmao = irmao.previousElementSibling) {
+            if (irmao.tagName === "LI") n++;
+          }
+          t = n + ".";
+        }
+        var andar = doc.createTreeWalker(el, NodeFilter.SHOW_TEXT, {
+          acceptNode: function (n) { return /\S/.test(n.data) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_SKIP; }
+        });
+        var primeiro = andar.nextNode();
+        if (!primeiro) return;
+        var g = doc.createRange();
+        g.selectNodeContents(primeiro);
+        var linha = g.getClientRects()[0];
+        if (!linha) return;
+        var f = fonte(w.getComputedStyle(primeiro.parentElement));
+        f.estilo = f.nome === "Oswald" ? f.estilo : "normal";
+        usar(f);
+        var r = el.getBoundingClientRect();
+        pdf.text(t, X(r.left) - pdf.getTextWidth(t + " "), Y(linha.top + f.base * f.px));
+      }
+
+      function percorrer(el, recorte) {
+        var cs = w.getComputedStyle(el);
+        if (cs.display === "none" || cs.visibility === "hidden") return;
+        var r = el.getBoundingClientRect();
+        if (el !== p && cs.overflow !== "visible") {
+          recorte = {
+            left: Math.max(recorte.left, r.left), right: Math.min(recorte.right, r.right),
+            top: Math.max(recorte.top, r.top), bottom: Math.min(recorte.bottom, r.bottom)
+          };
+        }
+        bordas(cs, r);
+        if (cs.display === "list-item") marcador(el, cs);
+        if (el.dataset && el.dataset.destino) {
+          pdf.link(X(r.left), Y(r.top), mm(r.width), mm(r.height), { pageNumber: Number(el.dataset.destino) });
+        }
+        if (el.dataset && el.dataset.url) {
+          pdf.link(X(r.left), Y(r.top), mm(r.width), mm(r.height), { url: el.dataset.url });
+        }
+        if (el.tagName === "IMG") { if (dentro(r, recorte)) imagem(el, cs, r); return; }
+        if (el.tagName.toLowerCase() === "svg") { qr(el, r); return; }
+        if (cs.textOverflow === "ellipsis" && el.scrollWidth > el.clientWidth + 1) { reticencias(el, cs, r); return; }
+        for (var n = el.firstChild; n; n = n.nextSibling) {
+          if (n.nodeType === 1) percorrer(n, recorte);
+          else if (n.nodeType === 3 && /\S/.test(n.data)) texto(n, cs, recorte);
+        }
+      }
+
+      var r0 = p.getBoundingClientRect();
+      percorrer(p, { left: r0.left, right: r0.right, top: r0.top, bottom: r0.bottom });
+    }
+
+    var cadeia = Promise.resolve();
+    paginas.forEach(function (p, i) {
+      cadeia = cadeia.then(function () {
+        if (i % 5 === 0) estado("A escrever o PDF: página " + (i + 1) + " de " + paginas.length + "…");
+        if (i) pdf.addPage("a4", "portrait");
+        desenharPagina(p);
+        return espera();
+      });
+    });
+    return cadeia.then(function () {
+      estado("A guardar o PDF…");
+      return espera();
+    }).then(function () {
+      return { blob: pdf.output("blob"), paginas: paginas.length };
+    });
+  }
+
+  function descarregar(blob, nome) {
+    var url = URL.createObjectURL(blob);
+    var a = document.createElement("a");
+    a.href = url;
+    a.download = nome;
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    setTimeout(function () { URL.revokeObjectURL(url); }, 60000);
+  }
+
+  // --- Geração -------------------------------------------------------------
+
+  // Monta o Cantinácio numa moldura escondida e transforma-o num PDF que se
+  // descarrega. «opcoes»: { seccoes: [páginas escolhidas], originais,
+  // simplificadas, aplausos }.
+  function gerar(base, opcoes, estado) {
+    var fontes = new URL("../assets/fontes/", base).href;
+    var moldura = document.createElement("iframe");
+    moldura.setAttribute("aria-hidden", "true");
+    moldura.tabIndex = -1;
+    moldura.style.cssText = "position:fixed;left:-10000px;top:0;width:240mm;height:600px;border:0;visibility:hidden";
+    document.body.appendChild(moldura);
+    var w = moldura.contentWindow;
+    var doc = w.document;
+    var faces = OSWALD.map(function (f) {
+      return "@font-face { font-family: Oswald; font-style: normal; font-weight: " + f.peso +
+        "; src: url('" + fontes + f.ficheiro + "') format('truetype'); }";
+    }).join("\n");
     doc.open();
-    doc.write('<!doctype html><html lang="pt"><head><meta charset="utf-8">' +
-      "<title>Cantinácio Virtual — " + hoje() + "</title>" +
-      '<link rel="stylesheet" href="' + FONTES + '"><style>' + ESTILO + "</style></head>" +
-      '<body><div id="barra"><span id="estado">A preparar o Cantinácio…</span>' +
-      '<button type="button" id="imprimir" disabled>Imprimir</button></div>' +
-      '<main id="paginas"></main></body></html>');
+    doc.write('<!doctype html><html lang="pt"><head><meta charset="utf-8"><title>Cantinácio Virtual</title>' +
+      "<style>" + faces + "\n" + ESTILO + '</style></head><body><main id="paginas"></main></body></html>');
     doc.close();
 
-    var estado = function (t) { doc.getElementById("estado").textContent = t; };
-    var botao = doc.getElementById("imprimir");
-    botao.addEventListener("click", function () { w.print(); });
-
     // As letras têm de estar carregadas antes de medir as colunas.
-    var folha = doc.querySelector("link[rel=stylesheet]");
-    var fontes = comPrazo(new Promise(function (ok) {
-      if (folha.sheet) ok(); else { folha.onload = folha.onerror = ok; }
-    }), 5000).then(function () {
-      return comPrazo(Promise.all(["10pt Roboto", "bold 10pt Roboto", "600 10pt Oswald"].map(function (f) {
-        return doc.fonts.load(f).catch(function () { return null; });
-      })), 5000);
+    var letras = comPrazo(Promise.all(["500 10pt Oswald", "600 10pt Oswald"].map(function (f) {
+      return doc.fonts.load(f).catch(function () { return null; });
+    })), 8000);
+    var oswald = Promise.all(OSWALD.map(function (f) {
+      return bytes(fontes + f.ficheiro).then(function (b) {
+        return { ficheiro: f.ficheiro, estilo: f.estilo, dados: base64(b) };
+      });
+    }));
+
+    var seccoes = SECCOES.filter(function (s) {
+      if (s.pagina === "Aplausos") return opcoes.aplausos;
+      return ESCOLHAS.indexOf(s.pagina) < 0 || opcoes.seccoes.indexOf(s.pagina) >= 0;
     });
 
     estado("A ler as músicas do Wikinácios…");
-    Promise.all([fontes].concat(SECCOES.map(function (s) {
-      return ler(Object.assign({}, s), base);
+    return Promise.all([carregarJsPdf(), oswald, letras].concat(seccoes.map(function (s) {
+      return ler(Object.assign({}, s), base, opcoes);
     }))).then(function (r) {
-      return montar(w, r.slice(1), base, estado);
-    }).then(function (paginas) {
-      estado("Cantinácio Virtual pronto: " + paginas + " páginas.");
-      botao.disabled = false;
-      w.focus();
-      w.print();
-    }).catch(function (e) {
-      estado("Não foi possível gerar o Cantinácio (" + e.message + ").");
+      var JsPdf = r[0], fontesPdf = r[1];
+      return montar(w, r.slice(3), base, estado).then(function () {
+        estado("A juntar as imagens…");
+        return lerImagens(doc);
+      }).then(function (imagens) {
+        return paraPdf(JsPdf, w, fontesPdf, imagens, estado);
+      });
+    }).then(function (feito) {
+      descarregar(feito.blob, "Cantinácio Virtual " + hoje().replace(/\//g, "-") + ".pdf");
+      return feito;
+    }).finally(function () {
+      moldura.remove();
     });
+  }
+
+  // --- Configuração --------------------------------------------------------
+
+  function caixa(nome, valor, rotulo) {
+    return '<label class="wk-cv__opcao"><input type="checkbox" name="' + nome + '" value="' + valor +
+      '" checked> ' + rotulo + "</label>";
+  }
+
+  var dialogo = null;
+  var emCurso = null;  // a geração em curso: { cancelada }
+
+  function configuracao(base) {
+    if (!dialogo || !document.body.contains(dialogo)) {
+      dialogo = document.createElement("dialog");
+      dialogo.className = "wk-cv";
+      dialogo.setAttribute("aria-labelledby", "wk-cv-titulo");
+      dialogo.innerHTML =
+        '<form class="wk-cv__caixa md-typeset" method="dialog">' +
+        '<button type="button" class="wk-cv__fechar" aria-label="Fechar">×</button>' +
+        '<h2 id="wk-cv-titulo">Configuração do Cantinácio</h2>' +
+        "<fieldset><legend>Deve ter músicas de:</legend>" +
+        ESCOLHAS.map(function (s) { return caixa("seccao", s, s); }).join("") +
+        "</fieldset>" +
+        '<fieldset><legend class="wk-cv__escondido">Versões e Aplausos</legend>' +
+        caixa("originais", "1", "Mostrar versões originais") +
+        caixa("simplificadas", "1", "Mostrar versões simplificadas") +
+        caixa("aplausos", "1", "Incluir Aplausos") +
+        "</fieldset>" +
+        '<button type="submit" class="md-button md-button--primary wk-cv__gerar">Gerar o meu Cantinácio Virtual!</button>' +
+        '<p class="wk-cv__estado" role="status" aria-live="polite"></p>' +
+        "</form>";
+      document.body.appendChild(dialogo);
+
+      var form = dialogo.querySelector("form");
+      var estadoEl = dialogo.querySelector(".wk-cv__estado");
+      var gerarEl = dialogo.querySelector(".wk-cv__gerar");
+      dialogo.querySelector('[name="originais"]').closest("label").title =
+        "Nas músicas com duas versões, a que o Wikinácios já tinha";
+      dialogo.querySelector('[name="simplificadas"]').closest("label").title =
+        "Nas músicas com duas versões, a do Cantinácio de 2019";
+
+      var escolhidas = function () {
+        return Array.prototype.slice.call(form.querySelectorAll('[name="seccao"]:checked'))
+          .map(function (c) { return c.value; });
+      };
+      var validar = function () {
+        if (emCurso) return;
+        var falta = !escolhidas().length ? "Escolha pelo menos uma secção de músicas." :
+          !form.originais.checked && !form.simplificadas.checked ? "Escolha pelo menos uma das versões." : "";
+        gerarEl.disabled = !!falta;
+        estadoEl.textContent = falta;
+      };
+      form.addEventListener("change", validar);
+
+      var fechar = function () { dialogo.close(); };
+      dialogo.querySelector(".wk-cv__fechar").addEventListener("click", fechar);
+      dialogo.addEventListener("click", function (ev) { if (ev.target === dialogo) fechar(); });
+      dialogo.addEventListener("close", function () {
+        if (emCurso) emCurso.cancelada = true;
+      });
+
+      form.addEventListener("submit", function (ev) {
+        ev.preventDefault();
+        if (emCurso || gerarEl.disabled) return;
+        var esta = emCurso = { cancelada: false };
+        var opcoes = {
+          seccoes: escolhidas(),
+          originais: form.originais.checked,
+          simplificadas: form.simplificadas.checked,
+          aplausos: form.aplausos.checked
+        };
+        var campos = form.querySelectorAll("input, .wk-cv__gerar");
+        campos.forEach(function (c) { c.disabled = true; });
+        dialogo.classList.add("wk-cv--a-gerar");
+        var estado = function (t) {
+          if (esta.cancelada) throw new Error("cancelado");
+          estadoEl.textContent = t;
+        };
+        gerar(dialogo.dataset.base, opcoes, estado).then(function (feito) {
+          if (!esta.cancelada) estadoEl.textContent = "Pronto! O PDF, com " + feito.paginas + " páginas, foi descarregado.";
+        }).catch(function (e) {
+          if (!esta.cancelada) estadoEl.textContent = "Não foi possível gerar o Cantinácio (" + e.message + ").";
+        }).finally(function () {
+          emCurso = null;
+          dialogo.classList.remove("wk-cv--a-gerar");
+          campos.forEach(function (c) { c.disabled = false; });
+          if (esta.cancelada) validar();
+        });
+      });
+      dialogo.validar = validar;
+    }
+    dialogo.dataset.base = base;
+    if (!emCurso) dialogo.validar();
+    if (!dialogo.open) dialogo.showModal();
   }
 
   function iniciar() {
@@ -831,7 +1368,7 @@
       b.dataset.pronto = "1";
       b.addEventListener("click", function (ev) {
         ev.preventDefault();
-        abrir(window.location.href);
+        configuracao(window.location.href);
       });
     });
   }
