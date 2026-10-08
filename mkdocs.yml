@@ -1,6 +1,6 @@
 site_name: Wikinácios
-site_description: Arquivo da Wikinácios, a wiki dos Campinácios.
-site_url: https://neteinstein.github.io/Campinacios/
+site_description: "A enciclopédia livre sobre os Campinácios: acampamentos, pessoas, cargos e locais."
+site_url: https://campinacios.pedrovicente.pt/
 repo_url: https://github.com/neteinstein/Campinacios
 edit_uri: edit/main/docs/
 docs_dir: docs
