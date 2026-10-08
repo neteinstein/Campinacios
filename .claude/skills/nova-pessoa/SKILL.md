@@ -55,6 +55,22 @@ Offer one option per candidate plus "outra pessoa" (use a multiple-choice
 prompt if your tool supports one). For plain-text mentions, ask which of
 them are this person when the name is common.
 
+A pergunta tem de se bastar a si própria: o diálogo de escolha pode
+aparecer sem o texto que o antecede. Ao confirmar vários nomes de uma vez,
+ponha os candidatos (nome → página, a prova numa linha) dentro do texto da
+pergunta ou das opções, nunca só na mensagem antes dela. Junte os casos
+óbvios numa pergunta "confirmar todos / indicar excepções" e dê aos
+duvidosos uma pergunta própria.
+
+**Uma coincidência só por "Outros nomes" não prova nada**: o nome
+alternativo foi posto por alguém e pode ser ele próprio um erro (uma página
+de duas pessoas fundidas, como já aconteceu com o Missé e o Migalha). Nesse
+caso mostre ao utilizador todos os outros nomes da página e os anos dos seus
+campos, e avise "possível página fundida" se a página tiver dois ou mais
+nomes alternativos diferentes, um nome alternativo que acrescenta um
+apelido, um intervalo de 10 ou mais anos entre grupos de campos, ou
+categorias de dois colégios.
+
 ## 3a. Same person: link
 
 - Link the name to the existing page (the label may keep the user's
@@ -66,7 +82,17 @@ them are this person when the name is common.
   the "nomes alternativos" count.
 - Plain-text mentions the user confirmed become links.
 - On the person's page, add the camp to the list (`    - <ano> [Camp](…)`
-  under **Participante**, or `… - [Cargo](…)` under **Animador/Animadora**).
+  under **Participante**, or `… - [Cargo](…)` under **Animador/Animadora**),
+  de preferência com
+  `pessoas.py campo "<pessoa.md>" <Participante|Formação|Animador> "<linha>"`,
+  que põe a linha por ordem de ano, cria a secção e o grupo que faltarem e
+  tira o "- Nenhum". O rótulo do cargo na página da pessoa vai no singular
+  e com o género da pessoa ("Animadora Livre", "Tia"), mas o género só se
+  tira da própria página (rótulos já no feminino ou masculino, o grupo
+  **Animadora**, a introdução "uma das animadoras"); nunca do nome. Sem
+  isso, use a forma neutra ("Animador(a) de Equipa", grupo
+  **Animador(a):**). O grupo genérico **Animador:** e os rótulos neutros
+  "(a)" não contam como prova.
   Depois corra `pessoas.py secoes` (ver "Listas geradas", no fim): as
   listas dos cargos e dos campos escrevem-se sozinhas.
   Na página do **campo**, um Animador Livre ou de Equipa novo junta-se à
@@ -115,10 +141,36 @@ Uma pessoa é animador a partir do campo de formação: se a introdução diz
 estado na equipa de um campo mais tarde.
 Then list it: the letter's
 `index.md` (sorted), its count in `docs/Pessoas/index.md`, each category's
-`## Páginas nesta categoria (N)` (sorted, N+1), `docs/Todos os artigos.md`
+`## Páginas nesta categoria (N)` (sorted, N+1 — `pessoas.py inserir
+"<ficheiro>" "## Páginas nesta categoria" "<linha>"` faz as duas coisas),
+`docs/Todos os artigos.md`
 ("N artigos" +1) and the home page count in `docs/index.md`; o grafo
 (`docs/assets/graph.json`) não se edita à mão: corra
 `python3 scripts/actualizar_grafo.py`.
+
+## 3c. Apagar ou fundir uma pessoa
+
+Quando uma página é um duplicado errado ou uma pessoa que não existe, faça
+o §4 ao contrário, sem deixar ligações penduradas nem contagens erradas:
+
+1. `grep -rl` pelo nome do ficheiro (com e sem `%20`) e pelo título em
+   `docs/`, para saber todas as páginas que lhe ligam.
+2. Re-aponte cada ligação para a pessoa certa (confirmada com o
+   utilizador, como no §2) e passe os campos da página apagada para
+   `### Acampamentos` da pessoa certa (`pessoas.py campo`).
+3. Se a grafia antiga for um nome possível da pessoa certa, guarde-a em
+   `**Outros nomes:**` e como alcunha em `docs/Todos os artigos.md` (§3a);
+   senão, tire-a de lá.
+4. `git rm` da página; tire-a do `index.md` da letra, de cada categoria e
+   de `docs/Todos os artigos.md`, e tire 1 a cada contagem: a da letra em
+   `docs/Pessoas/index.md`, cada `## Páginas nesta categoria (N)`,
+   "N artigos" e a da página inicial `docs/index.md`. Confira as contagens
+   pelo número de linhas da lista, não só subtraindo: já houve contagens
+   desfasadas.
+5. Se a página estava numa desambiguação ou numa "Nota:" de outra pessoa,
+   actualize-as (ou apague a desambiguação se ficar com uma só pessoa).
+6. Corra `pessoas.py secoes`, `python3 scripts/actualizar_grafo.py` e as
+   validações do §5 (`reciprocas` com as páginas mexidas).
 
 ## 5. Validate
 

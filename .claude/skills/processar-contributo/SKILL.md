@@ -142,7 +142,10 @@ maioria crianças.
   artigos.md`) antes de ser ligado.
 - Onde o contributo contradisser o site, mostre as duas versões e
   pergunte; não sobreponha em silêncio. Não preencha o que quem enviou
-  deixou em branco.
+  deixou em branco. Excepção: a correcção só do rótulo de um cargo numa
+  linha que já existe (por exemplo "Tia" → "Tio", "Animadora" →
+  "Animador") pode aplicar-se sem perguntar, desde que fique assinalada na
+  descrição do PR e no comentário a quem enviou (passo 6).
 
 ## 4. Dar o crédito a quem enviou
 
@@ -164,8 +167,10 @@ Uma contribuição por issue, por mais páginas que tenha mexido.
 
 ## 5. Verificar e publicar
 
-Correr os validadores das skills usadas e `mkdocs build --strict`. O
-commit refere a issue ("… (issue #12)").
+Correr os validadores das skills usadas e `mkdocs build --strict`. Antes
+do commit, ver `git diff --stat`: tem de listar só as páginas que este
+contributo devia mexer (ver `novo-acampamento` §4). O commit refere a issue
+("… (issue #12)").
 
 - Directamente no `main`: fazer push e confirmar que o workflow "Publicar
   site" publicou.
@@ -236,3 +241,24 @@ git restore docs/Recentes.md             # a publicação volta a gerá-la
 
 As páginas restritas, os índices, as categorias, `Wikinácios/` e as páginas
 geradas não aparecem nunca em Recentes; e só entram as 100 mais recentes.
+
+## Auditar um arquivo
+
+Quando a fonte não é um contributo mas um arquivo grande (uma pasta com
+centenas de actas, folhas de equipas, relatórios de campos) e o pedido é
+ver o que falta no site:
+
+1. Meça primeiro as lacunas do site: um script curto sobre
+   `docs/Acampamentos/*/` que conte, por campo, as pessoas ligadas em
+   `### Animadores`, se tem datas e local; mais os anos sem página de
+   Encontro ou de DN. Depois liste a árvore do arquivo e abra só os
+   ficheiros que podem preencher essas lacunas.
+2. Relatórios e actas posteriores ao campo valem mais do que folhas de
+   planeamento ("Equipas (15 Março)"), que muitas vezes não batem certo com
+   o que aconteceu: use as segundas só como "proposta", assinalada.
+3. Quase todos os ficheiros misturam factos publicáveis com dados privados
+   (telefones, moradas, datas de nascimento, participantes menores,
+   palavras-passe, indicações de locais). Nada disso entra no relatório
+   nem no site — as regras do passo 2 valem aqui por inteiro.
+4. Onde o arquivo contradisser o site, liste as duas versões para o
+   utilizador decidir; não acrescente nada sem que ele o peça.
