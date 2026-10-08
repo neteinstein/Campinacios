@@ -14,6 +14,10 @@
     - 2009 [Lembras-te?](../../Acampamentos/2009/Lembras-te.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2012 [Sarcófago](../../Acampamentos/2012/Sarc%C3%B3fago.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
+### Família
+
+É irmão da [Francisca Dias](../F/Francisca%20Dias.md).
+
 ---
 
 | Categorias |

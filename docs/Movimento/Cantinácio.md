@@ -1,42 +1,94 @@
 # Cantinácio
 
+[![Capa do Cantinácio de 2019: uma guitarra amarela coberta de autocolantes](../assets/imagens/Cantin%C3%A1cio%202019/p001.jpg){ width="250" }](../assets/imagens/Cantin%C3%A1cio%202019/p001.jpg)
+
+*Capa do Cantinácio 2019 (3.ª edição), com ilustração de [Francisco Rodrigues (Pica)](../Pessoas/F/Francisco%20Silva%20Rodrigues.md).*
+
+Um novo Cantinácio foi lançado após anos e anos de tentativas: a 3.ª edição, de 2019, com pesquisa e edição de [Sara Moinhos](../Pessoas/S/Sara%20Moinhos.md) (2019) e Pedro Vicente (virtual), ilustrações de [Francisco Rodrigues (Pica)](../Pessoas/F/Francisco%20Silva%20Rodrigues.md) e coordenação e assistência de [Francisca Pimentel](../Pessoas/F/Francisca%20Pimentel.md) (2019).
+
 Reúne músicas e canções dos Campinácios e não só.
 
-Um novo Cantinácio foi lançado após anos e anos de tentativas, as músicas abaixo podem não reflectir essa nova versão.
+## Prefácio
 
-## Letras e acordes (639 músicas)
+*Now, I've heard there was a secret chord*<br>
+*That David played, and it pleased the Lord*<br>
+*But you don't really care for music, do you?*
+{ .wk-epigrafe }
 
-- [Cânticos](Cantin%C3%A1cio/C%C3%A2nticos.md) — 216 cânticos para as eucaristias e orações
+Na música *Hallelujah*, Leonard Cohen queixa-se do facto da sua amada não ligar nada à sua música. É uma pena, porque ele sabe muito bem que o próprio Deus ficava todo contente quando o Rei David (grande compositor de aleluias e salmos) tocava para Si o seu “acorde secreto.”
+
+Este Cantinácio pode não ter um acorde secreto, mas tem a banda sonora de imensos momentos memoráveis, mágicos, únicos: acordar, ginástica, BDSs, bênção das refeições, sornas, banhos, caminhadas, missas de campo, novelas, boa-noite... Nenhum destes momentos seria a mesma coisa sem aquela música, aquele cântico, aquele aplauso.
+
+Se *quem canta seus males espanta*; se *quem canta reza duas vezes*; então: canta! Canta a plenos pulmões, canta até que a voz te doa. Podes correr o risco de ficar rouco, mas sabes que isso torna melhor o dia dos outros, gera alegria e bom ambiente. No fundo, sabes que isso faz com que Deus fique satisfeito.
+
+E tu também, porque *you really care for music, don’t you?*
+
+[Luís Onofre](../Pessoas/L/Lu%C3%ADs%20Onofre.md), sj
+{ .wk-assinatura }
+
+<div class="wk-botoes" markdown="0">
+<button type="button" class="md-button md-button--primary wk-cantinacio-imprimir">Cantinácio Virtual</button>
+<a class="md-button md-button--primary" href="../assets/documentos/Cantin%C3%A1cio%202019.pdf" target="_blank" rel="noopener">Cantinácio Original</a>
+<a class="md-button" href="#letras-e-acordes">Ver Músicas Aqui</a>
+<a class="md-button md-button--primary" href="https://www.camtil.pt/camtilena" target="_blank" rel="noopener">Camtilena Virtual</a>
+</div>
+
+!!! info "Como funcionam os botões"
+
+    O botão **Cantinácio Virtual** gera um PDF, pronto a descarregar e a imprimir, com todas as letras e acordes do Wikinácios, aumentando em largas centenas a edição física de 2019. Antes de o gerar, escolhem-se as secções de músicas que deve ter, se vão os Aplausos, o Manual de Instruções e as Escalas e, nas músicas com duas versões, se vai a original, a versão simplificada do Cantinácio de 2019 ou as duas. Mantém-se a paginação à maneira do Cantinácio de 2019, com o Prefácio, índice e números de página. Antes do Manual de Instruções vai a secção **Música Viva**, com um QR Code para o vídeo de cada música que o tenha.
+
+    O botão **Cantinácio Original** abre o PDF do Cantinácio de 2019 (3.ª edição), tal como foi feito para imprimir, com as ilustrações e o índice originais.
+
+    O botão **Camtilena Virtual** permite o download da versão pública da 10.ª Edição da Camtilena no site do [Camtil](Camtil.md). O seu [Prefácio](Cantin%C3%A1cio/Camtilena%20Pref%C3%A1cio.md) é do Pe. [António Sant'Ana](../Pessoas/A/Ant%C3%B3nio%20Sant%27Ana.md), sj.
+
+## Letras e acordes
+
+As músicas do Cantinácio de 2019 (3.ª edição) foram juntadas às que já estavam no Wikinácios. Quando uma música já existia e a versão de 2019 é diferente, as duas aparecem, uma a seguir à outra: primeiro a original e depois a «Versão simplificada Cantinácio 2019».
+
+- [Campinácios](Cantin%C3%A1cio/Campin%C3%A1cios.md) — 75 músicas nascidas ou cantadas nos acampamentos
 - [Camtil](Cantin%C3%A1cio/Camtil.md) — 70 músicas nascidas nos acampamentos
-- [Campinácios](Cantin%C3%A1cio/Campin%C3%A1cios.md) — 22 músicas nascidas nos acampamentos
+- [Cânticos](Cantin%C3%A1cio/C%C3%A2nticos.md) — 260 cânticos para as eucaristias e orações
+- [Estrangeiras](Cantin%C3%A1cio/Estrangeiras.md) — 226 músicas estrangeiras
 - [Gambozinos](Cantin%C3%A1cio/Gambozinos.md) — 1 música nascida nos acampamentos
-- [Portuguesas](Cantin%C3%A1cio/Portuguesas.md) — 143 músicas portuguesas
-- [Estrangeiras](Cantin%C3%A1cio/Estrangeiras.md) — 187 músicas estrangeiras
+- [Portuguesas](Cantin%C3%A1cio/Portuguesas.md) — 214 músicas portuguesas
+
+## Manual de Instruções
+
+O [Manual de Instruções](Cantin%C3%A1cio/Manual%20de%20Instru%C3%A7%C3%B5es.md) do Cantinácio de 2019 explica como ler acordes e tocar guitarra, e traz as tabelas de acordes para guitarra e ukelele.
+
 - [Escalas](Cantin%C3%A1cio/Escalas.md) — como mudar uma música de tom
+
+## Aplausos
+
+- [Aplausos](Cantin%C3%A1cio/Aplausos.md) — 134 palmas, aplausos e gritos de roda
 
 ## Gravações
 
 Aqui ficam algumas músicas gravadas por [João Monteiro](../Pessoas/J/Jo%C3%A3o%20Monteiro.md) para efeitos nostalgicos. 
 
-<audio controls src="../assets/musicas/Cantin%C3%A1cio/02%20-%20Everybody%20Bate%20Palmas.mp3"></audio> 02 - Everybody Bate Palmas
+<audio controls src="../assets/musicas/Cantin%C3%A1cio/02%20-%20Everybody%20Bate%20Palmas.mp3"></audio><br>02 - Everybody Bate Palmas
 
-<audio controls src="../assets/musicas/Cantin%C3%A1cio/03%20-%20Mais%20Al%C3%A9m.mp3"></audio> 03 - Mais Além
+<audio controls src="../assets/musicas/Cantin%C3%A1cio/03%20-%20Mais%20Al%C3%A9m.mp3"></audio><br>03 - Mais Além
 
-<audio controls src="../assets/musicas/Cantin%C3%A1cio/04%20-%20Senhor%2C%20Tu%20Fascinas-me.mp3"></audio> 04 - Senhor, Tu Fascinas-me
+<audio controls src="../assets/musicas/Cantin%C3%A1cio/04%20-%20Senhor%2C%20Tu%20Fascinas-me.mp3"></audio><br>04 - Senhor, Tu Fascinas-me
 
-<audio controls src="../assets/musicas/Cantin%C3%A1cio/05%20-%20Sois%20H%C3%A1%20Muitos.mp3"></audio> 05 - Sois Há Muitos
+<audio controls src="../assets/musicas/Cantin%C3%A1cio/05%20-%20Sois%20H%C3%A1%20Muitos.mp3"></audio><br>05 - Sois Há Muitos
 
-<audio controls src="../assets/musicas/Cantin%C3%A1cio/06%20-%20Pedacinho%20de%20Deus.mp3"></audio> 06 - Pedacinho de Deus
+<audio controls src="../assets/musicas/Cantin%C3%A1cio/06%20-%20Pedacinho%20de%20Deus.mp3"></audio><br>06 - Pedacinho de Deus
 
-<audio controls src="../assets/musicas/Cantin%C3%A1cio/07%20-%20Canoa.mp3"></audio> 07 - Canoa
+<audio controls src="../assets/musicas/Cantin%C3%A1cio/07%20-%20Canoa.mp3"></audio><br>07 - Canoa
 
-<audio controls src="../assets/musicas/Cantin%C3%A1cio/09%20-%20Campin%C3%A1cios.mp3"></audio> 09 - Campinácios
+<audio controls src="../assets/musicas/Cantin%C3%A1cio/09%20-%20Campin%C3%A1cios.mp3"></audio><br>09 - Campinácios
 
-<audio controls src="../assets/musicas/Cantin%C3%A1cio/10%20-%20V%C3%A1rios.mp3"></audio> 10 - Vários
+<audio controls src="../assets/musicas/Cantin%C3%A1cio/10%20-%20V%C3%A1rios.mp3"></audio><br>10 - Vários
 
-<audio controls src="../assets/musicas/Cantin%C3%A1cio/11%20-%20Poema%20Lindo.mp3"></audio> 11 - Poema Lindo
+<audio controls src="../assets/musicas/Cantin%C3%A1cio/11%20-%20Poema%20Lindo.mp3"></audio><br>11 - Poema Lindo
 
-<audio controls src="../assets/musicas/Cantin%C3%A1cio/12%20-%20Algu%C3%A9m%20%C3%80%20Deriva.mp3"></audio> 12 - Alguém À Deriva
+<audio controls src="../assets/musicas/Cantin%C3%A1cio/12%20-%20Algu%C3%A9m%20%C3%80%20Deriva.mp3"></audio><br>12 - Alguém À Deriva
+
+Outras gravações:
+
+<audio controls src="../assets/musicas/Cantin%C3%A1cio/Long%20Tao%202006%20-%20Vem%20Acudir.mp3"></audio><br>[Vem Acudir](Cantin%C3%A1cio/Campin%C3%A1cios.md#vem-acudir) — hino da novela do campo [Long Tao](../Acampamentos/2006/Long%20Tao.md) (2006), de [António Amaral](../Pessoas/A/Ant%C3%B3nio%20Amaral.md) e [Leonardo Carvalho](../Pessoas/L/Leonardo%20Carvalho.md)
 
 ---
 

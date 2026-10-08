@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1257 artigos e, em itálico, os 198 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1283 artigos e, em itálico, os 208 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -51,6 +51,7 @@
 - [Ana Bela](Pessoas/A/Ana%20Bela.md)
 - [Ana Carolina Bardi](Pessoas/A/Ana%20Carolina%20Bardi.md)
 - [Ana Carolina Santos](Pessoas/A/Ana%20Carolina%20Santos.md)
+- [Ana Catarina Gil](Pessoas/A/Ana%20Catarina%20Gil.md)
 - [Ana Curto](Pessoas/A/Ana%20Curto.md)
 - *Ana da Rocha Gonçalves* → [Ana Rocha](Pessoas/A/Ana%20Rocha.md)
 - [Ana Geão](Pessoas/A/Ana%20Ge%C3%A3o.md)
@@ -158,6 +159,7 @@
 - [Barro Vivo](Acampamentos/2013/Barro%20Vivo.md)
 - [Baúmerang](Acampamentos/2007/Ba%C3%BAmerang.md)
 - [Baza](Acampamentos/2007/Baza.md)
+- *BDS* → [Bom Dia Senhor](Movimento/Bom%20Dia%20Senhor.md)
 - [Benedita Rolim](Pessoas/B/Benedita%20Rolim.md)
 - [Benedita Vasconcelos](Pessoas/B/Benedita%20Vasconcelos.md)
 - *Bernardo Morais Sarmento* → [Bernardo Moraes Sarmento](Pessoas/B/Bernardo%20Moraes%20Sarmento.md)
@@ -170,6 +172,7 @@
 - [Beatriz Miranda](Pessoas/B/Beatriz%20Miranda.md)
 - [Beatriz Picciochi](Pessoas/B/Beatriz%20Picciochi.md)
 - [Beatriz Pitxi](Pessoas/B/Beatriz%20Pitxi.md)
+- *Belchior* → [José Carlos Belchior](Pessoas/J/Jos%C3%A9%20Carlos%20Belchior.md)
 - [BEM CHEIO](Acampamentos/2019/BEM%20CHEIO.md)
 - *Benfeita* → [Benfeita (Arganil)](Restrito/Locais%20de%20Acampamento/Benfeita%20%28Arganil%29.md) 🔒
 - [Benfeita (Arganil)](Restrito/Locais%20de%20Acampamento/Benfeita%20%28Arganil%29.md) 🔒
@@ -182,7 +185,9 @@
 - [Bicicletas 94 I](Acampamentos/1994/Bicicletas%2094%20I.md)
 - [Bicicletas II](Acampamentos/1996/Bicicletas%20II.md)
 - [Bike Just Do It](Acampamentos/2008/Bike%20Just%20Do%20It.md)
+- *Boa Tarde Senhor* → [Bom Dia Senhor](Movimento/Bom%20Dia%20Senhor.md)
 - [Boas-vindas](Movimento/Boas-vindas.md)
+- [Bom Dia Senhor](Movimento/Bom%20Dia%20Senhor.md)
 - [Bruno Campos](Pessoas/B/Bruno%20Campos.md)
 - *Bolachao* → [Gonçalo Luís Carvalho](Pessoas/G/Gon%C3%A7alo%20Lu%C3%ADs%20Carvalho.md)
 - *Bolachão* → [Gonçalo Luís Carvalho](Pessoas/G/Gon%C3%A7alo%20Lu%C3%ADs%20Carvalho.md)
@@ -191,6 +196,7 @@
 - [Bruno Azevedo](Pessoas/B/Bruno%20Azevedo.md)
 - [Bruno Costa](Pessoas/B/Bruno%20Costa.md)
 - [Bruno Nobre](Pessoas/B/Bruno%20Nobre.md)
+- *BTS* → [Bom Dia Senhor](Movimento/Bom%20Dia%20Senhor.md)
 - [Bublix](Acampamentos/2009/Bublix.md)
 
 ## C
@@ -211,6 +217,7 @@
 - [Calhambeques 90](Acampamentos/1990/Calhambeques%2090.md)
 - [Calhambeques 91](Acampamentos/1991/Calhambeques%2091.md)
 - [Calinadas](Acampamentos/1998/Calinadas.md)
+- [Caminhada](Movimento/Caminhada.md)
 - [Carla Antunes](Pessoas/C/Carla%20Antunes.md)
 - *Carla Cardoso* → [Carla Ferreira](Pessoas/C/Carla%20Ferreira.md)
 - *Carla Cardoso Ferreira* → [Carla Ferreira](Pessoas/C/Carla%20Ferreira.md)
@@ -218,6 +225,7 @@
 - *Cami* → [Carlos Miguel Albuquerque](Pessoas/C/Carlos%20Miguel%20Albuquerque.md)
 - [Camila Martins](Pessoas/C/Camila%20Martins.md)
 - [Caminho](Acampamentos/2009/Caminho.md)
+- [Caminho 2009](Restrito/Relat%C3%B3rios%20de%20Campo/Caminho%202009.md) 🔒
 - [Camp & Nácios, S.A](Acampamentos/2013/Camp%20%26%20N%C3%A1cios%2C%20S.A.md)
 - *CAmpIC* → [CAmpIC 91](Acampamentos/1991/CAmpIC%2091.md)
 - [CAmpIC 89](Acampamentos/1989/CAmpIC%2089.md)
@@ -228,18 +236,23 @@
 - [Campo Ibérico](Acampamentos/1995/Campo%20Ib%C3%A9rico.md)
 - *CAMTIL* → [Camtil](Movimento/Camtil.md)
 - [Camtil](Movimento/Camtil.md)
+- [Camtilena: Prefácio](Movimento/Cantin%C3%A1cio/Camtilena%20Pref%C3%A1cio.md)
 - [Cândida Azevedo](Pessoas/C/C%C3%A2ndida%20Azevedo.md)
 - [Canja](Acampamentos/1998/Canja.md)
 - [Cantinácio](Movimento/Cantin%C3%A1cio.md)
+- [Cantinácio: Aplausos](Movimento/Cantin%C3%A1cio/Aplausos.md)
 - [Cantinácio: Campinácios](Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md)
 - [Cantinácio: Camtil](Movimento/Cantin%C3%A1cio/Camtil.md)
 - [Cantinácio: Cânticos](Movimento/Cantin%C3%A1cio/C%C3%A2nticos.md)
 - [Cantinácio: Escalas](Movimento/Cantin%C3%A1cio/Escalas.md)
 - [Cantinácio: Estrangeiras](Movimento/Cantin%C3%A1cio/Estrangeiras.md)
+- [Cantinácio: Manual de Instruções](Movimento/Cantin%C3%A1cio/Manual%20de%20Instru%C3%A7%C3%B5es.md)
 - [Cantinácio: Portuguesas](Movimento/Cantin%C3%A1cio/Portuguesas.md)
+- [Cantinácio: Prefácio](Movimento/Cantin%C3%A1cio/Pref%C3%A1cio.md)
 - *Capelães* → [Capelão](Cargos/Capel%C3%A3o.md)
 - [Capelão](Cargos/Capel%C3%A3o.md)
 - [Capelinho](Cargos/Capelinho.md)
+- [Carlos Miranda](Pessoas/C/Carlos%20Miranda.md)
 - [Carlos Pereira da Silva](Pessoas/C/Carlos%20Pereira%20da%20Silva.md)
 - *Carmo Cunha e Carmo* → [Maria do Carmo Cunha e Carmo](Pessoas/M/Maria%20do%20Carmo%20Cunha%20e%20Carmo.md)
 - [Carmo Madeira](Pessoas/C/Carmo%20Madeira.md)
@@ -265,7 +278,6 @@
 - [Carlos Carvalho](Pessoas/C/Carlos%20Carvalho.md)
 - [Carlos Lopes](Pessoas/C/Carlos%20Lopes.md)
 - [Carlos Miguel Albuquerque](Pessoas/C/Carlos%20Miguel%20Albuquerque.md)
-- *Carlos Miranda* → [José Carlos Miranda](Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md)
 - [Carlos Nunes](Pessoas/C/Carlos%20Nunes.md)
 - [Carlos Rodrigues](Pessoas/C/Carlos%20Rodrigues.md)
 - [Carlos Ruiz](Pessoas/C/Carlos%20Ruiz.md)
@@ -434,7 +446,7 @@
 - [Encontro Nacional 2007](Encontros/Encontro%20Nacional%202007.md)
 - [Encontro Nacional 2008](Encontros/Encontro%20Nacional%202008.md)
 - [Encontro Nacional 2009](Encontros/Encontro%20Nacional%202009.md)
-- [Encontro Nacional 2010](Encontros/Encontro%20Nacional%202010.md)
+- [Encontro Nacional 2010 (20 Anos)](Encontros/Encontro%20Nacional%202010%20%2820%20Anos%29.md)
 - [Encontro Nacional 2013](Encontros/Encontro%20Nacional%202013.md)
 - [Encontro Nacional 2019](Encontros/Encontro%20Nacional%202019.md)
 - [Encontro Nacional 2020](Encontros/Encontro%20Nacional%202020.md)
@@ -442,7 +454,7 @@
 - [Encontro Nacional 2022](Encontros/Encontro%20Nacional%202022.md)
 - [Encontro Nacional 2023](Encontros/Encontro%20Nacional%202023.md)
 - [Encontro Nacional 2024](Encontros/Encontro%20Nacional%202024.md)
-- [Encontro Nacional 2025](Encontros/Encontro%20Nacional%202025.md)
+- [Encontro Nacional 2025 (35 Anos)](Encontros/Encontro%20Nacional%202025%20%2835%20Anos%29.md)
 - [Encontro Nacional 2026](Encontros/Encontro%20Nacional%202026.md)
 - [Encontro Nacional de Animadores 2004](Encontros/Encontro%20Nacional%20de%20Animadores%202004.md)
 - [Encontro Nacional de Animadores 2005](Encontros/Encontro%20Nacional%20de%20Animadores%202005.md)
@@ -457,7 +469,10 @@
 - *Era Uma Vez* → [Era Uma Vez...](Acampamentos/2008/Era%20Uma%20Vez....md)
 - [Era Uma Vez...](Acampamentos/2008/Era%20Uma%20Vez....md)
 - [Ermal](Acampamentos/1993/Ermal.md)
+- *Escalão* → [Escalões](Movimento/Escal%C3%B5es.md)
+- [Escalões](Movimento/Escal%C3%B5es.md)
 - [Esperança](Acampamentos/2011/Esperan%C3%A7a.md)
+- [Esperança 2011](Restrito/Relat%C3%B3rios%20de%20Campo/Esperan%C3%A7a%202011.md) 🔒
 - [Eureka](Acampamentos/2008/Eureka.md)
 - [Exipto](Acampamentos/2025/Exipto.md)
 - [Êxodo](Acampamentos/2008/%C3%8Axodo.md)
@@ -466,9 +481,9 @@
 
 ## F
 
+- [Faia (Sernancelhe)](Restrito/Locais%20de%20Acampamento/Faia%20%28Sernancelhe%29.md) 🔒
 - [Fairplay](Acampamentos/2013/Fairplay.md)
 - [Falésia](Acampamentos/2005/Fal%C3%A9sia.md)
-- [FAQ](Movimento/FAQ.md)
 - [Farol](Acampamentos/2003/Farol.md)
 - [Francisca Pimentel](Pessoas/F/Francisca%20Pimentel.md)
 - [Francisco Caldas](Pessoas/F/Francisco%20Caldas.md)
@@ -523,6 +538,7 @@
 - [Fragas de S.Simão 94](Acampamentos/1994/Fragas%20de%20S.Sim%C3%A3o%2094.md)
 - [Francisca Crujeira](Pessoas/F/Francisca%20Crujeira.md)
 - [Francisca Dias](Pessoas/F/Francisca%20Dias.md)
+- *Francisca Matos Dias* → [Francisca Dias](Pessoas/F/Francisca%20Dias.md)
 - [Francisca Mendes](Pessoas/F/Francisca%20Mendes.md)
 - [Francisca Serrano](Pessoas/F/Francisca%20Serrano.md)
 - [Francisco Almeida](Movimento/Desambigua%C3%A7%C3%A3o/Francisco%20Almeida.md)
@@ -549,9 +565,11 @@
 - [Francisco Penetra](Pessoas/F/Francisco%20Penetra.md)
 - [Francisco Rodrigues](Movimento/Desambigua%C3%A7%C3%A3o/Francisco%20Rodrigues.md)
 - [Francisco Rodrigues (CAIC)](Pessoas/F/Francisco%20Rodrigues%20%28CAIC%29.md)
-- [Francisco Rodrigues (Pica)](Pessoas/F/Francisco%20Rodrigues%20%28Pica%29.md)
+- *Francisco Rodrigues (Pica)* → [Francisco Silva Rodrigues](Pessoas/F/Francisco%20Silva%20Rodrigues.md)
 - [Francisco Seabra](Pessoas/F/Francisco%20Seabra.md)
-- [Francisco Silva](Pessoas/F/Francisco%20Silva.md)
+- [Francisco Silva](Movimento/Desambigua%C3%A7%C3%A3o/Francisco%20Silva.md)
+- [Francisco Silva (1995)](Pessoas/F/Francisco%20Silva%20%281995%29.md)
+- [Francisco Silva (Kiko)](Pessoas/F/Francisco%20Silva%20%28Kiko%29.md)
 - [Francisco Silva Rodrigues](Pessoas/F/Francisco%20Silva%20Rodrigues.md)
 - [Francisco Xavier](Pessoas/F/Francisco%20Xavier.md)
 - [Frederico Cardoso de Lemos](Pessoas/F/Frederico%20Cardoso%20de%20Lemos.md)
@@ -632,6 +650,7 @@
 
 - [Ide](Acampamentos/2015/Ide.md)
 - [Iháquesermais](Acampamentos/2009/Ih%C3%A1quesermais.md)
+- [Imaginarium](Movimento/Imaginarium.md)
 - [Incrível](Acampamentos/2009/Incr%C3%ADvel.md)
 - [Inês Amorim](Pessoas/I/In%C3%AAs%20Amorim.md)
 - [Inês Fonseca](Pessoas/I/In%C3%AAs%20Fonseca.md)
@@ -666,6 +685,7 @@
 - *Janine* → [Janine Silva](Pessoas/J/Janine%20Silva.md)
 - [Janine Silva](Pessoas/J/Janine%20Silva.md)
 - [Joana Antunes](Pessoas/J/Joana%20Antunes.md)
+- [João Ilhão](Pessoas/J/Jo%C3%A3o%20Ilh%C3%A3o.md)
 - *Jocas* → [Joana Antunes](Pessoas/J/Joana%20Antunes.md)
 - *Johnny* → [João Afonso Sousa](Pessoas/J/Jo%C3%A3o%20Afonso%20Sousa.md)
 - [Já Dá](Acampamentos/2017/J%C3%A1%20D%C3%A1.md)
@@ -747,6 +767,7 @@
 - [João Paulo Moinhos](Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md)
 - [João Pedro Alves](Pessoas/J/Jo%C3%A3o%20Pedro%20Alves.md)
 - [João Pedro Carlos](Pessoas/J/Jo%C3%A3o%20Pedro%20Carlos.md)
+- *João Amorim Gomes* → [João Pedro Gomes](Pessoas/J/Jo%C3%A3o%20Pedro%20Gomes.md)
 - [João Pedro Gomes](Pessoas/J/Jo%C3%A3o%20Pedro%20Gomes.md)
 - [João Pessoa](Pessoas/J/Jo%C3%A3o%20Pessoa.md)
 - [João Pinto da Costa](Pessoas/J/Jo%C3%A3o%20Pinto%20da%20Costa.md)
@@ -771,6 +792,7 @@
 - [José Araújo](Pessoas/J/Jos%C3%A9%20Ara%C3%BAjo.md)
 - [José Augusto Rosa](Pessoas/J/Jos%C3%A9%20Augusto%20Rosa.md)
 - [José Cabelo](Pessoas/J/Jos%C3%A9%20Cabelo.md)
+- [José Carlos Belchior](Pessoas/J/Jos%C3%A9%20Carlos%20Belchior.md)
 - [José Carlos Miranda](Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md)
 - *José Correia Frazão* → [José Frazão](Pessoas/J/Jos%C3%A9%20Fraz%C3%A3o.md)
 - [José da Silva Almeida](Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
@@ -809,7 +831,7 @@
 
 - *Káká* → [Carolina Morão](Pessoas/C/Carolina%20Mor%C3%A3o.md)
 - *Kaká* → [Ricardo Rodrigues](Pessoas/R/Ricardo%20Rodrigues.md)
-- *Kiko* → [Francisco Silva](Pessoas/F/Francisco%20Silva.md)
+- *Kiko* → [Francisco Silva (Kiko)](Pessoas/F/Francisco%20Silva%20%28Kiko%29.md)
 - [Kiko Alves da Silva](Pessoas/K/Kiko%20Alves%20da%20Silva.md)
 - [Kiko Carmo](Pessoas/K/Kiko%20Carmo.md)
 - [Kiko Gomes](Pessoas/K/Kiko%20Gomes.md)
@@ -884,6 +906,7 @@
 ## M
 
 - [M&M](Acampamentos/2007/M%26M.md)
+- [Mação (Santarém)](Restrito/Locais%20de%20Acampamento/Ma%C3%A7%C3%A3o%20%28Santar%C3%A9m%29.md) 🔒
 - *Machoqueira do Grou* → [Machoqueira do Grou (Santarém)](Restrito/Locais%20de%20Acampamento/Machoqueira%20do%20Grou%20%28Santar%C3%A9m%29.md) 🔒
 - [Machoqueira do Grou (Santarém)](Restrito/Locais%20de%20Acampamento/Machoqueira%20do%20Grou%20%28Santar%C3%A9m%29.md) 🔒
 - [Madalena Dantas](Pessoas/M/Madalena%20Dantas.md)
@@ -908,6 +931,7 @@
 - [Maior Evento de Sempre em Portugal, Maior Até que a Mega Feijoada da Ponte Vasco da Gama](Acampamentos/2023/Maior%20Evento%20de%20Sempre%20em%20Portugal%2C%20Maior%20At%C3%A9%20que%20a%20Mega%20Feijoada%20da%20Ponte%20Vasco%20da%20Gama.md)
 - *Malú* → [Maria Silva](Pessoas/M/Maria%20Silva.md)
 - [Manuel Cardoso](Pessoas/M/Manuel%20Cardoso.md)
+- *Manuel Vasconcelos* → [Manas Vasconcelos](Pessoas/M/Manas%20Vasconcelos.md)
 - [Manuel Vassalo](Pessoas/M/Manuel%20Vassalo.md)
 - [Marcelo Vieira](Pessoas/M/Marcelo%20Vieira.md)
 - [Marco António](Pessoas/M/Marco%20Ant%C3%B3nio.md)
@@ -948,6 +972,8 @@
 - *Mawi* → [Maria Cunhal](Pessoas/M/Maria%20Cunhal.md)
 - *Migalha* → [Miguel Melo Ribeiro](Pessoas/M/Miguel%20Melo%20Ribeiro.md)
 - *Mimas* → [Mariana Rato](Pessoas/M/Mariana%20Rato.md)
+- *Mocamfe* → [MOCAMFE](Movimento/MOCAMFE.md)
+- [MOCAMFE](Movimento/MOCAMFE.md)
 - *Mogui* → [Margarida Tavares](Pessoas/M/Margarida%20Tavares.md)
 - [Mãos à Obra](Acampamentos/2014/M%C3%A3os%20%C3%A0%20Obra.md)
 - [Maravilha-te](Acampamentos/2018/Maravilha-te.md)
@@ -1098,11 +1124,14 @@
 
 - [Obra Prima](Acampamentos/2010/Obra%20Prima.md)
 - [Oh Pai, Keshumo](Acampamentos/2026/Oh%20Pai%2C%20Keshumo.md)
+- [Olga Couto](Pessoas/O/Olga%20Couto.md)
 - [Olha, Isto Aqui é uma Estátua](Acampamentos/2011/Olha%2C%20Isto%20Aqui%20%C3%A9%20uma%20Est%C3%A1tua.md)
 - *Oli* → [Pedro Oliveira](Pessoas/P/Pedro%20Oliveira.md)
 - [Online](Movimento/Online.md)
 - [OPA](Acampamentos/2007/OPA.md)
+- [OPA 2007](Restrito/Relat%C3%B3rios%20de%20Campo/OPA%202007.md) 🔒
 - [OrienTu](Acampamentos/2008/OrienTu.md)
+- [OrienTu 2008](Restrito/Relat%C3%B3rios%20de%20Campo/OrienTu%202008.md) 🔒
 - [Origami](Acampamentos/2006/Origami.md)
 - [Otília Azevedo](Pessoas/O/Ot%C3%ADlia%20Azevedo.md)
 
@@ -1197,6 +1226,7 @@
 - [Pó-Có](Acampamentos/2014/P%C3%B3-C%C3%B3.md)
 - *Poço de Corga* → [Poço de Corga (Castanheira de Pêra)](Restrito/Locais%20de%20Acampamento/Po%C3%A7o%20de%20Corga%20%28Castanheira%20de%20P%C3%AAra%29.md) 🔒
 - [Poço de Corga (Castanheira de Pêra)](Restrito/Locais%20de%20Acampamento/Po%C3%A7o%20de%20Corga%20%28Castanheira%20de%20P%C3%AAra%29.md) 🔒
+- [Pomar dos Braços (Miranda do Corvo)](Restrito/Locais%20de%20Acampamento/Pomar%20dos%20Bra%C3%A7os%20%28Miranda%20do%20Corvo%29.md) 🔒
 - [Pontes](Acampamentos/2001/Pontes.md)
 - [Póporcohá](Acampamentos/2014/P%C3%B3porcoh%C3%A1.md)
 - [Porto da Balsa](Restrito/Locais%20de%20Acampamento/Porto%20da%20Balsa.md) 🔒
@@ -1293,6 +1323,14 @@
 - [Rita Turras](Pessoas/R/Rita%20Turras.md)
 - [Rita Ventura](Pessoas/R/Rita%20Ventura.md)
 - *Ritinha Ângelo* → [Rita Ângelo](Pessoas/R/Rita%20%C3%82ngelo.md)
+- [Rockstock 2017](Encontros/Rockstock%202017.md)
+- [Rockstock 2018](Encontros/Rockstock%202018.md)
+- [Rockstock 2022](Encontros/Rockstock%202022.md)
+- [Rockstock 2023](Encontros/Rockstock%202023.md)
+- [Rockstock 2024](Encontros/Rockstock%202024.md)
+- [Rockstock 2025](Encontros/Rockstock%202025.md)
+- [Rockstock 2026](Encontros/Rockstock%202026.md)
+- [Roda](Movimento/Roda.md)
 - [Rodrigo Calçarão](Pessoas/R/Rodrigo%20Cal%C3%A7ar%C3%A3o.md)
 - [Rodrigo Queiroz e Melo](Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md)
 - [Rosa](Pessoas/R/Rosa.md)
@@ -1340,6 +1378,7 @@
 - [Sem Truques](Acampamentos/2025/Sem%20Truques.md)
 - [Sentido](Acampamentos/2014/Sentido.md)
 - [Sequeiros (Braga)](Restrito/Locais%20de%20Acampamento/Sequeiros%20%28Braga%29.md) 🔒
+- [Serão](Movimento/Ser%C3%A3o.md)
 - *Serpins* → [Ribeira do Conde (Serpins)](Restrito/Locais%20de%20Acampamento/Ribeira%20do%20Conde%20%28Serpins%29.md) 🔒
 - *Serra de Arga* → [Serra de Arga (Paredes de Coura)](Restrito/Locais%20de%20Acampamento/Serra%20de%20Arga%20%28Paredes%20de%20Coura%29.md) 🔒
 - [Serra de Arga (Paredes de Coura)](Restrito/Locais%20de%20Acampamento/Serra%20de%20Arga%20%28Paredes%20de%20Coura%29.md) 🔒
@@ -1461,6 +1500,7 @@
 ## V
 
 - [Vaivém](Acampamentos/2018/Vaiv%C3%A9m.md)
+- *Vale* → [André Vale](Pessoas/A/Andr%C3%A9%20Vale.md)
 - [Valéria Magalhães](Pessoas/V/Val%C3%A9ria%20Magalh%C3%A3es.md)
 - [Vasco Lucas Pires](Pessoas/V/Vasco%20Lucas%20Pires.md)
 - [Vasco Meneses](Pessoas/V/Vasco%20Meneses.md)

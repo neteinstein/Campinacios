@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{# Estatísticas de visitas com o GoatCounter: sem cookies, não precisa de aviso de consentimento. #}
+{% block analytics %}
+  {{ super() }}
+  <script data-goatcounter="https://wikinacios.goatcounter.com/count"
+          async src="//gc.zgo.at/count.js"></script>
+{% endblock %}
+
+{# Pré-visualização ao colar o endereço (WhatsApp, Facebook, etc.). #}
+{% block extrahead %}
+  {% set titulo = config.site_name if page.is_homepage else page.title ~ " - " ~ config.site_name %}
+  {% set descricao = page.meta.description if page.meta and page.meta.description else config.site_description %}
+  {% set imagem = config.site_url ~ "assets/imagens/partilha.png" %}
+  <meta name="description" content="{{ descricao }}">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ config.site_name }}">
+  <meta property="og:locale" content="pt_PT">
+  <meta property="og:title" content="{{ titulo }}">
+  <meta property="og:description" content="{{ descricao }}">
+  <meta property="og:url" content="{{ page.canonical_url }}">
+  <meta property="og:image" content="{{ imagem }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ titulo }}">
+  <meta name="twitter:description" content="{{ descricao }}">
+  <meta name="twitter:image" content="{{ imagem }}">
+{% endblock %}

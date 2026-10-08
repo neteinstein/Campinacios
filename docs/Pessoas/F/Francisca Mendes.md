@@ -10,7 +10,7 @@
 
 - **Participante:**
     - 2003 [Rastilho](../../Acampamentos/2003/Rastilho.md)
-    - 2004 [Casca de Banana](../../Acampamentos/2005/Casca%20de%20Banana.md)
+    - 2005 [Casca de Banana](../../Acampamentos/2005/Casca%20de%20Banana.md)
 - **Animadora:**
     - 2006 [Xii Tava Kuase Lá...!](../../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
     - 2007 [Diz Que Sim](../../Acampamentos/2007/Diz%20Que%20Sim.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)

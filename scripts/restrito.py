@@ -1,20 +1,24 @@
 #!/usr/bin/env python3
-"""Password-protected pages of the Wikinácios.
+"""Páginas da Wikinácios protegidas com palavra-passe.
 
-Pages that were restricted on the wiki are published encrypted: the Markdown
-file in docs/ holds only AES-256-GCM ciphertext (key derived from the
-password with PBKDF2-SHA256), and docs/assets/restrito.js decrypts it in the
-browser once the visitor types the password. Neither the repository nor the
-site ever holds the plain text.
+As páginas que eram restritas na wiki são publicadas cifradas: o ficheiro
+Markdown em docs/ só tem o texto cifrado com AES-256-GCM (chave derivada da
+palavra-passe com PBKDF2-SHA256), e o docs/assets/restrito.js decifra-o no
+navegador quando o visitante escreve a palavra-passe. Nem o repositório nem o
+site guardam alguma vez o texto às claras.
 
-Usage:
+Uso:
     pip install cryptography mkdocs-material
     python3 scripts/restrito.py mudar-palavra-passe
-    python3 scripts/restrito.py abrir    # decrypt into restrito-aberto/ to edit
-    python3 scripts/restrito.py fechar   # encrypt restrito-aberto/ back into docs/
+    python3 scripts/restrito.py abrir    # decifra para restrito-aberto/, para editar
+    python3 scripts/restrito.py fechar   # cifra restrito-aberto/ de volta para docs/
 
-The password is asked for, or read from WIKINACIOS_PALAVRA_PASSE (and the new
-one from WIKINACIOS_NOVA_PALAVRA_PASSE).
+O "fechar" cifra as páginas alteradas e também as novas: um ficheiro novo em
+restrito-aberto/ (por exemplo restrito-aberto/Restrito/X/Y.md) passa a
+docs/Restrito/X/Y.md, com o nome do ficheiro como título.
+
+A palavra-passe é pedida, ou lida de WIKINACIOS_PALAVRA_PASSE (e a nova de
+WIKINACIOS_NOVA_PALAVRA_PASSE).
 """
 import base64
 import getpass
@@ -55,8 +59,8 @@ def unb64(text):
 
 
 class Key:
-    """An AES key derived from the password; one salt for the whole site, so
-    the browser derives it once and can unlock every page with it."""
+    """Chave AES derivada da palavra-passe; um só sal para todo o site, para
+    que o navegador a derive uma vez e abra com ela todas as páginas."""
 
     def __init__(self, password, salt=None, iterations=ITERATIONS):
         self.salt = salt or secrets.token_bytes(16)
@@ -79,8 +83,8 @@ class Key:
 
 
 def render(md_text):
-    """Markdown -> HTML as mkdocs.yml renders it, with page links rewritten
-    the way MkDocs rewrites them (use_directory_urls: false)."""
+    """Markdown -> HTML como o mkdocs.yml o desenha, com as ligações entre
+    páginas reescritas como o MkDocs as reescreve (use_directory_urls: false)."""
     out = markdown.markdown(md_text, extensions=[
         'tables', 'fenced_code', 'admonition', 'attr_list', 'md_in_html',
         'toc'],
@@ -102,7 +106,7 @@ def encrypted_files():
 
 
 def site_key(password):
-    """The key the site's pages are encrypted with, checked against them."""
+    """A chave com que as páginas do site estão cifradas, verificada nelas."""
     files = list(encrypted_files())
     if not files:
         sys.exit('Não há páginas cifradas em docs/.')
@@ -153,15 +157,31 @@ def close_pages():
         sys.exit(f'Não existe {OPEN_DIR.name}/: corra primeiro "abrir".')
     key, files = site_key(ask('WIKINACIOS_PALAVRA_PASSE', 'Palavra-passe: '))
     sealed = 0
+    known = set()
     for path, text in files:
         src = OPEN_DIR / path.relative_to(DOCS)
+        known.add(src)
         if src.exists():
             body = src.read_text(encoding='utf-8')
             path.write_text(BLOCK.sub(lambda _: seal_page(key, body), text,
                                       count=1), encoding='utf-8')
             sealed += 1
+    new = 0
+    for src in sorted(OPEN_DIR.rglob('*.md')):
+        if src in known:
+            continue
+        path = DOCS / src.relative_to(OPEN_DIR)
+        if path.exists():
+            sys.exit(f'{path.relative_to(ROOT)} já existe e não está cifrada: '
+                     'não a substituo.')
+        body = src.read_text(encoding='utf-8')
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(f'# {path.stem}\n\n{seal_page(key, body)}\n',
+                        encoding='utf-8')
+        new += 1
     shutil.rmtree(OPEN_DIR)
-    print(f'{sealed} páginas cifradas; {OPEN_DIR.name}/ apagada.')
+    print(f'{sealed} páginas cifradas de novo e {new} novas; '
+          f'{OPEN_DIR.name}/ apagada.')
 
 
 if __name__ == '__main__':

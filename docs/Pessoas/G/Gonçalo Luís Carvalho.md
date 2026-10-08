@@ -19,7 +19,11 @@ Gonçalo Carvalho, é desde 2005 um dos animadores do Colégio da Imaculada Conc
 
 ### Encontros
 
-- 2010 [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md) - Encaminhamento/Segurança
+- 2010 [Encontro Nacional 2010 (20 Anos)](../../Encontros/Encontro%20Nacional%202010%20%2820%20Anos%29.md) - Encaminhamento/Segurança
+
+### Família
+
+É casado com a [Juliana Fernandes](../J/Juliana%20Fernandes.md).
 
 ---
 

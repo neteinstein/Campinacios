@@ -1,4 +1,4 @@
-# Encontro Nacional 2010
+# Encontro Nacional 2010 (20 Anos)
 
 O Encontro Nacional que celebrou os 20 anos dos Campinácios.
 Foi realizado no Colégio da Imaculada Conceição (CAIC) nos dias 10, 11 e 12 de Abril.
@@ -6,6 +6,22 @@ Foi realizado no Colégio da Imaculada Conceição (CAIC) nos dias 10, 11 e 12 d
 Foi o maior encontro até à data: participaram mais de 700 participantes e 100 animadores, ao longo de três dias. Foi preparado pela C.O.E.C.A. (Comissão de Organização do Encontro de CAmpinácios): [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md), [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md), [Filipe Próspero](../Pessoas/F/Filipe%20Pr%C3%B3spero.md), [Tiago Carneiro](../Pessoas/T/Tiago%20Carneiro.md) e [Joana Gomes](../Pessoas/J/Joana%20Gomes.md).
 
 Durante o encontro foi feito o logótipo humano dos Campinácios, com todos os participantes a formá-lo.
+
+No YouTube há vídeos do serão e de outros momentos do encontro:
+
+- [Abertura do serão](https://www.youtube.com/watch?v=NJ2JxOCmaXw)
+- [Serão "Os Famosos"](https://www.youtube.com/watch?v=YJjbKU1wu84)
+- ["Parabéns aos Campinácios"](https://www.youtube.com/watch?v=uQ7maOt8zaQ)
+- [Anúncio do novo logotipo](https://www.youtube.com/watch?v=AhlhiVLZQmE)
+
+Uma série de vídeos curtos «Campinácios», de Miguel da Câmara Machado e Francisco Lemos Caldas:
+
+- [Barack Obama](https://www.youtube.com/watch?v=mCqRteZty5E)
+- [Bob](https://www.youtube.com/watch?v=Lapq6uPLVTQ)
+- [Cristiano Ronaldo e Mãe](https://www.youtube.com/watch?v=ohh4sXZXZ2w)
+- [Harry Potter](https://www.youtube.com/watch?v=-IRLCfpiCmc)
+- [São Paulo](https://www.youtube.com/watch?v=hKFDdT5HlsA)
+- [Scolari](https://www.youtube.com/watch?v=v_QglEdtVRU)
 
 ## Organização
 

@@ -3,6 +3,8 @@
 O Encontro Nacional 2007 realizou-se no CAIC tendo como Imaginarium a Gália de Astérix e Obélix.
 
 [![Bailarinos de fogo a actuar de noite, com poi e bastões em chamas](../assets/imagens/Encontro%20Nacional%20de%202007.png)](../assets/imagens/Encontro%20Nacional%20de%202007.png)
+[![Dois animadores mascarados, um de Pai Natal e outro com lenço na cabeça e óculos escuros, com bigodes postiços](../assets/imagens/Encontro%20Nacional%20de%202007%20%282%29.jpg)](../assets/imagens/Encontro%20Nacional%20de%202007%20%282%29.jpg)
+[![Três animadores a brincar ao ar livre, um deitado a ser alimentado com uvas, outro com um megafone de brinquedo, outro vestido de trajo medieval](../assets/imagens/Encontro%20Nacional%20de%202007%20%283%29.jpg)](../assets/imagens/Encontro%20Nacional%20de%202007%20%283%29.jpg)
 
 Teve como particularidade apostar em ter animadores dos 3 colégios a organizar os momentos, tendo aberto inscrições para cada secção a que os animadores se podiam candidatar.
 
@@ -12,6 +14,34 @@ Teve como particularidade apostar em ter animadores dos 3 colégios a organizar 
 - **Co-Responsáveis**: [Carlos Rodrigues](../Pessoas/C/Carlos%20Rodrigues.md), [Inês Patrício](../Pessoas/I/In%C3%AAs%20Patr%C3%ADcio.md) e [Rita Roxo](../Pessoas/R/Rita%20Roxo.md)
 
 Todos os animadores do CAIC no activo.
+
+## Vídeos
+
+Vídeos do encontro no YouTube:
+
+- [Publicidade ao encontro](https://www.youtube.com/watch?v=j1Rr0TWkafU)
+- [Recepção: Gália](https://www.youtube.com/watch?v=ILFTsJ4lyzM)
+- [Publicidade do serão: Caminhada](https://www.youtube.com/watch?v=9k5oyUzV844)
+- [Serão: «Homem que só come pão e bebe leite» (introdução)](https://www.youtube.com/watch?v=xRlki2qjcL0)
+- [Serão: «Homem que só come pão e bebe leite»](https://www.youtube.com/watch?v=w2-tHs7gUKA)
+- [Serão: making of](https://www.youtube.com/watch?v=BjrjwzfE-Ps)
+- [Serão: making of das publicidades (1)](https://www.youtube.com/watch?v=FApma1hkzTU)
+- [Serão: making of das publicidades (2)](https://www.youtube.com/watch?v=FxaF3S0dzUU)
+- [Missa](https://www.youtube.com/watch?v=kAU3QX1L1rg)
+- [Serão (parte 1): programa do José Hermano de Saraiva e fotografias do Herói XS 06](https://www.youtube.com/watch?v=7KH9zi7zL5k)
+- [Missa: «Ubi caritas»](https://www.youtube.com/watch?v=Qljdr1HlVUI)
+- [Missa: «Sei que te amar»](https://www.youtube.com/watch?v=p2v7qpLQJHs)
+- [Missa: «Entrega»](https://www.youtube.com/watch?v=TN-hC4AAx6c)
+- [Serão: publicidade «Ecoponto»](https://www.youtube.com/watch?v=fBbLRjKCQvQ)
+- [Serão: publicidade «Euribor»](https://www.youtube.com/watch?v=lfx17nRGDk0)
+- [Serão: publicidade «Vege»](https://www.youtube.com/watch?v=tAktU8iHwrw)
+- [Serão: parte 0](https://www.youtube.com/watch?v=nFWRa08c5_A)
+- [Serão: parte 2](https://www.youtube.com/watch?v=OSfL2SB0dsU)
+- [Serão: parte 4](https://www.youtube.com/watch?v=ksJReSh3Agw)
+- [Serão (outra gravação): parte 2](https://www.youtube.com/watch?v=A3cr3FuvI5Y)
+- [Serão (outra gravação): parte 4](https://www.youtube.com/watch?v=FUvOLfUP4BA)
+- [Serão (outra gravação): parte 6](https://www.youtube.com/watch?v=kF9-17qulYU)
+- [Serão (outra gravação): parte 9](https://www.youtube.com/watch?v=5qOELDJ8GfA)
 
 ---
 

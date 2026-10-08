@@ -480,3 +480,117 @@
 .md-typeset table [hidden] {
   display: none !important;
 }
+
+/* Plano de campo (grelha de horários com células fundidas) */
+.md-typeset .wk-plano-campo table:not([class]) {
+  display: block;
+  overflow-x: auto;
+  font-size: .62rem;
+  border-collapse: collapse;
+}
+.md-typeset .wk-plano-campo table:not([class]) th,
+.md-typeset .wk-plano-campo table:not([class]) td {
+  padding: .3em .5em;
+  text-align: center;
+  vertical-align: middle;
+  border: 1px solid var(--md-default-fg-color--lightest);
+}
+.md-typeset .wk-plano-campo table:not([class]) tbody th {
+  white-space: nowrap;
+}
+/* Categorias com cor no plano de campo e na respectiva legenda */
+.md-typeset .wk-cat-refeicao { background-color: rgba(255, 214, 0, .22); }
+.md-typeset .wk-cat-jogo { background-color: rgba(0, 140, 40, .22); }
+.md-typeset .wk-cat-formacao { background-color: rgba(227, 108, 9, .24); }
+.md-typeset .wk-cat-autogestao { background-color: rgba(51, 102, 255, .22); }
+.md-typeset .wk-cat-oracao { background-color: rgba(130, 0, 130, .22); }
+.md-typeset .wk-cat-diferente { background-color: rgba(221, 8, 6, .2); }
+.md-typeset .wk-plano-legenda span {
+  display: inline-block;
+  margin: 0 .4em .4em 0;
+  padding: .1em .6em;
+  font-size: .75rem;
+  border-radius: .2rem;
+}
+
+/* Os botões do Cantinácio (um <button>, outro <a>) com exactamente a mesma altura:
+   o <button> usa por omissão line-height: normal e o <a> herda 1.6. */
+.md-typeset .md-button {
+  box-sizing: border-box;
+  line-height: 1.6;
+  vertical-align: middle;
+}
+
+/* Configuração do Cantinácio Virtual (docs/assets/cantinacio-imprimir.js):
+   a pequena janela que se abre com o botão «Cantinácio Virtual». */
+.wk-cv {
+  width: min(22rem, calc(100vw - 2rem));
+  padding: 0;
+  border: 0;
+  border-radius: .3rem;
+  color: var(--md-default-fg-color);
+  background-color: var(--md-default-bg-color);
+  box-shadow: var(--md-shadow-z3);
+  font-size: .8rem;
+}
+.wk-cv::backdrop { background: rgba(0, 0, 0, .45); }
+.wk-cv__caixa { position: relative; padding: 1.2rem 1.4rem 1rem; }
+.wk-cv .wk-cv__caixa { font-size: .8rem; }
+.wk-cv .wk-cv__caixa h2 { margin: 0 1.5rem .8rem 0; font-size: 1.1rem; font-weight: 700; line-height: 1.3; letter-spacing: 0; }
+.wk-cv fieldset { margin: 0 0 .9rem; padding: 0; border: 0; }
+.wk-cv legend { margin-bottom: .4rem; padding: 0; font-weight: 700; }
+.wk-cv__escondido { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+.wk-cv__opcao { display: flex; align-items: center; gap: .5rem; padding: .15rem 0; cursor: pointer; }
+.wk-cv__opcao input { width: 1rem; height: 1rem; margin: 0; accent-color: var(--md-primary-fg-color); }
+.wk-cv__fechar {
+  position: absolute;
+  top: .5rem;
+  right: .6rem;
+  padding: 0 .3rem;
+  border: 0;
+  background: none;
+  color: var(--md-default-fg-color--light);
+  font-size: 1.4rem;
+  line-height: 1;
+  cursor: pointer;
+}
+.wk-cv__fechar:hover { color: var(--md-default-fg-color); }
+.wk-cv .wk-cv__gerar { width: 100%; margin: 0; cursor: pointer; }
+.wk-cv .wk-cv__gerar:disabled { opacity: .5; cursor: default; }
+.wk-cv .wk-cv__estado { min-height: 1.2em; margin: .6rem 0 0; color: var(--md-default-fg-color--light); }
+.wk-cv--a-gerar .wk-cv__estado::before {
+  content: "";
+  display: inline-block;
+  width: .7em;
+  height: .7em;
+  margin-right: .4em;
+  border: .15em solid currentColor;
+  border-right-color: transparent;
+  border-radius: 50%;
+  vertical-align: -.05em;
+  animation: wk-cv-roda 1s linear infinite;
+}
+@keyframes wk-cv-roda { to { transform: rotate(360deg); } }
+
+/* Botões do Cantinácio lado a lado, dois a dois, com espaço entre as linhas. */
+.md-typeset .wk-botoes {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: .8rem;
+  max-width: 34rem;
+  margin: 1em 0;
+}
+.md-typeset .wk-botoes .md-button {
+  margin: 0;
+  width: 100%;
+  text-align: center;
+}
+
+/* Prefácio do Cantinácio: a citação ao centro e a assinatura à direita */
+.md-typeset .wk-epigrafe {
+  text-align: center;
+}
+
+.md-typeset .wk-assinatura {
+  text-align: right;
+}

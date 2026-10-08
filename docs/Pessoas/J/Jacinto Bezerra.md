@@ -28,7 +28,7 @@ Jacinto Bezerra, é animador do CC desde 2003.
 
 ### Encontros
 
-- 2010 [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md) - Limpeza
+- 2010 [Encontro Nacional 2010 (20 Anos)](../../Encontros/Encontro%20Nacional%202010%20%2820%20Anos%29.md) - Limpeza
 
 ---
 

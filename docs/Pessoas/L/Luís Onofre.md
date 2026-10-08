@@ -22,6 +22,10 @@
     - 2022 [Antestreia](../../Acampamentos/2022/Antestreia.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2026 [Navalha-me Deus](../../Acampamentos/2026/Navalha-me%20Deus.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
+### Cantinácio
+
+Escreveu o [Prefácio](../../Movimento/Cantin%C3%A1cio/Pref%C3%A1cio.md) do Cantinácio de 2019 (3.ª edição).
+
 ### Família
 
 É irmão do [João Carlos Onofre](../J/Jo%C3%A3o%20Carlos%20Onofre.md), SJ.

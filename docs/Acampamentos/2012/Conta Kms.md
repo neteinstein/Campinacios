@@ -9,6 +9,10 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Ana Paula Sampaio](../../Pessoas/A/Ana%20Paula%20Sampaio.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj
 
+## Participantes que se tornaram animadores
+
+- [Ana Catarina Gil](../../Pessoas/A/Ana%20Catarina%20Gil.md)
+
 ---
 
 | Categorias |

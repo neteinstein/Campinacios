@@ -1,5 +1,7 @@
 # Vasco Lucas Pires
 
+Vasco Lucas Pires é do [CSJB](../../Movimento/CSJB.md).
+
 ### Cargos
 
 - 2025/2026 Assistente da [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
@@ -18,6 +20,10 @@
 ### Família
 
 É filho da [Margarida Valle](../M/Margarida%20Valle.md) e do [Rafael Lucas Pires](../R/Rafael%20Lucas%20Pires.md). É irmão do [Jaime Lucas Pires](../J/Jaime%20Lucas%20Pires.md).
+
+### Encontros
+
+- 2026 [Rockstock 2026](../../Encontros/Rockstock%202026.md) - Jesuíta
 
 ---
 

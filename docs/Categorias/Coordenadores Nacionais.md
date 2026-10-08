@@ -1,8 +1,11 @@
 # Coordenadores Nacionais
 
-O Coordenador Nacional era um elemento escolhido entre os membros efectivos da Direcção Nacional, actualmente é um elemento extra-Direcção Nacional, que já tenha feito parte nos anos anteriores da mesma de preferência.
+Este cargo na realidade não existia nos moldes que conhecemos hoje até 2005. Anteriormente existia um Coordenador da Direcção Nacional cujo objectivo era propor temas a discussão e moderar as reuniões da Direcção Nacional.
 
+Passou a existir nos moldes de Coordenador Nacional em 2005 sendo um elemento escolhido entre os membros efectivos da Direcção Nacional, semelhante a um "Director" num acampamento, sendo o Assistente Nacional o "Capelão".
 Coordena os trabalhos da Direcção, coordena e gere a comunicação entre as 3 Direcções Locais, e mais recentemente faz a ponte com a equipa que gere a componente online do movimento.
+
+Actualmente é um elemento extra-Direcção Nacional, que já tenha feito parte nos anos anteriores da mesma de preferência.
 
 ### Coordenadores Nacionais
 

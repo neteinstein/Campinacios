@@ -11,6 +11,10 @@
     - 2015 [Às 10 faz xiu](../../Acampamentos/2015/%C3%80s%2010%20faz%20xiu.md) - [Director](../../Cargos/Director.md)
     - 2016 [Plano B](../../Acampamentos/2016/Plano%20B.md) - [Director](../../Cargos/Director.md)
 
+### Família
+
+É casado com a [Maria Amorim](Maria%20Amorim.md).
+
 ---
 
 | Categorias |

@@ -2,6 +2,8 @@
 
 **Fairplay** foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) realizado em 2013. O tema do ano foi *Ámen*.
 
+No YouTube há um [vídeo do campo](https://www.youtube.com/watch?v=0Hq8fUwXs8M).
+
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Rafael Carecho](../../Pessoas/R/Rafael%20Carecho.md)

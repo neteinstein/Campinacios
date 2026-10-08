@@ -22,7 +22,11 @@ Andreia Sofia de Sousa Gil, nascida a 26 de Janeiro de 1987. Animadora do Colég
 
 ### Encontros
 
-- 2010 [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md) - Secretaria
+- 2010 [Encontro Nacional 2010 (20 Anos)](../../Encontros/Encontro%20Nacional%202010%20%2820%20Anos%29.md) - Secretaria
+
+### Família
+
+É casada com o [João Quintela](../J/Jo%C3%A3o%20Quintela.md).
 
 ---
 

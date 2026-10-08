@@ -25,7 +25,7 @@ Foi o primeiro Encontro Nacional de Animadores, organizado pelo então [Assisten
 - [João Pedro Carlos](../Pessoas/J/Jo%C3%A3o%20Pedro%20Carlos.md)
 - [Lara Fernandes](../Pessoas/L/Lara%20Fernandes.md)
 - [Joana Cardoso](../Pessoas/J/Joana%20Cardoso.md)
-- [Francisco Rodrigues (Pica)](../Pessoas/F/Francisco%20Rodrigues%20%28Pica%29.md)
+- [Francisco Rodrigues (Pica)](../Pessoas/F/Francisco%20Silva%20Rodrigues.md)
 - [Manuel Vilhena](../Pessoas/M/Manuel%20Vilhena.md)
 - [Joana Ferreira da Silva](../Pessoas/J/Joana%20Ferreira%20da%20Silva.md)
 - [Ricardo Amado](../Pessoas/R/Ricardo%20Amado.md)
@@ -74,6 +74,10 @@ Foi o primeiro Encontro Nacional de Animadores, organizado pelo então [Assisten
 - [João Quintela](../Pessoas/J/Jo%C3%A3o%20Quintela.md)
 - [Juliana Costa](../Pessoas/J/Juliana%20Costa.md)
 - [António Valério](../Pessoas/A/Ant%C3%B3nio%20Val%C3%A9rio.md) sj
+
+## Vídeos
+
+- [I Encontro Nacional de Animadores](https://www.youtube.com/watch?v=vOopwWuVyZY)
 
 ---
 

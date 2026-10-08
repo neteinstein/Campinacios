@@ -17,6 +17,10 @@ Ivo Reis, é um dos animadores do Colégio da Imaculada Conceição.
     - 2010 [Baba Yetu](../../Acampamentos/2010/Baba%20Yetu.md) - [Director](../../Cargos/Director.md)
     - 2012 [Clávis](../../Acampamentos/2012/Cl%C3%A1vis.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
 
+### Família
+
+É casado com a [Joana Lima](../J/Joana%20Lima.md).
+
 ---
 
 | Categorias |

@@ -6,6 +6,10 @@
     - 2018 [Descola (2018)](../../Acampamentos/2018/Descola%20%282018%29.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2024 [Mestrarte](../../Acampamentos/2024/Mestrarte.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
+### Encontros
+
+- 2025 [Rockstock 2025](../../Encontros/Rockstock%202025.md) - Jesuíta
+
 ---
 
 | Categorias |
