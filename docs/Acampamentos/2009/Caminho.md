@@ -61,6 +61,49 @@ Deixo-vos aqui as indicações para chegar ao ponto de partida...mas tenham pres
 
 Paulo de Tarso
 
+## Plano de campo
+
+Réplica do plano do campo preparado pela equipa de animação.
+
+<div class="wk-plano-campo" markdown>
+<table>
+<thead>
+<tr><th></th><th>0º Dia – 5ª<br>30 Julho</th><th>1º Dia – 6ª<br>31 Julho</th><th>2º Dia – Sáb<br>1 Agosto</th><th>3º Dia – Dom<br>2 Agosto</th><th>4º Dia – 2ª<br>3 Agosto</th><th>5º Dia – 3ª<br>4 Agosto</th><th>6º Dia – 4ª<br>5 Agosto</th><th>7º Dia – 5ª<br>6 Agosto</th></tr>
+<tr><th>Horário</th><th></th><th>Introdução / Pecado</th><th>Conversão</th><th>Corpo para a missão</th><th>Peregrino</th><th>Paixão</th><th>Ressurreição</th><th>After-Paul</th></tr>
+</thead>
+<tbody>
+<tr><th>8:20</th><td></td><td></td><td>Acordar animadores</td><td>Acordar animadores</td><td>Acordar animadores</td><td>Acordar animadores</td><td>Acordar animadores</td><td></td></tr>
+<tr><th>8:30</th><td></td><td>Chegada!</td><td>Pedro, Renato e Ciso</td><td>João e Maria</td><td>Cris e Ana Martins</td><td>Edu e Caramela</td><td>Majo, Silvinha e Ana</td><td></td></tr>
+<tr><th>9:00</th><td></td><td>Pequeno-almoço</td><td>Pequeno-almoço</td><td>Pequeno-almoço</td><td>Pequeno-almoço</td><td>Pequeno-almoço</td><td>Pequeno-almoço</td><td>Acordar animadores</td></tr>
+<tr><th>9:30</th><td></td><td>Missa</td><td>BDS</td><td>BDS</td><td>BDS (curto)</td><td>Missa / Oração</td><td>BDS</td><td>Pequeno-almoço</td></tr>
+<tr><th>10:30</th><td></td><td>Introdução ao Imaginarium</td><td></td><td rowspan="2">Workshop: RH<br>Majo + Edu</td><td></td><td>Partilha?</td><td></td><td></td></tr>
+<tr><th>11:00</th><td></td><td rowspan="4">Construção<br>Latrina: Cris + Edu<br>Cozinha: Maria e Cris<br>Tenda Mamã: Caramela</td><td></td><td rowspan="2">Caminhada de pobreza</td><td></td><td></td><td></td></tr>
+<tr><th>11:30</th><td></td><td rowspan="2">Introdução da Auto-Gestão e Funções</td><td></td><td></td><td>Avaliação AG</td><td>Avaliação Geral</td></tr>
+<tr><th>12:00</th><td></td><td>Avaliação AG</td><td></td><td></td><td></td><td>Limpeza e Arrumos</td></tr>
+<tr><th></th><td></td><td>Banho</td><td></td><td></td><td></td><td></td><td>Banho</td></tr>
+<tr><th>13:00</th><td></td><td>Almoço (no trabalho)</td><td rowspan="7">Auto-Gestão<br>Equipa A</td><td rowspan="6">Auto-Gestão<br>Equipa B</td><td>Almoço</td><td rowspan="7">Auto-Gestão<br>Equipa C</td><td rowspan="6">Auto-Gestão<br>Equipa D</td><td>Almoço</td></tr>
+<tr><th>14:00</th><td></td><td rowspan="2">Tendas: Renato e Ciso</td><td></td><td>Missa</td></tr>
+<tr><th>15:00</th><td rowspan="3">Estão montadas as nossas tendas e fogão só (??)</td><td rowspan="5">Caminhada de pobreza por grupos de AG c\ mapa, pontos de oração e regras</td><td></td></tr>
+<tr><th></th><td></td><td></td></tr>
+<tr><th>16:00</th><td></td><td>Baba, choro e bazem!</td></tr>
+<tr><th>17:30</th><td></td><td></td><td></td></tr>
+<tr><th>18:45</th><td></td><td></td><td>Missa</td><td>Missa</td><td></td></tr>
+<tr><th>19:30</th><td></td><td>Banho</td><td>Missa</td><td>Banho</td><td></td><td>Banho</td><td>Avaliação AG</td><td></td></tr>
+<tr><th>20:15</th><td></td><td>Jantar</td><td>Jantar</td><td>Jantar</td><td></td><td>Jantar</td><td>Jantar</td><td></td></tr>
+<tr><th></th><td rowspan="3">Transporte?<br>Chegada e dormida na area adjacente</td><td rowspan="3">Serão Impossível<br>Pedro Vicente</td><td>Workshop Planificação e Direcção<br>Animação de Roda</td><td>Avaliação AG</td><td rowspan="3">Arraial /<br>Lava pés<br>(Transporte?)</td><td>Workshop Caminhada</td><td rowspan="3">Passagem e encerramento do Imaginarium<br>Renato, Ciso e Pedro</td><td></td></tr>
+<tr><th>21:45</th><td>Estupidificação: Pedro + João</td><td>Workshop Segurança e Saúde</td><td>Estupidificação: Edu, Ana e Silvinha</td><td></td></tr>
+<tr><th></th><td></td><td>Estupidificação: Caramela + Cris</td><td></td><td></td></tr>
+<tr><th>23:00</th><td>Reunião Animadores</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th></th><td>Boa Noite</td><td>Boa Noite</td><td>Boa Noite</td><td></td><td>Boa Noite</td><td>Boa Noite</td><td></td><td></td></tr>
+<tr><th>0:00</th><td></td><td>Reunião Animadores</td><td>Reunião Animadores</td><td>Boa Noite</td><td>Reunião Animadores</td><td>Reunião Animadores</td><td>Boa Noite</td><td></td></tr>
+<tr><th></th><td></td><td>Reunião Júniores</td><td>Reunião Júniores</td><td>Reunião Animadores</td><td>Reunião Júniores</td><td>Reunião Júniores</td><td>Reunião Animadores</td><td></td></tr>
+</tbody>
+</table>
+</div>
+
+
+BDS – Bom Dia Senhor; AG – Auto-Gestão.
+
 ## Participantes que se tornaram animadores
 
 - [Alexandra Silva](../../Pessoas/A/Alexandra%20Silva.md)
@@ -93,6 +136,10 @@ Paulo de Tarso
 - [Rita Quintela](../../Pessoas/R/Rita%20Quintela.md)
 - [Sara Fernandes](../../Pessoas/S/Sara%20Fernandes.md)
 - [Sílvia Lobo](../../Pessoas/S/S%C3%ADlvia%20Lobo.md)
+
+## Relatório de Campo
+
+O [relatório de campo](../../Restrito/Relat%C3%B3rios%20de%20Campo/Caminho%202009.md) 🔒 escrito pela direcção é uma página restrita.
 
 ---
 

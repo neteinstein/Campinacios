@@ -139,6 +139,16 @@ Que a volta desta roda
 Haja sempre alegria
 ```
 
+*Versão simplificada Cantinácio 2019:*
+
+```text
+Abençoai Senhor, a nossa refeição
+Que à volta desta roda haja sempre união!
+
+Abençoai Senhor, o pão de cada dia
+Que à volta desta roda haja sempre alegria!
+```
+
 ### ACORDA O SOL {#acorda-o-sol}
 
 *Melgas II 2001*
@@ -1578,6 +1588,39 @@ Que este pão dê força, luz e alegria
 P’ra melhor Te amar em cada dia
 ```
 
+*Versão simplificada Cantinácio 2019:*
+
+```text
+Dó Fá*    Lám7 Lá*
+
+Dó      Fá*        Lám7       Lám*
+Senhor, nós sabemos que aqui estás
+
+Dó Fá* Lám7 Lám*
+
+Dó     Fá*          Lám7       Lám*
+Obrigado pelo pão que Tu nos dás
+
+D Dó Fá* Lám7 Lám*
+
+      Fá
+P’ra te amar
+          Dó
+E melhor te servir
+        Fá
+Abençoa Senhor
+                 Dó
+É o que te vimos pedir
+                Fá            Dó
+Que este pão dê força, luz e alegria
+                  Fá                Dó
+P’ra sermos mais como Tu em cada dia (x2)
+
+Dó Fá*    Lám7 Lá*
+
+Fá* - xx301x; Lá* - xx001x
+```
+
 ### O ESSENCIAL {#o-essencial}
 
 *Tremelgas 90 - Tibães*
@@ -1965,6 +2008,29 @@ Por isso peço o Teu perdão,
 Senhor
 ```
 
+*Versão simplificada Cantinácio 2019:*
+
+```text
+   Dó
+Perdoa-me Senhor
+                                 Mim
+Às vezes esqueço que daí olhas por nós
+          Lám                        Rém
+E não me lembro de parar e ouvir-te a voz
+          Fá               Sol
+Ando num mundo em que não sinto
+             Fá            Sol
+Em que me escondo e em que minto
+       Lám  Mim
+Fico menor
+
+Perdoa-me Senhor
+Por fechar a minha mão sem a estender
+Por não me lembrar que devo dar sem receber
+E em vez de sim Te digo não
+Por isso peço o Teu perdão, Senhor
+```
+
 ### PETROMAX {#petromax}
 
 ```text
@@ -2276,6 +2342,32 @@ Lá*:  xx0230
 Dó(9)*:x32033
 ```
 
+*Versão simplificada Cantinácio 2019:*
+
+```text
+Ré        Dó*
+Ensinaste-me a pedir
+   Sol
+O pão de cada dia
+Ré               Dó*
+Que apenas nos dá força
+Sol               Ré  Dó* Sol
+Na tua companhia
+
+Ré       Dó*
+Semente crescida
+  Sol
+És o pão que nos dá vida
+Ré        Dó*
+Da água, nos dás
+Sol
+Gota a gota
+        Ré   Dó*  Sol
+A tua paz (x2)
+
+Dó* - 032033
+```
+
 ### SENHOR, EIS-ME AQUI {#senhor-eis-me-aqui}
 
 *Tremelgas sem Guarida - 1994*
@@ -2316,6 +2408,25 @@ Tudo o que eu sou
 Foi feito por Ti
 ```
 
+*Versão simplificada Cantinácio 2019:*
+
+```text
+Dó     Sol     Dó   Sol      Dó
+Senhor eis-me aqui, o que me cerca
+Sol            Dó      Sol      Dó
+Tudo o que eu sou, foi feito por Ti
+
+Senhor Tu me ensinaste tudo o que aprendi
+Toda esta força p’ra estarmos aqui
+
+Fá        Ré    Mim              Sol
+Eu te agradeço, pelo ar que eu respiro
+Fá            Ré
+Pelo sol que ilumina
+Mim            Sol
+A terra que eu piso.
+```
+
 ### SÓ AVANÇA QUEM REPARTE {#so-avanca-quem-reparte}
 
 *Margarida Reduto / Xico Lemos*
@@ -2348,6 +2459,41 @@ Mesmo quando, dou um passo atrás,
 Sei que posso, sempre re-partir,
 Reparto tudo o que sou,
 Faço do meu tempo a minha entrega.
+```
+
+*Versão simplificada Cantinácio 2019:*
+
+```text
+Lá     Fá#7    Sim     Mi7   Lá
+Os meus passos pouco seguros
+      Fá#7  Sim         Mi7  Sol
+Meu horizonte às vezes magoado
+      Fá#m       Sim   Fá#m
+Maria que andaste só
+Sol  Ré              Mim    Fá#m
+És a claridade desse andar
+
+Ré          Fá#m  Mim
+Senhor, Tu estás  aí
+        Lá7            Sim
+Queres dizer-me alguma coisa
+Dó       Sol  Mim          Sim
+Quando hesito, sei que me empurras
+Quando avanço, és Tu que andas
+Quando me dou, és Tu que dás
+
+Enquanto ando Deus não tem pressa
+Não fico p’ra trás nem esqueço ninguém
+Avanço a Teu lado Senhor
+E os meus pés fazem o Teu caminho
+
+Mesmo quando dou um passo atrás
+Sei que posso sempre re-partir
+Reparto tudo o que sou
+Faço do meu tempo a minha entrega
+
+                Fá  Dó     Lám     Mi
+Para finalizar: Só avança quem reparte (3x)
 ```
 
 ### SOMOS ARANHIÇOS {#somos-aranhicos}

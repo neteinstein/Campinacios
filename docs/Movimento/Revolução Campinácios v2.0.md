@@ -48,7 +48,7 @@ A iniciativa teve o apoio directo da [Direcção Nacional](../Categorias/Direc%C
 
 ### O que havia na página
 
-O web.archive.org guardou a página da Revolução em Campinacios.org entre 2009 e 2012 ([página principal a 16 de Setembro de 2011](https://web.archive.org/web/20110916050818/http://www.campinacios.org:80/index.php?)). No rodapé lia-se «Copyleft Revolução Campinácios v2.0 — [Filipe Barroso](../Pessoas/F/Filipe%20Barroso.md) e [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)».
+O web.archive.org guardou a página Campinacios.org entre 2009 e 2012 ([página principal a 16 de Setembro de 2011](https://web.archive.org/web/20110916050818/http://www.campinacios.org:80/index.php?)).
 
 Antes de a página nova abrir, o endereço mostrou em Abril de 2009 «Campinácios v2.0 — A Revolução começou…», com uma ligação para a página antiga e uma legenda por cores para as actividades nacionais, da Direcção Nacional e de cada colégio; em Setembro de 2009, «Memórias de Campinácios 2004 - 2008… (um teaser enquanto o novo site não chega!)»; e em Dezembro de 2009, «A revolução começou…».
 
@@ -61,10 +61,10 @@ Antes de a página nova abrir, o endereço mostrou em Abril de 2009 «Campináci
 - **3 de Outubro de 2010** — «After Ben», com ligação para afterben.com.
 - **9 de Agosto de 2010** — «Novo visual»: com o começo dos acampamentos, a página mudou de aspecto.
 - **13 de Junho de 2010** — «Ansiedade»: listas de participantes fechadas e animadores prontos para os acampamentos.
-- **4 de Maio de 2010** — O Catálogo Online, para encomendar o DVD do [Encontro Nacional 2010](../Encontros/Encontro%20Nacional%202010.md), com mais de 3000 fotografias e um vídeo, a 4 €, levantado no colégio de cada um (era preciso estar registado na página).
+- **4 de Maio de 2010** — O Catálogo Online, para encomendar o DVD do [Encontro Nacional 2010 (20 Anos)](../Encontros/Encontro%20Nacional%202010%20%2820%20Anos%29.md), com mais de 3000 fotografias e um vídeo, a 4 €, levantado no colégio de cada um (era preciso estar registado na página).
 - **15 de Abril de 2010** — «Tu por acaso…», sobre as fotografias de uma *flash-mob*.
 - **12 de Abril de 2010** — A apresentação do livro «[Para Educar Melhor — Campos de férias inacianos](Para%20Educar%20Melhor%20-%20Campos%20de%20f%C3%A9rias%20inacianos.md)», do [José da Silva Almeida](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md) sj, e a apresentação da Revolução 2.0 em Prezi, feita pelo [Filipe Barroso](../Pessoas/F/Filipe%20Barroso.md).
-- **3 de Fevereiro de 2010** — As fichas de inscrição dos participantes no [Encontro Nacional 2010](../Encontros/Encontro%20Nacional%202010.md), uma por colégio.
+- **3 de Fevereiro de 2010** — As fichas de inscrição dos participantes no [Encontro Nacional 2010 (20 Anos)](../Encontros/Encontro%20Nacional%202010%20%2820%20Anos%29.md), uma por colégio.
 - **25 de Outubro de 2009** — A lista dos acampamentos que já se tinham feito, no Wikinácios.
 
 **Secções** ([Conhecer](https://web.archive.org/web/20110916100811/http://www.campinacios.org:80/index.php?option=com_content&view=article&id=101&Itemid=142) e Viver):
@@ -72,7 +72,7 @@ Antes de a página nova abrir, o endereço mostrou em Abril de 2009 «Campináci
 - *Introdução*, com a [história da fundação](Campin%C3%A1cios.md) e as [actividades ao longo do ano](Campin%C3%A1cios.md#actividades-ao-longo-do-ano);
 - *Documentos*: a apresentação da Revolução 2.0, o [Caderno de Jogos](Caderno%20de%20Jogos.md), o [Manual de Funções](Manual%20de%20Fun%C3%A7%C3%B5es.md) e os Estatutos;
 - *Formação de Animadores*, com o [plano de formação](Animador.md#plano-de-formacao) e o texto «Os Animadores», do [António Valério](../Pessoas/A/Ant%C3%B3nio%20Val%C3%A9rio.md) sj;
-- *Testemunhos*: «Porquê Campinácios? Para mudar o Mundo!», do [João Freire de Andrade](../Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md) (Fevereiro de 2010); «Estar com e para…», da [Caramela](../Pessoas/J/Joana%20Martins.md); e «O que é ser Animador?» e «O que é ser Campinácio?», da [Cecília Mendonça](../Pessoas/C/Cec%C3%ADlia%20Mendon%C3%A7a.md), da [Joana Sá](../Pessoas/J/Joana%20S%C3%A1.md), do [Ivo Reis](../Pessoas/I/Ivo%20Reis.md), do [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) e do [João Regueiras](../Pessoas/J/Jo%C3%A3o%20Regueiras.md);
+- *Testemunhos*: «[Porquê Campinácios? Para mudar o Mundo!](../Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md#porque-campinacios-para-mudar-o-mundo)», do [João Freire de Andrade](../Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md) (Fevereiro de 2010); «Estar com e para…», da [Caramela](../Pessoas/J/Joana%20Martins.md); e «O que é ser Animador?» e «O que é ser Campinácio?», da [Cecília Mendonça](../Pessoas/C/Cec%C3%ADlia%20Mendon%C3%A7a.md), da [Joana Sá](../Pessoas/J/Joana%20S%C3%A1.md), do [Ivo Reis](../Pessoas/I/Ivo%20Reis.md), do [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) e do [João Regueiras](../Pessoas/J/Jo%C3%A3o%20Regueiras.md). Só o do João Freire de Andrade e o [do Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md#o-que-e-ser-campinacio) se conservam no Wikinácios; os outros cinco não foram guardados pelo web.archive.org;
 - *Músicas*: O sol já raiou, Chapéu, Shosholozah, Vaso Novo, A uni…, [Sóis há muitos](Cantin%C3%A1cio/Campin%C3%A1cios.md#sois-ha-muitos), Tomai, Senhor, e Recebei, Senhor, Ensina-me a Viver, Senhor Tu fascinas-me e [Radroca](Cantin%C3%A1cio/Campin%C3%A1cios.md#radroca), entre outras (as do [Cantinácio](Cantin%C3%A1cio.md) que lá estavam ligam para a página arquivada);
 - *Hinos de Campo*: [Tábeeeim 2010](Cantin%C3%A1cio/Campin%C3%A1cios.md#tabeeeim), [Walkabout 2010](Cantin%C3%A1cio/Campin%C3%A1cios.md#walkabout), Incrível 2009, Patos 2004, Long Tao 2006, Gaivota 2005, Falésia 2005, Graal II e Cinena 2001;
 - *Orações*: «After Ben» e «Dos Momentos Belos à Beleza dos Momentos», do [Missé](../Pessoas/M/Miguel%20Melo.md) sj;

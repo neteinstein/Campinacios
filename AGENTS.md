@@ -51,6 +51,12 @@ matching work:
   `.github/ISSUE_TEMPLATE/*.yml` into site pages, via the two skills
   above, while keeping private data (contacts, minors' names, camp-site
   directions) off the public site.
+- **`.claude/skills/refrescar-recentes/SKILL.md`** — garantir que a
+  página Recentes do site fica refrescada a cada pull request: confirmar
+  antes de abrir o pedido e, depois de integrado, que a Action «Publicar
+  site» correu e que a página publicada o mostra, com
+  `python3 .claude/skills/refrescar-recentes/scripts/verificar_recentes.py <N> --esperar`
+  (e `--publicar` para voltar a publicar).
 - **`.claude/skills/conteudo-em-portugues/SKILL.md`** — the language rule
   above, plus a checker
   (`python3 .claude/skills/conteudo-em-portugues/scripts/verificar_portugues.py`)
@@ -73,6 +79,18 @@ O grafo (`docs/assets/graph.json`) reconstrói-se com
 `python3 scripts/actualizar_grafo.py` sempre que se acrescentam, mudam ou
 apagam páginas ou ligações (`--verificar` só compara e sai com 1 se estiver
 desactualizado).
+
+A página `docs/Recentes.md` (as 100 páginas alteradas há menos tempo, com a
+data, o pedido e as issues) é gerada por `python3 scripts/actualizar_recentes.py` a partir do
+histórico do git e reescrita a cada publicação (`.github/workflows/pages.yml`):
+não se edita à mão nem é preciso actualizá-la em cada commit.
+Mesmo assim, toda a alteração a uma página tem de ficar reflectida nela: a
+alteração tem de estar num commit e, antes de dar o trabalho por terminado,
+corra `python3 scripts/actualizar_recentes.py`, confirme que as páginas
+mexidas aparecem em `docs/Recentes.md` e descarte o resultado com
+`git restore docs/Recentes.md`. Depois de o pedido ser integrado, confirme
+que a página publicada o mostra (skill `refrescar-recentes`). Ficam sempre de fora as páginas restritas, os
+índices, as categorias e `Wikinácios/`.
 
 ## Notes for any agent
 

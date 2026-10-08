@@ -11,6 +11,7 @@
 ## Pessoas com este cargo
 
 - [Alessandra Schirato](../Pessoas/A/Alessandra%20Schirato.md)
+- [Ana Catarina Gil](../Pessoas/A/Ana%20Catarina%20Gil.md)
 - [Ana Curto](../Pessoas/A/Ana%20Curto.md)
 - [Ana Geão](../Pessoas/A/Ana%20Ge%C3%A3o.md)
 - [Ana Luísa Reis](../Pessoas/A/Ana%20Lu%C3%ADsa%20Reis.md)

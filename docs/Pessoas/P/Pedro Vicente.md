@@ -41,7 +41,7 @@ Foi o gestor da página dos Campinácios desde 2005, recebida do [Diogo Costa](.
 
 ### Testemunho
 
-#### O que é ser Campinácio?
+#### O que é ser Campinácio? {#o-que-e-ser-campinacio}
 
 Esta é a pergunta que me faço a mim mesmo agora, mas que já várias pessoas me fizeram, olhando para mim de lado… “Então mas tu vais 10 dias aturar miúdos, sem ganhares nada, em vez de estares em casa de papo p’ro ar?”
 
@@ -73,11 +73,9 @@ E rever antigos amigos e fazer novos no encontro nacional… já com os campos �
 
 Respondendo à pergunta inicial… ganhei tudo… o que é importante pelo menos.
 
-## Pessoal
+### Família
 
-### Página
-
-[www.pedrovicente.pt](https://www.pedrovicente.pt)
+É casado com a [Maria Cortês Ferreira](../M/Maria%20Cort%C3%AAs%20Ferreira.md).
 
 ---
 

@@ -75,9 +75,9 @@ browse:
 - **`docs/Categorias/Acampamentos.md`**
   - the camps-by-year table: add the camp to the `| <ano> |` row under its
     escalão, as `<li>**<Escalão>**<ul><li>[Nome](../Acampamentos/<ano>/Nome.md)</li></ul></li>`;
-    a new year gets a new row after the previous year
-    (`| <ano> | <ul>…</ul> | *tema* | <ul><li>local</li></ul> |`, empty cells
-    if unknown);
+    um ano novo ganha uma linha nova a seguir à do ano anterior
+    (`| <ano> | <ul>…</ul> | *tema* | <ul><li>local</li></ul> |`, com as
+    células vazias se não se souber);
   - `## Páginas nesta categoria (N)`: insert the link in title order and
     add 1 to N (`python3 .claude/skills/nova-pessoa/scripts/pessoas.py
     inserir "<ficheiro>" "## Páginas nesta categoria" "<linha>"` faz as
@@ -138,7 +138,7 @@ mkdocs build --strict
 e o contrário, e que as listas geradas dos campos e dos cargos estão
 certas. Os participantes não entram na equipa do campo.
 
-The validator checks the table row, the category list and its count, that
+The validator checks the table row, the category list and its count, que
 `docs/Acampamentos/index.md` has the same table rows, page list and count
 as the category, the year's index and the nav. Fix every `ERRO` and run it again until it prints `OK`; then the
 strict build catches any broken link. `validar.py --todos` checks every
@@ -154,3 +154,20 @@ continuar.
 
 Then tell the user what was added and where, what was left as plain text,
 and anything you had to assume.
+
+## Recentes
+
+Toda a alteração a uma página tem de ficar reflectida na página
+[Recentes](../../../docs/Recentes.md). Essa página não se edita à mão: lê o
+histórico do git e reescreve-se a cada publicação. Por isso, a alteração tem
+de estar num commit (ficheiros em `docs/`) e, antes de dar o trabalho por
+terminado, confirma-se:
+
+```sh
+python3 scripts/actualizar_recentes.py   # depois do commit
+grep "<nome da página>" docs/Recentes.md # as páginas mexidas têm de aparecer
+git restore docs/Recentes.md             # a publicação volta a gerá-la
+```
+
+As páginas restritas, os índices, as categorias, `Wikinácios/` e as páginas
+geradas não aparecem nunca em Recentes; e só entram as 100 mais recentes.

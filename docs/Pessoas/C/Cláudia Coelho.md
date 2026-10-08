@@ -7,7 +7,7 @@ Cláudia Coelho foi de 2002 a 2005 um das animadoras do Colégio da Imaculada Co
 ### Acampamentos
 
 - **Participante**
-    - 2008 [Shampum de Pessêgo](../../Acampamentos/2001/Shampum%20de%20Pess%C3%AAgo.md)
+    - 2001 [Shampum de Pessêgo](../../Acampamentos/2001/Shampum%20de%20Pess%C3%AAgo.md)
 - **Formação:**
     - 2002 [Graal I](../../Acampamentos/2002/Graal%20I.md)
 - **Animador:**

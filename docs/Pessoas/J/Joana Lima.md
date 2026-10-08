@@ -26,7 +26,11 @@ Joana Lima é desde 2003, uma das animadoras do Colégio da Imaculada Conceiçã
 
 ### Encontros
 
-- 2010 [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md) - Banco de Animadores
+- 2010 [Encontro Nacional 2010 (20 Anos)](../../Encontros/Encontro%20Nacional%202010%20%2820%20Anos%29.md) - Banco de Animadores
+
+### Família
+
+É casada com o [Ivo Reis](../I/Ivo%20Reis.md).
 
 ---
 

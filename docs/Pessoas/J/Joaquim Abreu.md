@@ -17,6 +17,10 @@ Joaquim Alfredo Matos Abreu, nascido a 21 de Maio de 1984, é animador do CC.
     - 2007 [Baza](../../Acampamentos/2007/Baza.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2008 [OrienTu](../../Acampamentos/2008/OrienTu.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
+### Família
+
+É casado com a [Susana Vaz Pedro](../S/Susana%20Vaz%20Pedro.md).
+
 ---
 
 | Categorias |

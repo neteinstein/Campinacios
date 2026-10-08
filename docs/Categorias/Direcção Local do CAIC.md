@@ -17,9 +17,9 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 | **2020/2021** | [Eduarda Roxo](../Pessoas/E/Eduarda%20Roxo.md) | — | — |
 | **2019/2020** | [Pedro Amado](../Pessoas/P/Pedro%20Amado.md) | — | — |
 | **2018/2019** | [Pedro Amado](../Pessoas/P/Pedro%20Amado.md) | [António Santos Lourenço](../Pessoas/A/Ant%C3%B3nio%20Santos%20Louren%C3%A7o.md) sj | — |
-| **2017/2018** | [André Trigo](../Pessoas/A/Andr%C3%A9%20Trigo.md) | [Carlos Miranda](../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md) sj | [Miguel Navarro](../Pessoas/M/Miguel%20Navarro.md), [Diana Duarte](../Pessoas/D/Diana%20Duarte.md), [Panão](../Pessoas/P/Pan%C3%A3o.md) |
-| **2016/2017** | — | [Carlos Miranda](../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md) sj | [André Trigo](../Pessoas/A/Andr%C3%A9%20Trigo.md), [Fernando Navarro](../Pessoas/F/Fernando%20Navarro.md) |
-| **2015/2016** | [Joana Matos](../Pessoas/J/Joana%20Matos.md) | [Carlos Miranda](../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md) sj | — |
+| **2017/2018** | [André Trigo](../Pessoas/A/Andr%C3%A9%20Trigo.md) | [Carlos Miranda](../Pessoas/C/Carlos%20Miranda.md) sj | [Miguel Navarro](../Pessoas/M/Miguel%20Navarro.md), [Diana Duarte](../Pessoas/D/Diana%20Duarte.md), [Panão](../Pessoas/P/Pan%C3%A3o.md) |
+| **2016/2017** | — | [Carlos Miranda](../Pessoas/C/Carlos%20Miranda.md) sj | [André Trigo](../Pessoas/A/Andr%C3%A9%20Trigo.md), [Fernando Navarro](../Pessoas/F/Fernando%20Navarro.md) |
+| **2015/2016** | [Joana Matos](../Pessoas/J/Joana%20Matos.md) | [Carlos Miranda](../Pessoas/C/Carlos%20Miranda.md) sj | — |
 | **2014/2015** | — | [João Manuel Silva](../Pessoas/J/Jo%C3%A3o%20Manuel%20Silva.md) sj | — |
 | **2013/2014** | [Rafael Carecho](../Pessoas/R/Rafael%20Carecho.md) | [João Manuel Silva](../Pessoas/J/Jo%C3%A3o%20Manuel%20Silva.md) sj | [Sara Fernandes](../Pessoas/S/Sara%20Fernandes.md), [Marcelo Vieira](../Pessoas/M/Marcelo%20Vieira.md), [Ana Carolina Santos](../Pessoas/A/Ana%20Carolina%20Santos.md) |
 | **2012/2013** | — | [João de Brito](../Pessoas/J/Jo%C3%A3o%20de%20Brito.md) sj | — |
@@ -57,6 +57,7 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [Carla Gapo](../Pessoas/C/Carla%20Gapo.md)
 - [Carla Resende](../Pessoas/C/Carla%20Resende.md)
 - [Carlos Lopes](../Pessoas/C/Carlos%20Lopes.md)
+- [Carlos Miranda](../Pessoas/C/Carlos%20Miranda.md)
 - [Carlos Rodrigues](../Pessoas/C/Carlos%20Rodrigues.md)
 - [Conceição Martinho](../Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md)
 - [Diana Duarte](../Pessoas/D/Diana%20Duarte.md)
@@ -71,7 +72,6 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [Joana Sá](../Pessoas/J/Joana%20S%C3%A1.md)
 - [João de Brito](../Pessoas/J/Jo%C3%A3o%20de%20Brito.md)
 - [João Manuel Silva](../Pessoas/J/Jo%C3%A3o%20Manuel%20Silva.md)
-- [José Carlos Miranda](../Pessoas/J/Jos%C3%A9%20Carlos%20Miranda.md)
 - [José da Silva Almeida](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
 - [José Eugénio Lopes](../Pessoas/J/Jos%C3%A9%20Eug%C3%A9nio%20Lopes.md)
 - [José Frazão](../Pessoas/J/Jos%C3%A9%20Fraz%C3%A3o.md)

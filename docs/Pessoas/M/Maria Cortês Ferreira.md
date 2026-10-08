@@ -25,11 +25,13 @@ Maria Mendes Cortês Ferreira, nascida a 6 de Março de 1985, é desde 2003 anim
 
 ### Família
 
-É irmã do [João Cortês Ferreira](../J/Jo%C3%A3o%20Cort%C3%AAs%20Ferreira.md).
+É irmã do [João Cortês Ferreira](../J/Jo%C3%A3o%20Cort%C3%AAs%20Ferreira.md), do [Francisco Cortês Ferreira](../F/Francisco%20Cort%C3%AAs%20Ferreira.md) e da [Teresa Cortês Ferreira](../T/Teresa%20Cort%C3%AAs%20Ferreira.md).
+
+É casada com o [Pedro Vicente](../P/Pedro%20Vicente.md).
 
 ### Encontros
 
-- 2010 [Encontro Nacional 2010](../../Encontros/Encontro%20Nacional%202010.md) - PIP (Polícia Investigação de Pormenores)
+- 2010 [Encontro Nacional 2010 (20 Anos)](../../Encontros/Encontro%20Nacional%202010%20%2820%20Anos%29.md) - PIP (Polícia Investigação de Pormenores)
 
 ---
 

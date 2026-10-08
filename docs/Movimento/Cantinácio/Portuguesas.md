@@ -1,12 +1,17 @@
 # Cantinácio: Portuguesas
 
+[![Capa da secção «Radar Tuga»: personagem de cabeça de pássaro com um balão de sardinhas, sobre fundo vermelho](../../assets/imagens/Cantin%C3%A1cio%202019/p011.jpg){ width="300" }](../../assets/imagens/Cantin%C3%A1cio%202019/p011.jpg)
+
+*Capa da secção «Radar Tuga» do Cantinácio 2019 (3.ª edição), com ilustração de [Francisco Rodrigues (Pica)](../../Pessoas/F/Francisco%20Silva%20Rodrigues.md).*
+
 Músicas portuguesas (e algumas brasileiras) para cantar à fogueira.
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (143 músicas)
+## Índice (214 músicas)
 
 - [A BANDA](#a-banda) — Chico Buarque
+- [A BELA E O MONSTRO](#a-bela-e-o-monstro)
 - [A CARTA](#a-carta) — Tiago Bettencourt
 - [A CHULA](#a-chula) — Popular
 - [A CIDADE (ATÉ SER DIA)](#a-cidade-ate-ser-dia) — Anabela
@@ -18,22 +23,30 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [A MARCHA DOS GOLPES](#a-marcha-dos-golpes) — Os Golpes
 - [AMAR PELOS DOIS](#amar-pelos-dois) — Luísa Sobral / Salvador Sobral
 - [A MARTE](#a-marte) — João Só
+- [A MINHA CASINHA](#a-minha-casinha) — Xutos & Pontapés
 - [AMOR DE ÁGUA FRESCA](#amor-de-agua-fresca) — Dina
 - [A MORTE SAÍU À RUA](#a-morte-saiu-a-rua) — José Afonso
 - [ANNA JULIA](#anna-julia) — Netinho
 - [ANZOL](#anzol) — Rádio Macau
+- [AO LIMITE EU VOU](#ao-limite-eu-vou) — Nonstop
 - [AO PASSAR A RIBEIRINHA](#ao-passar-a-ribeirinha) — Popular
 - [AO ROMPER DA BELA AURORA](#ao-romper-da-bela-aurora) — Popular, Alentejo
 - [A PAIXÃO](#a-paixao) — Carlos Tê e Rui Veloso
 - [A PLAINA](#a-plaina) — Popular
+- [A POUCO E POUCO](#a-pouco-e-pouco) — José Cid
 - [A QUEDA DO IMPÉRIO](#a-queda-do-imperio) — Vitorino
 - [AQUI NO MAR](#aqui-no-mar) — Pequena Sereia (B.S.)
+- [AQUI VOU EU](#aqui-vou-eu) — Kenai e Koda
 - [ASAS ABERTAS](#asas-abertas) — Sua Excelência (Gabriela F. Dias / Paulo Ramirez)
+- [A TERRA GIRA](#a-terra-gira) — Os Quatro e Meia
 - [A VACA DE FOGO](#a-vaca-de-fogo) — Madredeus (Pedro Ayres Magalhães / Gabriel Gomes)
 - [AVIÃO DE PAPEL](#aviao-de-papel) — Carolina Deslandes e Rui Veloso
 - [BAILE DE SÃO SIMÃO](#baile-de-sao-simao) — Os Quatro e Meia
 - [BALADA ASTRAL](#balada-astral) — Miguel Araújo e Inês Viterbo
 - [BALADA DAS SETE SAIAS](#balada-das-sete-saias) — Francisco Viana / Trovante
+- [BALADA DO DESAJEITADO](#balada-do-desajeitado) — Quadrilha
+- [BANANA](#banana)
+- [BATATOON](#batatoon)
 - [BELEZA RARA](#beleza-rara) — Ivete Sangalo
 - [BOLA P’RA FRENTE](#bola-p-ra-frente) — Asterisco Cardinal Bomba Caveira
 - [BRINDAI](#brindai) — Hélder Ribeiro / Judy Collins
@@ -44,111 +57,173 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [CANTAR DE EMIGRAÇÃO](#cantar-de-emigracao) — Rosalía de Castro / José Niza
 - [CANTO MOÇO](#canto-moco) — José Afonso
 - [125 AZUL](#125-azul) — Trovante (Luís Represas / João Gil)
+- [CAPITÃO ROMANCE](#capitao-romance) — Ornatos Violeta
 - [CARTAS DE AMOR](#cartas-de-amor) — (Pensando em Ti) (Gemini)
 - [CAVALEIRO ANDANTE](#cavaleiro-andante) — Rui Veloso
 - [CHAGA](#chaga) — Ornatos Violeta
 - [CHAMAR A MÚSICA](#chamar-a-musica) — Sara Tavares
 - [CHAVE DOS SONHOS](#chave-dos-sonhos) — Sérgio Godinho / Luís Represas
+- [CHEIRA A LISBOA](#cheira-a-lisboa) — César de Oliveira
 - [CHICLETE](#chiclete) — Táxi
 - [CHICO FININHO](#chico-fininho) — Rui Velozo
+- [CICLO SEM FIM](#ciclo-sem-fim) — Rei Leão
+- [CIRCO DE FERAS](#circo-de-feras) — Xutos & Pontapés
 - [COMO UMA AVE OU UM RIO](#como-uma-ave-ou-um-rio)
 - [CONQUISTADOR](#conquistador) — Da Vinci
 - [DÁ-ME LUME](#da-me-lume) — Jorge Palma
+- [DARTACÃO](#dartacao)
 - [DENTES DE LOBO](#dentes-de-lobo) — Tiago Guillul
 - [DIABO DO VELHO](#diabo-do-velho) — Popular
 - [DIA DE FOLGA](#dia-de-folga) — Ana Moura
 - [DONA LIGEIRINHA](#dona-ligeirinha) — Diabo na Cruz
+- [DONA MARIA](#dona-maria) — Thiago Brava
+- [DORMI NA PRAÇA](#dormi-na-praca) — Bruno e Marrone
+- [DRAGONBALL GT](#dragonball-gt)
 - [DUNAS](#dunas) — GNR
+- [É ISSO AÍ](#e-isso-ai) — Ana Carolina e Seu Jorge
+- [ELE É O REI](#ele-e-o-rei) — Onda Choc
 - [ENCADEIA](#encadeia) — Popular
+- [ENCOSTA-TE A MIM](#encosta-te-a-mim) — Jorge Palma
 - [ESTAÇÕES DA VIDA](#estacoes-da-vida) — Monteiro Pacheco / Marinho Sampaio
+- [ESTA NOITE O AMOR CHEGOU](#esta-noite-o-amor-chegou) — Rei Leão
 - [EU GOSTO É DO VERÃO](#eu-gosto-e-do-verao) — Fúria do Açucar
 - [EU IREI MAIS LONGE](#eu-irei-mais-longe) — Hércules
 - [EU QUERO VOLTAR](#eu-quero-voltar) — Anjos
 - [EU SEI](#eu-sei) — Sara Tavares
 - [FADO MARAVILHAS](#fado-maravilhas)
+- [FADO TONINHO](#fado-toninho) — Deolinda
 - [FALA DO HOMEM NASCIDO](#fala-do-homem-nascido) — António Gedeão / José Niza
+- [FICARÁS NO MEU CORAÇÃO](#ficaras-no-meu-coracao) — Tarzan
 - [FICAREI](#ficarei) — Anjos
+- [FILHO DE HOMEM](#filho-de-homem) — Tarzan
+- [FILHOS DE DEUS](#filhos-de-deus) — Corcunda de Notre Dame
 - [FIM DO MUNDO](#fim-do-mundo) — Ala dos Namorados
+- [FIZZ DE LIMÃO](#fizz-de-limao) — Miguel Araújo
+- [FOI VOCÊ](#foi-voce) — Bela Adormecida
 - [FORMIGA FILETE](#formiga-filete)
 - [FRÁGIL](#fragil) — Jorge Palma
+- [HAKUNA MATATA](#hakuna-matata) — Rei Leão
 - [HINO À NATUREZA](#hino-a-natureza) — Hélder Ribeiro / Jon Anderson
+- [HOMEM DO LEME](#homem-do-leme) — Xutos & Pontapés
+- [HOMEM SER](#homem-ser) — Mulan
 - [JÁ ESTOU DE REGRESSO, AMOR](#ja-estou-de-regresso-amor) — Os Quatro e Meia
+- [JÁ PASSOU](#ja-passou) — Frozen
 - [JARDINS PROIBIDOS](#jardins-proibidos) — Paulo Gonzo
 - [JEREMIAS, O FORA-DA-LEI](#jeremias-o-fora-da-lei) — Jorge Palma
 - [JUST GIRLS](#just-girls) — Amarguinhas
+- [KIM POSSIBLE](#kim-possible)
 - [LADO LUNAR](#lado-lunar) — Carlos Tê / Rui Veloso
 - [LAMBRETA](#lambreta) — António Zambujo
 - [LENA DEL REY](#lena-del-rey) — Ciclo Preparatório
 - [LEVA-ME CONTIGO](#leva-me-contigo) — Duarte Rosado Sj
 - [LIRA](#lira) — Popular, Açores
 - [LOUCOS](#loucos) — Matias Damásio e Héber Marques
+- [LUTAR CONTRA QUEM FOR](#lutar-contra-quem-for) — Mulan
+- [MADALENA](#madalena)
 - [MADE IN PORTUGAL](#made-in-portugal) — Telmo Miranda
+- [MAIS QUE PERFEITO](#mais-que-perfeito) — Pokémon
+- [MALHÃO](#malhao)
+- [MAL POSSO ESPERAR PARA SER REI](#mal-posso-esperar-para-ser-rei) — Rei Leão
 - [MANEIO](#maneio) — Popular
+- [MARIA](#maria) — Tiago Bettencourt
+- [MARIA ALBERTINA](#maria-albertina) — António Variações
 - [MARIA FAIA](#maria-faia) — José Afonso (Popular, Beira-Baixa)
 - [MEMÓRIAS DE UM BEIJO](#memorias-de-um-beijo) — Trovante (Luís Represas / João Gil)
 - [MENINA DAS TRANÇAS PRETAS](#menina-das-trancas-pretas)
 - [MENINA ESTÁS À JANELA](#menina-estas-a-janela) — Popular
 - [MENINO DO BAIRRO NEGRO](#menino-do-bairro-negro) — José Afonso
 - [MENINO QUERES SER MEU MESTRE?](#menino-queres-ser-meu-mestre) — Carlos Queirós / Marinho Sampaio
+- [MILA](#mila) — Netinho
 - [NAÇÕES E PÁSSAROS](#nacoes-e-passaros) — Bruno Morgado
 - [NÃO HÁ ESTRELAS NO CÉU](#nao-ha-estrelas-no-ceu) — Carlos Tê / Rui Veloso
 - [NÃO SOU O ÚNICO](#nao-sou-o-unico) — Xutos e Pontapés
 - [NASCE SELVAGEM](#nasce-selvagem) — Delfins (Miguel Ângelo / Fernando Cunha)
+- [NAVEGANTES DA LUA](#navegantes-da-lua)
 - [NO ALTO DA MONTANHA](#no-alto-da-montanha)
+- [NODDY](#noddy)
 - [NO DIA EM QUE O REI FEZ ANOS](#no-dia-em-que-o-rei-fez-anos) — José Cid
+- [NOS DESENHOS ANIMADOS](#nos-desenhos-animados) — Azeitonas
 - [NUNCA SOMOS DEMAIS](#nunca-somos-demais)
 - [O AMOR É ASSIM](#o-amor-e-assim) — HMB e Carminho
 - [O CAÇADOR DA ADIÇA](#o-cacador-da-adica) — Rio Grande (João Monge / João Gil)
 - [O CÉU É UM LUGAR NA TERRA](#o-ceu-e-um-lugar-na-terra) — Os Velhos
 - [O EMBUÇADO](#o-embucado)
 - [O HOMEM DO LEME](#o-homem-do-leme) — Xutos e Pontapés
+- [O JOGO](#o-jogo) — Tiago Bettencourt
+- [OLIVER E BENGI](#oliver-e-bengi)
+- [O NECESSÁRIO](#o-necessario) — O Livro da Selva
 - [Ó OLIVEIRA DA SERRA](#o-oliveira-da-serra) — Popular
+- [O PASSARINHO CANTOU](#o-passarinho-cantou)
 - [O PRIMEIRO DIA](#o-primeiro-dia)
 - [OS LÍRIOS](#os-lirios) — Hélder Ribeiro / Judy Collins
 - [OS LOUCOS DE LISBOA](#os-loucos-de-lisboa) — Ala dos Namorados
 - [OS MUROS VÃO CAIR](#os-muros-vao-cair)
 - [OUVI DIZER](#ouvi-dizer) — Ornatos Violeta
 - [O VENTO](#o-vento) — Los Hermanos
+- [PARABÉNS A VOCÊ](#parabens-a-voce)
 - [PARA QUE QUERO EU OLHOS](#para-que-quero-eu-olhos) — Popular, Alentejo
+- [PARA TI MARIA](#para-ti-maria) — Xutos & Pontapés
 - [PEDRA FILOSOFAL](#pedra-filosofal) — António Gedeão / Manuel Freire
+- [PENSANDO EM TI](#pensando-em-ti) — Anabela
 - [PERDIDAMENTE](#perdidamente) — Trovante (Florbela Espanca / João Gil)
 - [PERDOA](#perdoa) — Anjos
 - [PÉZINHO](#pezinho) — Popular, Açores
+- [PHINEAS E FERB](#phineas-e-ferb)
+- [PICA DO 7](#pica-do-7) — António Zambujo
 - [PICA DO SETE](#pica-do-sete) — António Zambujo (letra de Miguel Araújo)
 - [PLAYBACK](#playback) — Carlos Paião
 - [PÓ DE ARROZ](#po-de-arroz) — Carlos Paião
 - [PONTOS NOS I’S](#pontos-nos-i-s) — Quatro e Meia
+- [POR QUEM NÃO ESQUECI](#por-quem-nao-esqueci) — Xutos & Pontapés
 - [POR TI DEMAIS](#por-ti-demais) — Salto
 - [PORTO CÔVO](#porto-covo) — Carlos Tê / Rui Veloso
 - [PORTO SENTIDO](#porto-sentido) — Rui Veloso
 - [PORTUGAL NA CEE](#portugal-na-cee) — GNR
 - [POSTAL DOS CORREIOS](#postal-dos-correios) — Rio Grande
+- [P’RÁ FRENTE É QUE É LISBOA](#pra-frente-e-que-e-lisboa) — Os Quatro e Meia
 - [P’RA TI MARIA](#p-ra-ti-maria) — Xutos e Pontapés
 - [PRIMAVERA](#primavera) — Asterisco Cardinal Bomba Caveira
 - [QUEM ES TU MIÚDA](#quem-es-tu-miuda) — Azeitonas
+- [QUERO VOLTAR](#quero-voltar) — Anjos
 - [RAMA](#rama) — Popular
+- [REFLEXO](#reflexo) — Mulan
 - [REGADINHO](#regadinho) — Popular
 - [RESTOLHO](#restolho) — Mafalda Veiga
+- [RUCA](#ruca)
 - [SÃO DIAS QUE PASSAM](#sao-dias-que-passam) — Hélder Ribeiro / Judy Collins
 - [SENTA-TE AÍ](#senta-te-ai) — Rio Grande (João Monge / João Gil)
 - [SERÁ AMOR](#sera-amor) — César Mourão e Luana Martau (letra de Miguel Araújo)
 - [SINGUINGAI](#singuingai)
 - [SOL DA CAPARICA](#sol-da-caparica) — Peste e Sida
+- [SOMOS UM](#somos-um) — Rei Leão
 - [SONHOS DE MENINO](#sonhos-de-menino) — Tony Carreira (original de Hervé Villard)
 - [SORTE GRANDE](#sorte-grande) — João Só e Lúcia Moniz
 - [SOU TEU AMIGO SIM](#sou-teu-amigo-sim) — Toy Story (Randy Newman)
 - [SOZINHO](#sozinho) — Caetano Veloso
 - [SUMO DE LIMÃO](#sumo-de-limao) — Onda Choc
+- [TELETUBBIES](#teletubbies)
 - [TEMPO É DINHEIRO](#tempo-e-dinheiro) — Agir
 - [TINTA VERDE](#tinta-verde) — Vitorino
+- [TONTO DE TI](#tonto-de-ti) — Azeitonas
+- [TRASHIN’ THE CAMP](#trashin-the-camp) — Tarzan
 - [TRAZ OUTRO AMIGO TAMBÉM](#traz-outro-amigo-tambem) — José Afonso
 - [TREVO](#trevo) — Diogo Piçarra e Ana Vitória
+- [TREVO (TU)](#trevo-tu) — Ana Vitória
 - [TROVA DO VENTO QUE PASSA](#trova-do-vento-que-passa) — Manuel Alegre / António Portugal
+- [UMA AVENTURA](#uma-aventura)
 - [UM MUNDO IDEAL](#um-mundo-ideal) — Aladdin (B.S.)
 - [UM TROLHA D’AREOSA](#um-trolha-dareosa) — Carlos Tê / Rui Veloso
+- [VAI MARINHEIRO VAI VAI](#vai-marinheiro-vai-vai)
 - [VAIS LUTAR](#vais-lutar) — Mulan
+- [VÁ LÁ SENHORA](#va-la-senhora) — Os Golpes
 - [VEJAM BEM](#vejam-bem) — José Afonso
+- [VEM VIVER A VIDA AMOR](#vem-viver-a-vida-amor) — José Cid
+- [VESTIDO AZUL](#vestido-azul) — Floribella
+- [VOAR](#voar) — Tim e Rui Veloso
+- [WINX](#winx)
 - [XICO](#xico) — Luísa Sobral
+- [ZERO A HERÓI](#zero-a-heroi) — Hércules
+- [ZUMBA NA CANECA](#zumba-na-caneca)
 
 ## Músicas
 
@@ -197,6 +272,47 @@ Mas para meu desencanto o que era doce acabou
 Tudo tomou seu lugar depois que a banda passou
 E cada qual no seu canto em cada canto uma dor
 Depois da banda passar cantando coisas de amor
+```
+
+### A BELA E O MONSTRO {#a-bela-e-o-monstro}
+
+```text
+Dó         Fá
+  Era uma vez
+Dó             Sol
+ Contaram-me a mim
+Dó       Mim                  Fá
+ Amigos talvez, quando o amor se fez
+            Sol
+De repente assim
+
+Dó         Fá
+ Algo que mudou
+Dó
+ Pouco e devagar
+          Fá             Rém
+Ambos a tremer, quase sem saber
+Sol            Dó
+Bela e Monstro a amar
+
+Mim            Fá
+  Sempre foi assim
+Mim             Fá
+  Sempre assim será
+            Mim
+Sempre tudo igual
+           Lám
+Tão certo e real
+               Lá# Sol
+Como o Sol nascer
+Era uma vez
+A canção de amor
+Que bom aprender, os seus erros ver
+Tentar ser melhor
+Certo como o Sol
+Atingir o ar
+Era uma vez, música se fez
+Bela e Monstro a amar
 ```
 
 ### A CARTA {#a-carta}
@@ -601,6 +717,41 @@ Dó7(9)*:  x32033
 Fá7M*:  1x221x
 ```
 
+*Versão simplificada Cantinácio 2019:*
+
+```text
+ Fá         Sib   Rém         Sol
+Se um dia alguém perguntar por mim
+Solm     Dó            Fá
+Diz que vivi p’ra te amar
+Fá     Lá    Rém    Sol
+Antes de ti, só existi
+Solm           Dó       Fá
+Cansado e sem nada p’ra dar
+
+Sib Lá    Rém           Sol
+Meu bem, ouve as minhas preces
+Solm                       Dó
+Peço que regresses, que me voltes a querer
+Sib Lá     Rém          Sol
+Eu sei que não se ama sozinho
+Solm                      Dó           Fá
+Talvez devagarinho possas voltar a aprender
+
+Sib  Lá  Rém    Sol Solm Dó Dóm Fá
+
+Meu bem […]
+
+Fá          Sib      Rém     Sol
+Se o teu coração não quiser ceder
+   Solm       Dó         Lám     Ré
+Não sentir paixão, não quiser sofrer
+Sib         Sol      Fá         Ré
+Sem fazer planos do que virá depois
+Solm    Dó          Fá
+O meu coração pode amar pelos dois
+```
+
 ### A MARTE {#a-marte}
 
 *João Só*
@@ -656,28 +807,47 @@ Se é o que tu queres
 Eu vou a Marte!(4x)
 ```
 
+### A MINHA CASINHA {#a-minha-casinha}
+
+*Xutos & Pontapés*
+
+```text
+    Dó                 Dó7
+As saudades que eu já tinha
+    Lá7
+Da minha alegre casinha
+                 Rém
+Tão modesta quanto eu
+                    Sol
+Meu Deus como é bom morar
+                     Fá
+No modesto primeiro andar
+    Sol            Dó
+A contar vindo do céu!
+```
+
 ### AMOR DE ÁGUA FRESCA {#amor-de-agua-fresca}
 
 *Dina*
 
 ```text
-Dó Dó                  Mim Mim
-QQuuaannddoo eeuu vvii oollhhooss ddee aammeeiixxaa
-     Fá Fá                           Sol Sol
-EE aa bbooccaa ddee aammoorraa ssiillvveessttrree
-Dó Dó                 Mim Mim
-TTaannttoo mmeell,, ttaannttoo ssooll
-           Fá Fá                       Rém Rém                                Sol Sol
-NNeessssaa ttuuaa mmaaddeeiixxaa ppeerrffilil,, ssuummaarreennttaa ee aaggrreessttee
+Dó           Mim
+Quando eu vi olhos de ameixa
+   Fá                Sol
+E a boca de amora silvestre
+Dó          Mim
+Tanto mel, tanto sol
+      Fá             Rém                  Sol
+Nessa tua madeixa perfil, sumarenta e agreste
 
-  Mim Mim           Lám Lám                    Mim Mim
-FFooii aa cceerrtteezzaa qquuee eerraass ttuu
-          Lám Lám
-OO mmeeuu ddooccee ddee uuvvaa
-   Rém Rém
-EE nnoozz ssoobbrree aa mmeessaa
-       Fá Fá                         Sol Sol
-OO aammoorr ddee mmoorraannggoo ee ccaajjuu
+ Mim       Lám             Mim
+Foi a certeza que eras tu
+      Lám
+O meu doce de uva
+  Rém
+E noz sobre a mesa
+    Fá               Sol
+O amor de morango e caju
 
               Dó               Fá
 Peguei, trinquei e meti-te na cesta
@@ -694,18 +864,15 @@ Tanto mel, tanto sol, fruta,
 sumo, água fresca
 Provei e perdi o juízo
 
-Peguei, trinquei e me
-             Dó
-Peguei, trinquei e
+Peguei, trinquei e meti-te na cesta (…) (2x)
 
 Foi na manhã acesa em ti
 Abacate, abrunho
 E a pêra francesa, romã
 Framboesa, kiwi
 
-ti-te na cesta (…) (2x)
-            Fá
-meti-te na cesta!
+             Dó                Fá
+Peguei, trinquei e meti-te na cesta!
 ```
 
 ### A MORTE SAÍU À RUA {#a-morte-saiu-a-rua}
@@ -781,6 +948,53 @@ Eu sei que eu não sou quem você sempre sonhou,
 Mas vou reconquistar o seu amor todo p’ra mim.
 ```
 
+*Versão simplificada Cantinácio 2019:*
+
+```text
+ Sol         Mim            Sim
+Quem te ver passar assim por mim
+    Dó         Ré    Sol
+Não sabe o que é sofrer
+        Mim      Sim     Dó        Ré
+Ter que ver você assim, sempre tão linda
+ Sol         Mim        Sim       Dó    Ré   Sol
+Contemplar o sol do teu olhar perder você no ar
+      Mim        Sim
+Na certeza de um amor
+Dó  Ré
+Me achar
+   Mim
+Um nada
+ Sim                  Dó
+Pois sem ter teu carinho eu me sinto sozinho
+               Ré
+Eu me afogo em solidão
+
+       Sol  Dó   Ré
+Oh Anna Julia
+        Sol Dó   Ré
+Oh Anna Julia
+
+Sol       Mim      Sim       Dó    Ré     Sol
+Nunca acreditei na ilusão de ter você pra mim
+      Mim         Sim      Dó     Ré
+Me atormenta a previsão do nosso destino
+Sol           Mim         Sim    Dó      Ré
+Eu passando o dia a te esperar, você sem me
+ Sol
+notar
+      Mim       Sim    Dó         Ré
+Quando tudo tiver fim, você vai estar
+      Mim
+Com um cara
+                Sim                    Dó
+Um alguém sem carinho será sempre um espinho
+              Ré
+Dentro do meu coração
+
+Oh Anna Julia […]
+```
+
 ### ANZOL {#anzol}
 
 *Rádio Macau*
@@ -804,6 +1018,115 @@ De que cor pintar a minha vida
      Eu não sei se hei-de fugir ou morder o anzol
      Já não há nada de novo aqui
      Debaixo do sol
+```
+
+*Versão simplificada Cantinácio 2019:*
+
+```text
+Lá           Mi
+Ai eu já pensei
+Sim             Ré
+Mandar pintar o céu
+Em tons de azul
+P’ra ser original
+
+Só depois notei
+Que azul já ele era
+E houve alguém
+Que teve uma ideia igual
+
+Eu não sei
+Se hei-de fugir
+Ou morder o anzol
+Já não há nada de novo, aqui....
+
+Debaixo do Sol
+Em cima do Sol
+Ao lado do Sol
+No centro do Sol
+
+Ai eu já pensei,
+O QUÊ?
+Mandar pintar o cé-e-e-e-eu
+Em tons de azu-u-u-u-u-ul
+P’ra se-e-er origina-a-a-a-al!
+
+Nananananana
+```
+
+### AO LIMITE EU VOU {#ao-limite-eu-vou}
+
+*Nonstop*
+
+```text
+Mi Si  Fá#  Sol#m             Mi Si  Fá# Sol#m
+Sonhar! (x2)    (Here we go!)
+
+Mi       Si
+O meu passado foi
+  Fá#      Sol#m
+Um sonho que acabou
+Mi      Si
+Por conseguir
+   F#     Sol#m
+Encontrar o seu lugar
+
+Mi       Si
+E agora aqui, "uh"
+F#     Sol#m
+Mostro-te o que sou
+
+Mi             Si       Fá#
+Sou o espelho de quem sonhou
+      Mi                    Si
+Porque nós vamos fazer te sonhar
+              Fá#           Ré#
+O corpo a dançar a emoção está no ar!
+
+        Mi          Si
+Por ti aqui quem eu espero
+    Fá#        Sol#m
+És só tu quem eu quero
+    Mi           Si
+Eu sei que vais tentar
+    Fá#        Sol#m
+Vou fazer-te vibrar
+       Mi      Si
+E eu já sei que nada
+  Ré#             Mi
+Nada te vai fazer parar
+   Si     Ré#
+Só tens de lutar
+
+             Mi Si Fá# Sol#m
+Ao limite eu vou
+              Mi Si Ré#
+Ao limite eu vou
+
+E se o tempo passa e tu
+Pensas em fugir
+Vontade não se acaba
+Não podes desistir
+
+Conta comigo
+Vou mostrar como ter atitude
+Faz o que estás a sentir
+
+Porque nós vamos fazer te sonhar […]
+
+Mi             Si    Fá#
+Deixa o poder do sonho ter lugar
+            Sol#m      Mi
+Deixa que o sonho se torne real
+Mi
+Porque sonhar
+         Si
+É saber que o que vivemos
+Ré#
+É verdade, é verdade
+É o melhor que temos!
+
+Ao limite eu vou […]
 ```
 
 ### AO PASSAR A RIBEIRINHA {#ao-passar-a-ribeirinha}
@@ -966,6 +1289,47 @@ Que não tinha mais lenha por onde arder
 Chária chária crisa crisa pinga pinga-ô
 ```
 
+### A POUCO E POUCO {#a-pouco-e-pouco}
+
+*José Cid*
+
+```text
+          Dó                  Rém
+Vá lá, são sete e meia amor, e tens que ir trabalhar
+  Mim                         Fá        Fám
+Acordas-me com um beijo e um sorriso no olhar
+       Lám         Ré        Lám          Ré
+E levantas-me da cama, depois tiras-me o pijama
+        Lám           Ré              Sol
+Faço a barba e dá na rádio o Zé Cid a cantar
+
+Apanho um autocarro, vou a pensar em ti
+Que levas os miúdos ao jardim infantil
+Chego à repartição, dou um beijo no escrivão
+E nem olho a secretária que é tão boa
+
+Dó                              Rém
+A pouco e pouco se constrói um grande amor
+     Fá         Sol       Dó
+De coisas tão pequenas e banais
+ Lá                   Rém
+Basta um sorriso, um simples olhar
+Fá          Sol     Dó    Lá
+Um modo de amar a dois
+Rém         Sol    Dó
+Um modo de amar a dois
+
+E às 5 e meia em ponto, telefonas-me a dizer:
+- Não sei viver sem ti amor, não sei o que fazer
+- Faz-me favas com chouriço, o meu prato favorito
+Quando chego p’ra jantar, quase nem acredito
+
+Vestiste-te de branco, uma flor nos cabelos
+Os miúdos na cama e acendeste a fogueira
+Vou ficar a vida inteira a viver dessa maneira
+Eu e tu, e tu e eu, e tu e eu e tu
+```
+
 ### A QUEDA DO IMPÉRIO {#a-queda-do-imperio}
 
 *Vitorino*
@@ -1105,6 +1469,46 @@ Faz um programa, até na lama
 Aqui no mar
 ```
 
+### AQUI VOU EU {#aqui-vou-eu}
+
+*Kenai e Koda*
+
+```text
+Dó                Fá       Dó
+Digam a todos que aqui vou eu
+  Fá               Sol
+Amigos num novo jardim
+ Fá     Sol    Dó    Sol
+Azul é o céu e aqui vou eu
+        Lá#                     Sol
+Pois eu gosto mesmo é de estar aqui!
+
+Digam a todos que aqui vou eu
+Cada coisa vou saborear
+Com o sol a brilhar, sim aqui vou eu
+E não posso deixar de sorrir!
+        Ré
+Não há nada mais giro
+Que ver-te outra vez
+                        Lá
+Qualquer distância dá para vencer
+     Ré                        Sol
+Com histórias que só nos dão para rir
+     Lá        Sol
+Fico mesmo tão feliz
+
+Vá digam lá que aqui vou eu
+Amigos num novo jardim
+Vou dormir a ver as estrelas é do melhor
+Com a lua a olhar-me do céu
+Nem a chuva a cair vai impedir
+O sol vem aí tu vais ver
+Uma brisa que te toca na pele faz-te voar
+Mas eu gosto é de estar aqui!
+
+Digam a todos […]
+```
+
 ### ASAS ABERTAS {#asas-abertas}
 
 *Sua Excelência (Gabriela F. Dias / Paulo Ramirez)*
@@ -1181,6 +1585,58 @@ Sol                            Solm         Ré
                 Quando eu olho mais além
                 E há, um lugar, que é incerto
                 Uma terra de ninguém.
+```
+
+### A TERRA GIRA {#a-terra-gira}
+
+*Os Quatro e Meia*
+
+```text
+Dó     Ré
+Eu não sei
+     Sol              Mim
+Nem como nem quando aqui cheguei
+Dó     Ré
+Sem saber
+        Sol              Mim
+Dou por mim a viver a correr
+
+     Dó    Ré
+E o mundo segue
+    Mim
+Sem olhar para nós
+   Dó      Ré
+Queremos tudo
+     Mim
+Mas vivemos tudo a sós
+
+Dó
+A terra gira em contramão
+Ré
+Ficamos tontos sem direção
+Sol                     Mim
+Corremos até nos faltar o ar
+    Dó                      Ré
+E a vida vai ficando p'ra depois
+   Sol                     Mim
+E continuamos os dois a sonhar
+
+Mal me vi
+No caminho até chegar aqui
+Sem contar
+Corro às cegas sem saber onde chegar
+
+E o mundo segue […]
+A terra gira […]
+
+Dó Ré Sol Mim
+
+A terra gira […] (x2)
+
+E mal nos encostamos aos lençóis
+Com a lua iluminando este T2
+Num instante, adormecemos os dois
+Mas, logo, chega a hora de acordar
 ```
 
 ### A VACA DE FOGO {#a-vaca-de-fogo}
@@ -1428,6 +1884,59 @@ As estrelas os trilhos
 E as tralhas dos dois
 ```
 
+*Versão simplificada Cantinácio 2019:*
+
+```text
+       Dó        Fá
+Quando Deus pôs o mundo
+    Dó     Sol
+E o céu a girar
+Dó       Lám
+Bem lá no fundo
+Sol             Fá
+Sabia que por aquele andar
+ Rém         Sol
+Eu te havia de encontrar
+
+Minha mãe no segundo
+Em que aceitou dançar
+Foi na cantiga
+Dos astros a conspirar
+E do seu cósmico vagar
+
+Lám        Mim
+Mandaram teu pai
+    Solm    Dó  Fá
+Sorrir para tua mãe
+Mim     Lám
+Para que tu
+  Rém      Fá  Sol
+Existisses também
+
+Era um dia bonito
+E na altura eu também
+O infinito
+Ainda se lembrava bem
+Do seu cósmico refém
+E eu que pensava
+Que ia só comprar pão
+E tu que pensavas
+Que ias só passear o cão
+A salvo da conspiração
+
+Cruzamos caminhos
+Tropeçamos num olhar
+E o pão nesse dia
+Ficou por comprar
+
+E ensarilharam-se
+As trelas dos cães
+Os astros os signos
+Os desígnios as constelações
+As estrelas os trilhos
+E as tralhas dos dois
+```
+
 ### BALADA DAS SETE SAIAS {#balada-das-sete-saias}
 
 *Francisco Viana / Trovante*
@@ -1494,6 +2003,138 @@ Dó                            Fá
   Sete sonhos desfolharam
                              Ré
   Menina das sete saias
+```
+
+### BALADA DO DESAJEITADO {#balada-do-desajeitado}
+
+*Quadrilha*
+
+```text
+Dó
+Sei de alguém
+    Rém          Mim
+Por demais envergonhado
+            Fá        Rém
+Que por ser tão desajeitado
+      Sol           Dó
+Nunca foi capaz de falar
+
+Só que hoje
+Viu o tempo que perdeu
+Sabes esse alguém sou eu
+E agora eu vou-te contar
+
+      Fá
+Sabes lá
+     Sol               Dó
+O que é que eu tenho passado
+     Fá                 Rém
+Estou sempre a fazer-te sinais
+      Sol         Dó
+E tu não me tens ligado
+             Fá
+E aqui estou eu
+  Sol            Dó
+A ver o tempo a passar
+   Fá           Rém
+A ver se chega o tempo
+        Sol            Dó
+De haver tempo para te falar
+   Dó
+Eu não sei
+     Fá             Sol
+O que é que te hei-de dar
+       Dó
+Nem te sei
+     Fá          Sol
+Inventar frases bonitas
+       Fá
+Mas aprendi uma ontem
+     Sol
+Só que já me esqueci
+       Fá         Sol    Dó
+Então olha gosto muito de ti
+
+Podes crer
+Que à noite o sono é ligeiro
+Fico à espera o dia inteiro
+Para poder desabafar
+
+Mas como sempre
+Chega a hora da verdade
+E falta-me o à vontade
+Acabo por me calar
+
+        Fá
+Falta-me jeito
+         Sol           Dó
+Ponho-me a escrever e rasgo
+    Fá           Rém
+Cada vez a tremer mais
+       Sol        Dó
+E às vezes até me engasgo
+       Fá
+Nada a fazer
+     Sol              Dó
+É por isso que eu te conto
+  Fá             Rém
+É tarde para não dizer
+     Sol         Dó
+Digo como sei e pronto
+
+Eu não sei […]
+```
+
+### BANANA {#banana}
+
+```text
+                                        Minions
+Ba-ba-ba-ba-ba-na-na
+Ba-ba-ba-ba-ba-na-na
+Banana-ah-ah
+Potato-na-ah-ah
+Banana-ah-ah
+Tokari noh potato-li kani malo mani kano
+Chi ka-baba, ba-ba-nana
+Yoh plano boo la planonoh too
+Ma bana-na la-ka moobi talaloo
+Ba-na-na
+Ba-ba
+Po-tae-toh-oh-oh
+Togari noh pocato li kani malo mani kano
+Chi ka-ba-ba, ba-ba-na-na!
+```
+
+### BATATOON {#batatoon}
+
+```text
+Dó       Mi     Lám
+Hoje vai ser uma festa
+Fá                        Sol
+Bolo e laranjada, muitos doces para ti
+Dó      Mi     Lám
+É o teu aniversário
+Fá                  Sol
+Vamos festejar, os amigos estão aqui
+Fá                 Dó
+E há felicidade se h’amor no coração
+   Sol                      Dó
+Que a tua vida seja sempre doce e emoção
+Fá                   Dó
+Bate, bate palmas é hora de cantar
+Rém         Sol         Dó   Sol
+Agora todos juntos vamos lá
+Dó         Fá     Rém
+Parabéns, parabéns hoje é o teu dia
+   Sol
+Que dia mais feliz
+Dó         Fá      Rém
+Parabéns, parabéns tenta novamente
+   Sol
+Que nós pedimos bis!
+...é dia, de festa, é o teu aniversário
+Chama o batatinha, convida o companhia
+Ba...ta...toon!
 ```
 
 ### BELEZA RARA {#beleza-rara}
@@ -1817,6 +2458,56 @@ E eu sou melhor que nada
 é o tempo (...) (2x)
 ```
 
+*Versão simplificada Cantinácio 2019:*
+
+```text
+Sol                         Ré
+Tu estás livre e eu estou livre
+Fá#m                   Sol
+E há uma noite para passar
+                   Ré
+Porque não vamos unidos
+Fá#m               Sol
+Porque não vamos ficar
+                  Fá#m      Lá
+Na aventura dos sentidos
+
+Tu estás só e eu mais só estou
+Que tu tens o meu olhar
+Tens a minha mão aberta
+À espera de se fechar
+Nessa tua mão deserta
+
+          Sim
+Vem que o amor
+         Lá
+Não é o tempo
+        Fá#m
+Nem é o tempo
+      Sol
+Que o faz
+          Sim
+Vem que o amor
+        Lá
+É o momento
+           Fá#m
+Eu que eu me dou
+          Sol
+Em que te dás
+
+Tu que buscas companhia
+E eu que busco quem quiser
+Ser o fim desta energia
+Ser um corpo de prazer
+Ser o fim de mais um dia
+
+Tu continuas à espera
+Do melhor que já não vem
+E a esperança foi encontrada
+Antes de ti por alguém
+E eu sou melhor que nada
+```
+
 ### CANOA {#canoa}
 
 *Rumos*
@@ -1860,6 +2551,43 @@ E eu sou melhor que nada
 
 *  B.P. (Baden Powell), no original
 ** Lenço Rubro, no original
+```
+
+*Versão simplificada Cantinácio 2019:*
+
+```text
+Lá                  Sim
+Não deixes cair teus olhos
+      Ré         Mi
+Não te deixes enganar
+Lá                Mi
+Olha de frente os escolhos
+Fá#m  Mi       Ré  (Mi)
+Olha, podes encalhar
+
+É urgente estar atento
+Ver para onde corre a maré
+Ver donde sopra o vento
+Não vás tu perder o pé
+
+Lá Lá7    Sim            Mi
+Je-sus é quem te diz, oh oh
+        Dó#m7        Fá#m    Mi Lá
+Impele a tua própria canoa,  oh oh
+  Lá7     Sim         Mi
+Se queres mesmo ser feliz
+      Dó#m7      Fá#m
+Não te deixes ir à toa
+         Mi           Ré
+Impele a tua própria canoa
+         Mi           Lá
+Impele a tua própria canoa
+
+A vida não é deserto
+Não queiras ficar no cais
+Jesus é rumo certo
+Decide tu aonde vais,
+Não queiras ficar no cais
 ```
 
 ### CANTAR DE EMIGRAÇÃO {#cantar-de-emigracao}
@@ -2010,6 +2738,57 @@ Acabar por se encontrar naquilo que ninguém quer
 
 Tuu...  Tu-ru-ru-ru...  Tu-ru-ru-ru-ru...  Tu-ru-ru-ru
 Tuu...  Tu-ru-ru-ru...  Tu-ru-ru-ru-ru...  Tu-ru-ru-ru
+```
+
+### CAPITÃO ROMANCE {#capitao-romance}
+
+*Ornatos Violeta*
+
+```text
+Fá#  Sim
+                       Mim
+Não vou procurar quem espero
+Fá#                     Sim
+Se o que eu quero é navegar!
+Fá                Dó
+Pelo tamanho das ondas
+Fá#         Sim
+Conto não voltar
+
+Parto rumo à primavera
+Que em meu fundo se escondeu
+Esqueço tudo do que eu sou capaz
+Hoje o mar sou eu
+
+Esperam-me ondas que persistem
+Nunca param de bater
+Esperam-me homens que desistem
+Antes de morrer!
+
+Por querer mais do que a vida
+Sou a sombra do que eu sou
+E ao fim não toquei em nada
+Do que em mim tocou
+
+Sol   Mi
+ Eu vi,
+Fá#           Sim
+ Mas não agarrei...
+
+ Eu vi,
+ Mas não agarrei...
+
+Parto rumo à maravilha
+Rumo à dor que houver p'ra vir
+Se eu encontrar uma ilha
+Paro p'ra sentir
+
+Dar sentido à viagem
+P'ra sentir que eu sou capaz
+Se o meu peito diz coragem
+Volto a partir em paz
+
+Eu vi […]
 ```
 
 ### CARTAS DE AMOR {#cartas-de-amor}
@@ -2266,6 +3045,55 @@ O caos e a harmonia
   E abri com a chave dos sonhos a porta e a varanda que em sonhos abri
 ```
 
+### CHEIRA A LISBOA {#cheira-a-lisboa}
+
+*César de Oliveira*
+
+```text
+Rém
+Lisboa já tem sol mas cheira a lua
+                             Lá7
+Quando nasce a madrugada sorrateira
+E o primeiro eléctrico da rua
+     Solm        Lá7      Rém
+Faz coro c'a chinela da Ribeira
+
+   Solm                    Rém
+Se chove, cheira a terra prometida
+     Lá7                   Rém
+Procissões têm cheiro a rosmaninho
+   Solm                    Rém
+Na tasca da viela mais escondida
+           Lá7                 Ré
+Cheira a iscas (com elas) e a vinho
+
+Ré
+Um craveiro numa água furtada
+                       Lá7
+Cheira bem, cheira a Lisboa!
+Uma rosa a florir na tapada
+                       Ré
+Cheira bem, cheira a Lisboa!
+                           Lá7
+A fragata que se ergue na proa
+                        Ré
+A varina que teima em passar
+         Ré7                Sol
+Cheiram bem porque são de Lisboa
+             Ré       Lá7        Ré
+Lisboa tem cheiro de flores e de mar!
+
+Lisboa cheira aos cafés do Rossio
+E o fado cheira sempre a solidão
+Cheira a castanha assada, se está frio
+Cheira a fruta madura, quando é Verão
+
+Nos lábios tem o cheiro d’um sorriso
+Manjerico tem o cheiro de cantigas
+E os rapazes perdem o juízo
+Quando lhes dá o cheiro a raparigas
+```
+
 ### CHICLETE {#chiclete}
 
 *Táxi*
@@ -2356,6 +3184,93 @@ Conhece os felipados todos de gingeira
 
 
 Chico Fininho, uuuuuh (...)
+```
+
+### CICLO SEM FIM {#ciclo-sem-fim}
+
+*Rei Leão*
+
+```text
+Ré
+Ingonyama nengw' enamabala
+Sim
+Ingonyama nengw' enamabala
+Mim
+Ingonyama nengw' enamabala
+Lá
+Ingonyama nengw' enamabala
+
+        Ré                    Sol
+Desde o dia em que ao mundo chegamos
+     Lá               Ré
+E abrimos os olhos ao Sol
+   Sim                     Mim
+Há mais para ver, mais que imaginar
+           Dó              Lá
+Mais que o tempo pode permitir
+
+   Ré               Sol
+Há tantas coisas à espera
+    Lá                   Ré
+E locais que queremos desvendar
+    Sim                 Mim
+É o Sol a brilhar, é o azul deste céu
+       Dó             Lá
+Que mantém este rio a fluir
+
+              Ré            Dó
+É o ciclo sem fim que nos guiará
+          Sol           Lá
+E com emoção, pela fé e amor
+          Ré Si7          Mim    Solm
+Até encontrar, o nosso caminho
+      Ré   Lá                Sol    Ré
+Neste ciclo, neste ciclo sem fim
+```
+
+### CIRCO DE FERAS {#circo-de-feras}
+
+*Xutos & Pontapés*
+
+```text
+Sol
+A vida vai torta
+                  Dó*
+Jamais se endireita
+                 Sol
+O azar persegue
+Esconde-se à espreita
+Nunca dei um passo
+                   Dó*
+Que fosse o correcto
+                  Sol
+Eu nunca fiz nada
+Que batesse certo
+
+     Lá
+E enquanto esperava
+No fundo da rua
+    Dó
+Pensava em ti
+E em que sorte era tua
+          Sol
+Quero-te tanto
+         Ré
+Quero-te tanto
+
+De modo que a vida
+É um circo de feras
+E os entretantos
+São as minhas esperas
+
+Nunca dei um passo
+Que fosse o correcto
+Eu nunca fiz nada
+Que batesse certo
+
+E enquanto esperava […]
+
+Dó* - x32033
 ```
 
 ### COMO UMA AVE OU UM RIO {#como-uma-ave-ou-um-rio}
@@ -2538,6 +3453,61 @@ Que tem a sorte de saborear
 E o paraíso no teu olhar
 ```
 
+### DARTACÃO {#dartacao}
+
+```text
+Dó       Lám
+Eram uma vez os três
+Rém        Sol
+Os famosos moscãoteiros
+Dó         Lám
+Do pequeno Dartacão
+Rém           Sol
+Tão bons companheiros
+
+Fá
+Os melhores amigos são
+Sol            Lám
+Os três moscãoteiros
+Fá
+Quando em aventuras vão
+Sol               Dó
+São sempre os primeiros
+
+Quando eles vão combater
+Já não há rival algum
+O seu lema é um por todos
+E todos por um
+
+O amor de Julieta
+É o Dartacão
+E ela é a predileta
+Do seu coração
+
+Lám
+Dartacão, Dartacão
+         Mi
+Correndo grandes perigos
+Lám
+Dartacão, Dartacão
+          Fá    Sol
+Perseguem os bandidos
+Dó
+Dartacão, Dartacão
+          Fá           Sol        Dó
+E os três moscãoteiros longe vão chegar
+
+Dartacão, Dartacão
+És tu e os teus amigos
+Dartacão, Dartacão
+Em jogos divertidos
+Dartacão, Dartacão
+         Dó
+Vocês são moscãoteiros
+Mi   Lám
+A lutar
+```
+
 ### DENTES DE LOBO {#dentes-de-lobo}
 
 *Tiago Guillul*
@@ -2711,6 +3681,149 @@ Tanto orgulho numa só mulher moderna oh-ai
 Que ora corre ora cai (bis)
 ```
 
+*Versão simplificada Cantinácio 2019:*
+
+```text
+Sim Sol Lá Ré (4x)
+
+          Ré
+Antes da chegada eu disse-lhe ao ouvido
+          Sol                  Ré
+Esse teu amigo mais parece teu amor
+              Ré
+Nem todo o cacheiro é para andar contigo
+           Sol                Ré
+Larga lá o osso oh fidalgo roedor
+               Sim            Sol
+Haja algum bom senso, Dona Ligeirinha
+              Sim            Lá        Ré
+Olhe que o comércio lhe afugenta muita gente
+         Ré
+Antes da chegada, oiça o que eu lhe digo
+                Sol
+Escolha o bom caminho que é para o rosto andar
+   Ré
+contente
+
+Sim Sol Lá Ré (2x)
+
+Antes da chegada […]
+
+Sim                 Lá
+Vou largar o que a mamã levou à perna
+Sim          Lá                   Sol
+Quer agora evitar o seu bom pai oh-ai
+                  Fá#m         Sol    Lá
+Tanto orgulho numa só mulher moderna oh-ai
+                  Ré
+Que ora corre ora cai
+Antes da chegada […]
+```
+
+### DONA MARIA {#dona-maria}
+
+*Thiago Brava*
+
+```text
+      Ré
+Me desculpe vir aqui desse jeito
+     Lá
+Me perdoe o traje de maluqueiro
+          Sim
+De camisa larga e boné p’ra trás
+       Sol
+Bem na hora da novela que a senhora gosta mais
+
+Faz três dias que eu não durmo direito
+Sua filha me deixou desse jeito
+E o que ela mais fala e que a senhora e brava
+Mas hoje eu não vou aceitar
+Levar um ''não '' p'ra casa
+
+Dona maria
+Deixa eu namorar a sua filha
+Vai-me desculpando a ousadia
+Essa menina e um desenho do céu
+
+Dona maria […]
+         Lá                      Ré
+Que deus pintou e jogou fora o pincel
+```
+
+### DORMI NA PRAÇA {#dormi-na-praca}
+
+*Bruno e Marrone*
+
+```text
+Dó Sol Fá Sol
+
+       Dó      Mim      Lám
+Eu caminhei sozinho pela rua
+  Fá             Mi          Lám
+Falei com as estrelas e com a lua
+   Fá                Mi    Lám         Fá
+Deitei no banco da praça tentando te esquecer
+    Dó       Sol       Dó
+Adormeci e sonhei com você
+
+No sonho você veio provocante
+Me deu um beijo doce e me abraçou
+E bem na hora "H" no ponto alto do amor
+  Dó             Sol       Dó       Sol
+Já era dia e o guarda me acordou
+
+    Dó
+Seu guarda eu não sou vagabundo
+               Sol
+Eu não sou delinquente, sou um cara carente
+             Fá          Dó      Sol
+Eu dormi na praça pensando nela
+  Dó
+Seu guarda seja meu amigo
+              Sol
+Me bata me prenda faça tudo comigo
+            Fá           Dó     Sol
+Mas não me deixe ficar sem ela
+```
+
+### DRAGONBALL GT {#dragonball-gt}
+
+```text
+Lá            Mi
+GT Dragonball GT, guerreiro
+Fá#m               Dó#m
+Herói serás sempre o primeiro
+Ré       Dó#m   Fá#m        Mi
+Para combater as forças do mal
+     Lá   Fá Sol Lá
+Songoku
+
+Rém     Sol         Mim
+Ser como tu e até o medo
+           Lám                 Rém
+Saber enfrentar sem qualquer segredo
+        Mi                     Lám
+para poder voar, ir muito mais além
+
+    Fá
+Como tu, quebrar barreiras
+       Dó            Lám         Rém
+Sempre com a alma e coragem do dragão
+      Mi      Lám            Dó
+Para poder a galáxia defender.
+
+       Fá
+Sempre assim, fiel, amigo
+             Sol
+A lutar pelo bem, com garra de quem
+              Lám
+Sabe o perigo enfrentar
+ Rém               Sol
+E com o coração gritar
+      Mi
+Kamehame
+```
+
 ### DUNAS {#dunas}
 
 *GNR*
@@ -2770,6 +3883,151 @@ Boiando vazias
 Nas ondas da manhã
 ```
 
+*Versão simplificada Cantinácio 2019:*
+
+```text
+Sol              Mim
+Dunas, são como divãs
+           Dó
+Biombos indiscretos de alcatrão sujo
+  Ré
+Rasgados por cactos e hortelãs
+
+Deitados nas dunas
+Alheios a tudo
+Olhos penetrantes
+Pensamentos lavados
+
+Sol
+Bebemos nos lábios
+Mim
+Refrescos gelados
+Dó
+Velamos segredos
+Ré
+Saltamos rochedos
+    Sol
+Em câmara lenta
+     Mim
+Como na TV
+  Dó
+Palavras a mais
+         Ré
+Na idade dos porquês
+
+Dunas, são como divãs
+Quem nos visse deitado, cabelos molhados
+Bastante enrolados, sacos cama salgados
+
+Nas dunas, roendo maçãs
+A ver garrafas de óleo boiando vazias
+Nas ondas da manhã
+
+Sol
+Bebemos nos lábios
+   Mim         Dó       Ré
+Refrescos gelados - nas dunas
+   Sol
+Em câmara lenta
+      Mim  Dó     Ré
+Como na TV - nas dunas
+```
+
+### É ISSO AÍ {#e-isso-ai}
+
+*Ana Carolina e Seu Jorge*
+
+```text
+       Lá
+É isso ai
+                  Ré
+Como a gente achou que ia ser
+               Mi         Ré
+A vida tão simples é boa
+          Lá
+Quase sempre
+
+É isso ai
+Os passos vão pelas ruas
+Ninguém reparou na lua
+A vida sempre continua
+
+                Ré
+E eu não sei parar de te olhar
+            Dó#m
+Eu não sei parar de te olhar
+        Sim
+Não vou parar de te olhar
+          Lá
+Eu não me canso de olhar
+         Ré   Mi
+Não sei parar
+       Lá
+De te olhar
+
+É isso ai
+Há quem acredita em milagres
+Há quem cometa maldade
+Há quem não saiba dizer a verdade
+
+É isso ai
+Como um vendedor de flores
+Ensinar seus filhos
+A escolher seus amores
+
+E eu não sei parar […]
+```
+
+### ELE É O REI {#ele-e-o-rei}
+
+*Onda Choc*
+
+```text
+Lá
+Há um rapaz que anda lá na escola
+   Sim
+Que por ser lindo e tocar viola
+   Ré              Lá
+É o ídolo das raparigas
+Passam-lhe os desenhos a tinta-da-china
+Trazem-lhe bolos da cantina
+Ele leva-as com duas cantigas (la la la la la lô)
+
+Fazem-lhe os trabalhos de casa, deixam-no copiar
+Se ele chega tarde vão falar
+À stôra p'ra não marcar falta (oh stôra, vá lá!)
+
+Dão-lhe prendas do bom e do melhor que há
+Perfumes caros vejam lá
+Se isto não é de enfurecer o resto da malta
+
+Ele é o rei yeah yeah yeah
+É o rei lá do liceu
+Mas eu cansei yeah yeah yeah
+Pode ser rei, mas não o meu
+
+A Maria que vai p’ra psicologia
+Disse-me outro dia, a sua opinião
+Que por trás da revolta ao rapaz
+Eu tenho por ele, uma grande paixão
+
+Não estou de acordo
+Sempre fui sempre serei
+Contra os caprichos desse rei
+Não sou do género de encostar a cabecinha
+(encosta a tua cabecinha)
+
+Alguém como ele se comigo quisesse namorar
+Para se redimir para se curar
+Tinha de tratar-me como uma rainha
+
+Ele é o rei […]
+
+E esse rapaz que anda lá na escola
+É lindo e toca viola
+Mas não o meu rei
+```
+
 ### ENCADEIA {#encadeia}
 
 *Popular*
@@ -2803,6 +4061,106 @@ Desta roda não quero perder
 A primeira mão que me apertou
 Dei a volta, cheguei ao fim
 Encontrou-me, não me largou
+```
+
+*Versão simplificada Cantinácio 2019:*
+
+```text
+  Lá                     Mi
+Ao passar por uma terra estranha
+          Mi7                 Lá
+Eu pedi esmola mas ninguém ma deu (x2)
+
+Ai eu hei-de deixar escrito
+Ai à fome ninguém morreu (x2)
+
+Encadeia bem encadeado
+Não me aperta a mão que me estala o braço (2x)
+Encadeia, dá-me um beijinho
+Encadeia, dá-me um abraço!
+
+Ao entrar nesta roda viva
+Olhei para o lado e que foi que eu vi
+
+Vi uns olhos que não largavam
+Os meus olhos e eu sorri
+
+Desta roda não quero perder
+A primeira mão que me apertou
+
+Dei a volta cheguei ao fim
+Encontrou-me, não me largou
+```
+
+### ENCOSTA-TE A MIM {#encosta-te-a-mim}
+
+*Jorge Palma*
+
+```text
+            Lá
+Encosta-te a mim
+          Ré           Mi
+Nós já vivemos cem mil anos
+              Lá
+Encosta-te a mim
+            Ré        Mi
+Talvez eu esteja a exagerar
+            Fá#m
+Encosta-te a mim
+        Sol
+Dá cabo dos teus desenganos
+            Ré
+Não queiras ver quem eu não sou
+          Mi
+Deixa-me chegar
+
+Chegado da guerra
+Fiz tudo p’ra sobreviver
+Em nome da terra
+No fundo p’ra te merecer
+Recebe-me bem
+Não desencantes os meus passos
+Faz de mim o teu herói
+Não quero adormecer
+
+            Ré
+Tudo o que eu vi
+                    Lá
+Estou a partilhar contigo
+           Ré
+O que não vivi
+                  Lá
+Hei-de inventar contigo
+            Ré
+Sei que não sei
+                      Dó#m
+Às vezes entender o teu olhar
+             Sim    Mi
+Mas quero-te bem
+              Lá
+Encosta-te a mim
+
+Lá Ré Mi Ré
+
+Encosta-te a mim
+Desatinamos tantas vezes
+Vizinha de mim
+Deixa ser meu o teu quintal
+Recebe esta pomba
+Que não está armadilhada
+Foi comprada, foi roubada
+Seja como for
+
+Eu venho do nada
+Porque arrasei o que não quis
+Em nome da estrada
+Onde só quero ser feliz
+Enrosca-te a mim
+Vai desarmar a flor queimada
+Vai beijar o homem-bomba
+Quero adormecer
+
+Tudo o que eu vi […]
 ```
 
 ### ESTAÇÕES DA VIDA {#estacoes-da-vida}
@@ -2878,6 +4236,62 @@ Amigo, corre, vem cantar, cantar comigo!
 Tchim-tchim-tchim  tchim-tchim-tchim
 
 Tchim-tchim
+```
+
+### ESTA NOITE O AMOR CHEGOU {#esta-noite-o-amor-chegou}
+
+*Rei Leão*
+
+```text
+Sol          Ré
+Vê o que acontece... O quê?
+Sol         Ré
+O que vem depois... O quê?
+  Sol           Sim
+Esses pombinhos vão se apaixonar
+Sol             Lá
+Ficamos só nós dois. Oh.
+
+ Sol        Ré
+Há troca de carícias
+   Sol      Ré
+Há mágica no ar
+   Sol            Sim
+Enquanto houver romance entre os dois
+Dó               Lá
+Desastres vão chegar
+
+Ré     Lá     Sim   Sol
+Esta noite o amor chegou
+Ré      Sol  Lá
+Chegou para ficar
+  Sol   Ré     Sim
+E tudo está em harmonia e paz
+Sol     Ré     Lá
+Romance está no ar
+
+São tantas coisas a dizer
+Mas como hei-de explicar
+O que aconteceu
+Não vou contar
+Senão vais-me deixar
+
+O que é que ele esconde
+E não quer revelar
+Pois dentro dele um rei existe
+Mas que não quer mostrar
+
+Esta noite […]
+
+Esta noite o amor chegou
+E bem neste lugar
+Para os dois cansados de esperar
+Para se encontrar
+
+Final feliz escrito está
+Que má situação
+Sua liberdade está quase no fim
+Domado está o leão
 ```
 
 ### EU GOSTO É DO VERÃO {#eu-gosto-e-do-verao}
@@ -3004,6 +4418,49 @@ r p’ra trás,
 ar p’ra já,
 ais um lugar,
 erei maior
+```
+
+*Versão simplificada Cantinácio 2019:*
+
+```text
+  Sol  Lá Ré
+E voz falou
+     Sol  Lá  Ré
+Lá do fim do mar
+    Sol  Lá  Sim
+E a voz chamou-me
+       Mim      Lá
+Lá bem longe de mim
+
+Onde Corus sou
+Para acompanhar
+Esta voz que grita:
+  Sol               Lá
+É aí que eu quero estar
+
+        Ré    Sol
+Eu me encontrarei
+Sim           Lá
+Eu irei mais longe
+    Ré         Sol
+Ao partir, sei bem
+Sim         Lá
+Que vou caminhar
+ Fá#m          Sim
+Sem olhar p'ra trás
+     Ré       Sol
+Sem parar p'ra já
+      Sol      Sim
+Há no Céu mais um lugar
+  Sol   Lá     Ré
+No Céu serei maior
+
+Um amor maior
+Eu irei mais longe
+É saber lutar
+Para avançar
+
+Sem olhar p'ra trás […]
 ```
 
 ### EU QUERO VOLTAR {#eu-quero-voltar}
@@ -3202,6 +4659,45 @@ E pulo a cuspir os dentes
  Comer uma caldeirada
 ```
 
+### FADO TONINHO {#fado-toninho}
+
+*Deolinda*
+
+```text
+Sol         Dó         Sol      Dó
+Dizem que é mau, que faz e acontece
+Sol        Dó       Sol    Dó
+Arma confusão e o diabo a sete
+Sol                     Dó
+Agarrem-me que eu vou-me a ele
+   Fá              Dó
+Nem sei o que lhe faço
+    Sol        Dó
+Desgrenho os cabelos
+    Sol       Dó
+Esborrato os lábios
+
+            Fá                     Dó
+Se não me seguram dou-lhe forte e feio
+             Sol                Dó
+Beijinhos na boca, arrepios no peito
+           Fá                Dó
+E pagas as favas, eu digo “Enfim
+          Sol                 Dó
+Ó meu rapazinho és fraco pra mim!"
+
+De peito feito ele ginga o passo
+Arregaça as mangas e escarra p'ró lado
+Anda lá, ó meu cobardolas, vem cá mano a mano
+Eu faço e aconteço
+Eu posso, eu mando
+
+Se não me seguram […]
+
+Ó meu rapazinho, ai… Eu digo assim:
+"Se não me seguram dou cabo de ti!”
+```
+
 ### FALA DO HOMEM NASCIDO {#fala-do-homem-nascido}
 
 *António Gedeão / José Niza*
@@ -3275,6 +4771,51 @@ Que eu nem sequer fui ouvido
 No acto de que nasci
 ```
 
+### FICARÁS NO MEU CORAÇÃO {#ficaras-no-meu-coracao}
+
+*Tarzan*
+
+```text
+Sol
+Calma não caias, ouve a mãe cantar
+Eu dou-te a mão, vou tentar
+Dó
+Não tenhas medo, pois somos só um
+Lám                  Ré
+Com o meu bem vou ficar
+
+Sol
+És tão pequeno, mas forte e bom
+E nos meus braços poderás ficar
+Dó
+Ninguém nos pode separar já
+Lám                   Ré   Si
+Estarei aqui p’ra te amar
+
+   Mi     Lá
+Tu vives aqui
+   Si     Sol#m
+No meu coração
+   Dó#m
+E ouve bem
+    Lá          Ré     Si7
+Para sempre ficarás
+   Mi    Lá
+Tu vives aqui
+    Si          Sol#m
+Ninguém vai impedir
+   Dó#m         Lá
+Tu serás o meu Sol
+   Ré      Si7
+Sempre
+
+Porque não entendem o nosso Amor?
+Porquê o medo? Porquê a dor?
+Se as diferenças não nos separam
+Lám                Ré     Si
+Ninguém nos vai separar
+```
+
 ### FICAREI {#ficarei}
 
 *Anjos*
@@ -3338,6 +4879,118 @@ Mas eu não vou desistir de te ter
 to do céu (2x)
 ```
 
+### FILHO DE HOMEM {#filho-de-homem}
+
+*Tarzan*
+
+```text
+     Ré
+Essa força e poder!
+     Sim
+Sensatez para escolher!
+Sol                    Lá
+A seu tempo tudo tu terás!
+
+      Sol         Ré
+Na viagem que é a vida
+       Lá               Sim
+Há respostas que vais qu'rer
+     Sol          Ré
+Subirás essa montanha
+Lá            Sim
+Terás o seu saber
+
+Sol            Ré      Lá
+Filho de homem tu vais ver
+Sol        Ré Lá
+Com a alma voarás
+Sol         Ré    Lá
+Com orgulho vais viver
+Sol             Lá        Ré
+Filho de homem, homem tu serás
+
+       Sol              Ré
+Sem ninguém que vá guiar-te
+    Lá             Sim
+Ninguém p'ra dar a mão!
+        Sol            Ré
+Mas com calma e sentimento
+      Lá          Sim
+Algum dia um homem serás
+
+Filho de homem tu vais ver […]
+
+   Ré                     Sim
+Aprendes ensinando e ensinando aprenderás
+     Sol               Lá
+Descobrirás a vida e o amor
+       Sol           Ré
+Tantas coisas que sonhaste
+    Lá         Sim
+E essas tais visões!
+     Sol           Ré
+Esse tempo já está perto
+    Lá       Sim
+Chegou a tua vez
+
+Filho de homem tu vais ver […]
+```
+
+### FILHOS DE DEUS {#filhos-de-deus}
+
+*Corcunda de Notre Dame*
+
+```text
+Rém                 Lá
+Eu não sei se tu me amas
+Rém        Lá
+Ou se estás aí
+Fá#m              Ré
+E nem sei se tu entendes
+      Sim Mi7  Lá
+Esta humilde prece
+
+Fá#m          Sim
+Eu sou só uma cigana
+  Mi            Fá#m
+Com a minha alma a nu
+Rém               Lá
+Eu sempre fui renegada
+Mi               Lá      Ré
+Como um dia foste tu
+
+Lá                 Rém
+Protege os párias, buscam amor
+Sim     Mi                 Lá
+Tem piedade, pois vivem na dor
+Fá#m               Sim
+Ama o meu povo, que crê em Ti Deus
+Ré        Lá           Mi         Lá
+Protege os párias, que são filhos teus
+
+[coro dos que acham serem os únicos filhos de
+Deus:
+        Lá          Fá#m
+Eu peço Fé, eu peço amor
+        Ré        Mi        Lá
+Eu peço fama, prestígio e poder
+       Fá#m         Ré
+E vou louvar, a Ti senhor
+         Sim                  Mi
+Eu peço glória na Terra e nos Céus]
+
+Lá             Rém
+Eu nada quero, nem um favor
+Sim        Mi        Lá
+Mas o meu povo, é carente de amor
+Fá#m            Sim
+Ama o meu povo, só te tem a Ti
+Rém       Lá           Mi       Lá
+E acha que todos, são filhos de Deus
+Mi          Lá      Mi       Lá
+Protege os párias, filhos de Deus
+```
+
 ### FIM DO MUNDO {#fim-do-mundo}
 
 *Ala dos Namorados*
@@ -3383,6 +5036,95 @@ A entrada na cidade
 Sou teu, sou teu  (…)
 
                  Vou fechar o punho e pôr o sangue a ferver vou (…)
+```
+
+### FIZZ DE LIMÃO {#fizz-de-limao}
+
+*Miguel Araújo*
+
+```text
+Sol                      Mim
+Se alguém pudesse por um fim à maldição
+Sol                      Mim
+Que entristece a nossa anti-geração
+Ré               Dó                  Sol
+Talvez se o Maradona ainda jogasse futebol
+     Si     Mim           Dó       Sol
+E o rock and roll ainda fosse a canção
+
+Tantas memórias tantas pontas desconexas
+Se o Chuck Noris ainda fosse o rei do Texas
+E derrubasse o muro entre nós e o amanhã
+Sem fé no futuro, o mau passado a cantar, cantar
+    Ré
+cantar!
+
+Sol                                   Dó
+Não ficamos à espera não sustemos a respiração
+                    Sim                   Dó Ré
+À espera que o D.Sebastião nos traga a redenção
+Sol
+O povo não desespera a gente sabe que ainda há
+Dó
+Solução
+               Sim
+Porque o Fizz Limão
+          Mim         Lá7
+O Fizz de Limão há-de voltar
+           Ré
+Num dia de Sol
+Dó       Ré        Sol         Mim
+O Fizz Limão há-de voltar
+
+A nossa estética perdeu-se no vazio
+A nossa ética anda presa por um fio
+Valham-nos as memórias de um céu bem mais azul
+De quando o Verão Azul dava na televisão
+
+Não sinto orgulho nas notícias da manhã
+Já só vasculho nos baús da minha irmã
+E o cheiro a naftalina é que me aquece o coração
+Lá lá lá lá lá um mau passado a cantar
+
+Não ficamos à espera (…)
+
+Dó              Sim
+No nosso tempo ninguém morria
+Dó              Sim
+No nosso tempo ninguém sofria
+      Mim           Dó
+Tanto que no nosso tempo ninguém dizia
+         Ré
+No nosso tempo
+
+Não ficamos à espera (…)
+```
+
+### FOI VOCÊ {#foi-voce}
+
+*Bela Adormecida*
+
+```text
+Dó  Sol Dó        Sol
+Foi você o sonho bonito
+Lá       Ré   Ré7
+Que eu sonhei
+Sol Ré Sol7           Dó   Lám
+Foi você eu lembro tão bem você
+  Rém     Sol
+Na linda visão
+     Dó   Sol   Dó       Rém
+E me fez sentir que o meu amor
+   Lá  Rém    Sol7
+Nasceu então
+      Dó    Lá
+E aqui está você
+ Rém     Si7         Mim
+Somente você, a mesma visão
+  Lá      Rém   Sol   Dó
+Aquela do sonho que sonhei
+
+La la, la la…
 ```
 
 ### FORMIGA FILETE {#formiga-filete}
@@ -3491,6 +5233,52 @@ gil
 sigo ser ágil
 ```
 
+### HAKUNA MATATA {#hakuna-matata}
+
+*Rei Leão*
+
+```text
+  Sol                Ré
+Hakuna Matata, é tão fácil dizer
+   Sol           Mi          Lá7
+*Hakuna Matata, sim, vais perceber
+           Sim    Sol          Mi
+Os teus problemas são para esquecer
+        Sol            Lá
+P'ra sobreviver, tens de aprender
+         Ré
+Hakuna Matata
+
+       Dó      Sol  Ré
+Quando ele era pequenino…
+        Dó     Sol  Ré
+*Quando eu era pequenino…
+Que bonito…
+*Obrigado
+   Fá                        Sol
+Sentiu que o seu cheiro era de um porcalhão
+         Ré             Lá
+Que esvaziava a savana depois da refeição
+Fá                  Sol       Ré
+*Era só eu chegar e era um tormento
+                                      Mi
+*Via toda a gente virar as costas ao vento
+         Ré
+Ai que vexame!
+*Era um vexame!
+               Lá
+*Quis mudar de nome
+Que tem o teu nome?
+            Dó
+*Eu não era fraco
+Sentias-te triste!
+*Quando eu dava um…
+Hey, Pumba, não à frente das crianças
+*Oh, desculpa!
+
+Hakuna Matata […]
+```
+
 ### HINO À NATUREZA {#hino-a-natureza}
 
 *Hélder Ribeiro / Jon Anderson*
@@ -3556,6 +5344,112 @@ sigo ser ágil
 * MOCAMFE, no original
 ```
 
+### HOMEM DO LEME {#homem-do-leme}
+
+*Xutos & Pontapés*
+
+```text
+Lám        Mim
+Sozinho na noite
+Fá            Sol
+Um barco ruma para onde vai
+Lám         Mim    Fá
+Uma luz no escuro brilha a direito
+Sol
+Ofusca as demais
+
+  Lám                Mim
+E mais que uma onda, mais que uma maré
+  Fá                  Sol
+Tentaram prendê-lo, impôr-lhe uma fé
+     Lám                Mim
+Mas, vogando à vontade, rompendo a saudade
+    Fá                       Sol            Dó
+Vai quem já nada teme, vai o homem do leme
+
+Fá            Lám7    Mim               Dó
+E uma vontade de rir, nasce do fundo do ser
+Fá            Lám7                    Mim
+E uma vontade de ir, correr o mundo e partir
+                   Lám
+A vida é sempre a perder
+
+No fundo do mar
+Jazem os outros, os que lá ficaram
+Em dias cinzentos
+Descanso eterno lá encontraram
+
+E mais que uma onda, mais que uma maré (…)
+
+No fundo horizonte
+Sopra o murmúrio para onde vai
+No fundo do tempo
+Foge o futuro, é tarde demais
+
+E uma vontade de rir, nasce do fundo do ser […]
+```
+
+### HOMEM SER {#homem-ser}
+
+*Mulan*
+
+```text
+Lám    Sol      Dó
+Vamos ao que interessa
+     Rém      Sol
+Derrotar mauzões
+Lám  Sol     Dó
+Temos cá palermas
+   Rém     Sol
+Eu pedi heróis
+      Fá             Sol
+Vocês são um bando p'ra esquecer
+           Dó            Fá
+Mas podes crer que mesmo tu
+            Sol      Lám Sol Lám
+Ficarás um terror frio e cru
+
+Calmo e sereno
+Mas também a arder
+Encontra o teu centro
+Assim vais vencer
+És patético e vais perceber
+Que tens muito que aprender
+Ficarás um terror frio e cru
+Fá               Sol
+Não sou capaz de respirar
+Mi             Lám
+Lá se vai o meu passado
+Sol               Dó        Fá
+Que palerma fui em não ginasticar
+
+Fá           Sol
+Este tipo é mesmo mau
+Mi                   Lám
+Espero que não me descubra
+Sol             Dó       Fá
+Dava muito jeito eu saber nadar!
+(Vais lutar!)
+Fá       Sol       Mi     Lám
+Com a rapidez de um rio em fúria
+(Vais lutar!)
+Fá        Sol      Mi   Lám
+E com o ímpeto de um tufão
+(Vais lutar!)
+Fá        Sol       Mi     Lám
+Com o poder de um fogo imenso
+Fá              Sol       Lám
+Mistério do lado oculto do luar
+A qualquer momento
+Poderão chegar
+Só das minhas ordens
+Poderão escapar
+Não consegues nem lutar então
+Põe-te a andar, pois decidi
+Não darás um terror frio e cru
+Vais lutar […]
+```
+
 ### JÁ ESTOU DE REGRESSO, AMOR {#ja-estou-de-regresso-amor}
 
 *Os Quatro e Meia*
@@ -3611,6 +5505,56 @@ Abre a janela, amor!
 
 Lá           Si7
 Vê-me, ao longe, a correr p’ra te abraçar! (3x)
+```
+
+### JÁ PASSOU {#ja-passou}
+
+*Frozen*
+
+```text
+Mim               Dó
+A neve cobre a montanha esta noite
+      Ré            Lám
+Mas os passos são só meus
+Mim          Dó
+Comigo só há solidão
+    Ré            Lá
+Sou rainha destes céus
+
+   Mim      Dó         Ré           Lám
+Cá dentro a tempestade que estou a sentir
+Mim              Ré         Lá
+Não a controlei, deixei-a sair
+
+Ré                        Dó
+Não vão entrar, não podem ver!
+                           Ré
+Sê a menina que tu tens de ser!
+                        Dó
+Esconder, conter ou saberão
+Mas foi em vão!
+
+      Sol       Ré
+Já passou, já passou!
+Mim               Dó
+Não vivo mais com temor
+     Sol        Ré
+Já passou, já passou!
+      Mim           Dó
+Fecha a porta, por favor
+Sol   Ré        Mim   Dó
+Tanto faz o que vão dizer
+        Sim    Sib
+Venha a tempestade!
+               Sol
+O frio nunca me fará estremecer
+
+Eu vejo que a distância vai tudo suavizar
+E os medos de outros tempos não me vão apanhar
+
+Ser livre assim é mesmo bom
+Ver os limites deste dom
+Sem regras sou feliz enfim, sou sim!
 ```
 
 ### JARDINS PROIBIDOS {#jardins-proibidos}
@@ -3733,6 +5677,56 @@ E a música na pista sempre a subir
 E o ritual da dança estou a sentir
 A tonteira, a anestesia, dançamos na euforia
 Pois a noite é toda tua sempre a curtir…
+```
+
+### KIM POSSIBLE {#kim-possible}
+
+```text
+Rém     Mi    Lám
+Oooohhh yeahh yeah
+               Lám
+Sou miúda p'ra lutar
+E o mundo vou salvar
+Não me param
+       Rém  Mim  Lám
+Sou a Kim Possible
+
+                Lám
+Nada é demais p'ra mim
+Quando há perigo
+           Rém               Sol
+Sabes que eu estou quase a chegar
+(Estou quase a chegar)
+Rém              Mi
+Seja o que for o teu problema
+Rém             Mi
+Sabes bem o meu nome: Kim Possible
+
+Lám
+Telefona p'ra me encontrares
+Sol
+Com uma mensagem também dá
+ Rém                 Mi
+Qualquer momento estou lá
+(Telefona p'ra me encontrares)
+Lám        Sol
+Telefona, p'ra me encontrares
+
+Rém
+Seja quando for
+Mi
+Em qualquer lugar (qualquer lugar)
+Rém                   Mi
+Eu vou estar contigo, para te ajudar
+Rém
+Perigo, atente
+Mi
+Estou sempre presente
+Rém                 Mi           Lám
+Tu sabes que podes chamar! Kim Possible
+(Qual é meu?)
+Mi                            Lám
+Telefona p'ra me encontrares!
 ```
 
 ### LADO LUNAR {#lado-lunar}
@@ -4158,6 +6152,118 @@ O mundo nos chama loucos
 O mundo nos chama loucos (Chama loucos)
 ```
 
+### LUTAR CONTRA QUEM FOR {#lutar-contra-quem-for}
+
+*Mulan*
+
+```text
+Dó
+Passo a passo lá marchamos p’rá batalha
+Somos tal e qual rebanhos e manadas
+Rém
+Uma maldição com os pés no chão
+                Lám
+A dor não vai passar
+
+Dó
+Mas pelo amor
+Fá        Fám     Dó
+Lutar contra quem for
+Ouve-me bem
+Fá       Fám      Dó
+Lutar contra quem for
+        Dó
+Quero-a pálida ao luar
+Os olhos a brilhar
+      Rém
+Adorará o meu poder
+     Dó
+E as marcas podes querer
+      Rém
+Quem quer saber como ela é ou que ela tem?
+   Sol
+Que a cozinhar ela seja do além!
+Bife, porco, frango, humm
+      Dó
+Lá na terra elas acham que és um charme
+E só gostam de um homem musculado
+    Rém
+Sabem bem o que faz falta aqui para nos fazer
+andar
+Fá         Fám              Dó
+Pelo amor, lutar contra quem for
+
+Dó
+P’rá minha noiva eu sou um herói
+Rém
+E eu fundamental. Naaa..
+          Dó
+E então e se souber pensar?
+Ou for sempre frontal? NÃO!!
+Rém
+Viril andar e bem falar só vai adorar
+Sol
+Conquista só com o brilho do olhar
+
+      Dó
+Lá em casa está a minha adorada
+Vai por mim vais ver que é a mãe amada
+     Rém
+Mas chegamos nós
+                           Lám
+Já como heróis, faremos um furor
+
+Mas por amor
+Lutar contra quem for
+Mas por esse amor
+Lutar contra quem for (assobio)
+Lutar contra quem…
+```
+
+### MADALENA {#madalena}
+
+```text
+Lám
+Chorar
+         Rém
+Como eu chorava
+    Mi
+Ninguém
+     Lám
+Pode chorar
+Lá7
+Amar
+         Rém
+Como eu amava
+    Mi
+Ninguém
+     Lám                           Lá7
+Deve amar (la-la-la la la-la la-la la-la)
+                 Rém                Sol
+Chorava que dava pena (la-la-la la la-la la-la la-la)
+                Dó
+Por amor a Madalena (la-la-la la la-la la-la la-la)
+   Lám        Rém
+Mas ela me abandonou
+                       Lám        Mi   Lám    Lá7
+E assim murchou em meu jardim essa linda flor
+
+Rém               Lám
+La la la la-la-la, la la la la-la-la
+Mi                          Lám    Lá7
+La la-la la-la la la-la la la la la (la la la) (x2)
+  Rém     Sol          Dó
+E Madalena foi como um anjo salvador
+    Mi           Lám
+Que eu adorava com fé
+  Rém         Sol              Dó
+Um barco sem timão, perdido em alto mar
+       Mi            Lám   Lá7
+Só Madalena, por ti amor
+
+La la la la-la-la […]
+```
+
 ### MADE IN PORTUGAL {#made-in-portugal}
 
 *Telmo Miranda*
@@ -4201,6 +6307,135 @@ Ela é portuguesa, ela é portuguesa
 Ela é portuguesa, ela é portuguesa
 ```
 
+### MAIS QUE PERFEITO {#mais-que-perfeito}
+
+*Pokémon*
+
+```text
+Lám           Sol
+Eu quero ser mais que perfeito
+Lám                    Sol
+Melhor do que a imaginação
+Fá           Dó
+Apanhá-los é o meu jeito
+     Ré               Mi
+Treiná-los é a minha missão
+
+Lám          Sol
+Andarei por toda a parte
+Lám                    Sol
+Nos quatro cantos da Terra
+Fá                  Dó
+P’ró Pokémon mostrar a arte
+    Ré                Mi
+E a força que ele encerra
+
+      Fá                Sol
+Pokémon! Vou apanhá-los todos! (junto a mim)
+Fá                 Sol
+Eu sei que vai ser assim
+      Lám
+Pokémon!
+                    Sol
+Tu és o meu grande amigo
+       Dó        Ré      Mi
+Neste mundo que está em perigo
+       Fá                Sol
+Pokémon! Vou apanhá-los todos! (És tão leal!)
+ Lám         Sol
+Contigo eu venço o mal
+ Fá          Dó
+Como tu não há igual
+Dó Ré Mi
+Pokémon
+Fá
+Vou apanhá-los todos! (vou apanhá-los todos!)
+    Lám
+Pokémon!
+```
+
+### MALHÃO {#malhao}
+
+```text
+Lá       Mi
+Ó malhão, malhão
+            Lá
+Que vida é a tua? (x2)
+Comer e beber, ó terrim, tim, tim
+Passear na rua (x2)
+
+Ó malhão, malhão,
+Ó malhão d’aqui (x2)
+Se dançar, dancei, ó terrim, tim, tim
+Se fugi, fugi (x2)
+Ó malhão, malhão
+Ó malhão vai ver (x2)
+As ondas do mar, ó terrim, tim, tim
+Ai, onde vão ter (x2)
+Ó malhão, malhão,
+Ó malhão do Norte (x2)
+Quando o mar está bravo, ó terrim, tim, tim
+Faz a onda forte (x2)
+Ó malhão, malhão
+Ó malhão do Sul (x2)
+Quando o mar está manso, ó terrim, tim, tim
+faz a onda azul (x2)
+```
+
+### MAL POSSO ESPERAR PARA SER REI {#mal-posso-esperar-para-ser-rei}
+
+*Rei Leão*
+
+```text
+Mi                            Lá
+Quando eu for um grande rei, ninguém me vencerá!
+(Mas eu vejo um rei sem pêlo, e a juba onde está?)
+A juba q'eu vou ter vais ver, será de arrasar
+Todo o mundo vai tremer, quando me ouvir rosnar!
+            Fá#m                Si
+(Ah, mas por enquanto digo: "não sei...")
+        Lá       Si7           Mi
+Eu mal posso esperar p'ra ser rei!!
+(Ainda falta muito para isso. Não é como se quer)
+
+             Lá
+Ninguém diz "Faz isto!"
+(Ahah quando eu digo…)
+              Si7
+Ninguém diz "Já aqui!"
+(Eu quero dizer é..)
+          Si7
+Ou então "Pára com isso!"
+              Mi
+Ninguém diz "Para aqui!"
+Lá              Si7
+Livre p'ra puder viver
+(Ah isso não é bem assim...)
+                  Mi
+P'ra fazer o que eu quiser!
+(Acho que agora, é a hora, de a gente conversar...)
+Mi                   Lá
+Um rei não tem que ter nenhum chato a
+        Mi
+aconselhar...
+(Eu acho que a Monarquia assim não vai vingar...
+Eu vou-me embora daqui de África, eu vou-me
+aposentar!
+   Lá                       Si7
+Cuidar desta criança eu não irei...)
+       Lá          Si7        Mi
+Eu mal posso esperar p'ra ser rei!
+
+Todos para a esquerda!
+(Ai minha nossa!)
+Todos p'ra direita!
+(Não, não!)
+Olhem para onde olharem, eu sou a vedeta!
+(Ainda não!)
+Todos os amigos vão vibrar
+Quando a boa nova se espalhar!
+```
+
 ### MANEIO {#maneio}
 
 *Popular*
@@ -4234,6 +6469,121 @@ Esta roda está parada
 Por falta de mandador
 Siga a roda p’ra diante
 Quem manda é o meu amor
+```
+
+*Versão simplificada Cantinácio 2019:*
+
+```text
+     Lám
+Não te encostes à parreira
+                     Mi
+Que a parreira deita pó
+Encosta-te à minha beira
+                    Lám
+Sou solteiro e vivo só
+
+Esta roda está parada
+Por falta de mandador
+Siga a roda p’ra diante
+Quem manda é o meu amor!
+
+Eu venho dali de baixo
+De regar o laranjal
+‘Inda qui trago uma folha
+No laço do avental
+Ai, agora é que me eu maneio
+É que me eu maneio
+É que me eu rebolo
+Nos braços do meu amor
+Ai, agora é que me eu consolo
+
+VIROU
+```
+
+### MARIA {#maria}
+
+*Tiago Bettencourt*
+
+```text
+              Lám     Dó* Dó
+Que bonita é Pilar
+              Fá*
+Mas eu não a quero
+              Rém
+Mas eu não a quero
+
+Que bonita é Leonor
+Mas eu não a quero
+Mas eu não a quero
+Inês sabe quanto vale
+Mas eu não a quero
+Mas eu não a quero
+
+Carolina quer-me bem
+Mas eu não a quero
+Mas eu não a quero
+
+Júlia diz que quer também
+Mas eu não a quero
+Mas eu não a quero
+
+             Fá*    Lám7
+Eu quero é Maria
+            Sol
+Eu quero é Maria
+            Fá*     Lám7
+Eu quero é Maria
+            Sol
+Eu quero é Maria
+
+Ana dança para mim
+Mas eu não a quero
+Mas eu não a quero
+
+Margarida faz que sim
+Mas eu não a quero
+Mas eu não a quero
+
+Eu quero é Maria […]
+
+Lám    Dó* Dó   Fá*    Rém
+
+Eu quero é Maria […]
+
+       Dó       Lám      Fá      Sol
+Maria sabe quem sou, por trás das luzes
+Dó        Lám      Fá      Sol
+Sabe quem sou, por trás da luz! (x2)
+
+        Dó  Lám  Fá Sol Dó  Sol
+E só eu sei quem Maria é
+         Dó Lám  Fá Sol Dó
+E só eu sei quem Maria é.
+
+Dó* - x22010; Fá* - xx3210
+```
+
+### MARIA ALBERTINA {#maria-albertina}
+
+*António Variações*
+
+```text
+            Lá                  Ré    Mi
+Maria Albertina deixa que eu te diga… Ah (x2)
+         Lá
+Esse teu nome eu sei que não é um espanto
+             Mi                        Lá
+Mas é cá da terra e tem, tem muito encanto (x2)
+
+          Mi               Lá
+Maria Albertina como foste nessa
+             Mi
+De chamar Vanessa à tua menina? (x2)
+
+Maria Albertina deixa que […] (x2)
+
+             Mi                Lá
+Que é bem cheinha e muito moreninha (x4)
 ```
 
 ### MARIA FAIA {#maria-faia}
@@ -4407,6 +6757,35 @@ Com o teu cabelo à lua
 Menina estás à janela
 ```
 
+*Versão simplificada Cantinácio 2019:*
+
+```text
+   Dó          Fá
+Menina estás à janela
+      Sol          Dó
+Com o teu cabelo à lua
+      Lám            Fá
+Não me vou daqui embora
+     Sol             Dó
+Sem levar uma prenda tua
+
+                     Fá
+Sem levar uma prenda tua
+     Sol             Dó
+Sem levar uma prenda dela
+     Lám           Fá
+Com o teu cabelo à lua
+    Sol          Dó
+Menina estás à janela
+
+Os olhos requerem olhos
+E os corações corações
+E os meus requerem os teus
+Em todas as ocasiões
+
+Menina estás à janela […]
+```
+
 ### MENINO DO BAIRRO NEGRO {#menino-do-bairro-negro}
 
 *José Afonso*
@@ -4504,6 +6883,45 @@ Mestre para mim
 Mestre para mim
 ```
 
+### MILA {#mila}
+
+*Netinho*
+
+```text
+  Dó  Ré
+Oh Mila
+           Sim                Mim
+Mil e uma noites de amor com você
+              Dó               Ré
+Na praia, no barco, no farol apagado
+                Sim
+Num moinho abandonado, em mar grande
+      Mim
+Alto astral
+            Dó                Ré
+Lá em Hollywood pára de tudo rolar
+               Sim                   Mim
+Vendo estrela caindo, vendo a noite passar
+      Dó Ré           Dó    Ré
+Eu e você, na ilha do sol
+           Sol   Ré
+Na ilha do sol
+
+Sol      Dó Ré           Sol
+Tudo começou há um tempo atrás
+           Dó  Ré
+Na ilha do sol
+Sol                      Dó  Ré         Sol   Dó
+O destino te mandou de volta para o meu cais
+
+Mim        Sim        Dó            Sol   Mim
+No coração ficou lembranças de nós dois
+      Ré             Sol
+Como ferida aberta, como tatuagem
+
+Oh Mila […]
+```
+
 ### NAÇÕES E PÁSSAROS {#nacoes-e-passaros}
 
 *Bruno Morgado*
@@ -4586,6 +7004,81 @@ Estou entre a espada e a parede
 
                DóLámFáSol              DóLámFáSol              DóLámFá
        Não há      estrelas no céu,    estrelas no céu...
+```
+
+*Versão simplificada Cantinácio 2019:*
+
+```text
+      Sol
+Não há estrelas no céu
+A dourar o meu caminho
+        Dó          Ré
+Por mais amigos que tenha
+     Sol
+Sinto-me sempre sozinho
+
+De que vale ter a chave
+De casa para entrar
+Ter uma nota no bolso
+Para cigarros e bilhar
+
+    Mim
+A Primavera da vida
+    Lá
+É bonita de viver
+      Ré            Dó
+Tão depressa o sol brilha
+       Ré          Sol
+Como a seguir está chover
+    Mim
+Para mim hoje é Janeiro
+        Lá
+Está um frio de rachar
+    Ré               Dó
+Parece que o mundo inteiro
+   Sim         Ré    Sol
+Se uniu para me tramar
+
+Passo horas no café
+Sem saber para onde ir
+Tudo á volta é tão feio
+Só me apetece fugir
+
+Vejo-me à noite ao espelho
+O corpo sempre a mudar
+De manhã ouço o conselho
+Que o velho tem para me dar
+
+Vou por aí às escondidas
+A espreitar às janelas
+Perdido nas avenidas
+E achado nas vielas
+
+Mãe o meu primeiro amor
+Foi um trapézio sem rede
+Sai da frente por favor
+Estou entre a espada e a parede
+Mim
+Não vês como isto é duro
+     Lá
+Ser jovem não é um posto
+        Ré         Dó
+Ter de encarar o futuro
+      Ré          Sol
+Com borbulhas no rosto
+
+        Mim
+Porque é que tudo é incerto
+     Lá
+Não pode ser sempre assim
+
+        Ré              Dó
+Se não fosse o "rock and roll"
+       Sim     Ré Sol
+O que seria de mim?
+A Primavera da vida […]
+ Sol Mim Dó  Ré   Sol
+Não há estrelas no céu
 ```
 
 ### NÃO SOU O ÚNICO {#nao-sou-o-unico}
@@ -4678,6 +7171,41 @@ Não é de ninguém
 De ninguém
 ```
 
+### NAVEGANTES DA LUA {#navegantes-da-lua}
+
+```text
+       Dó            Mim  Fá
+Vive a vida, como uma festa
+      Rém         Sol
+Sob o vento, da floresta
+
+Dó                         Fá
+Lua navegante, segue o teu rumo
+Dó                            Fá
+Vai em ti a paixão do meu destino
+     Rém           Sol7
+Com o teu poder e’a tiara
+  Mim            Lám
+E com o meu gato Luna
+      Rém          Mim
+Vamos vencer as batalhas
+        Rém       Sol
+Dessas causas esquecidas
+
+      Dó            Mim    Fá
+Luna, Luna, conto contigo
+       Rém              Sol7
+Nestas lutas, contra o inimigo
+          Dó
+Monstros, sonhos são
+         Mim     Fá
+Lendas ou’imaginação
+      Rém
+Luna Luna, vem
+      Sol7
+Lutar pelo bem!
+```
+
 ### NO ALTO DA MONTANHA {#no-alto-da-montanha}
 
 ```text
@@ -4711,6 +7239,40 @@ A todos queriam bem
      Ao longe o mar
      No alto da montanha
      Quem dera lá morar
+```
+
+### NODDY {#noddy}
+
+```text
+                  Lá
+Abram alas para o Noddy (Noddy!)
+               Mi
+Com a buzina a tocar (Pó pó pó!)
+                   Mi7
+Abram alas para o Noddy (Noddy!)
+                    Lá
+Todos cá fora a brincar (Ai ai ai)
+                  Lá
+Abram alas para o Noddy (Noddy!)
+                 Ré
+Vamos gritar um viva
+     Mi
+Preparar, estar pronto… já!
+Lá                Mi
+Hoje é um grande dia
+                  Lá
+O Noddy está a chegar!
+Abram alas para o Noddy (Noddy!)
+No seu carro amarelo (Pó pó pó!)
+Abram alas para o Noddy (Noddy!)
+E o dia vai ser tão belo. (Ai ai ai)
+
+Abram alas para o Noddy (Noddy!)
+Vamos gritar um viva!
+Vamos dançar, cantar,
+O dia é de alegria
+É o Noddy (Pó pó pó!)
+Abram alas!
 ```
 
 ### NO DIA EM QUE O REI FEZ ANOS {#no-dia-em-que-o-rei-fez-anos}
@@ -4758,6 +7320,62 @@ Só ficou um trovador
 Pra contar o que acabava de ver
 ```
 
+### NOS DESENHOS ANIMADOS {#nos-desenhos-animados}
+
+*Azeitonas*
+
+```text
+Sol               Ré Ré*  Mim   Dó
+Eu quero a sorte de um cartoon
+Sol           Ré Ré*   Mim
+Nas manhãs da RTP 1
+      Dó        Sol
+És o meu Tom Sawyer
+Ré*              Mim
+O meu Huckleberry Finn
+ Dó           Ré Ré*       Em
+E vens de mascarilha e espadachim
+        Dó         Ré       Sol
+Lá em cima há planetas sem fim
+
+Tu és o meu super herói
+Sem tirar o chapéu de cowboy
+Com o teu galeão
+E uma garrafa de rum
+Eu era tua e de mais nenhum
+Um por todos e todos por um
+
+Dó           Sol
+Nos desenhos animados
+   Dó          Sol
+Eu já conheço o fim
+Rém  Sol7    Dó
+O bem abre caminho
+ Dóm               Sol  Mi7
+A golpes de espadachim
+      Lá7
+E o príncipe encantado
+                  Ré
+Volta sempre para mim
+
+Eu sou a Jane e tu Tarzan
+A Julieta do meu D’Artagnan
+Se o teu cavalo falasse
+Tinha tanto para contar
+Ao fantasma debaixo dos meus lençóis
+Dos tesouros que escondemos dos espanhóis
+
+Nos desenhos animados […]
+Quando chegar o final
+Já podemos mudar de canal
+Nos desenhos animados
+É raro chover
+E nunca, quase nunca acaba mal
+By the power of Greyskull!
+
+Ré* - xx1212
+```
+
 ### NUNCA SOMOS DEMAIS {#nunca-somos-demais}
 
 ```text
@@ -4803,6 +7421,34 @@ Quando alguém nos dá a mão
      Parararara
      A - E - I - O - U
      Pararara
+```
+
+*Versão simplificada Cantinácio 2019:*
+
+```text
+Dó  Lám Rém Sol
+A   E   I  O   U, pararara (x2)
+
+E dois e um, são três
+E três e um, são quatro
+E quatro e um, são cinco
+E assim já somos mais, são sei
+E seis e um, são sete
+E sete e um, são oito
+E nunca somos DEMAIS
+
+A E I O U, pararara! (x2)
+
+Dó       Lám
+Vem, vem connosco
+  Rém             Sol
+E canta a mesma canção
+   Dó         Lám
+O mundo é bem melhor
+      Rém              Sol
+Quando alguém nos dá a mão
+      Rém              Sol
+Quando alguém nos dá a mão!
 ```
 
 ### O AMOR É ASSIM {#o-amor-e-assim}
@@ -5099,6 +7745,124 @@ foge o futuro, é tarde demais...
 E uma vontade de rir (…)
 ```
 
+### O JOGO {#o-jogo}
+
+*Tiago Bettencourt*
+
+```text
+Sol             Lá7*           Dó*           Sol
+Mais um dia em vão no jogo em que ninguém ganhou
+Sol              Lá7*         Dó*      Ré*     Sol
+Dá mais cartas, baixa a luz e vem esquecer o amor
+   Mim
+És tu quem quer
+    Dó*               Lá7*             Dó*  Ré*
+Sou eu quem não quer ver que o tudo é tão maior
+Sol        Lá7*            Dó*         Ré*  Ré
+Aqui está frio demais para apostar em mim
+
+Vê que a noite pode ser tão pouco como nós
+Neste quarto o tempo é medo e o medo faz-nos sós
+És tu quem quer
+Mas eu só sei ver que o tempo já passou e eu fugi
+Que aqui está frio demais para te sentir...
+              Sol  Sol* Mim Ré* Dó* Ré*
+Mas queres ficar?
+
+Sol           Mim7             Dó*          Ré*
+Tudo o que é meu é tudo o que eu não sei largar
+        Sol                Mim7             Dó*
+Queres levar, tudo o que é meu é tudo o que eu
+            Ré*
+Não sei largar
+Sol           Mim7         Dó*        Ré*
+Vem rasgar o escuro desta chuva que sujou
+Sol           Mim7          Dó*        Ré*
+Vem que a água vai lavar o que te dói
+Sol           Mim7     Dó*  Ré*   Sol
+Vem que nem o último a cair vai perder
+
+Sol Sol* Mim Ré* Dó* Ré* (x4)
+
+Tudo o que é meu […]
+
+Lá7* - x02030; Dó* - x32033
+Ré* - xx0233; Sol* - 200033
+```
+
+### OLIVER E BENGI {#oliver-e-bengi}
+
+```text
+      Lám
+A controlar sempre a bola com os pés
+     Sol
+E ninguém os vai conseguir parar
+          Fá                                Mi
+O estádio vibra com emoção de ver os dois a jogar
+Com paixão!
+
+Quando jogam pensam sempre em ganhar
+Mas o importante é participar
+Nesta festa que é o futebooool!
+
+Dó
+Oliver, Benji são os magos da bola
+Mim
+Benji, Oliver vão fazer história
+Fá                             Sol
+Benji, Oliver sonham ser os campeões (2x)
+
+Dó              Mim            Fá            Sol
+Benji, Oliver, Oliver, Benji, Benji, Oliver, uhhhhh
+
+Oliver, Benji são os magos da bola
+Benji, Oliver vão fazer história
+Fá                Sol           Dó
+Benji, Oliver o futebol é uma paixão!
+```
+
+### O NECESSÁRIO {#o-necessario}
+
+*O Livro da Selva*
+
+```text
+    Dó
+Eu uso o necessário
+   Fá         Fám
+Somente o necessário
+ Dó         Lá       Ré
+O extraordinário é demais
+          Dó
+Eu digo o necessário
+  Fá          Fám
+Somente o necessário
+    Dó              Lám             Dó Fá  Dó
+Por isso é que essa vida eu vivo em paz
+
+               Sol
+Assim é que eu vivo
+             Dó
+E melhor não há
+            Sol
+Eu só quero ter
+                Dó
+O que a vida me dá
+              Fá        Fám
+Milhões de abelhas vão fazer
+        Dó          Lám
+Fazer o mel pra eu comer
+     Ré
+E se por acaso eu olhar p’ró chão
+Rém             Sol
+Tem formigas em profusão
+        Rém         Sol
+E o necessário p’ra viver
+      Dó         Dó   Sol  Dó
+Você terá, você terá
+
+Eu uso o necessário […]
+```
+
 ### Ó OLIVEIRA DA SERRA {#o-oliveira-da-serra}
 
 *Popular*
@@ -5132,6 +7896,38 @@ A oliveira pequena
 Que azeitona pode dar
 Ó-i-ó-ai, dará um cestinho dela
 Ó-i-ó-ai, quando muito carregar
+```
+
+### O PASSARINHO CANTOU {#o-passarinho-cantou}
+
+```text
+Dó              Sol
+Alentejo quando canta
+              Dó
+Peito dado à solidão
+               Sol
+Traz alma na garganta
+                Dó
+E o sonho no coração
+
+Dó            Sol
+Eu ouvi o passarinho
+                 Dó
+Às quatro da madrugada
+                  Sol
+Cantando lindas cantigas
+                Dó
+À porta da sua amada
+
+Por ouvir cantar tão bem
+A sua amada chorou
+Às quatro da madrugada
+O passarinho cantou
+
+Alentejo terra brasa
+Toda coberta de pão
+A sua espiga dourada
+Traz-nos em oração
 ```
 
 ### O PRIMEIRO DIA {#o-primeiro-dia}
@@ -5477,6 +8273,24 @@ Só de encontrar...     Ah!!!
 Sol* = 3x443x           Dó* = x3545x         Sib* = x12020      Ré7* = xx0312
 ```
 
+### PARABÉNS A VOCÊ {#parabens-a-voce}
+
+```text
+   Ré      Lá
+Parabéns a você
+       Lá7   Ré
+Nesta data querida
+       Ré7   Sol
+Muitas felicidades
+      Ré    Lá  Ré
+Muitos anos de vida
+
+Hoje é dia de festa
+Cantam as nossas almas
+Para a/o menina/o _____
+Uma salva de palmas!
+```
+
 ### PARA QUE QUERO EU OLHOS {#para-que-quero-eu-olhos}
 
 *Popular, Alentejo*
@@ -5511,6 +8325,59 @@ Ai, dá-me um beijo
 P’ra matar desejos
 Ré              Ré7      Sol
 Que eu sinto por ti
+```
+
+### PARA TI MARIA {#para-ti-maria}
+
+*Xutos & Pontapés*
+
+```text
+Dó          Fá    Dó
+De Bragança a Lisboa
+Fá     Dó    Sol
+São 9 horas de distância
+Dó            Fá  Dó
+Queria ter um avião
+Fá    Dó       Sol
+P'ra lá ir mais amiúde
+
+Dei cabo da tolerância
+Rebentei com uns três radares
+Só para te ter mais perto
+Só para tu te dares
+
+Fá            Dó
+E saio agora, e vou correndo
+Fá               Dó
+E vou-me embora, e vou correndo
+Fá            Dó                 Sol
+Já não demora, e vou correndo p'ra ti
+
+Dó  Fá  Dó   Fá  Dó
+Maria
+Sol
+Tudo para Ti
+Dó  Fá  Dó   Fá  Dó Sol
+Maria
+
+Outra vez vim de Lisboa
+Num comboio azarado
+Nem máquina tinha ainda
+E já estava atrasado
+
+Dei comigo agarrado
+Ao ponteiro mais pequeno
+E tu de certeza à espera
+Rebolando-te no feno
+
+E saio agora […]
+
+Seja de noite ou de dia
+Trago sempre na lembrança
+A cor da tua alegria
+O cheiro da tua trança
+
+De Bragança a Lisboa […]
 ```
 
 ### PEDRA FILOSOFAL {#pedra-filosofal}
@@ -5575,6 +8442,32 @@ Na superfície lunar
                O mundo pula e avança
                Como bola colorida
                Entre as mãos de uma criança
+```
+
+### PENSANDO EM TI {#pensando-em-ti}
+
+*Anabela*
+
+```text
+Dó                 Mim
+Sabes que eu ainda passo
+Fá               Dó  Lám
+Muitas noites sem dormir
+Fá     Sol Dó   Lám
+E de manhã ao acordar
+      Fá                Sol
+Sinto frio e já não sei sorrir
+
+E as cartas que eu te escrevo
+E que acabo por rasgar
+São sempre iguais, só falam de amor
+
+Fá          Sol
+E pedem-te para vol...
+Fá          Sol
+E pedem-te para vol...
+Fá          Sol     Dó
+E pedem-te para voltar
 ```
 
 ### PERDIDAMENTE {#perdidamente}
@@ -5686,6 +8579,52 @@ Fui feliz enquanto pude ser
 Perdoa se peço demais (...) (x2)
 ```
 
+*Versão simplificada Cantinácio 2019:*
+
+```text
+Mi          Fá#    Sol#m
+ Perdoa se peço demais
+Mi                  Fá#
+  Teus olhos em mim são fatais
+Mi              Fá#   Sol#m
+  Perdoa se me quero dar
+
+        Mi        Fá#          Si
+Quem mandou a tua luz me enfeitiçar
+Si
+Tu foste o meu mar, quis ser teu sol
+Sol#m                 Fá#
+Teu nome quis cantar como canta o rouxinol
+
+Tu foste a lua, noite quis ser
+A alma fica nua, se a manha não te trouxer
+
+Mi                   Fá#
+Subi a mais alta montanha pra ver
+Ré#m                     Mi
+A praia do teu corpo a amanhecer
+                       Fá#
+Na areia as pegadas da minha paixão
+Ré#m                   Mi       Fá#
+O céu ficou mais perto da minha mão
+
+Perdoa se peço demais
+Teus olhos em mim são fatais
+Perdoa este meu desejo
+Quem mandou a tua boca dar-me um beijo
+
+Tu Julieta, oh amor meu
+Eu rei do teu planeta, amar-te como amou Romeu
+
+Se fui poeta, mal entendido
+Se em mim picou a seta, vinda de um tal Cupido
+
+Sem ti o sabor terá outros sabores
+P’ra nós Camões criou a ilha dos amores
+E por manter assim meu peito inflamado
+Também p’ra nos Amália cantou o fado!
+```
+
 ### PÉZINHO {#pezinho}
 
 *Popular, Açores*
@@ -5762,6 +8701,109 @@ E de mim foi fazer queixa
 Por eu Ter chamado à filha
 Papo-seco de serrilha
 Bom petisco da manhã
+```
+
+### PHINEAS E FERB {#phineas-e-ferb}
+
+```text
+        Dó              Sol
+Cento e quatro dias que fazem as férias
+    Lám              Mim
+E a escola acaba com elas
+      Dó                  Sol
+Mas o grande problema que todos vivemos
+ Lá7                Ré
+É saber como aproveitá-las
+Nós vamos
+
+Sol
+Andar no espaço
+Lutar com uma múmia
+     Lá
+Ou a torre Eiffel vais escalar
+  Ré
+Achar uma coisa que não exista
+    Sol
+Ou pôr um macaco a brilhar
+Mi
+Surfar em maremotos
+Criar nanobots
+   Lá
+Um Frankenstein dissecar (está aqui!)
+  Fá#
+Encontrar um dodó
+Pintar o continente
+  Ré
+E pôr a irmã a gritar (Phineas!)
+
+Sol
+É bom de ver, há tanto a fazer
+Dó
+A escola está a começar (vamos Perry!)
+Sol                 Fá         Mi        Lá
+Fiquem aí porque o Phineas e o Ferb tudo vão
+Ré     Mi     Si
+Experimentar
+Sol                 Fá         Mi        Lá
+Fiquem aí porque o Phineas e o Ferb tudo vão
+Ré        Sol
+Experimentar!
+(Mãe!
+O Phineas e o Ferb cantaram
+                     Sol
+A canção de abertura!)
+```
+
+### PICA DO 7 {#pica-do-7}
+
+*António Zambujo*
+
+```text
+           Sol
+De manhã cedinho eu salto do ninho
+             Lám
+E vou p’ra paragem
+        Ré                                 Sol
+De bandolete à espera do 7 mas não pela viagem
+                 Mi7
+Eu bem que não queria
+                             Lám    Dóm
+Mas um certo dia eu vi-o passar
+                Sol                      Ré
+E o meu peito séptico, por um pica de elétrico
+            Sol
+Voltou a sonhar
+
+A cada repique, que soa do clique
+Daquele alicate
+Num modo frenético, o peito séptico toca a rebate
+Se o trem descarrila o povo refila
+E eu fico num sino
+Pois um mero trajeto no meu caso concreto
+É já o destino
+
+             Si
+Ninguém acredita no estado em que fica
+          Mim
+O meu coração
+                Ré
+Quando o 7 me apanha
+                                 Sol
+Até acho que a senha me salta da mão
+           Dó    Dóm         Sol  Mi
+Pois na carreira desta vida vã
+               Lám            Ré           Sol
+Mais nada me dá a pica que o pica do 7 me dá
+
+Que triste fadário e que itinerário tão infeliz
+Cruzar meu horário
+Com o d’um funcionário de um trem da carris
+Se eu lhe perguntasse
+Se tem livre passe pr’ó peito de alguém
+Vá-se lá saber
+Talvez eu lhe oblitere o peito também
+
+Ninguém acredita […]
 ```
 
 ### PICA DO SETE {#pica-do-sete}
@@ -6061,6 +9103,52 @@ Vou fazê-la feliz!(4x)
 Feliz!
 ```
 
+### POR QUEM NÃO ESQUECI {#por-quem-nao-esqueci}
+
+*Xutos & Pontapés*
+
+```text
+Sol            Lám7
+Há uma voz de sempre
+Ré7          Sol
+Que chama por mim
+            Lám7
+Para que eu lembre
+      Ré7      Sol
+Que a noite tem fim
+
+Ainda procuro
+Por quem não esqueci
+Em nome de um sonho
+           Ré7
+Em nome de ti
+
+Sol        Dó
+Procuro à noite
+Ré        Sol
+Um sinal de ti
+ Mim7      Dó
+Espero à noite
+ Ré           Mim
+Por quem não esqueci
+  Mim7      Dó
+Eu peço à noite
+Ré         Dó
+Um sinal de ti
+Ré                Sol
+Por quem eu não esqueci
+
+Por sinais perdidos
+Espero em vão
+Por tempos antigos
+Por uma canção
+
+Ainda procuro
+Por quem não esqueci
+Por quem já não volta
+Por quem eu perdi
+```
+
 ### POR TI DEMAIS {#por-ti-demais}
 
 *Salto*
@@ -6282,6 +9370,50 @@ Um abraço deste que tanto vos quer
 Sou capaz de ir aí pelo Natal
 ```
 
+### P’RÁ FRENTE É QUE É LISBOA {#pra-frente-e-que-e-lisboa}
+
+*Os Quatro e Meia*
+
+```text
+Ré7*
+Ergo-me da cama que me aquece, que me prende
+         Lá7*
+Que me trama se me chama p'ra dormir
+Ré7*
+Saio sem demora, já é hora de no escuro
+         Lá7*
+Lá de fora o sol resolver surgir
+
+E acordo sonolento, rabugento
+Ruminando um lamento por ter de ir trabalhar
+Mas penso positivo e concluo que estar vivo
+É motivo mais que bom p'ra me animar
+
+Rém7                Mim7                  Rém7
+E então saio de rompante, torno-me mais confiante
+                 Lám7
+Vendo o dia amanhecer
+Escolho o meu melhor sorriso, e aceito o improviso
+Que o meu dia vai trazer
+
+Fá#m           Si7
+Aproveito ao segundo
+                     Ré
+Tudo aquilo que este mundo
+          Mi        Lá  Fá#m
+Faz p'ra me surpreender
+                Si7
+Levo o dia numa boa
+                           Sol
+Que p'rá frente é que é Lisboa
+                      Ré
+Sinto-me de bem com a vida
+       Mi           Ré7*
+Seja o que tiver de ser
+
+Ré7* - xx0222; Lá7* - x02120
+```
+
 ### P’RA TI MARIA {#p-ra-ti-maria}
 
 *Xutos e Pontapés*
@@ -6479,6 +9611,107 @@ Miúda quem és .... miuuuda
 (5x)
 ```
 
+*Versão simplificada Cantinácio 2019:*
+
+```text
+Mi
+Quando passas a minha rua
+Como um anjo que flutua
+                           Lá
+Os teus pés, nunca pisam o chão
+
+E a cada passo teu
+Sem saber, eu troco o meu
+Como se pisasses o meu coração
+
+         Mi        Fá#m
+E até as flores do jardim
+          Mi            Fá#m
+Mudam de cor, ao ver-te assim
+
+          Rém         Lá
+Eu já não posso mais conter
+       Rém           Lá   Sim  Mi7
+Esta ansiedade de te ver
+Quem és tu…
+
+Lá          Dó#m
+Quem és tu, miúda?
+Sim              Rém
+Nesse sobresalto, desse salto alto
+Lá          Dó#m
+Quem és tu, miúda?
+Sim               Rém
+Que me atormentas, em câmara lenta
+Lá          Dó#m     Ré
+Quem és tu, miúda?
+Mi
+Miúda quem és...
+
+Lá Dó#m Sim Lá
+
+Há certos momentos em que eu acho
+Que não passas de um golpe baixo
+Fantasia, de um pobre coração
+
+Cá vou eu de sentinela
+Por-me à espreita, na janela
+Nem sequer sei se existes ou não
+
+E até os velhos do jardim
+Mudam de tom ao ver-te assim
+
+Eu já não posso mais conter […]
+```
+
+### QUERO VOLTAR {#quero-voltar}
+
+*Anjos*
+
+```text
+Sol      Lám   Dó          Ré
+Sentes-te só, vejo no teu olhar
+Dó         Mim  Lám        Sol
+Conheço-te bem, não podes negar
+Pensa de novo, para o nosso bem
+Sei que há vontade, do amor continuar
+
+Dó                   Ré
+Quero sentir o que sentia
+                       Mim
+Estar contigo a toda a hora
+         Ré
+Tudo novamente
+
+         Sol  Lám
+Eu quero voltar
+     Dó       Ré
+Ao ponto de partida
+Sol        Lám    Dó  Ré
+Quando éramos um só
+         Sol  Lám
+Eu quero voltar
+    Dó       Ré
+A ser parte de ti
+Lám            Dó       Ré
+Antes que o tempo se acabe
+       Lám                   Sol
+Perdoa antes que o tempo se acabe
+
+Onde estiveres irei procurar-te
+Estou a teu lado onde quer que vás
+A vida é tão curta, tão vaga, tão só
+Sem ti junto a mim, não sei mais quem sou
+
+Quero sentir o que sentia […]
+
+Fomos tão longe, vamos tentar de novo
+Sei que me amas, reflecte e pensa em nós
+Porque sei que juntos valemos de mais!
+
+Eu quero voltar […]
+```
+
 ### RAMA {#rama}
 
 *Popular*
@@ -6526,6 +9759,89 @@ A água em todas as fontes
       Ó rama do olival
 ```
 
+*Versão simplificada Cantinácio 2019:*
+
+```text
+Dó
+Ó rama, ó que linda rama
+   Fá         Dó
+Ó rama da oliveira!
+  Lám              Rém
+O meu par é o mais lindo
+    Sol7               Dó
+Que anda aqui na roda inteira!
+
+Que anda aqui na roda inteira
+Aqui e em qualquer lugar
+Ó rama, que linda rama
+Ó rama do olival!
+
+Eu gosto muito de ouvir
+Cantar a quem aprendeu
+Se houvera quem me ensinara
+Quem aprendia era eu!
+
+Não m'invejo de quem tem
+Parelhas, éguas e montes
+Só m'invejo de quem bebe
+A água em todas as fontes
+
+Fui à fonte beber água
+Encontrei um ramo verde
+Quem o perdeu tinha amores
+Quem o achou tinha sede
+
+Debaixo da oliveira
+Não se pode namorar
+A folha é miudinha
+Deixa passar o luar
+```
+
+### REFLEXO {#reflexo}
+
+*Mulan*
+
+```text
+       Mi
+Eu sei bem
+         Dó#m       Fá#m
+Que não poderei ser a perfeição
+Lám          Si
+De noiva ou de filha
+     Mi
+Mas, também
+     Dó#m         Ré   Si
+Será este o meu papel?
+Mi
+Vejo bem
+     Dó#m          Fá#m
+Se for na verdade o que eu sou
+Lám      Si   Mi
+Só farei a todos mal
+
+Mi          Dó#m
+Ah! Quem és tu aí?
+Si  Lá      Lám
+A olhar para mim
+Mi  Dó#m       Fá#m
+Este meu reflexo é de alguém
+      Ré   Si
+E não meu
+
+Mi          Dó#m
+Mas não vou esconder
+Si    Lá        Lám
+O que sou, eu tentei
+Mi   Dó#m         Fá#m
+Mas e se o meu reflexo for
+Lá    Ré   Si
+O que só eu sei
+Mi   Dó#m   Fá#m
+É que o meu reflexo
+       Lám   Mi
+Só uma alma tem
+```
+
 ### REGADINHO {#regadinho}
 
 *Popular*
@@ -6554,6 +9870,25 @@ Adianta e troca o par
       Água leva o bem regar
       Enquanto rega e não rega     (bis)
       Meu amor te vou falar
+```
+
+*Versão simplificada Cantinácio 2019:*
+
+```text
+Lá                                   Mi
+Água leva o regadinho, água leva o regador
+
+Enquanto rega não rega vou falar ao
+    Lá
+meu amor… VIROU (x2)
+
+Oh balancé, balancé
+Balancé da noite escura
+Oh minha salvé rainha
+Meu amor, minha doçura
+Vamos dar meia volta, meia volta vamos dar
+Vamos dar outra meia
+Passo em frente e troca o par!
 ```
 
 ### RESTOLHO {#restolho}
@@ -6599,6 +9934,35 @@ Dormindo em velhos sonhos que sonhou
 Na alma a mágoa enorme, intensa, aguda
 
      Mas é preciso morrer e nescer de novo...
+```
+
+### RUCA {#ruca}
+
+```text
+Dó          Lám7
+Eu sou um rapazinho
+Dó        Lám7
+Embora pequenino
+Dó           Lám7      Fá  Sol
+Tenho muito tino, sou o Ruca
+
+Tanta coisa pra aprender
+Novidades para ver
+É tão bom crescer, sou o Ruca
+
+Fá                 Sol
+O meu mundo gira, está sempre a mudar
+Lám7                        Sol
+Mas a mãe e o pai estão cá p’ra ajudar
+
+Que giro olha bem p'ra mim
+Às vezes já faço chinfrim
+Crescer é mesmo assim, sou o Ruca
+
+Fá Sol Fá Sol    Fá  Sol
+Ruca, Ruca, sou o Ruca
+ Dó
+Sou eu!
 ```
 
 ### SÃO DIAS QUE PASSAM {#sao-dias-que-passam}
@@ -6835,6 +10199,59 @@ Tenho o Sol da Caparica mesmo aqui à mão
 Aqui vou eu para a Costa...
 ```
 
+### SOMOS UM {#somos-um}
+
+*Rei Leão*
+
+```text
+Dó     Sol           Lám
+Coisas novas vais tu ver
+                Fá            Dó
+Mas depois vais dizer ”não percebi”
+No teu jovem coração
+Vives na confusão, ”já compreendi"
+
+       Dó      Rém        Sib         Fá
+Hás-de sobreviver, pois apoio tu vais ter
+                      Sol
+Os entraves nós vamos vencer
+
+       Dó     Rém         Sib        Fá
+Ao teu lado estarei, que orgulho sentirei
+      Rém      Sol       Dó
+E a força está em sermos um!
+
+Dó                  Fá   Sol
+Somos um, somos um, sempre um
+Somos um, somos um, sempre um
+
+Filha de um rei nasci
+Meu destino eu vi
+Mas quem sou eu?
+
+Confiar no coração
+Buscar paz e razão
+Mas quem sou eu?
+
+Filha, tu vais crescer
+Maus momentos hás-de ter
+Buscando a paz e a verdade
+
+Sempre há soluções
+Nas piores situações
+Temos força porque somos um
+
+Somos um […]
+
+Somos um tu e eu
+Como a terra e o céu
+O sol trás a felicidade
+
+Este reino é meu
+E um dia será teu
+E a força está em sermos um
+```
+
 ### SONHOS DE MENINO {#sonhos-de-menino}
 
 *Tony Carreira (original de Hervé Villard)*
@@ -7021,6 +10438,48 @@ Sou teu amigo sim!
 Sol*  =  3x304x  Ré*  =  2x023x
 ```
 
+*Versão simplificada Cantinácio 2019:*
+
+```text
+Sol     Ré7   Sol   Sol7
+Sou teu amigo sim
+Dó            Sol
+Sou teu amigo sim
+Dó        Sol   Si7  Mim
+Quando a vida, corre mal
+     Dó    Sol     Si7  Mim
+E tu ficas só e sentimental
+Dó      Sol          Si7   Mim
+Se só alguém que gosta é leal
+   Lá7      Ré7   Sol
+Tu tens um amigo aqui
+Mi7         Ré7  Sol
+Eu sou teu amigo sim!
+
+Sou teu amigo sim
+Sou teu amigo sim
+Tens sarilhos, quem não tem?
+Mas não há nada que eu não faça só por ti
+Ficamos juntos até ao fim!
+Tu tens um amigo aqui
+Sou teu amigo sim!
+
+Dó                    Fá#
+Não sou mais forte, nem sou mais inteligente que tu
+Sol
+Quando estás aqui... Não sei
+    Fá#           Sim            Mi7
+Mas mais ninguém é mais amigo que eu e tu
+   Lá7          Ré7
+Só nós os dois, pa!
+
+O tempo vai passar
+E sem nos modificar
+A amizade não vai ter fim
+Lá7      Ré7   Sol
+Sou teu amigo sim (x3)
+```
+
 ### SOZINHO {#sozinho}
 
 *Caetano Veloso*
@@ -7143,6 +10602,18 @@ Pouco estudo, muita, muita
 brincadeira
 Porque é que eu não me sinto
 contente?
+```
+
+### TELETUBBIES {#teletubbies}
+
+```text
+Lá           Ré      Lá      Mi
+Tinky Winky, Dipsy, Laa-laa, Po!
+Lá           Ré
+Teletubbies, Teletubbies!
+Lá   Mi  Lá
+Dizem o-lá!
+Oláaaaa!
 ```
 
 ### TEMPO É DINHEIRO {#tempo-e-dinheiro}
@@ -7280,6 +10751,57 @@ Nunca mais eu chego ao porto
 Ao porto de Matosinhos           (bis)
 ```
 
+### TONTO DE TI {#tonto-de-ti}
+
+*Azeitonas*
+
+```text
+Lá           Ré              Mi
+Como quando o Porto perde em casa
+     Dó#m               Fá#m
+Ou me deito com o grão na asa
+     Sol                Ré        Mi
+Fico tonto, zonzo assim só de me lembrar
+
+Ou como quando andava nos carrinhos
+Do Senhor de Matosinhos
+Perna à banda, bamba assim só de me lembrar
+
+  Ré             Mi           Dó#m
+E agora, quem me diz onde é o norte?
+        Fá#m            Sim
+Se fui tonto em tentar a sorte
+         Dó#m          Ré
+Com quem não tem dó de mim
+Si                           Mi          Lá
+Tanto que eu às tantas fico tão, tonto de ti
+
+Como quando me negaste um beijo
+Na noite do cortejo
+Fico zonzo, zonzo assim só de me lembrar
+
+Ou como daquela vez na escola
+No recreio a cheirar cola
+Fico tonto, zonzo assim só de me lembrar
+
+E agora, quem me diz onde é o norte? […] (x2)
+```
+
+### TRASHIN’ THE CAMP {#trashin-the-camp}
+
+*Tarzan*
+
+```text
+Lá                         Ré
+ Shobe doo dabada dobedo daba dada doo da
+Lá                          Ré
+  Shobe doo dabada dobedo daba dada do dwe ya
+Lá                          Ré
+ Shoobe doo dabada doobedo daba dada doo da
+Ré  Mi       Lá
+Doo bap shwee doo
+```
+
 ### TRAZ OUTRO AMIGO TAMBÉM {#traz-outro-amigo-tambem}
 
 *José Afonso*
@@ -7398,6 +10920,45 @@ Dó  Sol
 É trevo de quatro folhas é
 ```
 
+### TREVO (TU) {#trevo-tu}
+
+*Ana Vitória*
+
+```text
+Lá    Ré
+Tu é trevo de quatro folhas
+  Lá
+É manhã de domingo à toa
+Mi
+Conversa rara e boa
+Fá#m               Ré
+Pedaço de sonho que faz meu querer acordar
+     Lá       Mi
+P’ra vida, ai ai ai
+
+Lá     Ré
+Tu que tem esse abraço casa
+    Lá
+Se decidir bater asa
+    Mi               Fá#m
+Me leva contigo p'ra passear
+  Ré                            Lá        Mi
+Eu juro afeto e paz não vão te faltar, ai ai ai
+
+Fá#m       Ré                           Lá
+Ah, eu só quero o leve da vida p’ra te levar
+   Mi
+E o tempo para
+Fá#m     Ré                         Mi
+Ah, é a sorte de levar a hora p'ra passear
+                                  Ré
+P’ra cá e p’ra lá, p’ra lá e p'ra cá
+              Lá   Ré Lá  Mi
+Quando aqui tu tá
+
+Tu é trevo […]
+```
+
 ### TROVA DO VENTO QUE PASSA {#trova-do-vento-que-passa}
 
 *Manuel Alegre / António Portugal*
@@ -7435,6 +10996,18 @@ Mesmo na noite mais triste
 Em tempos de servidão
 Há sempre alguém que resiste
 Há sempre alguém que diz não
+```
+
+### UMA AVENTURA {#uma-aventura}
+
+```text
+Lá  Mi       Ré
+Vem comigo viver
+ Mi
+Uma aventura
+
+Vem sentir a emoção
+Que sempre perdura
 ```
 
 ### UM MUNDO IDEAL {#um-mundo-ideal}
@@ -7561,6 +11134,41 @@ Todos
       Só seu e meu
 ```
 
+*Versão simplificada Cantinácio 2019:*
+
+```text
+Dó
+Olha eu vou lhe mostrar
+Dó              Lám Sol
+Como é belo este mundo
+Rém            Lám          Fá          Dó
+Já que nunca deixaram o seu coração mandar
+Eu lhe ensino a ver
+Todo encanto e beleza
+Que há na natureza num tapete a voar
+
+Fá        Sol
+Um mundo ideal
+Fá        Sol         Dó
+É um privilégio ver daqui
+  Dó7        Fá    Dó     Fá  Dó
+Ninguém pra nos dizer o que fazer
+       Ré7    Sol7
+Até parece um sonho
+
+Um mundo ideal
+Um mundo que eu nunca vi
+E agora eu posso ver e lhe dizer
+Estou num mundo novo com você
+
+Uma incrível visão
+Nesse voo tão lindo
+Vou planando e subindo para o imenso azul do
+céu
+
+Um mundo ideal […]
+```
+
 ### UM TROLHA D’AREOSA {#um-trolha-dareosa}
 
 *Carlos Tê / Rui Veloso*
@@ -7586,6 +11194,37 @@ Arménio, quantos sonhos e planos
 Prometeste que me levavas a Lisboa
 Em Junho no dia dos meus anos
 Bem sabes que a memória é um atributo de Gémeos
+```
+
+### VAI MARINHEIRO VAI VAI {#vai-marinheiro-vai-vai}
+
+```text
+Lá
+Vai marinheiro vai vai
+                   Mi
+Vai buscar a Laurindinha
+Vai marinheiro vai vai
+          Mi7        Lá
+Que ela é tua não é minha
+
+A roupa do marinheiro
+Não é lavada no rio
+É lavada no mar alto
+À sombrinha do navio
+
+Vai marinheiro vai vai […]
+
+No meio daquele mar
+Há uma pombinha branca
+Não é uma pombinha
+É o mar que se alevanta
+
+Outro dia fui à feira
+Não sei como aquilo foi
+Comprei uma vaca leiteira
+Cheguei a casa era um boi
+
+Vai marinheiro vai vai […]
 ```
 
 ### VAIS LUTAR {#vais-lutar}
@@ -7659,6 +11298,50 @@ Não darás um terror frio e cru
 (Vais lutar!) (...)
 ```
 
+### VÁ LÁ SENHORA {#va-la-senhora}
+
+*Os Golpes*
+
+```text
+Fá#m            Mi
+Vá lá senhora, chegou a hora
+Fá#m           Mi
+Vá lá senhora, chegou a hora
+                 Fá#m
+De escolher o seu par
+                  Mi
+De escolher o seu par
+
+            Fá#m
+Alguém para amar
+             Mi
+Alguém para amar
+
+Vá lá senhora, a hora é pouca
+Vá lá senhora, que o tempo esgota
+Vá escolher o seu par
+Vá escolher o seu par
+Alguém para amar
+Alguém para a amar
+Do sofrimento a condição
+Sob o pavimento da escuridão
+Raparigas e rapazes
+Monumentos tão audazes
+Há azul na tua mão
+Sangue inocente, palpitação
+Alegria, tradição, euforia, excitação
+
+Para escolher o seu par
+Para escolher o seu par
+Alguém para amar
+Alguém para a amar
+
+Fá#m Mi Fá#m Mi
+
+Sol#m           Fá#
+Vá lá senhora, a hora é pouca […]
+```
+
 ### VEJAM BEM {#vejam-bem}
 
 *José Afonso*
@@ -7704,6 +11387,197 @@ Ninguém vai levantá-la do chão
 Quem lá vem
 Dorme à noite ao relento na areia
 Dorme à noite ao relento no mar
+```
+
+### VEM VIVER A VIDA AMOR {#vem-viver-a-vida-amor}
+
+*José Cid*
+
+```text
+Mi         Fá#m
+Vem viver a vida, amor
+            Si7
+Que o tempo que passou
+           Mi
+Não volta, não
+                    Fá#m
+Sonhos que o tempo apagou
+         Si7
+Mas para nós ficou
+       Mi
+Esta canção
+
+Mi                        Sol#m
+Há muito, muito tempo, eras tu uma criança
+        Fá#m                  Si7
+Que brincava num baloiço e ao pião
+
+Tinhas tranças pretas, e caçavas borboletas
+Como quem corria atrás de uma ilusão
+
+Sol                        Ré
+Há muito, muito tempo, era eu outra criança
+        Dó                   Sol
+Que te amava ternamente sem saber
+Sol                        Ré
+Vínhamos da escola e oferecia-te uma flor
+        Dó                Sol    Si7
+Que tu punhas no cabelo a sorrir
+
+Vem viver a vida […]
+```
+
+### VESTIDO AZUL {#vestido-azul}
+
+*Floribella*
+
+```text
+Mi
+Hoje eu vou-te esperar
+Si
+E nem me vou maquilhar
+Dó#m
+Quero saber o que sentes
+           Sol#m
+Ao ver-me assim natural
+Lá
+E vou chegar bem cedo
+         Mi
+Ao nosso reino encantado
+Fá#m
+Cada segundo que passa
+              Si
+É um sonho inacabado
+
+Vou usar o vestido azul
+Aquele que tu gostas mais
+E vou soltar o cabelo
+Para dançar com o vento
+A nossa rua é um reino
+Onde o ar é perfumado
+E onde o sol brilha mais
+E o tempo está parado
+
+Mi                 Si
+Mas não chegaste e sem o teu amor
+Dó#m          Sol#m
+O meu vestido azul perdeu a cor
+Lá          Mi    Fá#m           Si
+E sozinha nesta rua tu deixaste a tua flor
+
+Mas não chegaste e o nosso amor murchou
+Como uma flor que a chuva não molhou
+E sozinha nesta rua o tempo para mim
+ Mi
+Parou
+
+Não existe explicação
+Nem desculpa ou razão
+Para me deixares perdida
+Sem encontrar a saída
+E vou deixar o vestido
+Numa gaveta fechada
+Tu foste tempo perdido
+Do qual não sobrou nada
+```
+
+### VOAR {#voar}
+
+*Tim e Rui Veloso*
+
+```text
+Dó            Lám7
+Eu queria ser astronauta
+Fá             Sol7
+O meu país não deixou
+Dó            Lám7
+Depois quis ir jogar à bola
+Fá              Sol7
+A minha mãe não deixou
+
+Tive vontade de voltar à escola
+Mas o doutor não deixou
+Fechei os olhos e tentei dormir
+Aquela dor não deixou
+
+Fá             Sol
+Ó meu anjo da guarda
+       Dó         Lám
+Faz-me voltar a sonhar
+Fá             Sol
+Faz-me ser astronauta
+  Dó
+E voar
+
+O meu quarto é o meu mundo
+O ecrã é a janela
+Não choro em frente à minha mãe
+Eu que gosto tanto dela
+Mas esta dor não quer desaparecer
+Vai-me levar com ela
+
+Ó meu anjo da guarda […]
+
+Fá
+Acordar meter os pés no chão
+Sol
+Levantar, pegar no que tens mais à mão
+Fá                            Sol
+Voltar a rir, voltar a andar, voltar, voltar
+Dó       Lám7    Fá   Rém
+Voltarei
+```
+
+### WINX {#winx}
+
+```text
+Sol
+Se tu quiseres, tu irás ser
+Sim    Lá
+Uma de nós!
+
+Ré                       Lá
+Winx! Com a tua mão na minha
+                     Sol
+Nunca mais estarás sozinha
+                      Lá
+Há uma força que nos junta, as cinco!
+Ré                       Lá
+Winx! Com um sorriso de encantar
+                Sol
+E com o mundo a brilhar
+              Lá                 Ré
+E o mal vamos vencer, as cinco! Winx!
+
+Se tu quiseres, tu irás ser
+Uma de nós!
+
+Ré                    Lá
+Com um brilho assim de pura magia
+Ré          Lá
+A aventura vai começar (lá no céu!)
+Ré               Lá
+Cada nuvem traz mais fantasia
+   Sol             Lá
+Com imaginação, pintamos a nossa vida
+E com a força de ser…
+
+Winx! Com a tua mão na minha
+Nunca mais estarás sozinha
+Há uma força que nos junta, as cinco!
+
+Winx! Nós vivemos cada dia
+Com amor e alegria
+E o mal vamos vencer, as cinco!
+
+Ré           Lá     Sol
+Wiiiiinx... Somos mágicas!
+Ré       Lá         Ré
+Winx, e voamos p'lo aaaaar...
+Lá             Sol
+Com a força que vai estar dentro
+Lá                Ré
+Do grande círculo Winx!
 ```
 
 ### XICO {#xico}
@@ -7766,4 +11640,134 @@ Não me faças mais
 No me hagas más
        Sim   Mi       Lá
 Não me faças mais sofrer
+```
+
+### ZERO A HERÓI {#zero-a-heroi}
+
+*Hércules*
+
+```text
+Dó
+Brilha o Sol, Hércules chegou
+Lá#                      Fá
+Passou por aqui e muita gente encantou
+Ele é bom, faz parar o show
+Ele é o melhor e muitos monstros derrotou
+
+Sol            Dó
+Veio do nada - zero, zero
+Sol               Dó
+P’ra combatê-los - e vencê-los
+Sol              Mi     Lám
+Chegou aqui para conquistar
+  Rém       Fá     Dó
+De zero a herói sem hesitar
+  Rém       Fá     Dó
+De zero a herói, já cá está!
+
+  Fá            Sol
+E ao passar faz suspirar com
+Dó
+ “Uh’s” e “Áh’s”
+    Fá                Sol
+E na mão de alguém vem num vai e vem
+     Dó
+Isso não se faz!
+     Mi         Lám
+E moedas faz chover aqui
+    Mi          Lám
+Nas lutas ganha bem
+    Ré
+Tão novo, rico e forte
+                    Lá
+Não depende, não deve a ninguém
+
+Ré
+Diz “amén”, lá vai outra vez
+                       Sol           Lá
+Doce e invencível ganhando de dez em dez
+Já lançou um boneco igual
+Vai continuar para o bem e para o mal
+
+Lá               Ré
+E lá vai ele - lutar de novo
+Lá              Ré
+Tem a apoiá-lo todo o povo
+
+Lá               Fá#    Sim
+Tem mais coragem que ninguém
+    Ré     Mi      Sol   Ré
+De zero a herói, o maior Rei
+    Ré     Sol      Lá    Ré
+De zero a herói, caiu do céu
+
+Sol
+Quem pôs a glória nas arenas? - Hércules
+O grande herói de histórias vivas? - Hércules
+Fá
+É audaz - e não pára
+Sol
+É docinho, sabor que agrada!
+
+Ré Sol Lá
+Hércules (x6)
+
+Ré                                  Sol
+Brilha o sol, Hércules ganhou - invencível!
+Ré
+Vai voar - e tem tão bom ar - é incrível!
+   Lá          Dó
+Veio do nada - zero, zero
+      Lá           Dó
+P’ra combatê-los - e vencê-los
+Lá            Fá#    Sim
+E num segundo vai ao céu
+ Mi          Sol
+De zero a herói
+ Mi          Sol
+Ele é um herói
+ Mi         Sol
+O nosso herói
+      Ré
+É assim!
+```
+
+### ZUMBA NA CANECA {#zumba-na-caneca}
+
+```text
+   Sol             Ré
+Oh meu bem aparte aparte - oioai
+                    Sol
+O queixo tinto do branco - oioai
+                Ré
+Também eu fui apartada - oioai
+                 Sol
+D’um amor que queria tanto
+
+              Sol
+Ora zumba na caneca
+               Ré
+Ora na caneca zumba
+O diabo da caneca
+                Sol
+Toda a noite catrapumba
+
+A uva que tem grainhas - oioai
+É fruto de bom sabor - oioai
+São com'os beijos que levo - oioai
+Da boca do meu amor
+
+Barrão, bombos e foguetes - oioai
+Lá na quinta do Outeiro - oioai
+Mata-s'o porco em Dezembro - oioai
+Prova-se o vinho em Janeiro
+
+Viv'a festa da diafa - oioai
+Vivam todos quanto estavam - oioai
+E viva o nosso arrigueiro - oioai
+Com uma caneca na mão
+
+Pumba, pumba
+Cratapumba, pumba, pumba
+Cratapumba, pumba, pumba
 ```

@@ -8,6 +8,7 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Margarida Tavares](../../Pessoas/M/Margarida%20Tavares.md) (Mogui)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Rodrigo Calçarão](../../Pessoas/R/Rodrigo%20Cal%C3%A7ar%C3%A3o.md)
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
+- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [André Vale](../../Pessoas/A/Andr%C3%A9%20Vale.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Diogo Gaspar](../../Pessoas/D/Diogo%20Gaspar.md) sj
 
 ---

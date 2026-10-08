@@ -7,7 +7,7 @@ O Gispsy Kings foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md
 - [Director](../../Cargos/Director.md) - [Gonçalo Frade](../../Pessoas/G/Gon%C3%A7alo%20Frade.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Andreia Mendes](../../Pessoas/A/Andreia%20Mendes.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Ricardo Rodrigues](../../Pessoas/R/Ricardo%20Rodrigues.md)
-- [Capelão](../../Cargos/Capel%C3%A3o.md) - Francisco Rodrigues
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Francisco Rodrigues](../../Pessoas/F/Francisco%20Rodrigues%20%28CAIC%29.md)
 - [Tias](../../Cargos/Tio.md) - [Ana Geão](../../Pessoas/A/Ana%20Ge%C3%A3o.md) e [Majó](../../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Gonçalo Belo](../../Pessoas/G/Gon%C3%A7alo%20Belo.md), [João Currais](../../Pessoas/J/Jo%C3%A3o%20Currais.md), [João Regueiras](../../Pessoas/J/Jo%C3%A3o%20Regueiras.md) e [Sofia Fonseca](../../Pessoas/S/Sofia%20Fonseca.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Diana Gapo](../../Pessoas/D/Diana%20Gapo.md), [Guadalupe Oliveira](../../Pessoas/G/Guadalupe%20Oliveira.md), [Joana Nunes](../../Pessoas/J/Joana%20Nunes.md), [João Coimbra](../../Pessoas/J/Jo%C3%A3o%20Coimbra.md) e [Marta Carneiro](../../Pessoas/M/Marta%20Carneiro.md)

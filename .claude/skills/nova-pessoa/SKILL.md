@@ -133,7 +133,13 @@ categorias de dois colégios.
 like `docs/Pessoas/J/João Eiró.md`: `# Nome`, the note if any, an intro if
 given, `### Acampamentos` with **Participante** / **Formação** /
 **Animador(a)** lists, then the footer `---` and `| Categorias |` table (Animadores,
-Animadores do <colégio> if known, Jesuítas…). Then list it: the letter's
+Animadores do <colégio> if known, Jesuítas…). As relações de parentesco ou de casamento (irmãos, pais, filhos, cônjuges…)
+escrevem-se sempre numa secção `### Família`, nunca soltas no fim da página
+nem noutra secção.
+Uma pessoa é animador a partir do campo de formação: se a introdução diz
+"animador desde <ano>", esse ano é o da **Formação**, mesmo que só tenha
+estado na equipa de um campo mais tarde.
+Then list it: the letter's
 `index.md` (sorted), its count in `docs/Pessoas/index.md`, each category's
 `## Páginas nesta categoria (N)` (sorted, N+1 — `pessoas.py inserir
 "<ficheiro>" "## Páginas nesta categoria" "<linha>"` faz as duas coisas),
@@ -216,3 +222,20 @@ desactualizada ou se ainda existir a secção antiga.
 
 Finally tell the user who was linked to whom, which pages were created or
 got a note, and which names stayed plain text.
+
+## Recentes
+
+Toda a alteração a uma página tem de ficar reflectida na página
+[Recentes](../../../docs/Recentes.md). Essa página não se edita à mão: lê o
+histórico do git e reescreve-se a cada publicação. Por isso, a alteração tem
+de estar num commit (ficheiros em `docs/`) e, antes de dar o trabalho por
+terminado, confirma-se:
+
+```sh
+python3 scripts/actualizar_recentes.py   # depois do commit
+grep "<nome da página>" docs/Recentes.md # as páginas mexidas têm de aparecer
+git restore docs/Recentes.md             # a publicação volta a gerá-la
+```
+
+As páginas restritas, os índices, as categorias, `Wikinácios/` e as páginas
+geradas não aparecem nunca em Recentes; e só entram as 100 mais recentes.

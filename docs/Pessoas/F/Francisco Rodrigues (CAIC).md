@@ -12,6 +12,7 @@ Francisco Rodrigues foi um dos animadores do Colégio da Imaculada Conceição.
     - 1996 [Alvoco 96](../../Acampamentos/1996/Alvoco%2096.md) - [Director](../../Cargos/Director.md)
     - 1997 [Triciclos 2](../../Acampamentos/1997/Triciclos%202.md) - [Director](../../Cargos/Director.md)
     - 1998 [Regresso a Alvoco II](../../Acampamentos/1998/Regresso%20a%20Alvoco%20II.md) - [Director](../../Cargos/Director.md)
+    - 1999 [Gipsy Kings](../../Acampamentos/1999/Gipsy%20Kings.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
 ### Família
 

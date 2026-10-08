@@ -5,7 +5,7 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Miguel Rodrigues](../../Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md)
-- [Mamã](../../Cargos/Mam%C3%A3.md) - Ana Catarina Gil
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [Ana Catarina Gil](../../Pessoas/A/Ana%20Catarina%20Gil.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Francisco Maia](../../Pessoas/F/Francisco%20Maia.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [João Manuel Silva](../../Pessoas/J/Jo%C3%A3o%20Manuel%20Silva.md)
 - [Tia](../../Cargos/Tio.md) - [Carolina Oliveira](../../Pessoas/C/Carolina%20Oliveira.md)

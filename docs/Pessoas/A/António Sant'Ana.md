@@ -16,6 +16,10 @@ António Sant'Ana sj pertenceu à DL-CAIC sendo posteriormente Assistente Nacion
     - 2008 [TSI](../../Acampamentos/2008/TSI.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2009 [Tira as rodinhas](../../Acampamentos/2009/Tira%20as%20rodinhas.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
+### Camtilena
+
+Escreveu o [Prefácio](../../Movimento/Cantin%C3%A1cio/Camtilena%20Pref%C3%A1cio.md) da Camtilena (10.ª edição).
+
 ---
 
 **Outros nomes:** António Santana

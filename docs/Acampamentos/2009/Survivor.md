@@ -12,6 +12,10 @@ O Survivor decorreu entre os dias 10 e 19 de Agosto de 2009 no [Lugar do Vau (Ce
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [António Amaral](../../Pessoas/A/Ant%C3%B3nio%20Amaral.md), [Goga](../../Pessoas/D/Diogo%20Cordeiro%20Ferreira.md) e [Pica](../../Pessoas/I/Isabel%20Neves.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Artur Correia](../../Pessoas/A/Artur%20Correia.md), [José Pascoal](../../Pessoas/J/Jos%C3%A9%20Pascoal.md), [Pedro Pinto](../../Pessoas/P/Pedro%20Pinto.md), [Rita Luís](../../Pessoas/R/Rita%20Lu%C3%ADs.md), [Diogo Costa](../../Pessoas/D/Diogo%20Costa.md) e [Ana Sofia Pinelas](../../Pessoas/A/Ana%20Sofia%20Pinelas.md)
 
+## Vídeos
+
+- [Vídeo do campo](https://www.youtube.com/watch?v=ko02L_m0MxA)
+
 ---
 
 | Categorias |

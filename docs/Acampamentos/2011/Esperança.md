@@ -22,18 +22,9 @@ O Esperança foi um acampamento de [Calhambeques](../../Categorias/Calhambeques.
 - [Ana Quaresma](../../Pessoas/A/Ana%20Quaresma.md)
 - [Camila Martins](../../Pessoas/C/Camila%20Martins.md)
 
-## Participantes que se tornaram animadores
+## Relatório de Campo
 
-- [Ana Martins](../../Pessoas/A/Ana%20Martins.md)
-- [Ana Quaresma](../../Pessoas/A/Ana%20Quaresma.md)
-- [António Amaral](../../Pessoas/A/Ant%C3%B3nio%20Amaral.md)
-- [Camila Martins](../../Pessoas/C/Camila%20Martins.md)
-- [Carla Carneiro](../../Pessoas/C/Carla%20Carneiro.md)
-- [Joana Martins](../../Pessoas/J/Joana%20Martins.md)
-- [João Eiró](../../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md)
-- [José Pascoal](../../Pessoas/J/Jos%C3%A9%20Pascoal.md)
-- [Sara Oom](../../Pessoas/S/Sara%20Oom.md)
-- [Teresa Cortês Ferreira](../../Pessoas/T/Teresa%20Cort%C3%AAs%20Ferreira.md)
+O [relatório de campo](../../Restrito/Relat%C3%B3rios%20de%20Campo/Esperan%C3%A7a%202011.md) 🔒 escrito pela direcção é uma página restrita.
 
 ---
 
