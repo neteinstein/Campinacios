@@ -61,6 +61,12 @@ linhas do mesmo cargo ou o cargo no singular com vários nomes.
 Director, Mamã, Capelão, Tio/Tia e os restantes cargos mantêm uma linha por
 pessoa.
 
+Quando a fonte não separa Animadores Livres de Animadores de Equipa (só diz
+"animadores"), não adivinhe: use uma só linha genérica,
+`- [Animadores](../../Categorias/Animadores.md) - A, B e C`, e na página de
+cada pessoa o campo vai sem cargo (`    - <ano> [Nome](…)` em
+**Animador(a)**).
+
 ## 3. List it everywhere
 
 The two lists the validator checks first, because they are what readers
@@ -73,7 +79,9 @@ browse:
     (`| <ano> | <ul>…</ul> | *tema* | <ul><li>local</li></ul> |`, empty cells
     if unknown);
   - `## Páginas nesta categoria (N)`: insert the link in title order and
-    add 1 to N.
+    add 1 to N (`python3 .claude/skills/nova-pessoa/scripts/pessoas.py
+    inserir "<ficheiro>" "## Páginas nesta categoria" "<linha>"` faz as
+    duas coisas, aqui e nas outras categorias).
 - **`docs/Acampamentos/index.md`**: shows the same content as
   `docs/Categorias/Acampamentos.md` (the same table, subcategories and page
   list, links written the same way), so make the same two edits there.
@@ -102,7 +110,8 @@ And the rest of the year and cross-references:
   (`## Páginas nesta categoria (N)`).
 - Each linked person: add `    - <ano> [Nome](…) - [Cargo](…)` under
   **Animador/Animadora** (team) or `    - <ano> [Nome](…)` under
-  **Participante**. Um participante com página não entra na equipa do campo;
+  **Participante** (`pessoas.py campo`, ver `nova-pessoa` §3a, que diz
+  também como escolher o género do rótulo). Um participante com página não entra na equipa do campo;
   se é animador, o campo ganha-o em `## Participantes que se tornaram
   animadores`, e as páginas de `docs/Cargos/` ganham as pessoas em
   `## Pessoas com este cargo`. Ambas se escrevem com
@@ -135,6 +144,13 @@ as the category, the year's index and the nav. Fix every `ERRO` and run it again
 strict build catches any broken link. `validar.py --todos` checks every
 camp; gaps the original wiki already had are listed in `legado.txt` and
 don't fail — never add a new camp there.
+
+Antes do commit, `git diff --stat` tem de mostrar só as páginas que quis
+mexer. Os validadores e o build não apanham alterações a mais que sejam
+válidas: um script corrido sobre "tudo o que mudou" (que inclui
+`docs/Todos os artigos.md` e os índices) já chegou a mexer em mais de mil
+páginas. Se a lista for maior do que espera, descubra porquê antes de
+continuar.
 
 Then tell the user what was added and where, what was left as plain text,
 and anything you had to assume.
