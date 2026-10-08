@@ -224,3 +224,24 @@ workflow falhou), feche-a como concluída com um comentário curto:
 ```sh
 gh issue close <N> --reason completed --comment "O PR #<PR> já foi integrado e estas alterações já estão no site. Obrigado!"
 ```
+
+## Auditar um arquivo
+
+Quando a fonte não é um contributo mas um arquivo grande (uma pasta com
+centenas de actas, folhas de equipas, relatórios de campos) e o pedido é
+ver o que falta no site:
+
+1. Meça primeiro as lacunas do site: um script curto sobre
+   `docs/Acampamentos/*/` que conte, por campo, as pessoas ligadas em
+   `### Animadores`, se tem datas e local; mais os anos sem página de
+   Encontro ou de DN. Depois liste a árvore do arquivo e abra só os
+   ficheiros que podem preencher essas lacunas.
+2. Relatórios e actas posteriores ao campo valem mais do que folhas de
+   planeamento ("Equipas (15 Março)"), que muitas vezes não batem certo com
+   o que aconteceu: use as segundas só como "proposta", assinalada.
+3. Quase todos os ficheiros misturam factos publicáveis com dados privados
+   (telefones, moradas, datas de nascimento, participantes menores,
+   palavras-passe, indicações de locais). Nada disso entra no relatório
+   nem no site — as regras do passo 2 valem aqui por inteiro.
+4. Onde o arquivo contradisser o site, liste as duas versões para o
+   utilizador decidir; não acrescente nada sem que ele o peça.
