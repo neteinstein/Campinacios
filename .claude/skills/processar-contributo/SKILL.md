@@ -142,7 +142,10 @@ maioria crianças.
   artigos.md`) antes de ser ligado.
 - Onde o contributo contradisser o site, mostre as duas versões e
   pergunte; não sobreponha em silêncio. Não preencha o que quem enviou
-  deixou em branco.
+  deixou em branco. Excepção: a correcção só do rótulo de um cargo numa
+  linha que já existe (por exemplo "Tia" → "Tio", "Animadora" →
+  "Animador") pode aplicar-se sem perguntar, desde que fique assinalada na
+  descrição do PR e no comentário a quem enviou (passo 6).
 
 ## 4. Dar o crédito a quem enviou
 
@@ -164,8 +167,10 @@ Uma contribuição por issue, por mais páginas que tenha mexido.
 
 ## 5. Verificar e publicar
 
-Correr os validadores das skills usadas e `mkdocs build --strict`. O
-commit refere a issue ("… (issue #12)").
+Correr os validadores das skills usadas e `mkdocs build --strict`. Antes
+do commit, ver `git diff --stat`: tem de listar só as páginas que este
+contributo devia mexer (ver `novo-acampamento` §4). O commit refere a issue
+("… (issue #12)").
 
 - Directamente no `main`: fazer push e confirmar que o workflow "Publicar
   site" publicou.

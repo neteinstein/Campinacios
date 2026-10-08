@@ -30,6 +30,15 @@ with the same or similar names are kept apart.
   secoes              escreve essas duas secções em todos os cargos e campos
                       (só mexe nas páginas que mudam). Corra-o sempre que
                       uma pessoa ganhar ou perder um cargo ou um campo.
+  campo <pessoa.md> <Participante|Formação|Animador> "<linha>" [rótulo]
+                      acrescenta a linha ("    - <ano> [Campo](…)…") ao
+                      grupo de "### Acampamentos", por ordem de ano; cria a
+                      secção e o grupo se faltarem (rótulo por omissão:
+                      "Animador(a)") e tira os "- Nenhum" desse grupo.
+  inserir <ficheiro> "<cabeçalho>" "<linha>"
+                      insere a linha, por ordem alfabética, na lista a
+                      seguir ao cabeçalho (ex.: "## Páginas nesta
+                      categoria") e soma 1 ao "(N)" do cabeçalho.
 
 Names are compared without accents or case. "Similar" means: the same
 first and last name ("Ana Martins" / "Ana Rita Martins"), one name inside
@@ -454,6 +463,100 @@ def secoes():
     return 0
 
 
+# Grupos de "### Acampamentos" na página de uma pessoa, pela ordem em que
+# aparecem. "Animador" apanha também Animadora e Animador(a).
+GROUPS = ('Participante', 'Formação', 'Animador')
+
+
+def group_rx(name):
+    return re.compile(rf'^- (?:\*\*)?{re.escape(name)}')
+
+
+def campo(path, group, line, label=None):
+    """Acrescenta `line` ("    - <ano> [Campo](…)…") ao grupo `group` de
+    "### Acampamentos" da pessoa, por ordem de ano. Cria a secção e o grupo
+    se faltarem (com o rótulo `label`; por omissão o neutro "Animador(a)")
+    e tira os "- Nenhum" desse grupo. Devolve False se a linha já lá está."""
+    if group not in GROUPS:
+        sys.exit(f'grupo desconhecido: {group} (use {", ".join(GROUPS)})')
+    lines = path.read_text(encoding='utf-8').splitlines(keepends=True)
+    if any(l.rstrip('\n') == line for l in lines):
+        return False
+    label = label or ('Animador(a)' if group == 'Animador' else group)
+    s = next((i for i, l in enumerate(lines)
+              if l.startswith('### Acampamentos')), None)
+    if s is None:
+        s = next(i for i, l in enumerate(lines)
+                 if l.startswith(('### Encontros', '## ')) or l.rstrip() == '---')
+        lines[s:s] = ['### Acampamentos\n', '\n', '\n']
+    e = s + 1
+    while e < len(lines) and not (lines[e].startswith('#')
+                                  or lines[e].rstrip() == '---'):
+        e += 1
+    g = next((i for i in range(s + 1, e) if group_rx(group).match(lines[i])),
+             None)
+    if g is None:
+        later = GROUPS[GROUPS.index(group) + 1:]
+        g = next((i for i in range(s + 1, e)
+                  if any(group_rx(n).match(lines[i]) for n in later)), None)
+        if g is None:
+            g = e
+            while g > s + 1 and lines[g - 1].strip() == '':
+                g -= 1
+        lines.insert(g, f'- **{label}:**\n')
+        if g == s + 1:
+            lines.insert(g, '\n')
+            g += 1
+    i = g + 1
+    while i < len(lines) and lines[i].startswith('    - '):
+        if lines[i].strip().lower() in ('- nenhum', '- nenhuma'):
+            del lines[i]
+        else:
+            i += 1
+    year = line.strip()[2:6]
+    pos = next((j for j in range(g + 1, i) if lines[j].strip()[2:6] > year), i)
+    lines.insert(pos, line + '\n')
+    text = ''.join(lines)
+    text = re.sub(r'### Acampamentos\n\n\n+', '### Acampamentos\n\n', text)
+    text = re.sub(r'\n{3,}(### |## |---)', r'\n\n\1', text)
+    path.write_text(text, encoding='utf-8')
+    return True
+
+
+def sort_key(line):
+    m = re.match(r'- \*?\[?([^\]*]+)', line)
+    return fold(m.group(1) if m else line)
+
+
+def inserir(path, heading, line):
+    """Insere `line`, por ordem alfabética, na lista a seguir ao primeiro
+    cabeçalho que começa por `heading`, e soma 1 ao "(N)" do cabeçalho se o
+    tiver. Devolve False se a linha já lá está."""
+    lines = path.read_text(encoding='utf-8').splitlines(keepends=True)
+    h = next((n for n, l in enumerate(lines) if l.startswith(heading)), None)
+    if h is None:
+        sys.exit(f'{rel(path)}: sem cabeçalho {heading!r}')
+    first = h + 1
+    while first < len(lines) and lines[first].strip() == '':
+        first += 1
+    end = first
+    while end < len(lines) and lines[end].startswith('- '):
+        end += 1
+    if any(l.rstrip('\n') == line for l in lines[first:end]):
+        return False
+    pos = next((j for j in range(first, end)
+                if sort_key(lines[j]) > sort_key(line)), end)
+    lines.insert(pos, line + '\n')
+    if first == end and pos + 1 < len(lines) and lines[pos + 1].strip():
+        lines.insert(pos + 1, '\n')
+    m = re.search(r'\((\d+)\)\s*$', lines[h])
+    if m:
+        lines[h] = lines[h][:m.start(1)] + str(int(m.group(1)) + 1) \
+            + lines[h][m.end(1):]
+    path.write_text(''.join(lines), encoding='utf-8')
+    return True
+
+
 def told_apart(site, a, b):
     """Is there a "Nota:" on a pointing to b, or a disambiguation page
     listing both and linked from a's note?"""
@@ -521,6 +624,14 @@ def verificar(args):
 if __name__ == '__main__':
     if sys.argv[1:2] == ['secoes']:
         sys.exit(secoes())
+    if sys.argv[1:2] == ['campo'] and len(sys.argv) in (5, 6):
+        ok = campo(Path(sys.argv[2]), sys.argv[3], sys.argv[4], *sys.argv[5:])
+        print('acrescentado' if ok else 'já lá estava')
+        sys.exit(0)
+    if sys.argv[1:2] == ['inserir'] and len(sys.argv) == 5:
+        ok = inserir(Path(sys.argv[2]), sys.argv[3], sys.argv[4])
+        print('inserido' if ok else 'já lá estava')
+        sys.exit(0)
     if len(sys.argv) < 3 or sys.argv[1] not in ('procurar', 'verificar',
                                                 'reciprocas'):
         sys.exit(__doc__)
