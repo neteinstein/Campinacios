@@ -55,6 +55,13 @@ Offer one option per candidate plus "outra pessoa" (use a multiple-choice
 prompt if your tool supports one). For plain-text mentions, ask which of
 them are this person when the name is common.
 
+A pergunta tem de se bastar a si própria: o diálogo de escolha pode
+aparecer sem o texto que o antecede. Ao confirmar vários nomes de uma vez,
+ponha os candidatos (nome → página, a prova numa linha) dentro do texto da
+pergunta ou das opções, nunca só na mensagem antes dela. Junte os casos
+óbvios numa pergunta "confirmar todos / indicar excepções" e dê aos
+duvidosos uma pergunta própria.
+
 **Uma coincidência só por "Outros nomes" não prova nada**: o nome
 alternativo foi posto por alguém e pode ser ele próprio um erro (uma página
 de duas pessoas fundidas, como já aconteceu com o Missé e o Migalha). Nesse
