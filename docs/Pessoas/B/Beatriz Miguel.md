@@ -4,6 +4,11 @@
 
 - 2023/2024 Membro da [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)
 
+### Encontros
+
+- 2025 [Rockstock 2025](../../Encontros/Rockstock%202025.md) - Equipa de animação
+- 2026 [Rockstock 2026](../../Encontros/Rockstock%202026.md) - Equipa de animação
+
 ---
 
 | Categorias |

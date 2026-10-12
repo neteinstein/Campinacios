@@ -1,6 +1,6 @@
 # Ana Martins
 
-*Nota: Este artigo é sobre Ana Martins, animadora do CSJB desde 2005. Se procura Ana Isabel Martins, animadora desde 2026, consulte [Ana Isabel Martins](Ana%20Isabel%20Martins.md).*
+*Nota: Este artigo é sobre Ana Martins, animadora do CSJB desde 2005. Se procura Ana Isabel Martins, animadora desde 2026, consulte [Ana Isabel Martins](Ana%20Isabel%20Martins.md). Se procura Ana de Martins Aguiar, animadora do Rockstock em 2019 e 2022, consulte [Ana de Martins Aguiar](Ana%20de%20Martins%20Aguiar.md).*
 
 Ana Martins, é desde 2005 uma das animadoras do Colégio São João de Brito.
 

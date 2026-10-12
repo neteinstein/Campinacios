@@ -24,6 +24,7 @@
 ### Encontros
 
 - 2024 [Encontro Nacional 2024](../../Encontros/Encontro%20Nacional%202024.md) - Director de Trotinetas
+- 2025 [Rockstock 2025](../../Encontros/Rockstock%202025.md) - Equipa de animação
 - 2026 [Encontro Nacional 2026](../../Encontros/Encontro%20Nacional%202026.md) - Director de Triciclos
 
 ---

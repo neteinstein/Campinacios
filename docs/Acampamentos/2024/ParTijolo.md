@@ -9,6 +9,10 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Johnny Sousa](../../Pessoas/J/Johnny%20Sousa.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Miranda](../../Pessoas/C/Carlos%20Miranda.md) sj
 
+## Participantes que se tornaram animadores
+
+- [Beatriz Mesquita](../../Pessoas/B/Beatriz%20Mesquita.md)
+
 ---
 
 | Categorias |

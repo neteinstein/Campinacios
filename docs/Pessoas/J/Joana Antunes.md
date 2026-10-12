@@ -5,6 +5,7 @@
 ### Encontros
 
 - 2023 [Encontro Nacional 2023](../../Encontros/Encontro%20Nacional%202023.md) - Responsável do serão
+- 2023 [Rockstock 2023](../../Encontros/Rockstock%202023.md) - Equipa de animação
 
 ---
 

@@ -1,6 +1,6 @@
 # Atira-te
 
-**Atira-te** foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) realizado em 2023. O tema do ano foi *Maria Levantou-se e Partiu Apressadamente*.
+**Atira-te** foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) realizado em 2023 no Colégio S. João de Brito. O tema do ano foi *Maria Levantou-se e Partiu Apressadamente*.
 
 ### Animadores
 

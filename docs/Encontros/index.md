@@ -34,6 +34,7 @@ Encontros Nacionais e Encontros Nacionais de Animadores.
 - [Fim-de-Semana de Espiritualidade e Encontro 2006](Fim-de-Semana%20de%20Espiritualidade%20e%20Encontro%202006.md)
 - [Rockstock 2017](Rockstock%202017.md)
 - [Rockstock 2018](Rockstock%202018.md)
+- [Rockstock 2019](Rockstock%202019.md)
 - [Rockstock 2022](Rockstock%202022.md)
 - [Rockstock 2023](Rockstock%202023.md)
 - [Rockstock 2024](Rockstock%202024.md)

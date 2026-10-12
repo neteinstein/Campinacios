@@ -10,6 +10,8 @@
 ### Encontros
 
 - 2019 [Encontro Nacional 2019](../../Encontros/Encontro%20Nacional%202019.md) - Responsável de Trotinetas
+- 2019 [Rockstock 2019](../../Encontros/Rockstock%202019.md) - Equipa de animação
+- 2022 [Rockstock 2022](../../Encontros/Rockstock%202022.md) - Equipa de animação
 
 ---
 

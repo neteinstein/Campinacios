@@ -11,7 +11,14 @@
 
 ## Participantes que se tornaram animadores
 
+- [Ana Mendonça](../../Pessoas/A/Ana%20Mendon%C3%A7a.md)
+- [António Almeida](../../Pessoas/A/Ant%C3%B3nio%20Almeida.md)
+- [Francisco Carneiro](../../Pessoas/F/Francisco%20Carneiro.md)
 - [Jaime Lucas Pires](../../Pessoas/J/Jaime%20Lucas%20Pires.md)
+- [Joana Costa (2021)](../../Pessoas/J/Joana%20Costa%20%282021%29.md)
+- [Leonor Correia](../../Pessoas/L/Leonor%20Correia.md)
+- [Maria Silva](../../Pessoas/M/Maria%20Silva.md)
+- [Rafaela Mano](../../Pessoas/R/Rafaela%20Mano.md)
 
 ---
 

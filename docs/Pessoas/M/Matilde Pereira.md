@@ -13,6 +13,10 @@
 - **Animadora:**
     - 2026 [Ca Ganda Tanga](../../Acampamentos/2026/Ca%20Ganda%20Tanga.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
+### Encontros
+
+- 2026 [Rockstock 2026](../../Encontros/Rockstock%202026.md) - Equipa de animação
+
 ---
 
 **Outros nomes:** Matchi

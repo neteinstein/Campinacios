@@ -1,5 +1,7 @@
 # Leonor Banha da Silva
 
+*Nota: Este artigo é sobre Leonor Banha da Silva (Licas), animadora do CSJB. Se procura Leonor Silva, animadora do Rockstock 2022, consulte [Leonor Silva](Leonor%20Silva.md).*
+
 Leonor Banha da Silva é animadora do [CSJB](../../Categorias/Animadores%20do%20CSJB.md).
 
 ### Acampamentos
@@ -14,6 +16,10 @@ Leonor Banha da Silva é animadora do [CSJB](../../Categorias/Animadores%20do%20
     - 2021 [E a Glória Adensa-se](../../Acampamentos/2021/E%20a%20Gl%C3%B3ria%20Adensa-se.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
     - 2022 [Isto Só Visto](../../Acampamentos/2022/Isto%20S%C3%B3%20Visto.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2023 [Parte de Ti](../../Acampamentos/2023/Parte%20de%20Ti.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
+
+### Encontros
+
+- 2022 [Rockstock 2022](../../Encontros/Rockstock%202022.md) - Equipa de animação
 
 ---
 

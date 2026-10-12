@@ -7,6 +7,10 @@
 - [Director](../../Cargos/Director.md) - [Pê Fonseca](../../Pessoas/P/Pedro%20Fonseca.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
 
+## Participantes que se tornaram animadores
+
+- [Ana Mendonça](../../Pessoas/A/Ana%20Mendon%C3%A7a.md)
+
 ---
 
 | Categorias |

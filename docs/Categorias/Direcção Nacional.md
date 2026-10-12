@@ -39,7 +39,7 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 | **Coordenador Adjunto** | [Fernando Monteiro](../Pessoas/F/Fernando%20Monteiro.md) |
 | **DL-CC** | [Daniela Gonçalves](../Pessoas/D/Daniela%20Gon%C3%A7alves.md) (Coordenadora da DL) e [Vicente Goes](../Pessoas/V/Vicente%20Goes.md) sj |
 | **DL-CSJB** | [Matilde Pereira](../Pessoas/M/Matilde%20Pereira.md) (Matchi) (Coordenadora da DL) e [Miguel Melo Ribeiro](../Pessoas/M/Miguel%20Melo%20Ribeiro.md) sj |
-| **Departamentos** | Comunicação: [Nuno Ferreira](../Pessoas/N/Nuno%20Ferreira.md) (Broski)<br>Ecónomo: [Martim Nunes](../Pessoas/M/Martim%20Nunes.md)<br>Locais de Campo: [Pablo Fernandes](../Pessoas/P/Pablo%20Fernandes.md)<br>Transportes: [Francisca Crujeira](../Pessoas/F/Francisca%20Crujeira.md)<br>Angariação de Fundos: [Francisca Serrano](../Pessoas/F/Francisca%20Serrano.md)<br>GARFO (Formação): [Beatriz Picciochi](../Pessoas/B/Beatriz%20Picciochi.md)<br>Delegado SPC: [Mariana Ramalho](../Pessoas/M/Mariana%20Ramalho.md) |
+| **Departamentos** | Comunicação: [Nuno Ferreira](../Pessoas/N/Nuno%20Ferreira.md) (Broski)<br>Ecónomo: [Martim Nunes](../Pessoas/M/Martim%20Nunes.md)<br>Locais de Campo: [Pablo Fernandes](../Pessoas/P/Pablo%20Fernandes.md) e [Zé Guedes](../Pessoas/Z/Z%C3%A9%20Guedes.md)<br>Transportes: [Francisca Crujeira](../Pessoas/F/Francisca%20Crujeira.md)<br>Angariação de Fundos: [Francisca Serrano](../Pessoas/F/Francisca%20Serrano.md)<br>GARFO (Formação): [Beatriz Picciochi](../Pessoas/B/Beatriz%20Picciochi.md)<br>Delegado SPC: [Mariana Ramalho](../Pessoas/M/Mariana%20Ramalho.md) |
 
 </div>
 
@@ -337,7 +337,7 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 | **Coordenador Nacional** | [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) |
 | **DL-CC** | [João Paulo Moinhos](../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md) (Coordenador da DL), [Cami](../Pessoas/C/Carlos%20Miguel%20Albuquerque.md), [Rui Ribeiro](../Pessoas/R/Rui%20Ribeiro.md) sj e [Jacinto Bezerra](../Pessoas/J/Jacinto%20Bezerra.md) |
 | **DL-CAIC** | [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) (Coordenador da DN/DL), [António Sant'Ana](../Pessoas/A/Ant%C3%B3nio%20Sant%27Ana.md) sj (Secretário da DN), [Maria João Simões](../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md) e [Rita Roxo](../Pessoas/R/Rita%20Roxo.md) |
-| **DL-CSJB** | [Manuel Cordeiro Ferreira](../Pessoas/M/Manuel%20Cordeiro%20Ferreira.md) (Coordenador da DL), [Zebra](../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md) sj, [Francisca Mendes](../Pessoas/F/Francisca%20Mendes.md), [Manuel Vilhena](../Pessoas/M/Manuel%20Vilhena.md) e [Pica](../Pessoas/F/Francisco%20Silva%20Rodrigues.md) |
+| **DL-CSJB** | [Manuel Cordeiro Ferreira](../Pessoas/M/Manuel%20Cordeiro%20Ferreira.md) (Coordenador da DL), [José Maria Brito](../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md) sj, [Francisca Mendes](../Pessoas/F/Francisca%20Mendes.md), [Manuel Vilhena](../Pessoas/M/Manuel%20Vilhena.md) e [Pica](../Pessoas/F/Francisco%20Silva%20Rodrigues.md) |
 
 </div>
 
@@ -350,7 +350,7 @@ As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Del
 | **Assistente Nacional** | [José da Silva Almeida](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md) sj |
 | **DL-CC** | [João Paulo Moinhos](../Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md) (Coordenador da DL), [Renato Costa](../Pessoas/R/Renato%20Costa.md), [Andreia Pereira](../Pessoas/A/Andreia%20Pereira.md), [Vítor Fernandes](../Pessoas/V/V%C3%ADtor%20Fernandes.md) e [Pedro Pinheiro](../Pessoas/P/Pedro%20Pinheiro.md) |
 | **DL-CAIC** | [Majo](../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md) (Coordenadora da DN/DL), [Rita Simões](../Pessoas/R/Rita%20Sim%C3%B5es.md) e [Joana Sá](../Pessoas/J/Joana%20S%C3%A1.md) |
-| **DL-CSJB** | [Manuel Vilhena](../Pessoas/M/Manuel%20Vilhena.md), [Zebra](../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md) sj e [Joana Silva](../Pessoas/J/Joana%20Ferreira%20da%20Silva.md) |
+| **DL-CSJB** | [Manuel Vilhena](../Pessoas/M/Manuel%20Vilhena.md), [José Maria Brito](../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md) sj e [Joana Silva](../Pessoas/J/Joana%20Ferreira%20da%20Silva.md) |
 
 </div>
 

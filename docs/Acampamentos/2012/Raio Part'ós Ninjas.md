@@ -6,6 +6,7 @@
 
 - [Director](../../Cargos/Director.md) - [Gonçalo Vaz Pedro](../../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md)
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - [Sara Moinhos](../../Pessoas/S/Sara%20Moinhos.md)
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Carvalho](../../Pessoas/C/Carlos%20Carvalho.md) sj
 
 ---
 

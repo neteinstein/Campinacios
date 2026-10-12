@@ -1,5 +1,7 @@
 # Marta Croca
 
+*Nota: Este artigo é sobre Marta Croca, animadora do CSJB de 2003 a 2008. Se procura Maria Rocha, animadora do Rockstock 2019, consulte [Maria Rocha](Maria%20Rocha.md).*
+
 ### Acampamentos
 
 - **Participante**

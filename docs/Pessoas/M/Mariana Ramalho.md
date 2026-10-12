@@ -9,6 +9,10 @@
 - **Animadora:**
     - 2026 [Ca Ganda Tanga](../../Acampamentos/2026/Ca%20Ganda%20Tanga.md) - [Tia](../../Cargos/Tio.md)
 
+### Encontros
+
+- 2022 [Rockstock 2022](../../Encontros/Rockstock%202022.md) - Equipa de animação
+
 ---
 
 | Categorias |

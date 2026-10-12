@@ -26,6 +26,12 @@ Nuno Ferreira é animador do [CSJB](../../Categorias/Animadores%20do%20CSJB.md).
     - 2025 [PássaPorta](../../Acampamentos/2025/P%C3%A1ssaPorta.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2026 [Sande Help](../../Acampamentos/2026/Sande%20Help.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
+### Encontros
+
+- 2019 [Rockstock 2019](../../Encontros/Rockstock%202019.md) - Equipa de animação
+- 2022 [Rockstock 2022](../../Encontros/Rockstock%202022.md) - Equipa de animação
+- 2025 [Rockstock 2025](../../Encontros/Rockstock%202025.md) - Equipa de animação
+
 ### Família
 
 É irmão da Inês Ferreira, Animadora de Equipa no Mangueira Nice (2025).

@@ -6,6 +6,10 @@
 
 - [Director](../../Cargos/Director.md) - [Bernardo Caldas](../../Pessoas/B/Bernardo%20Caldas.md)
 
+## Participantes que se tornaram animadores
+
+- [Heitor Rosa](../../Pessoas/H/Heitor%20Rosa.md)
+
 ---
 
 | Categorias |

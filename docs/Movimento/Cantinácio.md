@@ -60,7 +60,7 @@ O [Manual de Instruções](Cantin%C3%A1cio/Manual%20de%20Instru%C3%A7%C3%B5es.md
 
 ## Aplausos
 
-- [Aplausos](Cantin%C3%A1cio/Aplausos.md) — 134 palmas, aplausos e gritos de roda
+- [Aplausos](Cantin%C3%A1cio/Aplausos.md) — 138 palmas, aplausos e gritos de roda
 
 ## Gravações
 

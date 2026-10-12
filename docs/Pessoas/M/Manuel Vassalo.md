@@ -11,6 +11,10 @@
     - 2025 [À Brava](../../Acampamentos/2025/%C3%80%20Brava.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2026 [Non Nobis](../../Acampamentos/2026/Non%20Nobis.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
+### Encontros
+
+- 2022 [Rockstock 2022](../../Encontros/Rockstock%202022.md) - Equipa de animação
+
 ---
 
 | Categorias |
