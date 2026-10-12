@@ -2,11 +2,10 @@
 """Reconstrói docs/assets/graph.json (o grafo de docs/Grafo.md) a partir das
 páginas de docs/.
 
-O grafo foi criado uma única vez por scripts/mediawiki_to_markdown.py, a
-partir da cópia de 2010, e desde então as páginas novas e as ligações novas
-não entravam nele. Este script lê os .md actuais e volta a escrever o
-ficheiro no mesmo formato, sem correr o conversor (que apagaria as edições
-posteriores).
+O grafo foi criado uma única vez pelo conversor da wiki antiga, a partir
+da cópia de 2010, e desde então as páginas novas e as ligações novas não
+entravam nele. Este script lê os .md actuais e volta a escrever o ficheiro
+no mesmo formato.
 
 Regras (as mesmas do conversor):
   * nós: as páginas de Acampamentos/, Cargos/, Encontros/, Movimento/ e

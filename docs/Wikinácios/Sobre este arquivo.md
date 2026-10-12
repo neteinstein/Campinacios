@@ -2,8 +2,9 @@
 
 A Wikinácios foi a wiki dos Campinácios, criada em 2009 durante a
 Revolução Campinácios v2.0 e mantida em MediaWiki. Este site foi gerado a
-partir da cópia de segurança da base de dados MySQL da wiki pelo script
-`scripts/mediawiki_to_markdown.py`.
+partir da cópia de segurança da base de dados MySQL da wiki, por um
+conversor feito para esse fim e retirado do repositório depois da
+migração (fica no histórico do git).
 
 ## O que foi convertido
 

@@ -131,9 +131,6 @@ scripts/                     ferramentas de manutenção (ver abaixo)
 | `python3 scripts/restrito.py abrir` / `fechar` | decifra e volta a cifrar as páginas restritas (pede a palavra-passe) |
 | `python3 .claude/skills/conteudo-em-portugues/scripts/verificar_portugues.py` | procura texto em inglês ou em português do Brasil |
 
-> [!WARNING]
-> Nunca corra `scripts/mediawiki_to_markdown.py`: volta a gerar `docs/` a partir do backup de 2010 e apaga todas as alterações feitas desde então.
-
 O passo a passo de cada tarefa (acrescentar um campo, uma pessoa, processar um contributo, publicar) está em [`.claude/skills/`](.claude/skills) e em [`AGENTS.md`](AGENTS.md), e serve tanto para pessoas como para agentes de programação.
 
 ## Publicação

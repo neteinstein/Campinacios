@@ -67,8 +67,6 @@ validation:
     anchors: warn
 
 # The sidebar lists only section pages; every article is reached from them.
-# Written by scripts/mediawiki_to_markdown.py — everything below is replaced.
-# --- nav ---
 nav:
   - "Início": index.md
   - "Acampamentos":
