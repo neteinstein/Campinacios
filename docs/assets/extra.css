@@ -572,6 +572,52 @@
 }
 @keyframes wk-cv-roda { to { transform: rotate(360deg); } }
 
+/* Os dois painéis da configuração: o principal e, à direita, as músicas de
+   uma secção. Abrir uma secção desliza para a direita; «Voltar» regressa. */
+.wk-cv { overflow: hidden; }
+.wk-cv .wk-cv__caixa { overflow: hidden; overflow: clip; padding-right: 0; padding-left: 0; }
+.wk-cv__paineis { display: flex; align-items: flex-start; width: 200%; transition: transform .25s ease; }
+.wk-cv__painel { flex: 0 0 50%; min-width: 0; box-sizing: border-box; padding: 0 1.4rem; }
+.wk-cv__painel--musicas { max-height: 0; overflow: hidden; visibility: hidden; transition: max-height 0s .25s, visibility 0s .25s; }
+.wk-cv--musicas .wk-cv__paineis { transform: translateX(-50%); }
+.wk-cv--musicas .wk-cv__painel--musicas { max-height: none; overflow: visible; visibility: visible; transition: none; }
+.wk-cv--musicas .wk-cv__painel--principal { max-height: 0; overflow: hidden; visibility: hidden; transition: max-height 0s .25s, visibility 0s .25s; }
+.wk-cv__seccao { display: flex; align-items: center; gap: .5rem; }
+.wk-cv__seccao input { width: 1rem; height: 1rem; margin: 0; accent-color: var(--md-primary-fg-color); cursor: pointer; }
+.wk-cv .wk-cv__abrir {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  gap: .3rem;
+  margin-left: -.3rem;
+  padding: .2rem .3rem;
+  border: 0;
+  border-radius: .2rem;
+  background: none;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+.wk-cv .wk-cv__abrir:hover, .wk-cv .wk-cv__abrir:focus-visible { background-color: var(--md-default-fg-color--lightest); }
+.wk-cv .wk-cv__abrir:disabled { cursor: default; background: none; }
+.wk-cv__conta { color: var(--md-default-fg-color--light); font-variant-numeric: tabular-nums; }
+.wk-cv__seta { margin-left: auto; color: var(--md-default-fg-color--light); font-size: 1.1rem; line-height: 1; }
+.wk-cv .wk-cv__voltar, .wk-cv .wk-cv__todas button {
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--md-typeset-a-color);
+  font: inherit;
+  cursor: pointer;
+}
+.wk-cv .wk-cv__voltar { margin-bottom: .5rem; }
+.wk-cv .wk-cv__todas { margin: 0 0 .5rem; }
+.wk-cv__conta-musicas { margin-left: .6rem; color: var(--md-default-fg-color--light); }
+.wk-cv__lista { max-height: min(24rem, 60vh); overflow-y: auto; padding-right: .3rem; }
+.wk-cv__lista p { margin: 0; color: var(--md-default-fg-color--light); }
+@media (prefers-reduced-motion: reduce) { .wk-cv__paineis { transition: none; } }
+
 /* Botões do Cantinácio lado a lado, dois a dois, com espaço entre as linhas. */
 .md-typeset .wk-botoes {
   display: grid;

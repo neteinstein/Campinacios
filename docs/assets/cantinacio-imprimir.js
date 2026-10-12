@@ -264,6 +264,9 @@
           actual.partes.push({ el: limpar(el, url), simplificada: simplificada });
         }
       });
+      // Na configuração podem ter-se tirado algumas músicas da secção.
+      var marcadas = opcoes.musicas && opcoes.musicas[seccao.pagina];
+      if (marcadas) musicas = musicas.filter(function (m, i) { return marcadas[i] !== false; });
       seccao.musicas = musicas.map(function (m) { return versoes(m, opcoes); });
       return seccao;
     });
@@ -1218,8 +1221,9 @@
   // --- Geração -------------------------------------------------------------
 
   // Monta o Cantinácio numa moldura escondida e transforma-o num PDF que se
-  // descarrega. «opcoes»: { seccoes: [páginas escolhidas], originais,
-  // simplificadas, aplausos, manual, escalas }.
+  // descarrega. «opcoes»: { seccoes: [páginas escolhidas], musicas: {página:
+  // [uma marca por música, false = fica de fora]} (também "Aplausos"),
+  // originais, simplificadas, aplausos, manual, escalas }.
   function gerar(base, opcoes, estado) {
     var fontes = new URL("../assets/fontes/", base).href;
     var moldura = document.createElement("iframe");
@@ -1284,6 +1288,31 @@
   var dialogo = null;
   var emCurso = null;  // a geração em curso: { cancelada }
 
+  // As linhas da configuração que se podem abrir para escolher, uma a uma, as
+  // músicas (ou os aplausos) que entram. «chave» é a página lida; «nome» e
+  // «valor» são os da caixa da linha.
+  var LINHAS = ESCOLHAS.map(function (s) {
+    return { chave: s, nome: "seccao", valor: s, rotulo: s, coisas: "músicas" };
+  });
+  var APLAUSOS = { chave: "Aplausos", nome: "aplausos", valor: "1", rotulo: "Incluir Aplausos",
+    painel: "Aplausos", coisas: "aplausos" };
+  var TODAS_AS_LINHAS = LINHAS.concat([APLAUSOS]);
+
+  // O que se lê quando a configuração se abre pela primeira vez: página ->
+  // [títulos] (null se não se conseguiu ler); e o que está escolhido:
+  // página -> [uma marca por música].
+  var listas = {};
+  var marcadas = {};
+
+  function linhaEscolhivel(l) {
+    return '<div class="wk-cv__seccao" data-seccao="' + l.chave + '"' +
+">" +
+      '<input type="checkbox" name="' + l.nome + '" value="' + l.valor + '" checked aria-label="' + l.rotulo + '">' +
+      '<button type="button" class="wk-cv__abrir" aria-label="Escolher os ' + l.coisas + " de " + (l.painel || l.rotulo) + '">' +
+      '<span class="wk-cv__nome">' + l.rotulo + '</span> <span class="wk-cv__conta">(…)</span>' +
+      '<span class="wk-cv__seta" aria-hidden="true">›</span></button></div>';
+  }
+
   function configuracao(base) {
     if (!dialogo || !document.body.contains(dialogo)) {
       dialogo = document.createElement("dialog");
@@ -1292,19 +1321,31 @@
       dialogo.innerHTML =
         '<form class="wk-cv__caixa md-typeset" method="dialog">' +
         '<button type="button" class="wk-cv__fechar" aria-label="Fechar">×</button>' +
+        '<div class="wk-cv__paineis">' +
+        '<div class="wk-cv__painel wk-cv__painel--principal">' +
         '<h2 id="wk-cv-titulo">Configuração do Cantinácio</h2>' +
         "<fieldset><legend>Deve ter músicas de:</legend>" +
-        ESCOLHAS.map(function (s) { return caixa("seccao", s, s); }).join("") +
+        LINHAS.map(linhaEscolhivel).join("") +
         "</fieldset>" +
         '<fieldset><legend class="wk-cv__escondido">Versões e Aplausos</legend>' +
         caixa("originais", "1", "Mostrar versões originais") +
         caixa("simplificadas", "1", "Mostrar versões simplificadas (Cantinácio 2019)") +
-        caixa("aplausos", "1", "Incluir Aplausos") +
+        linhaEscolhivel(APLAUSOS) +
         caixa("manual", "1", "Incluir Manual de Instruções") +
         caixa("escalas", "1", "Incluir Escalas") +
         "</fieldset>" +
         '<button type="submit" class="md-button md-button--primary wk-cv__gerar">Gerar o meu Cantinácio Virtual!</button>' +
         '<p class="wk-cv__estado" role="status" aria-live="polite"></p>' +
+        "</div>" +
+        '<div class="wk-cv__painel wk-cv__painel--musicas">' +
+        '<button type="button" class="wk-cv__voltar">‹ Voltar</button>' +
+        '<h2 class="wk-cv__titulo-musicas"></h2>' +
+        '<p class="wk-cv__todas"><button type="button" data-todas="1">Todas</button> · ' +
+        '<button type="button" data-todas="">Nenhuma</button>' +
+        '<span class="wk-cv__conta-musicas" role="status" aria-live="polite"></span></p>' +
+        '<div class="wk-cv__lista"></div>' +
+        "</div>" +
+        "</div>" +
         "</form>";
       document.body.appendChild(dialogo);
 
@@ -1317,7 +1358,10 @@
         "Nas músicas com duas versões, a do Cantinácio de 2019";
 
       var escolhidas = function () {
-        return Array.prototype.slice.call(form.querySelectorAll('[name="seccao"]:checked'))
+        // Não serve «:checked»: no Chromium não apanha as caixas a meio
+        // (indeterminate), as das secções com só algumas músicas.
+        return Array.prototype.slice.call(form.querySelectorAll('[name="seccao"]'))
+          .filter(function (c) { return c.checked; })
           .map(function (c) { return c.value; });
       };
       var validar = function () {
@@ -1328,6 +1372,126 @@
         estadoEl.textContent = falta;
       };
       form.addEventListener("change", validar);
+
+      // --- Contagem e painel para escolher, uma a uma, o que entra ---
+      var linha = function (k) { return form.querySelector('.wk-cv__seccao[data-seccao="' + k + '"]'); };
+      var definicao = function (k) { return TODAS_AS_LINHAS.filter(function (l) { return l.chave === k; })[0]; };
+      var actualizar = function (k) {
+        var l = linha(k);
+        var caixaK = l.querySelector("input");
+        var conta = l.querySelector(".wk-cv__conta");
+        if (!listas[k]) {
+          conta.textContent = listas[k] === null ? "" : "(…)";
+          return;
+        }
+        var total = marcadas[k].length;
+        var n = marcadas[k].filter(Boolean).length;
+        conta.textContent = "(" + n + "/" + total + ")";
+        l.querySelector(".wk-cv__abrir").title = n + " " + definicao(k).coisas + " escolhidas de " + total;
+        caixaK.checked = n > 0;
+        caixaK.indeterminate = n > 0 && n < total;
+      };
+      var preencher = function (k, itens) {
+        listas[k] = itens;
+        var dentro = linha(k).querySelector("input").checked;
+        marcadas[k] = itens.map(function () { return dentro; });
+        actualizar(k);
+        validar();
+      };
+      var falhou = function (k) { listas[k] = null; actualizar(k); };  // entra tudo
+      var lerLista = function (pagina) {
+        var seccao = SECCOES.filter(function (x) { return x.pagina === pagina; })[0];
+        return ler(Object.assign({}, seccao), base, { originais: true, simplificadas: true });
+      };
+      TODAS_AS_LINHAS.forEach(function (d) {
+        lerLista(d.chave).then(function (r) {
+          preencher(d.chave, r.musicas.map(function (m) { return m.titulo; }));
+        }).catch(function () { falhou(d.chave); });
+      });
+
+      // Marcar ou desmarcar a linha marca ou desmarca tudo o que tem dentro.
+      TODAS_AS_LINHAS.forEach(function (d) {
+        var c = linha(d.chave).querySelector("input");
+        c.addEventListener("change", function () {
+          if (!marcadas[d.chave]) return;
+          marcadas[d.chave] = marcadas[d.chave].map(function () { return c.checked; });
+          actualizar(d.chave);
+        });
+      });
+
+      var lista = dialogo.querySelector(".wk-cv__lista");
+      var contaMusicas = dialogo.querySelector(".wk-cv__conta-musicas");
+      var aberta = null;  // a linha cujo painel está aberto
+      var desenharLista = function () {
+        var k = aberta;
+        var d = definicao(k);
+        dialogo.querySelector(".wk-cv__titulo-musicas").textContent = d.painel || d.rotulo;
+        lista.innerHTML = "";
+        if (!listas[k]) {
+          lista.appendChild(document.createElement("p")).textContent = listas[k] === null ?
+            "Não foi possível ler a lista: entra tudo." : "A ler as " + d.coisas + "…";
+          contaMusicas.textContent = "";
+          return;
+        }
+        listas[k].forEach(function (t, i) {
+          var l = lista.appendChild(document.createElement("label"));
+          l.className = "wk-cv__opcao";
+          var c = l.appendChild(document.createElement("input"));
+          c.type = "checkbox";
+          c.dataset.indice = i;
+          c.checked = marcadas[k][i];
+          l.appendChild(document.createTextNode(" " + t));
+        });
+        contarMusicas();
+      };
+      var contarMusicas = function () {
+        var n = marcadas[aberta].filter(Boolean).length;
+        contaMusicas.textContent = n + " de " + marcadas[aberta].length;
+      };
+      lista.addEventListener("change", function (ev) {
+        var c = ev.target;
+        if (!aberta || !marcadas[aberta] || c.dataset.indice === undefined) return;
+        marcadas[aberta][+c.dataset.indice] = c.checked;
+        actualizar(aberta);
+        contarMusicas();
+      });
+      dialogo.querySelectorAll("[data-todas]").forEach(function (b) {
+        b.addEventListener("click", function () {
+          if (!aberta || !marcadas[aberta]) return;
+          var todas = !!b.dataset.todas;
+          marcadas[aberta] = marcadas[aberta].map(function () { return todas; });
+          lista.querySelectorAll("input").forEach(function (c) { c.checked = todas; });
+          actualizar(aberta);
+          contarMusicas();
+          validar();
+        });
+      });
+      var abrir = function (k) {
+        aberta = k;
+        desenharLista();
+        lista.scrollTop = 0;
+        dialogo.classList.add("wk-cv--musicas");
+        dialogo.querySelector(".wk-cv__voltar").focus({ preventScroll: true });
+      };
+      var voltar = function () {
+        if (!aberta) return;
+        var k = aberta;
+        aberta = null;
+        dialogo.classList.remove("wk-cv--musicas");
+        linha(k).querySelector(".wk-cv__abrir").focus({ preventScroll: true });
+      };
+      // O painel escondido fica fora da caixa: o navegador não a pode deslocar
+      // para o mostrar (ao pôr o foco num dos seus botões, por exemplo).
+      form.addEventListener("scroll", function () { form.scrollLeft = 0; });
+      dialogo.voltarAoPrincipal = function () { aberta = null; dialogo.classList.remove("wk-cv--musicas"); };
+      form.querySelectorAll(".wk-cv__abrir").forEach(function (b) {
+        b.addEventListener("click", function () { abrir(b.closest(".wk-cv__seccao").dataset.seccao); });
+      });
+      dialogo.querySelector(".wk-cv__voltar").addEventListener("click", voltar);
+      // A tecla Esc, no painel das músicas, volta atrás em vez de fechar.
+      dialogo.addEventListener("cancel", function (ev) {
+        if (aberta) { ev.preventDefault(); voltar(); }
+      });
 
       var fechar = function () { dialogo.close(); };
       dialogo.querySelector(".wk-cv__fechar").addEventListener("click", fechar);
@@ -1342,13 +1506,14 @@
         var esta = emCurso = { cancelada: false };
         var opcoes = {
           seccoes: escolhidas(),
+          musicas: marcadas,
           originais: form.originais.checked,
           simplificadas: form.simplificadas.checked,
           aplausos: form.aplausos.checked,
           manual: form.manual.checked,
           escalas: form.escalas.checked
         };
-        var campos = form.querySelectorAll("input, .wk-cv__gerar");
+        var campos = form.querySelectorAll("input, .wk-cv__gerar, .wk-cv__abrir");
         campos.forEach(function (c) { c.disabled = true; });
         dialogo.classList.add("wk-cv--a-gerar");
         var estado = function (t) {
@@ -1370,7 +1535,10 @@
     }
     dialogo.dataset.base = base;
     if (!emCurso) dialogo.validar();
-    if (!dialogo.open) dialogo.showModal();
+    if (!dialogo.open) {
+      dialogo.voltarAoPrincipal();
+      dialogo.showModal();
+    }
   }
 
   function iniciar() {
