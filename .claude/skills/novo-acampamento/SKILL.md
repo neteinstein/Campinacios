@@ -7,8 +7,7 @@ description: Add a camp (acampamento) to the Wikinácios site in this repo and v
 
 The site is plain Markdown built by MkDocs. Nothing generates the lists of
 camps: the old wiki's converter wrote them once and they are kept by hand
-since (never re-run `scripts/mediawiki_to_markdown.py`; it would regenerate
-`docs/` from the 2010 backup and erase every later edit). A camp page that
+since. A camp page that
 is missing from a list still builds — `mkdocs build --strict` only catches
 broken links — it just can't be found. So every camp edit ends with the
 validator below.

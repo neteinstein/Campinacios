@@ -2,11 +2,10 @@
 """Reconstrói docs/assets/graph.json (o grafo de docs/Grafo.md) a partir das
 páginas de docs/.
 
-O grafo foi criado uma única vez por scripts/mediawiki_to_markdown.py, a
-partir da cópia de 2010, e desde então as páginas novas e as ligações novas
-não entravam nele. Este script lê os .md actuais e volta a escrever o
-ficheiro no mesmo formato, sem correr o conversor (que apagaria as edições
-posteriores).
+O grafo foi criado uma única vez pelo conversor da wiki antiga, a partir
+da cópia de 2010, e desde então as páginas novas e as ligações novas não
+entravam nele. Este script lê os .md actuais e volta a escrever o ficheiro
+no mesmo formato.
 
 Regras (as mesmas do conversor):
   * nós: as páginas de Acampamentos/, Cargos/, Encontros/, Movimento/ e
@@ -39,8 +38,11 @@ GRAFO = DOCS / 'assets' / 'graph.json'
 # Pastas cujas páginas são nós do grafo.
 PASTAS = ('Acampamentos', 'Cargos', 'Encontros', 'Movimento', 'Pessoas',
           'Restrito')
+# Secções geradas: cortam-se até ao título seguinte, porque pode haver
+# secções escritas à mão depois delas (por exemplo «Relatório de Campo»).
 CORTE = re.compile(r'^## (?:Pessoas com este cargo|'
-                   r'Participantes que se tornaram animadores)$', re.M)
+                   r'Participantes que se tornaram animadores)\n'
+                   r'.*?(?=^#{1,2} |\Z)', re.M | re.S)
 LIGACAO = re.compile(r'\]\((<[^>]*>|[^)\s]*)')
 
 
@@ -65,7 +67,7 @@ def titulo(caminho):
 def destinos(caminho, existentes):
     """Ids das páginas para onde o corpo de `caminho` liga."""
     texto = caminho.read_text(encoding='utf-8')
-    texto = CORTE.split(texto)[0]
+    texto = CORTE.sub('', texto)
     texto = re.sub(r'`[^`\n]*`', '', texto)  # exemplos de código não contam
     saida = set()
     for alvo in LIGACAO.findall(texto):

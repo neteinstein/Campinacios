@@ -1,6 +1,6 @@
 // Interactive link graph for docs/Grafo.md. Self-contained: a small force
 // layout drawn on a canvas, fed by assets/graph.json (written by
-// scripts/mediawiki_to_markdown.py).
+// scripts/actualizar_grafo.py).
 (function () {
   "use strict";
 
