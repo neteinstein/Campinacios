@@ -1,0 +1,42 @@
+name: Verificar Recentes
+
+# Depois de cada publicação feita por um pull request integrado, confirma que a
+# página Recentes no ar mostra as páginas que ele mexeu e as issues que fecha
+# (skill refrescar-recentes). Se faltarem páginas, volta a publicar o site uma
+# vez; essa nova publicação (workflow_dispatch) já não é verificada aqui, por
+# isso não há ciclos. Corre à parte da «Publicar site» para não a atrasar
+# enquanto espera pela cache do GitHub Pages (até 10 minutos).
+on:
+  workflow_run:
+    workflows: ["Publicar site"]
+    types: [completed]
+
+permissions:
+  contents: read
+  issues: read
+  pull-requests: read
+  actions: write  # para voltar a publicar
+
+jobs:
+  recentes:
+    if: github.event.workflow_run.event == 'push' && github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.event.workflow_run.head_sha }}
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - name: Confirmar a página Recentes publicada
+        env:
+          GH_TOKEN: ${{ github.token }}
+          MENSAGEM: ${{ github.event.workflow_run.head_commit.message }}
+        run: |
+          numero=$(printf '%s\n' "$MENSAGEM" | sed -n 's/^Merge pull request #\([0-9]*\).*/\1/p; s/.*(#\([0-9]*\))$/\1/p' | head -n1)
+          if [ -z "$numero" ]; then
+            echo "Push directo no main, sem pedido: nada a verificar."
+            exit 0
+          fi
+          python3 .claude/skills/refrescar-recentes/scripts/verificar_recentes.py "$numero" \
+            --na-action --tentativas 12 --publicar
