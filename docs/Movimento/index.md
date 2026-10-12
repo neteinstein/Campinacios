@@ -38,5 +38,6 @@ História, organização, colégios, manuais e outros artigos sobre o movimento.
 - [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
 - [Roda](Roda.md)
 - [Serão](Ser%C3%A3o.md)
+- [Sistema de Protecção e Cuidado](Sistema%20de%20Protec%C3%A7%C3%A3o%20e%20Cuidado.md)
 - [Temas do Ano](Temas%20do%20Ano.md)
 - [Vocabulário](Vocabul%C3%A1rio.md)
