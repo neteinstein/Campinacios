@@ -1,6 +1,6 @@
 ---
 name: refrescar-recentes
-description: Garantir que a página Recentes do site (https://campinacios.pedrovicente.pt/Recentes.html, gerada por scripts/actualizar_recentes.py) fica refrescada a cada pull request do Wikinácios — antes de abrir o pedido, confirmar que as páginas mexidas entram na lista; depois de integrado no main, confirmar que a Action «Publicar site» correu e que a página publicada mostra as páginas com esse pedido, e voltar a publicar se não mostrar. Usar sempre que se abre, actualiza ou integra um pull request que mexe em docs/, quando alguém diz "a página Recentes não mostra o meu pedido", "refresca os Recentes", "o site não está actualizado" ou semelhante, e quando se mexe em scripts/actualizar_recentes.py ou em .github/workflows/pages.yml.
+description: Garantir que a página Recentes do site (https://campinacios.pedrovicente.pt/Recentes.html, gerada por scripts/actualizar_recentes.py) fica refrescada e certa a cada pull request do Wikinácios — um commit por issue com «(issue #N)», um «Closes #N» por issue, e logo a seguir a abrir o pedido confirmar que as páginas e as issues entram na lista; depois de integrado no main, confirmar que a Action «Publicar site» correu e que a página publicada mostra as páginas com esse pedido, e voltar a publicar se não mostrar. Usar sempre que se abre, actualiza ou integra um pull request que mexe em docs/, quando alguém diz "a página Recentes não mostra o meu pedido", "refresca os Recentes", "o site não está actualizado" ou semelhante, e quando se mexe em scripts/actualizar_recentes.py, em .github/workflows/pages.yml ou em .github/workflows/verificar-recentes.yml.
 ---
 
 # Refrescar a página Recentes a cada pedido
@@ -16,10 +16,35 @@ cada pull request integrado.
 O que pode correr mal, e que este skill apanha:
 
 - a alteração não ficou num commit (a página não aparece na lista);
+- os commits não referem as issues (`(issue #N)`), ou juntam várias issues
+  num só commit, e a coluna «Pedidos» fica vazia ou errada;
 - a Action não correu, falhou ou foi cancelada depois da integração;
 - a página foi publicada sem o histórico completo ou sem `GH_TOKEN`
   (faltam o pedido ou os autores);
-- o site no ar ainda mostra a versão anterior.
+- o site no ar ainda mostra a versão anterior (o GitHub Pages guarda as
+  páginas em cache durante 10 minutos).
+
+## Regras
+
+1. **Um commit por issue**, com `(issue #N)` na mensagem e só as páginas
+   dessa issue. Uma página de várias issues vai num commit que as refere
+   todas (`(issues #290 e #293)`); as listas partilhadas (índices,
+   categorias, `Todos os artigos`, grafo, Contribuidores) num commit final
+   sem issue. Um intervalo («issues #276 a #299») é ignorado pelo script,
+   porque não diz que issue mexeu em que página. Se o pedido fecha uma só
+   issue, os commits sem issue ficam com ela.
+2. **Um `Closes #N` por issue** na descrição do pedido.
+3. **Logo a seguir a abrir o pedido**, `verificar_recentes.py <N>` tem de
+   passar (secção 1).
+4. **Depois da integração**, a Action «Verificar Recentes»
+   (`.github/workflows/verificar-recentes.yml`) corre sozinha quando a
+   «Publicar site» termina: lê a página no ar (sem cache) até 12 minutos,
+   confirma as páginas e as issues do pedido e, se faltarem páginas, volta a
+   publicar uma vez. Uma execução vermelha é para ler e corrigir (secção 2).
+5. **O topo da página** diz quando foi gerada e até que pedido vai
+   («Actualizada a …, até ao pedido #N»). Quem diz que a página «não está
+   actualizada» deve ver primeiro esse número: se é o último pedido
+   integrado, é só a cache do navegador ou do GitHub Pages.
 
 ## 1. Antes de abrir (ou actualizar) o pull request
 
@@ -56,7 +81,8 @@ Sem número, verifica o último pedido integrado no `main`. O script:
 3. lê a página publicada e confirma que cada página aparece com esse pedido
    — ou com um pedido integrado depois, que a voltou a mexer.
 
-Sai com 0 se estiver tudo publicado. Se faltar alguma coisa, corra de novo
+Confirma também que cada issue do `Closes` aparece em alguma página. Sai
+com 0 se estiver tudo publicado. Se faltar alguma coisa, corra de novo
 com `--publicar`: lança outra vez a Action no `main`
 (`gh workflow run pages.yml --ref main`). Espere que termine e verifique
 de novo. Se a Action falhar, leia o registo (`gh run view <id> --log-failed`)
@@ -65,8 +91,8 @@ e corrija a causa — quase sempre uma ligação partida que o
 
 ## 3. Quando se mexe na própria página
 
-Se a alteração é a `scripts/actualizar_recentes.py` ou a
-`.github/workflows/pages.yml`:
+Se a alteração é a `scripts/actualizar_recentes.py`, a
+`.github/workflows/pages.yml` ou a `.github/workflows/verificar-recentes.yml`:
 
 - o workflow tem de manter `fetch-depth: 0` no checkout, `GH_TOKEN` no passo
   do script e as permissões `issues: read` e `pull-requests: read`;

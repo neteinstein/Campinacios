@@ -11,8 +11,17 @@ Para cada pedido indicado (por omissão, o último integrado no main):
   mexida com esse pedido (ou com um pedido integrado depois, que a voltou a
   mexer). Com --publicar, volta a correr a Action quando falta alguma coisa.
 
+Em ambos os casos confirma também que cada issue que o pedido fecha
+(«Closes #N» na descrição) aparece em pelo menos uma página: se não
+aparece, os commits não a referem («(issue #N)» na mensagem).
+
+A própria Action «Publicar site» corre-o depois de publicar, com
+--na-action (não procura a execução, que é ela própria) e --tentativas
+(volta a ler a página enquanto a cache do GitHub Pages não a mostrar).
+
 Uso:
     python3 .claude/skills/refrescar-recentes/scripts/verificar_recentes.py [N ...] [--publicar] [--esperar]
+    python3 .claude/skills/refrescar-recentes/scripts/verificar_recentes.py N --na-action --tentativas 10
 
 Sai com 0 se está tudo publicado, com 1 se falta alguma coisa.
 """
@@ -21,6 +30,7 @@ import json
 import re
 import subprocess
 import sys
+import time
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -43,7 +53,14 @@ def gh(*args):
 
 def pedido(numero):
     return json.loads(gh('pr', 'view', str(numero), '--json',
-                         'number,state,files,mergeCommit,mergedAt'))
+                         'number,state,files,mergeCommit,mergedAt,closingIssuesReferences,body'))
+
+
+def issues_fechadas(dados):
+    """As issues que o pedido fecha (as que o GitHub reconheceu e as da descrição)."""
+    numeros = [str(i['number']) for i in dados.get('closingIssuesReferences') or []]
+    numeros += recentes.FECHA.findall(dados.get('body') or '')
+    return sorted(set(numeros), key=int)
 
 
 def ultimo_integrado():
@@ -67,32 +84,53 @@ def paginas(dados):
     return resultado
 
 
+ISSUES_NA_LINHA = {}  # endereço da página -> [issues], da última leitura
+
+
 def linhas_publicadas():
-    """{endereço da página: [números dos pedidos na linha]} da página no ar."""
-    pedido_http = urllib.request.Request(SITE, headers={'Cache-Control': 'no-cache'})
+    """{endereço da página: [números dos pedidos na linha]} da página no ar.
+    O GitHub Pages guarda as páginas em cache 10 minutos: um parâmetro novo
+    no endereço obriga a ler a versão publicada."""
+    endereco_site = f'{SITE}?v={int(time.time())}'
+    pedido_http = urllib.request.Request(endereco_site, headers={'Cache-Control': 'no-cache'})
     with urllib.request.urlopen(pedido_http, timeout=30) as resposta:
         html = resposta.read().decode('utf-8')
     linhas = {}
+    ISSUES_NA_LINHA.clear()
     for linha in re.findall(r'<tr>(.*?)</tr>', html, re.S):
         endereco = re.search(r'<td><a href="([^"]+)"', linha)
         if endereco:
             linhas[endereco.group(1)] = re.findall(r'/pull/(\d+)"', linha)
+            ISSUES_NA_LINHA[endereco.group(1)] = re.findall(r'/issues/(\d+)"', linha)
     return linhas
+
+
+def verificar_issues(fechadas, presentes):
+    """Cada issue que o pedido fecha tem de aparecer em alguma página."""
+    falta = [n for n in fechadas if n not in presentes]
+    for n in falta:
+        print(f'  ✗ a issue #{n} não aparece em nenhuma página: faça um commit por '
+              f'issue, com «(issue #{n})» na mensagem')
+    return not falta
 
 
 def endereco(rel):
     return urllib.parse.quote(rel.with_suffix('.html').as_posix())
 
 
-def verificar_local(numero, mexidas):
-    listadas = {rel for _, rel, *_ in recentes.ultimas()}
+def verificar_local(numero, mexidas, fechadas):
+    geradas = recentes.ultimas()
+    listadas = {rel for _, rel, *_ in geradas}
+    presentes = {n for _, rel, _, issues, _ in geradas if rel in mexidas for n in issues}
+    if len(fechadas) == 1:  # depois da junção, a issue única do pedido vai para todas
+        presentes |= set(fechadas)
     falta = [rel for rel in mexidas if rel not in listadas]
     for rel in falta:
         print(f'  ✗ {rel}: não aparece na lista gerada (falta um commit?)')
     if not falta:
         print(f'  ✓ as {len(mexidas)} páginas aparecem na lista gerada; '
               'depois da integração, corra de novo com este número.')
-    return not falta
+    return verificar_issues(fechadas, presentes) and not falta
 
 
 def execucao(sha):
@@ -101,9 +139,12 @@ def execucao(sha):
     return lista[0] if lista else None
 
 
-def verificar_publicado(dados, mexidas, publicar, esperar):
+def verificar_publicado(dados, mexidas, fechadas, publicar, esperar, na_action, tentativas):
     numero, sha = dados['number'], dados['mergeCommit']['oid']
-    corrida = execucao(sha)
+    if na_action:
+        corrida = {'status': 'completed', 'conclusion': 'success', 'databaseId': 'esta'}
+    else:
+        corrida = execucao(sha)
     if corrida and corrida['status'] != 'completed' and esperar:
         gh('run', 'watch', str(corrida['databaseId']), '--exit-status')
         corrida = execucao(sha)
@@ -116,11 +157,25 @@ def verificar_publicado(dados, mexidas, publicar, esperar):
     elif corrida['conclusion'] != 'success':
         print(f'  ✗ a Action «Publicar site» terminou com '
               f'«{corrida["conclusion"]}» (execução {corrida["databaseId"]})')
-    publicadas = linhas_publicadas()
+    for tentativa in range(max(tentativas, 1)):
+        publicadas = linhas_publicadas()
+        if all(str(numero) in (publicadas.get(endereco(rel)) or []) for rel in mexidas):
+            break
+        if tentativa + 1 < tentativas:
+            print(f'  … a página publicada ainda não mostra o #{numero}; nova leitura em 60 s')
+            time.sleep(60)
+    # A lista só tem as 100 páginas mais recentes: com ela cheia e já com este
+    # pedido (ou um posterior), uma página que falta saiu por ser mais antiga.
+    no_ar = {n for ns in publicadas.values() for n in ns}
+    chegou = str(numero) in no_ar or any(
+        pedido(n).get('mergedAt', '') > dados['mergedAt'] for n in no_ar if int(n) != numero)
+    cheia = len(publicadas) >= recentes.LIMITE
     falta = []
     for rel in mexidas:
         numeros = publicadas.get(endereco(rel))
-        if numeros is None:
+        if numeros is None and cheia and chegou:
+            print(f'  ✓ {rel}: já saiu da lista (só entram as {recentes.LIMITE} mais recentes)')
+        elif numeros is None:
             falta.append(rel)
             print(f'  ✗ {rel}: não aparece na página publicada')
         elif str(numero) not in numeros:
@@ -130,10 +185,17 @@ def verificar_publicado(dados, mexidas, publicar, esperar):
             else:
                 falta.append(rel)
                 print(f'  ✗ {rel}: aparece com {"#" + outro if outro else "outro pedido"}')
-    ok = not falta and corrida and corrida['conclusion'] == 'success'
+    presentes = {n for rel in mexidas for n in ISSUES_NA_LINHA.get(endereco(rel), [])}
+    na_lista = [rel for rel in mexidas if str(numero) in (publicadas.get(endereco(rel)) or [])]
+    if not na_lista:
+        fechadas = []  # nenhuma página ainda com este pedido: nada a dizer das issues
+    ok = (verificar_issues(fechadas, presentes) and not falta and corrida
+          and corrida['conclusion'] == 'success')
     if ok:
-        print(f'  ✓ as {len(mexidas)} páginas estão na página publicada')
-    elif publicar:
+        print(f'  ✓ a página publicada está certa para as {len(mexidas)} páginas do pedido')
+    elif publicar and (falta or not corrida or corrida['conclusion'] != 'success'):
+        # Só vale a pena publicar de novo se faltam páginas; issues por
+        # referir nos commits não se resolvem assim.
         gh('workflow', 'run', WORKFLOW, '--ref', 'main')
         print('  → Action «Publicar site» lançada de novo no main; '
               'volte a verificar quando terminar.')
@@ -147,6 +209,10 @@ def main():
                             help='voltar a correr a Action se faltar alguma coisa')
     argumentos.add_argument('--esperar', action='store_true',
                             help='esperar que a Action em curso termine')
+    argumentos.add_argument('--na-action', action='store_true',
+                            help='corre dentro da Action «Publicar site»: não procura a execução')
+    argumentos.add_argument('--tentativas', type=int, default=1,
+                            help='quantas vezes ler a página publicada, um minuto entre cada')
     args = argumentos.parse_args()
     tudo_bem = True
     for numero in args.pedidos or [ultimo_integrado()]:
@@ -156,10 +222,12 @@ def main():
         if not mexidas:
             print('  ✓ não mexe em páginas que entrem na lista')
             continue
+        fechadas = issues_fechadas(dados)
         if dados['state'] == 'MERGED':
-            tudo_bem &= verificar_publicado(dados, mexidas, args.publicar, args.esperar)
+            tudo_bem &= verificar_publicado(dados, mexidas, fechadas, args.publicar,
+                                            args.esperar, args.na_action, args.tentativas)
         else:
-            tudo_bem &= verificar_local(numero, mexidas)
+            tudo_bem &= verificar_local(numero, mexidas, fechadas)
     sys.exit(0 if tudo_bem else 1)
 
 
