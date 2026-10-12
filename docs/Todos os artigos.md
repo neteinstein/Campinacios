@@ -1465,6 +1465,7 @@
 - [Sílvio Gonçalves](Pessoas/S/S%C3%ADlvio%20Gon%C3%A7alves.md)
 - [SimBasta](Acampamentos/2019/SimBasta.md)
 - [Sinfonia](Acampamentos/2021/Sinfonia.md)
+- [Sistema de Protecção e Cuidado](Movimento/Sistema%20de%20Protec%C3%A7%C3%A3o%20e%20Cuidado.md)
 - [Sobe d'Andar](Acampamentos/2021/Sobe%20d%27Andar.md)
 - [Sofia Amaral](Pessoas/S/Sofia%20Amaral.md)
 - [Sofia Ângelo](Pessoas/S/Sofia%20%C3%82ngelo.md)
