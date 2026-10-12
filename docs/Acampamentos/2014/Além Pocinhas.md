@@ -5,6 +5,7 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [António Pimenta](../../Pessoas/A/Ant%C3%B3nio%20Pimenta.md)
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Carvalho](../../Pessoas/C/Carlos%20Carvalho.md) sj
 
 ---
 

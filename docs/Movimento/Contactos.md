@@ -1,18 +1,22 @@
 # Contactos
 
+## Campinácios
+
+- Geral: geral@campinacios.pt
+- Direcção Local do Colégio São João de Brito: dl.csjb@campinacios.pt
+- Direcção Local do Colégio das Caldinhas: dl.cc@campinacios.pt
+- Angariação de Fundos: angariacao.fundos@campinacios.pt
+- Sistema de Protecção e Cuidado de menores e adultos vulneráveis: spc@campinacios.pt
+
 ## Colégio das Caldinhas
 
-Colégio - Geral@colegiodascaldinhas.pt
+Colégio - geral@colegiodascaldinhas.pt
 
-Campinácios
-
-Apartado 1 - Caldas da Saúde
+Rua do Instituto Nun'Alvres, 54
 
 4784-907 Areias - Santo Tirso
 
 Telef.: 252 830 900
-
-Fax: 252 830 999
 
 URL: http://www.colegiodascaldinhas.pt
 
@@ -20,15 +24,11 @@ URL: http://www.colegiodascaldinhas.pt
 
 Colégio - geral@csjb.pt
 
-Campinácios
-
 Estrada da Torre, 28
 
 1769-004 Lisboa
 
 Telef.: 217 519 000
-
-Fax: 217 599 835
 
 URL: http://www.csjb.pt
 

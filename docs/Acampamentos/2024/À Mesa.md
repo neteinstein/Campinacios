@@ -1,6 +1,6 @@
 # À Mesa
 
-**À Mesa** foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) realizado em 2024. O tema do ano foi *Fica connosco*.
+**À Mesa** foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) realizado em 2024 em [Sequeiros (Braga)](../../Restrito/Locais%20de%20Acampamento/Sequeiros%20%28Braga%29.md). O tema do ano foi *Fica connosco*.
 
 ### Animadores
 
@@ -8,6 +8,7 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Maria Silva](../../Pessoas/M/Maria%20Silva.md) (Malú)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Miguel Teixeira](../../Pessoas/M/Miguel%20Teixeira.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Afonso Espregueira](../../Pessoas/A/Afonso%20Espregueira.md) sj
+- [Tia](../../Cargos/Tio.md) - [Beatriz Mesquita](../../Pessoas/B/Beatriz%20Mesquita.md)
 
 ---
 

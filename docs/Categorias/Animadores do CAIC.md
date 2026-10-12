@@ -2,7 +2,7 @@
 
 Animadores do Colégio da Imaculada Conceição
 
-## Páginas nesta categoria (111)
+## Páginas nesta categoria (112)
 
 - [Alexandra Silva](../Pessoas/A/Alexandra%20Silva.md)
 - [Ana Carolina Santos](../Pessoas/A/Ana%20Carolina%20Santos.md)
@@ -42,6 +42,7 @@ Animadores do Colégio da Imaculada Conceição
 - [Gonçalo Vaz Pedro](../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md)
 - [Guilherme Balhau](../Pessoas/G/Guilherme%20Balhau.md)
 - [Gustavo Gapo](../Pessoas/G/Gustavo%20Gapo.md)
+- [Heitor Rosa](../Pessoas/H/Heitor%20Rosa.md)
 - [Hugo Rafael Ferreira](../Pessoas/H/Hugo%20Rafael%20Ferreira.md)
 - [Hugo Silva](../Pessoas/H/Hugo%20Silva.md)
 - [Inês Oliveira](../Pessoas/I/In%C3%AAs%20Oliveira.md)

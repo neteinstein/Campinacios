@@ -7,7 +7,7 @@
 - [Director](../../Cargos/Director.md) - [Alexandre Alípio](../../Pessoas/A/Alexandre%20Al%C3%ADpio.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Beatriz Maia](../../Pessoas/B/Beatriz%20Maia.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Carmo Ribeiro Corrêa](../../Pessoas/C/Carmo%20Ribeiro%20Corr%C3%AAa.md)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - Ana Mendonça (Yana), Luís Boavida, [Carolina Picciochi](../../Pessoas/C/Carolina%20Picciochi.md) (Pitxi), [Sebastião Caldas](../../Pessoas/S/Sebasti%C3%A3o%20Caldas.md) e Manuel Vasconcelos (Manas)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Ana Mendonça](../../Pessoas/A/Ana%20Mendon%C3%A7a.md) (Yana), [Luís Boavida](../../Pessoas/L/Lu%C3%ADs%20Boavida.md), [Carolina Picciochi](../../Pessoas/C/Carolina%20Picciochi.md) (Pitxi), [Sebastião Caldas](../../Pessoas/S/Sebasti%C3%A3o%20Caldas.md) e Manuel Vasconcelos (Manas)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Vasco Lucas Pires](../../Pessoas/V/Vasco%20Lucas%20Pires.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md) sj
 
@@ -18,6 +18,7 @@ Ana Isabel Martins, Beatriz Sobral, Leonor Dias, Margarida Ferreira, Gabriel Pon
 ## Participantes que se tornaram animadores
 
 - [Ana Isabel Martins](../../Pessoas/A/Ana%20Isabel%20Martins.md)
+- [Madalena Vale](../../Pessoas/M/Madalena%20Vale.md)
 - [Mariana Cortez](../../Pessoas/M/Mariana%20Cortez.md)
 - [Pedro Oliveira](../../Pessoas/P/Pedro%20Oliveira.md)
 

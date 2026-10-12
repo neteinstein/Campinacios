@@ -1,5 +1,7 @@
 # Joana Costa
 
+*Nota: Este artigo é sobre Joana Costa, animadora do CC de 2006 a 2011. Se procura Joana Costa (2021), que fez a formação de animadores na Prega Fundo em 2021, consulte [Joana Costa (2021)](Joana%20Costa%20%282021%29.md).*
+
 Joana Costa nasceu a 31 de Outubro de 1990.
 
 Frequentou o CC de 2002 a 2008. Animadora desde 2008 até hoje.

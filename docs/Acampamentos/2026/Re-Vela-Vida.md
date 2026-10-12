@@ -8,7 +8,7 @@ O **Re-Vela-Vida** foi um acampamento de [Lambretas](../../Categorias/Lambretas.
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Bea Mesquita](../../Pessoas/B/Beatriz%20Mesquita.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Rui Duarte](../../Pessoas/R/Rui%20Duarte.md)
 - [Tia](../../Cargos/Tio.md) - Luísa Faria (Lu), Cata Silveira
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Rita Caeiro, Jéssica Barra, Maria Dias Rodrigues, Inês Guimarães, Diogo Rêgo, Lourenço Matias (Ló) e António Almeida (Toni)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Rita Caeiro, [Jéssica Barra](../../Pessoas/J/J%C3%A9ssica%20Barra.md), Maria Dias Rodrigues, Inês Guimarães, Diogo Rêgo, [Lourenço Matias](../../Pessoas/L/Louren%C3%A7o%20Matias.md) (Ló) e [António Almeida](../../Pessoas/A/Ant%C3%B3nio%20Almeida.md) (Toni)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Carvalho](../../Pessoas/C/Carlos%20Carvalho.md) sj
 - [Capelinho](../../Cargos/Capelinho.md) - [Diogo Martins](../../Pessoas/D/Diogo%20Martins.md) nsj
 

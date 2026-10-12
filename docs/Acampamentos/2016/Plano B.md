@@ -6,6 +6,11 @@
 
 - [Director](../../Cargos/Director.md) - [Miguel França Martins](../../Pessoas/M/Miguel%20Fran%C3%A7a%20Martins.md)
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - [Sara Moinhos](../../Pessoas/S/Sara%20Moinhos.md)
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Carvalho](../../Pessoas/C/Carlos%20Carvalho.md) sj
+
+## Participantes que se tornaram animadores
+
+- [Heitor Rosa](../../Pessoas/H/Heitor%20Rosa.md)
 
 ---
 

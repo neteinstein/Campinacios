@@ -8,9 +8,11 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Maria Fontes](../../Pessoas/M/Maria%20Fontes.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Henrique Mota Amaral](../../Pessoas/H/Henrique%20Mota%20Amaral.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Frederico Cardoso de Lemos](../../Pessoas/F/Frederico%20Cardoso%20de%20Lemos.md) sj
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Heitor Rosa](../../Pessoas/H/Heitor%20Rosa.md)
 
 ## Participantes que se tornaram animadores
 
+- [Beatriz Mesquita](../../Pessoas/B/Beatriz%20Mesquita.md)
 - [Daniela Gonçalves](../../Pessoas/D/Daniela%20Gon%C3%A7alves.md)
 
 ---

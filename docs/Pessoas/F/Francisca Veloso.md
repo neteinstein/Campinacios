@@ -16,6 +16,7 @@ Francisca Veloso, conhecida por Tita, é animadora do [CAIC](../../Categorias/An
 
 ### Encontros
 
+- 2023 [Rockstock 2023](../../Encontros/Rockstock%202023.md) - Equipa de animação
 - 2024 [Encontro Nacional 2024](../../Encontros/Encontro%20Nacional%202024.md) - Directora
 
 ---

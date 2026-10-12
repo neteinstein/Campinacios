@@ -4,7 +4,7 @@
 
 ### Animadores
 
-- [Director](../../Cargos/Director.md) - [Duda](../../Pessoas/D/Duda.md)
+- [Director](../../Cargos/Director.md) - [Duda](../../Pessoas/D/Domingos%20Freire%20de%20Andrade.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Rita Fonseca](../../Pessoas/R/Rita%20Fonseca.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Miguel Falcão Ramos](../../Pessoas/M/Miguel%20Falc%C3%A3o%20Ramos.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Vera Pina](../../Pessoas/V/Vera%20Pina.md), [Francisco Maia](../../Pessoas/F/Francisco%20Maia.md), [Gonçalo Costa](../../Pessoas/G/Gon%C3%A7alo%20Costa.md) e [Sara Moinhos](../../Pessoas/S/Sara%20Moinhos.md)

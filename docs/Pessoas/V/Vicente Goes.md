@@ -14,6 +14,10 @@
     - 2019 [Chama de Novo](../../Acampamentos/2019/Chama%20de%20Novo.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2026 [Sande Help](../../Acampamentos/2026/Sande%20Help.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
+### Encontros
+
+- 2019 [Rockstock 2019](../../Encontros/Rockstock%202019.md) - Equipa de animação
+
 ---
 
 | Categorias |

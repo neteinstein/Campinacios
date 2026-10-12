@@ -8,6 +8,10 @@
     - 2023 [De Todas as Fôrmas](../../Acampamentos/2023/De%20Todas%20as%20F%C3%B4rmas.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2024 [ParTijolo](../../Acampamentos/2024/ParTijolo.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
+### Encontros
+
+- 2022 [Rockstock 2022](../../Encontros/Rockstock%202022.md) - Equipa de animação
+
 ---
 
 | Categorias |

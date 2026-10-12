@@ -1,5 +1,7 @@
 # Carmo Ribeiro Corrêa
 
+*Nota: Este artigo é sobre Carmo Ribeiro Corrêa (Chumi), animadora do CSJB. Se procura Maria do Carmo Ribeiro (Chumi), animadora do Rockstock 2022, consulte [Maria do Carmo Ribeiro](../M/Maria%20do%20Carmo%20Ribeiro.md). Se procura Chumi (Carmo Castelo Branco), Mamã do Sinfonia 2021, consulte [Chumi](Chumi.md).*
+
 ### Acampamentos
 
 - **Animador(a):**

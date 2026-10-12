@@ -3,6 +3,7 @@
 ### Acampamentos
 
 - **Animador(a):**
+    - 2021 [Superfishie](../../Acampamentos/2021/Superfishie.md) - [Tia](../../Cargos/Tio.md)
     - 2022 [Limpo Pó](../../Acampamentos/2022/Limpo%20P%C3%B3.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2023 [Pó que Voo](../../Acampamentos/2023/P%C3%B3%20que%20Voo.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2024 [Com Capricho](../../Acampamentos/2024/Com%20Capricho.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
@@ -15,6 +16,7 @@
 
 ### Encontros
 
+- 2022 [Rockstock 2022](../../Encontros/Rockstock%202022.md) - Equipa de animação
 - 2023 [Encontro Nacional 2023](../../Encontros/Encontro%20Nacional%202023.md) - Mamã
 - 2024 [Encontro Nacional 2024](../../Encontros/Encontro%20Nacional%202024.md) - Directora de Triciclos
 
