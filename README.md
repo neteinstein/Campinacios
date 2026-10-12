@@ -146,4 +146,4 @@ Os locais de acampamento (com as indicações e os contactos) e os relatórios d
 - Sobre o movimento: [Contactos](docs/Movimento/Contactos.md)
 - Sobre o site: [Pedro Vicente](https://www.pedrovicente.pt/pt#contact)
 
-<p align="center"><sub>Feito com carinho por animadores, para animadores. Uma salva de palmas a todos os <a href="docs/Wikin%C3%A1cios/Contribuidores.md">Contribuidores</a>! 👏</sub></p>
+<p align="center"><sub>Feito com carinho por animadores (<a href="docs/Wikin%C3%A1cios/Contribuidores.md">contribuidores</a>), para animadores. UM CARAMELO, OLÉ, DOIS CARAMELOS, OLÉ..</sub></p>
