@@ -144,8 +144,6 @@ nav:
     - "X": Pessoas/X/index.md
     - "Z": Pessoas/Z/index.md
   - "Locais": Restrito/Locais de Acampamento/index.md
-  - "Sobre":
-    - Wikinácios/index.md
-    - "Conteúdos": Wikinácios/Conteúdos.md
+  - "SPC": Movimento/Sistema de Protecção e Cuidado.md
   - "Todos os artigos": Todos os artigos.md
   - "Grafo": Grafo.md
