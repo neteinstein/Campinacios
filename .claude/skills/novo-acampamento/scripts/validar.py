@@ -3,7 +3,7 @@
 tem de aparecer.
 
 O MkDocs não constrói estas listas: são Markdown simples, escritas uma vez
-por scripts/mediawiki_to_markdown.py e mantidas à mão desde então. Uma
+pelo conversor da wiki antiga e mantidas à mão desde então. Uma
 página de campo que falte nelas continua a ser publicada (o mkdocs --strict
 só apanha ligações partidas), mas ninguém a encontra.
 
