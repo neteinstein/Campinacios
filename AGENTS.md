@@ -66,9 +66,7 @@ matching work:
 
 Run whichever of the validators above apply to what changed, then
 `mkdocs build --strict` (it only catches broken links, not missing list
-entries — the validators catch those). Never re-run
-`scripts/mediawiki_to_markdown.py`: it regenerates `docs/` from a 2010
-backup and would erase every later edit.
+entries — the validators catch those).
 
 O `mkdocs` do sistema pode não ter o `pymdownx`: use o ambiente virtual do
 projecto, `.venv/` (ignorado pelo git). Se não existir, crie-o com
