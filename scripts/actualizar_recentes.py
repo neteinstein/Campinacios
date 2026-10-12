@@ -6,7 +6,13 @@ histórico do git e da API do GitHub.
 
 O pull request sai da junção «Merge pull request #N» (ou do «(#N)» do título,
 nas junções por «squash»); as issues saem das mensagens dos commits («issue
-#N», «fecha #N»...). Alterações feitas directamente no main não têm pedido.
+#N», «fecha #N»...), por isso cada commit deve referir só as issues das
+páginas que mexe. Um commit sem issues cujo pull request fecha uma só issue
+(«Closes #N» na descrição) fica com essa issue. Alterações feitas
+directamente no main não têm pedido.
+
+A página diz no topo quando foi gerada e qual o último pull request que
+inclui, para se ver logo se a publicação está atrasada.
 
 Quem propôs é o autor de cada issue no GitHub; quem fez a alteração é o autor
 do pull request no GitHub ou, sem pedido, o autor do commit. Os autores lêem-se
@@ -21,6 +27,7 @@ Wikinácios/. O histórico tem de estar completo (no GitHub Actions:
 Uso:
     python3 scripts/actualizar_recentes.py
 """
+import datetime
 import functools
 import json
 import re
@@ -28,6 +35,7 @@ import subprocess
 import sys
 import urllib.parse
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 RAIZ = Path(__file__).resolve().parent.parent
 DOCS = RAIZ / 'docs'
@@ -38,6 +46,7 @@ PEDIDO = re.compile(r'^Merge pull request #(\d+)|\(#(\d+)\)\s*$')
 ISSUES = re.compile(
     r'\b(?:issues?|fecha|fechar|resolve|resolver|closes?|fix(?:es)?)\s+'
     r'(#\d+(?:(?:,|\s+e|\s+and)\s*#\d+)*)', re.IGNORECASE)
+INTERVALO = re.compile(r'\b(?:issues?\s+)?#\d+\s+(?:a|até|to)\s+#\d+', re.IGNORECASE)
 EXCLUIDAS = {'Todos os artigos.md', 'Grafo.md', 'Recentes.md', 'index.md'}
 PASTAS_EXCLUIDAS = {'Restrito', 'Categorias', 'Wikinácios', 'assets'}
 
@@ -61,17 +70,32 @@ def git(*args):
 
 
 @functools.cache
-def autor_github(tipo, numero):
-    """Login de quem abriu a issue ou o pull request, ou '' se não se souber."""
+def github(tipo, numero):
+    """A issue ou o pull request na API do GitHub, ou {} se não se souber."""
     try:
         saida = subprocess.run(
             ['gh', 'api', f'repos/neteinstein/Campinacios/{tipo}/{numero}'],
             cwd=RAIZ, capture_output=True, text=True, timeout=30)
     except (OSError, subprocess.TimeoutExpired):
-        return ''
+        return {}
     if saida.returncode != 0:
-        return ''
-    return (json.loads(saida.stdout).get('user') or {}).get('login', '')
+        return {}
+    return json.loads(saida.stdout)
+
+
+def autor_github(tipo, numero):
+    """Login de quem abriu a issue ou o pull request, ou '' se não se souber."""
+    return (github(tipo, numero).get('user') or {}).get('login', '')
+
+
+FECHA = re.compile(r'\b(?:closes?|closed|fix(?:es|ed)?|resolves?|resolved)\s+#(\d+)',
+                   re.IGNORECASE)
+
+
+def issues_do_pedido(numero):
+    """As issues que a descrição do pull request diz que ele fecha."""
+    corpo = github('pulls', numero).get('body') or ''
+    return list(dict.fromkeys(FECHA.findall(corpo)))
 
 
 def utilizador(login):
@@ -118,10 +142,36 @@ def ultimas():
     resultado = []
     for rel, (data, hash_, autor, mensagem) in vistas.items():  # por ordem decrescente
         issues = []
+        # Um intervalo («issues #276 a #299») não diz que issue mexeu em que
+        # página: ignora-se, para não atribuir tudo à primeira.
+        mensagem = INTERVALO.sub('', mensagem)
         for grupo in ISSUES.findall(mensagem):
             issues += [n for n in re.findall(r'\d+', grupo) if n not in issues]
-        resultado.append((data, rel, mapa.get(hash_, ''), issues, autor))
+        pedido = mapa.get(hash_, '')
+        if not issues and pedido:
+            fechadas = issues_do_pedido(pedido)
+            if len(fechadas) == 1:
+                issues = fechadas
+        resultado.append((data, rel, pedido, issues, autor))
     return resultado
+
+
+def ultimo_pedido():
+    """O último pull request integrado no main (o da junção mais recente)."""
+    for assunto in git('log', '--first-parent', '--format=%s', '-200').splitlines():
+        encontrado = PEDIDO.search(assunto)
+        if encontrado:
+            return encontrado.group(1) or encontrado.group(2)
+    return ''
+
+
+def cabecalho():
+    agora = datetime.datetime.now(ZoneInfo('Europe/Lisbon'))
+    texto = f'*Actualizada a {agora:%d/%m/%Y}, às {agora:%H:%M}'
+    numero = ultimo_pedido()
+    if numero:
+        texto += f', até ao pedido [#{numero}]({REPO}/pull/{numero})'
+    return texto + '.*'
 
 
 def main():
@@ -131,6 +181,7 @@ def main():
         'alteração, os pedidos (issues) que ela resolveu e quem os propôs, e a '
         'edição (pull request) que a fez e quem a executou. As páginas restritas '
         'não aparecem.', '',
+        cabecalho(), '',
         '| Página | Alterada em | Pedidos | Proposta de | Edição | Executada por |',
         '| --- | --- | --- | --- | --- | --- |']
     for data, rel, pedido, issues, autor in ultimas():
