@@ -10,6 +10,7 @@
 
 ### Encontros
 
+- 2022 [Rockstock 2022](../../Encontros/Rockstock%202022.md) - Equipa de animação
 - 2023 [Encontro Nacional 2023](../../Encontros/Encontro%20Nacional%202023.md) - Responsável do serão
 - 2025 [Encontro Nacional de Animadores 2025](../../Encontros/Encontro%20Nacional%20de%20Animadores%202025.md) - Director
 

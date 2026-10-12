@@ -5,7 +5,11 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Henrique Mota Amaral](../../Pessoas/H/Henrique%20Mota%20Amaral.md)
-- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Nuno Ferreira](../../Pessoas/N/Nuno%20Ferreira.md) (Broski)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Nuno Ferreira](../../Pessoas/N/Nuno%20Ferreira.md) (Broski) e [Heitor Rosa](../../Pessoas/H/Heitor%20Rosa.md)
+
+## Participantes que se tornaram animadores
+
+- [Beatriz Mesquita](../../Pessoas/B/Beatriz%20Mesquita.md)
 
 ---
 

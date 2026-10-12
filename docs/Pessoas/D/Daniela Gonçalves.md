@@ -19,6 +19,10 @@
     - 2025 [Mangueira Nice](../../Acampamentos/2025/Mangueira%20Nice.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2026 [Oh Pai, Keshumo](../../Acampamentos/2026/Oh%20Pai%2C%20Keshumo.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
 
+### Encontros
+
+- 2026 [Rockstock 2026](../../Encontros/Rockstock%202026.md) - Equipa de animação
+
 ---
 
 **Outros nomes:** Dani

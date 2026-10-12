@@ -11,6 +11,10 @@
 - **Animador(a):**
     - 2019 [XP Fora da Roda](../../Acampamentos/2019/XP%20Fora%20da%20Roda.md)
 
+### Encontros
+
+- 2022 [Rockstock 2022](../../Encontros/Rockstock%202022.md) - Equipa de animação
+
 ---
 
 | Categorias |

@@ -7,6 +7,10 @@
 - **Animador(a):**
     - 2024 [D'RIP MELON](../../Acampamentos/2024/D%27RIP%20MELON.md) - [Tia](../../Cargos/Tio.md)
 
+### Encontros
+
+- 2025 [Rockstock 2025](../../Encontros/Rockstock%202025.md) - Equipa de animação
+
 ---
 
 | Categorias |

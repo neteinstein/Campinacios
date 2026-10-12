@@ -5,6 +5,7 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [João Eiró](../../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md)
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Carvalho](../../Pessoas/C/Carlos%20Carvalho.md) sj
 
 ## Participantes que se tornaram animadores
 

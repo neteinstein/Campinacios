@@ -4,6 +4,8 @@
 
 - 2008/2010  -  Membro da [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
 - 2008/2010  -  Membro da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
+- 2015/2016 a 2018/2019 - [Assistente Nacional](../../Categorias/Assistentes%20Nacionais.md)
+- 2017/2018 a 2018/2019 - Assistente Local da [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
 
 ### Acampamentos
 
@@ -12,7 +14,14 @@
     - 2008 [Arethë](../../Acampamentos/2008/Areth%C3%AB.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2009 [Talithá Kum](../../Acampamentos/2009/Talith%C3%A1%20Kum.md) - [Director](../../Cargos/Director.md)
     - 2010 [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md) - [Capelinho](../../Cargos/Capelinho.md)
+    - 2011 [Pedra papel tesoura](../../Acampamentos/2011/Pedra%20papel%20tesoura.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+    - 2012 [Raio Part'ós Ninjas](../../Acampamentos/2012/Raio%20Part%27%C3%B3s%20Ninjas.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+    - 2013 [Peça a peça](../../Acampamentos/2013/Pe%C3%A7a%20a%20pe%C3%A7a.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+    - 2014 [Além Pocinhas](../../Acampamentos/2014/Al%C3%A9m%20Pocinhas.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2015 [Conta-me como foi](../../Acampamentos/2015/Conta-me%20como%20foi.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+    - 2016 [Plano B](../../Acampamentos/2016/Plano%20B.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+    - 2017 [ReComeçar de Novo](../../Acampamentos/2017/ReCome%C3%A7ar%20de%20Novo.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+    - 2018 [Prosopon](../../Acampamentos/2018/Prosopon.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2023 [CRUZZ](../../Acampamentos/2023/CRUZZ.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2024 [Caldorado](../../Acampamentos/2024/Caldorado.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2025 [Exipto](../../Acampamentos/2025/Exipto.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)

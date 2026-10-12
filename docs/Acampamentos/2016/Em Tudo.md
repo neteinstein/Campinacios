@@ -4,7 +4,7 @@
 
 ### Animadores
 
-- [Director](../../Cargos/Director.md) - [Duda](../../Pessoas/D/Duda.md)
+- [Director](../../Cargos/Director.md) - [Duda](../../Pessoas/D/Domingos%20Freire%20de%20Andrade.md)
 - [Tia](../../Cargos/Tio.md) - [Ana Catarina Gil](../../Pessoas/A/Ana%20Catarina%20Gil.md)
 
 ---

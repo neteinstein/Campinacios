@@ -8,6 +8,7 @@
 
 ### Encontros
 
+- 2025 [Rockstock 2025](../../Encontros/Rockstock%202025.md) - Equipa de animação
 - 2026 [Encontro Nacional 2026](../../Encontros/Encontro%20Nacional%202026.md) - Directora de Trotinetas
 
 ---

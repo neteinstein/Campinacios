@@ -12,6 +12,7 @@
 
 ## Participantes que se tornaram animadores
 
+- [Beatriz Mesquita](../../Pessoas/B/Beatriz%20Mesquita.md)
 - [Zé Guedes](../../Pessoas/Z/Z%C3%A9%20Guedes.md)
 
 ---

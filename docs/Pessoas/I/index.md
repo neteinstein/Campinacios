@@ -2,6 +2,8 @@
 
 - [Inês Amorim](In%C3%AAs%20Amorim.md)
 - [Inês Carvalho](In%C3%AAs%20Carvalho.md)
+- [Inês Costa](In%C3%AAs%20Costa.md)
+- [Inês Cruz](In%C3%AAs%20Cruz.md)
 - [Inês Fonseca](In%C3%AAs%20Fonseca.md)
 - [Inês Furtado](In%C3%AAs%20Furtado.md)
 - [Inês Maury](In%C3%AAs%20Maury.md)
@@ -10,6 +12,7 @@
 - [Inês Próspero](In%C3%AAs%20Pr%C3%B3spero.md)
 - [Inês Sampaio](In%C3%AAs%20Sampaio.md)
 - [Inês Serra Ferreira](In%C3%AAs%20Serra%20Ferreira.md)
+- [Inês Silva](In%C3%AAs%20Silva.md)
 - [Inês Turras](In%C3%AAs%20Turras.md)
 - [Irina Ramos](Irina%20Ramos.md)
 - [Isa Neves](Isa%20Neves.md)

@@ -5,7 +5,7 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Renato Lobo](../../Pessoas/R/Renato%20Lobo.md)
-- [Capelão](../../Cargos/Capel%C3%A3o.md) - Carlos Carvalho sj
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Carvalho](../../Pessoas/C/Carlos%20Carvalho.md) sj
 
 ## Participantes que se tornaram animadores
 

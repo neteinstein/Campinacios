@@ -24,9 +24,14 @@ Francisco Dioniz Barroso Loureiro, conhecido como Loureiro, é animador do CAIC.
 
 - 2023/2025 - Departamento de Locais de Campo
 
+### Encontros
+
+- 2022 [Rockstock 2022](../../Encontros/Rockstock%202022.md) - Equipa de animação
+- 2023 [Rockstock 2023](../../Encontros/Rockstock%202023.md) - Equipa de animação
+
 ---
 
-**Outros nomes:** Loureiro
+**Outros nomes:** Loureiro · Francisco Loureiro · Francisco Dioniz Loureiro
 
 | Categorias |
 | --- |

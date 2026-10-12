@@ -7,6 +7,10 @@
     - 2024 [Fight Club](../../Acampamentos/2024/Fight%20Club.md) - [Director](../../Cargos/Director.md)
     - 2026 [Ca Ganda Tanga](../../Acampamentos/2026/Ca%20Ganda%20Tanga.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
+### Encontros
+
+- 2022 [Rockstock 2022](../../Encontros/Rockstock%202022.md) - Equipa de animação
+
 ---
 
 | Categorias |

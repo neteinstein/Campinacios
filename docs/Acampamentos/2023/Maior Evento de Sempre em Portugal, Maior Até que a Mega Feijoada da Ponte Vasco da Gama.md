@@ -1,6 +1,6 @@
 # Maior Evento de Sempre em Portugal, Maior Até que a Mega Feijoada da Ponte Vasco da Gama
 
-**Maior Evento de Sempre em Portugal, Maior Até que a Mega Feijoada da Ponte Vasco da Gama** foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) realizado em 2023. O tema do ano foi *Maria Levantou-se e Partiu Apressadamente*. Na lista de campos de 2023 aparece, junto a este acampamento, a nota «Direcção Geral das Jornadas Mundiais da Juventude».
+**Maior Evento de Sempre em Portugal, Maior Até que a Mega Feijoada da Ponte Vasco da Gama** foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) realizado em 2023 no Colégio S. João de Brito. O tema do ano foi *Maria Levantou-se e Partiu Apressadamente*. Na lista de campos de 2023 aparece, junto a este acampamento, a nota «Direcção Geral das Jornadas Mundiais da Juventude».
 
 ### Animadores
 
@@ -9,6 +9,10 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Johnny Sousa](../../Pessoas/J/Johnny%20Sousa.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md) e [André Vale](../../Pessoas/A/Andr%C3%A9%20Vale.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Duarte Nifo](../../Pessoas/D/Duarte%20Nifo.md) sj
+
+## Participantes que se tornaram animadores
+
+- [Beatriz Mesquita](../../Pessoas/B/Beatriz%20Mesquita.md)
 
 ---
 
