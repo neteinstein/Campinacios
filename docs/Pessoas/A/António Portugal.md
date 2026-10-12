@@ -3,6 +3,7 @@
 ### Acampamentos
 
 - **Animador(a):**
+    - 2021 [Superfishie](../../Acampamentos/2021/Superfishie.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2022 [Isto Só Visto](../../Acampamentos/2022/Isto%20S%C3%B3%20Visto.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
 ---

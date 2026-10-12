@@ -9,6 +9,10 @@
     - 2023 [Cibicleta Como És](../../Acampamentos/2023/Cibicleta%20Como%20%C3%89s.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2024 [À Mesa](../../Acampamentos/2024/%C3%80%20Mesa.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
+### Encontros
+
+- 2023 [Rockstock 2023](../../Encontros/Rockstock%202023.md) - Capelão
+
 ---
 
 | Categorias |

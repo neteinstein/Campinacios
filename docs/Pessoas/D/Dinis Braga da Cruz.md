@@ -3,10 +3,12 @@
 ### Acampamentos
 
 - **Animador(a):**
+    - 2024 [Fight Club](../../Acampamentos/2024/Fight%20Club.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2026 [Xiè-Xiè Kung Fa](../../Acampamentos/2026/Xi%C3%A8-Xi%C3%A8%20Kung%20Fa.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
 
 ### Encontros
 
+- 2025 [Rockstock 2025](../../Encontros/Rockstock%202025.md) - Equipa de animação
 - 2026 [Rockstock 2026](../../Encontros/Rockstock%202026.md) - Director
 
 ---

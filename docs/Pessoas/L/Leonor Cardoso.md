@@ -13,6 +13,11 @@
     - 2018 [Descola](../../Acampamentos/2018/Descola%20%282018%29.md)
 - **Animador(a):**
     - 2019 [XP Fora da Roda](../../Acampamentos/2019/XP%20Fora%20da%20Roda.md)
+    - 2021 [Superfishie](../../Acampamentos/2021/Superfishie.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+
+### Encontros
+
+- 2022 [Rockstock 2022](../../Encontros/Rockstock%202022.md) - Equipa de animação
 
 ---
 

@@ -8,8 +8,8 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Joana Rocha](../../Pessoas/J/Joana%20Rocha.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Martim Nunes (Tina)](../../Pessoas/M/Martim%20Nunes.md)
 - [Tia](../../Cargos/Tio.md) - Joana Catalão, Catarina Silveira
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Mafalda Ferreira, [Nuno Ferreira](../../Pessoas/N/Nuno%20Ferreira.md) (Broski), [Rita Ventura](../../Pessoas/R/Rita%20Ventura.md), Inês Silva (Nenê), Pilar Ribeiro Corrêa e Mateus Vicente
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - António Pereira (Pêras), António Falacho, Gabriel Bandeira e Duarte Soares
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Mafalda Ferreira, [Nuno Ferreira](../../Pessoas/N/Nuno%20Ferreira.md) (Broski), [Rita Ventura](../../Pessoas/R/Rita%20Ventura.md), [Inês Silva](../../Pessoas/I/In%C3%AAs%20Silva.md) (Nenê), Pilar Ribeiro Corrêa e Mateus Vicente
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [António Pereira](../../Pessoas/A/Ant%C3%B3nio%20Pereira.md) (Pêras), António Falacho, Gabriel Bandeira e [Duarte Soares](../../Pessoas/D/Duarte%20Soares.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Gonçalo Pedrosa](../../Pessoas/G/Gon%C3%A7alo%20Pedrosa.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Emanuel Lopes](../../Pessoas/E/Emanuel%20Lopes.md) sj
 

@@ -7,6 +7,7 @@
 ### Acampamentos
 
 - **Animador(a):**
+    - 2024 [Fight Club](../../Acampamentos/2024/Fight%20Club.md) - [Tio](../../Cargos/Tio.md)
     - 2026 [Ca Ganda Tanga](../../Acampamentos/2026/Ca%20Ganda%20Tanga.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
 ### Encontros

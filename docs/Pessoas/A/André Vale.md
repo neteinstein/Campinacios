@@ -24,6 +24,7 @@ André Vale é animador do [CC](../../Categorias/Animadores%20do%20CC.md).
 ### Encontros
 
 - 2025 [Encontro Nacional de Animadores 2025](../../Encontros/Encontro%20Nacional%20de%20Animadores%202025.md) - Director-Adjunto
+- 2025 [Rockstock 2025](../../Encontros/Rockstock%202025.md) - Equipa de animação
 
 ---
 

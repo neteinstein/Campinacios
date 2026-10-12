@@ -6,6 +6,10 @@
 
 - [Director](../../Cargos/Director.md) - [João Captivo](../../Pessoas/J/Jo%C3%A3o%20Captivo.md)
 
+## Participantes que se tornaram animadores
+
+- [Heitor Rosa](../../Pessoas/H/Heitor%20Rosa.md)
+
 ---
 
 | Categorias |

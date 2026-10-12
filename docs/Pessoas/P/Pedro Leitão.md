@@ -7,6 +7,10 @@
     - 2025 [Em Frente À'Fera](../../Acampamentos/2025/Em%20Frente%20%C3%80%27Fera.md) - [Tio](../../Cargos/Tio.md)
     - 2026 [Non Nobis](../../Acampamentos/2026/Non%20Nobis.md) - [Tio](../../Cargos/Tio.md)
 
+### Encontros
+
+- 2026 [Rockstock 2026](../../Encontros/Rockstock%202026.md) - Equipa de animação
+
 ---
 
 | Categorias |

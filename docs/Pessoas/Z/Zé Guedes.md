@@ -2,6 +2,10 @@
 
 Zé Guedes, também conhecido por Zédes, é animador do [CC](../../Categorias/Animadores%20do%20CC.md).
 
+### Cargos
+
+- 2026/2027 Departamento de Locais de Campo da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
+
 ### Acampamentos
 
 - **Participante:**
@@ -15,6 +19,14 @@ Zé Guedes, também conhecido por Zédes, é animador do [CC](../../Categorias/A
 - **Animador(a):**
     - 2025 [À Brava](../../Acampamentos/2025/%C3%80%20Brava.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2026 [Oh Pai, Keshumo](../../Acampamentos/2026/Oh%20Pai%2C%20Keshumo.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
+
+### Encontros
+
+- 2026 [Rockstock 2026](../../Encontros/Rockstock%202026.md) - Equipa de animação
+
+### Família
+
+É filho da [Lídia Couto](../L/L%C3%ADdia%20Couto.md) e irmão da [Maria João Guedes](../M/Maria%20Jo%C3%A3o%20Guedes.md).
 
 ---
 

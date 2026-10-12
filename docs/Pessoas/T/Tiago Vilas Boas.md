@@ -8,9 +8,13 @@
     - 2021 [E a Glória Adensa-se](../../Acampamentos/2021/E%20a%20Gl%C3%B3ria%20Adensa-se.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2023 [Parte de Ti](../../Acampamentos/2023/Parte%20de%20Ti.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
 
+### Encontros
+
+- 2019 [Rockstock 2019](../../Encontros/Rockstock%202019.md) - Equipa de animação
+
 ---
 
-**Outros nomes:** Tigas
+**Outros nomes:** Tigas · Tiago Vilas-Boas
 
 | Categorias |
 | --- |

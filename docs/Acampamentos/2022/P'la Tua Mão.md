@@ -6,7 +6,7 @@
 
 - [Director](../../Cargos/Director.md) - [Gonçalo Sá](../../Pessoas/G/Gon%C3%A7alo%20S%C3%A1.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Janine Silva](../../Pessoas/J/Janine%20Silva.md)
-- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Chico Carneiro](../../Pessoas/C/Chico%20Carneiro.md)
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Chico Carneiro](../../Pessoas/F/Francisco%20Carneiro.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [António Pamplona](../../Pessoas/A/Ant%C3%B3nio%20Pamplona.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Emanuel Lopes](../../Pessoas/E/Emanuel%20Lopes.md) sj
 

@@ -7,6 +7,7 @@
 ### Encontros
 
 - 2025 [Encontro Nacional de Animadores 2025](../../Encontros/Encontro%20Nacional%20de%20Animadores%202025.md) - Mamã
+- 2026 [Rockstock 2026](../../Encontros/Rockstock%202026.md) - Equipa de animação
 
 ---
 

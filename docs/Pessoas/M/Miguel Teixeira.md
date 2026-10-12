@@ -10,6 +10,8 @@
 ### Encontros
 
 - 2024 [Rockstock 2024](../../Encontros/Rockstock%202024.md) - Director-Adjunto
+- 2025 [Rockstock 2025](../../Encontros/Rockstock%202025.md) - Equipa de animação
+- 2026 [Rockstock 2026](../../Encontros/Rockstock%202026.md) - Equipa de animação
 
 ---
 

@@ -8,6 +8,10 @@
     - 2022 [À Grande e à Francesa](../../Acampamentos/2022/%C3%80%20Grande%20e%20%C3%A0%20Francesa.md) - [Director](../../Cargos/Director.md)
     - 2023 [A Partir](../../Acampamentos/2023/A%20Partir.md) - [Director](../../Cargos/Director.md)
 
+### Encontros
+
+- 2022 [Rockstock 2022](../../Encontros/Rockstock%202022.md) - Equipa de animação
+
 ---
 
 **Outros nomes:** Rafa Azevedo

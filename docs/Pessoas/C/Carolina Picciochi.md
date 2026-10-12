@@ -9,6 +9,10 @@ Carolina Picciochi, conhecida por Pitxi, é animadora.
 - **Animadora:**
     - 2026 [Navalha-me Deus](../../Acampamentos/2026/Navalha-me%20Deus.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
+### Encontros
+
+- 2022 [Rockstock 2022](../../Encontros/Rockstock%202022.md) - Equipa de animação
+
 ---
 
 **Outros nomes:** Pitxi

@@ -8,7 +8,7 @@ Palmas, aplausos e gritos de roda, da secção «Não há palmas nos Campinácio
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (134 aplausos)
+## Índice (138 aplausos)
 
 - [A MOSCA QUE NÃO MORRE](#a-mosca-que-nao-morre)
 - [A-HANE](#a-hane)
@@ -23,6 +23,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [APLAUSO DO FOGUETE](#aplauso-do-foguete)
 - [APLAUSO DA PIPOCA](#aplauso-da-pipoca)
 - [APLAUSO DA TRINCA NA FRUTA](#aplauso-da-trinca-na-fruta)
+- [APLAUSO DE S. INÁCIO](#aplauso-de-s-inacio)
 - [ARRAMSAMSAM](#arramsamsam)
 - [AKATCHICA KECHA](#akatchica-kecha)
 - [ATENCIÓN, CONCENTRACIÓN](#atencion-concentracion)
@@ -54,8 +55,10 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [EVERYBODY BATE PALMAS](#everybody-bate-palmas)
 - [EVERYBODY LETS GO!](#everybody-lets-go)
 - [FAMÍLIA SAPO](#familia-sapo)
+- [FAZ O RATO, FAZ A RÃ](#faz-o-rato-faz-a-ra)
 - [FLI FLY DÓ LI DÓ](#fli-fly-do-li-do)
 - [FLY!](#fly)
+- [GASOLINA](#gasolina)
 - [GET LOOSE](#get-loose)
 - [GRANDA PEIXE](#granda-peixe)
 - [GRANDA PORCO](#granda-porco)
@@ -84,6 +87,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [MILHAFRE](#milhafre)
 - [MINHOCA PARA MINHOCA](#minhoca-para-minhoca)
 - [MORTE AO CALOIRO](#morte-ao-caloiro)
+- [MOSQUINHA MORTA](#mosquinha-morta)
 - [MOTA DA MARCA FAMEL](#mota-da-marca-famel)
 - [MOTA NÃO PEGA](#mota-nao-pega)
 - [MUITO BEM!](#muito-bem)
@@ -203,6 +207,11 @@ Uma pipoca saltando na panela e logo outra vem a responder, dali a nada uma gran
 ### APLAUSO DA TRINCA NA FRUTA {#aplauso-da-trinca-na-fruta}
 
 \[A roda trinca a fruta em sequência.\]
+
+### APLAUSO DE S. INÁCIO {#aplauso-de-s-inacio}
+
+Shhh... PUM!  
+Oh não, a minha perna! Uma bombarda, partiu-a toda!
 
 ### ARRAMSAMSAM {#arramsamsam}
 
@@ -378,6 +387,14 @@ Everybody lets go! \[percussão\] Two times! \[percussão\] Three times! \[percu
 
 Havia una familia, sapo, sapo, sapo, sapo… SAPO-SAAA, sapo-saaa! Havia o bebé sapo, sapo, sapo, sapo, sapo… SAPO-SAAA, sapo-saaa! \[repetir com mamã, papá, avó, avô, com os gestos correspondentes\]
 
+### FAZ O RATO, FAZ A RÃ {#faz-o-rato-faz-a-ra}
+
+\[Raparigas com voz aguda\] IhIhIh faz o rato  
+\[Rapazes com voz grave\] Bruh bruh bruh faz a rã  
+\[Raparigas com voz aguda\] IhIhIh faz o rato  
+\[Rapazes com voz grave\] Bruh bruh bruh faz a rã  
+\[Raparigas com voz aguda\] IhIhIh \[Rapazes com voz grave\] Bruh bruh bruh \[x3\]
+
 ### FLI FLY DÓ LI DÓ {#fli-fly-do-li-do}
 
 Fli fly, dó li dó! Fli fly, dó li dó! Fli fly, dó li dó! É banjo, banjo, banjó!  
@@ -388,6 +405,11 @@ A _____ é linda (x3), é banjo, banjo, banjó!
 \[Narrador grita e roda repete\] Fly! Flea fly! Flea fly flow! Frista!  
 Nonononononona frista! Texamini salamini ohoh oh ah!  
 Its billy oh beng bogo oh deng deng fari dari cari dari shhhhh
+
+### GASOLINA {#gasolina}
+
+\[O animador diz a frase com os respectivos gestos, os outros repetem\]  
+I have a car. I open my car. I get in my car. I drive my car. I stop my car. I get out of my car. AND I PUT ON THE GASOLINA!
 
 ### GET LOOSE {#get-loose}
 
@@ -556,6 +578,11 @@ Todos - Sou um milhafre!
 ### MORTE AO CALOIRO {#morte-ao-caloiro}
 
 Morte ao caloiro, o caloiro vai morrer (x40)
+
+### MOSQUINHA MORTA {#mosquinha-morta}
+
+\[Alguém grita:\] MOSQUINHA MORTA!  
+\[Todos caem no chão, de costas, mexendo as mãos e as pernas como uma mosca a morrer\]
 
 ### MOTA DA MARCA FAMEL {#mota-da-marca-famel}
 

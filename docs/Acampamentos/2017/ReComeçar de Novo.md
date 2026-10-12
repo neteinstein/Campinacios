@@ -6,6 +6,7 @@
 
 - [Director](../../Cargos/Director.md) - [Joana Matos](../../Pessoas/J/Joana%20Matos.md)
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - [Sara Moinhos](../../Pessoas/S/Sara%20Moinhos.md)
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Carvalho](../../Pessoas/C/Carlos%20Carvalho.md) sj
 
 ## Participantes que se tornaram animadores
 

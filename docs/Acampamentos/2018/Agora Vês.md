@@ -12,6 +12,7 @@
 ## Participantes que se tornaram animadores
 
 - [Jaime Lucas Pires](../../Pessoas/J/Jaime%20Lucas%20Pires.md)
+- [Maria Solla](../../Pessoas/M/Maria%20Solla.md)
 
 ---
 

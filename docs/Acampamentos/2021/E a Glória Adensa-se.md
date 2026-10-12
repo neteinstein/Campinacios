@@ -14,6 +14,7 @@
 ## Participantes que se tornaram animadores
 
 - [Fernando Monteiro](../../Pessoas/F/Fernando%20Monteiro.md)
+- [Maria Solla](../../Pessoas/M/Maria%20Solla.md)
 
 ---
 

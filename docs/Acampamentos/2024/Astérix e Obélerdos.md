@@ -8,6 +8,7 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Maria João Guedes](../../Pessoas/M/Maria%20Jo%C3%A3o%20Guedes.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Manuel Costa](../../Pessoas/M/Manuel%20Costa.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [António Santos Lourenço](../../Pessoas/A/Ant%C3%B3nio%20Santos%20Louren%C3%A7o.md) sj
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Maria Solla](../../Pessoas/M/Maria%20Solla.md)
 
 ## Participantes que se tornaram animadores
 

@@ -13,6 +13,10 @@
 - 2025 [Encontro Nacional 2025 (35 Anos)](../../Encontros/Encontro%20Nacional%202025%20%2835%20Anos%29.md) - Mamã
 - 2026 [Encontro Nacional 2026](../../Encontros/Encontro%20Nacional%202026.md) - Responsável do imaginário
 
+### Família
+
+É filha da [Lídia Couto](../L/L%C3%ADdia%20Couto.md) e irmã do [Zé Guedes](../Z/Z%C3%A9%20Guedes.md).
+
 ---
 
 | Categorias |
