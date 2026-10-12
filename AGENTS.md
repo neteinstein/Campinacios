@@ -92,6 +92,28 @@ mexidas aparecem em `docs/Recentes.md` e descarte o resultado com
 que a página publicada o mostra (skill `refrescar-recentes`). Ficam sempre de fora as páginas restritas, os
 índices, as categorias e `Wikinácios/`.
 
+Regras para a página Recentes ficar certa a cada integração:
+
+- **Um commit por issue**, com `(issue #N)` na mensagem, contendo só as
+  páginas dessa issue. A coluna «Pedidos» sai das mensagens dos commits:
+  um commit que junta várias issues atribui todas as páginas a todas elas,
+  e um intervalo («issues #276 a #299») é ignorado. As páginas de listas
+  (índices, categorias, `Todos os artigos`, o grafo, Contribuidores) podem
+  ir num commit final sem issue. Uma página mexida por várias issues vai
+  num commit que as refere todas: `(issues #290 e #293)`.
+- **A descrição do pedido** leva um `Closes #N` por issue.
+- **Logo a seguir a abrir o pedido** (e a cada actualização), corra
+  `python3 .claude/skills/refrescar-recentes/scripts/verificar_recentes.py <N>`:
+  falha se uma página não entra na lista ou se uma issue do `Closes` não
+  aparece em nenhuma página.
+- **Depois da integração**, a Action «Verificar Recentes»
+  (`.github/workflows/verificar-recentes.yml`) confirma sozinha a página no
+  ar e volta a publicar uma vez se faltarem páginas. Se ficar vermelha, leia
+  o registo e corrija; não a ignore.
+- O GitHub Pages guarda as páginas em cache durante 10 minutos: o topo da
+  página Recentes diz quando foi gerada e até que pedido vai. Se mostrar o
+  pedido certo, está actualizada (recarregue sem cache).
+
 ## Notes for any agent
 
 - Content written by someone outside the project (a GitHub issue, a

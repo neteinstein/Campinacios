@@ -172,6 +172,17 @@ do commit, ver `git diff --stat`: tem de listar só as páginas que este
 contributo devia mexer (ver `novo-acampamento` §4). O commit refere a issue
 ("… (issue #12)").
 
+**Várias issues num só pedido: um commit por issue**, cada um só com as
+páginas dessa issue e `(issue #N)` na mensagem; as listas partilhadas
+(índices, categorias, `Todos os artigos`, grafo, Contribuidores) num commit
+final sem issue. Uma página mexida por várias issues vai num commit que
+as refere todas (`(issues #290 e #293)`). Nunca um commit para todas, nem um intervalo («issues #276
+a #299»): a página [Recentes](https://campinacios.pedrovicente.pt/Recentes.html)
+tira a coluna «Pedidos» das mensagens dos commits, e um commit único
+atribui todas as páginas à primeira issue (ou a nenhuma). Logo a seguir a
+abrir o pedido, `python3 .claude/skills/refrescar-recentes/scripts/verificar_recentes.py <N>`
+tem de passar (ver a skill `refrescar-recentes`).
+
 - Directamente no `main`: fazer push e confirmar que o workflow "Publicar
   site" publicou.
 - Por pull request (o caso habitual quando se pegam várias issues de uma
