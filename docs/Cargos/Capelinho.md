@@ -7,6 +7,7 @@
 - [Afonso Espregueira](../Pessoas/A/Afonso%20Espregueira.md)
 - [Ana Paula Sampaio](../Pessoas/A/Ana%20Paula%20Sampaio.md)
 - [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md)
+- [Carlos Miranda](../Pessoas/C/Carlos%20Miranda.md)
 - [Cristovão Andrade](../Pessoas/C/Cristov%C3%A3o%20Andrade.md)
 - [Diogo Maria Carvalho](../Pessoas/D/Diogo%20Maria%20Carvalho.md)
 - [Diogo Martins](../Pessoas/D/Diogo%20Martins.md)
