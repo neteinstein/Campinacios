@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1334 artigos e, em itálico, os 229 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1334 artigos e, em itálico, os 231 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -272,6 +272,7 @@
 - *Carmo Cunha e Carmo* → [Maria do Carmo Cunha e Carmo](Pessoas/M/Maria%20do%20Carmo%20Cunha%20e%20Carmo.md)
 - [Carmo Madeira](Pessoas/C/Carmo%20Madeira.md)
 - *Carol* → [Carolina Dias](Pessoas/C/Carolina%20Dias.md)
+- *Carol Dias* → [Carolina Dias](Pessoas/C/Carolina%20Dias.md)
 - [Carolina Dias](Pessoas/C/Carolina%20Dias.md)
 - [Carolina Morão](Pessoas/C/Carolina%20Mor%C3%A3o.md)
 - [Carolina Picciochi](Pessoas/C/Carolina%20Picciochi.md)
@@ -583,6 +584,7 @@
 - [Francisco Dioniz Barroso Loureiro](Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
 - *Francisco Dioniz Loureiro* → [Francisco Dioniz Barroso Loureiro](Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
 - *Francisco Ferreira* → [Francisco Cortês Ferreira](Pessoas/F/Francisco%20Cort%C3%AAs%20Ferreira.md)
+- [Francisco Goiana da Silva](Pessoas/F/Francisco%20Goiana%20da%20Silva.md)
 - [Francisco Guimarães](Pessoas/F/Francisco%20Guimar%C3%A3es.md)
 - [Francisco Ilhão](Pessoas/F/Francisco%20Ilh%C3%A3o.md)
 - [Francisco Lopes](Pessoas/F/Francisco%20Lopes.md)
@@ -727,6 +729,7 @@
 - [Jéssica Barra](Pessoas/J/J%C3%A9ssica%20Barra.md)
 - [Joana Antunes](Pessoas/J/Joana%20Antunes.md)
 - [Joana Costa (2021)](Pessoas/J/Joana%20Costa%20%282021%29.md)
+- *Joana Marcelino Costa* → [Joana Costa (2021)](Pessoas/J/Joana%20Costa%20%282021%29.md)
 - [João Faria](Pessoas/J/Jo%C3%A3o%20Faria.md)
 - [João Ilhão](Pessoas/J/Jo%C3%A3o%20Ilh%C3%A3o.md)
 - [João Pacheco de Sousa](Pessoas/J/Jo%C3%A3o%20Pacheco%20de%20Sousa.md)
@@ -1395,7 +1398,6 @@
 - [Rodrigo Calçarão](Pessoas/R/Rodrigo%20Cal%C3%A7ar%C3%A3o.md)
 - [Rodrigo Queiroz e Melo](Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md)
 - [Rodrigo Sousa](Pessoas/R/Rodrigo%20Sousa.md)
-- [Rosa](Pessoas/R/Rosa.md)
 - [Rosarinho Araújo](Pessoas/R/Rosarinho%20Ara%C3%BAjo.md)
 - [Rosário Branco](Pessoas/R/Ros%C3%A1rio%20Branco.md)
 - [Rosinha Dias Costa](Pessoas/R/Rosinha%20Dias%20Costa.md)

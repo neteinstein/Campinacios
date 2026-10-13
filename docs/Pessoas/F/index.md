@@ -37,6 +37,7 @@
 - [Francisco Costa Macedo](Francisco%20Costa%20Macedo.md)
 - [Francisco Cunha e Carmo](Francisco%20Cunha%20e%20Carmo.md)
 - [Francisco Dioniz Barroso Loureiro](Francisco%20Dioniz%20Barroso%20Loureiro.md)
+- [Francisco Goiana da Silva](Francisco%20Goiana%20da%20Silva.md)
 - [Francisco Guimarães](Francisco%20Guimar%C3%A3es.md)
 - [Francisco Ilhão](Francisco%20Ilh%C3%A3o.md)
 - [Francisco Lopes](Francisco%20Lopes.md)
