@@ -10,6 +10,9 @@
 ### Acampamentos
 
 - **Animador:**
+    - 2015 [Sai da ilha](../../Acampamentos/2015/Sai%20da%20ilha.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+    - 2016 [Troca](../../Acampamentos/2016/Troca.md) - [Capelinho](../../Cargos/Capelinho.md)
+    - 2017 [Faz Sentido](../../Acampamentos/2017/Faz%20Sentido.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2019 [XP Fora da Roda](../../Acampamentos/2019/XP%20Fora%20da%20Roda.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2022 [Level Up](../../Acampamentos/2022/Level%20Up.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2024 [ParTijolo](../../Acampamentos/2024/ParTijolo.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
