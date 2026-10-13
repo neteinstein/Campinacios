@@ -16,6 +16,7 @@ Cecília Miranda é desde 2005, uma das animadoras do Colégio da Imaculada Conc
     - 2008 [TSI](../../Acampamentos/2008/TSI.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2009 [Lembras-te?](../../Acampamentos/2009/Lembras-te.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
     - 2010 [Walkabout](../../Acampamentos/2010/Walkabout.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2014 [Pó-Có](../../Acampamentos/2014/P%C3%B3-C%C3%B3.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
 ### Música
 
