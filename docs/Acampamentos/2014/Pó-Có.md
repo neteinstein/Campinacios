@@ -5,6 +5,8 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [David Cruz e Silva](../../Pessoas/D/David%20Cruz%20e%20Silva.md)
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Francisco Goiana da Silva](../../Pessoas/F/Francisco%20Goiana%20da%20Silva.md)
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [Cecília Miranda](../../Pessoas/C/Cec%C3%ADlia%20Miranda.md)
 
 ## Participantes que se tornaram animadores
 
