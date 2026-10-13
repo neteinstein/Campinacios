@@ -3,6 +3,7 @@
 ### Acampamentos
 
 - **Animador(a):**
+    - 2015 [Sai da ilha](../../Acampamentos/2015/Sai%20da%20ilha.md) - [Tia](../../Cargos/Tio.md)
     - 2019 [Chama de Novo](../../Acampamentos/2019/Chama%20de%20Novo.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
 ---
