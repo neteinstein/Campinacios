@@ -6,6 +6,10 @@
 
 - [Director](../../Cargos/Director.md) - [Miguel Carneiro](../../Pessoas/M/Miguel%20Carneiro.md)
 
+## Participantes que se tornaram animadores
+
+- [Francisco Carneiro](../../Pessoas/F/Francisco%20Carneiro.md)
+
 ---
 
 | Categorias |

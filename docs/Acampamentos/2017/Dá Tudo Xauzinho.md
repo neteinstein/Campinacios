@@ -13,6 +13,7 @@
 
 ## Participantes que se tornaram animadores
 
+- [Francisco Carneiro](../../Pessoas/F/Francisco%20Carneiro.md)
 - [Francisco Dioniz Barroso Loureiro](../../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
 
 ---
