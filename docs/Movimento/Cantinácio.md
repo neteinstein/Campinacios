@@ -27,10 +27,10 @@ E tu também, porque *you really care for music, don’t you?*
 { .wk-assinatura }
 
 <div class="wk-botoes" markdown="0">
-<button type="button" class="md-button md-button--primary wk-cantinacio-imprimir">Cantinácio Virtual</button>
-<a class="md-button md-button--primary" href="../assets/documentos/Cantin%C3%A1cio%202019.pdf" target="_blank" rel="noopener">Cantinácio Original</a>
+<button type="button" class="md-button md-button--primary wk-cantinacio-imprimir" data-goatcounter-click="cantinacio-virtual" data-goatcounter-title="Botão Cantinácio Virtual">Cantinácio Virtual</button>
+<a class="md-button md-button--primary" href="../assets/documentos/Cantin%C3%A1cio%202019.pdf" data-goatcounter-click="cantinacio-original" data-goatcounter-title="Botão Cantinácio Original" target="_blank" rel="noopener">Cantinácio Original</a>
 <a class="md-button" href="#letras-e-acordes">Ver Músicas Aqui</a>
-<a class="md-button md-button--primary" href="https://www.camtil.pt/camtilena" target="_blank" rel="noopener">Camtilena Virtual</a>
+<a class="md-button md-button--primary" href="https://www.camtil.pt/camtilena" data-goatcounter-click="camtilena-virtual" data-goatcounter-title="Botão Camtilena Virtual" target="_blank" rel="noopener">Camtilena Virtual</a>
 </div>
 
 !!! info "Como funcionam os botões"
@@ -40,6 +40,12 @@ E tu também, porque *you really care for music, don’t you?*
     O botão **Cantinácio Original** abre o PDF do Cantinácio de 2019 (3.ª edição), tal como foi feito para imprimir, com as ilustrações e o índice originais.
 
     O botão **Camtilena Virtual** permite o download da versão pública da 10.ª Edição da Camtilena no site do [Camtil](Camtil.md). O seu [Prefácio](Cantin%C3%A1cio/Camtilena%20Pref%C3%A1cio.md) é do Pe. [António Sant'Ana](../Pessoas/A/Ant%C3%B3nio%20Sant%27Ana.md), sj.
+
+    **Utilização dos botões**
+
+    - Cantinácio Virtual — <span data-contador="cantinacio-virtual">…</span>
+    - Cantinácio Original — <span data-contador="cantinacio-original">…</span>
+    - Camtilena Virtual — <span data-contador="camtilena-virtual">…</span>
 
 ## Letras e acordes
 
