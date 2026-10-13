@@ -1,6 +1,6 @@
 # Não Confundas
 
-**Não Confundas** foi um acampamento de [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) realizado em 2025. O tema do ano foi *Tornai-vos como crianças*.
+**Não Confundas** foi um acampamento de [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) realizado em 2025 em [Sequeiros (Braga)](../../Restrito/Locais%20de%20Acampamento/Sequeiros%20%28Braga%29.md). O tema do ano foi *Tornai-vos como crianças*.
 
 ### Animadores
 
