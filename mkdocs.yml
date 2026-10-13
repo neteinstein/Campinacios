@@ -61,6 +61,7 @@ extra_javascript:
   - assets/pesquisa-campos.js
   - assets/qrcode.js
   - assets/cantinacio-imprimir.js
+  - assets/contador-botoes.js
 
 validation:
   links:
