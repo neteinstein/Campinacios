@@ -2,7 +2,7 @@
 
 Animadores do Colégio das Caldinhas
 
-## Páginas nesta categoria (173)
+## Páginas nesta categoria (175)
 
 - [Amílcar Sousa](../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
 - [Ana Carolina Bardi](../Pessoas/A/Ana%20Carolina%20Bardi.md)
@@ -42,6 +42,7 @@ Animadores do Colégio das Caldinhas
 - [Carlos Borges](../Pessoas/C/Carlos%20Borges.md)
 - [Carlos Miguel Albuquerque](../Pessoas/C/Carlos%20Miguel%20Albuquerque.md)
 - [Carolina Carvalho](../Pessoas/C/Carolina%20Carvalho.md)
+- [Carolina Dias](../Pessoas/C/Carolina%20Dias.md)
 - [Catarina Alves](../Pessoas/C/Catarina%20Alves.md)
 - [Catarina Pinto](../Pessoas/C/Catarina%20Pinto.md)
 - [Cátia Carvalho](../Pessoas/C/C%C3%A1tia%20Carvalho.md)
@@ -68,6 +69,7 @@ Animadores do Colégio das Caldinhas
 - [Francisca Dias](../Pessoas/F/Francisca%20Dias.md)
 - [Francisco Almeida (Kiko)](../Pessoas/F/Francisco%20Almeida%20%28Kiko%29.md)
 - [Francisco Barroso](../Pessoas/F/Francisco%20Barroso.md)
+- [Francisco Carneiro](../Pessoas/F/Francisco%20Carneiro.md)
 - [Francisco Silva (Kiko)](../Pessoas/F/Francisco%20Silva%20%28Kiko%29.md)
 - [Gabriel Ponte](../Pessoas/G/Gabriel%20Ponte.md)
 - [Hélder Sousa](../Pessoas/H/H%C3%A9lder%20Sousa.md)
