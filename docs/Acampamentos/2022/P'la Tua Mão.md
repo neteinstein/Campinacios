@@ -1,6 +1,6 @@
 # P'la Tua Mão
 
-**P'la Tua Mão** foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) realizado em 2022. O tema do ano foi *Ver novas todas as coisas em Cristo*.
+**P'la Tua Mão** foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) realizado em 2022 em Dornelas. O tema do ano foi *Ver novas todas as coisas em Cristo*.
 
 ### Animadores
 

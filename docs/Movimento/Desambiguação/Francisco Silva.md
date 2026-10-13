@@ -4,6 +4,7 @@
 
 **Francisco Silva** pode ser:
 
+- [Francisco Goiana da Silva](../../Pessoas/F/Francisco%20Goiana%20da%20Silva.md), Director-Adjunto do [Pó-Có](../../Acampamentos/2014/P%C3%B3-C%C3%B3.md) em 2014.
 - [Francisco Silva (Kiko)](../../Pessoas/F/Francisco%20Silva%20%28Kiko%29.md), animador do CC desde 2006.
 - [Francisco Silva (1995)](../../Pessoas/F/Francisco%20Silva%20%281995%29.md), conhecido por Chico, Animador Livre no [Benfeita 95](../../Acampamentos/1995/Benfeita%2095.md).
 - [Chico Silva](../../Pessoas/C/Chico%20Silva.md), Director-Adjunto nos acampamentos de 2022 e 2024.

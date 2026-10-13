@@ -8,7 +8,7 @@ Músicas nascidas nos acampamentos dos [Campinácios](../Campin%C3%A1cios.md) e 
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (75 músicas)
+## Índice (77 músicas)
 
 - [HINO DOS CAMPINÁCIOS](#hino-dos-campinacios) — Hino dos Campinácios (2025)
 - [ABENÇOAI SENHOR 2](#abencoai-senhor-2)
@@ -43,6 +43,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [FAZ AS MALAS](#faz-as-malas) — Musical “Vida de Campo”
 - [FRANGO E A GALINHA](#frango-e-a-galinha)
 - [GENÉRICO DA NOVELA (ORIENTU)](#generico-da-novela-orientu) — Genérico da Novela do Campo OrienTu (2008)
+- [GLÓRIA A TI / NON NOBIS](#gloria-a-ti-non-nobis) — Cântico de oração do Campo Non Nobis (2026)
 - [HINO DE CAMPO](#hino-de-campo) — Campo OPA (2007)
 - [HINO DOS 20 ANOS](#hino-dos-20-anos)
 - [JOVEM COMO A PLANTA](#jovem-como-a-planta)
@@ -52,6 +53,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [LESMAS](#lesmas) — Melodia Get Lucky - Daft Punk
 - [MANGUEIRA NICE](#mangueira-nice) — Hino do Campo Mangueira Nice (2025)
 - [MINHA LINDA MEU AMOR](#minha-linda-meu-amor)
+- [NON NOBIS](#non-nobis) — Hino do Campo Non Nobis (2026)
 - [O AMOR É COMO UM FOGO](#o-amor-e-como-um-fogo)
 - [O ANDRÉ E A CECÍLIA](#o-andre-e-a-cecilia) — Campo Quatro Patas (2001) (Manel Matos)
 - [OBRIGADO PELA BOA COMIDA](#obrigado-pela-boa-comida) — (estalidos de dedos)
@@ -76,6 +78,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [TÁBEEEIM](#tabeeeim) — Hino do Campo Tábeeeim (2010)
 - [TER UMA EQUIPA](#ter-uma-equipa) — Musical “Vida de Campo”
 - [TIAS](#tias) — (melodia Dunas)
+- [TOMARA A MIM](#tomara-a-mim) — Música da caminhada do Campo Non Nobis (2026)
 - [TU ÉS O MEU FOGO](#tu-es-o-meu-fogo)
 - [TU JÁ NAMORAS?](#tu-ja-namoras)
 - [VEM ACUDIR](#vem-acudir) — Hino da Novela do Campo Long Tao (2006) (António Amaral e Leonardo Carvalho)
@@ -1107,6 +1110,26 @@ salta e vem DANÇAAAAAR
 -AllÔ comadre Marcela, é a Severina... TÔ foribuuundaaa!!!
 ```
 
+### GLÓRIA A TI / NON NOBIS {#gloria-a-ti-non-nobis}
+
+*Cântico de oração do Campo [Non Nobis](../../Acampamentos/2026/Non%20Nobis.md) (2026), com música do BDS*
+
+```text
+Acordes:
+Sol Mim Lám Sol
+Mim Sim Lám Ré Sol
+
+Glória a Ti, Senhor, e não a nós
+Glória a Ti, Senhor, e não a nós
+Ao teu nome, ao teu nome
+Toda a Glória
+
+Non nobis, Domine, Domine
+Non nobis, Domine
+Sed nomini, sed nomini,
+Tu o da gloriam
+```
+
 ### HINO DE CAMPO {#hino-de-campo}
 
 *Hino do Campo [OPA](../../Acampamentos/2007/OPA.md) (2007)*
@@ -1455,6 +1478,72 @@ Fá
 Sol                 Dó
   Dá-me um beijo na boca!
 (versão light: vem e vigia-me as beiças!)
+```
+
+### NON NOBIS {#non-nobis}
+
+*Hino do Campo [Non Nobis](../../Acampamentos/2026/Non%20Nobis.md) (2026)*
+
+```text
+"Ohohohohoooo" x4
+
+Vim p'ra cidade onde moram os templários
+Aqui em Tomar não estou só somos vários
+Os 7 pecados e a adoração
+Ficámos molhados com a inundação
+
+Transportados que nem imigrantes
+Por curvas, rotundas, e enjoos constantes
+O atum não caiu nada mal
+No salão paroquial
+
+Parti a clavícula na caminhada
+De vinagre uma colherada
+E com a tortilha andei à chapada
+Escolhe a melhor parte
+
+E vi uma lontra toda pelada
+Tomei banho com shampô papaia
+Demos abraços sem hora marcada
+Escolhe a melhor parte
+
+[Refrão]
+Non Nobis (E não a nós) x4
+
+Há quem diga que sou sexy
+Eu cá não sou de intrigas
+Olha os mosquitos nos olhos
+Para não falar das formigas
+
+A Maria charola
+Arrebentou com a carrinha
+Tantas ideias na tola
+No dia mundial da ervilha
+
+HUgossip das meninas
+Não as deixou dormir
+Na hora H farmei aura
+Reconheço Cristo em ti
+
+Parti de novo para o campo
+Com a Nonis no comando
+E com uma chuva que não deu descanso
+Escolhe a melhor parte
+
+E vi na novela um fado malandro
+Dormi num acampamento cigano
+E já sei quase todos os santos
+Escolhe a melhor parte
+
+[Refrão]
+Non Nobis (E não a nós) x4
+
+Tomara a mim ficar no castelo
+Beijar as estrelas no céu
+É tudo teu (x4)
+
+Yeah, yeah, yeah
+Estope, porque paró? (x2)
 ```
 
 ### O AMOR É COMO UM FOGO {#o-amor-e-como-um-fogo}
@@ -2265,6 +2354,46 @@ Dó                          Ré
 São as melhores tias que podíamos ter
 Sol
 Tias....
+```
+
+### TOMARA A MIM {#tomara-a-mim}
+
+*Música da caminhada do Campo [Non Nobis](../../Acampamentos/2026/Non%20Nobis.md) (2026)*
+
+```text
+Acordes: Mi Lá Fá#m
+
+[Refrão x2]
+Tomara a mim, chegar ao castelo
+Tomara a mim, beijar as estrelas do céu
+É tudo teu
+
+Na estrada afim, há muitos cenários
+Vim p'ra cidade onde moram os templários
+Na caminhada, vou erguer a minha voz
+Glória a Ti, Senhor, e não a nós
+
+[Refrão x2]
+
+O caminho é longo e dói-me o pé
+Glória a Ti, Senhor, e a S. José
+O caminho é longo e a água é fria
+Glória a Ti, Senhor, e à Virgem Maria
+
+[Refrão x2]
+
+São João Batista molhaste Jesus,
+São João discípulo viste o Senhor na Cruz
+São Tomé, porque duvidaste?
+Judas, entregaste-O a Pôncio Pilaste
+São Mateus, cobrador de dinheiro
+O Senhor converteu-te por inteiro
+São Bartolomeu pescador d'homens
+Viste o Senhor a multiplicar os pães
+Simão Pedro, o que é que fizeste?
+O galo cantou e negaste o teu mestre
+
+[Refrão x2]
 ```
 
 ### TU ÉS O MEU FOGO {#tu-es-o-meu-fogo}

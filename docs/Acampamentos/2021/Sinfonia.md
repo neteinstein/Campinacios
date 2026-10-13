@@ -10,6 +10,10 @@
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [António Pamplona](../../Pessoas/A/Ant%C3%B3nio%20Pamplona.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Afonso Espregueira](../../Pessoas/A/Afonso%20Espregueira.md) sj
 
+## Participantes que se tornaram animadores
+
+- [Carolina Dias](../../Pessoas/C/Carolina%20Dias.md)
+
 ---
 
 | Categorias |

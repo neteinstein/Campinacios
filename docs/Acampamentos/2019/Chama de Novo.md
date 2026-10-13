@@ -11,6 +11,10 @@
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Francisco Cortês Ferreira](../../Pessoas/F/Francisco%20Cort%C3%AAs%20Ferreira.md) sj
 - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Vicente Goes](../../Pessoas/V/Vicente%20Goes.md)
 
+## Participantes que se tornaram animadores
+
+- [Carolina Dias](../../Pessoas/C/Carolina%20Dias.md)
+
 ---
 
 | Categorias |

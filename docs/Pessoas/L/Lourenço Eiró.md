@@ -37,6 +37,7 @@ Lourenço Eiró foi um dos fundadores dos [Campinácios](../../Movimento/Campin%
     - 2011 [Pedrogulho](../../Acampamentos/2011/Pedrogulho.md) - [Director](../../Cargos/Director.md)
     - 2011 [Peregrinação às JMJ](../../Acampamentos/2011/Peregrina%C3%A7%C3%A3o%20%C3%A0s%20JMJ.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2012 [Conta Kms](../../Acampamentos/2012/Conta%20Kms.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+    - 2016 [Troca](../../Acampamentos/2016/Troca.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
 ### Encontros
 

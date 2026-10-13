@@ -12,8 +12,8 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 | **2025/2026** | [Fernando Monteiro](../Pessoas/F/Fernando%20Monteiro.md) | [Vasco Lucas Pires](../Pessoas/V/Vasco%20Lucas%20Pires.md) sj | [Francisco Barroso](../Pessoas/F/Francisco%20Barroso.md) (Dinha) (responsável pelo Material), [Daniela Gonçalves](../Pessoas/D/Daniela%20Gon%C3%A7alves.md), [André Vale](../Pessoas/A/Andr%C3%A9%20Vale.md) |
 | **2024/2025** | [Afonso Carvalho](../Pessoas/A/Afonso%20Carvalho.md) | [Domingos Perloiro](../Pessoas/D/Domingos%20Perloiro.md) sj | [André Vale](../Pessoas/A/Andr%C3%A9%20Vale.md) (responsável pelo Material), [Afonso Evangelista](../Pessoas/A/Afonso%20Evangelista.md), [Beatriz Mesquita](../Pessoas/B/Beatriz%20Mesquita.md) |
 | **2023/2024** | [Francisco Ilhão](../Pessoas/F/Francisco%20Ilh%C3%A3o.md) | [Domingos Perloiro](../Pessoas/D/Domingos%20Perloiro.md) sj | [Beatriz Miguel](../Pessoas/B/Beatriz%20Miguel.md), [André Vale](../Pessoas/A/Andr%C3%A9%20Vale.md) (responsável pelo Material), [Afonso Carvalho](../Pessoas/A/Afonso%20Carvalho.md) |
-| **2022/2023** | [Tiago Vidal](../Pessoas/T/Tiago%20Vidal.md) | [Afonso Espregueira](../Pessoas/A/Afonso%20Espregueira.md) sj | — |
-| **2021/2022** | [Rafaela Azevedo](../Pessoas/R/Rafaela%20Azevedo.md) | [Afonso Espregueira](../Pessoas/A/Afonso%20Espregueira.md) sj | — |
+| **2022/2023** | [Tiago Vidal](../Pessoas/T/Tiago%20Vidal.md) | [Afonso Espregueira](../Pessoas/A/Afonso%20Espregueira.md) sj | [Francisco Carneiro](../Pessoas/F/Francisco%20Carneiro.md) (Tesoureiro) |
+| **2021/2022** | [Rafaela Azevedo](../Pessoas/R/Rafaela%20Azevedo.md) | [Afonso Espregueira](../Pessoas/A/Afonso%20Espregueira.md) sj | [Francisco Carneiro](../Pessoas/F/Francisco%20Carneiro.md) |
 | **2020/2021** | [Rita Sousa](../Pessoas/R/Rita%20Sousa.md) | [Samuel Beirão](../Pessoas/S/Samuel%20Beir%C3%A3o.md) sj | [Joana Ferreira](../Pessoas/J/Joana%20Ferreira%20%28CC%29.md), [Maria do Carmo Cunha e Carmo](../Pessoas/M/Maria%20do%20Carmo%20Cunha%20e%20Carmo.md) |
 | **2019/2020** | [Mariana Salazar](../Pessoas/M/Mariana%20Salazar.md) | [António Santos Lourenço](../Pessoas/A/Ant%C3%B3nio%20Santos%20Louren%C3%A7o.md) sj | [Rita Sousa](../Pessoas/R/Rita%20Sousa.md), [Renato Sousa](../Pessoas/R/Renato%20Sousa.md), [Gonçalo Sá](../Pessoas/G/Gon%C3%A7alo%20S%C3%A1.md), [Joana Ferreira](../Pessoas/J/Joana%20Ferreira%20%28CC%29.md) |
 | **2018/2019** | [Nuno Mesquita](../Pessoas/N/Nuno%20Mesquita.md) | [Luís Onofre](../Pessoas/L/Lu%C3%ADs%20Onofre.md) sj | [Miguel Carneiro](../Pessoas/M/Miguel%20Carneiro.md), [Mariana Salazar](../Pessoas/M/Mariana%20Salazar.md), [Joana Ferreira](../Pessoas/J/Joana%20Ferreira%20%28CC%29.md) |
@@ -43,7 +43,7 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 
 </div>
 
-## Páginas nesta categoria (79)
+## Páginas nesta categoria (80)
 
 - [Afonso Carvalho](../Pessoas/A/Afonso%20Carvalho.md)
 - [Afonso Espregueira](../Pessoas/A/Afonso%20Espregueira.md)
@@ -65,6 +65,7 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [Beatriz Miguel](../Pessoas/B/Beatriz%20Miguel.md)
 - [Bruno Costa](../Pessoas/B/Bruno%20Costa.md)
 - [Carlos Miguel Albuquerque](../Pessoas/C/Carlos%20Miguel%20Albuquerque.md)
+- [Francisco Carneiro](../Pessoas/F/Francisco%20Carneiro.md)
 - [Maria do Carmo Cunha e Carmo](../Pessoas/M/Maria%20do%20Carmo%20Cunha%20e%20Carmo.md)
 - [Carolina Carvalho](../Pessoas/C/Carolina%20Carvalho.md)
 - [Daniela Gonçalves](../Pessoas/D/Daniela%20Gon%C3%A7alves.md)

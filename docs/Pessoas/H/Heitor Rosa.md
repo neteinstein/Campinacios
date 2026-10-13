@@ -1,7 +1,5 @@
 # Heitor Rosa
 
-*Nota: Este artigo é sobre Heitor Rosa. Se procura Rosa, do Vesp'á Luz de 2021, consulte [Rosa](../R/Rosa.md).*
-
 ### Acampamentos
 
 - **Participante:**
