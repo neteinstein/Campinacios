@@ -2,6 +2,10 @@
 
 **Non Nobis** foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) realizado em 2026 em [Agroal (Tomar)](../../Restrito/Locais%20de%20Acampamento/Agroal%20%28Tomar%29.md). O tema do ano foi *Escolhe a melhor parte*.
 
+O imaginário do campo foram os Templários. A novela foi uma adaptação da peça *Sonho de uma Noite de Verão*. Nos momentos de oração cantou-se o «Non Nobis», um cântico templário adaptado à realidade dos campos de férias.
+
+O hino deste campo, o cântico «Glória a Ti / Non Nobis» e a música da caminhada, «Tomara a Mim», estão no [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#non-nobis) ([hino](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#non-nobis), [Glória a Ti / Non Nobis](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#gloria-a-ti-non-nobis), [Tomara a Mim](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#tomara-a-mim)).
+
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Jaime Lucas Pires](../../Pessoas/J/Jaime%20Lucas%20Pires.md)
