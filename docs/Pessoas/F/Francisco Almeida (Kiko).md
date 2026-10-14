@@ -1,6 +1,6 @@
 # Francisco Almeida (Kiko)
 
-*Nota: Este artigo é sobre Francisco Almeida («Kiko»), antigo animador do CSJB. Se procura Francisco Silva («Kiko»), animador do CC desde 2006, consulte [Francisco Silva (Kiko)](../F/Francisco%20Silva%20%28Kiko%29.md).*
+*Nota: Este artigo é sobre Francisco Almeida («Kiko»), antigo animador do CSJB. Se procura Francisco Goiana da Silva («Kiko»), animador do CC desde 2006, consulte [Francisco Goiana da Silva](../F/Francisco%20Goiana%20da%20Silva.md).*
 
 ### Acampamentos
 

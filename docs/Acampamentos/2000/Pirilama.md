@@ -14,7 +14,7 @@ O Pirilama foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que 
 ## Participantes que se tornaram animadores
 
 - [António Queiroz Martins](../../Pessoas/A/Ant%C3%B3nio%20Queiroz%20Martins.md)
-- [Francisco Silva (Kiko)](../../Pessoas/F/Francisco%20Silva%20%28Kiko%29.md)
+- [Francisco Goiana da Silva](../../Pessoas/F/Francisco%20Goiana%20da%20Silva.md)
 - [Mariana Turras](../../Pessoas/M/Mariana%20Turras.md)
 
 ---
