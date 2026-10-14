@@ -9,7 +9,7 @@ Animadores dos Campinácios
 - [Animadores do CSJB](Animadores%20do%20CSJB.md)
 - [Jesuítas](Jesu%C3%ADtas.md)
 
-## Páginas nesta categoria (830)
+## Páginas nesta categoria (831)
 
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Afonso Barrocas](../Pessoas/A/Afonso%20Barrocas.md)
@@ -266,6 +266,7 @@ Animadores dos Campinácios
 - [Francisco Moitinho Almeida](../Pessoas/F/Francisco%20Moitinho%20Almeida.md)
 - [Francisco Penetra](../Pessoas/F/Francisco%20Penetra.md)
 - [Francisco Rodrigues (CAIC)](../Pessoas/F/Francisco%20Rodrigues%20%28CAIC%29.md)
+- [Francisco Rodrigues (jesuíta)](../Pessoas/F/Francisco%20Rodrigues%20%28jesu%C3%ADta%29.md)
 - [Francisco Sá](../Pessoas/F/Francisco%20S%C3%A1.md)
 - [Francisco Seabra](../Pessoas/F/Francisco%20Seabra.md)
 - [Francisco Silva (1995)](../Pessoas/F/Francisco%20Silva%20%281995%29.md)

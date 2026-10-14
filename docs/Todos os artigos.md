@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1333 artigos e, em itálico, os 232 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1334 artigos e, em itálico, os 232 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -602,6 +602,7 @@
 - [Francisco Penetra](Pessoas/F/Francisco%20Penetra.md)
 - [Francisco Rodrigues](Movimento/Desambigua%C3%A7%C3%A3o/Francisco%20Rodrigues.md)
 - [Francisco Rodrigues (CAIC)](Pessoas/F/Francisco%20Rodrigues%20%28CAIC%29.md)
+- [Francisco Rodrigues (jesuíta)](Pessoas/F/Francisco%20Rodrigues%20%28jesu%C3%ADta%29.md)
 - *Francisco Rodrigues (Pica)* → [Francisco Silva Rodrigues](Pessoas/F/Francisco%20Silva%20Rodrigues.md)
 - [Francisco Sá](Pessoas/F/Francisco%20S%C3%A1.md)
 - [Francisco Seabra](Pessoas/F/Francisco%20Seabra.md)

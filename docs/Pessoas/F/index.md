@@ -49,6 +49,7 @@
 - [Francisco Mota](Francisco%20Mota.md)
 - [Francisco Penetra](Francisco%20Penetra.md)
 - [Francisco Rodrigues (CAIC)](Francisco%20Rodrigues%20%28CAIC%29.md)
+- [Francisco Rodrigues (jesuíta)](Francisco%20Rodrigues%20%28jesu%C3%ADta%29.md)
 - [Francisco Sá](Francisco%20S%C3%A1.md)
 - [Francisco Seabra](Francisco%20Seabra.md)
 - [Francisco Silva (1995)](Francisco%20Silva%20%281995%29.md)
