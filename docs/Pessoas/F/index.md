@@ -52,7 +52,6 @@
 - [Francisco Sá](Francisco%20S%C3%A1.md)
 - [Francisco Seabra](Francisco%20Seabra.md)
 - [Francisco Silva (1995)](Francisco%20Silva%20%281995%29.md)
-- [Francisco Silva (Kiko)](Francisco%20Silva%20%28Kiko%29.md)
 - [Francisco Silva Rodrigues](Francisco%20Silva%20Rodrigues.md)
 - [Frederico Cardoso de Lemos](Frederico%20Cardoso%20de%20Lemos.md)
 - [Frederico Ferreira](Frederico%20Ferreira.md)
