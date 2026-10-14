@@ -5,6 +5,7 @@
 **Francisco Rodrigues** pode ser:
 
 - [Francisco Rodrigues](../../Pessoas/F/Francisco%20Rodrigues%20%28CAIC%29.md) animador do CAIC.
+- [Francisco Rodrigues](../../Pessoas/F/Francisco%20Rodrigues%20%28jesu%C3%ADta%29.md), jesuíta, Capelão do [Gipsy Kings](../../Acampamentos/1999/Gipsy%20Kings.md) em 1999.
 - [Francisco Silva Rodrigues](../../Pessoas/F/Francisco%20Silva%20Rodrigues.md) (Pica), animador do CSJB desde 2005.
 
 ---

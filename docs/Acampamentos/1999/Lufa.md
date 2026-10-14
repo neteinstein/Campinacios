@@ -10,7 +10,7 @@ O Lufa decorreu em [Alvoco das Várzeas](../../Restrito/Locais%20de%20Acampament
 ## Participantes que se tornaram animadores
 
 - [Diogo Belo](../../Pessoas/D/Diogo%20Belo.md)
-- [Francisco Silva (Kiko)](../../Pessoas/F/Francisco%20Silva%20%28Kiko%29.md)
+- [Francisco Goiana da Silva](../../Pessoas/F/Francisco%20Goiana%20da%20Silva.md)
 - [Inês Turras](../../Pessoas/I/In%C3%AAs%20Turras.md)
 
 ---

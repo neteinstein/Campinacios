@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1334 artigos e, em itálico, os 231 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1334 artigos e, em itálico, os 232 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -602,12 +602,13 @@
 - [Francisco Penetra](Pessoas/F/Francisco%20Penetra.md)
 - [Francisco Rodrigues](Movimento/Desambigua%C3%A7%C3%A3o/Francisco%20Rodrigues.md)
 - [Francisco Rodrigues (CAIC)](Pessoas/F/Francisco%20Rodrigues%20%28CAIC%29.md)
+- [Francisco Rodrigues (jesuíta)](Pessoas/F/Francisco%20Rodrigues%20%28jesu%C3%ADta%29.md)
 - *Francisco Rodrigues (Pica)* → [Francisco Silva Rodrigues](Pessoas/F/Francisco%20Silva%20Rodrigues.md)
 - [Francisco Sá](Pessoas/F/Francisco%20S%C3%A1.md)
 - [Francisco Seabra](Pessoas/F/Francisco%20Seabra.md)
 - [Francisco Silva](Movimento/Desambigua%C3%A7%C3%A3o/Francisco%20Silva.md)
 - [Francisco Silva (1995)](Pessoas/F/Francisco%20Silva%20%281995%29.md)
-- [Francisco Silva (Kiko)](Pessoas/F/Francisco%20Silva%20%28Kiko%29.md)
+- *Francisco Silva (Kiko)* → [Francisco Goiana da Silva](Pessoas/F/Francisco%20Goiana%20da%20Silva.md)
 - [Francisco Silva Rodrigues](Pessoas/F/Francisco%20Silva%20Rodrigues.md)
 - [Francisco Xavier](Pessoas/F/Francisco%20Xavier.md)
 - [Frederico Cardoso de Lemos](Pessoas/F/Frederico%20Cardoso%20de%20Lemos.md)
@@ -879,7 +880,7 @@
 
 - *Káká* → [Carolina Morão](Pessoas/C/Carolina%20Mor%C3%A3o.md)
 - *Kaká* → [Ricardo Rodrigues](Pessoas/R/Ricardo%20Rodrigues.md)
-- *Kiko* → [Francisco Silva (Kiko)](Pessoas/F/Francisco%20Silva%20%28Kiko%29.md)
+- *Kiko* → [Francisco Goiana da Silva](Pessoas/F/Francisco%20Goiana%20da%20Silva.md)
 - [Kiko Alves da Silva](Pessoas/K/Kiko%20Alves%20da%20Silva.md)
 - [Kiko Carmo](Pessoas/K/Kiko%20Carmo.md)
 - [Kiko Gomes](Pessoas/K/Kiko%20Gomes.md)

@@ -70,7 +70,7 @@ Animadores do Colégio das Caldinhas
 - [Francisco Almeida (Kiko)](../Pessoas/F/Francisco%20Almeida%20%28Kiko%29.md)
 - [Francisco Barroso](../Pessoas/F/Francisco%20Barroso.md)
 - [Francisco Carneiro](../Pessoas/F/Francisco%20Carneiro.md)
-- [Francisco Silva (Kiko)](../Pessoas/F/Francisco%20Silva%20%28Kiko%29.md)
+- [Francisco Goiana da Silva](../Pessoas/F/Francisco%20Goiana%20da%20Silva.md)
 - [Gabriel Ponte](../Pessoas/G/Gabriel%20Ponte.md)
 - [Hélder Sousa](../Pessoas/H/H%C3%A9lder%20Sousa.md)
 - [Hugo Ferreira](../Pessoas/H/Hugo%20Ferreira.md)
