@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1351 artigos e, em itálico, os 242 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1348 artigos e, em itálico, os 245 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -446,7 +446,7 @@
 - [Duarte Dias](Pessoas/D/Duarte%20Dias.md)
 - [Duarte Nifo](Pessoas/D/Duarte%20Nifo.md)
 - [Duarte Rosado](Pessoas/D/Duarte%20Rosado.md)
-- [Dudu Ribeiro](Pessoas/D/Dudu%20Ribeiro.md)
+- *Dudu Ribeiro* → [Duarte Ribeiro](Pessoas/D/Duarte%20Ribeiro.md)
 
 ## E
 
@@ -841,7 +841,7 @@
 - [João Salgueiro](Pessoas/J/Jo%C3%A3o%20Salgueiro.md)
 - [João Silvestre](Pessoas/J/Jo%C3%A3o%20Silvestre.md)
 - [Joca](Pessoas/J/Joca.md)
-- [Johnny Sousa](Pessoas/J/Johnny%20Sousa.md)
+- *Johnny Sousa* → [João Afonso Sousa](Pessoas/J/Jo%C3%A3o%20Afonso%20Sousa.md)
 - *Jonifa* → [João Freire de Andrade](Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md)
 - [Jorge Casanova](Pessoas/J/Jorge%20Casanova.md)
 - [Jorge Gonçalves](Pessoas/J/Jorge%20Gon%C3%A7alves.md)
@@ -1344,7 +1344,7 @@
 ## R
 
 - *Rafa Azevedo* → [Rafaela Azevedo](Pessoas/R/Rafaela%20Azevedo.md)
-- [Rafa Mano](Pessoas/R/Rafa%20Mano.md)
+- *Rafa Mano* → [Rafaela Mano](Pessoas/R/Rafaela%20Mano.md)
 - [Rafa Silva](Pessoas/R/Rafa%20Silva.md)
 - [Rafael Carecho](Pessoas/R/Rafael%20Carecho.md)
 - [Rafael Lucas Pires](Pessoas/R/Rafael%20Lucas%20Pires.md)

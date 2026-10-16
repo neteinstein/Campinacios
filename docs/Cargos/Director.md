@@ -61,7 +61,7 @@ Ver também o [Manual do Director](../Movimento/Manual%20do%20Director.md), com 
 - [Diogo Torcato](../Pessoas/D/Diogo%20Torcato.md)
 - [Domingos Freire de Andrade](../Pessoas/D/Domingos%20Freire%20de%20Andrade.md)
 - [Domingos Freitas](../Pessoas/D/Domingos%20Freitas.md)
-- [Dudu Ribeiro](../Pessoas/D/Dudu%20Ribeiro.md)
+- [Duarte Ribeiro](../Pessoas/D/Duarte%20Ribeiro.md)
 - [Eduarda Roxo](../Pessoas/E/Eduarda%20Roxo.md)
 - [Eduardo Rodrigues](../Pessoas/E/Eduardo%20Rodrigues.md)
 - [Fernando Bacelar](../Pessoas/F/Fernando%20Bacelar.md)

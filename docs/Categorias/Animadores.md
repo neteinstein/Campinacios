@@ -9,7 +9,7 @@ Animadores dos Campinácios
 - [Animadores do CSJB](Animadores%20do%20CSJB.md)
 - [Jesuítas](Jesu%C3%ADtas.md)
 
-## Páginas nesta categoria (851)
+## Páginas nesta categoria (848)
 
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Afonso Barrocas](../Pessoas/A/Afonso%20Barrocas.md)
@@ -218,7 +218,6 @@ Animadores dos Campinácios
 - [Duarte Pinto](../Pessoas/D/Duarte%20Pinto.md)
 - [Duarte Ribeiro](../Pessoas/D/Duarte%20Ribeiro.md)
 - [Duarte Soares](../Pessoas/D/Duarte%20Soares.md)
-- [Dudu Ribeiro](../Pessoas/D/Dudu%20Ribeiro.md)
 - [Eduarda Roxo](../Pessoas/E/Eduarda%20Roxo.md)
 - [Eduarda Vilela](../Pessoas/E/Eduarda%20Vilela.md)
 - [Eduardo Almeida](../Pessoas/E/Eduardo%20Almeida.md)
@@ -403,7 +402,6 @@ Animadores dos Campinácios
 - [João Pacheco de Sousa](../Pessoas/J/Jo%C3%A3o%20Pacheco%20de%20Sousa.md)
 - [Joaquim Abreu](../Pessoas/J/Joaquim%20Abreu.md)
 - [Joca](../Pessoas/J/Joca.md)
-- [Johnny Sousa](../Pessoas/J/Johnny%20Sousa.md)
 - [Jorge Casanova](../Pessoas/J/Jorge%20Casanova.md)
 - [Jorge Gonçalves](../Pessoas/J/Jorge%20Gon%C3%A7alves.md)
 - [Jorge Moreira](../Pessoas/J/Jorge%20Moreira.md)
@@ -712,7 +710,6 @@ Animadores dos Campinácios
 - [Pedro Turras](../Pessoas/P/Pedro%20Turras.md)
 - [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)
 - [Quico](../Pessoas/Q/Quico.md)
-- [Rafa Mano](../Pessoas/R/Rafa%20Mano.md)
 - [Rafa Silva](../Pessoas/R/Rafa%20Silva.md)
 - [Rafael Carecho](../Pessoas/R/Rafael%20Carecho.md)
 - [Rafael Lucas Pires](../Pessoas/R/Rafael%20Lucas%20Pires.md)
