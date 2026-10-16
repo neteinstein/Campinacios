@@ -5,7 +5,7 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Nuno Mesquita](../../Pessoas/N/Nuno%20Mesquita.md)
-- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Heitor Rosa](../../Pessoas/H/Heitor%20Rosa.md)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Heitor Rosa](../../Pessoas/H/Heitor%20Rosa.md) e [Vera Pina](../../Pessoas/V/Vera%20Pina.md)
 
 ## Participantes que se tornaram animadores
 

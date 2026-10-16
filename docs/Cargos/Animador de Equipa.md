@@ -376,6 +376,7 @@
 - [Vânia Carvalho](../Pessoas/V/V%C3%A2nia%20Carvalho.md)
 - [Vasco Lobo](../Pessoas/V/Vasco%20Lobo.md)
 - [Vasco Romão](../Pessoas/V/Vasco%20Rom%C3%A3o.md)
+- [Vera Pina](../Pessoas/V/Vera%20Pina.md)
 - [Vicente Goes](../Pessoas/V/Vicente%20Goes.md)
 - [Vítor Fernandes](../Pessoas/V/V%C3%ADtor%20Fernandes.md)
 - [Vítor Leite](../Pessoas/V/V%C3%ADtor%20Leite.md)

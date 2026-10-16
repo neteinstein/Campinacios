@@ -56,7 +56,7 @@
 - [Hugo Rafael Ferreira](../Pessoas/H/Hugo%20Rafael%20Ferreira.md)
 - [Ivo Reis](../Pessoas/I/Ivo%20Reis.md)
 - [Jacinto Bezerra](../Pessoas/J/Jacinto%20Bezerra.md)
-- [Joana Ferreira (2019)](../Pessoas/J/Joana%20Ferreira%20%282019%29.md)
+- [Joana Ferreira (CC)](../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 - [Joana Gomes](../Pessoas/J/Joana%20Gomes.md)
 - [João Afonso Sousa](../Pessoas/J/Jo%C3%A3o%20Afonso%20Sousa.md)
 - [João Cortês Ferreira](../Pessoas/J/Jo%C3%A3o%20Cort%C3%AAs%20Ferreira.md)

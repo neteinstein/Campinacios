@@ -7,6 +7,10 @@
 - [Director](../../Cargos/Director.md) - [Paulo Cardoso](../../Pessoas/P/Paulo%20Cardoso.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Sílvia Lobo](../../Pessoas/S/S%C3%ADlvia%20Lobo.md)
 
+## Participantes que se tornaram animadores
+
+- [Vera Pina](../../Pessoas/V/Vera%20Pina.md)
+
 ---
 
 | Categorias |

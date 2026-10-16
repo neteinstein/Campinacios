@@ -4,7 +4,7 @@
 
 ### Animadores
 
-- [Director](../../Cargos/Director.md) - [Joana Ferreira](../../Pessoas/J/Joana%20Ferreira%20%282019%29.md)
+- [Director](../../Cargos/Director.md) - [Joana Ferreira](../../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Maria Vieira](../../Pessoas/M/Maria%20Vieira.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Formiga](../../Pessoas/F/Formiga.md)
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - [Jaime Lucas Pires](../../Pessoas/J/Jaime%20Lucas%20Pires.md)

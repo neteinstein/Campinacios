@@ -1,6 +1,6 @@
 # Com Capricho
 
-**Com Capricho** foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) realizado de 17 a 26 de Agosto de 2024 em Maladão. O tema do ano foi *Fica connosco*.
+**Com Capricho** foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) realizado de 17 a 26 de Agosto de 2024 em [Maladão](../../Restrito/Locais%20de%20Acampamento/Malad%C3%A3o.md). O tema do ano foi *Fica connosco*.
 
 ### Animadores
 

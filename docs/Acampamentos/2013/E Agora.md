@@ -6,6 +6,10 @@
 
 - [Director](../../Cargos/Director.md) - [Ana Reis Sá](../../Pessoas/A/Ana%20Reis%20S%C3%A1.md)
 
+## Participantes que se tornaram animadores
+
+- [Vera Pina](../../Pessoas/V/Vera%20Pina.md)
+
 ---
 
 | Categorias |
