@@ -1,6 +1,6 @@
 # ParTijolo
 
-**ParTijolo** foi um acampamento de [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) realizado em 2024. O tema do ano foi *Fica connosco*.
+**ParTijolo** foi um acampamento de [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) realizado em 2024 em [Maladão](../../Restrito/Locais%20de%20Acampamento/Malad%C3%A3o.md). O tema do ano foi *Fica connosco*.
 
 ### Animadores
 
