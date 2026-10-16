@@ -41,4 +41,3 @@
 - [Duarte Ribeiro](Duarte%20Ribeiro.md)
 - [Duarte Rosado](Duarte%20Rosado.md)
 - [Duarte Soares](Duarte%20Soares.md)
-- [Dudu Ribeiro](Dudu%20Ribeiro.md)

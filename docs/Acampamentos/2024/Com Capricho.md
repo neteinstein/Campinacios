@@ -4,7 +4,7 @@
 
 ### Animadores
 
-- [Director](../../Cargos/Director.md) - [Dudu Ribeiro](../../Pessoas/D/Dudu%20Ribeiro.md)
+- [Director](../../Cargos/Director.md) - [Dudu Ribeiro](../../Pessoas/D/Duarte%20Ribeiro.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Margarida Tavares](../../Pessoas/M/Margarida%20Tavares.md) (Mógui)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Chico Silva](../../Pessoas/C/Chico%20Silva.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [António Ferreira da Silva](../../Pessoas/A/Ant%C3%B3nio%20Ferreira%20da%20Silva.md) sj
