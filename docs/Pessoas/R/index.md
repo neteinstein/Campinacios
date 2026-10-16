@@ -29,6 +29,7 @@
 - [Ricardo Simões](Ricardo%20Sim%C3%B5es.md)
 - [Rita Antunes](Rita%20Antunes.md)
 - [Rita Carvalho](Rita%20Carvalho.md)
+- [Rita Centeno](Rita%20Centeno.md)
 - [Rita Feijó](Rita%20Feij%C3%B3.md)
 - [Rita Fonseca](Rita%20Fonseca.md)
 - [Rita Lourenço](Rita%20Louren%C3%A7o.md)
