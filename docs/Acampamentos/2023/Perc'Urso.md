@@ -1,6 +1,6 @@
 # Perc'Urso
 
-**Perc'Urso** foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) realizado em 2023. O tema do ano foi *Maria Levantou-se e Partiu Apressadamente*.
+**Perc'Urso** foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) realizado em 2023 em [Dornelas (Braga)](../../Restrito/Locais%20de%20Acampamento/Dornelas%20%28Braga%29.md). O tema do ano foi *Maria Levantou-se e Partiu Apressadamente*.
 
 ### Animadores
 
