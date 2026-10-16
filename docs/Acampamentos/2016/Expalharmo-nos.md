@@ -5,7 +5,7 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Afonso Oom](../../Pessoas/A/Afonso%20Oom.md)
-- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Heitor Rosa](../../Pessoas/H/Heitor%20Rosa.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Heitor Rosa](../../Pessoas/H/Heitor%20Rosa.md) e [Vera Pina](../../Pessoas/V/Vera%20Pina.md)
 
 ## Participantes que se tornaram animadores
 
