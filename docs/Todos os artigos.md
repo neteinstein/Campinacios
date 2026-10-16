@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1334 artigos e, em itálico, os 232 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1338 artigos e, em itálico, os 233 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -383,6 +383,7 @@
 - [Diogo Boal Neves](Pessoas/D/Diogo%20Boal%20Neves.md)
 - [Diogo Vala](Pessoas/D/Diogo%20Vala.md)
 - [Diogo Vasconcelos](Pessoas/D/Diogo%20Vasconcelos.md)
+- [Dornelas (Braga)](Restrito/Locais%20de%20Acampamento/Dornelas%20%28Braga%29.md) 🔒
 - [Duarte Farelo](Pessoas/D/Duarte%20Farelo.md)
 - [Duarte Pinto](Pessoas/D/Duarte%20Pinto.md)
 - [Duarte Ribeiro](Pessoas/D/Duarte%20Ribeiro.md)
@@ -493,6 +494,8 @@
 - [Encontro Nacional de Animadores 2009](Encontros/Encontro%20Nacional%20de%20Animadores%202009.md)
 - [Encontro Nacional de Animadores 2010](Encontros/Encontro%20Nacional%20de%20Animadores%202010.md)
 - [Encontro Nacional de Animadores 2012](Encontros/Encontro%20Nacional%20de%20Animadores%202012.md)
+- [Encontro Nacional de Animadores 2015](Encontros/Encontro%20Nacional%20de%20Animadores%202015.md)
+- [Encontro Nacional de Animadores 2016](Encontros/Encontro%20Nacional%20de%20Animadores%202016.md)
 - [Encontro Nacional de Animadores 2025](Encontros/Encontro%20Nacional%20de%20Animadores%202025.md)
 - [Entre ASPAS](Acampamentos/2008/Entre%20ASPAS.md)
 - *Era Uma Vez* → [Era Uma Vez...](Acampamentos/2008/Era%20Uma%20Vez....md)
@@ -757,7 +760,7 @@
 - *Joana Dias Coelho* → [Joana Coelho](Pessoas/J/Joana%20Coelho.md)
 - [Joana Ferreira](Movimento/Desambigua%C3%A7%C3%A3o/Joana%20Ferreira.md)
 - [Joana Ferreira](Pessoas/J/Joana%20Ferreira.md)
-- [Joana Ferreira (2019)](Pessoas/J/Joana%20Ferreira%20%282019%29.md)
+- *Joana Ferreira (2019)* → [Joana Ferreira (CC)](Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 - [Joana Ferreira (CC)](Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 - [Joana Ferreira da Silva](Pessoas/J/Joana%20Ferreira%20da%20Silva.md)
 - [Joana Fonseca](Pessoas/J/Joana%20Fonseca.md)
@@ -986,6 +989,7 @@
 - *Maggie* → [Ana Sampaio (Maggie)](Pessoas/A/Ana%20Sampaio%20%28Maggie%29.md)
 - [Magui](Pessoas/M/Magui.md)
 - [Maior Evento de Sempre em Portugal, Maior Até que a Mega Feijoada da Ponte Vasco da Gama](Acampamentos/2023/Maior%20Evento%20de%20Sempre%20em%20Portugal%2C%20Maior%20At%C3%A9%20que%20a%20Mega%20Feijoada%20da%20Ponte%20Vasco%20da%20Gama.md)
+- [Maladão](Restrito/Locais%20de%20Acampamento/Malad%C3%A3o.md) 🔒
 - *Malú* → [Maria Silva](Pessoas/M/Maria%20Silva.md)
 - [Manuel Cardoso](Pessoas/M/Manuel%20Cardoso.md)
 - *Manuel Vasconcelos* → [Manas Vasconcelos](Pessoas/M/Manas%20Vasconcelos.md)
@@ -1036,6 +1040,7 @@
 - *Mimas* → [Mariana Rato](Pessoas/M/Mariana%20Rato.md)
 - *Mocamfe* → [MOCAMFE](Movimento/MOCAMFE.md)
 - [MOCAMFE](Movimento/MOCAMFE.md)
+- [Mogofores (Anadia)](Restrito/Locais%20de%20Acampamento/Mogofores%20%28Anadia%29.md) 🔒
 - *Mogui* → [Margarida Tavares](Pessoas/M/Margarida%20Tavares.md)
 - [Mãos à Obra](Acampamentos/2014/M%C3%A3os%20%C3%A0%20Obra.md)
 - [Maravilha-te](Acampamentos/2018/Maravilha-te.md)

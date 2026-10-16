@@ -12,6 +12,7 @@
 - [Casal Dom António (Abrantes)](Casal%20Dom%20Ant%C3%B3nio%20%28Abrantes%29.md) 🔒
 - [Cornicovo (Penacova)](Cornicovo%20%28Penacova%29.md) 🔒
 - [Digueifel (Arganil)](Digueifel%20%28Arganil%29.md) 🔒
+- [Dornelas (Braga)](Dornelas%20%28Braga%29.md) 🔒
 - [Faia (Sernancelhe)](Faia%20%28Sernancelhe%29.md) 🔒
 - [Fonte de Nena (Caldelas)](Fonte%20de%20Nena%20%28Caldelas%29.md) 🔒
 - [Fornelos (Barragem da Caniçada)](Fornelos%20%28Barragem%20da%20Cani%C3%A7ada%29.md) 🔒
@@ -21,6 +22,8 @@
 - [Lugar do Vau (Celorico de Basto)](Lugar%20do%20Vau%20%28Celorico%20de%20Basto%29.md) 🔒
 - [Mação (Santarém)](Ma%C3%A7%C3%A3o%20%28Santar%C3%A9m%29.md) 🔒
 - [Machoqueira do Grou (Santarém)](Machoqueira%20do%20Grou%20%28Santar%C3%A9m%29.md) 🔒
+- [Maladão](Malad%C3%A3o.md) 🔒
+- [Mogofores (Anadia)](Mogofores%20%28Anadia%29.md) 🔒
 - [Murtinheira (Vila Nova do Ceira)](Murtinheira%20%28Vila%20Nova%20do%20Ceira%29.md) 🔒
 - [Nossa Senhora da Graça (Sabugal, Guarda)](Nossa%20Senhora%20da%20Gra%C3%A7a%20%28Sabugal%2C%20Guarda%29.md) 🔒
 - [Pomar dos Braços (Miranda do Corvo)](Pomar%20dos%20Bra%C3%A7os%20%28Miranda%20do%20Corvo%29.md) 🔒

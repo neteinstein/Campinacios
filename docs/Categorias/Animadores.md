@@ -9,7 +9,7 @@ Animadores dos Campinácios
 - [Animadores do CSJB](Animadores%20do%20CSJB.md)
 - [Jesuítas](Jesu%C3%ADtas.md)
 
-## Páginas nesta categoria (831)
+## Páginas nesta categoria (830)
 
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Afonso Barrocas](../Pessoas/A/Afonso%20Barrocas.md)
@@ -363,7 +363,6 @@ Animadores dos Campinácios
 - [Joana Costa (2021)](../Pessoas/J/Joana%20Costa%20%282021%29.md)
 - [Joana Dias](../Pessoas/J/Joana%20Dias.md)
 - [Joana Ferreira](../Pessoas/J/Joana%20Ferreira.md)
-- [Joana Ferreira (2019)](../Pessoas/J/Joana%20Ferreira%20%282019%29.md)
 - [Joana Ferreira (CC)](../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 - [Joana Ferreira da Silva](../Pessoas/J/Joana%20Ferreira%20da%20Silva.md)
 - [Joana Fonseca](../Pessoas/J/Joana%20Fonseca.md)
