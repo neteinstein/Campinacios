@@ -82,6 +82,7 @@
 - [António Amaral](Ant%C3%B3nio%20Amaral.md)
 - [António Andrade](Ant%C3%B3nio%20Andrade.md)
 - [António Coimbra](Ant%C3%B3nio%20Coimbra.md)
+- [António Falacho](Ant%C3%B3nio%20Falacho.md)
 - [António Ferreira da Silva](Ant%C3%B3nio%20Ferreira%20da%20Silva.md)
 - [António Júlio Trigueiros](Ant%C3%B3nio%20J%C3%BAlio%20Trigueiros.md)
 - [António Leal](Ant%C3%B3nio%20Leal.md)

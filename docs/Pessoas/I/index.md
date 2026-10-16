@@ -1,9 +1,11 @@
 # I
 
+- [Inês Amado](In%C3%AAs%20Amado.md)
 - [Inês Amorim](In%C3%AAs%20Amorim.md)
 - [Inês Carvalho](In%C3%AAs%20Carvalho.md)
 - [Inês Costa](In%C3%AAs%20Costa.md)
 - [Inês Cruz](In%C3%AAs%20Cruz.md)
+- [Inês Ferreira](In%C3%AAs%20Ferreira.md)
 - [Inês Fonseca](In%C3%AAs%20Fonseca.md)
 - [Inês Furtado](In%C3%AAs%20Furtado.md)
 - [Inês Maury](In%C3%AAs%20Maury.md)
