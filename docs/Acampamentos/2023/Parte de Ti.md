@@ -1,6 +1,6 @@
 # Parte de Ti
 
-**Parte de Ti** foi um acampamento de [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) realizado em 2023. O tema do ano foi *Maria Levantou-se e Partiu Apressadamente*.
+**Parte de Ti** foi um acampamento de [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) realizado em 2023 em [Mogofores (Anadia)](../../Restrito/Locais%20de%20Acampamento/Mogofores%20%28Anadia%29.md). O tema do ano foi *Maria Levantou-se e Partiu Apressadamente*.
 
 ### Animadores
 
