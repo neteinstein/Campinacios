@@ -1,6 +1,6 @@
 # D'RIP MELON
 
-**D'RIP MELON** foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) realizado em 2024. O tema do ano foi *Fica connosco*.
+**D'RIP MELON** foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) realizado de 17 a 26 de Agosto de 2024 em Dornelas. O tema do ano foi *Fica connosco*.
 
 ### Animadores
 

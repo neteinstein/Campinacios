@@ -4,6 +4,8 @@
 
 ### Acampamentos
 
+- **Formação:**
+    - 2024 [ParTijolo](../../Acampamentos/2024/ParTijolo.md)
 - **Animador(a):**
     - 2024 [D'RIP MELON](../../Acampamentos/2024/D%27RIP%20MELON.md) - [Tia](../../Cargos/Tio.md)
 

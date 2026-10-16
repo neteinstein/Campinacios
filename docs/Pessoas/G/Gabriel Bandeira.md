@@ -1,0 +1,14 @@
+# Gabriel Bandeira
+
+### Acampamentos
+
+- **Formação:**
+    - 2024 [ParTijolo](../../Acampamentos/2024/ParTijolo.md)
+- **Animador(a):**
+    - 2024 [Com Capricho](../../Acampamentos/2024/Com%20Capricho.md) - [Animador(a) Livre](../../Cargos/Animador%20Livre.md)
+
+---
+
+| Categorias |
+| --- |
+| [Animadores](../../Categorias/Animadores.md) |
