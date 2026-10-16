@@ -1,6 +1,6 @@
 # Fight Club
 
-**Fight Club** foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) realizado em 2024. O tema do ano foi *Fica connosco*.
+**Fight Club** foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) realizado de 5 a 14 de Agosto de 2024 em [Sequeiros (Braga)](../../Restrito/Locais%20de%20Acampamento/Sequeiros%20%28Braga%29.md). O tema do ano foi *Fica connosco*.
 
 ### Animadores
 

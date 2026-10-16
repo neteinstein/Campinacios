@@ -10,6 +10,7 @@
 - [Leonor Brigas](Leonor%20Brigas.md)
 - [Leonor Cardoso](Leonor%20Cardoso.md)
 - [Leonor Correia](Leonor%20Correia.md)
+- [Leonor Fonseca](Leonor%20Fonseca.md)
 - [Leonor Silva](Leonor%20Silva.md)
 - [Leonor Simões](Leonor%20Sim%C3%B5es.md)
 - [Leonor Vala](Leonor%20Vala.md)

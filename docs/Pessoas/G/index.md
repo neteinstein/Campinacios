@@ -1,5 +1,6 @@
 # G
 
+- [Gabriel Bandeira](Gabriel%20Bandeira.md)
 - [Gabriel Ponte](Gabriel%20Ponte.md)
 - [Gabriela Poças](Gabriela%20Po%C3%A7as.md)
 - [Gonçalo Aguiar](Gon%C3%A7alo%20Aguiar.md)
@@ -15,6 +16,7 @@
 - [Gonçalo Graça](Gon%C3%A7alo%20Gra%C3%A7a.md)
 - [Gonçalo Luís Carvalho](Gon%C3%A7alo%20Lu%C3%ADs%20Carvalho.md)
 - [Gonçalo Machado](Gon%C3%A7alo%20Machado.md)
+- [Gonçalo Moitinho de Almeida](Gon%C3%A7alo%20Moitinho%20de%20Almeida.md)
 - [Gonçalo Pedrosa](Gon%C3%A7alo%20Pedrosa.md)
 - [Gonçalo Sá](Gon%C3%A7alo%20S%C3%A1.md)
 - [Gonçalo Vaz Pedro](Gon%C3%A7alo%20Vaz%20Pedro.md)

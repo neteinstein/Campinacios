@@ -2,6 +2,11 @@
 
 João Ilhão é animador do [CC](../../Categorias/Animadores%20do%20CC.md).
 
+### Acampamentos
+
+- **Animador(a):**
+    - 2024 [Caldorado](../../Acampamentos/2024/Caldorado.md) - [Animador(a) Livre](../../Cargos/Animador%20Livre.md)
+
 ### Encontros
 
 - 2025 [Rockstock 2025](../../Encontros/Rockstock%202025.md) - Director-Adjunto

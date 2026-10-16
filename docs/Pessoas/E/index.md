@@ -4,6 +4,7 @@
 - [Eduarda Vilela](Eduarda%20Vilela.md)
 - [Eduardo Almeida](Eduardo%20Almeida.md)
 - [Eduardo Amaral](Eduardo%20Amaral.md)
+- [Eduardo Apolónio](Eduardo%20Apol%C3%B3nio.md)
 - [Eduardo Carvalho](Eduardo%20Carvalho.md)
 - [Eduardo Lima](Eduardo%20Lima.md)
 - [Eduardo Rodrigues](Eduardo%20Rodrigues.md)

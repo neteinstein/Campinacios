@@ -4,6 +4,7 @@
 - [Daniela Machado](Daniela%20Machado.md)
 - [Daniela Ribeiro](Daniela%20Ribeiro.md)
 - [Daniela Rodrigues](Daniela%20Rodrigues.md)
+- [David Bandeira](David%20Bandeira.md)
 - [David Cruz e Silva](David%20Cruz%20e%20Silva.md)
 - [Diana Conceição](Diana%20Concei%C3%A7%C3%A3o.md)
 - [Diana Duarte](Diana%20Duarte.md)
@@ -40,4 +41,3 @@
 - [Duarte Ribeiro](Duarte%20Ribeiro.md)
 - [Duarte Rosado](Duarte%20Rosado.md)
 - [Duarte Soares](Duarte%20Soares.md)
-- [Dudu Ribeiro](Dudu%20Ribeiro.md)
