@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1348 artigos e, em itálico, os 245 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1348 artigos e, em itálico, os 247 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -279,6 +279,7 @@
 - [Carolina Dias](Pessoas/C/Carolina%20Dias.md)
 - [Carolina Morão](Pessoas/C/Carolina%20Mor%C3%A3o.md)
 - [Carolina Picciochi](Pessoas/C/Carolina%20Picciochi.md)
+- *Catarina Cunha Ferreira* → [Catarina Ferreira](Pessoas/C/Catarina%20Ferreira.md)
 - [Catarina Ferreira](Pessoas/C/Catarina%20Ferreira.md)
 - [Catarina Gaio](Pessoas/C/Catarina%20Gaio.md)
 - [Catarina Godinho](Pessoas/C/Catarina%20Godinho.md)
@@ -523,6 +524,7 @@
 - [Farol](Acampamentos/2003/Farol.md)
 - [Fernando Sousa](Pessoas/F/Fernando%20Sousa.md)
 - [Filipa Gouveia](Pessoas/F/Filipa%20Gouveia.md)
+- *Flôr Freitas* → [Flor Freitas](Pessoas/F/Flor%20Freitas.md)
 - [Flor Freitas](Pessoas/F/Flor%20Freitas.md)
 - [Francisca Dantas](Pessoas/F/Francisca%20Dantas.md)
 - [Francisca Maia](Pessoas/F/Francisca%20Maia.md)

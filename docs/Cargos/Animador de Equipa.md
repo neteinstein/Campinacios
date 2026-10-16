@@ -33,6 +33,7 @@
 
 ## Pessoas com este cargo
 
+- [Afonso Barrocas](../Pessoas/A/Afonso%20Barrocas.md)
 - [Afonso Carvalho](../Pessoas/A/Afonso%20Carvalho.md)
 - [Afonso Evangelista](../Pessoas/A/Afonso%20Evangelista.md)
 - [Alberto Gonçalves](../Pessoas/A/Alberto%20Gon%C3%A7alves.md)
@@ -118,6 +119,7 @@
 - [Cristina Lopo Monteiro](../Pessoas/C/Cristina%20Lopo%20Monteiro.md)
 - [Cristovão Andrade](../Pessoas/C/Cristov%C3%A3o%20Andrade.md)
 - [Daniela Gonçalves](../Pessoas/D/Daniela%20Gon%C3%A7alves.md)
+- [David Bandeira](../Pessoas/D/David%20Bandeira.md)
 - [Diana Conceição](../Pessoas/D/Diana%20Concei%C3%A7%C3%A3o.md)
 - [Diana Freitas](../Pessoas/D/Diana%20Freitas.md)
 - [Diana Gapo](../Pessoas/D/Diana%20Gapo.md)
@@ -176,6 +178,7 @@
 - [Hugo Rafael Ferreira](../Pessoas/H/Hugo%20Rafael%20Ferreira.md)
 - [Inês Amorim](../Pessoas/I/In%C3%AAs%20Amorim.md)
 - [Inês Costa](../Pessoas/I/In%C3%AAs%20Costa.md)
+- [Inês Ferreira](../Pessoas/I/In%C3%AAs%20Ferreira.md)
 - [Inês Fonseca](../Pessoas/I/In%C3%AAs%20Fonseca.md)
 - [Inês Oliveira](../Pessoas/I/In%C3%AAs%20Oliveira.md)
 - [Inês Patrício](../Pessoas/I/In%C3%AAs%20Patr%C3%ADcio.md)
@@ -237,6 +240,7 @@
 - [Luísa Gaspar](../Pessoas/L/Lu%C3%ADsa%20Gaspar.md)
 - [Madalena Dantas](../Pessoas/M/Madalena%20Dantas.md)
 - [Madalena Mariz](../Pessoas/M/Madalena%20Mariz.md)
+- [Madalena Osório](../Pessoas/M/Madalena%20Os%C3%B3rio.md)
 - [Madalena Pereira](../Pessoas/M/Madalena%20Pereira.md)
 - [Madalena Ramalho](../Pessoas/M/Madalena%20Ramalho.md)
 - [Madalena Reis](../Pessoas/M/Madalena%20Reis.md)
@@ -353,6 +357,7 @@
 - [Sofia Amaral](../Pessoas/S/Sofia%20Amaral.md)
 - [Sofia Azevedo Cardoso](../Pessoas/S/Sofia%20Azevedo%20Cardoso.md)
 - [Sofia Rebelo](../Pessoas/S/Sofia%20Rebelo.md)
+- [Sofia Silva](../Pessoas/S/Sofia%20Silva.md)
 - [Sónia Ferreira](../Pessoas/S/S%C3%B3nia%20Ferreira.md)
 - [Susana Vaz Pedro](../Pessoas/S/Susana%20Vaz%20Pedro.md)
 - [Tachi](../Pessoas/T/Tachi.md)
