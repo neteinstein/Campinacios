@@ -6,7 +6,7 @@
 
 - [Director](../../Cargos/Director.md) - [Henrique Cardoso](../../Pessoas/H/Henrique%20Cardoso.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Leonor Simões](../../Pessoas/L/Leonor%20Sim%C3%B5es.md)
-- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Johnny Sousa](../../Pessoas/J/Johnny%20Sousa.md)
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Johnny Sousa](../../Pessoas/J/Jo%C3%A3o%20Afonso%20Sousa.md)
 - [Tia](../../Cargos/Tio.md) - [Diogo Boal Neves](../../Pessoas/D/Diogo%20Boal%20Neves.md), [Inês Costa](../../Pessoas/I/In%C3%AAs%20Costa.md) (Costinha)
 - [Tia](../../Cargos/Tio.md) - [Ana Mendonça](../../Pessoas/A/Ana%20Mendon%C3%A7a.md) (Yana)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Manuel Cardoso](../../Pessoas/M/Manuel%20Cardoso.md), [Beatriz Esteves](../../Pessoas/B/Beatriz%20Esteves.md), [Duarte Farelo](../../Pessoas/D/Duarte%20Farelo.md) e Madalena Osório

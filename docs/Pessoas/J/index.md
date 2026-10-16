@@ -45,7 +45,6 @@
 - [João Pacheco de Sousa](Jo%C3%A3o%20Pacheco%20de%20Sousa.md)
 - [Joaquim Abreu](Joaquim%20Abreu.md)
 - [Joca](Joca.md)
-- [Johnny Sousa](Johnny%20Sousa.md)
 - [Jorge Casanova](Jorge%20Casanova.md)
 - [Jorge Gonçalves](Jorge%20Gon%C3%A7alves.md)
 - [Jorge Manuel Sena](Jorge%20Manuel%20Sena.md)
