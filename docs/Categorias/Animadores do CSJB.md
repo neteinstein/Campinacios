@@ -2,7 +2,7 @@
 
 Animadores do Colégio do Colégio São João de Brito
 
-## Páginas nesta categoria (192)
+## Páginas nesta categoria (193)
 
 - [Ana Martins](../Pessoas/A/Ana%20Martins.md)
 - [Ana Pais](../Pessoas/A/Ana%20Pais.md)
@@ -196,6 +196,7 @@ Animadores do Colégio do Colégio São João de Brito
 - [Tomás Silva](../Pessoas/T/Tom%C3%A1s%20Silva.md)
 - [Vasco Neves](../Pessoas/V/Vasco%20Neves.md)
 - [Vasco Romão](../Pessoas/V/Vasco%20Rom%C3%A3o.md)
+- [Vera Pina](../Pessoas/V/Vera%20Pina.md)
 
 ---
 
