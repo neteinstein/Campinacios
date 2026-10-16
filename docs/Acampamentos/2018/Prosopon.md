@@ -9,6 +9,7 @@
 
 ## Participantes que se tornaram animadores
 
+- [Joana Ferreira (CC)](../../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 - [Nuno Ferreira](../../Pessoas/N/Nuno%20Ferreira.md)
 
 ---
