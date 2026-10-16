@@ -93,7 +93,7 @@ Ver também o [Manual do Director](../Movimento/Manual%20do%20Director.md), com 
 - [Ivo Reis](../Pessoas/I/Ivo%20Reis.md)
 - [Jaime Lucas Pires](../Pessoas/J/Jaime%20Lucas%20Pires.md)
 - [Joana Coelho](../Pessoas/J/Joana%20Coelho.md)
-- [Joana Ferreira (2019)](../Pessoas/J/Joana%20Ferreira%20%282019%29.md)
+- [Joana Ferreira (CC)](../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 - [Joana Ferreira da Silva](../Pessoas/J/Joana%20Ferreira%20da%20Silva.md)
 - [Joana Gomes](../Pessoas/J/Joana%20Gomes.md)
 - [Joana Matos](../Pessoas/J/Joana%20Matos.md)

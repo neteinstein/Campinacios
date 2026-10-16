@@ -1,6 +1,6 @@
 # Astérix e Obélerdos
 
-**Astérix e Obélerdos** foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) realizado de 26 de Julho a 2 de Agosto de 2024 em Dornelas. O tema do ano foi *Fica connosco*.
+**Astérix e Obélerdos** foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) realizado de 26 de Julho a 2 de Agosto de 2024 em [Dornelas (Braga)](../../Restrito/Locais%20de%20Acampamento/Dornelas%20%28Braga%29.md). O tema do ano foi *Fica connosco*.
 
 ### Animadores
 

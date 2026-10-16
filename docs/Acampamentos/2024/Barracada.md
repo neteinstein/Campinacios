@@ -1,6 +1,6 @@
 # Barracada
 
-**Barracada** foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) realizado de 5 a 14 de Agosto de 2024 em Maladão. O tema do ano foi *Fica connosco*.
+**Barracada** foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) realizado de 5 a 14 de Agosto de 2024 em [Maladão](../../Restrito/Locais%20de%20Acampamento/Malad%C3%A3o.md). O tema do ano foi *Fica connosco*.
 
 ### Animadores
 

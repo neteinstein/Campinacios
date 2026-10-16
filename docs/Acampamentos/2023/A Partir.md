@@ -1,6 +1,6 @@
 # A Partir
 
-**A Partir** foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) realizado em 2023 no Colégio das Caldinhas. O tema do ano foi *Maria Levantou-se e Partiu Apressadamente*.
+**A Partir** foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) realizado em 2023 no Colégio S. João de Brito, em Lisboa. O tema do ano foi *Maria Levantou-se e Partiu Apressadamente*.
 
 ### Animadores
 

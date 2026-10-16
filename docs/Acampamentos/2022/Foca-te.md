@@ -8,6 +8,7 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Madalena Líbano Monteiro](../../Pessoas/M/Madalena%20L%C3%ADbano%20Monteiro.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Chico Silva](../../Pessoas/C/Chico%20Silva.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Diogo Couceiro](../../Pessoas/D/Diogo%20Couceiro.md) sj
+- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Vera Pina](../../Pessoas/V/Vera%20Pina.md)
 
 ---
 

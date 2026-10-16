@@ -1,6 +1,6 @@
 # Mestrarte
 
-**Mestrarte** foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) realizado de 5 a 14 de Agosto de 2024 em Dornelas. O tema do ano foi *Fica connosco*.
+**Mestrarte** foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) realizado de 5 a 14 de Agosto de 2024 em [Dornelas (Braga)](../../Restrito/Locais%20de%20Acampamento/Dornelas%20%28Braga%29.md). O tema do ano foi *Fica connosco*.
 
 ### Animadores
 

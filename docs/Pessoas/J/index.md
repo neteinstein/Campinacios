@@ -17,7 +17,6 @@
 - [Joana Costa (2021)](Joana%20Costa%20%282021%29.md)
 - [Joana Dias](Joana%20Dias.md)
 - [Joana Ferreira](Joana%20Ferreira.md)
-- [Joana Ferreira (2019)](Joana%20Ferreira%20%282019%29.md)
 - [Joana Ferreira (CC)](Joana%20Ferreira%20%28CC%29.md)
 - [Joana Ferreira da Silva](Joana%20Ferreira%20da%20Silva.md)
 - [Joana Fonseca](Joana%20Fonseca.md)

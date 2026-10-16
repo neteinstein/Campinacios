@@ -12,7 +12,7 @@ Estes foram (alguns dos) contribuidores que desde 2009 ajudaram a Wikinácios a 
 - [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md): 433 contribuições
 - [Sílvia Lobo](../Pessoas/S/S%C3%ADlvia%20Lobo.md): 5 contribuições
 - [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md): 270 contribuições
-- [Vasco Lucas Pires](../Pessoas/V/Vasco%20Lucas%20Pires.md): 77 contribuições
+- [Vasco Lucas Pires](../Pessoas/V/Vasco%20Lucas%20Pires.md): 86 contribuições
 - [Zé Guedes](../Pessoas/Z/Z%C3%A9%20Guedes.md): 2 contribuições
 - Desconhecidos: 6 contribuições
 

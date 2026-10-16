@@ -6,9 +6,11 @@
 
 - [Director](../../Cargos/Director.md) - [Renato Lobo](../../Pessoas/R/Renato%20Lobo.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Carvalho](../../Pessoas/C/Carlos%20Carvalho.md) sj
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Vera Pina](../../Pessoas/V/Vera%20Pina.md)
 
 ## Participantes que se tornaram animadores
 
+- [Joana Ferreira (CC)](../../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 - [Nuno Ferreira](../../Pessoas/N/Nuno%20Ferreira.md)
 
 ---

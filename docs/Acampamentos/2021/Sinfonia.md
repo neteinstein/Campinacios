@@ -9,6 +9,7 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Gonçalo Sá](../../Pessoas/G/Gon%C3%A7alo%20S%C3%A1.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [António Pamplona](../../Pessoas/A/Ant%C3%B3nio%20Pamplona.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Afonso Espregueira](../../Pessoas/A/Afonso%20Espregueira.md) sj
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Vera Pina](../../Pessoas/V/Vera%20Pina.md)
 
 ## Participantes que se tornaram animadores
 

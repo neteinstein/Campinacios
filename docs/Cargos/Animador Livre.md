@@ -137,7 +137,7 @@
 - [Jacinto Bezerra](../Pessoas/J/Jacinto%20Bezerra.md)
 - [Jaime Lucas Pires](../Pessoas/J/Jaime%20Lucas%20Pires.md)
 - [Joana Cardoso](../Pessoas/J/Joana%20Cardoso.md)
-- [Joana Ferreira (2019)](../Pessoas/J/Joana%20Ferreira%20%282019%29.md)
+- [Joana Ferreira (CC)](../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 - [Joana Fonseca](../Pessoas/J/Joana%20Fonseca.md)
 - [Joana Gomes](../Pessoas/J/Joana%20Gomes.md)
 - [Joana Moraes](../Pessoas/J/Joana%20Moraes.md)

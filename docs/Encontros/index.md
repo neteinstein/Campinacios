@@ -29,6 +29,8 @@ Encontros Nacionais e Encontros Nacionais de Animadores.
 - [Encontro Nacional de Animadores 2009](Encontro%20Nacional%20de%20Animadores%202009.md)
 - [Encontro Nacional de Animadores 2010](Encontro%20Nacional%20de%20Animadores%202010.md)
 - [Encontro Nacional de Animadores 2012](Encontro%20Nacional%20de%20Animadores%202012.md)
+- [Encontro Nacional de Animadores 2015](Encontro%20Nacional%20de%20Animadores%202015.md)
+- [Encontro Nacional de Animadores 2016](Encontro%20Nacional%20de%20Animadores%202016.md)
 - [Encontro Nacional de Animadores 2025](Encontro%20Nacional%20de%20Animadores%202025.md)
 - [Encontro de Lambretas 94](Encontro%20de%20Lambretas%2094.md)
 - [Fim-de-Semana de Espiritualidade e Encontro 2006](Fim-de-Semana%20de%20Espiritualidade%20e%20Encontro%202006.md)

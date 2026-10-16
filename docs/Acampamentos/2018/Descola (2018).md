@@ -2,7 +2,7 @@
 
 *Nota: Este artigo é sobre o Descola de 2018, de Lambretas. Se procura o Descola de 2004, de Bicicletas, consulte [Descola](../2004/Descola.md).*
 
-**Descola** foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) realizado em 2018 em Dornelas. O tema do ano foi *Vem e verás*, e o imaginário do acampamento foi uma missão espacial.
+**Descola** foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) realizado em 2018 em [Dornelas (Braga)](../../Restrito/Locais%20de%20Acampamento/Dornelas%20%28Braga%29.md). O tema do ano foi *Vem e verás*, e o imaginário do acampamento foi uma missão espacial.
 
 ### Animadores
 

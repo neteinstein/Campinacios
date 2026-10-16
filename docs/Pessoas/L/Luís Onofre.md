@@ -22,6 +22,11 @@
     - 2022 [Antestreia](../../Acampamentos/2022/Antestreia.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2026 [Navalha-me Deus](../../Acampamentos/2026/Navalha-me%20Deus.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
+### Cargos
+
+- 2011/2012 a 2014/2015 - [Assistente Nacional](../../Categorias/Assistentes%20Nacionais.md)
+- 2019/2020 a 2021/2022 - [Assistente Nacional](../../Categorias/Assistentes%20Nacionais.md)
+
 ### Cantinácio
 
 Escreveu o [Prefácio](../../Movimento/Cantin%C3%A1cio/Pref%C3%A1cio.md) do Cantinácio de 2019 (3.ª edição).
