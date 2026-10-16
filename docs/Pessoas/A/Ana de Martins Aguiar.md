@@ -2,6 +2,11 @@
 
 *Nota: Este artigo é sobre Ana de Martins Aguiar, animadora do Rockstock em 2019 e 2022. Se procura Ana Martins, animadora do CSJB desde 2005, consulte [Ana Martins](Ana%20Martins.md).*
 
+### Acampamentos
+
+- **Animador(a):**
+    - 2024 [Astérix e Obélerdos](../../Acampamentos/2024/Ast%C3%A9rix%20e%20Ob%C3%A9lerdos.md) - [Animador(a) de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+
 ### Encontros
 
 - 2019 [Rockstock 2019](../../Encontros/Rockstock%202019.md) - Equipa de animação

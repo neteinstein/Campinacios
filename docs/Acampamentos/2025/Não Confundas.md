@@ -8,7 +8,7 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Maria João Guedes](../../Pessoas/M/Maria%20Jo%C3%A3o%20Guedes.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Chico Carneiro](../../Pessoas/F/Francisco%20Carneiro.md)
 - [Tia](../../Cargos/Tio.md) - Margarida Farelo, Maria Coimbra
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - Joana Silva, Alexandre Alípio, Carminho Simões de Almeida e [Margarida Faria](../../Pessoas/M/Margarida%20Faria.md)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - Joana Silva, [Alexandre Alípio](../../Pessoas/A/Alexandre%20Al%C3%ADpio.md), Carminho Simões de Almeida e [Margarida Faria](../../Pessoas/M/Margarida%20Faria.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Miranda](../../Pessoas/C/Carlos%20Miranda.md) sj
 
 ## Participantes que se tornaram animadores
