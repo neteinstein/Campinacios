@@ -10,6 +10,7 @@
     - 2021 [Expresso 3 B](../../Acampamentos/2021/Expresso%203%20B.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2022 [ReviraBolta](../../Acampamentos/2022/ReviraBolta.md) - [Director](../../Cargos/Director.md)
     - 2023 [Perc'Urso](../../Acampamentos/2023/Perc%27Urso.md) - [Director](../../Cargos/Director.md)
+    - 2024 [Mestrarte](../../Acampamentos/2024/Mestrarte.md) - [Animador(a) Livre](../../Cargos/Animador%20Livre.md)
 
 ---
 

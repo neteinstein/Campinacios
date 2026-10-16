@@ -10,6 +10,8 @@
 
 ---
 
+**Outros nomes:** Manuel Santos Costa
+
 | Categorias |
 | --- |
 | [Animadores](../../Categorias/Animadores.md) |

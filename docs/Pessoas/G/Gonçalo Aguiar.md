@@ -2,7 +2,10 @@
 
 ### Acampamentos
 
+- **Formação:**
+    - 2024 [ParTijolo](../../Acampamentos/2024/ParTijolo.md)
 - **Animador:**
+    - 2024 [Mestrarte](../../Acampamentos/2024/Mestrarte.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2025 [Mangueira Nice](../../Acampamentos/2025/Mangueira%20Nice.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2026 [Non Nobis](../../Acampamentos/2026/Non%20Nobis.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 

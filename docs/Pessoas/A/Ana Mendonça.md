@@ -23,7 +23,7 @@ Ana Mendonça, também conhecida por Yana, é animadora do [CC](../../Categorias
 
 ---
 
-**Outros nomes:** Yana · Ana João Silva · Ana João Mendonça Silva
+**Outros nomes:** Yana · Ana João Silva · Ana João Mendonça Silva · Ana Mendonça Silva
 
 | Categorias |
 | --- |
