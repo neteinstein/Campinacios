@@ -4,7 +4,7 @@
 
 ### Animadores
 
-- [Director](../../Cargos/Director.md) - [Joana Ferreira](../../Pessoas/J/Joana%20Ferreira%20%282019%29.md)
+- [Director](../../Cargos/Director.md) - [Joana Ferreira](../../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Madalena Ramalho](../../Pessoas/M/Madalena%20Ramalho.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [André Teixeira](../../Pessoas/A/Andr%C3%A9%20Teixeira.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Chico Cortês Ferreira](../../Pessoas/F/Francisco%20Cort%C3%AAs%20Ferreira.md) sj
