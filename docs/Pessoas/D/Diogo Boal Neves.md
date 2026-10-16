@@ -3,6 +3,7 @@
 ### Acampamentos
 
 - **Animador(a):**
+    - 2024 [Astérix e Obélerdos](../../Acampamentos/2024/Ast%C3%A9rix%20e%20Ob%C3%A9lerdos.md) - [Tio](../../Cargos/Tio.md)
     - 2025 [Exipto](../../Acampamentos/2025/Exipto.md) - [Tio](../../Cargos/Tio.md)
 
 ### Encontros

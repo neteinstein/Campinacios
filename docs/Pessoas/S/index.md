@@ -28,6 +28,7 @@
 - [Sofia Fernandes](Sofia%20Fernandes.md)
 - [Sofia Fonseca](Sofia%20Fonseca.md)
 - [Sofia Rebelo](Sofia%20Rebelo.md)
+- [Sofia Silva](Sofia%20Silva.md)
 - [Sónia Ferreira](S%C3%B3nia%20Ferreira.md)
 - [Soraia Ramos](Soraia%20Ramos.md)
 - [Susana Carvalho](Susana%20Carvalho.md)

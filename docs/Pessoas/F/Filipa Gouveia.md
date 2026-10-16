@@ -3,6 +3,7 @@
 ### Acampamentos
 
 - **Animador(a):**
+    - 2024 [Com Capricho](../../Acampamentos/2024/Com%20Capricho.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2025 [À Brava](../../Acampamentos/2025/%C3%80%20Brava.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
 ### Encontros

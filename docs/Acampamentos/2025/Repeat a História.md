@@ -7,9 +7,9 @@
 - [Director](../../Cargos/Director.md) - [Afonso Evangelista](../../Pessoas/A/Afonso%20Evangelista.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Margarida Tavares](../../Pessoas/M/Margarida%20Tavares.md) (Mogui)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [André Vale](../../Pessoas/A/Andr%C3%A9%20Vale.md)
-- [Tia](../../Cargos/Tio.md) - Leonor Vala, Sofia Ângelo
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [José Cabelo](../../Pessoas/J/Jos%C3%A9%20Cabelo.md), Francisca Serrano (Fan), Catarina Cunha Ferreira, Matilde Pereira (Matchi), Pablo Fernandes e Matilde Carvalho
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - António Neves, Francisco Barroso (Dinha), Carmo Ribeiro Corrêa e João Cardoso
+- [Tia](../../Cargos/Tio.md) - [Leonor Vala](../../Pessoas/L/Leonor%20Vala.md), Sofia Ângelo
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [José Cabelo](../../Pessoas/J/Jos%C3%A9%20Cabelo.md), [Francisca Serrano](../../Pessoas/F/Francisca%20Serrano.md) (Fan), [Catarina Cunha Ferreira](../../Pessoas/C/Catarina%20Ferreira.md), Matilde Pereira (Matchi), Pablo Fernandes e Matilde Carvalho
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - António Neves, Francisco Barroso (Dinha), [Carmo Ribeiro Corrêa](../../Pessoas/C/Carmo%20Ribeiro%20Corr%C3%AAa.md) e João Cardoso
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Samuel Afonso](../../Pessoas/S/Samuel%20Afonso.md) sj
 
 ---

@@ -1,11 +1,11 @@
 # D'RIP MELON
 
-**D'RIP MELON** foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) realizado em 2024. O tema do ano foi *Fica connosco*.
+**D'RIP MELON** foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) realizado de 17 a 26 de Agosto de 2024 em Dornelas. O tema do ano foi *Fica connosco*.
 
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Gonçalo Sá](../../Pessoas/G/Gon%C3%A7alo%20S%C3%A1.md)
-- [Mamã](../../Cargos/Mam%C3%A3.md) - [Rafa Mano](../../Pessoas/R/Rafa%20Mano.md)
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [Rafa Mano](../../Pessoas/R/Rafaela%20Mano.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Heitor](../../Pessoas/H/Heitor%20Rosa.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Duarte Rosado](../../Pessoas/D/Duarte%20Rosado.md) sj
 - [Tia](../../Cargos/Tio.md) - [Matilde Ferreira](../../Pessoas/M/Matilde%20Ferreira.md)

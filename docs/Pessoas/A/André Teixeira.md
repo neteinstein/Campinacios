@@ -15,6 +15,8 @@
 
 ---
 
+**Outros nomes:** Dré
+
 | Categorias |
 | --- |
 | [Animadores](../../Categorias/Animadores.md) |
