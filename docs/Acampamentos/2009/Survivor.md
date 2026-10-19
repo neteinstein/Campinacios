@@ -16,6 +16,11 @@ O Survivor decorreu entre os dias 10 e 19 de Agosto de 2009 no [Lugar do Vau (Ce
 
 - [Vídeo do campo](https://www.youtube.com/watch?v=ko02L_m0MxA)
 
+## Participantes que se tornaram animadores
+
+- [Domingos Freire de Andrade](../../Pessoas/D/Domingos%20Freire%20de%20Andrade.md)
+- [Miguel Falcão Ramos](../../Pessoas/M/Miguel%20Falc%C3%A3o%20Ramos.md)
+
 ---
 
 | Categorias |
