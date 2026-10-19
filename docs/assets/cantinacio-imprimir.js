@@ -1223,7 +1223,7 @@
   // Monta o Cantinácio numa moldura escondida e transforma-o num PDF que se
   // descarrega. «opcoes»: { seccoes: [páginas escolhidas], musicas: {página:
   // [uma marca por música, false = fica de fora]} (também "Aplausos"),
-  // originais, simplificadas, aplausos, manual, escalas }.
+  // originais, simplificadas, viva, aplausos, manual, escalas }.
   function gerar(base, opcoes, estado) {
     var fontes = new URL("../assets/fontes/", base).href;
     var moldura = document.createElement("iframe");
@@ -1256,6 +1256,7 @@
       if (s.pagina === "Aplausos") return opcoes.aplausos;
       if (s.pagina === "Manual de Instruções") return opcoes.manual;
       if (s.pagina === "Escalas") return opcoes.escalas;
+      if (s.viva) return opcoes.viva;
       return ESCOLHAS.indexOf(s.pagina) < 0 || opcoes.seccoes.indexOf(s.pagina) >= 0;
     });
 
@@ -1280,9 +1281,9 @@
 
   // --- Configuração --------------------------------------------------------
 
-  function caixa(nome, valor, rotulo) {
+  function caixa(nome, valor, rotulo, desmarcada) {
     return '<label class="wk-cv__opcao"><input type="checkbox" name="' + nome + '" value="' + valor +
-      '" checked> ' + rotulo + "</label>";
+      '"' + (desmarcada ? "" : " checked") + "> " + rotulo + "</label>";
   }
 
   var dialogo = null;
@@ -1327,10 +1328,15 @@
         "<fieldset><legend>Deve ter músicas de:</legend>" +
         LINHAS.map(linhaEscolhivel).join("") +
         "</fieldset>" +
-        '<fieldset><legend class="wk-cv__escondido">Versões e Aplausos</legend>' +
+        '<fieldset class="wk-cv__config-musicas"><legend>Configuração de músicas:</legend>' +
         caixa("originais", "1", "Mostrar versões originais") +
         caixa("simplificadas", "1", "Mostrar versões simplificadas (Cantinácio 2019)") +
+        caixa("viva", "1", "Música Viva", true) +
+        "</fieldset>" +
+        "<fieldset><legend>Aplausos:</legend>" +
         linhaEscolhivel(APLAUSOS) +
+        "</fieldset>" +
+        "<fieldset><legend>Aprender a tocar:</legend>" +
         caixa("manual", "1", "Incluir Manual de Instruções") +
         caixa("escalas", "1", "Incluir Escalas") +
         "</fieldset>" +
@@ -1356,6 +1362,9 @@
         "Nas músicas com duas versões, a que o Wikinácios já tinha";
       dialogo.querySelector('[name="simplificadas"]').closest("label").title =
         "Nas músicas com duas versões, a do Cantinácio de 2019";
+      dialogo.querySelector('[name="viva"]').closest("label").title =
+        "Uma secção com o QR Code do vídeo de cada música que o tenha";
+      var configMusicas = dialogo.querySelector(".wk-cv__config-musicas");
 
       var escolhidas = function () {
         // Não serve «:checked»: no Chromium não apanha as caixas a meio
@@ -1364,10 +1373,14 @@
           .filter(function (c) { return c.checked; })
           .map(function (c) { return c.value; });
       };
+      // Sem músicas, as versões e a Música Viva não se aplicam: ficam desactivadas.
+      var comMusicas = function () { return escolhidas().length > 0; };
+      var activarVersoes = function () { configMusicas.disabled = !comMusicas(); };
       var validar = function () {
         if (emCurso) return;
-        var falta = !escolhidas().length ? "Escolha pelo menos uma secção de músicas." :
-          !form.originais.checked && !form.simplificadas.checked ? "Escolha pelo menos uma das versões." : "";
+        activarVersoes();
+        var falta = !comMusicas() && !form.aplausos.checked ? "Escolha pelo menos uma secção de músicas ou os Aplausos." :
+          comMusicas() && !form.originais.checked && !form.simplificadas.checked ? "Escolha pelo menos uma das versões." : "";
         gerarEl.disabled = !!falta;
         estadoEl.textContent = falta;
       };
@@ -1504,11 +1517,14 @@
         ev.preventDefault();
         if (emCurso || gerarEl.disabled) return;
         var esta = emCurso = { cancelada: false };
+        var musicas = comMusicas();
         var opcoes = {
           seccoes: escolhidas(),
           musicas: marcadas,
-          originais: form.originais.checked,
-          simplificadas: form.simplificadas.checked,
+          // Só com Aplausos, que não têm versões, entra o texto tal como está.
+          originais: musicas ? form.originais.checked : true,
+          simplificadas: musicas && form.simplificadas.checked,
+          viva: musicas && form.viva.checked,
           aplausos: form.aplausos.checked,
           manual: form.manual.checked,
           escalas: form.escalas.checked
@@ -1528,6 +1544,7 @@
           emCurso = null;
           dialogo.classList.remove("wk-cv--a-gerar");
           campos.forEach(function (c) { c.disabled = false; });
+          activarVersoes();
           if (esta.cancelada) validar();
         });
       });
