@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1352 artigos e, em itálico, os 248 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1354 artigos e, em itálico, os 251 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -21,6 +21,7 @@
 - [António Pereira](Pessoas/A/Ant%C3%B3nio%20Pereira.md)
 - [António Portugal](Pessoas/A/Ant%C3%B3nio%20Portugal.md)
 - *António Queirós Martins* → [António Queiroz Martins](Pessoas/A/Ant%C3%B3nio%20Queiroz%20Martins.md)
+- *Ari* → [Ariana Couto](Pessoas/A/Ariana%20Couto.md)
 - [Triciclos 1](Acampamentos/1997/Triciclos%201.md)
 - [Triciclos 2](Acampamentos/1997/Triciclos%202.md)
 - [À Brava](Acampamentos/2025/%C3%80%20Brava.md)
@@ -411,7 +412,6 @@
 - [Diana Gapo](Pessoas/D/Diana%20Gapo.md)
 - [Diana Pereira](Pessoas/D/Diana%20Pereira.md)
 - [Diana Quintela](Pessoas/D/Diana%20Quintela.md)
-- [Digas Vasconcelos](Pessoas/D/Digas%20Vasconcelos.md)
 - *Digueifel* → [Digueifel (Arganil)](Restrito/Locais%20de%20Acampamento/Digueifel%20%28Arganil%29.md) 🔒
 - [Digueifel (Arganil)](Restrito/Locais%20de%20Acampamento/Digueifel%20%28Arganil%29.md) 🔒
 - [Digueifire](Acampamentos/2012/Digueifire.md)
@@ -878,6 +878,7 @@
 - [José Manuel Lopes](Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md)
 - [José Maria Brito](Pessoas/J/Jos%C3%A9%20Maria%20Brito.md)
 - *José Maria Cabelo* → [José Cabelo](Pessoas/J/Jos%C3%A9%20Cabelo.md)
+- [José Maria Caldeira Ribeiro](Pessoas/J/Jos%C3%A9%20Maria%20Caldeira%20Ribeiro.md)
 - [José Maria Fragoso de Almeida](Pessoas/J/Jos%C3%A9%20Maria%20Fragoso%20de%20Almeida.md)
 - [José Marques](Pessoas/J/Jos%C3%A9%20Marques.md)
 - [José Miguel Fernandes](Pessoas/J/Jos%C3%A9%20Miguel%20Fernandes.md)
@@ -958,6 +959,7 @@
 - [Luís Boavida](Pessoas/L/Lu%C3%ADs%20Boavida.md)
 - [Luís Ferreira do Amaral](Pessoas/L/Lu%C3%ADs%20Ferreira%20do%20Amaral.md)
 - [Luís Fontes](Pessoas/L/Lu%C3%ADs%20Fontes.md)
+- [Luís Freire](Pessoas/L/Lu%C3%ADs%20Freire.md)
 - [Luís Monteiro](Pessoas/L/Lu%C3%ADs%20Monteiro.md)
 - [Luís Panão](Pessoas/L/Lu%C3%ADs%20Pan%C3%A3o.md)
 - [Luis Pereira](Pessoas/L/Luis%20Pereira.md)
@@ -1062,6 +1064,7 @@
 - *Migalha* → [Miguel Melo Ribeiro](Pessoas/M/Miguel%20Melo%20Ribeiro.md)
 - [Miguel Caetano Nunes](Pessoas/M/Miguel%20Caetano%20Nunes.md)
 - [Miguel Leitão](Pessoas/M/Miguel%20Leit%C3%A3o.md)
+- [Miguel Poço](Pessoas/M/Miguel%20Po%C3%A7o.md)
 - *Mimas* → [Mariana Rato](Pessoas/M/Mariana%20Rato.md)
 - *Mocamfe* → [MOCAMFE](Movimento/MOCAMFE.md)
 - [MOCAMFE](Movimento/MOCAMFE.md)
@@ -1318,6 +1321,7 @@
 - [Plano B](Acampamentos/2016/Plano%20B.md)
 - [Pó que Voo](Acampamentos/2023/P%C3%B3%20que%20Voo.md)
 - [Pó-Có](Acampamentos/2014/P%C3%B3-C%C3%B3.md)
+- *Poço* → [Miguel Poço](Pessoas/M/Miguel%20Po%C3%A7o.md)
 - *Poço de Corga* → [Poço de Corga (Castanheira de Pêra)](Restrito/Locais%20de%20Acampamento/Po%C3%A7o%20de%20Corga%20%28Castanheira%20de%20P%C3%AAra%29.md) 🔒
 - [Poço de Corga (Castanheira de Pêra)](Restrito/Locais%20de%20Acampamento/Po%C3%A7o%20de%20Corga%20%28Castanheira%20de%20P%C3%AAra%29.md) 🔒
 - [Pomar dos Braços (Miranda do Corvo)](Restrito/Locais%20de%20Acampamento/Pomar%20dos%20Bra%C3%A7os%20%28Miranda%20do%20Corvo%29.md) 🔒
@@ -1668,6 +1672,7 @@
 - [Zapping](Acampamentos/2019/Zapping.md)
 - *Zé Ferreira* → [José Emanuel Ferreira](Pessoas/J/Jos%C3%A9%20Emanuel%20Ferreira.md)
 - *Zé Frazão* → [José Frazão](Pessoas/J/Jos%C3%A9%20Fraz%C3%A3o.md)
+- *Zé Maria Caldeira Ribeiro* → [José Maria Caldeira Ribeiro](Pessoas/J/Jos%C3%A9%20Maria%20Caldeira%20Ribeiro.md)
 - [Zé Reis](Pessoas/Z/Z%C3%A9%20Reis.md)
 - *Zeca* → [José Lima](Pessoas/J/Jos%C3%A9%20Lima.md)
 - [Zé Guedes](Pessoas/Z/Z%C3%A9%20Guedes.md)
