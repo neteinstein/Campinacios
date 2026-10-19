@@ -8,6 +8,7 @@
 
 ## Participantes que se tornaram animadores
 
+- [Ariana Couto](../../Pessoas/A/Ariana%20Couto.md)
 - [Fernando Monteiro](../../Pessoas/F/Fernando%20Monteiro.md)
 
 ---

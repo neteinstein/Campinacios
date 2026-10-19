@@ -10,6 +10,10 @@
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Samuel Beirão](../../Pessoas/S/Samuel%20Beir%C3%A3o.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Eduardo Carvalho](../../Pessoas/E/Eduardo%20Carvalho.md) sj
 
+## Participantes que se tornaram animadores
+
+- [Ariana Couto](../../Pessoas/A/Ariana%20Couto.md)
+
 ---
 
 | Categorias |
