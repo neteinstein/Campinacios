@@ -7,6 +7,7 @@
 ### Acampamentos
 
 - **Animadora:**
+    - 2023 [De Todas as Fôrmas](../../Acampamentos/2023/De%20Todas%20as%20F%C3%B4rmas.md) - [Tia](../../Cargos/Tio.md)
     - 2024 [Barracada](../../Acampamentos/2024/Barracada.md) - [Tia](../../Cargos/Tio.md)
     - 2025 [À Brava](../../Acampamentos/2025/%C3%80%20Brava.md) - [Tia](../../Cargos/Tio.md)
     - 2026 [Ca Ganda Tanga](../../Acampamentos/2026/Ca%20Ganda%20Tanga.md) - [Tia](../../Cargos/Tio.md)

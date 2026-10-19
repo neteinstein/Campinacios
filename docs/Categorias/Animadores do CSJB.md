@@ -2,7 +2,7 @@
 
 Animadores do Colégio do Colégio São João de Brito
 
-## Páginas nesta categoria (193)
+## Páginas nesta categoria (194)
 
 - [Ana Martins](../Pessoas/A/Ana%20Martins.md)
 - [Ana Pais](../Pessoas/A/Ana%20Pais.md)
@@ -78,6 +78,7 @@ Animadores do Colégio do Colégio São João de Brito
 - [Joana Saraiva](../Pessoas/J/Joana%20Saraiva.md)
 - [Joana Trigo da Roza](../Pessoas/J/Joana%20Trigo%20da%20Roza.md)
 - [Joana Vala](../Pessoas/J/Joana%20Vala.md)
+- [João Cruz](../Pessoas/J/Jo%C3%A3o%20Cruz.md)
 - [José Luís Canêlhas](../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Can%C3%AAlhas.md)
 - [José Maria Brito](../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md)
 - [José Maria Fragoso de Almeida](../Pessoas/J/Jos%C3%A9%20Maria%20Fragoso%20de%20Almeida.md)

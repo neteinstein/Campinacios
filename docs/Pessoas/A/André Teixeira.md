@@ -5,6 +5,7 @@
 - **Animador(a):**
     - 2022 [Isto Só Visto](../../Acampamentos/2022/Isto%20S%C3%B3%20Visto.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2023 [180 Já Contenta](../../Acampamentos/2023/180%20J%C3%A1%20Contenta.md) - [Director](../../Cargos/Director.md)
+    - 2023 [De Todas as Fôrmas](../../Acampamentos/2023/De%20Todas%20as%20F%C3%B4rmas.md) - [Animador(a) de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2024 [À Mesa](../../Acampamentos/2024/%C3%80%20Mesa.md) - [Director](../../Cargos/Director.md)
 
 ### Encontros

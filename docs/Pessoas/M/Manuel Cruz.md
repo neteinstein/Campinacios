@@ -9,6 +9,10 @@
     - 2025 [À Brava](../../Acampamentos/2025/%C3%80%20Brava.md) - [Animador(a) de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2026 [Xiè-Xiè Kung Fa](../../Acampamentos/2026/Xi%C3%A8-Xi%C3%A8%20Kung%20Fa.md) - [Animador(a) de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
+### Família
+
+É filho do [João Cruz](../J/Jo%C3%A3o%20Cruz.md).
+
 ---
 
 | Categorias |

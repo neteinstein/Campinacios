@@ -50,6 +50,7 @@ A reflexão partiu de quatro perguntas: se se conheciam os estatutos do moviment
 - [Filipe Queiroz e Melo](../../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md)
 - [Gustavo Gapo](../../Pessoas/G/Gustavo%20Gapo.md)
 - [Jacinto Lucas Pires](../../Pessoas/J/Jacinto%20Lucas%20Pires.md)
+- [João Cruz](../../Pessoas/J/Jo%C3%A3o%20Cruz.md)
 - [Jorge Moreira](../../Pessoas/J/Jorge%20Moreira.md)
 - [Marta Vilela](../../Pessoas/M/Marta%20Vilela.md)
 - [Pedro Castro](../../Pessoas/P/Pedro%20Castro.md)
