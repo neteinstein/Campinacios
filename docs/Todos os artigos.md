@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1354 artigos e, em itálico, os 251 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1354 artigos e, em itálico, os 257 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -285,6 +285,7 @@
 - [Catarina Gaio](Pessoas/C/Catarina%20Gaio.md)
 - [Catarina Godinho](Pessoas/C/Catarina%20Godinho.md)
 - [Catarina Meireles](Pessoas/C/Catarina%20Meireles.md)
+- *Catarina Mendes Godinho* → [Catarina Godinho](Pessoas/C/Catarina%20Godinho.md)
 - [Catarina Silva](Pessoas/C/Catarina%20Silva.md)
 - [Cátia Silva](Pessoas/C/C%C3%A1tia%20Silva.md)
 - [Chica Aguiar](Pessoas/C/Chica%20Aguiar.md)
@@ -527,6 +528,7 @@
 - [Farol](Acampamentos/2003/Farol.md)
 - [Fernando Sousa](Pessoas/F/Fernando%20Sousa.md)
 - [Filipa Gouveia](Pessoas/F/Filipa%20Gouveia.md)
+- *Filipa Rhodes Sérgio* → [Filipa Sérgio](Pessoas/F/Filipa%20S%C3%A9rgio.md)
 - *Flôr Freitas* → [Flor Freitas](Pessoas/F/Flor%20Freitas.md)
 - [Flor Freitas](Pessoas/F/Flor%20Freitas.md)
 - [Francisca Dantas](Pessoas/F/Francisca%20Dantas.md)
@@ -688,6 +690,7 @@
 - *Heitor Ramos Rosa* → [Heitor Rosa](Pessoas/H/Heitor%20Rosa.md)
 - [Heitor Rosa](Pessoas/H/Heitor%20Rosa.md)
 - [Hélder Sousa](Pessoas/H/H%C3%A9lder%20Sousa.md)
+- *Helena Araújo Vieira* → [Helena Vieira](Pessoas/H/Helena%20Vieira.md)
 - [Helena Cunha e Carmo](Pessoas/H/Helena%20Cunha%20e%20Carmo.md)
 - *Helena Luna Pais* → [Helena Pais](Pessoas/H/Helena%20Pais.md)
 - [Helena Pais](Pessoas/H/Helena%20Pais.md)
@@ -882,6 +885,7 @@
 - [José Maria Fragoso de Almeida](Pessoas/J/Jos%C3%A9%20Maria%20Fragoso%20de%20Almeida.md)
 - [José Marques](Pessoas/J/Jos%C3%A9%20Marques.md)
 - [José Miguel Fernandes](Pessoas/J/Jos%C3%A9%20Miguel%20Fernandes.md)
+- *José Miguel Nogueira* → [Miguel Nogueira](Pessoas/M/Miguel%20Nogueira.md)
 - [José Murteira](Pessoas/J/Jos%C3%A9%20Murteira.md)
 - [José Pascoal](Pessoas/J/Jos%C3%A9%20Pascoal.md)
 - [José Paulo Bárbara](Pessoas/J/Jos%C3%A9%20Paulo%20B%C3%A1rbara.md)
@@ -1010,6 +1014,7 @@
 - [Magda Martins](Pessoas/M/Magda%20Martins.md)
 - *Maggie* → [Ana Sampaio (Maggie)](Pessoas/A/Ana%20Sampaio%20%28Maggie%29.md)
 - [Magui](Pessoas/M/Magui.md)
+- *Magui Sampaio* → [Magui](Pessoas/M/Magui.md)
 - [Maior Evento de Sempre em Portugal, Maior Até que a Mega Feijoada da Ponte Vasco da Gama](Acampamentos/2023/Maior%20Evento%20de%20Sempre%20em%20Portugal%2C%20Maior%20At%C3%A9%20que%20a%20Mega%20Feijoada%20da%20Ponte%20Vasco%20da%20Gama.md)
 - [Maladão](Restrito/Locais%20de%20Acampamento/Malad%C3%A3o.md) 🔒
 - *Malú* → [Maria Silva](Pessoas/M/Maria%20Silva.md)
@@ -1023,6 +1028,7 @@
 - [Marco Conceição](Pessoas/M/Marco%20Concei%C3%A7%C3%A3o.md)
 - [Marco Cunha](Pessoas/M/Marco%20Cunha.md)
 - [Marco Frazão](Pessoas/M/Marco%20Fraz%C3%A3o.md)
+- *Marcos Barbosa de Matos* → [Marcos Matos](Pessoas/M/Marcos%20Matos.md)
 - [Marcos Matos](Pessoas/M/Marcos%20Matos.md)
 - [Margarida Faria](Pessoas/M/Margarida%20Faria.md)
 - [Margarida Santos](Pessoas/M/Margarida%20Santos.md)
