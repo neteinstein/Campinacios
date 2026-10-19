@@ -2,7 +2,9 @@
 
 ### Cargos
 
-- 2011/2012 - Membro da [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
+- 2011/2013 - Membro da [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
+- 2013/2014 - Coordenador da [Direcção Local](../../Categorias/Direc%C3%A7%C3%B5es%20Locais.md) do CSJB
+- 2015/2016 - [Coordenador Nacional](../../Categorias/Coordenadores%20Nacionais.md)
 
 ### Acampamentos
 
