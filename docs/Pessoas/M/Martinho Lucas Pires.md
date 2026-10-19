@@ -23,6 +23,7 @@ Martinho Lucas Pires mais conhecido por Martinho
     - 2007 [OPA](../../Acampamentos/2007/OPA.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2008 [TSI](../../Acampamentos/2008/TSI.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2009 [Incrível](../../Acampamentos/2009/Incr%C3%ADvel.md) - [Director](../../Cargos/Director.md)
+    - 2010 [4º Dto](../../Acampamentos/2010/4%C2%BA%20Dto.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2012 [Sarcófago](../../Acampamentos/2012/Sarc%C3%B3fago.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
 ### Família
