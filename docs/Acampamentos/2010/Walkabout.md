@@ -19,7 +19,11 @@ O hino deste campo está no [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin
 
 ## Participantes que se tornaram animadores
 
+- [António Pimenta](../../Pessoas/A/Ant%C3%B3nio%20Pimenta.md)
+- [David Cruz e Silva](../../Pessoas/D/David%20Cruz%20e%20Silva.md)
+- [João Eiró](../../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md)
 - [Olga Couto](../../Pessoas/O/Olga%20Couto.md)
+- [Vasco Neves](../../Pessoas/V/Vasco%20Neves.md)
 
 ---
 
