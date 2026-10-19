@@ -17,6 +17,10 @@
 
 - [Vasco Lucas Pires](../../Pessoas/V/Vasco%20Lucas%20Pires.md)
 
+## Participantes que se tornaram animadores
+
+- [Vasco Lucas Pires](../../Pessoas/V/Vasco%20Lucas%20Pires.md)
+
 ---
 
 | Categorias |

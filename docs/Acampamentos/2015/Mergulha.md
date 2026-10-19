@@ -21,6 +21,7 @@
 - [Francisca Veloso](../../Pessoas/F/Francisca%20Veloso.md)
 - [Francisco Sá](../../Pessoas/F/Francisco%20S%C3%A1.md)
 - [Gonçalo Sá](../../Pessoas/G/Gon%C3%A7alo%20S%C3%A1.md)
+- [Vasco Lucas Pires](../../Pessoas/V/Vasco%20Lucas%20Pires.md)
 
 ---
 
