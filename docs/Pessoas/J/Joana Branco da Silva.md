@@ -10,6 +10,8 @@
 
 - **Animador(a):**
     - 2019 [XP Fora da Roda](../../Acampamentos/2019/XP%20Fora%20da%20Roda.md)
+    - 2023 [CRUZZ](../../Acampamentos/2023/CRUZZ.md) - [Animador(a) de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2023 [Pó que Voo](../../Acampamentos/2023/P%C3%B3%20que%20Voo.md) - [Animador(a) de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
 ### Encontros
 

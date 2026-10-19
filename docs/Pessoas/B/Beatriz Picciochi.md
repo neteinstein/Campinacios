@@ -7,6 +7,8 @@
 ### Acampamentos
 
 - **Animador(a):**
+    - 2023 [De Todas as Fôrmas](../../Acampamentos/2023/De%20Todas%20as%20F%C3%B4rmas.md) - [Animador(a) de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2023 [180 Já Contenta](../../Acampamentos/2023/180%20J%C3%A1%20Contenta.md) - [Tio](../../Cargos/Tio.md)
     - 2024 [Mestrarte](../../Acampamentos/2024/Mestrarte.md) - [Tio](../../Cargos/Tio.md)
 
 ### Encontros

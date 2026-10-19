@@ -4,6 +4,7 @@
 
 - **Animador(a):**
     - 2021 [Expresso 3 B](../../Acampamentos/2021/Expresso%203%20B.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2023 [CRUZZ](../../Acampamentos/2023/CRUZZ.md) - [Animador(a) de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
 ### Encontros
 
