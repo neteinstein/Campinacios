@@ -9,8 +9,7 @@ Frequentou o [CAIC](../../Movimento/CAIC.md) de 1995 a 2003. Animador de 2003 at
 ### Cargos
 
 - **Nacionais:**
-    - 2005/2006 [Coordenador Nacional](../../Categorias/Coordenadores%20Nacionais.md), Coordenador da [Direcção Local](../../Categorias/Direc%C3%A7%C3%B5es%20Locais.md) do CAIC e Responsável pela Estrutura Informática
-    - 2006/2007 [Coordenador Nacional](../../Categorias/Coordenadores%20Nacionais.md), Coordenador da [Direcção Local](../../Categorias/Direc%C3%A7%C3%B5es%20Locais.md) do CAIC e Responsável pela Estrutura Informática
+    - 2005/2007 [Coordenador Nacional](../../Categorias/Coordenadores%20Nacionais.md), Coordenador da [Direcção Local](../../Categorias/Direc%C3%A7%C3%B5es%20Locais.md) do CAIC e Responsável pela Estrutura Informática
     - 2007/2008 [Coordenador Nacional](../../Categorias/Coordenadores%20Nacionais.md) e Responsável pela Estrutura Informática
     - 2008/2009 Consultor da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) e Responsável pela Estrutura Informática
 - **Locais:**
@@ -37,7 +36,11 @@ Frequentou o [CAIC](../../Movimento/CAIC.md) de 1995 a 2003. Animador de 2003 at
 
 ### Campinacios.org
 
-Foi o gestor da página dos Campinácios desde 2005, recebida do [Diogo Costa](../D/Diogo%20Costa.md) (ver [Online](../../Movimento/Online.md#pagina-original)), iniciando em 2009 a [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md) até 2010.
+Foi nomeado o gestor da página dos Campinácios de 2005 sucedendo a [Diogo Costa](../D/Diogo%20Costa.md) (ver [Online](../../Movimento/Online.md#pagina-original)), iniciando em 2009 a [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md) gerindo-a até 2010.
+
+### Família
+
+É casado com a [Maria Cortês Ferreira](../M/Maria%20Cort%C3%AAs%20Ferreira.md).
 
 ### Testemunho
 
@@ -72,10 +75,6 @@ Reunir na mítica direcção nacional… escolher os directores, fazer novas t-s
 E rever antigos amigos e fazer novos no encontro nacional… já com os campos à vista…
 
 Respondendo à pergunta inicial… ganhei tudo… o que é importante pelo menos.
-
-### Família
-
-É casado com a [Maria Cortês Ferreira](../M/Maria%20Cort%C3%AAs%20Ferreira.md).
 
 ---
 
