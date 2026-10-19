@@ -15,6 +15,7 @@
     - 2002 [Piripetroporco](../../Acampamentos/2002/Piripetroporco.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2003 [Génesis 2003 d.C.](../../Acampamentos/2003/G%C3%A9nesis%202003%20d.C..md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2006 [Origami](../../Acampamentos/2006/Origami.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+    - 2010 [PaKasaDele](../../Acampamentos/2010/PaKasaDele.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2016 [Mostra Garra](../../Acampamentos/2016/Mostra%20Garra.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
 ---

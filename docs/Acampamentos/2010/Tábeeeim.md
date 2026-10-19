@@ -14,6 +14,10 @@ O Tábeeeim foi um campo de Bicicletas que decorreu entre os dias 9 e 18 de Agos
 
 O hino deste campo está no [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#tabeeeim).
 
+## Participantes que se tornaram animadores
+
+- [Pedro Fonseca](../../Pessoas/P/Pedro%20Fonseca.md)
+
 ---
 
 | Categorias |

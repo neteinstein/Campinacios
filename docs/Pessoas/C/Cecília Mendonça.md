@@ -14,6 +14,7 @@
     - 2005 [Gaivota](../../Acampamentos/2005/Gaivota.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
     - 2006 [Xii Tava Kuase Lá...!](../../Acampamentos/2006/Xii%20Tava%20Kuase%20L%C3%A1...%21.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
     - 2007 [Baúmerang](../../Acampamentos/2007/Ba%C3%BAmerang.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
+    - 2010 [PaKasaDele](../../Acampamentos/2010/PaKasaDele.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2011 [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md) - [Tia](../../Cargos/Tio.md)
 
 ---
