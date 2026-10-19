@@ -5,6 +5,7 @@ Este acampamento de [Bicicletas](../../Categorias/Bicicletas.md) decorreu de 1 a
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Filipe Condado](../../Pessoas/F/Filipe%20Condado.md)
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Francisco Costa Macedo](../../Pessoas/F/Francisco%20Costa%20Macedo.md) sj
 
 ---
 

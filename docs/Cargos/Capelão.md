@@ -87,6 +87,7 @@
 - [Pedro Cameira](../Pessoas/P/Pedro%20Cameira.md)
 - [Pedro Luz](../Pessoas/P/Pedro%20Luz.md)
 - [Pedro Rocha Mendes](../Pessoas/P/Pedro%20Rocha%20Mendes.md)
+- [Rafael Lucas Pires](../Pessoas/R/Rafael%20Lucas%20Pires.md)
 - [Rafael Mourão](../Pessoas/R/Rafael%20Mour%C3%A3o.md)
 - [Ricardo Batista](../Pessoas/R/Ricardo%20Batista.md)
 - [Rui Fernandes](../Pessoas/R/Rui%20Fernandes.md)
