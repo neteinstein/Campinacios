@@ -14,8 +14,8 @@ Miguel Poço é, desde 2025, um dos animadores do Colégio das Caldinhas.
 - **Formação:**
     - 2025 [Não Confundas](../../Acampamentos/2025/N%C3%A3o%20Confundas.md)
 - **Animador:**
-    - 2025 [Sem Truques](../../Acampamentos/2025/Sem%20Truques.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
-    - 2026 [Xiè-Xiè Kung Fa](../../Acampamentos/2026/Xi%C3%A8-Xi%C3%A8%20Kung%20Fa.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2025 [Sem Truques](../../Acampamentos/2025/Sem%20Truques.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2026 [Xiè-Xiè Kung Fa](../../Acampamentos/2026/Xi%C3%A8-Xi%C3%A8%20Kung%20Fa.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
 ---
 
