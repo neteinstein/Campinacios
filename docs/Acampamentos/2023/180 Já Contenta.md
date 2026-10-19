@@ -6,7 +6,7 @@
 
 - [Director](../../Cargos/Director.md) - [André Teixeira](../../Pessoas/A/Andr%C3%A9%20Teixeira.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Mariana Cardim](../../Pessoas/M/Mariana%20Cardim.md)
-- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Kiko Sá](../../Pessoas/K/Kiko%20S%C3%A1.md)
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Francisco Sá](../../Pessoas/F/Francisco%20S%C3%A1.md) (Kiko)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Diogo Couceiro](../../Pessoas/D/Diogo%20Couceiro.md) sj
 - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Nuno Ferreira](../../Pessoas/N/Nuno%20Ferreira.md) (Broski)
 
