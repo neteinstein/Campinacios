@@ -21,14 +21,14 @@ Animadora do CC desde 2005.
     - 2012 [Conta Kms](../../Acampamentos/2012/Conta%20Kms.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2013 [Camp & Nácios, S.A](../../Acampamentos/2013/Camp%20%26%20N%C3%A1cios%2C%20S.A.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
 
-### Família
-
-É irmã da [Sara Rita Sampaio](../S/Sara%20Rita%20Sampaio.md).
 
 ### Encontros
 
 - 2010 [Encontro Nacional de Animadores 2010](../../Encontros/Encontro%20Nacional%20de%20Animadores%202010.md) - Organização
 
+### Família
+
+É irmã da [Sara Rita Sampaio](../S/Sara%20Rita%20Sampaio.md).
 É casada com o [Tiago Bahia](../T/Tiago%20Bahia.md).
 
 ---
