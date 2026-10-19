@@ -9,7 +9,7 @@ Vera Pina é animadora do [CSJB](../../Movimento/CSJB.md).
     - 2013 [E Agora?](../../Acampamentos/2013/E%20Agora.md)
     - 2014 [Revolução](../../Acampamentos/2014/Revolu%C3%A7%C3%A3o.md)
 - **Animadora:**
-    - 2015 [Mergulha](../../Acampamentos/2015/Mergulha.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
+    - 2015 [Mergulha](../../Acampamentos/2015/Mergulha.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2016 [Expalharmo-nos](../../Acampamentos/2016/Expalharmo-nos.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2018 [Prosopon](../../Acampamentos/2018/Prosopon.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
     - 2019 [Grito](../../Acampamentos/2019/Grito.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
