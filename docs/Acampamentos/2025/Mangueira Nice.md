@@ -7,7 +7,7 @@
 - [Director](../../Cargos/Director.md) - [Lourenço Beato](../../Pessoas/L/Louren%C3%A7o%20Beato.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Maria Silva](../../Pessoas/M/Maria%20Silva.md) (Malú)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Heitor Rosa](../../Pessoas/H/Heitor%20Rosa.md)
-- [Tia](../../Cargos/Tio.md) - Ariana Couto, Luísa Faria (Lu)
+- [Tias](../../Cargos/Tio.md) - [Ariana Couto](../../Pessoas/A/Ariana%20Couto.md) e Luísa Faria (Lu)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Maria Carvalho](../../Pessoas/M/Maria%20Carvalho.md), [Gonçalo Aguiar](../../Pessoas/G/Gon%C3%A7alo%20Aguiar.md) (Agui), [Bruna Honório](../../Pessoas/B/Bruna%20Hon%C3%B3rio.md), [Daniela Gonçalves](../../Pessoas/D/Daniela%20Gon%C3%A7alves.md), Beatriz Oliveira e [Inês Ferreira](../../Pessoas/I/In%C3%AAs%20Ferreira.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - Manuel Vasconcelos (Manas), Maria Dias Rodrigues, Guilherme Byrne e Beatriz Miguel
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Eduardo Amaral](../../Pessoas/E/Eduardo%20Amaral.md) sj
