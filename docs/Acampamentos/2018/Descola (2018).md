@@ -36,6 +36,7 @@ Perdi o jogo.
 - [Paula Gonçalves](../../Pessoas/P/Paula%20Gon%C3%A7alves.md)
 - [Rodrigo Calçarão](../../Pessoas/R/Rodrigo%20Cal%C3%A7ar%C3%A3o.md)
 - [Tomás Costa](../../Pessoas/T/Tom%C3%A1s%20Costa.md)
+- [Vasco Lucas Pires](../../Pessoas/V/Vasco%20Lucas%20Pires.md)
 
 ---
 
