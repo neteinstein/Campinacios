@@ -27,9 +27,9 @@ Perdi o jogo.
 
 - [Alexandre Alípio](../../Pessoas/A/Alexandre%20Al%C3%ADpio.md)
 - [Carolina Picciochi](../../Pessoas/C/Carolina%20Picciochi.md)
+- [Francisco Sá](../../Pessoas/F/Francisco%20S%C3%A1.md)
 - [Gonçalo Sá](../../Pessoas/G/Gon%C3%A7alo%20S%C3%A1.md)
 - [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
-- [Kiko Sá](../../Pessoas/K/Kiko%20S%C3%A1.md)
 - [Leonor Cardoso](../../Pessoas/L/Leonor%20Cardoso.md)
 - [Madalena Líbano Monteiro](../../Pessoas/M/Madalena%20L%C3%ADbano%20Monteiro.md)
 - [Maria Pinheiro Machado](../../Pessoas/M/Maria%20Pinheiro%20Machado.md)
