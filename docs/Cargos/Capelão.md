@@ -90,6 +90,7 @@
 - [Rafael Mourão](../Pessoas/R/Rafael%20Mour%C3%A3o.md)
 - [Ricardo Batista](../Pessoas/R/Ricardo%20Batista.md)
 - [Rui Fernandes](../Pessoas/R/Rui%20Fernandes.md)
+- [Rui Ferreira](../Pessoas/R/Rui%20Ferreira.md)
 - [Rui Nunes](../Pessoas/R/Rui%20Nunes.md)
 - [Rui Ribeiro](../Pessoas/R/Rui%20Ribeiro.md)
 - [Samuel Afonso](../Pessoas/S/Samuel%20Afonso.md)

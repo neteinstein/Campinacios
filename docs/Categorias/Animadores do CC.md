@@ -2,7 +2,7 @@
 
 Animadores do Colégio das Caldinhas
 
-## Páginas nesta categoria (175)
+## Páginas nesta categoria (176)
 
 - [Amílcar Sousa](../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
 - [Ana Carolina Bardi](../Pessoas/A/Ana%20Carolina%20Bardi.md)
@@ -136,6 +136,7 @@ Animadores do Colégio das Caldinhas
 - [Miguel Machado](../Pessoas/M/Miguel%20Machado.md)
 - [Miguel Melo](../Pessoas/M/Miguel%20Melo.md)
 - [Miguel Monteiro Martins](../Pessoas/M/Miguel%20Monteiro%20Martins.md)
+- [Miguel Poço](../Pessoas/M/Miguel%20Po%C3%A7o.md)
 - [Nathália Barbosa](../Pessoas/N/Nath%C3%A1lia%20Barbosa.md)
 - [Nuno Carvalho](../Pessoas/N/Nuno%20Carvalho.md)
 - [Nuno Santos](../Pessoas/N/Nuno%20Santos.md)
