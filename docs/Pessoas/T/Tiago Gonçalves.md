@@ -1,5 +1,7 @@
 # Tiago Gonçalves
 
+Também conhecido por amigo Gonçalves. Faleceu em Janeiro de 2013.
+
 ### Acampamentos
 
 - **Participante:**
