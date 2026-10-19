@@ -13,6 +13,7 @@
 - **Animador**
     - 2008 [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2009 [Survivor](../../Acampamentos/2009/Survivor.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2010 [4º Dto](../../Acampamentos/2010/4%C2%BA%20Dto.md)
 
 ### Online
 

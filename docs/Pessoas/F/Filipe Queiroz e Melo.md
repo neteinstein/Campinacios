@@ -8,6 +8,8 @@
 
 ### Acampamentos
 
+- **Formação:**
+    - 1991 [Cagácios](../../Acampamentos/1991/Cag%C3%A1cios.md)
 - **Animador**
     - 1989 [Pedreira](../../Acampamentos/1989/Pedreira.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 1989 [Ferrugenta](../../Acampamentos/1989/Ferrugenta.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)

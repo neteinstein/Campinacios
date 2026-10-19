@@ -6,6 +6,10 @@
 
 - [Director](../../Cargos/Director.md) - [Pedro Santos](../../Pessoas/P/Pedro%20Santos.md)
 
+## Participantes que se tornaram animadores
+
+- [Miguel Poço](../../Pessoas/M/Miguel%20Po%C3%A7o.md)
+
 ---
 
 | Categorias |

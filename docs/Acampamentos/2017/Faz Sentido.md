@@ -11,6 +11,7 @@
 
 ## Participantes que se tornaram animadores
 
+- [Ariana Couto](../../Pessoas/A/Ariana%20Couto.md)
 - [Carolina Dias](../../Pessoas/C/Carolina%20Dias.md)
 
 ---

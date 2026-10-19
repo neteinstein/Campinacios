@@ -12,7 +12,6 @@
 - [Diana Gapo](Diana%20Gapo.md)
 - [Diana Pereira](Diana%20Pereira.md)
 - [Diana Quintela](Diana%20Quintela.md)
-- [Digas Vasconcelos](Digas%20Vasconcelos.md)
 - [Dinis Braga da Cruz](Dinis%20Braga%20da%20Cruz.md)
 - [Diogo Belo](Diogo%20Belo.md)
 - [Diogo Boal Neves](Diogo%20Boal%20Neves.md)

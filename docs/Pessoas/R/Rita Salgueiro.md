@@ -5,6 +5,7 @@ Ana Rita Salgueiro é antiga aluna do Colégio S. João de Brito, é animadora d
 ### Acampamentos
 
 - **Animadora:**
+    - 2010 [PaKasaDele](../../Acampamentos/2010/PaKasaDele.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2011 [Pescanova](../../Acampamentos/2011/Pescanova.md) - [Tia](../../Cargos/Tio.md)
 
 ---
