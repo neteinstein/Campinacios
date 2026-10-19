@@ -4,9 +4,11 @@
 
 *Capa do Cantinácio 2019 (3.ª edição), com ilustração de [Francisco Rodrigues (Pica)](../Pessoas/F/Francisco%20Silva%20Rodrigues.md).*
 
-Um novo Cantinácio foi lançado após anos e anos de tentativas: a 3.ª edição, de 2019, com pesquisa e edição de [Sara Moinhos](../Pessoas/S/Sara%20Moinhos.md) (2019) e Pedro Vicente (virtual), ilustrações de [Francisco Rodrigues (Pica)](../Pessoas/F/Francisco%20Silva%20Rodrigues.md) e coordenação e assistência de [Francisca Pimentel](../Pessoas/F/Francisca%20Pimentel.md) (2019).
+Um novo Cantinácio foi lançado após anos e anos de tentativas: a 3.ª edição, de 2019, com pesquisa e edição de [Sara Moinhos](../Pessoas/S/Sara%20Moinhos.md) (2019), ilustrações de [Francisco Rodrigues (Pica)](../Pessoas/F/Francisco%20Silva%20Rodrigues.md) e coordenação e assistência de [Francisca Pimentel](../Pessoas/F/Francisca%20Pimentel.md) (2019).
 
 Reúne músicas e canções dos Campinácios e não só.
+
+Em 2026 foi lançada a versão virtual por [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) na Wikinácios.
 
 ## Prefácio
 
