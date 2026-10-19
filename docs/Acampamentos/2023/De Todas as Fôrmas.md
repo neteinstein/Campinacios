@@ -4,7 +4,7 @@
 
 ### Animadores
 
-- [Director](../../Cargos/Director.md) - [Digas Vasconcelos](../../Pessoas/D/Digas%20Vasconcelos.md)
+- [Director](../../Cargos/Director.md) - [Digas Vasconcelos](../../Pessoas/D/Diogo%20Vasconcelos.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Sofia Ângelo](../../Pessoas/S/Sofia%20%C3%82ngelo.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Joana Ferreira](../../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Filipe Lima](../../Pessoas/F/Filipe%20Lima.md) sj
