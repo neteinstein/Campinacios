@@ -4,7 +4,7 @@ O Walkabout decorreu entre os dias 29 de Julho e dia 7 de Agosto de 2010. Foi o 
 
 Percorreu os sítios de Santa Margarida, Ruvina e Senhora da Graça (Sabugal), percorrendo mais de 300Km.
 
-Originalmente a palavra walkabout referia-se a um rito de passagem que os aborigenes Australianos faziam no fim da adolescência passando uma temporada no meio selvagem. Foi escolhida por ter parecenças muito grandes com este campo especifico, sendo volante e mesmo pela idade dos participantes.
+A palavra Walkabout refere-se a um rito de passagem que os aborigenes Australianos faziam no fim da adolescência passando uma temporada no meio selvagem. Foi escolhida por ter parecenças muito grandes com este campo especifico, sendo volante e mesmo pela idade dos participantes.
 
 ### Animadores
 
