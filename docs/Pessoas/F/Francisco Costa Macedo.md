@@ -14,6 +14,8 @@ Francisco Costa Macedo foi um animador do CSJB. Foi também jesuíta.
 
 - **Animador:**
     - 1991 [Constância](../../Acampamentos/1991/Const%C3%A2ncia.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+    - 1991 [Cagácios](../../Acampamentos/1991/Cag%C3%A1cios.md) - [Director](../../Cargos/Director.md)
+    - 1994 [Bicicletas 94 I](../../Acampamentos/1994/Bicicletas%2094%20I.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
 
 ---
 
