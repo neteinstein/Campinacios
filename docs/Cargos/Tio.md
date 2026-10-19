@@ -96,6 +96,7 @@
 - [Mafalda Coelho](../Pessoas/M/Mafalda%20Coelho.md)
 - [Mafalda Pereira](../Pessoas/M/Mafalda%20Pereira.md)
 - [Magda Martins](../Pessoas/M/Magda%20Martins.md)
+- [Magui](../Pessoas/M/Magui.md)
 - [Margarida Faria](../Pessoas/M/Margarida%20Faria.md)
 - [Margarida Rodrigues](../Pessoas/M/Margarida%20Rodrigues.md)
 - [Margarida Santos](../Pessoas/M/Margarida%20Santos.md)

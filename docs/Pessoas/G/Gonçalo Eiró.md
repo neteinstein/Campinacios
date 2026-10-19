@@ -9,6 +9,7 @@
 ### Acampamentos
 
 - **Animador**
+    - 1991 [Cagácios](../../Acampamentos/1991/Cag%C3%A1cios.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 1992 [Fornelos](../../Acampamentos/1992/Fornelos.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 1993 [Tabuadelas II](../../Acampamentos/1993/Tabuadelas%20II.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 1993 [Ermal](../../Acampamentos/1993/Ermal.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)

@@ -10,6 +10,7 @@
 - **Participante**
     - 2011 [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md)
 - **Animador(a):**
+    - 2010 [4º Dto](../../Acampamentos/2010/4%C2%BA%20Dto.md)
     - 2012 [Sarcófago](../../Acampamentos/2012/Sarc%C3%B3fago.md) - [Director](../../Cargos/Director.md)
 
 ---

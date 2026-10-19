@@ -68,6 +68,7 @@
 - [José Manuel Filgueiras](Jos%C3%A9%20Manuel%20Filgueiras.md)
 - [José Manuel Lopes](Jos%C3%A9%20Manuel%20Lopes.md)
 - [José Maria Brito](Jos%C3%A9%20Maria%20Brito.md)
+- [José Maria Caldeira Ribeiro](Jos%C3%A9%20Maria%20Caldeira%20Ribeiro.md)
 - [José Maria Fragoso de Almeida](Jos%C3%A9%20Maria%20Fragoso%20de%20Almeida.md)
 - [José Marques](Jos%C3%A9%20Marques.md)
 - [José Miguel Fernandes](Jos%C3%A9%20Miguel%20Fernandes.md)

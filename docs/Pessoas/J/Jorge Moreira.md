@@ -9,6 +9,8 @@
 
 ### Acampamentos
 
+- **Formação:**
+    - 1991 [Cagácios](../../Acampamentos/1991/Cag%C3%A1cios.md)
 - **Animador:**
     - 1992 [Fornelos](../../Acampamentos/1992/Fornelos.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 1993 [Porto da Balsa 93](../../Acampamentos/1993/Porto%20da%20Balsa%2093.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)

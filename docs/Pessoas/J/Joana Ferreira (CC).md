@@ -6,6 +6,8 @@ Joana Ferreira é animadora do [CC](../../Movimento/CC.md) desde 2018.
 
 ### Acampamentos
 
+- **Participante:**
+    - 2010 [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
 - **Formação:**
     - 2018 [Prosopon](../../Acampamentos/2018/Prosopon.md)
 - **Animadora:**

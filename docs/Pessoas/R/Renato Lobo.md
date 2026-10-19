@@ -2,6 +2,8 @@
 
 ### Acampamentos
 
+- **Participante:**
+    - 2010 [PaKasaDele](../../Acampamentos/2010/PaKasaDele.md)
 - **Animador(a):**
     - 2015 [Encontrei-te](../../Acampamentos/2015/Encontrei-te.md) - [Director](../../Cargos/Director.md)
     - 2016 [Do Avesso](../../Acampamentos/2016/Do%20Avesso.md) - [Director](../../Cargos/Director.md)

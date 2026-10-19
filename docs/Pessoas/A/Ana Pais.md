@@ -8,6 +8,7 @@
     - 2009 [Caminho](../../Acampamentos/2009/Caminho.md)
 - **Animador:**
     - 2009 [Vi-O](../../Acampamentos/2009/Vi-O.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2010 [4º Dto](../../Acampamentos/2010/4%C2%BA%20Dto.md)
 
 ### Família
 
