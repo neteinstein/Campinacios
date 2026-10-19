@@ -3,6 +3,8 @@
 ### Acampamentos
 
 - **Animador(a):**
+    - 2023 [A Partir](../../Acampamentos/2023/A%20Partir.md) - [Animador(a) de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2023 [Chuva ó Chave](../../Acampamentos/2023/Chuva%20%C3%B3%20Chave.md) - [Animador(a) Livre](../../Cargos/Animador%20Livre.md)
     - 2024 [Barracada](../../Acampamentos/2024/Barracada.md) - [Director](../../Cargos/Director.md)
 
 ### Encontros

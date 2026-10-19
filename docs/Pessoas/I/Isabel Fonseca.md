@@ -6,6 +6,7 @@
     - 2021 [Sinfonia](../../Acampamentos/2021/Sinfonia.md) - [Director](../../Cargos/Director.md)
     - 2022 [Foca-te](../../Acampamentos/2022/Foca-te.md) - [Director](../../Cargos/Director.md)
     - 2023 [Parte de Ti](../../Acampamentos/2023/Parte%20de%20Ti.md) - [Director](../../Cargos/Director.md)
+    - 2023 [Perc'Urso](../../Acampamentos/2023/Perc%27Urso.md) - [Animador(a) de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
 ### Encontros
 
