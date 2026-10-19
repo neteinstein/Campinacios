@@ -15,6 +15,7 @@ Francisco Goiana Godinho da Silva, nascido a 15 de Abril de 1989, mais conhecido
 - **Animador**
     - 2008 [Bike Just Do It](../../Acampamentos/2008/Bike%20Just%20Do%20It.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2009 [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2010 [4º Dto](../../Acampamentos/2010/4%C2%BA%20Dto.md)
     - 2014 [Pó-Có](../../Acampamentos/2014/P%C3%B3-C%C3%B3.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
 
 ---

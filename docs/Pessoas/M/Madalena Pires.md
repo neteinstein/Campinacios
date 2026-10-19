@@ -2,6 +2,11 @@
 
 Animadora do CSJB desde 2010/2011.
 
+### Acampamentos
+
+- **Participante:**
+    - 2010 [PaKasaDele](../../Acampamentos/2010/PaKasaDele.md)
+
 ---
 
 | Categorias |

@@ -13,6 +13,14 @@ O 'Ed mais 10' foi um campo de Triciclos que decorreu entre os dias 9 e 18 de Ag
 - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Sara Moinhos](../../Pessoas/S/Sara%20Moinhos.md)
 - [Animadores](../../Categorias/Animadores.md) - [Ana Martins](../../Pessoas/A/Ana%20Martins.md), [Tiago Canilho](../../Pessoas/L/Lu%C3%ADs%20Tiago%20Canilho.md), [Margarida Pires](../../Pessoas/M/Margarida%20Pires.md), [Ricardo Neves](../../Pessoas/R/Ricardo%20Neves.md), [Maria Freire de Andrade](../../Pessoas/M/Maria%20Freire%20de%20Andrade.md), [Artur Correia](../../Pessoas/A/Artur%20Correia.md), [André Barreiras](../../Pessoas/A/Andr%C3%A9%20Barreiras.md), [Ana Rita Costa](../../Pessoas/A/Ana%20Rita%20Costa.md) e [Nuno Santos](../../Pessoas/N/Nuno%20Santos.md)
 
+## Participantes que se tornaram animadores
+
+- [Ana de Martins Aguiar](../../Pessoas/A/Ana%20de%20Martins%20Aguiar.md)
+- [Benedita Turras](../../Pessoas/B/Benedita%20Turras.md)
+- [Diogo Vasconcelos](../../Pessoas/D/Diogo%20Vasconcelos.md)
+- [Joana Ferreira (CC)](../../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
+- [Laura Leandro](../../Pessoas/L/Laura%20Leandro.md)
+
 ---
 
 | Categorias |

@@ -7,6 +7,10 @@
 - [Director](../../Cargos/Director.md) - [Luís Panão](../../Pessoas/L/Lu%C3%ADs%20Pan%C3%A3o.md)
 - [Tio](../../Cargos/Tio.md) - [Ricardo Costa](../../Pessoas/R/Ricardo%20Costa.md)
 
+## Participantes que se tornaram animadores
+
+- [Miguel Poço](../../Pessoas/M/Miguel%20Po%C3%A7o.md)
+
 ---
 
 | Categorias |
