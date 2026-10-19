@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1354 artigos e, em itálico, os 257 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1353 artigos e, em itálico, os 261 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -831,6 +831,7 @@
 - [João Currais](Pessoas/J/Jo%C3%A3o%20Currais.md)
 - [João de Almeida Graça](Pessoas/J/Jo%C3%A3o%20de%20Almeida%20Gra%C3%A7a.md)
 - [João Eiró](Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md)
+- *João Faleiro Cruz* → [João Cruz](Pessoas/J/Jo%C3%A3o%20Cruz.md)
 - [João Freire de Andrade](Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md)
 - [João Goulão](Pessoas/J/Jo%C3%A3o%20Goul%C3%A3o.md)
 - [João Monteiro](Pessoas/J/Jo%C3%A3o%20Monteiro.md)
@@ -910,7 +911,7 @@
 - [Kiko Alves da Silva](Pessoas/K/Kiko%20Alves%20da%20Silva.md)
 - [Kiko Carmo](Pessoas/K/Kiko%20Carmo.md)
 - [Kiko Gomes](Pessoas/K/Kiko%20Gomes.md)
-- [Kiko Sá](Pessoas/K/Kiko%20S%C3%A1.md)
+- *Kiko Sá* → [Francisco Sá](Pessoas/F/Francisco%20S%C3%A1.md)
 - *Kitó* → [Cristóvão Teixeira](Pessoas/C/Crist%C3%B3v%C3%A3o%20Teixeira.md)
 - [Koalas](Acampamentos/1999/Koalas.md)
 
@@ -1056,6 +1057,7 @@
 - [Manuel Silva](Pessoas/M/Manuel%20Silva.md)
 - [Manuel Vilhena](Pessoas/M/Manuel%20Vilhena.md)
 - *Maria Guedes* → [Maria João Guedes](Pessoas/M/Maria%20Jo%C3%A3o%20Guedes.md)
+- *Maria Machado* → [Maria Pinheiro Machado](Pessoas/M/Maria%20Pinheiro%20Machado.md)
 - *Maria Moniz* → [Maria Solla](Pessoas/M/Maria%20Solla.md)
 - [Maria Pinheiro Machado](Pessoas/M/Maria%20Pinheiro%20Machado.md)
 - [Maria Ramos](Pessoas/M/Maria%20Ramos.md)
@@ -1438,6 +1440,7 @@
 - [Rockstock 2026](Encontros/Rockstock%202026.md)
 - [Roda](Movimento/Roda.md)
 - [Rodrigo Calçarão](Pessoas/R/Rodrigo%20Cal%C3%A7ar%C3%A3o.md)
+- *Rodrigo Morgadinho* → [Guga](Pessoas/G/Guga.md)
 - [Rodrigo Queiroz e Melo](Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md)
 - [Rodrigo Sousa](Pessoas/R/Rodrigo%20Sousa.md)
 - [Rosarinho Araújo](Pessoas/R/Rosarinho%20Ara%C3%BAjo.md)

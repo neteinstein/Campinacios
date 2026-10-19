@@ -7,6 +7,7 @@
 ### Acampamentos
 
 - **Animador(a):**
+    - 2023 [Perc'Urso](../../Acampamentos/2023/Perc%27Urso.md) - [Animador(a) de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2024 [D'RIP MELON](../../Acampamentos/2024/D%27RIP%20MELON.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2025 [À Brava](../../Acampamentos/2025/%C3%80%20Brava.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2026 [Non Nobis](../../Acampamentos/2026/Non%20Nobis.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
