@@ -6,6 +6,7 @@ Este acampamento de [Trotinetas](../../Categorias/Trotinetas.md) decorreu de 20 
 
 - [Director](../../Cargos/Director.md) - [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
 - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Bruno Costa](../../Pessoas/B/Bruno%20Costa.md)
+- [Animadores](../../Categorias/Animadores.md) - [Magui Sampaio](../../Pessoas/M/Magui.md)
 
 ---
 
