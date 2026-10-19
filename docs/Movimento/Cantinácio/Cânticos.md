@@ -8,9 +8,14 @@ Cânticos religiosos para as eucaristias, orações e momentos de reflexão.
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (260 músicas)
+## Índice (277 músicas)
 
 - [A BONDADE DO SENHOR](#a-bondade-do-senhor) — [Salmo 32 (33)]
+- [ABRE SENHOR OS MEUS LÁBIOS](#abre-senhor-os-meus-labios) — Cânone — Miguel Pedro Melo sj
+- [ABRI AS PORTAS A CRISTO](#abri-as-portas-a-cristo)
+- [ACLAMAI JESUS CRISTO](#aclamai-jesus-cristo) — Fernandes da Silva
+- [AD MAIOREM DEI GLORIAM (BERTHIER)](#ad-maiorem-dei-gloriam-berthier) — Jacques Berthier
+- [AD MAIOREM DEI GLORIAM (DUFKA)](#ad-maiorem-dei-gloriam-dufka) — Vlastimil Dufka sj
 - [ADORAMUS TE CHRISTE](#adoramus-te-christe) — Taizé
 - [ADORAMUS TE DOMINE](#adoramus-te-domine) — Taizé
 - [AGORA É HORA](#agora-e-hora) — Filipa Andrade
@@ -30,6 +35,8 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [ALELUIA (SENZENINA)](#aleluia-senzenina)
 - [AMAR](#amar) — Schoenstatt
 - [AMAR-TE A TI SENHOR](#amar-te-a-ti-senhor)
+- [A MINH’ALMA DESCANSA](#a-minh-alma-descansa) — Taizé
+- [A MISERICÓRDIA DO SENHOR](#a-misericordia-do-senhor) — Taizé
 - [A PALAVRA É DEUS EM NÓS](#a-palavra-e-deus-em-nos)
 - [A PAZ VAI CORRENDO](#a-paz-vai-correndo) — Rocha Monteiro
 - [APRENDIZ DE VIAJANTE](#aprendiz-de-viajante) — Nuno Tovar de Lemos sj
@@ -42,6 +49,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [AVÉ MARIA, GRATIA PLENA](#ave-maria-gratia-plena)
 - [BEAUTIFUL](#beautiful) — Debby Kerner & Ernie Rettino
 - [BENDIZ ALMA MINHA](#bendiz-alma-minha)
+- [BLESS THE LORD](#bless-the-lord) — Taizé
 - [BONUM EST CONFIDERE](#bonum-est-confidere) — Taizé
 - [CAMINHANDO PELA VIDA](#caminhando-pela-vida)
 - [CAMINHAREI](#caminharei) — Alberto Marani
@@ -51,6 +59,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [CANTAI ALEGREMOS O SENHOR](#cantai-alegremos-o-senhor)
 - [CANTAI ALELUIA](#cantai-aleluia)
 - [CANTAI ALELUIAS](#cantai-aleluias)
+- [CANTAI UM CÂNTICO NOVO](#cantai-um-cantico-novo) — Miguel Pedro Melo sj
 - [CANTAREI](#cantarei)
 - [CANTAREI AO SENHOR](#cantarei-ao-senhor) — Taizé
 - [CELEBREMOS](#celebremos)
@@ -71,6 +80,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [CONVERSÃO](#conversao)
 - [CORÇA](#corca) — P. Nuno Tovar de Lemos sj
 - [CORDEIRO DE DEUS](#cordeiro-de-deus)
+- [CRISTO EM MIM](#cristo-em-mim) — Pedro Miranda
 - [CRISTO ESTÁ CONNOSCO](#cristo-esta-connosco)
 - [CRISTO REI DA GLÓRIA](#cristo-rei-da-gloria) — Frei Hermano da Câmara
 - [DÁ A PAZ](#da-a-paz)
@@ -80,6 +90,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [DÁ-NOS UM CORAÇÃO](#da-nos-um-coracao)
 - [DAR MAIS](#dar-mais) — Danny Pelfrey
 - [DEIXA A LUZ DO CÉU ENTRAR](#deixa-a-luz-do-ceu-entrar)
+- [DESPIERTA TÚ QUE DUERMES](#despierta-tu-que-duermes) — Taizé
 - [DEUS DE BELEZA](#deus-de-beleza) — Clara Almeida Santos e Xico Lemos
 - [DEUS É AMOR](#deus-e-amor) — Taizé
 - [DEUS ESTÁ AQUI](#deus-esta-aqui) — Javier Gácias
@@ -109,6 +120,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [EU TE DOU GRAÇAS](#eu-te-dou-gracas) — Ir. Maria do Céu
 - [FAZEI RESSOAR](#fazei-ressoar)
 - [FAZ-TE AO LARGO](#faz-te-ao-largo) — Candeia
+- [FELIZES OS POBRES](#felizes-os-pobres) — Taizé
 - [FELIZES OS QUE AMAM O SENHOR](#felizes-os-que-amam-o-senhor) — P. José Luís Souto Coelho
 - [FICA ENTRE NÓS](#fica-entre-nos) — D. Macheta
 - [FICA JUNTO A NÓS](#fica-junto-a-nos)
@@ -129,6 +141,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [KIMBU](#kimbu)
 - [KYRIE](#kyrie)
 - [KYRIE ELEISON](#kyrie-eleison)
+- [KYRIE (SENHOR, MISERICÓRDIA)](#kyrie-senhor-misericordia) — Miguel Pedro Melo sj
 - [LADAINHA DOS SANTOS](#ladainha-dos-santos)
 - [LANÇA-TE (VOA BEM MAIS ALTO)](#lanca-te-voa-bem-mais-alto) — Ir. Maria Amélia Costa
 - [LAUDATE DOMINUM](#laudate-dominum) — Taizé
@@ -167,6 +180,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [O REINO DE DEUS](#o-reino-de-deus) — Taizé
 - [O SENHOR É A MINHA FORÇA](#o-senhor-e-a-minha-forca) — Taizé
 - [O SENHOR É MEU PASTOR](#o-senhor-e-meu-pastor) — Nuno Tovar de Lemos
+- [O SENHOR TE FORTALECE](#o-senhor-te-fortalece) — Taizé
 - [O SOL JÁ RAIOU](#o-sol-ja-raiou)
 - [OUVI A NOSSA ORAÇÃO](#ouvi-a-nossa-oracao)
 - [PAI](#pai)
@@ -180,6 +194,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [PERDOA SENHOR O NOSSO DIA](#perdoa-senhor-o-nosso-dia)
 - [PEREGRINO](#peregrino)
 - [PERMANECE EM MIM](#permanece-em-mim) — Irene Guia, ACI
+- [PIEDADE](#piedade)
 - [PÕE TUA MÃO](#poe-tua-mao) — P. Borga (Gene MacLellan)
 - [PORQUE TODA A VIDA VEM DE TI](#porque-toda-a-vida-vem-de-ti) — Jésed- Verbum Dei
 - [PREPARAI O CAMINHO AO SENHOR](#preparai-o-caminho-ao-senhor)
@@ -233,6 +248,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [SENHOR TENDE PIEDADE (KUMBAYA)](#senhor-tende-piedade-kumbaya)
 - [SENHOR TU ÉS A LUZ](#senhor-tu-es-a-luz)
 - [SENHOR TU FASCINAS-ME!](#senhor-tu-fascinas-me)
+- [SENHOR VELA POR MIM](#senhor-vela-por-mim) — Pedro Miranda
 - [SENHOR VENHO HOJE AQUI DEIXAR](#senhor-venho-hoje-aqui-deixar) — Pioneiros de Schoenstatt
 - [SE TU QUISERES SER FELIZ](#se-tu-quiseres-ser-feliz)
 - [SHEMA ISRAEL](#shema-israel)
@@ -246,6 +262,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [TROCAR O CERTO PELO INCERTO](#trocar-o-certo-pelo-incerto) — P. Nuno Tovar de Lemos
 - [TUA PALAVRA OUVI](#tua-palavra-ouvi)
 - [TU ÉS FONTE DE VIDA](#tu-es-fonte-de-vida) — Taizé
+- [TU ÉS O MEU DEUS](#tu-es-o-meu-deus) — Taizé
 - [TU MEU DEUS](#tu-meu-deus)
 - [TU VENS SENHOR](#tu-vens-senhor) — Maria Pineda
 - [UBI CARITAS](#ubi-caritas) — Taizé
@@ -304,6 +321,113 @@ Nossa alma espera o Senhor,
 Ele é nosso amparo e protector.
 Venha até nós Senhor, a Vossa bondade;
 assim de Vós o esperamos.
+```
+
+### ABRE SENHOR OS MEUS LÁBIOS {#abre-senhor-os-meus-labios}
+
+*Cânone — [Miguel Pedro Melo](../../Pessoas/M/Miguel%20Melo.md) sj*
+
+```text
+Mim  Ré6  Lám/Dó  Si7
+Abre, Senhor, os meus lábios
+1) E a minha boca proclamará o Teu louvor!
+2) Abre, Senhor, os meus lábios.
+
+Ré6: xx0002
+Lám/Dó: x3x210
+```
+
+### ABRI AS PORTAS A CRISTO {#abri-as-portas-a-cristo}
+
+```text
+[Refrão]
+Ré  Sim
+Abri as portas a Cristo
+Sol  Mim  Lá
+Não temais, não tenhais medo
+Fá#  Sim  Lá  Ré
+Escancarai o vosso coração
+Sol  Ré  Lá  Ré
+Ao Amor de Deus.
+
+Sim  Sol  Lá
+Testemunha da Esperança
+Ré  Sol  Mim7  Lá
+Para quem espera a salvação
+Fá#  Sim  Sol  Ré
+Peregrino por amor
+Sol  Mim  Lá
+Sobre as estradas do mundo.
+
+Verdadeiro Pai para os jovens
+Que enviaste pelo mundo,
+Sentinelas da manhã,
+Sinal vivo de esperança.
+
+Testemunhas da Fé
+Que anunciastes com a vida,
+Firme e forte na prova
+Confirmou os teus irmãos.
+
+Ensinaste para cada homem
+A beleza da vida
+Indicando a família
+Como um sinal de amor.
+
+Pai de misericórdia,
+Filho, nosso Redentor,
+Santo Espírito de Amor
+À Trindade toda a glória.
+```
+
+### ACLAMAI JESUS CRISTO {#aclamai-jesus-cristo}
+
+*Fernandes da Silva*
+
+```text
+Mi  Si7  Mi  Dó#m
+Aclamai Jesus Cristo
+Lá  Fá#m  Si7
+Cantai o Homem Novo
+Mi/Sol#  Fá#m  Si  Dó#m
+Vós que sois Sua Igreja
+Lá  Si  Mi
+Vós que sois o Seu povo
+```
+
+### AD MAIOREM DEI GLORIAM (BERTHIER) {#ad-maiorem-dei-gloriam-berthier}
+
+*Jacques Berthier*
+
+```text
+Lám  Fá  Sol  Dó
+Ad maiorem Dei Gloriam
+Lám  Fá  Sol  Dó
+Ad maiorem Dei Gloriam,
+Lám  Mim  Fá  Dó
+Ad maiorem Dei, Ad maiorem Dei,
+Rém  Lám  Mi  (Mi7)
+Ad maiorem Dei Gloriam
+
+Lám  Mim  Fá  Dó
+Ad maiorem Dei, Ad maiorem Dei,
+Rém  Lám  Rém  Mi  Lám
+Ad maiorem Dei Gloriam
+```
+
+### AD MAIOREM DEI GLORIAM (DUFKA) {#ad-maiorem-dei-gloriam-dufka}
+
+*Vlastimil Dufka sj*
+
+```text
+Ré  Lá  Ré
+Ad maiorem Dei gloriam
+Mim  Ré/Fá#  Sol  Lá
+Ad maiorem Dei gloriam
+Sim  Sol  Mim  Lá
+Dei gloriam, Dei gloriam
+Ré  Mim  Lá7  Ré
+Ad maiorem Dei gloriam
 ```
 
 ### ADORAMUS TE CHRISTE {#adoramus-te-christe}
@@ -758,6 +882,35 @@ Em tudo amar e servir
 Em tudo amar e servir
 ```
 
+### A MINH’ALMA DESCANSA {#a-minh-alma-descansa}
+
+*Taizé*
+
+```text
+Mim  Dó  Sol  Ré  Mim  Lám  Si
+A minh’alma descansa em paz no Senhor,
+Mim  Dó  Ré  Sol
+Que é fonte de salvação.
+Mim  Dó  Sol  Ré  Mim  Lám  Si
+Sim, só em Deus descansa minh’alma,
+Mim  Lám  Si  Mim
+Nele encontra a paz
+```
+
+### A MISERICÓRDIA DO SENHOR {#a-misericordia-do-senhor}
+
+*Taizé*
+
+```text
+Rém  Lá  Rém  Dó
+A misericórdia do Senhor
+Fá  Dó  Rém  Lá  Rém
+Para sempre cantarei
+
+(Misericordias Domini
+In aeternum cantabo)
+```
+
 ### A PALAVRA É DEUS EM NÓS {#a-palavra-e-deus-em-nos}
 
 ```text
@@ -1144,6 +1297,21 @@ Sol
 O Senhor.
 ```
 
+### BLESS THE LORD {#bless-the-lord}
+
+*Taizé*
+
+```text
+Rém  Sol  Rém
+Bless the Lord, my soul,
+Sib  Dó  Fá  Lá
+And bless God’s holy name.
+Rém  Sol  Rém
+Bless the Lord, my soul,
+Sib  Dó  Rém
+Who leads me into life.
+```
+
 ### BONUM EST CONFIDERE {#bonum-est-confidere}
 
 *Taizé*
@@ -1406,6 +1574,44 @@ Trazei o que houver nas vossas mansões
 Repartam o pão, a alegria e o amor
 Porque hoje é o dia em que somos irmãos
 Irmãos alegremo-nos, aleluia
+```
+
+### CANTAI UM CÂNTICO NOVO {#cantai-um-cantico-novo}
+
+*[Miguel Pedro Melo](../../Pessoas/M/Miguel%20Melo.md) sj*
+
+```text
+[Refrão]
+Ré  Sol  Lá  Ré
+Cantai um cântico novo
+Ré  Sol  Lá  Ré
+Entoai a vossa vida com beleza
+Lá  Sol
+Servi com todo o vosso corpo
+Fá#m  Sol  Mim  Lá
+O Amor que assumiu a nossa natureza
+Sol  Fá#m
+Não estaremos para sempre sobre a terra,
+Mim  Lá  Sim
+A nossa era passará,
+Sol  Lá  Ré  Sim
+Mas embora o jade e o ouro se quebrem
+Mim  Lá  Sol  Ré
+O pão partido da Tua vida permanecerá.
+
+Ré  Lám
+Cantai ao Senhor um cântico novo,
+Sol  Lá  Ré
+Cantai ao Senhor terra inteira,
+Ré  Lám
+Cantai ao Senhor, bendizei o Seu nome,
+Sol  Lá  Ré
+Anunciai dia a dia a Sua salvação.
+
+Anunciai entre as nações a Sua glória,
+Entre todos os povos as Suas maravilhas.
+Adorai-O na beleza da santidade,
+Alegre-se o céu, rejubile a terra.
 ```
 
 ### CANTAREI {#cantarei}
@@ -2297,6 +2503,23 @@ Que tiras o pecado do mundo
 Dá-nos a tua paz (4x)
 ```
 
+### CRISTO EM MIM {#cristo-em-mim}
+
+*Pedro Miranda*
+
+```text
+Ré  Sol  Ré
+Senhor, faz que olhem para mim
+Ré  Sol  Ré
+Só Te vejam a Ti
+Lá  Sol
+Só Te vejam a Ti.
+
+Não ser eu quem fala mas só Tu
+Eu quem fala, mas só Tu
+Só Cristo em mim.
+```
+
 ### CRISTO ESTÁ CONNOSCO {#cristo-esta-connosco}
 
 ```text
@@ -2559,6 +2782,21 @@ Dó7                           Fá
 Abre bem as portas do teu coração
   Dó                 Sol     Dó
 E deixa a luz do Céu entrar
+```
+
+### DESPIERTA TÚ QUE DUERMES {#despierta-tu-que-duermes}
+
+*Taizé*
+
+```text
+Ré  Lá  Ré
+Despierta tú que duermes
+Sol  Mim  Lá
+Levántate de entre los muertos
+Ré  Sol
+Y Cristo te alumbrará.
+Ré  Sol  Lá
+Y Cristo te alumbrará.
 ```
 
 ### DEUS DE BELEZA {#deus-de-beleza}
@@ -3490,6 +3728,17 @@ Tens o mundo inteiro basta acreditar
 Oh faz-te ao largo…
 ```
 
+### FELIZES OS POBRES {#felizes-os-pobres}
+
+*Taizé*
+
+```text
+Dó  Rém/Dó  Sol  Dó
+Felizes os pobres
+Fá  Sib  Rém  Sol
+Porque deles é o Reino de Deus.
+```
+
 ### FELIZES OS QUE AMAM O SENHOR {#felizes-os-que-amam-o-senhor}
 
 *P. José Luís Souto Coelho*
@@ -4060,6 +4309,46 @@ Sol       Lá7     Ré
 Christe, Christe, Eleison (x2)
 
 Kyrie, Kyrie Eleison (x2)
+```
+
+### KYRIE (SENHOR, MISERICÓRDIA) {#kyrie-senhor-misericordia}
+
+*[Miguel Pedro Melo](../../Pessoas/M/Miguel%20Melo.md) sj*
+
+```text
+Lá  Sim/Lá
+Senhor, misericórdia
+Lá  Mi7
+Aproxima-Te de nós
+Lá  Sim/Lá
+Tu que foste enviado
+Lá  Mi7
+a salvar os nossos corações
+Lá  Sim/Lá  Mi7  Lá
+Senhor, misericórdia
+Lá  Lá/Sol  Fá#m  Fá  Lá
+Kyrie eleison,
+Sim/Lá  Mi7  Lá
+Eleison
+
+Cristo, misericórdia
+Vem a nós com o Teu coração
+Tua vida é Palavra que chama,
+aos débeis e pecadores
+Cristo, misericórdia
+Christe eleison,
+Eleison
+
+Senhor, misericórdia
+Trazes a luz e a paz às nossas feridas
+Tu que estás à direita do Pai
+a interceder por nós
+Senhor, misericórdia
+Kyrie eleison,
+eleison
+
+Sim/Lá: x04430
+Lá/Sol: 3x2220
 ```
 
 ### LADAINHA DOS SANTOS {#ladainha-dos-santos}
@@ -4953,6 +5242,26 @@ Quidquid optamus per te speramus
 Ora, ora pro nobis.
 ```
 
+### O SENHOR TE FORTALECE {#o-senhor-te-fortalece}
+
+*Taizé*
+
+```text
+Dó#m  Si  Mi
+O Senhor te fortalece
+Fá#m  Lá  Si
+Ele está sempre a teu lado.
+Mi  Dó#m  Sol#m  Lá
+O Senhor que vem ao teu encontro,
+Fá#m  Dó#m  Si
+Vem ao teu encontro.
+
+(Il Signore ti ristora
+Dio non allontana
+Il Signore viene ad incontrarti
+Viene ad incontrarti)
+```
+
 ### O SOL JÁ RAIOU {#o-sol-ja-raiou}
 
 *Cântico da manhã*
@@ -5787,6 +6096,27 @@ Me responderá: “Tu o meu Deus”
 
 Dó* - x32030; Mim* - x2x030
 Lá#* - x1x030; Sol* - 32x030
+```
+
+### PIEDADE {#piedade}
+
+```text
+Ré  Sol  Ré  Ré7
+Senhor, que viestes salvar
+Sol  Lá  Ré  Ré7
+Os corações arrependidos
+
+[Refrão]
+Sol  Ré  Sim
+Piedade, piedade,
+Sol  Lá  Ré
+piedade de nós (bis)
+
+Cristo, que morrestes na cruz
+Para nos dar a vida eterna
+
+Senhor, que intercedeis por nós
+Junto a Deus Pai que nos perdoa
 ```
 
 ### PÕE TUA MÃO {#poe-tua-mao}
@@ -7472,6 +7802,21 @@ Ré Dó           Sol      Lá        Ré
 Só Tu nos consegues completar
 ```
 
+### SENHOR VELA POR MIM {#senhor-vela-por-mim}
+
+*Pedro Miranda*
+
+```text
+Dó  Fá  Dó
+Senhor vela por mim
+Lám  Fá  Dó  Sol
+Que farei sem Ti
+Fá  Sol  Dó  Sol  Lám
+Só, eu não sou nada
+Fá  Sol  Dó
+Guarda-me Senhor
+```
+
 ### SENHOR VENHO HOJE AQUI DEIXAR {#senhor-venho-hoje-aqui-deixar}
 
 *Pioneiros de Schoenstatt*
@@ -7979,6 +8324,21 @@ Dó#m     Ré  Lá  Sim Mi
 Vem     Espíri-to  San-to
 Fá#m  Ré  Lá Mi
 Vem Espíri-to  Santo
+```
+
+### TU ÉS O MEU DEUS {#tu-es-o-meu-deus}
+
+*Taizé*
+
+```text
+Ré  Lá  Sim
+Tu és o meu Deus
+Sim  Mim  Lá
+Eu confio em Ti.
+Fá#m  Mim  Sol  Ré
+És toda a minha alegria.
+Lá  Sim  Sol  Ré  Lá
+Ensina-me o caminho da vida
 ```
 
 ### TU MEU DEUS {#tu-meu-deus}
