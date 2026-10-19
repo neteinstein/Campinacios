@@ -12,6 +12,7 @@
     - Nenhum
 
 - **Animadora:**
+    - 2010 [4º Dto](../../Acampamentos/2010/4%C2%BA%20Dto.md)
     - 2011 [Pedra papel tesoura](../../Acampamentos/2011/Pedra%20papel%20tesoura.md)
 
 ---

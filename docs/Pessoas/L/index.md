@@ -25,6 +25,7 @@
 - [Luís Boavida](Lu%C3%ADs%20Boavida.md)
 - [Luís Ferreira do Amaral](Lu%C3%ADs%20Ferreira%20do%20Amaral.md)
 - [Luís Fontes](Lu%C3%ADs%20Fontes.md)
+- [Luís Freire](Lu%C3%ADs%20Freire.md)
 - [Luís Monteiro](Lu%C3%ADs%20Monteiro.md)
 - [Luís Panão](Lu%C3%ADs%20Pan%C3%A3o.md)
 - [Luis Pereira](Luis%20Pereira.md)

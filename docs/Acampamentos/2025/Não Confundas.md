@@ -14,6 +14,7 @@
 ## Participantes que se tornaram animadores
 
 - [Daniela Gonçalves](../../Pessoas/D/Daniela%20Gon%C3%A7alves.md)
+- [Miguel Poço](../../Pessoas/M/Miguel%20Po%C3%A7o.md)
 - [Zé Guedes](../../Pessoas/Z/Z%C3%A9%20Guedes.md)
 
 ---

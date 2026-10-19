@@ -13,6 +13,10 @@
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Francisco Maia](../../Pessoas/F/Francisco%20Maia.md), [Sebastião Veloso](../../Pessoas/S/Sebasti%C3%A3o%20Veloso.md) (Pião), Manuel Maria Costa e [Ricardo Costa](../../Pessoas/R/Ricardo%20Costa.md) (Teddy Bear)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Mafalda Ferreira, Francisca Coutinho, Maria Inês Andrade, Maria Luís Couto (Marilú), [Maria Fontes](../../Pessoas/M/Maria%20Fontes.md) e [Pedro Amado](../../Pessoas/P/Pedro%20Amado.md)
 
+## Participantes que se tornaram animadores
+
+- [Ariana Couto](../../Pessoas/A/Ariana%20Couto.md)
+
 ---
 
 | Categorias |

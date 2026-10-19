@@ -3,6 +3,7 @@
 ### Acampamentos
 
 - **Animador(a):**
+    - 2010 [PaKasaDele](../../Acampamentos/2010/PaKasaDele.md)
     - 2011 [Pescanova](../../Acampamentos/2011/Pescanova.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2012 [Digueifire](../../Acampamentos/2012/Digueifire.md) - [Director](../../Cargos/Director.md)
 

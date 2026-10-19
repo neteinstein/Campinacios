@@ -2,6 +2,8 @@
 
 ### Acampamentos
 
+- **Participante:**
+    - 2010 [4º Dto](../../Acampamentos/2010/4%C2%BA%20Dto.md)
 - **Animador(a):**
     - 2015 [Someonelfie](../../Acampamentos/2015/Someonelfie.md) - [Tia](../../Cargos/Tio.md)
     - 2017 [Já Dá](../../Acampamentos/2017/J%C3%A1%20D%C3%A1.md) - [Director](../../Cargos/Director.md)

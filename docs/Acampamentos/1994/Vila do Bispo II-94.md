@@ -15,6 +15,7 @@ Este acampamento de [Bicicletas](../../Categorias/Bicicletas.md) decorreu de 9 a
 ## Participantes que se tornaram animadores
 
 - [António Leal](../../Pessoas/A/Ant%C3%B3nio%20Leal.md)
+- [Filipe Faleiro](../../Pessoas/F/Filipe%20Faleiro.md)
 - [José Luís Fernandes](../../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Fernandes.md)
 
 ---

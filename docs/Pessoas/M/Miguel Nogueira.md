@@ -5,9 +5,12 @@
 ### Acampamentos
 
 - **Animador:**
+    - 1991 [Cagácios](../../Acampamentos/1991/Cag%C3%A1cios.md) - [Director](../../Cargos/Director.md)
     - 1992 [Verim](../../Acampamentos/1992/Verim.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
 
 ---
+
+**Outros nomes:** José Miguel Nogueira
 
 | Categorias |
 | --- |

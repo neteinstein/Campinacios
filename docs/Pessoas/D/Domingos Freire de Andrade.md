@@ -6,6 +6,8 @@
 
 ### Acampamentos
 
+- **Participante:**
+    - 2009 [Survivor](../../Acampamentos/2009/Survivor.md)
 - **Animador(a):**
     - 2013 [Realiza](../../Acampamentos/2013/Realiza.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2015 [Mergulha](../../Acampamentos/2015/Mergulha.md) - [Director](../../Cargos/Director.md)

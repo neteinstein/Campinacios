@@ -2,6 +2,8 @@
 
 ### Acampamentos
 
+- **Participante:**
+    - 2010 [Walkabout](../../Acampamentos/2010/Walkabout.md)
 - **Animador(a):**
     - 2012 [Sarcófago](../../Acampamentos/2012/Sarc%C3%B3fago.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2013 [Realiza](../../Acampamentos/2013/Realiza.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)

@@ -8,7 +8,7 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Beatriz Mesquita](../../Pessoas/B/Beatriz%20Mesquita.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Tomás Ribeiro](../../Pessoas/T/Tom%C3%A1s%20Ribeiro.md)
 - [Tia](../../Cargos/Tio.md) - Bea Pitxi, [Sofia Silva](../../Pessoas/S/Sofia%20Silva.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md), [Teresa Cannas](../../Pessoas/T/Teresa%20Cannas.md), Vera Vallera, [Carolina Morão](../../Pessoas/C/Carolina%20Mor%C3%A3o.md) (Káká), Miguel Poço, [Vasco Lobo](../../Pessoas/V/Vasco%20Lobo.md) e Leonor David (Nocas)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md), [Teresa Cannas](../../Pessoas/T/Teresa%20Cannas.md), Vera Vallera, [Carolina Morão](../../Pessoas/C/Carolina%20Mor%C3%A3o.md) (Káká), [Miguel Poço](../../Pessoas/M/Miguel%20Po%C3%A7o.md), [Vasco Lobo](../../Pessoas/V/Vasco%20Lobo.md) e Leonor David (Nocas)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - Francisco Ilhão, [Maria Cunhal](../../Pessoas/M/Maria%20Cunhal.md) (Mawi), [Catarina Gaio](../../Pessoas/C/Catarina%20Gaio.md) e João Madureira
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Francisco Montellano](../../Pessoas/F/Francisco%20Montellano.md) sj
 
