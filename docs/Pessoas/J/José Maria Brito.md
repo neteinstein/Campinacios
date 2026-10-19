@@ -1,6 +1,6 @@
 # José Maria Brito
 
-Também conhecido por Zebra
+Também conhecido por Zé Maria Brito ou Zebra. Faleceu em Abril de 2024.
 
 ### Cargos
 
