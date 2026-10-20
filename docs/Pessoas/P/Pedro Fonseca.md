@@ -5,6 +5,7 @@
 - **Participante:**
     - 2010 [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md)
 - **Animador(a):**
+    - 2014 [Suga](../../Acampamentos/2014/Suga.md)
     - 2018 [Codex 0018](../../Acampamentos/2018/Codex%200018.md) - [Director](../../Cargos/Director.md)
     - 2019 [Auquincaminha](../../Acampamentos/2019/Auquincaminha.md) - [Director](../../Cargos/Director.md)
     - 2019 [SimBasta](../../Acampamentos/2019/SimBasta.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
