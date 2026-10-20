@@ -1,5 +1,7 @@
 # Gonçalo Luís Carvalho
 
+*Nota: Há outras pessoas chamadas Gonçalo Carvalho: ver [Gonçalo Carvalho](../../Movimento/Desambigua%C3%A7%C3%A3o/Gon%C3%A7alo%20Carvalho.md).*
+
 Gonçalo Carvalho, é desde 2005 um dos animadores do Colégio da Imaculada Conceição.
 
 ## História dentro do movimento
