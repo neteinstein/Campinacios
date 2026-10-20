@@ -144,6 +144,7 @@
 - [Sílvia Alexandra](../Pessoas/S/S%C3%ADlvia%20Alexandra.md)
 - [Sílvia Reis](../Pessoas/S/S%C3%ADlvia%20Reis.md)
 - [Sílvia Sepúlveda](../Pessoas/S/S%C3%ADlvia%20Sep%C3%BAlveda.md)
+- [Sofia Castilho](../Pessoas/S/Sofia%20Castilho.md)
 - [Sofia Fernandes](../Pessoas/S/Sofia%20Fernandes.md)
 - [Sofia Silva](../Pessoas/S/Sofia%20Silva.md)
 - [Sónia Ferreira](../Pessoas/S/S%C3%B3nia%20Ferreira.md)

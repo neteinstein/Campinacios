@@ -9,7 +9,7 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Chico Carneiro](../../Pessoas/F/Francisco%20Carneiro.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [André Vale](../../Pessoas/A/Andr%C3%A9%20Vale.md), [Lourenço Beato](../../Pessoas/L/Louren%C3%A7o%20Beato.md) e [Leonor Fonseca](../../Pessoas/L/Leonor%20Fonseca.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Filipe Lima](../../Pessoas/F/Filipe%20Lima.md) sj
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Nuno Ferreira](../../Pessoas/N/Nuno%20Ferreira.md) (Broski), [Alexandre Alípio](../../Pessoas/A/Alexandre%20Al%C3%ADpio.md), [Carolina Picciochi](../../Pessoas/C/Carolina%20Picciochi.md), [Francisca Neves](../../Pessoas/F/Francisca%20Neves.md), [Catarina Ferreira](../../Pessoas/C/Catarina%20Ferreira.md) (Kate) e [Carmo Ribeiro Corrêa](../../Pessoas/C/Carmo%20Ribeiro%20Corr%C3%AAa.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Nuno Ferreira](../../Pessoas/N/Nuno%20Ferreira.md) (Broski), [Alexandre Alípio](../../Pessoas/A/Alexandre%20Al%C3%ADpio.md), [Carolina Picciochi](../../Pessoas/C/Carolina%20Picciochi.md), [Francisca Neves](../../Pessoas/F/Francisca%20Neves.md), [Catarina Ferreira](../../Pessoas/C/Catarina%20Ferreira.md) (Kate) e [Carmo Ribeiro Corrêa](../../Pessoas/M/Maria%20do%20Carmo%20Ribeiro.md)
 - [Tia](../../Cargos/Tio.md) - [Mariana Ramalho](../../Pessoas/M/Mariana%20Ramalho.md)
 - [Tia](../../Cargos/Tio.md) - [Beatriz Maia](../../Pessoas/B/Beatriz%20Maia.md)
 

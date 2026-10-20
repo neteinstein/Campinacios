@@ -2,6 +2,8 @@
 
 ### Acampamentos
 
+- **Participante:**
+    - 2013 [Fairplay](../../Acampamentos/2013/Fairplay.md)
 - **Animador(a):**
     - 2021 [Quantos Somos](../../Acampamentos/2021/Quantos%20Somos.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 

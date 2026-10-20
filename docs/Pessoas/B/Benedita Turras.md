@@ -4,6 +4,7 @@
 
 - **Participante:**
     - 2010 [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
+    - 2013 [Fairplay](../../Acampamentos/2013/Fairplay.md)
 - **Animador(a):**
     - 2017 [Faz Sentido](../../Acampamentos/2017/Faz%20Sentido.md)
 
