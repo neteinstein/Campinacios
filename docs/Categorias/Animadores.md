@@ -9,7 +9,7 @@ Animadores dos Campinácios
 - [Animadores do CSJB](Animadores%20do%20CSJB.md)
 - [Jesuítas](Jesu%C3%ADtas.md)
 
-## Páginas nesta categoria (847)
+## Páginas nesta categoria (846)
 
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Afonso Barrocas](../Pessoas/A/Afonso%20Barrocas.md)
@@ -145,7 +145,6 @@ Animadores dos Campinácios
 - [Carlos Ruiz](../Pessoas/C/Carlos%20Ruiz.md)
 - [Carminho Simões de Almeida](../Pessoas/C/Carminho%20Sim%C3%B5es%20de%20Almeida.md)
 - [Carmo Madeira](../Pessoas/C/Carmo%20Madeira.md)
-- [Carmo Ribeiro Corrêa](../Pessoas/C/Carmo%20Ribeiro%20Corr%C3%AAa.md)
 - [Carolina Carvalho](../Pessoas/C/Carolina%20Carvalho.md)
 - [Carolina Dias](../Pessoas/C/Carolina%20Dias.md)
 - [Carolina Morão](../Pessoas/C/Carolina%20Mor%C3%A3o.md)
@@ -166,7 +165,6 @@ Animadores dos Campinácios
 - [Cecília Miranda](../Pessoas/C/Cec%C3%ADlia%20Miranda.md)
 - [Chica Aguiar](../Pessoas/C/Chica%20Aguiar.md)
 - [Chico Silva](../Pessoas/C/Chico%20Silva.md)
-- [Chumi](../Pessoas/C/Chumi.md)
 - [Clara Sampaio](../Pessoas/C/Clara%20Sampaio.md)
 - [Cláudia Coelho](../Pessoas/C/Cl%C3%A1udia%20Coelho.md)
 - [Cláudia Montenegro](../Pessoas/C/Cl%C3%A1udia%20Montenegro.md)
@@ -784,6 +782,7 @@ Animadores dos Campinácios
 - [Simão Alves da Silva](../Pessoas/S/Sim%C3%A3o%20Alves%20da%20Silva.md)
 - [Sofia Amaral](../Pessoas/S/Sofia%20Amaral.md)
 - [Sofia Azevedo Cardoso](../Pessoas/S/Sofia%20Azevedo%20Cardoso.md)
+- [Sofia Castilho](../Pessoas/S/Sofia%20Castilho.md)
 - [Sofia Fernandes](../Pessoas/S/Sofia%20Fernandes.md)
 - [Sofia Fonseca](../Pessoas/S/Sofia%20Fonseca.md)
 - [Sofia Rebelo](../Pessoas/S/Sofia%20Rebelo.md)
