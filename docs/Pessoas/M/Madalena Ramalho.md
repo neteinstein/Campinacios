@@ -2,6 +2,8 @@
 
 ### Acampamentos
 
+- **Participante:**
+    - 2013 [Fairplay](../../Acampamentos/2013/Fairplay.md)
 - **Animador(a):**
     - 2017 [Supera-te](../../Acampamentos/2017/Supera-te.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2021 [Vesp'á Luz](../../Acampamentos/2021/Vesp%27%C3%A1%20Luz.md) - [Mamã](../../Cargos/Mam%C3%A3.md)

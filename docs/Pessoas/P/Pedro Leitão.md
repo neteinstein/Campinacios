@@ -2,6 +2,8 @@
 
 ### Acampamentos
 
+- **Participante:**
+    - 2014 [Suga](../../Acampamentos/2014/Suga.md)
 - **Animador(a):**
     - 2023 [De Todas as Fôrmas](../../Acampamentos/2023/De%20Todas%20as%20F%C3%B4rmas.md) - [Animador(a) de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2024 [D'RIP MELON](../../Acampamentos/2024/D%27RIP%20MELON.md) - [Tio](../../Cargos/Tio.md)
