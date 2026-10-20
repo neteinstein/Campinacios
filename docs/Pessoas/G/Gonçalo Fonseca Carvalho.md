@@ -1,5 +1,7 @@
 # Gonçalo Fonseca Carvalho
 
+*Nota: Há outras pessoas chamadas Gonçalo Carvalho: ver [Gonçalo Carvalho](../../Movimento/Desambigua%C3%A7%C3%A3o/Gon%C3%A7alo%20Carvalho.md). Se procura Gonçalo Fonseca, capelão do Lembras-te? em 2009, consulte [Gonçalo Fonseca](Gon%C3%A7alo%20Fonseca.md).*
+
 ### Acampamentos
 
 - **Participante:**
@@ -7,7 +9,7 @@
 - **Formação:**
     - 2008 [Êxodo](../../Acampamentos/2008/%C3%8Axodo.md)
 - **Animador:**
-    - 2009 [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - Nenhum
 
 ---
 
