@@ -11,6 +11,10 @@
 
 - [Wipeout, com GoPro](https://www.youtube.com/watch?v=awVMdPeshUc)
 
+## Participantes que se tornaram animadores
+
+- [Pedro Leitão](../../Pessoas/P/Pedro%20Leit%C3%A3o.md)
+
 ---
 
 | Categorias |
