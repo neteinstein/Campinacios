@@ -11,6 +11,14 @@ No YouTube há um [vídeo do hino](https://youtu.be/B7yYsEgAKso).
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Nelson Faria](../../Pessoas/N/Nelson%20Faria.md) sj
 - [Animadores](../../Categorias/Animadores.md) - [Sílvia Lobo](../../Pessoas/S/S%C3%ADlvia%20Lobo.md)
 
+## Participantes que se tornaram animadores
+
+- [Francisco Cunha e Carmo](../../Pessoas/F/Francisco%20Cunha%20e%20Carmo.md)
+- [Mafalda Machete](../../Pessoas/M/Mafalda%20Machete.md)
+- [Paula Gonçalves](../../Pessoas/P/Paula%20Gon%C3%A7alves.md)
+- [Rodrigo Calçarão](../../Pessoas/R/Rodrigo%20Cal%C3%A7ar%C3%A3o.md)
+- [Sofia Castilho](../../Pessoas/S/Sofia%20Castilho.md)
+
 ---
 
 | Categorias |
