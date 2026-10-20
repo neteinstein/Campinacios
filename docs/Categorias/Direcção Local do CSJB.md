@@ -12,8 +12,8 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 | **2025/2026** | [Margarida Tavares](../Pessoas/M/Margarida%20Tavares.md) (Mogui) | [Eduardo Amaral](../Pessoas/E/Eduardo%20Amaral.md) sj | [Miguel Teixeira](../Pessoas/M/Miguel%20Teixeira.md) (responsável pelo Material), [Matilde Pereira](../Pessoas/M/Matilde%20Pereira.md) (Matchi), [Lourenço Barjona](../Pessoas/L/Louren%C3%A7o%20Barjona.md) |
 | **2024/2025** | [Maria Solla](../Pessoas/M/Maria%20Solla.md) | [Eduardo Amaral](../Pessoas/E/Eduardo%20Amaral.md) sj | [Dinis Braga da Cruz](../Pessoas/D/Dinis%20Braga%20da%20Cruz.md) (responsável pelo Material), [Joana Rocha](../Pessoas/J/Joana%20Rocha.md), [Lourenço Barjona](../Pessoas/L/Louren%C3%A7o%20Barjona.md) |
 | **2023/2024** | [António Neves](../Pessoas/A/Ant%C3%B3nio%20Neves.md) | [Filipe Lima](../Pessoas/F/Filipe%20Lima.md) sj | [Sofia Ângelo](../Pessoas/S/Sofia%20%C3%82ngelo.md), [André Teixeira](../Pessoas/A/Andr%C3%A9%20Teixeira.md), [Joana Rocha](../Pessoas/J/Joana%20Rocha.md) |
-| **2022/2023** | [Carmo Ribeiro Corrêa (Chumi)](../Pessoas/C/Carmo%20Ribeiro%20Corr%C3%AAa.md) | [Filipe Lima](../Pessoas/F/Filipe%20Lima.md) sj | — |
-| **2021/2022** | [Isabel Fonseca](../Pessoas/I/Isabel%20Fonseca.md) | [Vasco Teixeira](../Pessoas/V/Vasco%20Teixeira.md) sj | [João Afonso Sousa](../Pessoas/J/Jo%C3%A3o%20Afonso%20Sousa.md), [Jaime Lucas Pires](../Pessoas/J/Jaime%20Lucas%20Pires.md), [Carmo Ribeiro Corrêa (Chumi)](../Pessoas/C/Carmo%20Ribeiro%20Corr%C3%AAa.md) |
+| **2022/2023** | [Carmo Ribeiro Corrêa (Chumi)](../Pessoas/M/Maria%20do%20Carmo%20Ribeiro.md) | [Filipe Lima](../Pessoas/F/Filipe%20Lima.md) sj | — |
+| **2021/2022** | [Isabel Fonseca](../Pessoas/I/Isabel%20Fonseca.md) | [Vasco Teixeira](../Pessoas/V/Vasco%20Teixeira.md) sj | [João Afonso Sousa](../Pessoas/J/Jo%C3%A3o%20Afonso%20Sousa.md), [Jaime Lucas Pires](../Pessoas/J/Jaime%20Lucas%20Pires.md), [Carmo Ribeiro Corrêa (Chumi)](../Pessoas/M/Maria%20do%20Carmo%20Ribeiro.md) |
 | **2020/2021** | — | [Vasco Teixeira](../Pessoas/V/Vasco%20Teixeira.md) sj | — |
 | **2019/2020** | — | [Vasco Teixeira](../Pessoas/V/Vasco%20Teixeira.md) sj | — |
 | **2018/2019** | [Pedro Santos](../Pessoas/P/Pedro%20Santos.md) | [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md) sj | — |
@@ -56,7 +56,6 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [Bernardo Narciso](../Pessoas/B/Bernardo%20Narciso.md)
 - [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md)
 - [Carlos Ruiz](../Pessoas/C/Carlos%20Ruiz.md)
-- [Carmo Ribeiro Corrêa](../Pessoas/C/Carmo%20Ribeiro%20Corr%C3%AAa.md)
 - [Constança Pereira da Silva](../Pessoas/C/Constan%C3%A7a%20Pereira%20da%20Silva.md)
 - [Dinis Braga da Cruz](../Pessoas/D/Dinis%20Braga%20da%20Cruz.md)
 - [Diogo Faria](../Pessoas/D/Diogo%20Faria.md)
@@ -91,6 +90,7 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [Manuel Cordeiro Ferreira](../Pessoas/M/Manuel%20Cordeiro%20Ferreira.md)
 - [Manuel Vilhena](../Pessoas/M/Manuel%20Vilhena.md)
 - [Margarida Tavares](../Pessoas/M/Margarida%20Tavares.md)
+- [Maria do Carmo Ribeiro](../Pessoas/M/Maria%20do%20Carmo%20Ribeiro.md)
 - [Maria José Peres](../Pessoas/M/Maria%20Jos%C3%A9%20Peres.md)
 - [Maria Líbano Monteiro](../Pessoas/M/Maria%20L%C3%ADbano%20Monteiro.md)
 - [Maria Solla](../Pessoas/M/Maria%20Solla.md)

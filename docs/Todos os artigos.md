@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1353 artigos e, em itálico, os 261 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1352 artigos e, em itálico, os 263 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -272,7 +272,7 @@
 - [Capelinho](Cargos/Capelinho.md)
 - [Carlos Miranda](Pessoas/C/Carlos%20Miranda.md)
 - [Carlos Pereira da Silva](Pessoas/C/Carlos%20Pereira%20da%20Silva.md)
-- *Carmo Castelo Branco* → [Chumi](Pessoas/C/Chumi.md)
+- *Carmo Castelo Branco* → [Maria do Carmo Ribeiro](Pessoas/M/Maria%20do%20Carmo%20Ribeiro.md)
 - *Carmo Cunha e Carmo* → [Maria do Carmo Cunha e Carmo](Pessoas/M/Maria%20do%20Carmo%20Cunha%20e%20Carmo.md)
 - [Carmo Madeira](Pessoas/C/Carmo%20Madeira.md)
 - *Carol* → [Carolina Dias](Pessoas/C/Carolina%20Dias.md)
@@ -290,7 +290,7 @@
 - [Cátia Silva](Pessoas/C/C%C3%A1tia%20Silva.md)
 - [Chica Aguiar](Pessoas/C/Chica%20Aguiar.md)
 - *Chico Carneiro* → [Francisco Carneiro](Pessoas/F/Francisco%20Carneiro.md)
-- *Chumi* → [Carmo Ribeiro Corrêa](Pessoas/C/Carmo%20Ribeiro%20Corr%C3%AAa.md)
+- *Chumi* → [Maria do Carmo Ribeiro](Pessoas/M/Maria%20do%20Carmo%20Ribeiro.md)
 - [Clara Sampaio](Pessoas/C/Clara%20Sampaio.md)
 - [Cláudia Montenegro](Pessoas/C/Cl%C3%A1udia%20Montenegro.md)
 - [Constança Sampaio Soares](Pessoas/C/Constan%C3%A7a%20Sampaio%20Soares.md)
@@ -311,7 +311,7 @@
 - [Carlos Rodrigues](Pessoas/C/Carlos%20Rodrigues.md)
 - [Carlos Ruiz](Pessoas/C/Carlos%20Ruiz.md)
 - [Carminho Simões de Almeida](Pessoas/C/Carminho%20Sim%C3%B5es%20de%20Almeida.md)
-- [Carmo Ribeiro Corrêa](Pessoas/C/Carmo%20Ribeiro%20Corr%C3%AAa.md)
+- *Carmo Ribeiro Corrêa* → [Maria do Carmo Ribeiro](Pessoas/M/Maria%20do%20Carmo%20Ribeiro.md)
 - [Caroço](Acampamentos/1999/Caro%C3%A7o.md)
 - *Carolina Bardi* → [Ana Carolina Bardi](Pessoas/A/Ana%20Carolina%20Bardi.md)
 - [Carolina Carvalho](Pessoas/C/Carolina%20Carvalho.md)
@@ -338,7 +338,6 @@
 - *Chico Lopes* → [Francisco Lopes](Pessoas/F/Francisco%20Lopes.md)
 - *Chico Maria* → [Francisco Maria](Pessoas/F/Francisco%20Maria.md)
 - [Chico Silva](Pessoas/C/Chico%20Silva.md)
-- [Chumi](Pessoas/C/Chumi.md)
 - [Chuva ó Chave](Acampamentos/2023/Chuva%20%C3%B3%20Chave.md)
 - [Cibicleta Como És](Acampamentos/2023/Cibicleta%20Como%20%C3%89s.md)
 - [CIFA I](Acampamentos/1991/CIFA%20I.md)
@@ -1039,6 +1038,7 @@
 - [Maria Carvalho](Pessoas/M/Maria%20Carvalho.md)
 - [Maria Cunhal](Pessoas/M/Maria%20Cunhal.md)
 - [Maria do Carmo Ribeiro](Pessoas/M/Maria%20do%20Carmo%20Ribeiro.md)
+- *Maria do Carmo Castel Branco* → [Maria do Carmo Ribeiro](Pessoas/M/Maria%20do%20Carmo%20Ribeiro.md)
 - [Maria Dória](Pessoas/M/Maria%20D%C3%B3ria.md)
 - *Majo* → [Maria João Simões](Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
 - *Majó* → [Maria João Simões](Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
@@ -1518,6 +1518,7 @@
 - [Sofia Amaral](Pessoas/S/Sofia%20Amaral.md)
 - [Sofia Ângelo](Pessoas/S/Sofia%20%C3%82ngelo.md)
 - [Sofia Azevedo Cardoso](Pessoas/S/Sofia%20Azevedo%20Cardoso.md)
+- [Sofia Castilho](Pessoas/S/Sofia%20Castilho.md)
 - [Sofia Fernandes](Pessoas/S/Sofia%20Fernandes.md)
 - [Sofia Fonseca](Pessoas/S/Sofia%20Fonseca.md)
 - *Sofia Pinelas* → [Ana Sofia Pinelas](Pessoas/A/Ana%20Sofia%20Pinelas.md)
