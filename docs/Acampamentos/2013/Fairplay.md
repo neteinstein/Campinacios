@@ -1,12 +1,14 @@
 # Fairplay
 
-**Fairplay** foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) realizado em 2013. O tema do ano foi *Ámen*.
+**Fairplay** foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) realizado em 2013 em Serpins. O tema do ano foi *Ámen*.
 
-No YouTube há um [vídeo do campo](https://www.youtube.com/watch?v=0Hq8fUwXs8M).
+No YouTube há um [vídeo do campo](https://www.youtube.com/watch?v=0Hq8fUwXs8M) e um [vídeo do hino](https://youtu.be/WiPzjORzv1A).
 
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Rafael Carecho](../../Pessoas/R/Rafael%20Carecho.md)
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [José Maria Brito](../../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md) sj
+- [Animadores](../../Categorias/Animadores.md) - [Miguel Falcão Ramos](../../Pessoas/M/Miguel%20Falc%C3%A3o%20Ramos.md)
 
 ---
 
