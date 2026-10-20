@@ -5,6 +5,7 @@
 ### Acampamentos
 
 - **Animador:**
+    - 2014 [#SóMeFalt’Aurélia](../../Acampamentos/2014/S%C3%B3MeFalt%E2%80%99Aur%C3%A9lia.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2017 [Supera-te](../../Acampamentos/2017/Supera-te.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2019 [SimBasta](../../Acampamentos/2019/SimBasta.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 

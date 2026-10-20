@@ -3,6 +3,7 @@
 ### Acampamentos
 
 - **Animador:**
+    - 2014 [#SóMeFalt’Aurélia](../../Acampamentos/2014/S%C3%B3MeFalt%E2%80%99Aur%C3%A9lia.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2025 [Em Frente À'Fera](../../Acampamentos/2025/Em%20Frente%20%C3%80%27Fera.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
 ---
