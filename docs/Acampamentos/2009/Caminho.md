@@ -104,6 +104,10 @@ Réplica do plano do campo preparado pela equipa de animação.
 
 BDS – Bom Dia Senhor; AG – Auto-Gestão.
 
+## Relatório de Campo
+
+O [relatório de campo](../../Restrito/Relat%C3%B3rios%20de%20Campo/Caminho%202009.md) 🔒 escrito pela direcção é uma página restrita.
+
 ## Participantes que se tornaram animadores
 
 - [Alexandra Silva](../../Pessoas/A/Alexandra%20Silva.md)
@@ -136,10 +140,6 @@ BDS – Bom Dia Senhor; AG – Auto-Gestão.
 - [Rita Quintela](../../Pessoas/R/Rita%20Quintela.md)
 - [Sara Fernandes](../../Pessoas/S/Sara%20Fernandes.md)
 - [Sílvia Lobo](../../Pessoas/S/S%C3%ADlvia%20Lobo.md)
-
-## Relatório de Campo
-
-O [relatório de campo](../../Restrito/Relat%C3%B3rios%20de%20Campo/Caminho%202009.md) 🔒 escrito pela direcção é uma página restrita.
 
 ---
 

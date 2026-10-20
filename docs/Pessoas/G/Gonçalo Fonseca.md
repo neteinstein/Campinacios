@@ -1,5 +1,7 @@
 # Gonçalo Fonseca
 
+*Nota: Este artigo é sobre Gonçalo Fonseca sj, capelão do Lembras-te? em 2009. Se procura Gonçalo Fonseca Carvalho, animador do CSJB desde 2009, consulte [Gonçalo Fonseca Carvalho](Gon%C3%A7alo%20Fonseca%20Carvalho.md).*
+
 ### Acampamentos
 
 - **Animador**

@@ -115,7 +115,6 @@
 - [Gabriela Poças](../Pessoas/G/Gabriela%20Po%C3%A7as.md)
 - [Gonçalo Aguiar](../Pessoas/G/Gon%C3%A7alo%20Aguiar.md)
 - [Gonçalo Belo](../Pessoas/G/Gon%C3%A7alo%20Belo.md)
-- [Gonçalo Fonseca Carvalho](../Pessoas/G/Gon%C3%A7alo%20Fonseca%20Carvalho.md)
 - [Gonçalo Forte Vaz](../Pessoas/G/Gon%C3%A7alo%20Forte%20Vaz.md)
 - [Gonçalo Frade](../Pessoas/G/Gon%C3%A7alo%20Frade.md)
 - [Gonçalo Luís Carvalho](../Pessoas/G/Gon%C3%A7alo%20Lu%C3%ADs%20Carvalho.md)

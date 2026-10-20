@@ -11,6 +11,11 @@ O Era Uma Vez... foi um acampamento de [Lambretas](../../Categorias/Lambretas.md
 - [Tia](../../Cargos/Tio.md) - [Mafalda Coelho](../../Pessoas/M/Mafalda%20Coelho.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Ana Martins](../../Pessoas/A/Ana%20Martins.md), [Madalena Mariz](../../Pessoas/M/Madalena%20Mariz.md), [Vítor Fernandes](../../Pessoas/V/V%C3%ADtor%20Fernandes.md), [Tiago Carneiro](../../Pessoas/T/Tiago%20Carneiro.md), [Bruno Azevedo](../../Pessoas/B/Bruno%20Azevedo.md) e [Pedro Snow](../../Pessoas/P/Pedro%20Snow.md)
 
+## Vídeos
+
+- [Era uma vez](https://www.youtube.com/watch?v=v30W8wSXVv0)
+- [Guerra na lama](https://www.youtube.com/watch?v=6azkUXk651s)
+
 ## Participantes que se tornaram animadores
 
 - [Ana Carolina Bardi](../../Pessoas/A/Ana%20Carolina%20Bardi.md)
@@ -28,11 +33,6 @@ O Era Uma Vez... foi um acampamento de [Lambretas](../../Categorias/Lambretas.md
 - [Sara Moinhos](../../Pessoas/S/Sara%20Moinhos.md)
 - [Sara Rita Sampaio](../../Pessoas/S/Sara%20Rita%20Sampaio.md)
 - [Sílvia Lobo](../../Pessoas/S/S%C3%ADlvia%20Lobo.md)
-
-## Vídeos
-
-- [Era uma vez](https://www.youtube.com/watch?v=v30W8wSXVv0)
-- [Guerra na lama](https://www.youtube.com/watch?v=6azkUXk651s)
 
 ---
 
