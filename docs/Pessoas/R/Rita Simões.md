@@ -24,6 +24,10 @@ Rita Simões é desde 2002, uma das animadoras do Colégio da Imaculada Conceiç
     - 2005 [Gaivota](../../Acampamentos/2005/Gaivota.md) - [Tia](../../Cargos/Tio.md)
     - 2009 [Vi-O](../../Acampamentos/2009/Vi-O.md) - [Directora-Adjunta](../../Cargos/Director-Adjunto.md)
 
+### Encontros
+
+- 2010 [Encontro Nacional 2010 (20 Anos)](../../Encontros/Encontro%20Nacional%202010%20%2820%20Anos%29.md) - Adjunta do Museu dos 20 anos
+
 ### Família
 
 É irmã da [Ana Simões](../A/Ana%20Sim%C3%B5es.md).

@@ -26,6 +26,20 @@ Para efeitos de coerência apresentamos aqui como Direcção Nacional todos os e
 
 As decisões tomadas pela Direcção Nacional ficam registadas no [Manual de Deliberações](../Movimento/Manual%20de%20Delibera%C3%A7%C3%B5es.md), que reúne as orientações e excepções já discutidas para não voltarem a sê-lo.
 
+### O ano da Direcção Nacional {#o-ano-da-direccao-nacional}
+
+A agenda anual de 2006/2007, feita para as Direcções Locais e para a Direcção Nacional, mostra como corria um ano:
+
+- **Setembro** — com o início das aulas, devolve-se o dinheiro das pré-inscrições a quem não teve vaga; nos anos de mudança, os animadores de cada colégio votam a nova Direcção Local.
+- **Outubro** — a primeira reunião da Direcção Nacional avalia o ano com os directores dos colégios e dos campos (cada director leva um CD com fotografias e o relatório) e, à tarde, a «nova» Direcção Nacional marca as actividades do ano; na segunda reunião elegem-se o coordenador e o secretário, escolhem-se os directores dos campos do ano seguinte e, logo a seguir, enviam-se as cartas aos possíveis futuros animadores.
+- **Novembro** — o fim-de-semana de espiritualidade e relações humanas, aberto a todos os animadores, com a apresentação dos novos animadores.
+- **Dezembro** — as ceias de Natal, organizadas por cada colégio.
+- **Janeiro e Fevereiro** — acabam os convites aos directores e fecham-se as equipas de direcção (os adjuntos e as mamãs são confirmados pelo assistente antes do convite); começa a escolha dos locais de campo e faz-se o fim-de-semana de formação de directores, adjuntos e mamãs.
+- **Março** — o [Encontro Nacional](Encontros%20Nacionais.md), a «caça ao animador», em que os directores convidam os animadores para as suas equipas, e a acção de formação dos animadores do 2.º ano.
+- **Abril e Maio** — a Direcção Nacional aprova as equipas e os locais de campo; abrem as pré-inscrições, faz-se o sorteio público (anunciado por cada Direcção Local a uma hora em que os participantes possam estar presentes) e abrem as inscrições.
+- **Junho e Julho** — a Festa da Família de cada colégio, com os Campinácios; as fichas de inscrição e o dinheiro passam entre os colégios, seguem as cartas para os participantes e tratam-se as autorizações da câmara, da GNR, do delegado de saúde e do proprietário do local; no fim de Julho, a acção de formação do 1.º ano.
+- **Agosto** — os campos.
+
 ## Composição por ano
 
 ### 2026/2027

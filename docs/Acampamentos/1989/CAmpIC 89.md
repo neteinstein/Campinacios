@@ -2,6 +2,8 @@
 
 Este acampamento organizado pelo CAIC na casa da Serra da Estrela, para os seus alunos, foi na prática o primeiro acampamento a ter participantes dos 3 Colégios a partir da sugestão do Padre [Manuel Paiva](../../Pessoas/M/Manuel%20Paiva.md) sj. Só a partir do [Ferrugenta](Ferrugenta.md), os acampamentos foram organizados a nível inter-colegial.
 
+Segundo a carta enviada aos participantes, decorreu de 1 a 9 de Julho de 1989, com cerca de 45 pessoas entre participantes e animadores, vindas de três sítios: o CAIC, o INA e o CSJB. Os do INA e do CSJB apanhavam o comboio até Coimbra B, onde os esperava um dos animadores, e seguiam num autocarro alugado. O tema era «Pelos frutos se conhece a árvore»: «Iremos fazer muitos jogos. Brincaremos muito. Teremos momentos sérios. E como "pelos frutos se conhece a árvore", tentaremos todos dar bons frutos.»
+
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Zé Lopes](../../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md) sj

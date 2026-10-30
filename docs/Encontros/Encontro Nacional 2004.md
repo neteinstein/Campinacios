@@ -2,6 +2,7 @@
 
 O Encontro Nacional 2004 realizou-se no CAIC, a 20 e 21 de Março de 2004, e teve como tema "Ousar recomeçar..."
 
+[![Logótipo do Encontro Nacional 2004: uma cara de boneco desenhada à mão, com olhos esbugalhados, dentes grandes e a língua vermelha em forma de coração, e um pé com uma bota vermelha a espreitar ao lado](../assets/imagens/Encontro%20Nacional%20de%202004%20%28log%C3%B3tipo%29.jpg){ width="220" }](../assets/imagens/Encontro%20Nacional%20de%202004%20%28log%C3%B3tipo%29.jpg)
 [![Estampa do Encontro Nacional 2004 numa t-shirt cinzenta: uma cara de boneco com olhos esbugalhados e a língua em forma de coração, rodeada pelo texto «Encontro Nacional Campinácios — CAIC — 20/21 Março 2004»](../assets/imagens/Encontro%20Nacional%20de%202004.jpg)](../assets/imagens/Encontro%20Nacional%20de%202004.jpg)
 
 ## CD «Campinácios Unplugged» {#cd-campinacios-unplugged}
