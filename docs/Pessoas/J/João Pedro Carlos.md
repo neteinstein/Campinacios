@@ -1,9 +1,5 @@
 # João Pedro Carlos
 
-- **Animador:**
-    - 2004 [Patos](../../Acampamentos/2004/Patos.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
-    - 2004 [Mikelin Descobre a Vida](../../Acampamentos/2004/Mikelin%20Descobre%20a%20Vida.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
-
 ### Acampamentos
 
 - **Animador:**

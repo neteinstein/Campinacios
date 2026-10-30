@@ -60,9 +60,11 @@ A realidade entrava muitas vezes pela novela dentro. Foi o que aconteceu com a e
 
 - [Ana Veiga](../../Pessoas/A/Ana%20Veiga.md)
 - [Carla Carneiro](../../Pessoas/C/Carla%20Carneiro.md)
+- [Catarina Durão Barroso](../../Pessoas/C/Catarina%20Dur%C3%A3o%20Barroso.md)
 - [Cristiana Leite](../../Pessoas/C/Cristiana%20Leite.md)
 - [Filipa Caldas](../../Pessoas/F/Filipa%20Caldas.md)
 - [Francisco Carvalho](../../Pessoas/F/Francisco%20Carvalho.md)
+- [Joana Fonseca](../../Pessoas/J/Joana%20Fonseca.md)
 - [João Pedro Gomes](../../Pessoas/J/Jo%C3%A3o%20Pedro%20Gomes.md)
 - [José António Lima](../../Pessoas/J/Jos%C3%A9%20Ant%C3%B3nio%20Lima.md)
 - [José Emanuel Ferreira](../../Pessoas/J/Jos%C3%A9%20Emanuel%20Ferreira.md)
