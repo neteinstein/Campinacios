@@ -27,10 +27,6 @@ Filipe Emanuel dos Santos Albuquerque Barroso, um dos animadores do Colégio Sã
 Foi estudante no CSJB desde os seus quatro anos de idade até ao final do Secundário.
 Após os exames nacionais entrou no Curso de Matemática na [Faculdade Nova de Lisboa - Faculdade de Ciências e Tecnologia](http://www.fct.unl.pt/) situado na costa da Caparica. Frequentou só um ano neste curso pois depois mudou para Engenharia Informática, na mesma faculdade, onde no qual permanece até à presente data. Terminou a Licenciatura em Engenharia Informática em 2009 e frequenta agora o Mestrado em Engenharia Informática fazendo uma especialização em Inteligência Artificial. Ainda na [Faculdade Nova de Lisboa - Faculdade de Ciências e Tecnologia](http://www.fct.unl.pt/)
 
-### Contacto
-
-smith_4u@hotmail.com
-
 ### Página
 
 [Youtube](http://www.youtube.com/user/ABrrs)
