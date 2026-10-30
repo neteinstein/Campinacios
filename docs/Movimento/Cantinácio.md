@@ -77,7 +77,7 @@ Aqui ficam, para efeitos nostálgicos, as faixas do CD *Campinácios Unplugged*,
 [![Capa do CD Campinácios Unplugged, de 2004: o logótipo dos Campinácios num tambor, quatro fotografias de acampamentos, silhuetas de músicos com guitarra e microfone e o título «Campinácios»](../assets/imagens/Campin%C3%A1cios%20Unplugged%20%28capa%29.jpg){ width="440" }](../assets/imagens/Campin%C3%A1cios%20Unplugged%20%28capa%29.jpg)
 [![Contracapa e capa do CD feitas pelo Zé Aves em Março de 2004: à esquerda, sobre a cara de boneco do Encontro Nacional 2004, «"campinácios unplugged" — gravado ao vivo pelo Prof. Rui Pinto — Encontro Nacional do CAIC — 20 de Março de 2004»; à direita, o logótipo sobre uma fotografia desfocada do encontro e «campinácios live in caic»](../assets/imagens/Campin%C3%A1cios%20Unplugged%20%28capa%20e%20contracapa%29.jpg){ width="440" }](../assets/imagens/Campin%C3%A1cios%20Unplugged%20%28capa%20e%20contracapa%29.jpg)
 
-A capa do CD feita pelo [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) e a contracapa e a capa feitas pelo Zé Aves em Março de 2004, que a página dos Campinácios tinha para descarregar e imprimir.
+A capa do CD feita pelo [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) e a capa feita pelo [Zé Aves](../Pessoas/J/Jos%C3%A9%20Miguel%20Fernandes.md) em Março de 2004, que a página dos Campinácios tinha para descarregar e imprimir.
 
 <audio controls src="../assets/musicas/Cantin%C3%A1cio/01%20-%20Canoa.mp3"></audio><br>01 - Canoa
 
