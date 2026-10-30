@@ -170,6 +170,7 @@
 - [Francisco Melo](../Pessoas/F/Francisco%20Melo.md)
 - [Francisco Silva Rodrigues](../Pessoas/F/Francisco%20Silva%20Rodrigues.md)
 - [Francisco Xavier](../Pessoas/F/Francisco%20Xavier.md)
+- [Gabriel Ponte](../Pessoas/G/Gabriel%20Ponte.md)
 - [Gabriela Poças](../Pessoas/G/Gabriela%20Po%C3%A7as.md)
 - [Gonçalo Aguiar](../Pessoas/G/Gon%C3%A7alo%20Aguiar.md)
 - [Gonçalo Coimbra](../Pessoas/G/Gon%C3%A7alo%20Coimbra.md)
