@@ -2,6 +2,8 @@
 
 Também conhecido por amigo Gonçalves. Faleceu em Janeiro de 2013.
 
+O serão do [Encontro Nacional 2013](../../Encontros/Encontro%20Nacional%202013.md) terminou com uma homenagem: «Em homenagem a Tiago Gonçalves», a branco sobre fundo preto.
+
 ### Acampamentos
 
 - **Participante:**
