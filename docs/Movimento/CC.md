@@ -10,6 +10,8 @@ As cinco escolas que compõem o colégio são:
 - CCM - Conservatório de Música
 - ARTAVE - Escola Profissional de Música
 
+## História {#historia}
+
 A história do colégio começa em 1912, na Bélgica, onde iniciou actividade com o nome de Instituto Nun'Alvres, após a expulsão dos jesuítas de Portugal, em 1910. Foi sacudido de país em país por perseguições religiosas, tendo passado por Espanha entre 1914 e 1931. É em 1932 que vem para as Caldas da Saúde, em Santo Tirso, instalando-se no antigo Hotel das Termas.
 
 Primeiro como internato de rapazes, foi abrindo as suas portas aos alunos e alunas da região, tornando-se uma referência no ensino e no desenvolvimento dos concelhos vizinhos. Nos finais da década de 70 e inícios da década de 80 do século passado, começaram a abrir as escolas de ensino profissional, em várias áreas, e a escola infantil, que diversificaram a oferta educativa que hoje caracteriza esta instituição.
