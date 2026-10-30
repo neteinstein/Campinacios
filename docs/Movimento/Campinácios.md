@@ -10,6 +10,7 @@
 - Logótipo Oficial do Movimento em 2003
 - Logótipo não oficial - Feito por [Pedro Pinheiro](../Pessoas/P/Pedro%20Pinheiro.md) para a comemoração do natal de 2006
 - Logótipo Oficial do Movimento a partir de Janeiro de 2010 (embora tenha sido usado desde 2006, foi criado para os 20 anos do Movimento) - por João David a pedido de [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md)
+- Logótipo comemorativo dos 20 anos do Movimento, usado no [Encontro Nacional 2010 (20 Anos)](../Encontros/Encontro%20Nacional%202010%20%2820%20Anos%29.md)
 - Logótipo comemorativo dos 30 anos do Movimento (1990-2020)
 - Logótipo comemorativo dos 35 anos do Movimento (2025) - identidade visual do departamento de comunicação do mandato de 2024/25
 - Logótipo Oficial do Movimento a partir de 2025 - por “Concha” Constança Sampaio Soares, vencedor do Concurso CAMPOCALIPSE
@@ -38,6 +39,10 @@
 <figure markdown="span">
 [![Logótipo de 2010: tenda verde e sol num círculo vermelho, com o IHS e «Campinácios» por baixo](../assets/imagens/Campin%C3%A1cios_.jpg)](../assets/imagens/Campin%C3%A1cios_.jpg)
 <figcaption>2010 · oficial</figcaption>
+</figure>
+<figure markdown="span">
+[![Logótipo dos 20 anos: um grande «2» branco contornado a preto e, a fazer de «0», o logótipo dos Campinácios, com a tenda verde, o sol amarelo e o IHS num círculo vermelho, e «Campinácios» por baixo](../assets/imagens/Campin%C3%A1cios_20_anos.png)](../assets/imagens/Campin%C3%A1cios_20_anos.png)
+<figcaption>20 anos (2010) · comemorativo</figcaption>
 </figure>
 <figure markdown="span">
 [![Logótipo dos 30 anos: círculo vermelho com «30 anos» e «Campinácios» em letra cursiva branca, uma faixa com «1990 - 2020», três tendas verdes e o IHS](../assets/imagens/Campin%C3%A1cios_30_anos.jpg)](../assets/imagens/Campin%C3%A1cios_30_anos.jpg)
@@ -94,6 +99,26 @@ Ainda neste ano de 1989, no mês de Setembro, realizou-se o [Pedreira](../Acampa
 Na prática os acampamentos começavam a funcionar com intercâmbio de participantes, animadores e recursos materiais. Todavia, era necessário definir alguns aspectos no que se referia ao nome a dar ao movimento, à organização, à formação de animadores, ao material, ao número de acampamentos a realizar, aos estatutos e aos objectivos do novo movimento emergente. Por isso, em Fevereiro de 1990, na casa das Mimosas, na Serra da Estrela, reuniu-se um grupo de pessoas pertencentes aos três colégios para reflectir e deliberar sobre estes aspectos. O grupo era formado por: José Murteira, Leonor Regueiras, Alda Regueiras, Maria Odete, [José Filgueiras](../Pessoas/J/Jos%C3%A9%20Manuel%20Filgueiras.md), Tona, Joana Coelho e José A. Azevedo como representantes do CC; [José Manuel Lopes](../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md) SJ, [Maria Manuel Urbano](../Pessoas/M/Maria%20Manuel%20Urbano.md), [João Pessoa](../Pessoas/J/Jo%C3%A3o%20Pessoa.md), e António Manuel como representantes do [CAIC](CAIC.md); [Domingos Freitas](../Pessoas/D/Domingos%20Freitas.md) SJ, [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md), [Carlos Ruiz](../Pessoas/C/Carlos%20Ruiz.md), [Rodrigo Queiroz e Melo](../Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md), [Filipe Queiroz e Melo](../Pessoas/F/Filipe%20Queiroz%20e%20Melo.md), Horácio Tiago, Jorge Nunes, [Pedro Rebordão](../Pessoas/P/Pedro%20Rebord%C3%A3o.md), Cristina Rebordão, Miguel Morais, [Cristina Cabeça](../Pessoas/C/Cristina%20Cabe%C3%A7a.md), Filipa Vicente, [Concha Líbano Monteiro](../Pessoas/C/Concha%20L%C3%ADbano%20Monteiro.md) e Sandra Rodrigues e como representantes do [CSJB](CSJB.md).
 
 É durante esta reunião que é constituído oficialmente o movimento inter-colegial com a designação de CAMPINÁCIOS, que se aprovam os estatutos e se definem os escalões das idades para os participantes nos acampamentos.
+
+As conclusões desta reunião, o «1.º Encontro Inter-Colegial» do «Movimento de Campos de Férias Campinácios», ficaram escritas. Discutiu-se um esboço dos Estatutos, feito pelo padre [Jorge de Sena](../Pessoas/J/Jorge%20Manuel%20Sena.md), e escolheram-se o nome do Movimento, os nomes das classes etárias e o tema do ano. Ficou decidido, entre outras coisas:
+
+- retirar dos Estatutos, pelo menos por então, as figuras de Director Executivo Nacional e de Director Adjunto Nacional;
+- em cada colégio, o Director Pedagógico escolhia, com o Director Executivo, o Director Adjunto no colégio, e até ao fim de Março de 1990 deviam ficar constituídas as Direcções Colegiais, por iniciativa dos escolásticos SJ;
+- eram membros potenciais do Movimento todos os alunos dos colégios, e membros efectivos os animadores e os participantes de campos de anos anteriores que ainda fossem alunos;
+- cada colégio arranjava os seus próprios subsídios, para o material e para os seus elementos nas actividades conjuntas e nos campos; o pagamento de quotas foi rejeitado, e o [Domingos de Freitas](../Pessoas/D/Domingos%20Freitas.md) sj ficou de pedir ao Provincial a utilização gratuita de casas da Companhia (Baleal, Cernache, Esposende…) para as actividades do Movimento;
+- as classes etárias eram as Trotinetes (11 a 13 anos), as Bicicletes (14 e 15 anos) e as Lambretas (16 a 18 anos), e os Calhambeques eram os campos de trabalho, para maiores de 17 anos (ainda não havia [Triciclos](Escal%C3%B5es.md));
+- o tema para 1990 era «O sol só peca quando, em vez de criar, seca», de Fernando Pessoa (ver [Temas do Ano](Temas%20do%20Ano.md));
+- cada colégio devia lançar um concurso para o emblema do Movimento e para os desenhos dos nomes das classes, e levá-los ao encontro seguinte, no Baleal, a 27 e 28 de Abril de 1990.
+
+Na avaliação, o encontro foi visto como «um primeiro passo, mas um arranque efectivo», bastante produtivo para o pouco tempo, com o conhecimento entre gente que não se conhecia e o compromisso de todos com o Movimento («Comeu-se optimamente»). Contra, ficaram a falta de capelão e de oração, a pouca fidelidade à agenda, a tarde de sábado mal aproveitada, a discussão pouco preparada, o grupo grande e a casa «bastante incómoda». A sugestão foi preparar melhor os encontros seguintes, com uma reunião prévia em cada colégio.
+
+<div class="wk-galeria" markdown>
+
+[![Primeira página das conclusões do 1.º Encontro Inter-Colegial do «Movimento de Campos de Férias Campinácios», escrita à máquina com o título em letra gótica: os Estatutos, as Direcções Colegiais, os membros do Movimento, o financiamento, o nome do Movimento, as classes etárias, o tema para 1990 e o concurso para o emblema](../assets/imagens/1.%C2%BA%20Encontro%20Inter-Colegial%20%28conclus%C3%B5es%29.jpg)](../assets/imagens/1.%C2%BA%20Encontro%20Inter-Colegial%20%28conclus%C3%B5es%29.jpg)
+
+[![Segunda página: a avaliação do encontro, com os aspectos positivos, os aspectos negativos e as sugestões, e no fim «A.M.D.G.» em letra gótica](../assets/imagens/1.%C2%BA%20Encontro%20Inter-Colegial%20%28avalia%C3%A7%C3%A3o%29.jpg)](../assets/imagens/1.%C2%BA%20Encontro%20Inter-Colegial%20%28avalia%C3%A7%C3%A3o%29.jpg)
+
+</div>
 
 É curioso notar que muitas destas pessoas eram educadores dos colégios, jesuítas ou membros activos do movimento [CAMTIL](Camtil.md), que estava em plena actividade e crescimento há seis anos.
 

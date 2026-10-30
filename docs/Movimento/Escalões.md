@@ -11,7 +11,7 @@ Os escalões são os grupos de idades (e de anos de escolaridade) em que se divi
 | [Formação de Animadores](../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) | quem é convidado e quer entrar no caminho para ser animador |
 | [Calhambeques](../Categorias/Calhambeques.md) | acampamentos de serviço, normalmente já para animadores formados |
 
-Os acampamentos do início (1989) ainda não tinham escalão: o movimento não tinha sequer o nome de Campinácios nem se tinham definido os nomes dos escalões, e por isso o [Pedreira](../Acampamentos/1989/Pedreira.md), apesar de ter participantes da idade dos Triciclos, não é um acampamento de Triciclos. Os escalões ficaram definidos na reunião de Fevereiro de 1990, na casa das Mimosas, em que se constituiu oficialmente o movimento.
+Os acampamentos do início (1989) ainda não tinham escalão: o movimento não tinha sequer o nome de Campinácios nem se tinham definido os nomes dos escalões, e por isso o [Pedreira](../Acampamentos/1989/Pedreira.md), apesar de ter participantes da idade dos Triciclos, não é um acampamento de Triciclos. Os escalões ficaram definidos na reunião de Fevereiro de 1990, na casa das Mimosas, em que se constituiu oficialmente o movimento. Segundo as [conclusões dessa reunião](Campin%C3%A1cios.md#a-consolidação-dos-campinácios), as classes etárias eram então as Trotinetes (11 a 13 anos), as Bicicletes (14 e 15 anos) e as Lambretas (16 a 18 anos), mais os Calhambeques, campos de trabalho para maiores de 17 anos; o primeiro acampamento de Triciclos foi o [Tribal](../Acampamentos/1992/Tribal.md), em 1992.
 
 ## De 2004 a 2008 {#de-2004-a-2008}
 
@@ -34,6 +34,10 @@ Os nomes saíram de uma noite de conversa, depois do jantar, à volta da aguarde
 ## Calhambeques
 
 O escalão dos Calhambeques é para animadores já formados, normalmente em acampamentos de serviço. Realizou-se esporadicamente até 1998 e esteve depois sem se realizar; em 2011 foi retomado, com um acampamento de serviço só com animadores, o [Esperança](../Acampamentos/2011/Esperan%C3%A7a.md). No Encontro Nacional de 2025 chamaram-se «os Calhambeques» aos animadores actuais e antigos.
+
+### O regresso em 2011 {#regresso-2011}
+
+O regresso foi preparado numa proposta, «Regresso dos Calhambeques», escrita por uma equipa de planeamento de animadores e antigos animadores: [Ana Sampaio](../Pessoas/A/Ana%20Paula%20Sampaio.md), [António Sant'Ana](../Pessoas/A/Ant%C3%B3nio%20Sant%27Ana.md) sj, [Filipe Próspero](../Pessoas/F/Filipe%20Pr%C3%B3spero.md), [Gonçalo Vaz Pedro](../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md), [Maria Ferreira](../Pessoas/M/Maria%20Cort%C3%AAs%20Ferreira.md), [Pedro](../Pessoas/P/Pedro%20Pinheiro.md) e [Teresa Pinheiro](../Pessoas/T/Teresa%20Santos.md), [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) e [Renato Costa](../Pessoas/R/Renato%20Costa.md). A ideia era, como dizia o Filipe Próspero, «animar os animadores»: um acampamento de serviço e oração, de sábado a sábado, aberto a todos os animadores, também aos que já não estavam no activo, para reconstruir uma casa, pintar ou cavar onde fosse preciso, de preferência numa aldeia do interior, voltando ao mesmo sítio pelo menos três anos para criar laços com a comunidade. Teria uma equipa de direcção (director, mamã, adjunto e capelão) e entre 40 e 50 animadores, e custaria cerca de 50 € por pessoa, de preferência pagos com uma angariação de fundos, porque «não é um bom princípio pagar para servir». O dia típico tinha oração de manhã, serviço, missa ao fim do dia, jantar e serão. Foi assim que nasceu o [Esperança](../Acampamentos/2011/Esperan%C3%A7a.md), dirigido pelo Pedro Vicente, com o Filipe Próspero como adjunto.
 
 ## Rodinhas
 
