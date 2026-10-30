@@ -10,7 +10,7 @@ Bora Bora foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que s
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md) sj
 - [Tias](../../Cargos/Tio.md) - [Juliana Fernandes](../../Pessoas/J/Juliana%20Fernandes.md) e [Mafalda Coelho](../../Pessoas/M/Mafalda%20Coelho.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Madalena Mariz](../../Pessoas/M/Madalena%20Mariz.md), [Mafalda Trigo da Roza](../../Pessoas/M/Mafalda%20Trigo%20da%20Roza.md) e [Cami](../../Pessoas/C/Carlos%20Miguel%20Albuquerque.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Diana Conceição](../../Pessoas/D/Diana%20Concei%C3%A7%C3%A3o.md), [Marta Croca](../../Pessoas/M/Marta%20Croca.md), [Cecília Miranda](../../Pessoas/C/Cec%C3%ADlia%20Miranda.md), [Rita Mendes](../../Pessoas/R/Rita%20Mendes.md), [Bruno Azevedo](../../Pessoas/B/Bruno%20Azevedo.md) e [Manuel Silva](../../Pessoas/M/Manuel%20Silva.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Diana Conceição](../../Pessoas/D/Diana%20Concei%C3%A7%C3%A3o.md), [Marta Croca](../../Pessoas/M/Marta%20Croca.md), [Cecília Miranda](../../Pessoas/C/Cec%C3%ADlia%20Miranda.md), [Rita Mendes](../../Pessoas/R/Rita%20Mendes.md), [Bruno Azevedo](../../Pessoas/B/Bruno%20Azevedo.md), [Manuel Silva](../../Pessoas/M/Manuel%20Silva.md) e Inês Ferreira
 
 ---
 
