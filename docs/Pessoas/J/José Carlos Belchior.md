@@ -4,6 +4,8 @@ Jesuíta, natural de Ribeira de Maria Afonso – Dois Portos – Torres Vedras. 
 
 ### Cargos
 
+- 1966/1968 - Subdirector do [CSJB](../../Movimento/CSJB.md#historia)
+- 1968/1986 - Director do [CSJB](../../Movimento/CSJB.md#historia)
 - 1991 Coordenador do [CIFA II](../../Acampamentos/1991/CIFA%20II.md)
 
 ---

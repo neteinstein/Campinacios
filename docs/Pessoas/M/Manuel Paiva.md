@@ -2,6 +2,7 @@
 
 ### Cargos
 
+- 1980/1983 - Reitor do [CSJB](../../Movimento/CSJB.md#historia)
 - 1991/1992 - Coordenador da [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md)
 - 1991/1992 - Membro da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 
