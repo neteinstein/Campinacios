@@ -1,7 +1,5 @@
 # Diogo Torcato
 
-*Segundo a lista de animadores do CSJB de 2010: geração de 2004; campo de formação: Casca de Banana 2005; estudos ou profissão: Engenharia Civil; por ano: 2006 Ani. Livre, 2007 D-Adjunto.*
-
 ### Acampamentos
 
 - **Participante**

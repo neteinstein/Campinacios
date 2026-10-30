@@ -1,6 +1,6 @@
 # Susana Carvalho
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 4 de Agosto de 1982.*
+Nasceu a 4 de Agosto de 1982.
 
 Susana Carvalho foi uma dos animadoras do Colégio da Imaculada Conceição.
 

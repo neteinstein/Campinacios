@@ -1,6 +1,6 @@
 # Carla Gapo
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 27 de Maio de 1975.*
+Nasceu a 27 de Maio de 1975.
 
 Carla Gapo foi uma das animadoras do Colégio da Imaculada Conceição.
 

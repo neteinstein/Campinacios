@@ -1,6 +1,6 @@
 # Analisa Lucas
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 20 de Novembro de 1987; entrou em 2005; estudos ou profissão: Com. Social - Coimbra; por ano: 2000 Trotinetas, 2001 Trotinetas, 2002 Bicicletas, 2003 Bicicletas, 2004 Lambretas, 2006 Ani. Equipa, 2007 Formação, 2008 Ani. Equipa.*
+Nasceu a 20 de Novembro de 1987.
 
 Analisa Lucas mais conhecida por Isa, é desde 2005 uma das animadoras do Colégio da Imaculada Conceição.
 

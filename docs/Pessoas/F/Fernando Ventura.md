@@ -1,6 +1,6 @@
 # Fernando Ventura
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 24 de Maio de 1988; entrou em 2007; estudos ou profissão: Psicologia - Coimbra; por ano: 2006 Lambretas, 2008 Formação.*
+Nasceu a 24 de Maio de 1988. Entrou para os animadores do CAIC em 2007.
 
 Fernando Ventura, é um dos animadores do Colégio da Imaculada Conceição.
 

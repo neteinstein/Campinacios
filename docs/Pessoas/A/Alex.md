@@ -1,5 +1,7 @@
 # Alex
 
+Alex (Alexandre Ferreira) aparece na lista de animadores do Colégio S. João de Brito de 2010.
+
 ### Acampamentos
 
 - **Animador:**
@@ -8,6 +10,9 @@
 
 ---
 
+**Outros nomes:** Alexandre Ferreira
+
 | Categorias |
 | --- |
 | [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |

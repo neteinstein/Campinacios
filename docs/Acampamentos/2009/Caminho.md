@@ -138,8 +138,10 @@ O [relatório de campo](../../Restrito/Relat%C3%B3rios%20de%20Campo/Caminho%2020
 - [Paulo Mesquita](../../Pessoas/P/Paulo%20Mesquita.md)
 - [Pedro Pinto](../../Pessoas/P/Pedro%20Pinto.md)
 - [Rita Quintela](../../Pessoas/R/Rita%20Quintela.md)
+- [Sandra Branco](../../Pessoas/S/Sandra%20Branco.md)
 - [Sara Fernandes](../../Pessoas/S/Sara%20Fernandes.md)
 - [Sílvia Lobo](../../Pessoas/S/S%C3%ADlvia%20Lobo.md)
+- [Tiago Pimenta](../../Pessoas/T/Tiago%20Pimenta.md)
 
 ---
 

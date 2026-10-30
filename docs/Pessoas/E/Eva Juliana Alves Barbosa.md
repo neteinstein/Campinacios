@@ -1,5 +1,7 @@
 # Eva Juliana Alves Barbosa
 
+Eva Juliana Alves Barbosa fez a formação de animadores em 2005, pelo Colégio das Caldinhas.
+
 ### Acampamentos
 
 - **Formação:**

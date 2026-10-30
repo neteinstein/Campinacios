@@ -1,6 +1,6 @@
 # Tiago Madeira
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 3 de Dezembro de 1987; entrou em 2005; estudos ou profissão: Enfermagem - Évora; por ano: 2004 Lambretas, 2005 Lambretas, 2007 Ani. Livre, 2008 Ani. Equipa, 2009 Ani. Livre.*
+Nasceu a 3 de Dezembro de 1987. Entrou para os animadores do CAIC em 2005.
 
 Tiago Madeira é um dos animadores do Colégio da Imaculada Conceição.
 

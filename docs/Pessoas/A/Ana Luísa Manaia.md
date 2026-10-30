@@ -1,8 +1,6 @@
 # Ana Luísa Manaia
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 18 de Maio de 1978; participou em 4 campos de animação.*
-
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 18 de Maio de 1978.*
+Ana Luísa Manaia aparece na lista de animadores do Colégio da Imaculada Conceição de 2008/2009. Nasceu a 18 de Maio de 1978. Segundo essa lista, animou 4 campos.
 
 ---
 

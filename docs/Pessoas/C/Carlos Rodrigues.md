@@ -1,6 +1,6 @@
 # Carlos Rodrigues
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 20 de Setembro de 1985; entrou em 2003; estudos ou profissão: Biologo - Lisboa; por ano: 1996 Triciclos (M), 1997 Triciclos (M), 2000 Bicicletas, 2003 Formação, 2004 Ani. Equipa, 2005 Tio, 2006 Tio, 2007 D-Adjunto.*
+Nasceu a 20 de Setembro de 1985.
 
 Carlos Rodrigues, foi de 2003 a 2008 um dos animadores do Colégio da Imaculada Conceição.
 

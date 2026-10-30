@@ -1,6 +1,6 @@
 # Pedro Vicente
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 26 de Maio de 1985; entrou em 2003; estudos ou profissão: Eng. Informática - Coimbra; por ano: 2003 Formação, 2004 Ani. Equipa, 2005 Ani. Livre, 2006 D-Adjunto, 2007 Director, 2008 Director, 2009 Director.*
+Nasceu a 26 de Maio de 1985. Entrou para os animadores do CAIC em 2003.
 
 Pedro Vicente nasceu a 26 de Maio de 1985.
 

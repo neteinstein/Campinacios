@@ -1,6 +1,6 @@
 # Mariana Franco
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 1 de Junho de 1987; entrou em 2005; estudos ou profissão: Economia - Coimbra; por ano: 1998 Triciclos, 1999 Triciclos, 2007 Ani. Equipa, 2008 Ani. Equipa, 2009 Tia.*
+Nasceu a 1 de Junho de 1987.
 
 Mariana Franco é desde 2005, uma das animadoras do Colégio da Imaculada Conceição.
 

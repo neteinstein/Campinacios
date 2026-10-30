@@ -1,6 +1,6 @@
 # Vasco Vasconcelos
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 15 de Março de 1985; entrou em 2003; estudos ou profissão: Prof. Desporto - Coimbra; por ano: 2003 Formação, 2004 Ani. Livre, 2005 Ani. Livre, 2006 Ani. Livre, 2007 Ani. Livre, 2008 Ani. Livre, 2009 Ani. Livre.*
+Nasceu a 15 de Março de 1985. Entrou para os animadores do CAIC em 2003.
 
 Vasco Vasconcelos, é um dos animadores do Colégio da Imaculada Conceição.
 

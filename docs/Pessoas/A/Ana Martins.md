@@ -2,8 +2,6 @@
 
 *Nota: Este artigo é sobre Ana Martins, animadora do CSJB desde 2005. Se procura Ana Isabel Martins, animadora desde 2026, consulte [Ana Isabel Martins](Ana%20Isabel%20Martins.md). Se procura Ana de Martins Aguiar, animadora do Rockstock em 2019 e 2022, consulte [Ana de Martins Aguiar](Ana%20de%20Martins%20Aguiar.md).*
 
-*Segundo a lista de animadores do CSJB de 2010: geração de 2004; campo de formação: Casca de Banana 2005; estudos ou profissão: Engenharia Electrotecnica; por ano: 2006 Ani. Equipa.*
-
 Ana Martins, é desde 2005 uma das animadoras do Colégio São João de Brito.
 
 ## História dentro do movimento
@@ -18,7 +16,7 @@ Ana Martins, é desde 2005 uma das animadoras do Colégio São João de Brito.
     - 2004 [Mikelin Descobre a Vida](../../Acampamentos/2004/Mikelin%20Descobre%20a%20Vida.md)
     - 2011 [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md)
 - **Formação**
-    - Nenhum
+    - 2005 [Casca de Banana](../../Acampamentos/2005/Casca%20de%20Banana.md)
 - **Animadora**
     - 2006 [Nómada](../../Acampamentos/2006/N%C3%B3mada.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2008 [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
@@ -26,7 +24,6 @@ Ana Martins, é desde 2005 uma das animadoras do Colégio São João de Brito.
     - 2009 [Caminho](../../Acampamentos/2009/Caminho.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
     - 2010 EdMais - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2010 [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
-
 
 ### Testemunho
 

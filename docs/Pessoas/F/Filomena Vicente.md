@@ -1,6 +1,6 @@
 # Filomena Vicente
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 15 de Dezembro de 1979.*
+Nasceu a 15 de Dezembro de 1979.
 
 Filomena Vicente foi uma dos animadoras do Colégio da Imaculada Conceição.
 

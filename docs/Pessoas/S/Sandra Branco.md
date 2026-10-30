@@ -1,6 +1,6 @@
 # Sandra Branco
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 30 de Setembro de 1990; entrou em 2008; estudos ou profissão: Ciências da Ed. - Coimbra; por ano: 2008 Lambretas, 2009 Formação.*
+Nasceu a 30 de Setembro de 1990.
 
 Sandra Branco é desde 2008, uma das animadoras do Colégio da Imaculada Conceição.
 
@@ -11,7 +11,7 @@ Sandra Branco é desde 2008, uma das animadoras do Colégio da Imaculada Concei�
 - **Participante**
     - 2008 [TufarfarAway](../../Acampamentos/2008/TufarfarAway.md)
 - **Formação:**
-    - Nenhum
+    - 2009 [Caminho](../../Acampamentos/2009/Caminho.md)
 - **Animador:**
     - Nenhum
 

@@ -1,13 +1,13 @@
 # Pedro Snow
 
-*Segundo a lista de animadores do CSJB de 2010: geração de 2006; campo de formação: Graal III; estudos ou profissão: Arquitectura; por ano: 1999 Triciclos, 2000 Triciclos, 2004 Bicicletas, 2005 Lambretas.*
-
 ### Cargos
 
 - 2007-2009 Membro da [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
 
 ### Acampamentos
 
+- **Formação:**
+    - 2007 [Graal III](../../Acampamentos/2007/Graal%20III.md)
 - **Animador**
     - 2007 [Baúmerang](../../Acampamentos/2007/Ba%C3%BAmerang.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2008 [TSI](../../Acampamentos/2008/TSI.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)

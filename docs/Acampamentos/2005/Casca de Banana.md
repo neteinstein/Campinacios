@@ -13,12 +13,15 @@ Campo de Formação que decorreu na casa de Singeverga na Páscoa de 2005, de 28
 
 ## Participantes que se tornaram animadores
 
+- [Ana Martins](../../Pessoas/A/Ana%20Martins.md)
 - [Ana Pinheiro](../../Pessoas/A/Ana%20Pinheiro.md)
 - [Ana Pinto](../../Pessoas/A/Ana%20Pinto.md)
+- [Ana Quaresma](../../Pessoas/A/Ana%20Quaresma.md)
 - [Ana Simões](../../Pessoas/A/Ana%20Sim%C3%B5es.md)
 - [António Amaral](../../Pessoas/A/Ant%C3%B3nio%20Amaral.md)
 - [Bernardo Narciso](../../Pessoas/B/Bernardo%20Narciso.md)
 - [Bruno Azevedo](../../Pessoas/B/Bruno%20Azevedo.md)
+- [Camila Martins](../../Pessoas/C/Camila%20Martins.md)
 - [Diana Pereira](../../Pessoas/D/Diana%20Pereira.md)
 - [Diogo Torcato](../../Pessoas/D/Diogo%20Torcato.md)
 - [Duarte Dias](../../Pessoas/D/Duarte%20Dias.md)

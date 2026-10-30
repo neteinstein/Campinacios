@@ -5,7 +5,7 @@ Animadores do Colégio do Colégio São João de Brito
 ## Páginas nesta categoria (213)
 
 - [Adriana Gil](../Pessoas/A/Adriana%20Gil.md)
-- [Alexandre Ferreira](../Pessoas/A/Alexandre%20Ferreira.md)
+- [Alex](../Pessoas/A/Alex.md)
 - [Ana Martins](../Pessoas/A/Ana%20Martins.md)
 - [Ana Pais](../Pessoas/A/Ana%20Pais.md)
 - [Ana Quaresma](../Pessoas/A/Ana%20Quaresma.md)

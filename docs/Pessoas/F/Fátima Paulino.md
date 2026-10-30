@@ -1,6 +1,6 @@
 # Fátima Paulino
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 13 de Abril de 1976.*
+Nasceu a 13 de Abril de 1976.
 
 Fátima Paulino foi uma dos animadoras do Colégio da Imaculada Conceição.
 

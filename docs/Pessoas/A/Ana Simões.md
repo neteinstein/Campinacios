@@ -1,6 +1,6 @@
 # Ana Simões
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 5 de Novembro de 1986; entrou em 2004; estudos ou profissão: Edu. Infância - Coimbra; por ano: 1999 Trotinetas, 2000 Trotinetas, 2001 Bicicletas, 2002 Bicicletas, 2003 Lambretas, 2004 Lambretas, 2005 F / Ani. Equipa, 2007 Tia, 2008 Mamã, 2009 Mamã.*
+Nasceu a 5 de Novembro de 1986.
 
 Ana Simões é, desde 2004, um dos animadores do Colégio da Imaculada Conceição.
 

@@ -1,6 +1,6 @@
 # Isabel Neves
 
-*Segundo a lista de animadores do CSJB de 2010: nasceu a 24 de Fevereiro de 1990.*
+Nasceu a 24 de Fevereiro de 1990.
 
 Isabel Neves, mais conhecida por Pica
 

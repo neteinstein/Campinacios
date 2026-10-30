@@ -20,7 +20,9 @@ O Êxodo foi o acampamento de [Formação de Animadores](../../Categorias/Forma%
 - [Fernando Ventura](../../Pessoas/F/Fernando%20Ventura.md)
 - [Filipa Caldas](../../Pessoas/F/Filipa%20Caldas.md)
 - [Gonçalo Fonseca Carvalho](../../Pessoas/G/Gon%C3%A7alo%20Fonseca%20Carvalho.md)
+- [Inês Fonseca](../../Pessoas/I/In%C3%AAs%20Fonseca.md)
 - [Joana Almeida](../../Pessoas/J/Joana%20Almeida.md)
+- [Joana Lacerda](../../Pessoas/J/Joana%20Lacerda.md)
 - [João Cortês Ferreira](../../Pessoas/J/Jo%C3%A3o%20Cort%C3%AAs%20Ferreira.md)
 - [João Nuno Fonseca](../../Pessoas/J/Jo%C3%A3o%20Nuno%20Fonseca.md)
 - [João Pedro Gomes](../../Pessoas/J/Jo%C3%A3o%20Pedro%20Gomes.md)
@@ -32,6 +34,7 @@ O Êxodo foi o acampamento de [Formação de Animadores](../../Categorias/Forma%
 - [Mário Magalhães](../../Pessoas/M/M%C3%A1rio%20Magalh%C3%A3es.md)
 - [Marta Reis](../../Pessoas/M/Marta%20Reis.md)
 - [Miguel Monteiro](../../Pessoas/M/Miguel%20Monteiro.md)
+- [Miguel Monteiro Martins](../../Pessoas/M/Miguel%20Monteiro%20Martins.md)
 - [Pedro Jorge Ramos](../../Pessoas/P/Pedro%20Jorge%20Ramos.md)
 
 ---

@@ -1,7 +1,5 @@
 # Filipe Barroso
 
-*Segundo a lista de animadores do CSJB de 2010: geração de 2005; estudos ou profissão: Engenharia Informática; por ano: 2003 Bicicletas, 2005 Lambretas, 2006 Ani. Livre.*
-
 Filipe Emanuel dos Santos Albuquerque Barroso, um dos animadores do Colégio São João de Brito.
 
 ## História dentro do movimento

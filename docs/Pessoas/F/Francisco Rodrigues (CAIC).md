@@ -1,6 +1,6 @@
 # Francisco Rodrigues (CAIC)
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 25 de Março de 1969.*
+Nasceu a 25 de Março de 1969.
 
 Francisco Rodrigues foi um dos animadores do Colégio da Imaculada Conceição.
 

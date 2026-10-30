@@ -1,6 +1,6 @@
 # Ana Carolina Santos
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 2 de Novembro de 1990; entrou em 2008; estudos ou profissão: Ciência do Dep. - Covilhã; por ano: 2008 Lambretas, 2009 Form/Equipa.*
+Nasceu a 2 de Novembro de 1990.
 
 Ana Carolina Santos é desde 2008 um das animadoras do Colégio da Imaculada Conceição.
 
