@@ -14,6 +14,8 @@ Este livro oferece-nos de forma sistematizada e generosa a compilação e a refl
 
 ## José da Silva ALMEIDA SJ, Para Educar Melhor - Campos de Férias Inacianos, AO, Braga, 2004.
 
+O livro foi lançado em Agosto de 2004 e vendia-se nas secretarias dos três colégios.
+
 *Locais de vendas:*
 
 - *Papelarias dos colégios (CAIC; CSJB e CC) ou livrarias católicas.*

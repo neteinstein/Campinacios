@@ -32,6 +32,18 @@ Outra cópia, guardada pelo Arquivo.pt a 24 de Setembro de 2009 no endereço cam
 
 Tinha secções de Notícias, Documentos, História, Actividades, Testemunhos, Livro de Visitas (*Guestbook*), Agenda, Fotos, Músicas, Links, FAQ e Contactos, uma *newsletter* por email e um canal de IRC, #Campinacios. Entre as últimas notícias estavam a divulgação dos directores de 2007 e de 2008 e das equipas e fotos dos acampamentos do Verão de 2007, e ainda o CD do Encontro Nacional 2004, que se podia descarregar. Em 2009 anunciava-se «uma nova página mais dinâmica e activa para breve»: foi a [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md).
 
+## O blogue {#blogue}
+
+As novidades da página original saíam também num blogue, [campinacios.blogspot.com](https://campinacios.blogspot.com/), escrito pelo [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) de Agosto de 2004 a Março de 2008 (a última publicação, de 2014, traz só o logótipo). Por ele se segue a história da página:
+
+- **Agosto de 2004** — anuncia-se que a página oficial está *online*, ainda em testes, em campinacios.no.sapo.pt. Em Outubro já era a primeira a aparecer no Google quando se procurava «Campinácios», e ganhou os atalhos campinacios.pt.vu e campinacios.web.pt.
+- **Dezembro de 2004** — abre uma *mailing list* geral, para animadores, participantes, antigos animadores e antigos participantes, independente da *mailing list* nacional de animadores.
+- **Maio de 2005** — a secção de fotos, protegida por palavra-passe, ganha mais espaço, e abre um fórum, ainda experimental.
+- **Janeiro de 2006** — os Campinácios passam a ter o domínio Campinacios.org, com as fotos, o fórum, um endereço de email para cada Direcção Local e *mailing lists* de animadores, uma nacional e uma por colégio.
+- **Setembro de 2007** — as fotos dos acampamentos de Verão ficam no Fotopic e a página revela, como era costume, as equipas que animaram os acampamentos desse Verão.
+
+O blogue anunciava também os directores de cada ano, os Encontros Nacionais ([2005](../Encontros/Encontro%20Nacional%202005.md), [2006](../Encontros/Encontro%20Nacional%202006.md) e [2007](../Encontros/Encontro%20Nacional%202007.md)), os Encontros Nacionais de Animadores ([2004](../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md) e [2005](../Encontros/Encontro%20Nacional%20de%20Animadores%202005.md)), o [plano de formação de animadores de 2005](Animador.md#plano-de-formacao), o [CD do Encontro Nacional 2004](../Encontros/Encontro%20Nacional%202004.md) e o livro [«Para Educar Melhor»](Para%20Educar%20Melhor%20-%20Campos%20de%20f%C3%A9rias%20inacianos.md).
+
 ## A página da Revolução Campinácios v2.0 {#pagina-v2}
 
 Em 2009 a página original deu lugar à página da [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md), em Campinacios.org, que trouxe também o Wikinácios. Fica aqui, como registo histórico, uma reconstrução da sua página principal tal como estava a 30 de Maio de 2012; as imagens que não ficaram guardadas aparecem como espaços vazios.
