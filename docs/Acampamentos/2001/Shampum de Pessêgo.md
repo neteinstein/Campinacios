@@ -9,9 +9,9 @@
 - [Tias](../../Cargos/Tio.md) - [Ana Geão](../../Pessoas/A/Ana%20Ge%C3%A3o.md) e [Ana Curto](../../Pessoas/A/Ana%20Curto.md)
 - [Animadores](../../Categorias/Animadores.md) - João Graça , Zinho , Linda Araújo , [Isabel Fernandes Melo](../../Pessoas/I/Isabel%20Fernandes%20Melo.md) , João Reis (Joninhas) , [Cristina Costa](../../Pessoas/C/Cristina%20Costa.md) , [António Andrade](../../Pessoas/A/Ant%C3%B3nio%20Andrade.md)
 
-## Testemunho de um participante
+## Testemunho de um participante {#testemunho}
 
-*Publicado, sem o nome de quem o escreveu, a partir da página original dos Campinácios.*
+*Publicado sem nome na página original dos Campinácios.*
 
 > Os Campinácios!
 >
