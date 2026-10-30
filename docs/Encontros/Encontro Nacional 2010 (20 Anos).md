@@ -5,7 +5,7 @@ Foi realizado no Colégio da Imaculada Conceição (CAIC) nos dias 10, 11 e 12 d
 
 Foi o maior encontro até à data: participaram mais de 700 participantes e 100 animadores, ao longo de três dias. Foi preparado pela C.O.E.C.A. (Comissão de Organização do Encontro de CAmpinácios): [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md), [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md), [Filipe Próspero](../Pessoas/F/Filipe%20Pr%C3%B3spero.md), [Tiago Carneiro](../Pessoas/T/Tiago%20Carneiro.md) e [Joana Gomes](../Pessoas/J/Joana%20Gomes.md).
 
-Durante o encontro foi feito o logótipo humano dos Campinácios, com todos os participantes a formá-lo.
+Durante o encontro foi feito o logótipo humano dos Campinácios, com todos os participantes a formá-lo. Depois do encontro vendeu-se um CD com as 3000 melhores fotografias e os vídeos dos 20 anos.
 
 No YouTube há vídeos do serão e de outros momentos do encontro:
 
