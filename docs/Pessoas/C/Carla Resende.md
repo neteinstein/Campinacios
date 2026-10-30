@@ -1,6 +1,6 @@
 # Carla Resende
 
-*Segundo a lista de animadores do CAIC de 2008/2009, participou em 9 campos como animadora.*
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 13 de Junho de 1974; participou em 9 campos de animação.*
 
 Carla Resende foi uma das animadoras do Colégio da Imaculada Conceição.
 

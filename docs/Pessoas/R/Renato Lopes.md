@@ -1,5 +1,7 @@
 # Renato Lopes
 
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 15 de Novembro de 1982; por ano: 1995 Triciclos 2x/Trotinetas, 1996 Bicicletas, 1997 Bicicletas, 1998 Lambretas, 1999 Ani. Livre, 2000 Ani. Livre, 2001 Ani. Equipa.*
+
 Renato Lopes foi de 1998 a 2004 um dos animadores do Colégio da Imaculada Conceição.
 
 ## História dentro do movimento

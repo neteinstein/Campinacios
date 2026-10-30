@@ -14,6 +14,8 @@
 - **Participante**
     - 2001 [Waaassuuup](../../Acampamentos/2001/Waaassuuup.md)
     - 2003 [Rastilho](../../Acampamentos/2003/Rastilho.md)
+- **Formação:**
+    - 2005 [Casca de Banana](../../Acampamentos/2005/Casca%20de%20Banana.md)
 - **Animador**
     - 2005 [Terra do Nunca](../../Acampamentos/2005/Terra%20do%20Nunca.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2006 [Em Busca da CaraBela](../../Acampamentos/2006/Em%20Busca%20da%20CaraBela.md) - [Director Adjunto](../../Cargos/Director-Adjunto.md)

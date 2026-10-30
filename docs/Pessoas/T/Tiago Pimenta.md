@@ -1,5 +1,7 @@
 # Tiago Pimenta
 
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 30 de Dezembro de 1990; entrou em 2008; estudos ou profissão: Medicina - Coimbra; por ano: 2003 Trotinetas, 2004 Trotinetas, 2005 Bicicletas, 2006 Bicicletas, 2007 Lambretas, 2008 Lambretas, 2009 Formação.*
+
 Tiago Pimenta é um dos animadores do Colégio da Imaculada Conceição.
 
 ## História dentro do movimento

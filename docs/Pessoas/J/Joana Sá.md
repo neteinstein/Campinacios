@@ -1,5 +1,7 @@
 # Joana Sá
 
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 22 de Janeiro de 1983; por ano: 1994 Triciclos, 1995 Trotinetas, 1996 Trotinetas, 1997 Trotinetas, 1998 Bicicletas, 1999 Bicicletas, 2001 Ani. Equipa, 2002 Ani. Equipa, 2003 Ani. Equipa (2), 2004 Ani. Equipa.*
+
 Joana Sá foi de 2000 a 2005 uma das animadoras do Colégio da Imaculada Conceição.
 
 ## História dentro do movimento

@@ -1,5 +1,7 @@
 # Jorge Ramos
 
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 19 de Junho de 1990; entrou em 2008; estudos ou profissão: Biomédica - Coimbra; por ano: 2003 Trotinetas, 2004 Trotinetas, 2006 Bicicletas, 2009 Form. / Livre.*
+
 Jorge Ramos é desde 2008 um dos animadores do Colégio da Imaculada Conceição.
 
 ## História dentro do movimento

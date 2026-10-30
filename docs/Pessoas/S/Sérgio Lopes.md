@@ -1,5 +1,7 @@
 # Sérgio Lopes
 
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 23 de Dezembro de 1985; entrou em 2003; estudos ou profissão: Enfermeiro - Lisboa; por ano: 2003 Lambretas, 2005 Formação, 2007 D-Adjunto, 2008 Director.*
+
 Sérgio Lopes é um dos animadores do Colégio da Imaculada Conceição.
 
 ## História dentro do movimento

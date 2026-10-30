@@ -1,5 +1,7 @@
 # Rita Simões
 
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 27 de Julho de 1984; entrou em 2002; estudos ou profissão: Medicina - Coimbra; por ano: 1999 Bicicletas, 2000 Bicicletas, 2001 Lambretas, 2002 Formação, 2003 Ani. Livre, 2004 Ani. Equipa, 2005 Tia, 2009 D-Adjunta.*
+
 Rita Simões é desde 2002, uma das animadoras do Colégio da Imaculada Conceição.
 
 ## História dentro do movimento

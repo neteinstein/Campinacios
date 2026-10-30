@@ -1,5 +1,7 @@
 # Ana Quaresma
 
+*Segundo a lista de animadores do CSJB de 2010: geração de 2004; campo de formação: Casca de Banana 2005; estudos ou profissão: Medicina Dentária; por ano: 2006 Ani. Equipa.*
+
 ### Acampamentos
 
 - **Participante**

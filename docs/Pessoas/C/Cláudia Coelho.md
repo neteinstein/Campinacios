@@ -1,5 +1,7 @@
 # Cláudia Coelho
 
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 14 de Junho de 1984; entrou em 2002; por ano: 2001 Lambretas, 2002 Formação, 2004 Tia.*
+
 Cláudia Coelho foi de 2002 a 2005 um das animadoras do Colégio da Imaculada Conceição.
 
 ## História dentro do movimento

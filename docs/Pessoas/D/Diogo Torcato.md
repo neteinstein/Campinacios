@@ -1,10 +1,14 @@
 # Diogo Torcato
 
+*Segundo a lista de animadores do CSJB de 2010: geração de 2004; campo de formação: Casca de Banana 2005; estudos ou profissão: Engenharia Civil; por ano: 2006 Ani. Livre, 2007 D-Adjunto.*
+
 ### Acampamentos
 
 - **Participante**
     - 2003 [Rastilho](../../Acampamentos/2003/Rastilho.md)
     - 2004 [Mikelin Descobre a Vida](../../Acampamentos/2004/Mikelin%20Descobre%20a%20Vida.md)
+- **Formação:**
+    - 2005 [Casca de Banana](../../Acampamentos/2005/Casca%20de%20Banana.md)
 - **Animador**
     - 2005 [Terra do Nunca](../../Acampamentos/2005/Terra%20do%20Nunca.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2006 [Em Busca da CaraBela](../../Acampamentos/2006/Em%20Busca%20da%20CaraBela.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)

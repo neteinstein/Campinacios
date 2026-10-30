@@ -1,5 +1,7 @@
 # Cecília Mendonça
 
+*Segundo a lista de animadores do CSJB de 2010: geração de 2003; campo de formação: Graal II; estudos ou profissão: Engenharia Civil; por ano: 2006 Ani. Lambretas.*
+
 ### Acampamentos
 
 - **Participante**
