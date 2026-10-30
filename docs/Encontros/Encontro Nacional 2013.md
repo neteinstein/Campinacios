@@ -1,12 +1,18 @@
 # Encontro Nacional 2013
 
-O Encontro Nacional 2013 realizou-se a 6 e 7 de Abril de 2013. O tema do ano era *Ámen*.
+O Encontro Nacional 2013 realizou-se no [CAIC](../Movimento/CAIC.md), a 6 e 7 de Abril de 2013. O tema do ano era *Ámen*.
 
-No serão, os animadores apresentaram a primeira parte do «CINPa – Curso Intensivo para Novos Participantes», um sketch com as regras do que se deve e não deve fazer num campo de férias: a carta do director, a mala, a despedida dos pais, a roda, a latrina, os aplausos, a tenda, a capela, os banhos e o «Boa noite».
+Segundo o plano da reunião de preparação, no sábado a recepção era às 11h, no Torreão e na Mata, com almoço partilhado à porta do refeitório às 13h, a actividade da tarde às 15h30, no pátio do lago pequeno, no pavilhão e no campo de jogos, lanche às 17h, oração às 19h, jantar às 20h (por turnos, por serem cerca de 400 pessoas) e serão às 22h. No domingo havia missa às 11h, almoço, a fotografia de grupo nas bancadas e a partida às 15h30.
+
+## Serão
+
+O serão «Portugal Tem... Circo!», no salão de teatro do CAIC às 22h de sábado, foi coordenado pelo [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md). Imitava o *Britain's Got Talent* misturado com circo, para «mostrar que podemos fazer palhaçada mas com nível»: dois apresentadores, um júri e três rondas em que grupos de animadores apresentavam números de *stomp*, de animais, do «Super Boi», de dança, de acrobacias humanas e de palhaços, até à actuação final do grupo vencedor. O guião terminava com a frase «Em homenagem a [Tiago Gonçalves](../Pessoas/T/Tiago%20Gon%C3%A7alves.md)», a branco sobre fundo preto.
+
+No serão, os animadores apresentaram também a primeira parte do «CINPa – Curso Intensivo para Novos Participantes», um sketch com as regras do que se deve e não deve fazer num campo de férias: a carta do director, a mala, a despedida dos pais, a roda, a latrina, os aplausos, a tenda, a capela, os banhos e o «Boa noite».
 
 ## Vídeos
 
-O serão foi o «Portugal Tem Circo!». Está no YouTube, em dez partes:
+O serão está no YouTube, em dez partes:
 
 - [Início (1/10)](https://www.youtube.com/watch?v=HyZp7Rbrdj0)
 - [Eliminatórias: A Bela e os Monstros (2/10)](https://www.youtube.com/watch?v=qGuVtKuy91U)
