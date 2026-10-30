@@ -34,6 +34,12 @@ Frequentou o [CAIC](../../Movimento/CAIC.md) de 1995 a 2003. Animador de 2003 at
     - 2011 [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md) - [Director](../../Cargos/Director.md)
     - 2012 [Limpopolus](../../Acampamentos/2012/Limpopolus.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
+### Encontros
+
+- 2007 [Encontro Nacional 2007](../../Encontros/Encontro%20Nacional%202007.md) - Responsável
+- 2010 [Encontro Nacional 2010 (20 Anos)](../../Encontros/Encontro%20Nacional%202010%20%2820%20Anos%29.md) - Director do Serão Histórico e do Museu dos 20 anos
+- 2013 [Encontro Nacional 2013](../../Encontros/Encontro%20Nacional%202013.md) - Coordenador do serão
+
 ### Campinacios.org
 
 Foi nomeado o gestor da página dos Campinácios de 2005 sucedendo a [Diogo Costa](../D/Diogo%20Costa.md) (ver [Online](../../Movimento/Online.md#pagina-original)), iniciando em 2009 a [Revolução Campinácios v2.0](../../Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md) gerindo-a até 2010.
