@@ -17,13 +17,13 @@
   var ESCOLHAS = ["Campinácios", "Camtil", "Cânticos", "Estrangeiras", "Gambozinos", "Portuguesas"];
 
   // As secções da roda, que também se podem escolher.
-  var RODA_PAGINAS = ["Musiquitas", "Aplausos", "Lengalengas"];
+  var RODA_PAGINAS = ["Musiquitas", "Lengalengas", "Aplausos"];
 
   // Nas músicas com duas versões, esta legenda (em itálico) separa a original,
   // que vem antes, da simplificada do Cantinácio de 2019, que vem depois.
   var LEGENDA_SIMPLIFICADA = /^Versão simplificada Cantinácio 2019:?$/;
 
-  // Pela ordem do Cantinácio de 2019, excepto as Portuguesas e as Estrangeiras, que vão depois dos Cânticos, e as secções da roda (Musiquitas, Aplausos e Lengalengas), que ficam no fim; o título é o da secção nessa edição.
+  // Pela ordem do Cantinácio de 2019, excepto as Portuguesas e as Estrangeiras, que vão depois dos Cânticos, e as secções da roda: as Musiquitas, antes do Manual de Instruções, e as Lengalengas e os Aplausos, que ficam no fim; o título é o da secção nessa edição.
   var SECCOES = [
     { pagina: "Prefácio", titulo: "Prefácio", texto: true, preambulo: true },  // preambulo: vai antes do índice, como em 2019, e não entra nele
     { pagina: "Campinácios", titulo: "Hits de Campo", capa: "p089.jpg" },
@@ -32,12 +32,12 @@
     { pagina: "Cânticos", titulo: "Cânticos", capa: "p127.jpg" },
     { pagina: "Portuguesas", titulo: "Radar Tuga", capa: "p011.jpg" },
     { pagina: "Estrangeiras", titulo: "Da França, Espanha, tudo", capa: "p041.jpg" },
-    { titulo: "Música Viva", viva: true },  // QR Codes dos vídeos das músicas; vai antes do manual
+    { titulo: "Música Viva", viva: true },  // QR Codes dos vídeos das músicas; vai antes das Musiquitas e do manual
+    { pagina: "Musiquitas", titulo: "Musiquitas", fluir: true },  // fluir: as músicas seguem-se sem começar página nova
     { pagina: "Manual de Instruções", titulo: "Manual de Instruções", capa: "p175.jpg", texto: true },
     { pagina: "Escalas", titulo: "Escalas", texto: true },
-    { pagina: "Musiquitas", titulo: "Musiquitas", fluir: true },
-    { pagina: "Aplausos", titulo: "Não há palmas nos Campinácios", capa: "p111.jpg", fluir: true },  // fluir: as músicas seguem-se sem começar página nova
-    { pagina: "Lengalengas", titulo: "Lengalengas", fluir: true }
+    { pagina: "Lengalengas", titulo: "Lengalengas", fluir: true },
+    { pagina: "Aplausos", titulo: "Não há palmas nos Campinácios", capa: "p111.jpg", fluir: true }
   ];
 
   // Como no Cantinácio de 2019: Arial, letras e acordes a 11 pt, títulos a 18 pt.
@@ -1305,10 +1305,10 @@
   var RODA = [
     { chave: "Musiquitas", nome: "roda", valor: "Musiquitas", rotulo: "Incluir Musiquitas",
       painel: "Musiquitas", coisas: "musiquitas" },
-    { chave: "Aplausos", nome: "roda", valor: "Aplausos", rotulo: "Incluir Aplausos",
-      painel: "Aplausos", coisas: "aplausos" },
     { chave: "Lengalengas", nome: "roda", valor: "Lengalengas", rotulo: "Incluir Lengalengas",
-      painel: "Lengalengas", coisas: "lengalengas" }
+      painel: "Lengalengas", coisas: "lengalengas" },
+    { chave: "Aplausos", nome: "roda", valor: "Aplausos", rotulo: "Incluir Aplausos",
+      painel: "Aplausos", coisas: "aplausos" }
   ];
   var TODAS_AS_LINHAS = LINHAS.concat(RODA);
 
