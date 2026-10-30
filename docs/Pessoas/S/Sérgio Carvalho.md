@@ -27,6 +27,10 @@ Sérgio Carvalho é um dos animadores do Colégio das Caldinhas.
     - 2007 [OPA](../../Acampamentos/2007/OPA.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2008 [Êxodo](../../Acampamentos/2008/%C3%8Axodo.md) - [Director](../../Cargos/Director.md)
 
+### Encontros
+
+- 2010 [Encontro Nacional 2010 (20 Anos)](../../Encontros/Encontro%20Nacional%202010%20%2820%20Anos%29.md) - Serão Histórico (criou o Aplauso dos pilares com o Pedro Vicente)
+
 ### Família
 
 É irmão da [Carolina Carvalho](../C/Carolina%20Carvalho.md).

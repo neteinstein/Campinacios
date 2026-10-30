@@ -20,6 +20,10 @@ Diogo José Nunes Carneiro é um animador do Colégio das Caldinhas.
     - 2010 [Walkabout](../../Acampamentos/2010/Walkabout.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2011 [Pedra papel tesoura](../../Acampamentos/2011/Pedra%20papel%20tesoura.md)
 
+### Encontros
+
+- 2010 [Encontro Nacional 2010 (20 Anos)](../../Encontros/Encontro%20Nacional%202010%20%2820%20Anos%29.md) - Adjunto do Serão Histórico
+
 ---
 
 | Categorias |

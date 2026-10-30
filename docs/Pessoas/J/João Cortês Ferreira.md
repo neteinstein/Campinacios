@@ -15,6 +15,10 @@
     - 2010 [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2011 [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md)
 
+### Encontros
+
+- 2010 [Encontro Nacional 2010 (20 Anos)](../../Encontros/Encontro%20Nacional%202010%20%2820%20Anos%29.md) - Serão Histórico («Monges Mudos»)
+
 ### Família
 
 É irmão da [Maria Cortês Ferreira](../M/Maria%20Cort%C3%AAs%20Ferreira.md), do [Francisco Cortês Ferreira](../F/Francisco%20Cort%C3%AAs%20Ferreira.md) e da [Teresa Cortês Ferreira](../T/Teresa%20Cort%C3%AAs%20Ferreira.md).
