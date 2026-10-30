@@ -14,6 +14,7 @@
 
 ## Participantes que se tornaram animadores
 
+- [Gabriel Ponte](../../Pessoas/G/Gabriel%20Ponte.md)
 - [Zé Guedes](../../Pessoas/Z/Z%C3%A9%20Guedes.md)
 
 ---
