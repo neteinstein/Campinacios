@@ -2,7 +2,7 @@
 
 *Nota: Este artigo é sobre o Descola de 2004, de Bicicletas. Se procura o Descola de 2018, de Lambretas, consulte [Descola (2018)](../2018/Descola%20%282018%29.md).*
 
-Descola foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que se realizou em [Arouca](../../Restrito/Locais%20de%20Acampamento/Arouca%20%28Aveiro%29.md).
+Descola foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que se realizou de 4 a 13 de Agosto de 2004 em [Arouca](../../Restrito/Locais%20de%20Acampamento/Arouca%20%28Aveiro%29.md).
 
 ### Animadores
 

@@ -1,6 +1,8 @@
 # Falésia
 
-Falésia foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que se realizou em [Poço de Corga](../../Restrito/Locais%20de%20Acampamento/Po%C3%A7o%20de%20Corga%20%28Castanheira%20de%20P%C3%AAra%29.md) (Castanheira de Pêra).
+Falésia foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que se realizou de 2 a 11 de Agosto de 2005 em [Poço de Corga](../../Restrito/Locais%20de%20Acampamento/Po%C3%A7o%20de%20Corga%20%28Castanheira%20de%20P%C3%AAra%29.md) (Castanheira de Pêra).
+
+O hino deste campo foi a música "Falésia" (ver [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#falesia)).
 
 ### Animadores
 
