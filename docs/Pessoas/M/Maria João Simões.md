@@ -34,6 +34,10 @@ Maria João Simões, mais conhecida por Majo, é desde 1996 uma das animadoras d
     - 2007 [OPA](../../Acampamentos/2007/OPA.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
     - 2009 [Caminho](../../Acampamentos/2009/Caminho.md) - [Directora-Adjunta](../../Cargos/Director-Adjunto.md)
 
+### Encontros
+
+- 2005 [Encontro Nacional de Animadores 2005](../../Encontros/Encontro%20Nacional%20de%20Animadores%202005.md) - Equipa responsável
+
 ---
 
 **Outros nomes:** Majo · Majó

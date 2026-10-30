@@ -22,6 +22,11 @@
     - 2005 [Gaivota](../../Acampamentos/2005/Gaivota.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2007 [Diz Que Sim](../../Acampamentos/2007/Diz%20Que%20Sim.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
+### Encontros
+
+- 2004 [Encontro Nacional de Animadores 2004](../../Encontros/Encontro%20Nacional%20de%20Animadores%202004.md) - Organização
+- 2005 [Encontro Nacional de Animadores 2005](../../Encontros/Encontro%20Nacional%20de%20Animadores%202005.md) - Equipa responsável
+
 ### Livros
 
 - Autor
