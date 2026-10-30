@@ -1,6 +1,8 @@
 # Graal III
 
-Graal III foi um acampamento de [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) realizado de 28 a 3 de Agosto em [Serpins](../../Restrito/Locais%20de%20Acampamento/Ribeira%20do%20Conde%20%28Serpins%29.md).
+Graal III foi um acampamento de [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) realizado de 28 de Julho a 3 de Agosto de 2007 em [Serpins](../../Restrito/Locais%20de%20Acampamento/Ribeira%20do%20Conde%20%28Serpins%29.md).
+
+Era a acção de formação dos animadores do 1.º ano de formação. A do 2.º ano, prevista para a Páscoa, de 30 de Março a 5 de Abril de 2007, foi cancelada.
 
 ### Animadores
 

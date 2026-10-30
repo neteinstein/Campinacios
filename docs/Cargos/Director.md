@@ -127,6 +127,7 @@ Ver também o [Manual do Director](../Movimento/Manual%20do%20Director.md), com 
 - [Madalena Dantas](../Pessoas/M/Madalena%20Dantas.md)
 - [Manas Vasconcelos](../Pessoas/M/Manas%20Vasconcelos.md)
 - [Manuel Cordeiro Ferreira](../Pessoas/M/Manuel%20Cordeiro%20Ferreira.md)
+- [Manuel Vilhena](../Pessoas/M/Manuel%20Vilhena.md)
 - [Maria Amorim](../Pessoas/M/Maria%20Amorim.md)
 - [Martim Cunha Ferreira](../Pessoas/M/Martim%20Cunha%20Ferreira.md)
 - [Martinho Lucas Pires](../Pessoas/M/Martinho%20Lucas%20Pires.md)

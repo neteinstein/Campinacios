@@ -8,7 +8,7 @@ Músicas nascidas nos acampamentos dos [Campinácios](../Campin%C3%A1cios.md) e 
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (78 músicas)
+## Índice (84 músicas)
 
 - [HINO DOS CAMPINÁCIOS](#hino-dos-campinacios) — Hino dos Campinácios (2025)
 - [ABENÇOAI SENHOR 2](#abencoai-senhor-2)
@@ -32,6 +32,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [BROUSSE 2](#brousse-2)
 - [CAMPINÁCIOS](#campinacios)
 - [CHICABUM](#chicabum)
+- [CINENA](#cinena) — Hino do Campo Cinena (2001)
 - [CLÁVIS](#clavis) — Hino do Campo Clávis (2012)
 - [COMPREI UM CARRO USADO](#comprei-um-carro-usado)
 - [CUPIDO CERTEIRO](#cupido-certeiro)
@@ -40,17 +41,20 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [ESTAVA NO MEIO DO MATO](#estava-no-meio-do-mato)
 - [EU PERDI O DÓ DA MINHA VIOLA](#eu-perdi-o-do-da-minha-viola)
 - [EU SOU O ZÉ](#eu-sou-o-ze)
+- [FALÉSIA](#falesia) — Hino do Campo Falésia (2005)
 - [FAZ AS MALAS](#faz-as-malas) — Musical “Vida de Campo”
 - [FRANGO E A GALINHA](#frango-e-a-galinha)
 - [GENÉRICO DA NOVELA (ORIENTU)](#generico-da-novela-orientu) — Genérico da Novela do Campo OrienTu (2008)
 - [GLÓRIA A TI / NON NOBIS](#gloria-a-ti-non-nobis) — Cântico de oração do Campo Non Nobis (2026)
 - [HINO DE CAMPO](#hino-de-campo) — Campo OPA (2007)
 - [HINO DOS 20 ANOS](#hino-dos-20-anos)
+- [IVANOV](#ivanov)
 - [JOVEM COMO A PLANTA](#jovem-como-a-planta)
 - [JOY D’ANANÁS](#joy-dananas)
 - [LANCHEIRA NA MÃO](#lancheira-na-mao)
 - [LÁ VAI O VENTO](#la-vai-o-vento)
 - [LESMAS](#lesmas) — Melodia Get Lucky - Daft Punk
+- [LUZES… CÂMERA… ACÇÃO…](#luzes-camera-accao) — Hino do Campo Ídolo (2004)
 - [MANGUEIRA NICE](#mangueira-nice) — Hino do Campo Mangueira Nice (2025)
 - [MINHA LINDA MEU AMOR](#minha-linda-meu-amor)
 - [NON NOBIS](#non-nobis) — Hino do Campo Non Nobis (2026)
@@ -58,14 +62,16 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [O ANDRÉ E A CECÍLIA](#o-andre-e-a-cecilia) — Campo Quatro Patas (2001) (Manel Matos)
 - [OBRIGADO PELA BOA COMIDA](#obrigado-pela-boa-comida) — (estalidos de dedos)
 - [ODE À FARMÁCIA](#ode-a-farmacia)
-- [O DIA EM QUE APRENDI A VOAR](#o-dia-em-que-aprendi-a-voar)
+- [O DIA EM QUE APRENDI A VOAR](#o-dia-em-que-aprendi-a-voar) — Hino do Campo Gaivota (2005)
 - [O DUCOLAX](#o-ducolax)
 - [O NOSSO GALO É BOM CANTOR](#o-nosso-galo-e-bom-cantor)
 - [O PAI BUDA](#o-pai-buda)
 - [O PETROMAX](#o-petromax)
 - [ORIENTU](#orientu) — Hino do Campo OrienTu (2008)
+- [OUÉ OUÉ](#oue-oue)
 - [PÃO COM MANTEIGA](#pao-com-manteiga)
 - [PÁRA E REPARA](#para-e-repara) — Campo Graal II (2003)
+- [PATOS](#patos) — Hino do Campo Patos (2004)
 - [PATOS, FRANGOS, GALINHAS](#patos-frangos-galinhas)
 - [POEMA LINDO](#poema-lindo) — Campo Mountain Bike (Chico Maria)
 - [POR ESTA REFEIÇÃO](#por-esta-refeicao)
@@ -697,6 +703,34 @@ Chicagulé guli guli guli guli
 GULI GULI GULI GULIÉ ohhhh
 ```
 
+### CINENA {#cinena}
+
+*Hino do Campo [Cinena](../../Acampamentos/2001/Cinena.md) (2001). Letra enviada à página original dos Campinácios por Paulo Correia.*
+
+```text
+Vem ser actor, realizador
+Do filme da tua vida
+Aqui tão perto vais encontrar
+Outro na mesma corrida.
+
+Refrão:
+Conta-me um segredo
+Cativa-me sem medo
+Olha p´ro teu lado
+E não fiques parado no…
+Cinena. Cinena… A vida vale a pena
+
+Deixa-te de histórias
+Constrói boas memórias
+Segue o teu caminho
+Sabes que não estás sozinho
+
+Se dás ao campo tudo o que tens
+Vais ver que és capaz
+Na tua crença, ousa a diferença
+O preço da tua paz.
+```
+
 ### CLÁVIS {#clavis}
 
 *Hino do Campo [Clávis](../../Acampamentos/2012/Cl%C3%A1vis.md) (2012)*
@@ -960,6 +994,37 @@ Eu sou porreiro, e nunca passo da marca
 Se eu for foleiro, escreve-me uma carta!
 
 Se algum dia te sentires mal (…)
+```
+
+### FALÉSIA {#falesia}
+
+*Hino do Campo [Falésia](../../Acampamentos/2005/Fal%C3%A9sia.md) (2005). Letra enviada à página original dos Campinácios por Cami.*
+
+```text
+ré lá sol lá
+Num lugar encantado por uma falésia
+Eu conheci o Professor Goodflight
+E o seu piloto Godfly
+O velho sábio Panoramix
+Contou-me a história da águia-real que cai
+E voa p’ra se salvar
+Vim aqui p’ra aprender a voar
+Não sabia como começar a rasgar
+Um mundo por desvendar
+
+Refrão:
+ré         sol        lá        sol
+Eu quero saber ler o teu olhar
+fá#-
+O teu jeito de amar
+
+Refrão
+si-       lá
+E ver pessoas a voar
+si-           fá#-
+Um dia irei chegar
+sol            lá
+Sem medo de te alcançar
 ```
 
 ### FAZ AS MALAS {#faz-as-malas}
@@ -1234,6 +1299,16 @@ Campinácios! […]
 Lá* - x02120; Ré* - xx0222
 ```
 
+### IVANOV {#ivanov}
+
+*Letra da secção «Músicas» da página original dos Campinácios.*
+
+```text
+Ivanov el rey de los cossacos,
+bailava en las estepes moviendo el talon
+HEY!
+```
+
 ### JOVEM COMO A PLANTA {#jovem-como-a-planta}
 
 ```text
@@ -1409,6 +1484,64 @@ O pior é quando nos lixam
 Começamos a mirrar x5
 
 Freestyle!
+```
+
+### LUZES… CÂMERA… ACÇÃO… {#luzes-camera-accao}
+
+*Hino do Campo [Ídolo](../../Acampamentos/2004/%C3%8Ddolo.md) (2004), do Pe. Nuno Tovar de Lemos sj. Letra enviada à página original dos Campinácios por Jorge Ramos.*
+
+```text
+Luzes...Câmera...Acção... (3x) (refrão)
+
+Fiz um casting a mim próprio
+nem queria acreditar
+o papel estava em aberto
+fiquei em primeiro lugar
+O Eddy Murphy e a Madonna
+foram p´ró quintal chorar
+Mas a vida é assim espectacular... (bis)
+
+(refrão)
+
+Os estúdios já estão prontos
+são no meu primeiro andar
+Hollywood é lá no bairro
+é só estrelas a passar
+O Eddy Murphy e a Madonna
+foram p´ró quintal chorar
+Mas a vida é assim espectacular... (bis)
+
+(refrão)
+
+Dona Amélia e as amigas
+que assobiam no estendal
+convidei-as p´ra fazerem
+toda a parte musical
+O Eddy Murphy e a Madonna
+foram p´ró quintal chorar
+Mas a vida é assim espectacular... (bis)
+
+(refrão)
+
+Atrevido entrei na igreja
+até subi para o andor
+comovido ele aceitou
+ser o meu realizador
+O Eddy Murphy e a Madonna
+lá voltaram a chorar
+Mas a vida é assim espectacular... (bis)
+
+(refrão)
+
+Com a bola e os amigos
+lá no estádio municipal
+Já tenho a primeira cena
+muito louca e emocional
+O Eddy Murphy e a Madonna
+talvez os deixe jogar
+Mas a vida é assim espectacular... (bis)
+
+(refrão)
 ```
 
 ### MANGUEIRA NICE {#mangueira-nice}
@@ -1612,6 +1745,8 @@ Ai oh _______ cuida só de mim!
 
 ### O DIA EM QUE APRENDI A VOAR {#o-dia-em-que-aprendi-a-voar}
 
+*Hino do Campo [Gaivota](../../Acampamentos/2005/Gaivota.md) (2005). Letra enviada à página original dos Campinácios por Missé.*
+
 ```text
 Sol             Fa*
 Se sentes que algo te leva
@@ -1752,6 +1887,17 @@ OrienTu para servir e amar
 E não te esqueças:
 O essencial és TU
 O essencial es Tu!
+```
+
+### OUÉ OUÉ {#oue-oue}
+
+*Letra da secção «Músicas» da página original dos Campinácios. O que está entre parênteses rectos é a segunda voz.*
+
+```text
+Oué, oué
+Oué, oué
+Oué, ouohh, ouohh [ah ah ah]
+Oué, ouohh, ouohh [ah ah ah]
 ```
 
 ### PÃO COM MANTEIGA {#pao-com-manteiga}
@@ -1954,6 +2100,31 @@ Não tenhas medo
 Eu estou contigo
 Juntos vamos caminhar
 Juntos vamos caminhar...
+```
+
+### PATOS {#patos}
+
+*Hino do Campo [Patos](../../Acampamentos/2004/Patos.md) (2004). Letra enviada à página original dos Campinácios por Pedro Vicente.*
+
+```text
+Enquanto a vida de todos corre,
+Acordo e acredito em tudo o que dizem
+Tenho de fazer o impossível
+Se me dizem que dá, é.. porque dá!
+
+E agora vai, come mais uma tanga,
+Mostra como és um patinho...
+Não vais desconfiar nem por nada
+Vais ouvir, ver e fazer caladinho
+
+E ainda te digo, patos há muitos,
+Mas tu, mas tu és o nosso
+Quack, Quack, Quack... (2x)
+
+No meu campo sou o maior crente
+Trotinete, totó... crente
+Vou para casa a sorrir todo contente
+Sem perceber que fui enganado todo o tempo...
 ```
 
 ### PATOS, FRANGOS, GALINHAS {#patos-frangos-galinhas}

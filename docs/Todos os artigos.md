@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1351 artigos e, em itálico, os 265 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1351 artigos e, em itálico, os 266 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -1044,6 +1044,7 @@
 - *Majó* → [Maria João Simões](Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
 - [Mamã](Cargos/Mam%C3%A3.md)
 - [Manas Vasconcelos](Pessoas/M/Manas%20Vasconcelos.md)
+- *Manel C.F.* → [Manuel Cordeiro Ferreira](Pessoas/M/Manuel%20Cordeiro%20Ferreira.md)
 - [Mangueira Nice](Acampamentos/2025/Mangueira%20Nice.md)
 - [Manual de Deliberações](Movimento/Manual%20de%20Delibera%C3%A7%C3%B5es.md)
 - *Manual de Directores* → [Manual do Director](Movimento/Manual%20do%20Director.md)

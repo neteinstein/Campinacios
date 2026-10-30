@@ -1,6 +1,6 @@
 # Megafona
 
-Megafona foi um acampamento de Trotinetas que se realizou em [Digueifel](../../Restrito/Locais%20de%20Acampamento/Digueifel%20%28Arganil%29.md)
+Megafona foi um acampamento de Trotinetas que se realizou de 17 a 26 de Agosto de 2005 em [Digueifel](../../Restrito/Locais%20de%20Acampamento/Digueifel%20%28Arganil%29.md)
 
 ### Animadores
 

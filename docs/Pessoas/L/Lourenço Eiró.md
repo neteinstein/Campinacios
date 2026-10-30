@@ -27,7 +27,7 @@ Lourenço Eiró foi um dos fundadores dos [Campinácios](../../Movimento/Campin%
     - 2001 [Surpresa](../../Acampamentos/2001/Surpresa.md) - [Director](../../Cargos/Director.md)
     - 2002 [Graal I](../../Acampamentos/2002/Graal%20I.md) - [Director](../../Cargos/Director.md)
     - 2003 [Graal II](../../Acampamentos/2003/Graal%20II.md) - [Director](../../Cargos/Director.md)
-    - 2005 [Academia](../../Acampamentos/2005/Academia.md) - [Director](../../Cargos/Director.md)
+    - 2005 [Academia](../../Acampamentos/2005/Academia.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2006 [Nómada](../../Acampamentos/2006/N%C3%B3mada.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2007 [Graal III](../../Acampamentos/2007/Graal%20III.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2008 [Êxodo](../../Acampamentos/2008/%C3%8Axodo.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)

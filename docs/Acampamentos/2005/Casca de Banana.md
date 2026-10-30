@@ -1,6 +1,6 @@
 # Casca de Banana
 
-Campo de Formação que decorreu na casa de Singeverga na Páscoa de 2005.
+Campo de Formação que decorreu na casa de Singeverga na Páscoa de 2005, de 28 de Março a 2 de Abril.
 
 ### Animadores
 
