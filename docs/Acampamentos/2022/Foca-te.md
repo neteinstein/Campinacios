@@ -1,6 +1,6 @@
 # Foca-te
 
-**Foca-te** foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) realizado em 2022. O tema do ano foi *Ver novas todas as coisas em Cristo*.
+**Foca-te** foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) realizado em 2022 em [Digueifel (Arganil)](../../Restrito/Locais%20de%20Acampamento/Digueifel%20%28Arganil%29.md). O tema do ano foi *Ver novas todas as coisas em Cristo*.
 
 ### Animadores
 
