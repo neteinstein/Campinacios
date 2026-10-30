@@ -13,11 +13,17 @@
     - 2004 [Descola](../../Acampamentos/2004/Descola.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2005 [Megafona](../../Acampamentos/2005/Megafona.md) - [Director](../../Cargos/Director.md)
 
+### Encontros
+
+- 2005 [Encontro Nacional de Animadores 2005](../../Encontros/Encontro%20Nacional%20de%20Animadores%202005.md) - Equipa responsável
+
 ### Família
 
 É irmão da [Constança Cordeiro Ferreira](../C/Constan%C3%A7a%20Pereira%20da%20Silva.md) e do [Goga](../D/Diogo%20Cordeiro%20Ferreira.md)
 
 ---
+
+**Outros nomes:** Manel C.F.
 
 | Categorias |
 | --- |
