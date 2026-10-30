@@ -9,7 +9,7 @@ Animadores dos Campinácios
 - [Animadores do CSJB](Animadores%20do%20CSJB.md)
 - [Jesuítas](Jesu%C3%ADtas.md)
 
-## Páginas nesta categoria (846)
+## Páginas nesta categoria (845)
 
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Afonso Barrocas](../Pessoas/A/Afonso%20Barrocas.md)
@@ -112,7 +112,6 @@ Animadores dos Campinácios
 - [Beatriz Miguel](../Pessoas/B/Beatriz%20Miguel.md)
 - [Beatriz Miranda](../Pessoas/B/Beatriz%20Miranda.md)
 - [Beatriz Picciochi](../Pessoas/B/Beatriz%20Picciochi.md)
-- [Beatriz Pitxi](../Pessoas/B/Beatriz%20Pitxi.md)
 - [Benedita Rolim](../Pessoas/B/Benedita%20Rolim.md)
 - [Benedita Turras](../Pessoas/B/Benedita%20Turras.md)
 - [Benedita Vasconcelos](../Pessoas/B/Benedita%20Vasconcelos.md)

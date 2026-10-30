@@ -2,7 +2,7 @@
 
 Animadores do Colégio das Caldinhas
 
-## Páginas nesta categoria (176)
+## Páginas nesta categoria (177)
 
 - [Amílcar Sousa](../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
 - [Ana Carolina Bardi](../Pessoas/A/Ana%20Carolina%20Bardi.md)
@@ -46,6 +46,7 @@ Animadores do Colégio das Caldinhas
 - [Catarina Alves](../Pessoas/C/Catarina%20Alves.md)
 - [Catarina Pinto](../Pessoas/C/Catarina%20Pinto.md)
 - [Cátia Carvalho](../Pessoas/C/C%C3%A1tia%20Carvalho.md)
+- [Chico Silva](../Pessoas/C/Chico%20Silva.md)
 - [Cristiana Leite](../Pessoas/C/Cristiana%20Leite.md)
 - [Cristina Lopo Monteiro](../Pessoas/C/Cristina%20Lopo%20Monteiro.md)
 - [Cristovão Andrade](../Pessoas/C/Cristov%C3%A3o%20Andrade.md)
