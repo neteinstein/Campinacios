@@ -1,6 +1,6 @@
 # Xii Tava Kuase Lá...!
 
-Este acampamento de [Lambretas](../../Categorias/Lambretas.md) realizou em [Vila da Ponte](../../Restrito/Locais%20de%20Acampamento/Vila%20da%20Ponte%20%28Montalegre%29.md) (Montalegre).
+Este acampamento de [Lambretas](../../Categorias/Lambretas.md) realizou-se de 11 a 20 de Agosto de 2006 em [Vila da Ponte](../../Restrito/Locais%20de%20Acampamento/Vila%20da%20Ponte%20%28Montalegre%29.md) (Montalegre).
 
 ### Animadores
 
