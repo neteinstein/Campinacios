@@ -8,7 +8,7 @@ Músicas nascidas nos acampamentos dos [Campinácios](../Campin%C3%A1cios.md) e 
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (77 músicas)
+## Índice (78 músicas)
 
 - [HINO DOS CAMPINÁCIOS](#hino-dos-campinacios) — Hino dos Campinácios (2025)
 - [ABENÇOAI SENHOR 2](#abencoai-senhor-2)
@@ -75,6 +75,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [SEJAS ÓLEO, FARINHA](#sejas-oleo-farinha)
 - [SEMEIA A VERDADE](#semeia-a-verdade)
 - [SÓIS HÁ MUITOS](#sois-ha-muitos)
+- [SONHO DE UMA NOITE DE VERÃO](#sonho-de-uma-noite-de-verao) — Genérico da Novela do Campo Non Nobis (2026)
 - [TÁBEEEIM](#tabeeeim) — Hino do Campo Tábeeeim (2010)
 - [TER UMA EQUIPA](#ter-uma-equipa) — Musical “Vida de Campo”
 - [TIAS](#tias) — (melodia Dunas)
@@ -2235,6 +2236,62 @@ E agora vai, salta fora de casa
 Mostra o que te cresce por dentro
 Que é alimentador, que é uma brasa
 Vai dar-te ao mundo, aos que vivem em tormento.
+```
+
+### SONHO DE UMA NOITE DE VERÃO {#sonho-de-uma-noite-de-verao}
+
+*Genérico da Novela do Campo [Non Nobis](../../Acampamentos/2026/Non%20Nobis.md) (2026)*
+
+```text
+Mi                         Mimaj7
+Eu sempre fui muito feliz
+Mi7
+É que contigo ao meu lado eu tinha
+Lá                                Sol#m
+O que sempre que quis
+Do#            Sol#m            Do#
+E nada podia desfazer
+Fa#m
+O meu amor por ti
+Si7
+(Até que)
+
+Mi                         Mimaj7
+Uma aventura na floresta
+Mi7                                          Lá
+Virou tudo ao contrário na hora da sesta
+Sol#m            Do#
+Um templário
+Sol#m           Do#
+E um grande otário
+Fa#m
+Juntos no meu coração
+Si7
+(Até que)
+
+[Refrão]
+Lá Si
+No mundo encantado
+Mi-Mimaj7-Mi7
+Um sonho pode ser real
+Lá Si
+Um bicho pode ser um fado
+Mi-Mimaj7-Mi7
+E um homem, um animal
+Lá Si
+No mundo encantado
+Mi-Mimaj7-Mi7
+O céu pode ser o chão
+Lá Si Fa#m
+E um pesadelo marado...
+Si Lá Mi
+É o Sonho de uma Noite de Verão (x3)
+E a tua irmã pode ser o teu irmão
+E um rim pode ser um pulmão
+E uma ervilha pode ser um melão
+E um gajo bacano pode ser um cab...
+
+(volta ao início)
 ```
 
 ### TÁBEEEIM {#tabeeeim}
