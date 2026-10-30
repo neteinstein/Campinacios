@@ -1,5 +1,7 @@
 # Maria do Carmo Cunha e Carmo
 
+*Nota: Este artigo é sobre Maria do Carmo Cunha e Carmo, animador(a) do CC. Se procura Maria Cunha, animador(a) do CSJB, consulte [Maria Cunha](../M/Maria%20Cunha.md).*
+
 ### Cargos
 
 - 2020/2021 Membro da [Direcção Local do CC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md)

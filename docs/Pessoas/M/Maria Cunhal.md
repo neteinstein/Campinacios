@@ -1,5 +1,7 @@
 # Maria Cunhal
 
+*Nota: Este artigo é sobre Maria Cunhal. Se procura Maria Cunha, animador(a) do CSJB, consulte [Maria Cunha](Maria%20Cunha.md).*
+
 ### Acampamentos
 
 - **Animador(a):**

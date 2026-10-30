@@ -2,7 +2,9 @@
 
 - [Inês Amado](In%C3%AAs%20Amado.md)
 - [Inês Amorim](In%C3%AAs%20Amorim.md)
+- [Inês Barbosa](In%C3%AAs%20Barbosa.md)
 - [Inês Carvalho](In%C3%AAs%20Carvalho.md)
+- [Inês Castro Caldas](In%C3%AAs%20Castro%20Caldas.md)
 - [Inês Costa](In%C3%AAs%20Costa.md)
 - [Inês Cruz](In%C3%AAs%20Cruz.md)
 - [Inês Ferreira](In%C3%AAs%20Ferreira.md)
@@ -24,6 +26,7 @@
 - [Isabel Girão](Isabel%20Gir%C3%A3o.md)
 - [Isabel Neves](Isabel%20Neves.md)
 - [Isabel Reis](Isabel%20Reis.md)
+- [Isabel Sá Fernandes](Isabel%20S%C3%A1%20Fernandes.md)
 - [Isabel Santos](Isabel%20Santos.md)
 - [Isabel Val-do-Rio](Isabel%20Val-do-Rio.md)
 - [Ivo Reis](Ivo%20Reis.md)

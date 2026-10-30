@@ -1,5 +1,7 @@
 # Filipe Próspero
 
+*Segundo a lista de animadores do CSJB de 2010: nasceu a 25 de Março de 1987; geração de 2005; estudos ou profissão: Fisioterapia; por ano: 2003 Bicicletas, 2005 Lambretas, 2006 Ani. Equipa, 2007 Ani. Equipa.*
+
 Filipe Próspero, é desde 2005 um dos animadores do Colégio São João de Brito.
 
 ## História dentro do movimento

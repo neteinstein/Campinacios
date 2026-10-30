@@ -1,5 +1,7 @@
 # Filipe Matos
 
+*Nota: Este artigo é sobre Filipe Matos, animador do CSJB. Se procura Filipa Matos, animador(a) do CSJB, consulte [Filipa Matos](Filipa%20Matos.md).*
+
 Filipe Matos mais conhecido por Beja
 
 ### Acampamentos

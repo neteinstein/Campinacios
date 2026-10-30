@@ -1,21 +1,26 @@
 # Todos os artigos
 
-1351 artigos e, em itálico, os 266 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1372 artigos e, em itálico, os 270 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
+- [Adriana Gil](Pessoas/A/Adriana%20Gil.md)
 - [Afonso Borges](Pessoas/A/Afonso%20Borges.md)
 - [Afonso Torres](Pessoas/A/Afonso%20Torres.md)
 - *Agui* → [Gonçalo Aguiar](Pessoas/G/Gon%C3%A7alo%20Aguiar.md)
 - [Alberto Gonçalves](Pessoas/A/Alberto%20Gon%C3%A7alves.md)
 - [Alexandra Couto](Pessoas/A/Alexandra%20Couto.md)
+- [Alexandre Ferreira](Pessoas/A/Alexandre%20Ferreira.md)
 - *Ana Aguiar* → [Ana de Martins Aguiar](Pessoas/A/Ana%20de%20Martins%20Aguiar.md)
 - [Ana de Martins Aguiar](Pessoas/A/Ana%20de%20Martins%20Aguiar.md)
 - [Ana Isabel Martins](Pessoas/A/Ana%20Isabel%20Martins.md)
 - *Ana João Mendonça Silva* → [Ana Mendonça](Pessoas/A/Ana%20Mendon%C3%A7a.md)
 - *Ana João Silva* → [Ana Mendonça](Pessoas/A/Ana%20Mendon%C3%A7a.md)
+- [Ana Luísa Manaia](Pessoas/A/Ana%20Lu%C3%ADsa%20Manaia.md)
 - *Ana Mendonça Silva* → [Ana Mendonça](Pessoas/A/Ana%20Mendon%C3%A7a.md)
 - [Ana Mendonça](Pessoas/A/Ana%20Mendon%C3%A7a.md)
+- [Ana Sancho](Pessoas/A/Ana%20Sancho.md)
+- [Ana Virgínia Nogueira](Pessoas/A/Ana%20Virg%C3%ADnia%20Nogueira.md)
 - [António Almeida](Pessoas/A/Ant%C3%B3nio%20Almeida.md)
 - [António Falacho](Pessoas/A/Ant%C3%B3nio%20Falacho.md)
 - [António Pereira](Pessoas/A/Ant%C3%B3nio%20Pereira.md)
@@ -283,9 +288,11 @@
 - *Catarina Cunha Ferreira* → [Catarina Ferreira](Pessoas/C/Catarina%20Ferreira.md)
 - [Catarina Ferreira](Pessoas/C/Catarina%20Ferreira.md)
 - [Catarina Gaio](Pessoas/C/Catarina%20Gaio.md)
+- [Catarina Galvão](Pessoas/C/Catarina%20Galv%C3%A3o.md)
 - [Catarina Godinho](Pessoas/C/Catarina%20Godinho.md)
 - [Catarina Meireles](Pessoas/C/Catarina%20Meireles.md)
 - *Catarina Mendes Godinho* → [Catarina Godinho](Pessoas/C/Catarina%20Godinho.md)
+- [Catarina Pedroso](Pessoas/C/Catarina%20Pedroso.md)
 - [Catarina Silva](Pessoas/C/Catarina%20Silva.md)
 - [Cátia Silva](Pessoas/C/C%C3%A1tia%20Silva.md)
 - [Chica Aguiar](Pessoas/C/Chica%20Aguiar.md)
@@ -381,6 +388,7 @@
 
 ## D
 
+- [Diana Gala](Pessoas/D/Diana%20Gala.md)
 - [D'RIP MELON](Acampamentos/2024/D%27RIP%20MELON.md)
 - *Dani* → [Daniela Gonçalves](Pessoas/D/Daniela%20Gon%C3%A7alves.md)
 - [David Bandeira](Pessoas/D/David%20Bandeira.md)
@@ -513,6 +521,7 @@
 - [Esperança](Acampamentos/2011/Esperan%C3%A7a.md)
 - [Esperança 2011](Restrito/Relat%C3%B3rios%20de%20Campo/Esperan%C3%A7a%202011.md) 🔒
 - [Eureka](Acampamentos/2008/Eureka.md)
+- [Eva Juliana Alves Barbosa](Pessoas/E/Eva%20Juliana%20Alves%20Barbosa.md)
 - [Exipto](Acampamentos/2025/Exipto.md)
 - [Êxodo](Acampamentos/2008/%C3%8Axodo.md)
 - [Expalharmo-nos](Acampamentos/2016/Expalharmo-nos.md)
@@ -527,13 +536,16 @@
 - [Farol](Acampamentos/2003/Farol.md)
 - [Fernando Sousa](Pessoas/F/Fernando%20Sousa.md)
 - [Filipa Gouveia](Pessoas/F/Filipa%20Gouveia.md)
+- [Filipa Matos](Pessoas/F/Filipa%20Matos.md)
 - *Filipa Rhodes Sérgio* → [Filipa Sérgio](Pessoas/F/Filipa%20S%C3%A9rgio.md)
+- [Filipa Silva](Pessoas/F/Filipa%20Silva.md)
 - *Flôr Freitas* → [Flor Freitas](Pessoas/F/Flor%20Freitas.md)
 - [Flor Freitas](Pessoas/F/Flor%20Freitas.md)
 - [Francisca Dantas](Pessoas/F/Francisca%20Dantas.md)
 - [Francisca Maia](Pessoas/F/Francisca%20Maia.md)
 - [Francisca Neves](Pessoas/F/Francisca%20Neves.md)
 - [Francisca Pimentel](Pessoas/F/Francisca%20Pimentel.md)
+- [Francisco Almeida (Quico)](Pessoas/F/Francisco%20Almeida%20(Quico).md)
 - *Francisco Caetano Silva* → [Chico Silva](Pessoas/C/Chico%20Silva.md)
 - [Francisco Caldas](Pessoas/F/Francisco%20Caldas.md)
 - [Francisco Cunha e Carmo](Pessoas/F/Francisco%20Cunha%20e%20Carmo.md)
@@ -713,6 +725,8 @@
 - [Incrível](Acampamentos/2009/Incr%C3%ADvel.md)
 - [Inês Amado](Pessoas/I/In%C3%AAs%20Amado.md)
 - [Inês Amorim](Pessoas/I/In%C3%AAs%20Amorim.md)
+- [Inês Barbosa](Pessoas/I/In%C3%AAs%20Barbosa.md)
+- [Inês Castro Caldas](Pessoas/I/In%C3%AAs%20Castro%20Caldas.md)
 - [Inês Costa](Pessoas/I/In%C3%AAs%20Costa.md)
 - [Inês Cruz](Pessoas/I/In%C3%AAs%20Cruz.md)
 - [Inês Ferreira](Pessoas/I/In%C3%AAs%20Ferreira.md)
@@ -735,6 +749,7 @@
 - [Isabel Girão](Pessoas/I/Isabel%20Gir%C3%A3o.md)
 - [Isabel Neves](Pessoas/I/Isabel%20Neves.md)
 - [Isabel Reis](Pessoas/I/Isabel%20Reis.md)
+- [Isabel Sá Fernandes](Pessoas/I/Isabel%20S%C3%A1%20Fernandes.md)
 - [Isabel Santos](Pessoas/I/Isabel%20Santos.md)
 - [Isabel Val-do-Rio](Pessoas/I/Isabel%20Val-do-Rio.md)
 - [Isto Só Visto](Acampamentos/2022/Isto%20S%C3%B3%20Visto.md)
@@ -850,6 +865,7 @@
 - [João Silvestre](Pessoas/J/Jo%C3%A3o%20Silvestre.md)
 - [Joca](Pessoas/J/Joca.md)
 - *Johnny Sousa* → [João Afonso Sousa](Pessoas/J/Jo%C3%A3o%20Afonso%20Sousa.md)
+- *Joly* → [Francisco Moitinho Almeida](Pessoas/F/Francisco%20Moitinho%20Almeida.md)
 - *Jonifa* → [João Freire de Andrade](Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md)
 - [Jorge Casanova](Pessoas/J/Jorge%20Casanova.md)
 - [Jorge Gonçalves](Pessoas/J/Jorge%20Gon%C3%A7alves.md)
@@ -961,6 +977,7 @@
 - [Lugar do Barco (Refóios do Lima)](Restrito/Locais%20de%20Acampamento/Lugar%20do%20Barco%20%28Ref%C3%B3ios%20do%20Lima%29.md) 🔒
 - [Lugar do Vau (Celorico de Basto)](Restrito/Locais%20de%20Acampamento/Lugar%20do%20Vau%20%28Celorico%20de%20Basto%29.md) 🔒
 - [Luís Boavida](Pessoas/L/Lu%C3%ADs%20Boavida.md)
+- [Luís Faria](Pessoas/L/Lu%C3%ADs%20Faria.md)
 - [Luís Ferreira do Amaral](Pessoas/L/Lu%C3%ADs%20Ferreira%20do%20Amaral.md)
 - [Luís Fontes](Pessoas/L/Lu%C3%ADs%20Fontes.md)
 - [Luís Freire](Pessoas/L/Lu%C3%ADs%20Freire.md)
@@ -984,9 +1001,12 @@
 - [Lúcia Ribeiro](Pessoas/L/L%C3%BAcia%20Ribeiro.md)
 - [Lúcia Vaz Pato](Pessoas/L/L%C3%BAcia%20Vaz%20Pato.md)
 - [Luciana Soares](Pessoas/L/Luciana%20Soares.md)
+- *Luísa Manaia* → [Ana Luísa Manaia](Pessoas/A/Ana%20Lu%C3%ADsa%20Manaia.md)
 
 ## M
 
+- [Mafalda Correia](Pessoas/M/Mafalda%20Correia.md)
+- [Maria Cunha](Pessoas/M/Maria%20Cunha.md)
 - [M&M](Acampamentos/2007/M%26M.md)
 - [Mação (Santarém)](Restrito/Locais%20de%20Acampamento/Ma%C3%A7%C3%A3o%20%28Santar%C3%A9m%29.md) 🔒
 - *Machoqueira do Grou* → [Machoqueira do Grou (Santarém)](Restrito/Locais%20de%20Acampamento/Machoqueira%20do%20Grou%20%28Santar%C3%A9m%29.md) 🔒
@@ -1208,7 +1228,9 @@
 - *Nênê* → [Inês Silva](Pessoas/I/In%C3%AAs%20Silva.md)
 - *Nheca Nheca Macacão* → [Nheca Nheca no Macacão](Acampamentos/2012/Nheca%20Nheca%20no%20Macac%C3%A3o.md)
 - [Nheca Nheca no Macacão](Acampamentos/2012/Nheca%20Nheca%20no%20Macac%C3%A3o.md)
+- *Nuno Carrolo Santos* → [Nuno Carrolo](Pessoas/N/Nuno%20Carrolo.md)
 - [Nuno Ferreira](Pessoas/N/Nuno%20Ferreira.md)
+- [Nuno Mota](Pessoas/N/Nuno%20Mota.md)
 - [Nuno Tomás](Pessoas/N/Nuno%20Tom%C3%A1s.md)
 - *Nini* → [Teresa Mendes](Pessoas/T/Teresa%20Mendes.md)
 - [Ninja Por Não Estar](Acampamentos/2002/Ninja%20Por%20N%C3%A3o%20Estar.md)
@@ -1243,6 +1265,7 @@
 ## P
 
 - ["Para Educar Melhor - Campos de férias inacianos"](Movimento/Para%20Educar%20Melhor%20-%20Campos%20de%20f%C3%A9rias%20inacianos.md)
+- [Patrícia Marques](Pessoas/P/Patr%C3%ADcia%20Marques.md)
 - [P'la Tua Mão](Acampamentos/2022/P%27la%20Tua%20M%C3%A3o.md)
 - [Pablo Fernandes](Pessoas/P/Pablo%20Fernandes.md)
 - [Padre Pina](Pessoas/P/Padre%20Pina.md)
@@ -1399,6 +1422,7 @@
 - [Revolução](Acampamentos/2014/Revolu%C3%A7%C3%A3o.md)
 - [Revolução Campinácios v2.0](Movimento/Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md)
 - [Ribeira do Conde (Serpins)](Restrito/Locais%20de%20Acampamento/Ribeira%20do%20Conde%20%28Serpins%29.md) 🔒
+- *Ricado César das Neves* → [Ricardo Neves](Pessoas/R/Ricardo%20Neves.md)
 - [Ricardo Amado](Pessoas/R/Ricardo%20Amado.md)
 - [Ricardo Barroso](Pessoas/R/Ricardo%20Barroso.md)
 - [Ricardo Batista](Pessoas/R/Ricardo%20Batista.md)
@@ -1564,6 +1588,7 @@
 - [Teresa Cortês Ferreira](Pessoas/T/Teresa%20Cort%C3%AAs%20Ferreira.md)
 - [Teresa Cruz](Pessoas/T/Teresa%20Cruz.md)
 - *Teresa Cunha e Sá* → [Teresa Sá](Pessoas/T/Teresa%20S%C3%A1.md)
+- [Teresa Dominguez](Pessoas/T/Teresa%20Dominguez.md)
 - [Teresa Fonseca](Pessoas/T/Teresa%20Fonseca.md)
 - [Teresa Martinho](Pessoas/T/Teresa%20Martinho.md)
 - [Teresa Mendes](Pessoas/T/Teresa%20Mendes.md)

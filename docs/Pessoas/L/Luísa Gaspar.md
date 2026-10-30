@@ -1,5 +1,7 @@
 # Luísa Gaspar
 
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 5 de Agosto de 1984; entrou em 2003; por ano: 2002 Formação, 2003 Formação, 2005 Tia, 2007 Ani. Equipa.*
+
 Luísa Gaspar é desde 2003, um das animadoras do Colégio da Imaculada Conceição.
 
 ## História dentro do movimento

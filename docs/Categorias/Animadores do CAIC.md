@@ -2,11 +2,12 @@
 
 Animadores do Colégio da Imaculada Conceição
 
-## Páginas nesta categoria (112)
+## Páginas nesta categoria (113)
 
 - [Alexandra Silva](../Pessoas/A/Alexandra%20Silva.md)
 - [Ana Carolina Santos](../Pessoas/A/Ana%20Carolina%20Santos.md)
 - [Ana Curto](../Pessoas/A/Ana%20Curto.md)
+- [Ana Luísa Manaia](../Pessoas/A/Ana%20Lu%C3%ADsa%20Manaia.md)
 - [Ana Luísa Santos](../Pessoas/A/Ana%20Lu%C3%ADsa%20Santos.md)
 - [Ana Marques](../Pessoas/A/Ana%20Marques.md)
 - [Ana Melo](../Pessoas/A/Ana%20Melo.md)

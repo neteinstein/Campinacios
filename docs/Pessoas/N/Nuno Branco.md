@@ -1,5 +1,7 @@
 # Nuno Branco
 
+*Segundo a lista de animadores do CSJB de 2010: por ano: 2005 Capelinho, 2006 Capelão.*
+
 ### Acampamentos
 
 - **Animador**
