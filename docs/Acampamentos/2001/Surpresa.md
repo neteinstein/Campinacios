@@ -12,6 +12,32 @@ O Surpresa foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que 
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Alexandra Gonçalves](../../Pessoas/A/Alexandra%20Gon%C3%A7alves.md), [Rui Junqueira](../../Pessoas/R/Rui%20Junqueira.md) e [Nuno Carvalho](../../Pessoas/N/Nuno%20Carvalho.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Zepa](../../Pessoas/J/Jos%C3%A9%20Pedro%20Ferreira.md), [Manuel Vilhena](../../Pessoas/M/Manuel%20Vilhena.md) e [Madalena Reis](../../Pessoas/M/Madalena%20Reis.md)
 
+## Testemunho de um participante
+
+*Publicado, sem o nome de quem o escreveu, a partir da página original dos Campinácios.*
+
+> Jamais esquecerei os dias que passei no Campo " Surpresa 2001" de 24 Julho a 2 de Agosto:
+>
+> O carinho da mamã e das tias
+>
+> A criatividade e alegria dos animadores
+>
+> Os amigos que já conhecíamos e que se revelaram excepcionais.
+>
+> Os colegas dos outros colégios que se tornaram grandes amigos.
+>
+> A água do rio onde passamos maravilhosos momentos de brincadeira.
+>
+> Os jogos, qual deles o mais animado; então o dos Generais e o dos Dragões!!!
+>
+> A caminhada cansativa mas divertida.
+>
+> A tenda que tínhamos para arrumar.
+>
+> tanto a dizer, tanto a recordar...
+>
+> Por tudo isto só posso dizer: foi espectacular e oxalá eu possa repetir esta experiência.
+
 ## Participantes que se tornaram animadores
 
 - [Francisco Carvalho](../../Pessoas/F/Francisco%20Carvalho.md)

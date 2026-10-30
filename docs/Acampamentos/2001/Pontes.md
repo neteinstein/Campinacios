@@ -12,6 +12,24 @@ O Pontes foi um acampamento de Trotinetas que decorreu de 2 a 11 de Agosto de 20
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Luís Pereira](../../Pessoas/L/Lu%C3%ADs%20Pereira.md), [Renato Lopes](../../Pessoas/R/Renato%20Lopes.md) e [Edu](../../Pessoas/E/Eduardo%20Almeida.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Sara Croca](../../Pessoas/S/Sara%20Croca.md), [Filipa Valle](../../Pessoas/F/Filipa%20Valle.md), [Tiago Canilho](../../Pessoas/L/Lu%C3%ADs%20Tiago%20Canilho.md), [Joana Sá](../../Pessoas/J/Joana%20S%C3%A1.md), [Sónia Ferreira](../../Pessoas/S/S%C3%B3nia%20Ferreira.md) e [Vítor Fernandes](../../Pessoas/V/V%C3%ADtor%20Fernandes.md)
 
+## Testemunho de um participante
+
+*Publicado, sem o nome de quem o escreveu, a partir da página original dos Campinácios.*
+
+> Nos campos que participei, foi o Pontes 2001 que mais gostei.
+>
+> Nele aprendi muitas coisas entre as quais que os amigos que fazemos nos campos nunca os esquecemos e que nunca separamos deles, pois, eles estão e estarão sempre no nosso coração.
+>
+> Gostei muito do Pontes 2001 pais, acho que foi bem organizado, falou-se em ajuda mútua, em trabalho de equipa, os animadores eram muito simpáticos; e falamos também dos quatro pilares dos Campinácios quando uma das tarefas era fazer urna ponte e grupo com essa tarefa fez a ponte que unia os ricos com pobres com 4 pilares, por isso ficou a chamar-se pontes 2001.
+>
+> Nele ficamos mais esclarecidos sobre os quatro pilares dos Campinácios.
+>
+> Neste campo também convivemos com as pessoas que viviam nas casas à nossa volta, receberam-nos muito bem e foram muito simpáticas, por isso sempre que precisávamos de algo elas nos ajudavam e no fim demos uma pequena recordação como agradecimento.
+>
+> Não me importava de fazer outro campo como o Pontes, os animadores eram muito simpáticos, todos queriam fazer novas amizades por isso logo no segundo dia com algumas pessoas parecia que já nos conhecíamos à muito tempo.
+>
+> Acho que todos ajudaram para que o campo corre-se bem e foi o que aconteceu.
+
 ## Participantes que se tornaram animadores
 
 - [João Freire de Andrade](../../Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md)

@@ -9,6 +9,22 @@
 - [Tias](../../Cargos/Tio.md) - [Ana Geão](../../Pessoas/A/Ana%20Ge%C3%A3o.md) e [Ana Curto](../../Pessoas/A/Ana%20Curto.md)
 - [Animadores](../../Categorias/Animadores.md) - João Graça , Zinho , Linda Araújo , [Isabel Fernandes Melo](../../Pessoas/I/Isabel%20Fernandes%20Melo.md) , João Reis (Joninhas) , [Cristina Costa](../../Pessoas/C/Cristina%20Costa.md) , [António Andrade](../../Pessoas/A/Ant%C3%B3nio%20Andrade.md)
 
+## Testemunho de um participante
+
+*Publicado, sem o nome de quem o escreveu, a partir da página original dos Campinácios.*
+
+> Os Campinácios!
+>
+> São a imagem de marca da Felicidade!
+>
+> São a imagem que marca a nossa vida! Marca e transformam-na para sempre!
+>
+> Participar num campo é participar da Felicidade que é ter amigos, é participar da alegria, é ainda participar da aventura das caminhadas e descobrir que temos sempre alguém disponível para nos apoiar.
+>
+> Marcam-nos para sempre!
+>
+> Entramos no campo apenas seres humanos e saímos seres especiais, aprendemos a partilhar tarefas e rir de nós próprios, enfim saímos seres tão felizes, que o nosso coração transborda de emoções e inunda todos aqueles que connosco conviverem posteriormente.
+
 ## Participantes que se tornaram animadores
 
 - [Ana Salgado](../../Pessoas/A/Ana%20Salgado.md)
