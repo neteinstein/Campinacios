@@ -66,6 +66,10 @@ O [Manual de Instruções](Cantin%C3%A1cio/Manual%20de%20Instru%C3%A7%C3%B5es.md
 
 - [Escalas](Cantin%C3%A1cio/Escalas.md) — como mudar uma música de tom
 
+## Musiquitas
+
+- [Musiquitas](Cantin%C3%A1cio/Musiquitas.md) — 22 musiquitas para cantar na roda
+
 ## Aplausos
 
 - [Aplausos](Cantin%C3%A1cio/Aplausos.md) — 138 palmas, aplausos e gritos de roda
