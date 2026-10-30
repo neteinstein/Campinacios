@@ -22,6 +22,10 @@ Frequentou o CC de 1992 a 2008. Animador desde 2008 até hoje.
     - 2015 [Jásinto](../../Acampamentos/2015/J%C3%A1sinto.md) - [Director](../../Cargos/Director.md)
     - 2016 [Quemtesegura](../../Acampamentos/2016/Quemtesegura.md) - [Director](../../Cargos/Director.md)
 
+### Testemunho
+
+O testemunho que escreveu como participante do [Surpresa](../../Acampamentos/2001/Surpresa.md#testemunho) (2001) está na página do campo.
+
 ### Família
 
 É irmão da [Ana Pinto](../A/Ana%20Pinto.md)

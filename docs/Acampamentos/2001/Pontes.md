@@ -12,9 +12,9 @@ O Pontes foi um acampamento de Trotinetas que decorreu de 2 a 11 de Agosto de 20
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Luís Pereira](../../Pessoas/L/Lu%C3%ADs%20Pereira.md), [Renato Lopes](../../Pessoas/R/Renato%20Lopes.md) e [Edu](../../Pessoas/E/Eduardo%20Almeida.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Sara Croca](../../Pessoas/S/Sara%20Croca.md), [Filipa Valle](../../Pessoas/F/Filipa%20Valle.md), [Tiago Canilho](../../Pessoas/L/Lu%C3%ADs%20Tiago%20Canilho.md), [Joana Sá](../../Pessoas/J/Joana%20S%C3%A1.md), [Sónia Ferreira](../../Pessoas/S/S%C3%B3nia%20Ferreira.md) e [Vítor Fernandes](../../Pessoas/V/V%C3%ADtor%20Fernandes.md)
 
-## Testemunho de um participante
+## Testemunho {#testemunho}
 
-*Publicado, sem o nome de quem o escreveu, a partir da página original dos Campinácios.*
+*Testemunho da [Ana Luísa Reis](../../Pessoas/A/Ana%20Lu%C3%ADsa%20Reis.md), participante deste campo, publicado na página original dos Campinácios.*
 
 > Nos campos que participei, foi o Pontes 2001 que mais gostei.
 >
@@ -32,6 +32,7 @@ O Pontes foi um acampamento de Trotinetas que decorreu de 2 a 11 de Agosto de 20
 
 ## Participantes que se tornaram animadores
 
+- [Ana Luísa Reis](../../Pessoas/A/Ana%20Lu%C3%ADsa%20Reis.md)
 - [João Freire de Andrade](../../Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md)
 - [Martinho Lucas Pires](../../Pessoas/M/Martinho%20Lucas%20Pires.md)
 
