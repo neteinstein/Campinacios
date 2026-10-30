@@ -2104,7 +2104,7 @@ Juntos vamos caminhar...
 
 ### PATOS {#patos}
 
-*Hino do Campo [Patos](../../Acampamentos/2004/Patos.md) (2004). Letra enviada à página original dos Campinácios por Pedro Vicente.*
+*Hino do Campo [Patos](../../Acampamentos/2004/Patos.md) (2004).*
 
 ```text
 Enquanto a vida de todos corre,
