@@ -269,6 +269,7 @@
 - [Cantinácio: Cânticos](Movimento/Cantin%C3%A1cio/C%C3%A2nticos.md)
 - [Cantinácio: Escalas](Movimento/Cantin%C3%A1cio/Escalas.md)
 - [Cantinácio: Estrangeiras](Movimento/Cantin%C3%A1cio/Estrangeiras.md)
+- [Cantinácio: Lengalengas](Movimento/Cantin%C3%A1cio/Lengalengas.md)
 - [Cantinácio: Manual de Instruções](Movimento/Cantin%C3%A1cio/Manual%20de%20Instru%C3%A7%C3%B5es.md)
 - [Cantinácio: Portuguesas](Movimento/Cantin%C3%A1cio/Portuguesas.md)
 - [Cantinácio: Prefácio](Movimento/Cantin%C3%A1cio/Pref%C3%A1cio.md)

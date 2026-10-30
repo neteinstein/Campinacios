@@ -70,6 +70,10 @@ O [Manual de Instruções](Cantin%C3%A1cio/Manual%20de%20Instru%C3%A7%C3%B5es.md
 
 - [Aplausos](Cantin%C3%A1cio/Aplausos.md) — 138 palmas, aplausos e gritos de roda
 
+## Lengalengas
+
+- [Lengalengas](Cantin%C3%A1cio/Lengalengas.md) — 19 lengalengas para cantar na roda
+
 ## Gravações {#gravacoes}
 
 Aqui ficam, para efeitos nostálgicos, as faixas do CD *Campinácios Unplugged*, gravado ao vivo no [Encontro Nacional 2004](../Encontros/Encontro%20Nacional%202004.md#cd-campinacios-unplugged): [João Monteiro](../Pessoas/J/Jo%C3%A3o%20Monteiro.md) (cantor e produtor), Rui Pinto (gravação) e [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) (edição).
