@@ -17,6 +17,7 @@
     - 2003 [Graal II](../../Acampamentos/2003/Graal%20II.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2004 [Metrópole](../../Acampamentos/2004/Metr%C3%B3pole.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2005 [Casca de Banana](../../Acampamentos/2005/Casca%20de%20Banana.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
+    - 2005 [Academia](../../Acampamentos/2005/Academia.md) - [Director](../../Cargos/Director.md)
     - 2006 [XS](../../Acampamentos/2006/XS.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2007 [Diz Que Sim](../../Acampamentos/2007/Diz%20Que%20Sim.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
