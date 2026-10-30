@@ -14,9 +14,9 @@ O hino deste campo foi a música "Cinena" (ver [Cantinácio](../../Movimento/Can
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj e [Nuno Carrolo](../../Pessoas/N/Nuno%20Carrolo.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Motorzinho](../../Pessoas/A/Andr%C3%A9%20Gon%C3%A7alves.md), [Isa Neves](../../Pessoas/I/Isa%20Neves.md), Tiago Ferreira, [Raquel Mesquita](../../Pessoas/R/Raquel%20Mesquita.md), [Kiko](../../Pessoas/F/Francisco%20Almeida%20%28Kiko%29.md), [José Luís Silva](../../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Silva.md) e [Ana Rita Silva](../../Pessoas/A/Ana%20Rita%20Silva.md)
 
-## Testemunho de um participante
+## Testemunho de um participante {#testemunho}
 
-*Publicado, sem o nome de quem o escreveu, a partir da página original dos Campinácios.*
+*Publicado sem nome na página original dos Campinácios.*
 
 > Isto é Cinena!
 >

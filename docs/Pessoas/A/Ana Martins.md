@@ -25,6 +25,11 @@ Ana Martins, é desde 2005 uma das animadoras do Colégio São João de Brito.
     - 2010 EdMais - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2010 [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
 
+
+### Testemunho
+
+O testemunho «Ser Campinácio», que escreveu como participante, está na página [Participante](../../Movimento/Participante.md#testemunho).
+
 ---
 
 | Categorias |
