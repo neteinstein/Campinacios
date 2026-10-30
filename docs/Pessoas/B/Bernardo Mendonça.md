@@ -1,5 +1,7 @@
 # Bernardo Mendonça
 
+*Segundo a lista de animadores do CSJB de 2010: geração de 2001; estudos ou profissão: Engenharia Informática; por ano: 2005 Ani. Livre, 2006 Ani. Livre.*
+
 ### Acampamentos
 
 - **Participante**

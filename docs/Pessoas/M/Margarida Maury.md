@@ -1,5 +1,7 @@
 # Margarida Maury
 
+*Segundo a lista de animadores do CSJB de 2010: nasceu a 10 de Fevereiro de 1990.*
+
 ### Acampamentos
 
 - **Participante:**

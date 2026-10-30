@@ -1,5 +1,7 @@
 # Alexandra Silva
 
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 19 de Setembro de 1990; entrou em 2008; estudos ou profissão: Turismo - Coimbra; por ano: 2008 Lambretas, 2009 Form/Equipa.*
+
 Alexandra Silva é desde 2008 uma das animadoras do Colégio da Imaculada Conceição.
 
 ## História dentro do movimento

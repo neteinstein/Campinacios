@@ -2,6 +2,8 @@
 
 *Nota: Este artigo é sobre Maria Ana Silva, animadora do CSJB. Se procura Maria Silva (Malú), Coordenadora Adjunta da Direcção Nacional em 2023/2024, consulte [Maria Silva](Maria%20Silva.md).*
 
+*Segundo a lista de animadores do CSJB de 2010: nasceu a 14 de Abril de 1990.*
+
 ### Acampamentos
 
 - **Participante:**

@@ -1,5 +1,7 @@
 # Diogo Reis
 
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 11 de Janeiro de 1977.*
+
 Diogo Reis foi um dos animadores do Colégio da Imaculada Conceição.
 
 ### Acampamentos

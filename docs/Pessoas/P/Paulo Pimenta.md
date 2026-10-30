@@ -1,5 +1,7 @@
 # Paulo Pimenta
 
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 10 de Agosto de 1974.*
+
 Paulo Pimenta foi um dos animadores do Colégio da Imaculada Conceição.
 
 ## História dentro do movimento

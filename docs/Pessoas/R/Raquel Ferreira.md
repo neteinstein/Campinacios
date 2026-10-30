@@ -1,6 +1,6 @@
 # Raquel Ferreira
 
-*Segundo a lista de animadores do CAIC de 2008/2009, participou em 3 campos como animadora.*
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 14 de Setembro de 1983; entrou em 2001; participou em 3 campos de animação.*
 
 Raquel Ferreira foi de 2001 a 2004 uma dos animadoras do Colégio da Imaculada Conceição.
 

@@ -1,5 +1,7 @@
 # Joana Lima
 
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 8 de Maio de 1985; entrou em 2003; estudos ou profissão: Matemática - Coimbra; por ano: 2003 Lambretas, 2005 Mamã, 2006 Mamã, 2007 Mamã, 2008 Mamã, 2009 Mamã.*
+
 Joana Lima é desde 2003, uma das animadoras do Colégio da Imaculada Conceição.
 
 ## História dentro do movimento

@@ -1,5 +1,7 @@
 # Rui Veloso
 
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 20 de Novembro de 1980.*
+
 Rui Veloso foi um dos animadores do Colégio da Imaculada Conceição.
 
 ---

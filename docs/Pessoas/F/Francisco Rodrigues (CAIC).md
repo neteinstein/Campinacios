@@ -1,5 +1,7 @@
 # Francisco Rodrigues (CAIC)
 
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 25 de Março de 1969.*
+
 Francisco Rodrigues foi um dos animadores do Colégio da Imaculada Conceição.
 
 *Nota: Há outras pessoas chamadas Francisco Rodrigues: ver [Francisco Rodrigues](../../Movimento/Desambigua%C3%A7%C3%A3o/Francisco%20Rodrigues.md). Se procura Francisco Rodrigues, jesuíta, Capelão do Gipsy Kings em 1999, consulte [Francisco Rodrigues (jesuíta)](../F/Francisco%20Rodrigues%20%28jesu%C3%ADta%29.md).*

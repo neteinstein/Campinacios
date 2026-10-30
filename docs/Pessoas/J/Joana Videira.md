@@ -1,5 +1,7 @@
 # Joana Videira
 
+*Segundo a lista de animadores do CAIC de 2008/2009: entrou em 2000.*
+
 Joana Videira foi de 2001 a 2003 uma das animadoras do Colégio da Imaculada Conceição.
 
 ## História dentro do movimento

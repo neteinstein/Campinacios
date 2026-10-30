@@ -7,6 +7,8 @@
 - **Participante**
     - 1997 [Triciclos 1](../../Acampamentos/1997/Triciclos%201.md)
     - 2003 [Rastilho](../../Acampamentos/2003/Rastilho.md)
+- **Formação:**
+    - 2005 [Casca de Banana](../../Acampamentos/2005/Casca%20de%20Banana.md)
 - **Animador**
     - 2007 [Baúmerang](../../Acampamentos/2007/Ba%C3%BAmerang.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2008 [Arethë](../../Acampamentos/2008/Areth%C3%AB.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)

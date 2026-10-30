@@ -1,10 +1,14 @@
 # Rita Turras
 
+*Segundo a lista de animadores do CSJB de 2010: geração de 2004; campo de formação: Casca de Banana 2005; estudos ou profissão: Terapia Ocupacional.*
+
 ### Acampamentos
 
 - **Participante**
     - 2003 [Rastilho](../../Acampamentos/2003/Rastilho.md)
     - 2004 [Mikelin Descobre a Vida](../../Acampamentos/2004/Mikelin%20Descobre%20a%20Vida.md)
+- **Formação:**
+    - 2005 [Casca de Banana](../../Acampamentos/2005/Casca%20de%20Banana.md)
 - **Animadora**
     - 2005 [Academia](../../Acampamentos/2005/Academia.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2007 [M&M](../../Acampamentos/2007/M%26M.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
