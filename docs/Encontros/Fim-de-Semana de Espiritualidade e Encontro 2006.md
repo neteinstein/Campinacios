@@ -1,6 +1,6 @@
 # Fim-de-Semana de Espiritualidade e Encontro 2006
 
-O Fim-de-Semana de Espiritualidade e Encontro dos Animadores dos Campinácios realizou-se em 17, 18 e 19 de Novembro de 2006, com o tema "Reencontrar, Conhecer, Aprender". Foi um espaço de formação e encontro, aberto a todos os Animadores dos Campinácios, e actividade obrigatória para os Animadores em Formação (ver [Formação de Animadores](../Categorias/Formação%20de%20Animadores.md)). O preço era de 25 €, com o jantar de sexta a levar.
+O Fim-de-Semana de Espiritualidade e Encontro dos Animadores dos Campinácios realizou-se em 17, 18 e 19 de Novembro de 2006, com o tema "Reencontrar, Conhecer, Aprender". Foi um espaço de formação e encontro, aberto a todos os Animadores dos Campinácios, e actividade obrigatória para os Animadores em Formação (ver [Formação de Animadores](../Categorias/Formação%20de%20Animadores.md)). O preço era de 25 €, com o jantar de sexta a levar. Segundo a [agenda anual da Direcção Nacional](../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md#o-ano-da-direccao-nacional), era também o momento da apresentação dos novos animadores.
 
 Não se deve confundir com o [Encontro Nacional de Animadores 2006](Encontro%20Nacional%20de%20Animadores%202006.md), proposto para Setembro desse ano.
 
