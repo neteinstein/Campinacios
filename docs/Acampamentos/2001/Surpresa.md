@@ -12,9 +12,9 @@ O Surpresa foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que 
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Alexandra Gonçalves](../../Pessoas/A/Alexandra%20Gon%C3%A7alves.md), [Rui Junqueira](../../Pessoas/R/Rui%20Junqueira.md) e [Nuno Carvalho](../../Pessoas/N/Nuno%20Carvalho.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Zepa](../../Pessoas/J/Jos%C3%A9%20Pedro%20Ferreira.md), [Manuel Vilhena](../../Pessoas/M/Manuel%20Vilhena.md) e [Madalena Reis](../../Pessoas/M/Madalena%20Reis.md)
 
-## Testemunho de um participante
+## Testemunho {#testemunho}
 
-*Publicado, sem o nome de quem o escreveu, a partir da página original dos Campinácios.*
+*Testemunho do [Pedro Pinto](../../Pessoas/P/Pedro%20Pinto.md), participante deste campo, publicado na página original dos Campinácios (Instituto Nun'Alvres, 2 de Julho de 2004).*
 
 > Jamais esquecerei os dias que passei no Campo " Surpresa 2001" de 24 Julho a 2 de Agosto:
 >

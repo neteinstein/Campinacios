@@ -2,9 +2,9 @@
 
 Aluno dos Colégios da Companhia de Jesus que se inscreveu para participar num acampamento de Campinácios.
 
-## Testemunho
+## Testemunho {#testemunho}
 
-«Ser Campinácio», o testemunho de uma participante na página original dos Campinácios:
+«Ser Campinácio», o testemunho que a [Ana Martins](../Pessoas/A/Ana%20Martins.md) escreveu como participante, publicado na página original dos Campinácios:
 
 > E foi a montar tendas, a encontrar novos amigos e a viver para os outros que eu aprendi o que é ser Campinácio!
 >

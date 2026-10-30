@@ -5,9 +5,9 @@
 - [Director](../../Cargos/Director.md) - [Francisco Lopes](../../Pessoas/F/Francisco%20Lopes.md)
 - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Bernardo Mendonça](../../Pessoas/B/Bernardo%20Mendon%C3%A7a.md)
 
-## Testemunho de um participante
+## Testemunho de um participante {#testemunho}
 
-*Publicado, sem o nome de quem o escreveu, a partir da página original dos Campinácios.*
+*Publicado sem nome na página original dos Campinácios.*
 
 > Oi malta como vão!
 >
