@@ -16,6 +16,7 @@ Segundo a agenda e os anúncios da página dos Campinácios:
 
 - **23 de Fevereiro** — Missa de Campinácios do CAIC, dos Trotinetas.
 - **5 e 6 de Abril** — [Encontro Nacional 2008](../../Encontros/Encontro%20Nacional%202008.md).
+- **10 e 11 de Maio** — fim-de-semana de espiritualidade dos animadores, da Direcção Nacional (previsto no plano de actividades da Direcção Local do CAIC).
 - **12 a 21 de Maio** — pré-inscrições para os acampamentos.
 - **10 de Junho** — Missa de Campinácios do CAIC, dos Bicicletas.
 - **14 de Dezembro** — ceias de Natal, marcadas por cada Direcção Local.

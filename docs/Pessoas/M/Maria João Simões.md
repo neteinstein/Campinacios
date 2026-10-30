@@ -37,6 +37,7 @@ Maria João Simões, mais conhecida por Majo, é desde 1996 uma das animadoras d
 ### Encontros
 
 - 2005 [Encontro Nacional de Animadores 2005](../../Encontros/Encontro%20Nacional%20de%20Animadores%202005.md) - Equipa responsável
+- 2007 [Encontro Nacional 2007](../../Encontros/Encontro%20Nacional%202007.md) - Direcção Local do CAIC
 
 ---
 

@@ -32,6 +32,8 @@ Outra cópia, guardada pelo Arquivo.pt a 24 de Setembro de 2009 no endereço cam
 
 Tinha secções de Notícias, Documentos, História, Actividades, Testemunhos, Livro de Visitas (*Guestbook*), Agenda, Fotos, Músicas, Links, FAQ e Contactos, uma *newsletter* por email e um canal de IRC, #Campinacios. Entre as últimas notícias estavam a divulgação dos directores de 2007 e de 2008 e das equipas e fotos dos acampamentos do Verão de 2007, e ainda o CD do Encontro Nacional 2004, que se podia descarregar. Em 2009 anunciava-se «uma nova página mais dinâmica e activa para breve»: foi a [Revolução Campinácios v2.0](Revolu%C3%A7%C3%A3o%20Campin%C3%A1cios%20v2.0.md).
 
+A Direcção Local do CAIC fez também, no tempo de Campinacios.org, um *Jornal de Campinácios* mensal, que apresentava os Campinácios aos alunos com muito humor («o efeito de estufa é uma coisa que é séria, logo, acharmos por bem fazer um jornal…») e um testemunho de um animador em cada número: no primeiro, o do [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md#o-que-e-ser-campinacio); no segundo, os do [Ivo Reis](../Pessoas/I/Ivo%20Reis.md#o-que-e-ser-animador) e da [Cecília Mendonça](../Pessoas/C/Cec%C3%ADlia%20Mendon%C3%A7a.md#o-que-e-ser-animador).
+
 ## O blogue {#blogue}
 
 As novidades da página original saíam também num blogue, [campinacios.blogspot.com](https://campinacios.blogspot.com/), escrito pelo [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) de Agosto de 2004 a Março de 2008 (a última publicação, de 2014, traz só o logótipo). Por ele se segue a história da página:
