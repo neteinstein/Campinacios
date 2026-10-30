@@ -1,5 +1,7 @@
 # Hugo Rafael Ferreira
 
+*Segundo a lista de animadores do CAIC de 2008/2009, participou em 10 campos como animador.*
+
 Hugo Rafael Ferreira foi de 1996 a 2008 um dos animadores do Colégio da Imaculada Conceição.
 
 ## História dentro do movimento

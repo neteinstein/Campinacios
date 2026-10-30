@@ -1,5 +1,7 @@
 # Carla Resende
 
+*Segundo a lista de animadores do CAIC de 2008/2009, participou em 9 campos como animadora.*
+
 Carla Resende foi uma das animadoras do Colégio da Imaculada Conceição.
 
 ## História dentro do movimento
