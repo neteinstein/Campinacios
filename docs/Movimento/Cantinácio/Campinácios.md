@@ -8,7 +8,7 @@ Músicas nascidas nos acampamentos dos [Campinácios](../Campin%C3%A1cios.md) e 
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (81 músicas)
+## Índice (84 músicas)
 
 - [HINO DOS CAMPINÁCIOS](#hino-dos-campinacios) — Hino dos Campinácios (2025)
 - [ABENÇOAI SENHOR 2](#abencoai-senhor-2)
@@ -48,11 +48,13 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [GLÓRIA A TI / NON NOBIS](#gloria-a-ti-non-nobis) — Cântico de oração do Campo Non Nobis (2026)
 - [HINO DE CAMPO](#hino-de-campo) — Campo OPA (2007)
 - [HINO DOS 20 ANOS](#hino-dos-20-anos)
+- [IVANOV](#ivanov)
 - [JOVEM COMO A PLANTA](#jovem-como-a-planta)
 - [JOY D’ANANÁS](#joy-dananas)
 - [LANCHEIRA NA MÃO](#lancheira-na-mao)
 - [LÁ VAI O VENTO](#la-vai-o-vento)
 - [LESMAS](#lesmas) — Melodia Get Lucky - Daft Punk
+- [LUZES… CÂMERA… ACÇÃO…](#luzes-camera-accao) — Hino do Campo Ídolo (2004)
 - [MANGUEIRA NICE](#mangueira-nice) — Hino do Campo Mangueira Nice (2025)
 - [MINHA LINDA MEU AMOR](#minha-linda-meu-amor)
 - [NON NOBIS](#non-nobis) — Hino do Campo Non Nobis (2026)
@@ -66,6 +68,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [O PAI BUDA](#o-pai-buda)
 - [O PETROMAX](#o-petromax)
 - [ORIENTU](#orientu) — Hino do Campo OrienTu (2008)
+- [OUÉ OUÉ](#oue-oue)
 - [PÃO COM MANTEIGA](#pao-com-manteiga)
 - [PÁRA E REPARA](#para-e-repara) — Campo Graal II (2003)
 - [PATOS](#patos) — Hino do Campo Patos (2004)
@@ -1296,6 +1299,16 @@ Campinácios! […]
 Lá* - x02120; Ré* - xx0222
 ```
 
+### IVANOV {#ivanov}
+
+*Letra da secção «Músicas» da página original dos Campinácios.*
+
+```text
+Ivanov el rey de los cossacos,
+bailava en las estepes moviendo el talon
+HEY!
+```
+
 ### JOVEM COMO A PLANTA {#jovem-como-a-planta}
 
 ```text
@@ -1471,6 +1484,64 @@ O pior é quando nos lixam
 Começamos a mirrar x5
 
 Freestyle!
+```
+
+### LUZES… CÂMERA… ACÇÃO… {#luzes-camera-accao}
+
+*Hino do Campo [Ídolo](../../Acampamentos/2004/%C3%8Ddolo.md) (2004), do Pe. Nuno Tovar de Lemos sj. Letra enviada à página original dos Campinácios por Jorge Ramos.*
+
+```text
+Luzes...Câmera...Acção... (3x) (refrão)
+
+Fiz um casting a mim próprio
+nem queria acreditar
+o papel estava em aberto
+fiquei em primeiro lugar
+O Eddy Murphy e a Madonna
+foram p´ró quintal chorar
+Mas a vida é assim espectacular... (bis)
+
+(refrão)
+
+Os estúdios já estão prontos
+são no meu primeiro andar
+Hollywood é lá no bairro
+é só estrelas a passar
+O Eddy Murphy e a Madonna
+foram p´ró quintal chorar
+Mas a vida é assim espectacular... (bis)
+
+(refrão)
+
+Dona Amélia e as amigas
+que assobiam no estendal
+convidei-as p´ra fazerem
+toda a parte musical
+O Eddy Murphy e a Madonna
+foram p´ró quintal chorar
+Mas a vida é assim espectacular... (bis)
+
+(refrão)
+
+Atrevido entrei na igreja
+até subi para o andor
+comovido ele aceitou
+ser o meu realizador
+O Eddy Murphy e a Madonna
+lá voltaram a chorar
+Mas a vida é assim espectacular... (bis)
+
+(refrão)
+
+Com a bola e os amigos
+lá no estádio municipal
+Já tenho a primeira cena
+muito louca e emocional
+O Eddy Murphy e a Madonna
+talvez os deixe jogar
+Mas a vida é assim espectacular... (bis)
+
+(refrão)
 ```
 
 ### MANGUEIRA NICE {#mangueira-nice}
@@ -1816,6 +1887,17 @@ OrienTu para servir e amar
 E não te esqueças:
 O essencial és TU
 O essencial es Tu!
+```
+
+### OUÉ OUÉ {#oue-oue}
+
+*Letra da secção «Músicas» da página original dos Campinácios. O que está entre parênteses rectos é a segunda voz.*
+
+```text
+Oué, oué
+Oué, oué
+Oué, ouohh, ouohh [ah ah ah]
+Oué, ouohh, ouohh [ah ah ah]
 ```
 
 ### PÃO COM MANTEIGA {#pao-com-manteiga}
