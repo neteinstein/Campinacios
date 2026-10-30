@@ -22,7 +22,7 @@ Segundo a agenda da página dos Campinácios:
 
 ## Publicidade
 
-Os anúncios das pré-inscrições de 2006, da secção «Publicidades» da página dos Campinácios, feitos pelo [Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md) (NeTeInStEiN):
+Os anúncios das pré-inscrições de 2006, da secção «Publicidades» da página dos Campinácios, feitos pelo [Pedro Vicente](../../Pessoas/P/Pedro%20Vicente.md):
 
 <div class="wk-galeria" markdown>
 
