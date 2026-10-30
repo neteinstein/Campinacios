@@ -53,7 +53,7 @@ E tu também, porque *you really care for music, don’t you?*
 
 As músicas do Cantinácio de 2019 (3.ª edição) foram juntadas às que já estavam no Wikinácios. Quando uma música já existia e a versão de 2019 é diferente, as duas aparecem, uma a seguir à outra: primeiro a original e depois a «Versão simplificada Cantinácio 2019».
 
-- [Campinácios](Cantin%C3%A1cio/Campin%C3%A1cios.md) — 78 músicas nascidas ou cantadas nos acampamentos
+- [Campinácios](Cantin%C3%A1cio/Campin%C3%A1cios.md) — 81 músicas nascidas ou cantadas nos acampamentos
 - [Camtil](Cantin%C3%A1cio/Camtil.md) — 70 músicas nascidas nos acampamentos
 - [Cânticos](Cantin%C3%A1cio/C%C3%A2nticos.md) — 277 cânticos para as eucaristias e orações
 - [Estrangeiras](Cantin%C3%A1cio/Estrangeiras.md) — 226 músicas estrangeiras
@@ -70,9 +70,11 @@ O [Manual de Instruções](Cantin%C3%A1cio/Manual%20de%20Instru%C3%A7%C3%B5es.md
 
 - [Aplausos](Cantin%C3%A1cio/Aplausos.md) — 138 palmas, aplausos e gritos de roda
 
-## Gravações
+## Gravações {#gravacoes}
 
 Aqui ficam algumas músicas gravadas por [João Monteiro](../Pessoas/J/Jo%C3%A3o%20Monteiro.md) para efeitos nostalgicos. 
+
+<audio controls src="../assets/musicas/Cantin%C3%A1cio/01%20-%20Canoa.mp3"></audio><br>01 - Canoa
 
 <audio controls src="../assets/musicas/Cantin%C3%A1cio/02%20-%20Everybody%20Bate%20Palmas.mp3"></audio><br>02 - Everybody Bate Palmas
 
@@ -85,6 +87,8 @@ Aqui ficam algumas músicas gravadas por [João Monteiro](../Pessoas/J/Jo%C3%A3o
 <audio controls src="../assets/musicas/Cantin%C3%A1cio/06%20-%20Pedacinho%20de%20Deus.mp3"></audio><br>06 - Pedacinho de Deus
 
 <audio controls src="../assets/musicas/Cantin%C3%A1cio/07%20-%20Canoa.mp3"></audio><br>07 - Canoa
+
+<audio controls src="../assets/musicas/Cantin%C3%A1cio/08%20-%20Aprendiz%20de%20Viajante.mp3"></audio><br>08 - Aprendiz de Viajante
 
 <audio controls src="../assets/musicas/Cantin%C3%A1cio/09%20-%20Campin%C3%A1cios.mp3"></audio><br>09 - Campinácios
 

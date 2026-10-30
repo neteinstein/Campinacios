@@ -2,6 +2,8 @@
 
 O Cinena foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que decorreu de 20 a 29 de Agosto de 2001 em [Fonte de Nena](../../Restrito/Locais%20de%20Acampamento/Fonte%20de%20Nena%20%28Caldelas%29.md) (Caldelas).
 
+O hino deste campo foi a música "Cinena" (ver [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#cinena)).
+
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Pedro Castro](../../Pessoas/P/Pedro%20Castro.md)
