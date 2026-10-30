@@ -128,7 +128,16 @@ Tem que haver uma diversidade e complementação dos vários membros da família
 
 ## Plano de Formação de Animadores {#plano-de-formacao}
 
-Em 2009 foi publicado o plano de formação para os novos animadores, assente nos Estatutos e na ideia de que a qualidade dos acampamentos depende da formação de quem os anima. Em resumo:
+O primeiro plano de formação, assinado em Cernache a 25 de Janeiro de 2005 pelo [Assistente Nacional](../Categorias/Assistentes%20Nacionais.md) [José da Silva Almeida](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md) sj, partia da mesma ideia: a qualidade e o sucesso dos acampamentos inacianos dependem da qualidade, da maturidade e da formação dos animadores. Em resumo:
+
+- **Requisitos:** ter sido participante dos acampamentos, ter 18 anos ou mais, ser convidado pela Direcção Local a começar a formação e ser aceite pela [Direcção Nacional](../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) e pelo Assistente Nacional como candidato a animador.
+- **Duração:** dois anos, obrigatórios para todos os novos animadores.
+- **Acções de formação:** um acampamento de formação e três fins-de-semana (Pedagogia e Espiritualidade Inaciana; Psicologia Evolutiva e Relações Humanas; Primeiros Socorros e Segurança), além do Encontro Nacional de Animadores sempre que se realizasse.
+- **Custos:** em parte pagos pelo GRACOS, por diligência do Assistente Nacional, e em parte por cada participante.
+- **Animar durante a formação:** o candidato podia animar um acampamento, se fosse convidado, mas só era oficialmente animador depois dos dois anos, com a confirmação da Direcção Nacional.
+- **Excepções:** uma acção podia ser substituída por outra da Pastoral Intercolegial e Universitária dos Jesuítas ou de uma instituição reconhecida, como a Cruz Vermelha, com a aprovação da Direcção Local e conhecimento da Direcção Nacional; e os animadores de outros movimentos, como o [Camtil](Camtil.md) e os [Gambozinos](Gambozinos.md), não tinham de fazer o percurso completo, mas a Direcção Local tinha de os propor à Direcção Nacional.
+
+Em 2009 foi publicado um novo plano de formação para os novos animadores, assente nos Estatutos e na ideia de que a qualidade dos acampamentos depende da formação de quem os anima. Em resumo:
 
 - **Quem pode ser proposto pela Direcção Local:** quem foi participante dos acampamentos (de preferência com o acampamento de Lambretas feito ou em lista de espera), tem 18 anos ou os faz nesse ano, já saiu do colégio ou está a repetir o 12.º ano, é aprovado pela [Direcção Nacional](../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) e se compromete com o plano. Os outros casos são vistos pela Direcção Local e pela Direcção Nacional.
 - **Duração:** um ano lectivo, de Setembro a Setembro, com participação no Encontro Nacional de Animadores e no Encontro Nacional.
