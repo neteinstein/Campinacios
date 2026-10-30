@@ -1,6 +1,6 @@
 # Já Dá
 
-**Já Dá** foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) realizado em 2017. O tema do ano foi *Guarda tudo no teu coração*.
+**Já Dá** foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) realizado em 2017 em [Souto (Terras de Bouro)](../../Restrito/Locais%20de%20Acampamento/Souto%20%28Terras%20de%20Bouro%29.md). O tema do ano foi *Guarda tudo no teu coração*.
 
 ### Animadores
 
@@ -9,6 +9,7 @@
 
 ## Participantes que se tornaram animadores
 
+- [Chico Silva](../../Pessoas/C/Chico%20Silva.md)
 - [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
 
 ---
