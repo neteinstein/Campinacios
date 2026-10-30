@@ -23,6 +23,7 @@
 - [Lourenço Eiró](Louren%C3%A7o%20Eir%C3%B3.md)
 - [Lourenço Matias](Louren%C3%A7o%20Matias.md)
 - [Luís Boavida](Lu%C3%ADs%20Boavida.md)
+- [Luís Faria](Lu%C3%ADs%20Faria.md)
 - [Luís Ferreira do Amaral](Lu%C3%ADs%20Ferreira%20do%20Amaral.md)
 - [Luís Fontes](Lu%C3%ADs%20Fontes.md)
 - [Luís Freire](Lu%C3%ADs%20Freire.md)

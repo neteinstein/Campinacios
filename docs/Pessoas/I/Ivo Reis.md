@@ -1,5 +1,7 @@
 # Ivo Reis
 
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 27 de Dezembro de 1985; entrou em 2003; estudos ou profissão: Medicina - Coimbra; por ano: 2001 Bicicletas, 2003 Lambretas, 2005 D-Adjunto, 2006 Director, 2007 Director, 2008 Director.*
+
 Ivo Reis, é um dos animadores do Colégio da Imaculada Conceição.
 
 ## História dentro do movimento

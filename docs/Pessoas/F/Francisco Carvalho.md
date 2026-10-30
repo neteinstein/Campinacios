@@ -1,5 +1,7 @@
 # Francisco Carvalho
 
+*Segundo a lista de animadores do CSJB de 2010: nasceu a 29 de Junho de 1989.*
+
 Francisco Carvalho é desde 2008 um dos animadores do Colégio São João de Brito.
 
 ### Acampamentos

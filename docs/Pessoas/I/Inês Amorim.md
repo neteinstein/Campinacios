@@ -1,5 +1,7 @@
 # Inês Amorim
 
+*Segundo a lista de animadores do CSJB de 2010: geração de 2006; campo de formação: -.*
+
 ### Acampamentos
 
 - **Animadora**

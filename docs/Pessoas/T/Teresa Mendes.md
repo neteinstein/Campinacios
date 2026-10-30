@@ -1,5 +1,7 @@
 # Teresa Mendes
 
+*Segundo a lista de animadores do CSJB de 2010: nasceu a 1 de Junho de 1990.*
+
 Teresa Mendes mais conhecida por Nini.
 
 ### Acampamentos

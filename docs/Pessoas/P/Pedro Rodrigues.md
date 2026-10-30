@@ -1,5 +1,7 @@
 # Pedro Rodrigues
 
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 9 de Abril de 1986; entrou em 2004; por ano: 2004 Lambretas, 2005 F. / Ani. Livre.*
+
 Pedro Rodrigues foi de 2004 a 2006 um dos animadores do Colégio da Imaculada Conceição.
 
 ## História dentro do movimento

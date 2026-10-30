@@ -1,5 +1,7 @@
 # Teresa Martinho
 
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 15 de Abril de 1976; participou em 7 campos de animação.*
+
 Teresa Martinho foi uma dos animadoras do Colégio da Imaculada Conceição.
 
 ### Família

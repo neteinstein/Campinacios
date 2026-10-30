@@ -1,5 +1,7 @@
 # Diogo Cordeiro Ferreira
 
+*Segundo a lista de animadores do CSJB de 2010: nasceu a 15 de Março de 1987; geração de 2005; estudos ou profissão: Economia; por ano: 1998 Triciclos, 1999 Triciclos, 2001 Trotinetas, 2003 Bicicletas, 2004 Lambretas, 2005 Lambretas, 2006 Ani. Equipa.*
+
 Diogo Cordeiro Ferreira, mais conhecido por Goga, é animador do CSJB.
 
 ## História dentro do movimento

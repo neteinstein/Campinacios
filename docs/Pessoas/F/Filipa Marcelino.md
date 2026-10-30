@@ -1,5 +1,7 @@
 # Filipa Marcelino
 
+*Segundo a lista de animadores do CSJB de 2010: nasceu a 9 de Junho de 1990.*
+
 ### Acampamentos
 
 - **Participante:**

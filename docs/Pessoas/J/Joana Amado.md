@@ -1,5 +1,7 @@
 # Joana Amado
 
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 13 de Abril de 1986; entrou em 2008; estudos ou profissão: Estudos Artisticos - Coimbra; por ano: 2000 Trotinetas, 2001 Bicicletas, 2009 Form/Tia.*
+
 Joana Amado é desde 2008 um das animadoras do Colégio da Imaculada Conceição.
 
 ## História dentro do movimento

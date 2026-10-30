@@ -1,5 +1,7 @@
 # Jorge Gonçalves
 
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 31 de Outubro de 1982.*
+
 Jorge Gonçalves foi um dos animadores do Colégio da Imaculada Conceição.
 
 ---

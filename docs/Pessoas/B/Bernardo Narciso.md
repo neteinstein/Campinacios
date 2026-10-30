@@ -1,5 +1,7 @@
 # Bernardo Narciso
 
+*Segundo a lista de animadores do CSJB de 2010: nasceu a 7 de Fevereiro de 1986; geração de 2004; campo de formação: Casca de Banana 2005; estudos ou profissão: Gestão; por ano: 1999 Trotinetas, 2001 Bicicletas, 2003 Lambretas, 2004 Lambretas, 2005 Ani. Equipa, 2006 Ani. Livre, 2007 D-Adjunto.*
+
 ## História dentro do movimento
 
 ### Cargos
@@ -12,6 +14,8 @@
     - 1997 [Triciclos 1](../../Acampamentos/1997/Triciclos%201.md)
     - 2003 [Rastilho](../../Acampamentos/2003/Rastilho.md)
     - 2004 [Mikelin Descobre a Vida](../../Acampamentos/2004/Mikelin%20Descobre%20a%20Vida.md)
+- **Formação:**
+    - 2005 [Casca de Banana](../../Acampamentos/2005/Casca%20de%20Banana.md)
 - **Animador**
     - 2005 [Gaivota](../../Acampamentos/2005/Gaivota.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2006 [Long Tao](../../Acampamentos/2006/Long%20Tao.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)

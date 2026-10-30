@@ -12,3 +12,4 @@
 - [Ema Patrícia](Ema%20Patr%C3%ADcia.md)
 - [Emanuel Lopes](Emanuel%20Lopes.md)
 - [Emanuela Ottavi](Emanuela%20Ottavi.md)
+- [Eva Juliana Alves Barbosa](Eva%20Juliana%20Alves%20Barbosa.md)

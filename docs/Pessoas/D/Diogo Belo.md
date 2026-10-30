@@ -1,5 +1,7 @@
 # Diogo Belo
 
+*Segundo a lista de animadores do CSJB de 2010: geração de 2006; campo de formação: Graal III; estudos ou profissão: Design de Equipamento.*
+
 ### Acampamentos
 
 - **Participante:**

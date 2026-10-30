@@ -1,5 +1,7 @@
 # Margarida Rodrigues
 
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 29 de Setembro de 1978; entrou em 1995; por ano: 1990 Trotinetas, 1991 Trotinetas, 1992 Bicicletas, 1993 Bicicletas, 1995 Lambretas, 1996 Tia, 1997 Ani. Livre, 1998 Dir. Adjunta, 2000 Ani. Livre, 2004 Tia.*
+
 Margarida Rodrigues foi de 1995 a 2004 uma das animadoras do Colégio da Imaculada Conceição.
 
 ## História dentro do movimento

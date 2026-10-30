@@ -6,6 +6,7 @@
 
 - [Francisco Moitinho Almeida](../../Pessoas/F/Francisco%20Moitinho%20Almeida.md), animador do CSJB desde 2009.
 - [Kiko](../../Pessoas/F/Francisco%20Almeida%20%28Kiko%29.md), antigo animador do CSJB.
+- [Francisco Almeida (Quico)](../../Pessoas/F/Francisco%20Almeida%20%28Quico%29.md), animador do CSJB.
 
 ---
 

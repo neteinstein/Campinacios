@@ -1,5 +1,7 @@
 # Patrícia Cabaço
 
+*Segundo a lista de animadores do CSJB de 2010: geração de 2003; campo de formação: Graal II.*
+
 ### Acampamentos
 
 - **Formação**

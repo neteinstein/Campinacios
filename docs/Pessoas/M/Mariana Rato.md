@@ -1,5 +1,7 @@
 # Mariana Rato
 
+*Segundo a lista de animadores do CSJB de 2010: nasceu a 24 de Fevereiro de 1990.*
+
 Mariana Rato mais conhecida por Mimas ou Mimi.
 
 ### Acampamentos

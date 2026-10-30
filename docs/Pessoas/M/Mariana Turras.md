@@ -1,5 +1,7 @@
 # Mariana Turras
 
+*Segundo a lista de animadores do CSJB de 2010: nasceu a 24 de Setembro de 1989.*
+
 ### Acampamentos
 
 - **Participante:**
