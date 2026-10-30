@@ -2,7 +2,7 @@
 
 O Encontro Nacional 2005 realizou-se no [Colégio das Caldinhas](../Movimento/CC.md), de 15 a 17 de Abril de 2005, e foi organizado pela [Direcção Local do CC](../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md). As inscrições faziam-se junto da Direcção Local de cada colégio e fecharam a 6 de Abril (o cartaz dava como limite o dia 18 de Março).
 
-[![Cartaz do Encontro Nacional 2005, em azul, branco e laranja: «Inscrição — limite até 18 de Março», «Encontro Nacional 15/04/05 a 17/04/05», o logótipo dos Campinácios, uma fechadura e o lema «]A olhar também se vê[»](../assets/imagens/Encontro%20Nacional%20de%202005.jpg)](../assets/imagens/Encontro%20Nacional%20de%202005.jpg)
+[![Cartaz do Encontro Nacional 2005, em azul, branco e laranja: «Inscrição — limite até 18 de Março», «Encontro Nacional 15/04/05 a 17/04/05», o logótipo dos Campinácios, uma fechadura e o lema «A olhar também se vê», entre parênteses rectos virados ao contrário](../assets/imagens/Encontro%20Nacional%20de%202005.jpg)](../assets/imagens/Encontro%20Nacional%20de%202005.jpg)
 
 Foi mais longo do que os anteriores, de sexta-feira ao fim do dia até domingo, e as actividades fizeram-se por escalões: cada participante inscrevia-se no escalão do campo que tinha feito no ano anterior, e os animadores eram os dos campos desse ano. Os animadores podiam vir o fim-de-semana inteiro ou só no sábado, para a missa, o jantar e o serão.
 
