@@ -2,6 +2,8 @@
 
 O Ídolo foi um acampamento de Trotinetas, que decorreu de 3 a 12 de Agosto de 2004 em [Vila da Ponte](../../Restrito/Locais%20de%20Acampamento/Vila%20da%20Ponte%20%28Montalegre%29.md) (Montalegre).
 
+O hino deste campo foi a música "Luzes… Câmera… Acção…", do Pe. Nuno Tovar de Lemos sj (ver [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#luzes-camera-accao)).
+
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Pedro Pinheiro](../../Pessoas/P/Pedro%20Pinheiro.md)

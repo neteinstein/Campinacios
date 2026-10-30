@@ -30,6 +30,23 @@ No YouTube há um [vídeo de introdução do campo](https://www.youtube.com/watc
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Renato Costa](../../Pessoas/R/Renato%20Costa.md) e [Joaquim Abreu](../../Pessoas/J/Joaquim%20Abreu.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Diogo Carneiro](../../Pessoas/D/Diogo%20Jos%C3%A9%20Nunes%20Carneiro.md), [Jonifa](../../Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md), [Ana Luísa Reis](../../Pessoas/A/Ana%20Lu%C3%ADsa%20Reis.md), [Marta Croca](../../Pessoas/M/Marta%20Croca.md), [Madalena Mariz](../../Pessoas/M/Madalena%20Mariz.md) e [Susana Vaz Pedro](../../Pessoas/S/Susana%20Vaz%20Pedro.md)
 
+## Imaginarium
+
+O acampamento passava-se em Edo, o nome antigo de Tóquio, no Japão de 1613. Na carta-convite, a «Missiva do Xogun», o Xogun convidava para uma festa de 10 dias, a celebrar os 10 anos de paz depois da batalha de Sekigahara, com o seu Daimyo mais fiel, a fundadora do Xogunato (a Mamã), que levava a irmã e um guarda pessoal, os Samurais seus companheiros de batalha, artesãos com talentos diversos e muitos jovens viajantes.
+
+A história, dia a dia, contada no blogue do acampamento:
+
+1. Começa a festa dos 10 anos de paz.
+2. Um terramoto: cada artesão recolhe 7 jovens como aprendizes, para a reconstrução ser mais rápida, e ergue-se a bandeira do OrienTu.
+3. Chega a notícia de que o resto do país também está no caos, e as equipas são mandadas ajudar os seis cantos do país.
+4. As equipas partem e servem; os caminhos cruzam-se e todos se juntam numa caminhada de regresso.
+5. A chegada, com uma cerimónia de recepção.
+6. Um dia para descansar e rezar, até o Xogun e a corte adoecerem: são escolhidas pessoas capazes de conduzir o país durante a crise.
+7. Durante um dia e meio, três regentes e as suas equipas governam o país.
+8. Cada um descobre o seu talento, para se tornar artesão; ao fim do dia chega um grupo abalado pela tragédia, e os talentos de todos servem para o alegrar.
+9. O Japão abre-se ao mundo e envia os seus melhores como representantes; tudo acaba com uma grande festa.
+10. A partida: cada um leva o seu talento, para orientar a reconstrução do mundo, porque «o essencial és Tu».
+
 ## Música
 
 ### Hino

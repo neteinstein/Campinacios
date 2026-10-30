@@ -1,7 +1,8 @@
 # Encontro Nacional 2007
 
-O Encontro Nacional 2007 realizou-se no CAIC tendo como Imaginarium a Gália de Astérix e Obélix.
+O Encontro Nacional 2007 realizou-se no CAIC, a 3 e 4 de Março de 2007, tendo como Imaginarium a Gália de Astérix e Obélix.
 
+[![Cartaz do Encontro Nacional 2007: ruínas romanas com colunas de tijolo, uma delas com «CAIC» escrito, o Astérix e o Obélix a correr, o logótipo dos Campinácios e a data «III e IV de Martiu de 2007»](../assets/imagens/Encontro%20Nacional%20de%202007%20%284%29.jpg)](../assets/imagens/Encontro%20Nacional%20de%202007%20%284%29.jpg)
 [![Bailarinos de fogo a actuar de noite, com poi e bastões em chamas](../assets/imagens/Encontro%20Nacional%20de%202007.png)](../assets/imagens/Encontro%20Nacional%20de%202007.png)
 [![Dois animadores mascarados, um de Pai Natal e outro com lenço na cabeça e óculos escuros, com bigodes postiços](../assets/imagens/Encontro%20Nacional%20de%202007%20%282%29.jpg)](../assets/imagens/Encontro%20Nacional%20de%202007%20%282%29.jpg)
 [![Três animadores a brincar ao ar livre, um deitado a ser alimentado com uvas, outro com um megafone de brinquedo, outro vestido de trajo medieval](../assets/imagens/Encontro%20Nacional%20de%202007%20%283%29.jpg)](../assets/imagens/Encontro%20Nacional%20de%202007%20%283%29.jpg)

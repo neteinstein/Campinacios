@@ -4,6 +4,10 @@ O Encontro Nacional de Animadores de 2004 realizou-se em 11 e 12 de Dezembro de 
 
 Foi o primeiro Encontro Nacional de Animadores, organizado pelo então [Assistente Nacional](../Categorias/Assistentes%20Nacionais.md) [José Silva](../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md) sj.
 
+[![Cartaz do I Encontro Nacional de Animadores: um rancho folclórico em trajes tradicionais, com acordeões, e os textos «I Encontro Nacional de Animadores», «ENA que fixe!», «12 e 13 de Dezembro 2004» e «Gafanha da Nazaré - Schoenstatt»](../assets/imagens/Encontro%20Nacional%20de%20Animadores%202004.jpg)](../assets/imagens/Encontro%20Nacional%20de%20Animadores%202004.jpg)
+
+O encontro, da responsabilidade da [Direcção Nacional](../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md), ficou no lugar do fim-de-semana de formação previsto para 30 e 31 de Outubro de 2004, que foi cancelado, e serviu também de actividade de formação para os animadores mais recentes: com o acampamento de formação da Páscoa de 2005, o [Casca de Banana](../Acampamentos/2005/Casca%20de%20Banana.md), foi uma das duas actividades de formação desse ano. As inscrições faziam-se na Direcção Local de cada colégio e fechavam a 3 de Dezembro, mas o prazo foi alargado até dia 8: a 4 de Dezembro estavam inscritos cerca de 40 animadores.
+
 ## Participantes
 
 ### CSJB
