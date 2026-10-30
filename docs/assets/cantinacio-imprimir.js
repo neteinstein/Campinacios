@@ -16,11 +16,14 @@
   // As secções de músicas que se podem escolher na configuração.
   var ESCOLHAS = ["Campinácios", "Camtil", "Cânticos", "Estrangeiras", "Gambozinos", "Portuguesas"];
 
+  // As secções da roda, que também se podem escolher.
+  var RODA_PAGINAS = ["Musiquitas", "Aplausos", "Lengalengas"];
+
   // Nas músicas com duas versões, esta legenda (em itálico) separa a original,
   // que vem antes, da simplificada do Cantinácio de 2019, que vem depois.
   var LEGENDA_SIMPLIFICADA = /^Versão simplificada Cantinácio 2019:?$/;
 
-  // Pela ordem do Cantinácio de 2019, excepto as Portuguesas e as Estrangeiras, que vão depois dos Cânticos, e os Aplausos, que ficam no fim; o título é o da secção nessa edição.
+  // Pela ordem do Cantinácio de 2019, excepto as Portuguesas e as Estrangeiras, que vão depois dos Cânticos, e as secções da roda (Musiquitas, Aplausos e Lengalengas), que ficam no fim; o título é o da secção nessa edição.
   var SECCOES = [
     { pagina: "Prefácio", titulo: "Prefácio", texto: true, preambulo: true },  // preambulo: vai antes do índice, como em 2019, e não entra nele
     { pagina: "Campinácios", titulo: "Hits de Campo", capa: "p089.jpg" },
@@ -32,7 +35,9 @@
     { titulo: "Música Viva", viva: true },  // QR Codes dos vídeos das músicas; vai antes do manual
     { pagina: "Manual de Instruções", titulo: "Manual de Instruções", capa: "p175.jpg", texto: true },
     { pagina: "Escalas", titulo: "Escalas", texto: true },
-    { pagina: "Aplausos", titulo: "Não há palmas nos Campinácios", capa: "p111.jpg", fluir: true }  // fluir: as músicas seguem-se sem começar página nova
+    { pagina: "Musiquitas", titulo: "Musiquitas", fluir: true },
+    { pagina: "Aplausos", titulo: "Não há palmas nos Campinácios", capa: "p111.jpg", fluir: true },  // fluir: as músicas seguem-se sem começar página nova
+    { pagina: "Lengalengas", titulo: "Lengalengas", fluir: true }
   ];
 
   // Como no Cantinácio de 2019: Arial, letras e acordes a 11 pt, títulos a 18 pt.
@@ -232,7 +237,7 @@
       filhos.forEach(function (el) {
         if (el.tagName === "H2") {
           var t = texto(el);
-          dentro = /^Músicas$|^Aplausos$/.test(t);
+          dentro = /^(Músicas|Musiquitas|Aplausos|Lengalengas)$/.test(t);
           actual = null;
           return;
         }
@@ -617,7 +622,7 @@
           numero++;
           // Cada página começa com uma música: só se junta outra a uma página
           // se couber inteira nela (as músicas maiores do que uma página, e as
-          // dos Aplausos, seguem-se sem esta regra).
+          // das secções da roda, seguem-se sem esta regra).
           var b = s.fluir ? livro.blocoMusica(m, numero, largura) : livro.colocarNaPagina(function () {
             return livro.blocoMusica(m, numero, largura);
           });
@@ -1222,8 +1227,9 @@
 
   // Monta o Cantinácio numa moldura escondida e transforma-o num PDF que se
   // descarrega. «opcoes»: { seccoes: [páginas escolhidas], musicas: {página:
-  // [uma marca por música, false = fica de fora]} (também "Aplausos"),
-  // originais, simplificadas, viva, aplausos, manual, escalas }.
+  // [uma marca por música, false = fica de fora]} (também as secções da roda),
+  // originais, simplificadas, viva, roda: [secções da roda escolhidas], manual,
+  // escalas }.
   function gerar(base, opcoes, estado) {
     var fontes = new URL("../assets/fontes/", base).href;
     var moldura = document.createElement("iframe");
@@ -1253,7 +1259,7 @@
     }));
 
     var seccoes = SECCOES.filter(function (s) {
-      if (s.pagina === "Aplausos") return opcoes.aplausos;
+      if (RODA_PAGINAS.indexOf(s.pagina) >= 0) return opcoes.roda.indexOf(s.pagina) >= 0;
       if (s.pagina === "Manual de Instruções") return opcoes.manual;
       if (s.pagina === "Escalas") return opcoes.escalas;
       if (s.viva) return opcoes.viva;
@@ -1290,14 +1296,21 @@
   var emCurso = null;  // a geração em curso: { cancelada }
 
   // As linhas da configuração que se podem abrir para escolher, uma a uma, as
-  // músicas (ou os aplausos) que entram. «chave» é a página lida; «nome» e
+  // músicas (ou os aplausos, as musiquitas e as lengalengas) que entram. «chave» é a página lida; «nome» e
   // «valor» são os da caixa da linha.
   var LINHAS = ESCOLHAS.map(function (s) {
     return { chave: s, nome: "seccao", valor: s, rotulo: s, coisas: "músicas" };
   });
-  var APLAUSOS = { chave: "Aplausos", nome: "aplausos", valor: "1", rotulo: "Incluir Aplausos",
-    painel: "Aplausos", coisas: "aplausos" };
-  var TODAS_AS_LINHAS = LINHAS.concat([APLAUSOS]);
+  // As secções da roda, que não têm versões nem vídeos.
+  var RODA = [
+    { chave: "Musiquitas", nome: "roda", valor: "Musiquitas", rotulo: "Incluir Musiquitas",
+      painel: "Musiquitas", coisas: "musiquitas" },
+    { chave: "Aplausos", nome: "roda", valor: "Aplausos", rotulo: "Incluir Aplausos",
+      painel: "Aplausos", coisas: "aplausos" },
+    { chave: "Lengalengas", nome: "roda", valor: "Lengalengas", rotulo: "Incluir Lengalengas",
+      painel: "Lengalengas", coisas: "lengalengas" }
+  ];
+  var TODAS_AS_LINHAS = LINHAS.concat(RODA);
 
   // O que se lê quando a configuração se abre pela primeira vez: página ->
   // [títulos] (null se não se conseguiu ler); e o que está escolhido:
@@ -1333,8 +1346,8 @@
         caixa("simplificadas", "1", "Mostrar versões simplificadas (Cantinácio 2019)") +
         caixa("viva", "1", "Música Viva", true) +
         "</fieldset>" +
-        "<fieldset><legend>Aplausos:</legend>" +
-        linhaEscolhivel(APLAUSOS) +
+        "<fieldset><legend>Para a roda:</legend>" +
+        RODA.map(linhaEscolhivel).join("") +
         "</fieldset>" +
         "<fieldset><legend>Aprender a tocar:</legend>" +
         caixa("manual", "1", "Incluir Manual de Instruções") +
@@ -1366,10 +1379,10 @@
         "Uma secção com o QR Code do vídeo de cada música que o tenha";
       var configMusicas = dialogo.querySelector(".wk-cv__config-musicas");
 
-      var escolhidas = function () {
+      var escolhidas = function (nome) {
         // Não serve «:checked»: no Chromium não apanha as caixas a meio
         // (indeterminate), as das secções com só algumas músicas.
-        return Array.prototype.slice.call(form.querySelectorAll('[name="seccao"]'))
+        return Array.prototype.slice.call(form.querySelectorAll('[name="' + (nome || "seccao") + '"]'))
           .filter(function (c) { return c.checked; })
           .map(function (c) { return c.value; });
       };
@@ -1379,7 +1392,7 @@
       var validar = function () {
         if (emCurso) return;
         activarVersoes();
-        var falta = !comMusicas() && !form.aplausos.checked ? "Escolha pelo menos uma secção de músicas ou os Aplausos." :
+        var falta = !comMusicas() && !escolhidas("roda").length ? "Escolha pelo menos uma secção de músicas ou da roda." :
           comMusicas() && !form.originais.checked && !form.simplificadas.checked ? "Escolha pelo menos uma das versões." : "";
         gerarEl.disabled = !!falta;
         estadoEl.textContent = falta;
@@ -1521,11 +1534,11 @@
         var opcoes = {
           seccoes: escolhidas(),
           musicas: marcadas,
-          // Só com Aplausos, que não têm versões, entra o texto tal como está.
+          // Só com as secções da roda, que não têm versões, entra o texto tal como está.
           originais: musicas ? form.originais.checked : true,
           simplificadas: musicas && form.simplificadas.checked,
           viva: musicas && form.viva.checked,
-          aplausos: form.aplausos.checked,
+          roda: escolhidas("roda"),
           manual: form.manual.checked,
           escalas: form.escalas.checked
         };
