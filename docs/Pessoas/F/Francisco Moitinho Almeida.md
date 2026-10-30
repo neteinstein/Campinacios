@@ -1,5 +1,7 @@
 # Francisco Moitinho Almeida
 
+*Segundo a lista de animadores do CSJB de 2010: nasceu a 3 de Janeiro de 1990.*
+
 ### Acampamentos
 
 - **Participante:**
@@ -18,7 +20,7 @@
 
 ---
 
-**Outros nomes:** Francisco Moitinho de Almeida
+**Outros nomes:** Francisco Moitinho de Almeida · Joly
 
 | Categorias |
 | --- |

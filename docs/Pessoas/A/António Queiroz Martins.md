@@ -1,5 +1,7 @@
 # António Queiroz Martins
 
+*Segundo a lista de animadores do CSJB de 2010: nasceu a 17 de Março de 1989; geração de 2007; campo de formação: Exodo; estudos ou profissão: Direito.*
+
 António Eduardo Coutinho Lopes de Queiroz Martins, conhecido por Edu, antigo aluno do Colégio S. João de Brito, é animador dos Campinácios desde 2008.
 
 ### Cargos

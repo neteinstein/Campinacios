@@ -7,6 +7,7 @@
 - [Teresa Cannas](Teresa%20Cannas.md)
 - [Teresa Cardoso](Teresa%20Cardoso.md)
 - [Teresa Cortês Ferreira](Teresa%20Cort%C3%AAs%20Ferreira.md)
+- [Teresa Dominguez](Teresa%20Dominguez.md)
 - [Teresa Fonseca](Teresa%20Fonseca.md)
 - [Teresa Martinho](Teresa%20Martinho.md)
 - [Teresa Mendes](Teresa%20Mendes.md)

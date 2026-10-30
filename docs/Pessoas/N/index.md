@@ -9,6 +9,7 @@
 - [Nuno Ferreira](Nuno%20Ferreira.md)
 - [Nuno Mesquita](Nuno%20Mesquita.md)
 - [Nuno Miguel Antunes](Nuno%20Miguel%20Antunes.md)
+- [Nuno Mota](Nuno%20Mota.md)
 - [Nuno Santos](Nuno%20Santos.md)
 - [Nuno Simões](Nuno%20Sim%C3%B5es.md)
 - [Nuno Tomás](Nuno%20Tom%C3%A1s.md)

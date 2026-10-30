@@ -2,7 +2,7 @@
 
 Animadores do Colégio das Caldinhas
 
-## Páginas nesta categoria (177)
+## Páginas nesta categoria (178)
 
 - [Amílcar Sousa](../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
 - [Ana Carolina Bardi](../Pessoas/A/Ana%20Carolina%20Bardi.md)
@@ -64,6 +64,7 @@ Animadores do Colégio das Caldinhas
 - [Eduardo Lima](../Pessoas/E/Eduardo%20Lima.md)
 - [Eduardo Rodrigues](../Pessoas/E/Eduardo%20Rodrigues.md)
 - [Elias Oliveira](../Pessoas/E/Elias%20Oliveira.md)
+- [Eva Juliana Alves Barbosa](../Pessoas/E/Eva%20Juliana%20Alves%20Barbosa.md)
 - [Fábio Teixeira](../Pessoas/F/F%C3%A1bio%20Teixeira.md)
 - [Fernando Miguel Guimarães](../Pessoas/F/Fernando%20Miguel%20Guimar%C3%A3es.md)
 - [Fernando Monteiro](../Pessoas/F/Fernando%20Monteiro.md)

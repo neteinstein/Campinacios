@@ -1,5 +1,7 @@
 # Rita Roxo
 
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 3 de Setembro de 1984; entrou em 2002; estudos ou profissão: Enfermeira - Lisboa; por ano: 1995 Triciclos (2)(M), 1996 Triciclos (M), 2000 Bicicletas, 2002 Formação, 2003 Ani. Equipa, 2004 Ani. Equipa, 2005 Ani. Equipa, 2006 Ani. Equipa, 2007 Ani. Livre.*
+
 Rita Roxo é desde 2002 um das animadoras do Colégio da Imaculada Conceição.
 
 ## História dentro do movimento

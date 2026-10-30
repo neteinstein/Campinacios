@@ -1,5 +1,7 @@
 # Marta Carneiro
 
+*Segundo a lista de animadores do CAIC de 2008/2009: por ano: 2009 Ani. Livre.*
+
 Marta Oliveira Cerejeira Carneiro, nascida a 30 de Janeiro de 1982 é desde 1999 uma das animadoras do Colégio das Caldinhas
 
 ### Cargos

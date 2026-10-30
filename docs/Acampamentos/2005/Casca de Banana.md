@@ -22,6 +22,7 @@ Campo de Formação que decorreu na casa de Singeverga na Páscoa de 2005, de 28
 - [Diana Pereira](../../Pessoas/D/Diana%20Pereira.md)
 - [Diogo Torcato](../../Pessoas/D/Diogo%20Torcato.md)
 - [Duarte Dias](../../Pessoas/D/Duarte%20Dias.md)
+- [Eva Juliana Alves Barbosa](../../Pessoas/E/Eva%20Juliana%20Alves%20Barbosa.md)
 - [Filipe Matos](../../Pessoas/F/Filipe%20Matos.md)
 - [Francisca Mendes](../../Pessoas/F/Francisca%20Mendes.md)
 - [Francisco Silva Rodrigues](../../Pessoas/F/Francisco%20Silva%20Rodrigues.md)

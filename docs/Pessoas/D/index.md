@@ -9,6 +9,7 @@
 - [Diana Conceição](Diana%20Concei%C3%A7%C3%A3o.md)
 - [Diana Duarte](Diana%20Duarte.md)
 - [Diana Freitas](Diana%20Freitas.md)
+- [Diana Gala](Diana%20Gala.md)
 - [Diana Gapo](Diana%20Gapo.md)
 - [Diana Pereira](Diana%20Pereira.md)
 - [Diana Quintela](Diana%20Quintela.md)
