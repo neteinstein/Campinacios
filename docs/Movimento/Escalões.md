@@ -13,6 +13,20 @@ Os escalões são os grupos de idades (e de anos de escolaridade) em que se divi
 
 Os acampamentos do início (1989) ainda não tinham escalão: o movimento não tinha sequer o nome de Campinácios nem se tinham definido os nomes dos escalões, e por isso o [Pedreira](../Acampamentos/1989/Pedreira.md), apesar de ter participantes da idade dos Triciclos, não é um acampamento de Triciclos. Os escalões ficaram definidos na reunião de Fevereiro de 1990, na casa das Mimosas, em que se constituiu oficialmente o movimento.
 
+## De 2004 a 2008 {#de-2004-a-2008}
+
+A página dos Campinácios dava, nesses anos, as idades de cada escalão: Triciclos A, dos 10 aos 11 anos, e Triciclos B, dos 11 aos 12; Trotinetas, dos 13 aos 14; Bicicletas, dos 15 aos 16; Lambretas, dos 17 aos 18; e Formação de Animadores, a partir dos 18, só por convite do colégio. Os acampamentos de Triciclos e de Trotinetas custavam 65 € e os de Bicicletas e de Lambretas 70 €.
+
+Como havia mais inscritos do que vagas, as vagas de cada colégio distribuíam-se por critérios, sempre com metade rapazes e metade raparigas:
+
+- **Quem se inscreveu e não teve lugar no ano anterior:** metade das vagas para quem nunca tinha feito acampamentos, ordenados por mais pré-inscrições seguidas sem vaga, e metade para quem já tinha feito, ordenados por menos acampamentos feitos (nos Lambretas, ao contrário, por mais acampamentos).
+- **Quem não se inscreveu no ano anterior, ou se inscreveu e teve lugar:** metade das vagas para quem já tinha feito acampamentos, também por menos acampamentos feitos (nos Lambretas, por mais), e metade, por sorteio, para quem nunca tinha feito.
+- Os empates, as vagas que sobravam e a lista de suplentes resolviam-se por sorteio, e as vagas que um colégio não preenchesse passavam, a meias, para os outros dois.
+
+Em 2007 e 2008 o esquema foi resumido num quadro, para 7 vagas de rapazes e 7 de raparigas:
+
+[![Quadro dos critérios de selecção de 2007: a Classe 1, de quem se inscreveu e não teve vaga, e a Classe 2, de quem não se inscreveu ou teve vaga no ano anterior, cada uma dividida em 2×3 vagas para quem já fez acampamentos e 2×4 para quem nunca fez ou não teve vaga, com os critérios de ordenamento e o sorteio em caso de empate](../assets/imagens/Crit%C3%A9rios%20de%20selec%C3%A7%C3%A3o%202007.jpg)](../assets/imagens/Crit%C3%A9rios%20de%20selec%C3%A7%C3%A3o%202007.jpg)
+
 ## A escolha dos nomes
 
 Os nomes saíram de uma noite de conversa, depois do jantar, à volta da aguardente de abrunho, no fim-de-semana em que se definiu a estrutura dos campos. A proposta inicial era «mini, fino, caneca, girafa», seguida da gradação de berlindes («berlinde, atirador, abafador»). Quem propôs os nomes actuais foi o Zé Murteira. Ver [Campinácios](Campin%C3%A1cios.md#a-escolha-do-nome-dos-escalões).
