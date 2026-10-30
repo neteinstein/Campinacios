@@ -43,6 +43,7 @@ O Surpresa foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que 
 - [Francisco Carvalho](../../Pessoas/F/Francisco%20Carvalho.md)
 - [Isabel Neves](../../Pessoas/I/Isabel%20Neves.md)
 - [Joana Almeida](../../Pessoas/J/Joana%20Almeida.md)
+- [Joana Fonseca](../../Pessoas/J/Joana%20Fonseca.md)
 - [Margarida Maury](../../Pessoas/M/Margarida%20Maury.md)
 - [Pedro Pinto](../../Pessoas/P/Pedro%20Pinto.md)
 - [Rita Quintela](../../Pessoas/R/Rita%20Quintela.md)

@@ -26,6 +26,7 @@ Diz Que Sim foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) fei
 - [Francisco Moitinho Almeida](../../Pessoas/F/Francisco%20Moitinho%20Almeida.md)
 - [Gonçalo Fonseca Carvalho](../../Pessoas/G/Gon%C3%A7alo%20Fonseca%20Carvalho.md)
 - [Joana Almeida](../../Pessoas/J/Joana%20Almeida.md)
+- [Joana Fonseca](../../Pessoas/J/Joana%20Fonseca.md)
 - [João Pedro Gomes](../../Pessoas/J/Jo%C3%A3o%20Pedro%20Gomes.md)
 - [Lúcia Ribeiro](../../Pessoas/L/L%C3%BAcia%20Ribeiro.md)
 - [Luís Borges](../../Pessoas/L/Lu%C3%ADs%20Borges.md)

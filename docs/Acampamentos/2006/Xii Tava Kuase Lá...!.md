@@ -24,6 +24,7 @@ Este acampamento de [Lambretas](../../Categorias/Lambretas.md) realizou-se de 11
 - [Gonçalo Vaz Pedro](../../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md)
 - [Inês Turras](../../Pessoas/I/In%C3%AAs%20Turras.md)
 - [Joana Almeida](../../Pessoas/J/Joana%20Almeida.md)
+- [Joana Fonseca](../../Pessoas/J/Joana%20Fonseca.md)
 - [João Cortês Ferreira](../../Pessoas/J/Jo%C3%A3o%20Cort%C3%AAs%20Ferreira.md)
 - [João Freire de Andrade](../../Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md)
 - [João Salgueiro](../../Pessoas/J/Jo%C3%A3o%20Salgueiro.md)

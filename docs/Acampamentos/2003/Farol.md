@@ -18,6 +18,7 @@ O Farol foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) reali
 - [Francisco Moitinho Almeida](../../Pessoas/F/Francisco%20Moitinho%20Almeida.md)
 - [Isabel Neves](../../Pessoas/I/Isabel%20Neves.md)
 - [Joana Almeida](../../Pessoas/J/Joana%20Almeida.md)
+- [Joana Fonseca](../../Pessoas/J/Joana%20Fonseca.md)
 - [João Cortês Ferreira](../../Pessoas/J/Jo%C3%A3o%20Cort%C3%AAs%20Ferreira.md)
 - [Jorge Ramos](../../Pessoas/J/Jorge%20Ramos.md)
 - [José Pascoal](../../Pessoas/J/Jos%C3%A9%20Pascoal.md)
