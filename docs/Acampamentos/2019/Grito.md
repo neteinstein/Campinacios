@@ -1,6 +1,6 @@
 # Grito
 
-**Grito** foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) realizado em 2019. O tema do ano foi *Enche a tua vida de alegria*.
+**Grito** foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) realizado em 2019 em [Dornelas (Braga)](../../Restrito/Locais%20de%20Acampamento/Dornelas%20%28Braga%29.md). O tema do ano foi *Enche a tua vida de alegria*.
 
 ### Animadores
 
@@ -9,6 +9,7 @@
 
 ## Participantes que se tornaram animadores
 
+- [Chico Silva](../../Pessoas/C/Chico%20Silva.md)
 - [Francisco Carneiro](../../Pessoas/F/Francisco%20Carneiro.md)
 - [Francisco Dioniz Barroso Loureiro](../../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
 - [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)

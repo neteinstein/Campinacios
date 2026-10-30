@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1352 artigos e, em itálico, os 263 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1351 artigos e, em itálico, os 265 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -187,7 +187,7 @@
 - [Beatriz Miguel](Pessoas/B/Beatriz%20Miguel.md)
 - [Beatriz Miranda](Pessoas/B/Beatriz%20Miranda.md)
 - [Beatriz Picciochi](Pessoas/B/Beatriz%20Picciochi.md)
-- [Beatriz Pitxi](Pessoas/B/Beatriz%20Pitxi.md)
+- *Beatriz Pitxi* → [Beatriz Picciochi](Pessoas/B/Beatriz%20Picciochi.md)
 - *Belchior* → [José Carlos Belchior](Pessoas/J/Jos%C3%A9%20Carlos%20Belchior.md)
 - [BEM CHEIO](Acampamentos/2019/BEM%20CHEIO.md)
 - *Benfeita* → [Benfeita (Arganil)](Restrito/Locais%20de%20Acampamento/Benfeita%20%28Arganil%29.md) 🔒
@@ -1333,6 +1333,7 @@
 - *Poço de Corga* → [Poço de Corga (Castanheira de Pêra)](Restrito/Locais%20de%20Acampamento/Po%C3%A7o%20de%20Corga%20%28Castanheira%20de%20P%C3%AAra%29.md) 🔒
 - [Poço de Corga (Castanheira de Pêra)](Restrito/Locais%20de%20Acampamento/Po%C3%A7o%20de%20Corga%20%28Castanheira%20de%20P%C3%AAra%29.md) 🔒
 - [Pomar dos Braços (Miranda do Corvo)](Restrito/Locais%20de%20Acampamento/Pomar%20dos%20Bra%C3%A7os%20%28Miranda%20do%20Corvo%29.md) 🔒
+- *Ponte* → [Gabriel Ponte](Pessoas/G/Gabriel%20Ponte.md)
 - [Pontes](Acampamentos/2001/Pontes.md)
 - [Póporcohá](Acampamentos/2014/P%C3%B3porcoh%C3%A1.md)
 - [Porto da Balsa](Restrito/Locais%20de%20Acampamento/Porto%20da%20Balsa.md) 🔒

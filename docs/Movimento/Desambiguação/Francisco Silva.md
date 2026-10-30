@@ -6,7 +6,7 @@
 
 - [Francisco Goiana da Silva](../../Pessoas/F/Francisco%20Goiana%20da%20Silva.md), conhecido por Kiko, animador do CC desde 2006 e Director-Adjunto do [Pó-Có](../../Acampamentos/2014/P%C3%B3-C%C3%B3.md) em 2014.
 - [Francisco Silva (1995)](../../Pessoas/F/Francisco%20Silva%20%281995%29.md), conhecido por Chico, Animador Livre no [Benfeita 95](../../Acampamentos/1995/Benfeita%2095.md).
-- [Chico Silva](../../Pessoas/C/Chico%20Silva.md), Director-Adjunto nos acampamentos de 2022 e 2024.
+- [Chico Silva](../../Pessoas/C/Chico%20Silva.md) (Francisco Caetano Silva), animador do CC desde 2021 e Director-Adjunto nos acampamentos de 2022 e 2024.
 - [Francisco Silva Rodrigues](../../Pessoas/F/Francisco%20Silva%20Rodrigues.md), também conhecido por Pica, animador do CSJB desde 2005.
 
 ---

@@ -18,6 +18,7 @@ Ana Isabel Martins, Beatriz Sobral, Leonor Dias, Margarida Ferreira, Gabriel Pon
 ## Participantes que se tornaram animadores
 
 - [Ana Isabel Martins](../../Pessoas/A/Ana%20Isabel%20Martins.md)
+- [Gabriel Ponte](../../Pessoas/G/Gabriel%20Ponte.md)
 - [Madalena Vale](../../Pessoas/M/Madalena%20Vale.md)
 - [Mariana Cortez](../../Pessoas/M/Mariana%20Cortez.md)
 - [Pedro Oliveira](../../Pessoas/P/Pedro%20Oliveira.md)
