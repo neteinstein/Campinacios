@@ -3,6 +3,7 @@
 ### Cargos
 
 - 1999 Coordenador do [Jambo 99](../../Acampamentos/1999/Jambo%2099.md)
+- Desde 2021 - Director-geral do [CSJB](../../Movimento/CSJB.md#historia)
 
 ### Acampamentos
 
