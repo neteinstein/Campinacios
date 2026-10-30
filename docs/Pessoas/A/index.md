@@ -18,7 +18,6 @@
 - [Alexandra Silva](Alexandra%20Silva.md)
 - [Alexandre Alípio](Alexandre%20Al%C3%ADpio.md)
 - [Alexandre Correia](Alexandre%20Correia.md)
-- [Alexandre Ferreira](Alexandre%20Ferreira.md)
 - [Alice Rodrigues](Alice%20Rodrigues.md)
 - [Amadeu Pinto](Amadeu%20Pinto.md)
 - [Américo Mendes](Am%C3%A9rico%20Mendes.md)

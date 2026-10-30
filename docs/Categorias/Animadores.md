@@ -9,7 +9,7 @@ Animadores dos Campinácios
 - [Animadores do CSJB](Animadores%20do%20CSJB.md)
 - [Jesuítas](Jesu%C3%ADtas.md)
 
-## Páginas nesta categoria (866)
+## Páginas nesta categoria (865)
 
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Adriana Gil](../Pessoas/A/Adriana%20Gil.md)
@@ -28,7 +28,6 @@ Animadores dos Campinácios
 - [Alexandra Silva](../Pessoas/A/Alexandra%20Silva.md)
 - [Alexandre Alípio](../Pessoas/A/Alexandre%20Al%C3%ADpio.md)
 - [Alexandre Correia](../Pessoas/A/Alexandre%20Correia.md)
-- [Alexandre Ferreira](../Pessoas/A/Alexandre%20Ferreira.md)
 - [Alice Rodrigues](../Pessoas/A/Alice%20Rodrigues.md)
 - [Amílcar Sousa](../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
 - [Ana Bela](../Pessoas/A/Ana%20Bela.md)

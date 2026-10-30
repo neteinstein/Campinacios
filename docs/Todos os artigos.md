@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1372 artigos e, em itálico, os 270 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1371 artigos e, em itálico, os 271 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -10,7 +10,7 @@
 - *Agui* → [Gonçalo Aguiar](Pessoas/G/Gon%C3%A7alo%20Aguiar.md)
 - [Alberto Gonçalves](Pessoas/A/Alberto%20Gon%C3%A7alves.md)
 - [Alexandra Couto](Pessoas/A/Alexandra%20Couto.md)
-- [Alexandre Ferreira](Pessoas/A/Alexandre%20Ferreira.md)
+- *Alexandre Ferreira* → [Alex](Pessoas/A/Alex.md)
 - *Ana Aguiar* → [Ana de Martins Aguiar](Pessoas/A/Ana%20de%20Martins%20Aguiar.md)
 - [Ana de Martins Aguiar](Pessoas/A/Ana%20de%20Martins%20Aguiar.md)
 - [Ana Isabel Martins](Pessoas/A/Ana%20Isabel%20Martins.md)
