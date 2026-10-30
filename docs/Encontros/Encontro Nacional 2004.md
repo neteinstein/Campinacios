@@ -17,7 +17,7 @@ No encontro gravou-se ao vivo um CD com «as nossas músicas», o *Campinácios 
 7. [Canoa](../Movimento/Cantin%C3%A1cio/Portuguesas.md#canoa)
 8. [Aprendiz de Viajante](../Movimento/Cantin%C3%A1cio/C%C3%A2nticos.md#aprendiz-de-viajante)
 9. [Campinácios](../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#campinacios)
-10. Vários
+10. [Vários](../Movimento/Cantin%C3%A1cio.md#gravacoes) (várias músicas seguidas; ouve-se nas gravações do Cantinácio)
 11. [Poema lindo](../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#poema-lindo)
 12. [Alguém à deriva](../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#alguem-a-deriva)
 
