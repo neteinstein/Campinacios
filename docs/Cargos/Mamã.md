@@ -40,7 +40,7 @@ Quando tiveres dúvidas do que é ser mamã de acampamento lembra-te como é (ex
 - [Andreia Mendes](../Pessoas/A/Andreia%20Mendes.md)
 - [Beatriz Maia](../Pessoas/B/Beatriz%20Maia.md)
 - [Beatriz Mesquita](../Pessoas/B/Beatriz%20Mesquita.md)
-- [Beatriz Pitxi](../Pessoas/B/Beatriz%20Pitxi.md)
+- [Beatriz Picciochi](../Pessoas/B/Beatriz%20Picciochi.md)
 - [Carla Antunes](../Pessoas/C/Carla%20Antunes.md)
 - [Carla Resende](../Pessoas/C/Carla%20Resende.md)
 - [Carminho Simões de Almeida](../Pessoas/C/Carminho%20Sim%C3%B5es%20de%20Almeida.md)
