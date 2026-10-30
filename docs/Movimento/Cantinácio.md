@@ -37,7 +37,7 @@ E tu também, porque *you really care for music, don’t you?*
 
 !!! info "Como funcionam os botões"
 
-    O botão **Cantinácio Virtual** gera um PDF, pronto a descarregar e a imprimir, com todas as letras e acordes do Wikinácios, aumentando em largas centenas a edição física de 2019. Antes de o gerar, escolhem-se as secções de músicas que deve ter, se vão os Aplausos, o Manual de Instruções e as Escalas e, nas músicas com duas versões, se vai a original, a versão simplificada do Cantinácio de 2019 ou as duas. Também se pode gerar só com os Aplausos. Mantém-se a paginação à maneira do Cantinácio de 2019, com o Prefácio, índice e números de página. Se se escolher, antes do Manual de Instruções vai a secção **Música Viva**, com um QR Code para o vídeo de cada música que o tenha.
+    O botão **Cantinácio Virtual** gera um PDF, pronto a descarregar e a imprimir, com todas as letras e acordes do Wikinácios, aumentando em largas centenas a edição física de 2019. Antes de o gerar, escolhem-se as secções de músicas que deve ter, se vão as Musiquitas, os Aplausos, as Lengalengas, o Manual de Instruções e as Escalas e, nas músicas com duas versões, se vai a original, a versão simplificada do Cantinácio de 2019 ou as duas. Também se pode gerar só com as secções da roda (Musiquitas, Aplausos e Lengalengas). Mantém-se a paginação à maneira do Cantinácio de 2019, com o Prefácio, índice e números de página. Se se escolher, antes do Manual de Instruções vai a secção **Música Viva**, com um QR Code para o vídeo de cada música que o tenha.
 
     O botão **Cantinácio Original** abre o PDF do Cantinácio de 2019 (3.ª edição), tal como foi feito para imprimir, com as ilustrações e o índice originais.
 
@@ -66,9 +66,17 @@ O [Manual de Instruções](Cantin%C3%A1cio/Manual%20de%20Instru%C3%A7%C3%B5es.md
 
 - [Escalas](Cantin%C3%A1cio/Escalas.md) — como mudar uma música de tom
 
+## Musiquitas
+
+- [Musiquitas](Cantin%C3%A1cio/Musiquitas.md) — 22 musiquitas para cantar na roda
+
 ## Aplausos
 
 - [Aplausos](Cantin%C3%A1cio/Aplausos.md) — 138 palmas, aplausos e gritos de roda
+
+## Lengalengas
+
+- [Lengalengas](Cantin%C3%A1cio/Lengalengas.md) — 19 lengalengas para cantar na roda
 
 ## Gravações {#gravacoes}
 
