@@ -1,6 +1,6 @@
 # Prega Fundo
 
-**Prega Fundo** foi um acampamento de [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) realizado em 2021. O tema do ano foi *Há uma luz que nunca se apaga*. Em 2021 fizeram-se dois acampamentos de Formação de Animadores (o outro foi o [Quantos Somos](Quantos%20Somos.md)), porque não foi possível fazer o de 2020.
+**Prega Fundo** foi um acampamento de [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) realizado em 2021 em Candam. O tema do ano foi *Há uma luz que nunca se apaga*. Em 2021 fizeram-se dois acampamentos de Formação de Animadores (o outro foi o [Quantos Somos](Quantos%20Somos.md)), porque não foi possível fazer o de 2020.
 
 ### Animadores
 
@@ -13,6 +13,7 @@
 
 - [Ana Mendonça](../../Pessoas/A/Ana%20Mendon%C3%A7a.md)
 - [António Almeida](../../Pessoas/A/Ant%C3%B3nio%20Almeida.md)
+- [Chico Silva](../../Pessoas/C/Chico%20Silva.md)
 - [Francisco Carneiro](../../Pessoas/F/Francisco%20Carneiro.md)
 - [Jaime Lucas Pires](../../Pessoas/J/Jaime%20Lucas%20Pires.md)
 - [Joana Costa (2021)](../../Pessoas/J/Joana%20Costa%20%282021%29.md)

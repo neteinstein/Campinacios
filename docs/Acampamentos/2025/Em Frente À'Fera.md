@@ -13,6 +13,10 @@
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Francisca Veloso](../../Pessoas/F/Francisca%20Veloso.md) (Tita), Diogo Rêgo, [Maria Solla](../../Pessoas/M/Maria%20Solla.md) e Inês Guimarães
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Nelson Faria](../../Pessoas/N/Nelson%20Faria.md) sj
 
+## Participantes que se tornaram animadores
+
+- [Gabriel Ponte](../../Pessoas/G/Gabriel%20Ponte.md)
+
 ---
 
 | Categorias |

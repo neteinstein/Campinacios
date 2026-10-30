@@ -1,6 +1,6 @@
 # Encontrei-te
 
-**Encontrei-te** foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) realizado em 2015. O tema do ano foi *Change Your Selfie*.
+**Encontrei-te** foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) realizado em 2015 em [Vila da Ponte (Montalegre)](../../Restrito/Locais%20de%20Acampamento/Vila%20da%20Ponte%20%28Montalegre%29.md). O tema do ano foi *Change Your Selfie*.
 
 ### Animadores
 
@@ -11,6 +11,7 @@
 
 ## Participantes que se tornaram animadores
 
+- [Chico Silva](../../Pessoas/C/Chico%20Silva.md)
 - [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
 
 ---

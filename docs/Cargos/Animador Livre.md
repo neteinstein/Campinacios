@@ -66,6 +66,7 @@
 - [Cátia Silva](../Pessoas/C/C%C3%A1tia%20Silva.md)
 - [Cecília Mendonça](../Pessoas/C/Cec%C3%ADlia%20Mendon%C3%A7a.md)
 - [Cecília Miranda](../Pessoas/C/Cec%C3%ADlia%20Miranda.md)
+- [Chico Silva](../Pessoas/C/Chico%20Silva.md)
 - [Constança Pereira da Silva](../Pessoas/C/Constan%C3%A7a%20Pereira%20da%20Silva.md)
 - [Cristina Cabeça](../Pessoas/C/Cristina%20Cabe%C3%A7a.md)
 - [Cristina Costa](../Pessoas/C/Cristina%20Costa.md)

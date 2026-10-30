@@ -11,6 +11,7 @@
 ## Participantes que se tornaram animadores
 
 - [Ana Mendonça](../../Pessoas/A/Ana%20Mendon%C3%A7a.md)
+- [Chico Silva](../../Pessoas/C/Chico%20Silva.md)
 
 ---
 

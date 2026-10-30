@@ -4,12 +4,12 @@
 
 O imaginário do campo foram os Templários. A novela foi uma adaptação da peça *Sonho de uma Noite de Verão*. Nos momentos de oração cantou-se o «Non Nobis», um cântico templário adaptado à realidade dos campos de férias.
 
-O hino deste campo, o cântico «Glória a Ti / Non Nobis» e a música da caminhada, «Tomara a Mim», estão no [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#non-nobis) ([hino](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#non-nobis), [Glória a Ti / Non Nobis](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#gloria-a-ti-non-nobis), [Tomara a Mim](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#tomara-a-mim)).
+O hino deste campo, o cântico «Glória a Ti / Non Nobis», a música da caminhada, «Tomara a Mim», e o genérico da novela, «Sonho de Uma Noite de Verão», estão no [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#non-nobis) ([hino](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#non-nobis), [Glória a Ti / Non Nobis](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#gloria-a-ti-non-nobis), [Tomara a Mim](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#tomara-a-mim), [Sonho de Uma Noite de Verão](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#sonho-de-uma-noite-de-verao)).
 
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Jaime Lucas Pires](../../Pessoas/J/Jaime%20Lucas%20Pires.md)
-- [Mamã](../../Cargos/Mam%C3%A3.md) - [Beatriz Pitxi](../../Pessoas/B/Beatriz%20Pitxi.md)
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [Beatriz Picciochi](../../Pessoas/B/Beatriz%20Picciochi.md) (Pitxi)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Miguel Teixeira](../../Pessoas/M/Miguel%20Teixeira.md)
 - [Tio](../../Cargos/Tio.md) - [Inês Silva](../../Pessoas/I/In%C3%AAs%20Silva.md) (Nênê), [Pedro Leitão](../../Pessoas/P/Pedro%20Leit%C3%A3o.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Francisco Melo](../../Pessoas/F/Francisco%20Melo.md), [Heitor Rosa](../../Pessoas/H/Heitor%20Rosa.md), [Manuel Vassalo](../../Pessoas/M/Manuel%20Vassalo.md), [Maria Solla](../../Pessoas/M/Maria%20Solla.md), [Carolina Dias](../../Pessoas/C/Carolina%20Dias.md), Tiago Azevedo (Teclas) e [Gonçalo Aguiar](../../Pessoas/G/Gon%C3%A7alo%20Aguiar.md) (Agui)

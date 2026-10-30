@@ -9,7 +9,6 @@
 - [Beatriz Miguel](Beatriz%20Miguel.md)
 - [Beatriz Miranda](Beatriz%20Miranda.md)
 - [Beatriz Picciochi](Beatriz%20Picciochi.md)
-- [Beatriz Pitxi](Beatriz%20Pitxi.md)
 - [Benedita Rolim](Benedita%20Rolim.md)
 - [Benedita Turras](Benedita%20Turras.md)
 - [Benedita Vasconcelos](Benedita%20Vasconcelos.md)
