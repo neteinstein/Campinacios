@@ -22,7 +22,7 @@ Publicado no [Spotify](https://open.spotify.com/album/4S6GgHatWgByCRtMCHB3tv) em
 8. Vai em frente
 9. Bigode mexicano
 10. Sai da tenda
-11. Super-herói
+11. [Super-herói](https://open.spotify.com/track/2qqG8VblwjARxxxkVovBoO)
 12. Vida de Cowboy
 13. Tudo ou N.A.D.A. – Baywatch
 14. [P'ra onde é que eu vou?](#p-ra-onde-e-que-eu-vou)
@@ -72,6 +72,8 @@ Os Gambozinos também têm as músicas no [YouTube](https://www.youtube.com/@gam
 
 *Gambozinos 2010 (Pe. Duarte Rosado sj e Simão Lucas Pires)*
 
+Há uma [gravação da música](https://open.spotify.com/track/6zQsWBT78Vumnqmvc9qWMe) no Spotify.
+
 ```text
 Lá            Ré               Fá#m
 Posso ter dinheiro, posso ter fama
@@ -106,11 +108,11 @@ Se não sei onde vou ando à deriva
 Posso ser futebolista p’ra que todo o mundo veja
 Posso ser o actor que no fim a miúda beija
 Posso pôr mil máscaras p’ra me esconder
-Posso pôr a maquilhagem para só brilho se ver
+Posso pôr a maquilhagem para só o brilho se ver
 
 Mas ninguém é amado por aquilo que tem
 Não me vou inventar para me mostrar a alguém
-Se não sou quem sou não sou niguém
+Se não sou quem sou não sou ninguém
 
 P’ra onde é que eu vou...
 ```
