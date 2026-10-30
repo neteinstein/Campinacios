@@ -1,6 +1,6 @@
 # Martinho Lucas Pires
 
-*Segundo a lista de animadores do CSJB de 2010: geração de 2006; campo de formação: Graal III; estudos ou profissão: Direito.*
+*Segundo a lista de animadores do CSJB de 2010: geração de 2006; campo de formação: Graal III.*
 
 Martinho Lucas Pires mais conhecido por Martinho
 

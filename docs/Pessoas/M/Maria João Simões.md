@@ -1,6 +1,6 @@
 # Maria João Simões
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 6 de Maio de 1978; entrou em 1995; estudos ou profissão: Psicologa - Condeixa; por ano: 1990 Trotinetas, 1991 Trotinetas, 1992 Bicicletas, 1994 Bicicletes, 1996 Ani. Livre, 1997 Tia, 1998 Tia, 1999 Tia, 2000 Mamã, 2001 Mamã, 2003 Mamã, 2004 D-Adjunta, 2005 Ani Livre / Tia, 2007 Ani. Livre, 2009 D-Adjunta.*
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 6 de Maio de 1978; entrou em 1995; por ano: 1990 Trotinetas, 1991 Trotinetas, 1992 Bicicletas, 1994 Bicicletes, 1996 Ani. Livre, 1997 Tia, 1998 Tia, 1999 Tia, 2000 Mamã, 2001 Mamã, 2003 Mamã, 2004 D-Adjunta, 2005 Ani Livre / Tia, 2007 Ani. Livre, 2009 D-Adjunta.*
 
 Maria João Simões, mais conhecida por Majo, é desde 1996 uma das animadoras do CAIC.
 

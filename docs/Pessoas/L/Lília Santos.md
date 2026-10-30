@@ -1,6 +1,6 @@
 # Lília Santos
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 16 de Fevereiro de 1988; entrou em 2007; estudos ou profissão: Contabilidade - Coimbra; por ano: 2008 Formação, 2009 Tia.*
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 16 de Fevereiro de 1988; entrou em 2007; por ano: 2008 Formação, 2009 Tia.*
 
 Lília Santos é desde 2007, um das animadoras do Colégio da Imaculada Conceição.
 

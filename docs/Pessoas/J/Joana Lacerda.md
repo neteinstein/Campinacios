@@ -1,6 +1,6 @@
 # Joana Lacerda
 
-*Segundo a lista de animadores do CSJB de 2010: geração de 2007; campo de formação: Exodo; estudos ou profissão: Arquitectura.*
+*Segundo a lista de animadores do CSJB de 2010: geração de 2007; campo de formação: Exodo.*
 
 ### Acampamentos
 

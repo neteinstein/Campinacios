@@ -1,6 +1,6 @@
 # Hugo Rafael Ferreira
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 12 de Setembro de 1978; entrou em 1996; estudos ou profissão: Polícia - Lisboa; participou em 10 campos de animação; por ano: 2004 Director.*
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 12 de Setembro de 1978; entrou em 1996; participou em 10 campos de animação; por ano: 2004 Director.*
 
 Hugo Rafael Ferreira foi de 1996 a 2008 um dos animadores do Colégio da Imaculada Conceição.
 

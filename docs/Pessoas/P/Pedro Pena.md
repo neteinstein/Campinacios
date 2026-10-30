@@ -1,6 +1,6 @@
 # Pedro Pena
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 21 de Janeiro de 1990; entrou em 2008; estudos ou profissão: 12º - CAIC; por ano: 2006 Bicicletas, 2007 Lambretas.*
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 21 de Janeiro de 1990; entrou em 2008; por ano: 2006 Bicicletas, 2007 Lambretas.*
 
 Pedro Pena é um dos animadores do Colégio da Imaculada Conceição.
 

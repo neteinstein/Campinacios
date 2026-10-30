@@ -1,6 +1,6 @@
 # Sara Póvoa
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 1 de Abril de 1987; entrou em 2005; estudos ou profissão: Medicina - Lisboa; por ano: 2006 Ani. Equipa, 2007 Tia, 2008 Tia.*
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 1 de Abril de 1987; entrou em 2005; por ano: 2006 Ani. Equipa, 2007 Tia, 2008 Tia.*
 
 Sara Póvoa é desde 2005, uma das animadoras do Colégio da Imaculada Conceição.
 

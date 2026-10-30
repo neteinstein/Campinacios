@@ -1,6 +1,6 @@
 # Luís Tiago Canilho
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 6 de Outubro de 1982; entrou em 1998; estudos ou profissão: F. Aérea - Lisboa; por ano: 2004 D-Adjunto, 2005 Ani. Livre, 2009 Ani. Livre.*
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 6 de Outubro de 1982; entrou em 1998; por ano: 2004 D-Adjunto, 2005 Ani. Livre, 2009 Ani. Livre.*
 
 Luís Tiago Canilho é desde 2001 um dos animadores do Colégio da Imaculada Conceição.
 

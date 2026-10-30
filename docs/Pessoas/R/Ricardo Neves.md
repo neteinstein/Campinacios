@@ -1,6 +1,6 @@
 # Ricardo Neves
 
-*Segundo a lista de animadores do CSJB de 2010: geração de 2004; campo de formação: Casca de Banana 2005; estudos ou profissão: Fisioterapia; por ano: 2006 D-Adjunto.*
+*Segundo a lista de animadores do CSJB de 2010: geração de 2004; por ano: 2006 D-Adjunto.*
 
 ## História dentro do movimento
 

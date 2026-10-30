@@ -1,12 +1,14 @@
 # Camila Martins
 
-*Segundo a lista de animadores do CSJB de 2010: geração de 2004; campo de formação: Casca de Banana 2005; estudos ou profissão: Engenharia Civil; por ano: 2006 Ani. Equipa.*
+*Segundo a lista de animadores do CSJB de 2010: geração de 2004; por ano: 2006 Ani. Equipa.*
 
 ### Acampamentos
 
 - **Participante**
     - 2003 [Rastilho](../../Acampamentos/2003/Rastilho.md)
     - 2011 [Esperança](../../Acampamentos/2011/Esperan%C3%A7a.md)
+- **Formação:**
+    - 2005 [Casca de Banana](../../Acampamentos/2005/Casca%20de%20Banana.md)
 - **Animadora**
     - 2006 [Nómada](../../Acampamentos/2006/N%C3%B3mada.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2007 [Baza](../../Acampamentos/2007/Baza.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)

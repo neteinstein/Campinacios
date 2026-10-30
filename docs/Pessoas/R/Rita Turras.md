@@ -1,6 +1,6 @@
 # Rita Turras
 
-*Segundo a lista de animadores do CSJB de 2010: geração de 2004; campo de formação: Casca de Banana 2005; estudos ou profissão: Terapia Ocupacional.*
+*Segundo a lista de animadores do CSJB de 2010: geração de 2004.*
 
 ### Acampamentos
 

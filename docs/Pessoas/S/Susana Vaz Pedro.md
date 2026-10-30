@@ -1,6 +1,6 @@
 # Susana Vaz Pedro
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 21 de Setembro de 1984; entrou em 2002; estudos ou profissão: Terapeuta da Fala; por ano: 2000 Bicicletas, 2001 Lambretas, 2002 Formação, 2003 Ani. Equipa, 2004 Ani. Equipa, 2005 Ani. Equipa, 2006 Ani. Equipa, 2007 Tia, 2008 Ani. Equipa.*
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 21 de Setembro de 1984; entrou em 2002; por ano: 2000 Bicicletas, 2001 Lambretas, 2002 Formação, 2003 Ani. Equipa, 2004 Ani. Equipa, 2005 Ani. Equipa, 2006 Ani. Equipa, 2007 Tia, 2008 Ani. Equipa.*
 
 Susana Vaz Pedro é desde 2002, uma das animadoras do Colégio da Imaculada Conceição.
 

@@ -1,6 +1,6 @@
 # Inês Oliveira
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 8 de Abril de 1988; entrou em 2006; estudos ou profissão: Desporto - Coimbra; por ano: 2001 Trotinetas, 2003 Bicicletas, 2004 Bicicletas, 2005 Lambretas, 2008 Ani. Equipa.*
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 8 de Abril de 1988; entrou em 2006; por ano: 2001 Trotinetas, 2003 Bicicletas, 2004 Bicicletas, 2005 Lambretas, 2008 Ani. Equipa.*
 
 Inês Oliveira é desde 2006 um das animadoras do Colégio da Imaculada Conceição.
 

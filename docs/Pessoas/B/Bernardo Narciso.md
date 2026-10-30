@@ -1,6 +1,6 @@
 # Bernardo Narciso
 
-*Segundo a lista de animadores do CSJB de 2010: nasceu a 7 de Fevereiro de 1986; geração de 2004; campo de formação: Casca de Banana 2005; estudos ou profissão: Gestão; por ano: 1999 Trotinetas, 2001 Bicicletas, 2003 Lambretas, 2004 Lambretas, 2005 Ani. Equipa, 2006 Ani. Livre, 2007 D-Adjunto.*
+*Segundo a lista de animadores do CSJB de 2010: nasceu a 7 de Fevereiro de 1986; geração de 2004; por ano: 1999 Trotinetas, 2001 Bicicletas, 2003 Lambretas, 2004 Lambretas, 2005 Ani. Equipa, 2006 Ani. Livre, 2007 D-Adjunto.*
 
 ## História dentro do movimento
 

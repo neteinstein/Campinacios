@@ -1,6 +1,6 @@
 # Filipa Caldas
 
-*Segundo a lista de animadores do CSJB de 2010: geração de 2007; campo de formação: Exodo; estudos ou profissão: Direito.*
+*Segundo a lista de animadores do CSJB de 2010: geração de 2007; campo de formação: Exodo.*
 
 Filipa Maria Gomes Pereira Lemos Caldas, conhecida por Pipa e também por Caldinhas, antiga aluna do Colégio S. João de Brito, é animadora dos Campinácios desde 2008.
 

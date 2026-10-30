@@ -1,6 +1,6 @@
 # Rita Lourenço
 
-*Segundo a lista de animadores do CAIC de 2008/2009: entrou em 2005; estudos ou profissão: 1987-01-21 00:00:00; por ano: 2008 F / Ani. Equipa, 2009 Ani. Equipa.*
+*Segundo a lista de animadores do CAIC de 2008/2009: entrou em 2005; por ano: 2008 F / Ani. Equipa, 2009 Ani. Equipa.*
 
 Rita Lourenço é desde 2005 uma das animadoras do Colégio da Imaculada Conceição.
 

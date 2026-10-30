@@ -1,6 +1,6 @@
 # Gonçalo Vaz Pedro
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 5 de Novembro de 1988; entrou em 2006; estudos ou profissão: Economia - Coimbra; por ano: 2003 Bicicletas, 2004 Bicicletas, 2005 Lambretas, 2006 Lambretas, 2007 F/Ani. Livre, 2008 Ani. Livre, 2009 Director.*
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 5 de Novembro de 1988; entrou em 2006; por ano: 2003 Bicicletas, 2004 Bicicletas, 2005 Lambretas, 2006 Lambretas, 2007 F/Ani. Livre, 2008 Ani. Livre, 2009 Director.*
 
 Gonçalo Vaz Pedro, é desde 2006, um dos animadores do Colégio da Imaculada Conceição.
 

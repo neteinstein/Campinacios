@@ -1,6 +1,6 @@
 # João Freire de Andrade
 
-*Segundo a lista de animadores do CSJB de 2010: geração de 2006; estudos ou profissão: Economia.*
+*Segundo a lista de animadores do CSJB de 2010: geração de 2006.*
 
 João Freire de Andrade é desde 2006 um dos animadores do Colégio São João de Brito.
 

@@ -1,6 +1,6 @@
 # Mariana Roxo
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 19 de Setembro de 1988; entrou em 2006; estudos ou profissão: Farmácia - Coimbra; por ano: 1999 Triciclos, 2000 Triciclos, 2003 Bicicletas, 2004 Bicicletas, 2005 Lambretas, 2007 Tia, 2008 Tia.*
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 19 de Setembro de 1988; entrou em 2006; por ano: 1999 Triciclos, 2000 Triciclos, 2003 Bicicletas, 2004 Bicicletas, 2005 Lambretas, 2007 Tia, 2008 Tia.*
 
 Mariana Roxo é desde 2006, uma das animadoras do Colégio da Imaculada Conceição.
 

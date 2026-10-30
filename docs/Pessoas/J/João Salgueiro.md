@@ -1,6 +1,6 @@
 # João Salgueiro
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 9 de Agosto de 1990; entrou em 2008; estudos ou profissão: Marinha - Lisboa; por ano: 2006 Bicicletas, 2007 Lambretas.*
+*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 9 de Agosto de 1990; entrou em 2008; por ano: 2006 Bicicletas, 2007 Lambretas.*
 
 João Salgueiro, é um dos animadores do Colégio da Imaculada Conceição.
 

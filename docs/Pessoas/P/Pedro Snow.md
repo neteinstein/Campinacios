@@ -1,6 +1,6 @@
 # Pedro Snow
 
-*Segundo a lista de animadores do CSJB de 2010: geração de 2006; campo de formação: Graal III; estudos ou profissão: Arquitectura; por ano: 1999 Triciclos, 2000 Triciclos, 2004 Bicicletas, 2005 Lambretas.*
+*Segundo a lista de animadores do CSJB de 2010: geração de 2006; campo de formação: Graal III; por ano: 1999 Triciclos, 2000 Triciclos, 2004 Bicicletas, 2005 Lambretas.*
 
 ### Cargos
 

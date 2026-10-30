@@ -1,6 +1,6 @@
 # Francisco Martins
 
-*Segundo a lista de animadores do CAIC de 2008/2009: estudos ou profissão: Professor - Cernache; por ano: 2009 Capelão.*
+*Segundo a lista de animadores do CAIC de 2008/2009: por ano: 2009 Capelão.*
 
 ### Cargos
 
