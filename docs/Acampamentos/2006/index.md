@@ -14,7 +14,7 @@ Segundo a agenda da página dos Campinácios:
 - **18 e 19 de Fevereiro** — fim-de-semana de formação de Primeiros Socorros, no CAIC.
 - **3 a 5 de Março** — [Encontro Nacional 2006](../../Encontros/Encontro%20Nacional%202006.md).
 - **11 de Março** — começa a «caça ao animador»: os directores convidam os animadores; as respostas dão-se até dia 19.
-- **8 e 9 de Abril** — fim-de-semana de animadores, no CAIC, cancelado.
+- **8 e 9 de Abril** — fim-de-semana dos animadores do CAIC, «Mãos à obra», com partida do colégio na sexta-feira, trabalho, uma mini-caminhada em grupos e um plenário sobre os Campinácios no CAIC; cancelado.
 - **20 de Abril a 4 de Maio** — pré-inscrições para os acampamentos; as inscrições fazem-se de 16 a 30 de Maio.
 - **21 de Julho a 25 de Agosto** — os acampamentos de Verão.
 - **18 e 19 de Novembro** — fim-de-semana de pedagogia, espiritualidade e relações humanas, aberto a todos os animadores: o [Fim-de-Semana de Espiritualidade e Encontro 2006](../../Encontros/Fim-de-Semana%20de%20Espiritualidade%20e%20Encontro%202006.md).
