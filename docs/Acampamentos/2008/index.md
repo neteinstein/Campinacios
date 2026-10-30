@@ -10,6 +10,16 @@
 - [TufarfarAway](TufarfarAway.md) — Lambretas
 - [Êxodo](%C3%8Axodo.md) — Formação de Animadores
 
+## Agenda
+
+Segundo a agenda e os anúncios da página dos Campinácios:
+
+- **23 de Fevereiro** — Missa de Campinácios do CAIC, dos Trotinetas.
+- **5 e 6 de Abril** — [Encontro Nacional 2008](../../Encontros/Encontro%20Nacional%202008.md).
+- **12 a 21 de Maio** — pré-inscrições para os acampamentos.
+- **10 de Junho** — Missa de Campinácios do CAIC, dos Bicicletas.
+- **14 de Dezembro** — ceias de Natal, marcadas por cada Direcção Local.
+
 ## Equipas
 
 2008 foi o primeiro ano em que as equipas de animadores foram definidas pela
@@ -34,3 +44,19 @@ A [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) que p
 [João Goulão](../../Pessoas/J/Jo%C3%A3o%20Goul%C3%A3o.md) sj,
 [Gonçalo Vaz Pedro](../../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md) e
 [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj.
+
+## Publicidade
+
+Os cartazes das pré-inscrições de 2008 (de 12 a 21 de Maio), da secção «Publicidades» da página dos Campinácios:
+
+<div class="wk-galeria" markdown>
+
+[![Anúncio de 2008: «Campinácios — Dão-te asas!», com uma lata com o logótipo dos Campinácios e asas brancas, e «pré-inscrições de 12 a 21 de Maio»](../../assets/imagens/Publicidade%202008/01.webp)](../../assets/imagens/Publicidade%202008/01.webp)
+
+[![Anúncio de 2008: «Andas perdido? Vem procurar o caminho connosco!!! Campinácios», com um labirinto, e «pré-inscrições de 12 a 21 de Maio»](../../assets/imagens/Publicidade%202008/02.webp)](../../assets/imagens/Publicidade%202008/02.webp)
+
+[![Anúncio de 2008: «És só mais um patinho… ou já descobriste os Campinácios?», com quatro patinhos, um deles às cores](../../assets/imagens/Publicidade%202008/03.webp)](../../assets/imagens/Publicidade%202008/03.webp)
+
+[![Anúncio de 2008: «Andas sempre nas mesmas voltas? Muda a rotina com os Campinácios», com um homem a correr numa roda de hamster](../../assets/imagens/Publicidade%202008/04.webp)](../../assets/imagens/Publicidade%202008/04.webp)
+
+</div>
