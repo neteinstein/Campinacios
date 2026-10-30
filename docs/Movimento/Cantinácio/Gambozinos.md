@@ -22,7 +22,7 @@ Publicado no [Spotify](https://open.spotify.com/album/4S6GgHatWgByCRtMCHB3tv) em
 8. Vai em frente
 9. Bigode mexicano
 10. Sai da tenda
-11. Super-herói
+11. [Super-herói](https://open.spotify.com/track/2qqG8VblwjARxxxkVovBoO)
 12. Vida de Cowboy
 13. Tudo ou N.A.D.A. – Baywatch
 14. [P'ra onde é que eu vou?](#p-ra-onde-e-que-eu-vou)
@@ -62,15 +62,74 @@ Disco com as canções de *A Ilha*, o musical inteiramente pensado por animadore
 
 Os Gambozinos também têm as músicas no [YouTube](https://www.youtube.com/@gambozinos744) e no [SoundCloud](https://soundcloud.com/gambozinos).
 
-## Índice (1 música)
+## Índice (2 músicas)
 
+- [GOTA](#gota) — Gambozinos III 2004, Arcos de Valdevez (Manel Matos)
 - [P’RA ONDE É QUE EU VOU](#p-ra-onde-e-que-eu-vou) — Gambozinos 2010 (Pe. Duarte Rosado sj e Simão Lucas Pires)
 
 ## Músicas
 
+### GOTA {#gota}
+
+*Gambozinos III 2004, Arcos de Valdevez (Manel Matos)*
+
+```text
+Dó   Ré   Mim (bis)
+
+        Dó Ré Mim
+Gota gota, caíste no lavatório
+        Dó Ré Mim
+Gota gota, apagaste a chama no velório
+        Dó Ré Mim
+Gota gota, diz-me qual o teu horário
+        Dó Ré Mim
+Gota gota, pra irmos ao oceanário
+
+Dó   Ré
+Gota
+Mim
+cai cai, chove chove
+       Lá
+cai cai, chove chove (bis)
+
+Dó   Ré   Mim (bis)
+
+        Dó Ré Mim
+Gota gota, caíste no gambozino
+        Dó Ré Mim
+Gota gota, até lhe moeres o tino
+        Dó Ré Mim
+Gota gota, tu não me venhas com lérias
+        Dó Ré Mim
+Gota gota, “alagastes” o campo de férias
+
+Dó   Ré
+Gota
+Mim
+cai cai, chove chove
+
+          Dó          Ré              Mim            Lá
+gota gota gota gota gota gota gota gota gota
+         Dó          Ré              Mim            Lá
+plim plim plim plim plim plim plim plim plim
+         Dó          Ré              Mim            Lá
+shhhhhhhhhhhhhhhhhhhhhhhhhhh
+         Dó          Ré              Mim            Lá
+brooooooaaaaaaaaaaaauuuuuoooooom!
+
+Dó   Ré
+Gota
+Mim
+cai cai, chove chove
+       Lá
+cai cai, chove chove (bis)
+```
+
 ### P’RA ONDE É QUE EU VOU {#p-ra-onde-e-que-eu-vou}
 
 *Gambozinos 2010 (Pe. Duarte Rosado sj e Simão Lucas Pires)*
+
+Há uma [gravação da música](https://open.spotify.com/track/6zQsWBT78Vumnqmvc9qWMe) no Spotify.
 
 ```text
 Lá            Ré               Fá#m
@@ -106,11 +165,11 @@ Se não sei onde vou ando à deriva
 Posso ser futebolista p’ra que todo o mundo veja
 Posso ser o actor que no fim a miúda beija
 Posso pôr mil máscaras p’ra me esconder
-Posso pôr a maquilhagem para só brilho se ver
+Posso pôr a maquilhagem para só o brilho se ver
 
 Mas ninguém é amado por aquilo que tem
 Não me vou inventar para me mostrar a alguém
-Se não sou quem sou não sou niguém
+Se não sou quem sou não sou ninguém
 
 P’ra onde é que eu vou...
 ```
