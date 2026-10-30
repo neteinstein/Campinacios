@@ -1,6 +1,6 @@
 # José Eugénio Lopes
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 3 de Dezembro de 1983; por ano: 1995 Triciclos, 1996 Triciclos, 1998 Bicicletas, 1999 Bibicletas, 2000 Ani. Livre, 2002 Formação, 2003 Ani. Livre, 2004 Director, 2005 D-Adjunto.*
+Nasceu a 3 de Dezembro de 1983.
 
 José Eugénio Lopes mais conhecido por Genito foi de 2001 a 2006 um dos animadores do Colégio da Imaculada Conceição.
 

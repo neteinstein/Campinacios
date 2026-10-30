@@ -1,6 +1,6 @@
 # Beatriz Miranda
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 6 de Agosto de 1988; entrou em 2006; por ano: 1999 Triciclos, 2000 Triciclos, 2002 Trotinetas, 2003 Bicicletas, 2007 Ani. Equipa, 2008 Ani. Equipa, 2009 Ani. Livre.*
+Nasceu a 6 de Agosto de 1988.
 
 Beatriz Miranda é desde 2006, um das animadoras do Colégio da Imaculada Conceição.
 

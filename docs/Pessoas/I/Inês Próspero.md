@@ -1,6 +1,6 @@
 # Inês Próspero
 
-*Segundo a lista de animadores do CSJB de 2010: nasceu a 19 de Fevereiro de 1985; geração de 2003; campo de formação: Graal II; por ano: 2002 Lambretas, 2003 Formação, 2006 Ani. Equipa.*
+Nasceu a 19 de Fevereiro de 1985.
 
 Inês Próspero é antiga aluna do [CSJB](../../Movimento/CSJB.md) e animadora desde 2003.
 

@@ -1,6 +1,6 @@
 # Francisco Lopes
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 6 de Fevereiro de 1980.*
+Nasceu a 6 de Fevereiro de 1980.
 
 Francisco Lopes foi um dos animadores do Colégio da Imaculada Conceição.
 

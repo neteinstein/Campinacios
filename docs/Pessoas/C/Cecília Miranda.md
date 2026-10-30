@@ -1,6 +1,6 @@
 # Cecília Miranda
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 27 de Junho de 1987; entrou em 2005; por ano: 2006 Ani. Equipa, 2007 Ani. Equipa, 2008 Ani. Equipa, 2009 Ani. Livre.*
+Nasceu a 27 de Junho de 1987.
 
 Cecília Miranda é desde 2005, uma das animadoras do Colégio da Imaculada Conceição.
 

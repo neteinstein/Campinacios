@@ -1,6 +1,6 @@
 # Guilherme Ribeiro
 
-*Segundo a lista de animadores do CSJB de 2010: nasceu a 8 de Julho de 1987; geração de 2005; por ano: 1998 Triciclos.*
+Nasceu a 8 de Julho de 1987.
 
 ### Acampamentos
 

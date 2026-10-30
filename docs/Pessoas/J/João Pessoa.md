@@ -1,7 +1,5 @@
 # João Pessoa
 
-*Segundo a lista de animadores do CAIC de 2008/2009: entrou em 1990.*
-
 João Pessoa foi desde 1990 dos animadores do Colégio da Imaculada Conceição.
 
 ## História dentro do movimento

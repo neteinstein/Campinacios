@@ -2,6 +2,8 @@
 
 *Nota: Há outras pessoas chamadas Francisco Almeida: ver [Francisco Almeida](../../Movimento/Desambigua%C3%A7%C3%A3o/Francisco%20Almeida.md).*
 
+Francisco Almeida aparece na lista de animadores do Colégio S. João de Brito de 2010.
+
 ---
 
 | Categorias |

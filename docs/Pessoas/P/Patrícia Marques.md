@@ -1,5 +1,7 @@
 # Patrícia Marques
 
+Patrícia Marques aparece na lista de animadores do Colégio S. João de Brito de 2010.
+
 ---
 
 | Categorias |

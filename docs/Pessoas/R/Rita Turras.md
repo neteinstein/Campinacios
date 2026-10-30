@@ -1,7 +1,5 @@
 # Rita Turras
 
-*Segundo a lista de animadores do CSJB de 2010: geração de 2004.*
-
 ### Acampamentos
 
 - **Participante**

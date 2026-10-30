@@ -1,6 +1,6 @@
 # Tiago Pimenta
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 30 de Dezembro de 1990; entrou em 2008; por ano: 2003 Trotinetas, 2004 Trotinetas, 2005 Bicicletas, 2006 Bicicletas, 2007 Lambretas, 2008 Lambretas, 2009 Formação.*
+Nasceu a 30 de Dezembro de 1990. Entrou para os animadores do CAIC em 2008.
 
 Tiago Pimenta é um dos animadores do Colégio da Imaculada Conceição.
 
@@ -21,7 +21,7 @@ Tiago Pimenta é um dos animadores do Colégio da Imaculada Conceição.
     - 2007 [Diz Que Sim](../../Acampamentos/2007/Diz%20Que%20Sim.md)
     - 2008 [TufarfarAway](../../Acampamentos/2008/TufarfarAway.md)
 - **Formação:**
-    - Nenhum
+    - 2009 [Caminho](../../Acampamentos/2009/Caminho.md)
 - **Animador:**
     - 2011 [Pedra papel tesoura](../../Acampamentos/2011/Pedra%20papel%20tesoura.md)
 

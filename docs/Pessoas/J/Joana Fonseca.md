@@ -1,7 +1,5 @@
 # Joana Fonseca
 
-*Segundo a lista de animadores do CSJB de 2010: geração de 2007; campo de formação: Exodo.*
-
 - **Participante:**
     - 2001 [Surpresa](../../Acampamentos/2001/Surpresa.md)
     - 2003 [Farol](../../Acampamentos/2003/Farol.md)

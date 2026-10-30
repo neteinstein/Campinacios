@@ -1,6 +1,9 @@
 # Margarida Morais
 
-*Segundo a lista de animadores do CSJB de 2010: geração de 2006; campo de formação: Graal III.*
+### Acampamentos
+
+- **Formação:**
+    - 2007 [Graal III](../../Acampamentos/2007/Graal%20III.md)
 
 ---
 

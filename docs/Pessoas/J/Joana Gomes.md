@@ -1,7 +1,5 @@
 # Joana Gomes
 
-*Segundo a lista de animadores do CSJB de 2010: geração de 2006; campo de formação: Graal III.*
-
 ### Cargos
 
 - 2010/2011 - Membro da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)

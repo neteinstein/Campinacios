@@ -1,7 +1,5 @@
 # Francisco Martins
 
-*Segundo a lista de animadores do CAIC de 2008/2009: por ano: 2009 Capelão.*
-
 ### Cargos
 
 - 2009/2011  -  Membro da [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md)

@@ -1,6 +1,6 @@
 # Sofia Amaral
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 21 de Maio de 1987; entrou em 2005; por ano: 2006 Ani. Equipa.*
+Nasceu a 21 de Maio de 1987.
 
 Sofia Amaral foi de 2005 a 2006 uma das animadoras do Colégio da Imaculada Conceição.
 

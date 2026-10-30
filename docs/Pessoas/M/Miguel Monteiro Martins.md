@@ -2,14 +2,14 @@
 
 *Nota: Há outras pessoas chamadas Miguel Martins: ver [Miguel Martins](../../Movimento/Desambigua%C3%A7%C3%A3o/Miguel%20Martins.md).*
 
-*Segundo a lista de animadores do CSJB de 2010: geração de 2007; campo de formação: Exodo.*
-
 ### Cargos
 
 - 2009/2011  -  Membro da [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
 
 ### Acampamentos
 
+- **Formação:**
+    - 2008 [Êxodo](../../Acampamentos/2008/%C3%8Axodo.md)
 - **Animador**
     - 2009 [Bublix](../../Acampamentos/2009/Bublix.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2010 [Obra Prima](../../Acampamentos/2010/Obra%20Prima.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)

@@ -1,9 +1,9 @@
 # Helena Pais
 
-*Segundo a lista de animadores do CSJB de 2010: geração de 2006; campo de formação: Graal III.*
-
 ### Acampamentos
 
+- **Formação:**
+    - 2007 [Graal III](../../Acampamentos/2007/Graal%20III.md)
 - **Animadora**
     - 2008 [Eureka](../../Acampamentos/2008/Eureka.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2010 [4º Dto](../../Acampamentos/2010/4%C2%BA%20Dto.md) - [Mamã](../../Cargos/Mam%C3%A3.md)

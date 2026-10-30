@@ -1,6 +1,6 @@
 # Joana Cardim
 
-*Segundo a lista de animadores do CSJB de 2010: nasceu a 10 de Janeiro de 1990.*
+Nasceu a 10 de Janeiro de 1990.
 
 ### Cargos
 

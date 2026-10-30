@@ -1,6 +1,6 @@
 # Inês Patrício
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 25 de Março de 1985; entrou em 2003; por ano: 1996 Triciclos, 1997 Triciclos (2) (M), 1998 Trotinetas, 1999 Trotinetas, 2000 Bicicletas, 2001 Bicicletas, 2002 Lambretas, 2003 Formação, 2004 Ani. Equipa, 2006 Tia, 2007 Ani. Livre.*
+Nasceu a 25 de Março de 1985.
 
 Inês Patrício foi de 2003 a 2008 uma das animadoras do Colégio da Imaculada Conceição.
 

@@ -1,6 +1,6 @@
 # Bernardo Narciso
 
-*Segundo a lista de animadores do CSJB de 2010: nasceu a 7 de Fevereiro de 1986; geração de 2004; por ano: 1999 Trotinetas, 2001 Bicicletas, 2003 Lambretas, 2004 Lambretas, 2005 Ani. Equipa, 2006 Ani. Livre, 2007 D-Adjunto.*
+Nasceu a 7 de Fevereiro de 1986.
 
 ## História dentro do movimento
 

@@ -1,6 +1,6 @@
 # Catarina Fonseca
 
-*Segundo a lista de animadores do CSJB de 2010: nasceu a 19 de Julho de 1990.*
+Nasceu a 19 de Julho de 1990.
 
 ### Acampamentos
 

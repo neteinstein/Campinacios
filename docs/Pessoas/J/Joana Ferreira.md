@@ -2,7 +2,7 @@
 
 *Nota: Este artigo é sobre Joana Ferreira, animadora do CAIC desde 1999. Há outras pessoas chamadas Joana Ferreira: ver [Joana Ferreira](../../Movimento/Desambigua%C3%A7%C3%A3o/Joana%20Ferreira.md).*
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 21 de Agosto de 1981; entrou em 1999; por ano: 2003 Mamã, 2005 Tia.*
+Nasceu a 21 de Agosto de 1981.
 
 Joana Ferreira é desde 1999, um das animadoras do Colégio da Imaculada Conceição.
 

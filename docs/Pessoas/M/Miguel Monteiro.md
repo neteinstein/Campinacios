@@ -1,6 +1,6 @@
 # Miguel Monteiro
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 18 de Dezembro de 1989; entrou em 2007; por ano: 2007 Lambretas, 2008 Formação, 2009 Ani. Equipa.*
+Nasceu a 18 de Dezembro de 1989. Entrou para os animadores do CAIC em 2007.
 
 Miguel Monteiro é um dos animadores do Colégio da Imaculada Conceição.
 

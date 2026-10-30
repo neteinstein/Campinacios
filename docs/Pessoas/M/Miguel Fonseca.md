@@ -1,7 +1,5 @@
 # Miguel Fonseca
 
-*Segundo a lista de animadores do CAIC de 2008/2009: por ano: 2001 Lambretas, 2002 Formação.*
-
 Miguel Fonseca foi de 2001 a 2002 um dos animadores do Colégio da Imaculada Conceição.
 
 ## História dentro do movimento

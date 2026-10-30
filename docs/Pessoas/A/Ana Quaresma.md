@@ -1,7 +1,5 @@
 # Ana Quaresma
 
-*Segundo a lista de animadores do CSJB de 2010: geração de 2004; por ano: 2006 Ani. Equipa.*
-
 ### Acampamentos
 
 - **Participante**

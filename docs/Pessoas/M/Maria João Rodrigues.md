@@ -1,6 +1,6 @@
 # Maria João Rodrigues
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 22 de Abril de 1980.*
+Nasceu a 22 de Abril de 1980.
 
 Maria João Rodrigues foi uma dos animadoras do Colégio da Imaculada Conceição.
 

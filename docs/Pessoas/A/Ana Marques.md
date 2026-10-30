@@ -1,6 +1,6 @@
 # Ana Marques
 
-*Segundo a lista de animadores do CAIC de 2008/2009: nasceu a 22 de Maio de 1976.*
+Nasceu a 22 de Maio de 1976.
 
 Ana Marques foi uma das animadoras do Colégio da Imaculada Conceição.
 

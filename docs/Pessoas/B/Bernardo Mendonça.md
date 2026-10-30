@@ -1,7 +1,5 @@
 # Bernardo Mendonça
 
-*Segundo a lista de animadores do CSJB de 2010: geração de 2001; por ano: 2005 Ani. Livre, 2006 Ani. Livre.*
-
 ### Acampamentos
 
 - **Participante**
