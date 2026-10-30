@@ -25,13 +25,13 @@
 
 **Recordes por cargo:**
 
-- [Director](Cargos/Director.md) - [Lourenço Eiró](Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj (9, entre 1991 e 2011); entre leigos, [Miguel França Martins](Pessoas/M/Miguel%20Fran%C3%A7a%20Martins.md) (5, entre 2012 e 2016)
+- [Director](Cargos/Director.md) - [Lourenço Eiró](Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj (8, entre 1991 e 2011); entre leigos, [Miguel França Martins](Pessoas/M/Miguel%20Fran%C3%A7a%20Martins.md) (5, entre 2012 e 2016)
 - [Director-Adjunto](Cargos/Director-Adjunto.md) - [Heitor Rosa](Pessoas/H/Heitor%20Rosa.md) (6, entre 2021 e 2025)
 - [Mamã](Cargos/Mam%C3%A3.md) - [São Martinho](Pessoas/C/Concei%C3%A7%C3%A3o%20Martinho.md) (10, entre 1992 e 1999)
 - [Capelão](Cargos/Capel%C3%A3o.md) - [Luís Onofre](Pessoas/L/Lu%C3%ADs%20Onofre.md) sj (17, entre 2003 e 2026)
-- [Tio/Tia](Cargos/Tio.md) - [Ana Geão](Pessoas/A/Ana%20Ge%C3%A3o.md) (4, entre 1999 e 2004), [Maria João Simões](Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md) (4, entre 1997 e 2005) e [Ricardo Lopes](Pessoas/R/Ricardo%20Lopes.md) (4, entre 2000 e 2003)
+- [Tio/Tia](Cargos/Tio.md) - [Ana Geão](Pessoas/A/Ana%20Ge%C3%A3o.md) (4, entre 1999 e 2004), [Maria João Simões](Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md) (4, entre 1997 e 2005), [Ricardo Lopes](Pessoas/R/Ricardo%20Lopes.md) (4, entre 2000 e 2003), [Marta Martins](Pessoas/M/Marta%20Martins.md) (4, entre 2023 e 2026) e [Mariana Ramalho](Pessoas/M/Mariana%20Ramalho.md) (4, entre 2023 e 2026)
 - [Animador Livre](Cargos/Animador%20Livre.md) - [Vasco Vasconcelos](Pessoas/V/Vasco%20Vasconcelos.md) (9, entre 2004 e 2014)
-- [Animador de Equipa](Cargos/Animador%20de%20Equipa.md) - [Joana Nunes](Pessoas/J/Joana%20Nunes.md) (6, entre 1999 e 2004)
+- [Animador de Equipa](Cargos/Animador%20de%20Equipa.md) - [Nuno Ferreira](Pessoas/N/Nuno%20Ferreira.md) (8, entre 2018 e 2026)
 
 </div>
 
