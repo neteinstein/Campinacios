@@ -11,7 +11,7 @@ Luísa Gaspar é desde 2003, um das animadoras do Colégio da Imaculada Conceiç
 - **Participante**
     - Nenhum
 - **Formação:**
-    - 2002 [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md)
+    - 2002 [Graal I](../../Acampamentos/2002/Graal%20I.md)
     - 2003 [Graal II](../../Acampamentos/2003/Graal%20II.md)
 - **Animador:**
     - 2005 [Falésia](../../Acampamentos/2005/Fal%C3%A9sia.md) - [Tia](../../Cargos/Tio.md)

@@ -9,7 +9,7 @@ Nuno Simões foi um dos animadores do Colégio da Imaculada Conceição. Segundo
 - **Participante:**
     - 2001 Lambretas
 - **Formação:**
-    - 2002 [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md)
+    - 2002 [Graal I](../../Acampamentos/2002/Graal%20I.md)
 
 ---
 

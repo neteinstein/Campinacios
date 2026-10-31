@@ -12,14 +12,21 @@ O Graal I foi um acampamento de [Formação de Animadores](../../Categorias/Form
 
 - [Carolina Carvalho](../../Pessoas/C/Carolina%20Carvalho.md)
 - [Catarina Alves](../../Pessoas/C/Catarina%20Alves.md)
+- [Catarina Pedroso](../../Pessoas/C/Catarina%20Pedroso.md)
 - [Cláudia Coelho](../../Pessoas/C/Cl%C3%A1udia%20Coelho.md)
+- [Diana Gala](../../Pessoas/D/Diana%20Gala.md)
 - [Joaquim Abreu](../../Pessoas/J/Joaquim%20Abreu.md)
 - [José Eugénio Lopes](../../Pessoas/J/Jos%C3%A9%20Eug%C3%A9nio%20Lopes.md)
+- [José Pedro Tomaz](../../Pessoas/J/Jos%C3%A9%20Pedro%20Tomaz.md)
 - [Luís Azevedo](../../Pessoas/L/Lu%C3%ADs%20Azevedo.md)
+- [Luísa Gaspar](../../Pessoas/L/Lu%C3%ADsa%20Gaspar.md)
 - [Miguel Fonseca](../../Pessoas/M/Miguel%20Fonseca.md)
+- [Nuno Simões](../../Pessoas/N/Nuno%20Sim%C3%B5es.md)
+- [Rafaela Lúcio](../../Pessoas/R/Rafaela%20L%C3%BAcio.md)
 - [Renato Costa](../../Pessoas/R/Renato%20Costa.md)
 - [Rita Roxo](../../Pessoas/R/Rita%20Roxo.md)
 - [Rita Simões](../../Pessoas/R/Rita%20Sim%C3%B5es.md)
+- [Sílvia Domingos](../../Pessoas/S/S%C3%ADlvia%20Domingos.md)
 - [Susana Vaz Pedro](../../Pessoas/S/Susana%20Vaz%20Pedro.md)
 
 ---
