@@ -12,6 +12,10 @@ O lema do colégio era «Educar para servir», que radicava nos valores do Evang
 
 O CAIC leccionava do 5.º ao 12.º ano. Tinha ainda Cursos de Educação e Formação (CEF), de serviço de mesa e de instalação e reparação de computadores, e um curso profissional de cozinha, que continuava o de serviço de mesa, com equivalência ao 12.º ano e estágios (no fim, Técnico de Restauração, nas variantes Cozinha/Pastelaria e Restaurante/Bar). Com os CEF, chegou a ter mais de 800 alunos, com cerca de 60 professores e 25 funcionários.
 
+## Planta do colégio
+
+[![Planta do Colégio da Imaculada Conceição, com os edifícios, os campos de jogos, os caminhos e a mata à volta, e a rosa-dos-ventos no canto inferior direito](../assets/imagens/Planta%20do%20CAIC.jpg)](../assets/imagens/Planta%20do%20CAIC.jpg)
+
 ## O fecho (2019) {#o-fecho}
 
 Em 2016, o Ministério da Educação acabou com os Contratos de Associação, que vigoravam havia 40 anos, numa decisão a que o colégio se opôs sem sucesso. O CAIC ficou numa grave situação financeira. No ano lectivo de 2016/2017 continuou gratuito para os alunos, pago com os seus próprios recursos, mesmo já sem o financiamento do Estado em muitas turmas. Depois tentou refazer-se como colégio privado, pago pelas famílias, mas não conseguiu alunos que chegassem.
