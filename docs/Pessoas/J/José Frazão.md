@@ -1,6 +1,5 @@
 # José Frazão
 
-José Frazão é ex-aluno do [CAIC](../../Movimento/CAIC.md).
 
 ### Cargos
 
