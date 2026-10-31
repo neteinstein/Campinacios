@@ -46,6 +46,10 @@ A [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) que p
 [Gonçalo Vaz Pedro](../../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md) e
 [Lourenço Eiró](../../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md) sj.
 
+## Patrocínios
+
+O separador «Patrocínios» da mesma folha de cálculo repartia pelos directores os pedidos às empresas, com o que se queria pedir a cada uma e a zona (Coimbra, Lisboa, Santo Tirso, Famalicão, Trofa, Pombal…). Pediram-se aperitivos e batatas fritas à Matutano e à Super Chips, bolos e queques à Dan Cake e à Panrico, bolachas à Vieira de Castro, à Cuétara, à Dulce Sol e à Parmalat, iogurtes à Yoplait e à Longa Vida, carnes à Probar, sumos à Sumol, água à António Barroso Martins, géneros alimentícios ao Feira Nova, tecidos para os lenços aos Tecidos Carriço, combustível à Galp e comunicações à Vodafone. A Matutano, a Dan Cake, a Panrico e a Dulce Sol deram, e a Matutano, a Feira Nova, a Vieira de Castro e a Parmalat já tinham dado nos anos anteriores.
+
 ## Publicidade
 
 Os cartazes das pré-inscrições de 2008 (de 12 a 21 de Maio), da secção «Publicidades» da página dos Campinácios:
