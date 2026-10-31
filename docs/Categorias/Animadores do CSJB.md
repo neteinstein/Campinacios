@@ -2,17 +2,19 @@
 
 Animadores do Colégio do Colégio São João de Brito
 
-## Páginas nesta categoria (213)
+## Páginas nesta categoria (217)
 
 - [Adriana Gil](../Pessoas/A/Adriana%20Gil.md)
 - [Alex](../Pessoas/A/Alex.md)
 - [Ana Martins](../Pessoas/A/Ana%20Martins.md)
 - [Ana Pais](../Pessoas/A/Ana%20Pais.md)
 - [Ana Quaresma](../Pessoas/A/Ana%20Quaresma.md)
+- [Ana Rita Lynce](../Pessoas/A/Ana%20Rita%20Lynce.md)
 - [Ana Sancho](../Pessoas/A/Ana%20Sancho.md)
 - [Ana Vacas](../Pessoas/A/Ana%20Vacas.md)
 - [Ana Virgínia Nogueira](../Pessoas/A/Ana%20Virg%C3%ADnia%20Nogueira.md)
 - [António Amaral](../Pessoas/A/Ant%C3%B3nio%20Amaral.md)
+- [António Andrade](../Pessoas/A/Ant%C3%B3nio%20Andrade.md)
 - [António Leal](../Pessoas/A/Ant%C3%B3nio%20Leal.md)
 - [António Matias](../Pessoas/A/Ant%C3%B3nio%20Matias.md)
 - [António Queiroz Martins](../Pessoas/A/Ant%C3%B3nio%20Queiroz%20Martins.md)
@@ -61,6 +63,7 @@ Animadores do Colégio do Colégio São João de Brito
 - [Gonçalo Belo](../Pessoas/G/Gon%C3%A7alo%20Belo.md)
 - [Gonçalo Coimbra](../Pessoas/G/Gon%C3%A7alo%20Coimbra.md)
 - [Gonçalo Fonseca Carvalho](../Pessoas/G/Gon%C3%A7alo%20Fonseca%20Carvalho.md)
+- [Gonçalo Forte Vaz](../Pessoas/G/Gon%C3%A7alo%20Forte%20Vaz.md)
 - [Gonçalo Frade](../Pessoas/G/Gon%C3%A7alo%20Frade.md)
 - [Gonçalo Garcia](../Pessoas/G/Gon%C3%A7alo%20Garcia.md)
 - [Gonçalo Graça](../Pessoas/G/Gon%C3%A7alo%20Gra%C3%A7a.md)
@@ -76,6 +79,7 @@ Animadores do Colégio do Colégio São João de Brito
 - [Inês Próspero](../Pessoas/I/In%C3%AAs%20Pr%C3%B3spero.md)
 - [Inês Serra Ferreira](../Pessoas/I/In%C3%AAs%20Serra%20Ferreira.md)
 - [Inês Turras](../Pessoas/I/In%C3%AAs%20Turras.md)
+- [Isa Neves](../Pessoas/I/Isa%20Neves.md)
 - [Isabel Neves](../Pessoas/I/Isabel%20Neves.md)
 - [Isabel Sá Fernandes](../Pessoas/I/Isabel%20S%C3%A1%20Fernandes.md)
 - [Jaime Lucas Pires](../Pessoas/J/Jaime%20Lucas%20Pires.md)

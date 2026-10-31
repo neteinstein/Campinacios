@@ -1,5 +1,7 @@
 # Francisca Mendes
 
+Francisca Mendes aparece nas listas de animadores do [CSJB](../../Movimento/CSJB.md) de 2005-06 a 2006-07.
+
 ### Cargos
 
 - 2006/2007 Secretária da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)

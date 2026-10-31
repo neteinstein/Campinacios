@@ -1,5 +1,7 @@
 # Mafalda Trigo da Roza
 
+Mafalda Trigo da Roza aparece nas listas de animadores do [CSJB](../../Movimento/CSJB.md) de 2006-07 a 2008-09.
+
 ### Acampamentos
 
 - **Animadora:**

@@ -2,6 +2,8 @@
 
 Nasceu a 8 de Julho de 1987.
 
+Guilherme Ribeiro aparece nas listas de animadores do [CSJB](../../Movimento/CSJB.md) de 2005-06 a 2008-09.
+
 ### Acampamentos
 
 - **Participante:**

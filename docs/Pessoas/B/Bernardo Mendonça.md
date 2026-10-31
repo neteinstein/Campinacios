@@ -1,5 +1,7 @@
 # Bernardo Mendonça
 
+Bernardo Mendonça aparece nas listas de animadores do [CSJB](../../Movimento/CSJB.md) de 2002-03 a 2006-07.
+
 ### Acampamentos
 
 - **Participante**

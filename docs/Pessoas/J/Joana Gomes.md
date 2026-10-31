@@ -1,5 +1,7 @@
 # Joana Gomes
 
+Joana Gomes aparece nas listas de animadores do [CSJB](../../Movimento/CSJB.md) de 2007-08 a 2008-09.
+
 ### Cargos
 
 - 2010/2011 - Membro da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)

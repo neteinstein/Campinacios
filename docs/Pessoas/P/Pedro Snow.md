@@ -1,5 +1,7 @@
 # Pedro Snow
 
+Pedro Snow aparece nas listas de animadores do [CSJB](../../Movimento/CSJB.md) de 2006-07 a 2008-09.
+
 ### Cargos
 
 - 2007-2009 Membro da [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)

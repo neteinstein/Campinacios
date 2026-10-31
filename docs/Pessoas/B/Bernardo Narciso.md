@@ -2,6 +2,8 @@
 
 Nasceu a 7 de Fevereiro de 1986.
 
+Bernardo Narciso aparece nas listas de animadores do [CSJB](../../Movimento/CSJB.md) de 2005-06 a 2008-09.
+
 ## História dentro do movimento
 
 ### Cargos

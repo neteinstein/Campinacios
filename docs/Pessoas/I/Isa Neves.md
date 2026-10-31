@@ -14,3 +14,4 @@ Segundo as listas de animadores do CSJB, até 2002 tinha participado em 4 acampa
 | Categorias |
 | --- |
 | [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |
