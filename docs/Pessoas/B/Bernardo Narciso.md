@@ -12,6 +12,8 @@ Nasceu a 7 de Fevereiro de 1986.
 
 - **Participante**
     - 1997 [Triciclos 1](../../Acampamentos/1997/Triciclos%201.md)
+    - 1999 Trotinetas
+    - 2001 Bicicletas
     - 2003 [Rastilho](../../Acampamentos/2003/Rastilho.md)
     - 2004 [Mikelin Descobre a Vida](../../Acampamentos/2004/Mikelin%20Descobre%20a%20Vida.md)
 - **Formação:**

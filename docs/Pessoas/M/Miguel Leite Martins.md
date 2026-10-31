@@ -2,6 +2,8 @@
 
 *Nota: Há outras pessoas chamadas Miguel Martins: ver [Miguel Martins](../../Movimento/Desambigua%C3%A7%C3%A3o/Miguel%20Martins.md).*
 
+Segundo as listas de animadores do CSJB, até 2002 tinha participado em 2 acampamentos e animado 2.
+
 ### Cargos
 
 - 2000/2001 Coordenador da [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)

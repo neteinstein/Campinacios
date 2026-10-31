@@ -1,5 +1,7 @@
 # Rita Maria Fernandes
 
+Segundo as listas de animadores do CSJB, até 2002 tinha animado 5 acampamentos.
+
 ### Acampamentos
 
 - **Participante**

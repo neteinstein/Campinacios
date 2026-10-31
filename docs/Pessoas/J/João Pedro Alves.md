@@ -2,7 +2,7 @@
 
 Nasceu a 1 de Janeiro de 1984. Entrou para os animadores do CAIC em 2002.
 
-João Pedro Alves foi um dos animadores do Colégio da Imaculada Conceição.
+João Pedro Alves foi um dos animadores do Colégio da Imaculada Conceição. Segundo as listas de animadores do CAIC, até 2004 tinha animado 1 acampamento.
 
 ### Acampamentos
 

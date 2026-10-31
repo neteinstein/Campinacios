@@ -1,6 +1,6 @@
 # Rita Lourenço
 
-Rita Lourenço é desde 2005 uma das animadoras do Colégio da Imaculada Conceição.
+Rita Lourenço é desde 2005 uma das animadoras do Colégio da Imaculada Conceição. Segundo as listas de animadores do CAIC, até 2008 tinha participado em 4 acampamentos.
 
 ## História dentro do movimento
 

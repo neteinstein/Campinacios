@@ -1,5 +1,7 @@
 # João Pedro Carlos
 
+Segundo as listas de animadores do CSJB, até 2002 tinha participado em 2 acampamentos.
+
 ### Acampamentos
 
 - **Animador:**

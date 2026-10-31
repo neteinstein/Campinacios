@@ -2,6 +2,11 @@
 
 ### Acampamentos
 
+- **Participante:**
+    - 1998 Triciclos
+    - 2002 Bicicletas
+    - 2003 Bicicletas
+    - 2005 Lambretas
 - **Animadora**
     - 2006 [Origami](../../Acampamentos/2006/Origami.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
     - 2007 [M&M](../../Acampamentos/2007/M%26M.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)

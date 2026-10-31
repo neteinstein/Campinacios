@@ -2,7 +2,7 @@
 
 Nasceu a 27 de Julho de 1984.
 
-Rita Simões é desde 2002, uma das animadoras do Colégio da Imaculada Conceição.
+Rita Simões é desde 2002, uma das animadoras do Colégio da Imaculada Conceição. Segundo as listas de animadores do CAIC, até 2004 tinha participado em 4 acampamentos.
 
 ## História dentro do movimento
 

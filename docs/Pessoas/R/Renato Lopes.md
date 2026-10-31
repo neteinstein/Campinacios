@@ -2,13 +2,14 @@
 
 Nasceu a 15 de Novembro de 1982.
 
-Renato Lopes foi de 1998 a 2004 um dos animadores do Colégio da Imaculada Conceição.
+Renato Lopes foi de 1998 a 2004 um dos animadores do Colégio da Imaculada Conceição. Segundo as listas de animadores do CAIC, até 2004 tinha participado em 6 acampamentos.
 
 ## História dentro do movimento
 
 ### Acampamentos
 
 - **Participante**
+    - 1995 Triciclos (duas vezes) e Trotinetas
     - 1996 Trotinetas
     - 1997 Bicicletas
     - 1998 [Calinadas](../../Acampamentos/1998/Calinadas.md)

@@ -1,5 +1,7 @@
 # Luís Godinho
 
+Segundo as listas de animadores do CSJB, até 2002 tinha animado 3 acampamentos.
+
 ### Acampamentos
 
 - **Participante**

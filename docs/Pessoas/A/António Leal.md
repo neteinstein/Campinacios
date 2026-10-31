@@ -1,5 +1,7 @@
 # António Leal
 
+Segundo as listas de animadores do CSJB, até 2002 tinha animado 2 acampamentos.
+
 ### Acampamentos
 
 - **Participante**

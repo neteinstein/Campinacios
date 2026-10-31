@@ -1,5 +1,7 @@
 # Diogo Romão
 
+Segundo as listas de animadores do CSJB, até 2002 tinha participado em 4 acampamentos e animado 4.
+
 ### Acampamentos
 
 - **Animador**

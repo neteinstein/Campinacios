@@ -2,7 +2,7 @@
 
 Nasceu a 14 de Junho de 1984.
 
-Cláudia Coelho foi de 2002 a 2005 um das animadoras do Colégio da Imaculada Conceição.
+Cláudia Coelho foi de 2002 a 2005 um das animadoras do Colégio da Imaculada Conceição. Segundo as listas de animadores do CAIC, até 2005 tinha participado em 2 acampamentos.
 
 ## História dentro do movimento
 

@@ -8,6 +8,13 @@ Diogo Cordeiro Ferreira, mais conhecido por Goga, é animador do CSJB.
 
 ### Acampamentos
 
+- **Participante:**
+    - 1998 Triciclos
+    - 1999 Triciclos
+    - 2001 Trotinetas
+    - 2003 Bicicletas
+    - 2004 Lambretas
+    - 2005 Lambretas
 - **Animador**
     - 2006 [Nómada](../../Acampamentos/2006/N%C3%B3mada.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2007 [OPA](../../Acampamentos/2007/OPA.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)

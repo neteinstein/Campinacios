@@ -1,6 +1,6 @@
 # Filipa Silva
 
-Filipa Silva aparece na lista de animadores do Colégio S. João de Brito de 2010.
+Filipa Silva aparece na lista de animadores do Colégio S. João de Brito de 2010. Segundo as listas de animadores do CSJB, até 2002 tinha participado em 3 acampamentos.
 
 ---
 

@@ -1,5 +1,7 @@
 # Simão Alves da Silva
 
+Segundo as listas de animadores do CSJB, até 2002 tinha participado em 2 acampamentos e animado 3.
+
 ---
 
 | Categorias |

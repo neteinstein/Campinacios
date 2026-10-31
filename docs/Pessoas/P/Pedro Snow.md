@@ -6,6 +6,11 @@
 
 ### Acampamentos
 
+- **Participante:**
+    - 1999 Triciclos
+    - 2000 Triciclos
+    - 2004 Bicicletas
+    - 2005 Lambretas
 - **Formação:**
     - 2007 [Graal III](../../Acampamentos/2007/Graal%20III.md)
 - **Animador**
