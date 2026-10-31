@@ -1,6 +1,6 @@
 # Martim Cunha Ferreira
 
-Segundo as listas de animadores do CSJB, até 2002 tinha participado em 4 acampamentos e animado 7.
+Segundo as listas de animadores do CSJB, até 2002 tinha participado em 4 acampamentos e animado 7. Martim Cunha Ferreira é ex-aluno do [CSJB](../../Movimento/CSJB.md).
 
 ### Acampamentos
 

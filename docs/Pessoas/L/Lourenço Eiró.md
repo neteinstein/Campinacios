@@ -1,6 +1,6 @@
 # Lourenço Eiró
 
-Lourenço Eiró foi um dos fundadores dos [Campinácios](../../Movimento/Campin%C3%A1cios.md).
+Lourenço Eiró foi um dos fundadores dos [Campinácios](../../Movimento/Campin%C3%A1cios.md). É ex-aluno do [CSJB](../../Movimento/CSJB.md).
 
 ### Cargos
 

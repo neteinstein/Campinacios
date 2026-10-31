@@ -1,6 +1,6 @@
 # João Ilhão
 
-João Ilhão é animador do [CC](../../Categorias/Animadores%20do%20CC.md).
+João Ilhão é animador do [CC](../../Categorias/Animadores%20do%20CC.md). É ex-aluno do [CC](../../Movimento/CC.md).
 
 ### Acampamentos
 

@@ -2,6 +2,8 @@
 
 *Nota: Este artigo é sobre Miguel Pedro Melo (Missé), animador do CC desde 2005 e jesuíta. Se procura Miguel Melo Ribeiro (Migalha), animador do CSJB e jesuíta, consulte [Miguel Melo Ribeiro](Miguel%20Melo%20Ribeiro.md).*
 
+Miguel Melo é ex-aluno do [CC](../../Movimento/CC.md).
+
 ### Acampamentos
 
 - **Participante:**

@@ -1,5 +1,7 @@
 # Pedro Rocha Mendes
 
+Pedro Rocha Mendes é ex-aluno do [CSJB](../../Movimento/CSJB.md).
+
 ### Cargos
 
 - 1999 Coordenador do [Jambo 99](../../Acampamentos/1999/Jambo%2099.md)

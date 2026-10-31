@@ -1,6 +1,6 @@
 # José Maria Brito
 
-Também conhecido por Zé Maria Brito ou Zebra. Faleceu em Abril de 2024.
+Também conhecido por Zé Maria Brito ou Zebra. Faleceu em Abril de 2024. Foi aluno do [CSJB](../../Movimento/CSJB.md).
 
 ### Cargos
 
