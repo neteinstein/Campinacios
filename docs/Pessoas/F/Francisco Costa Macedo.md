@@ -1,6 +1,6 @@
 # Francisco Costa Macedo
 
-Francisco Costa Macedo foi um animador do CSJB. Foi também jesuíta. É ex-aluno do [CSJB](../../Movimento/CSJB.md).
+Francisco Costa Macedo foi um animador do CSJB. Foi também jesuíta.
 
 ## Família
 
