@@ -2,6 +2,8 @@
 
 *Nota: Este artigo é sobre Inês Serra Ferreira, animadora do Alvoco II (1999). Se procura Inês Ferreira (Sisky), do Caldorado (2024), consulte [Inês Ferreira](In%C3%AAs%20Ferreira.md).*
 
+Segundo as listas de animadores do CSJB, até 2002 tinha animado 2 acampamentos.
+
 ### Acampamentos
 
 - **Participante**

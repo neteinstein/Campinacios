@@ -1,7 +1,11 @@
 # Rita Mendes
 
+Rita Mendes aparece nas listas de animadores do [CSJB](../../Movimento/CSJB.md) de 2005-06 a 2006-07.
+
 ### Acampamentos
 
+- **Participante:**
+    - 2005 Lambretas
 - **Animadora**
     - 2007 [Bora Bora](../../Acampamentos/2007/Bora%20Bora.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2008 [Eureka](../../Acampamentos/2008/Eureka.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)

@@ -1,5 +1,7 @@
 # Margarida Morais
 
+Segundo as listas de animadores do CSJB, até 2007 tinha animado 1 acampamento.
+
 ### Acampamentos
 
 - **Formação:**

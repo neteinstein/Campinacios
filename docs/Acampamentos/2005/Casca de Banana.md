@@ -35,6 +35,7 @@ Campo de Formação que decorreu na casa de Singeverga na Páscoa de 2005, de 28
 - [Luis Pereira](../../Pessoas/L/Luis%20Pereira.md)
 - [Madalena Mariz](../../Pessoas/M/Madalena%20Mariz.md)
 - [Mafalda Coelho](../../Pessoas/M/Mafalda%20Coelho.md)
+- [Marta Croca](../../Pessoas/M/Marta%20Croca.md)
 - [Miguel Areias](../../Pessoas/M/Miguel%20Areias.md)
 - [Miguel Melo](../../Pessoas/M/Miguel%20Melo.md)
 - [Pedro Rodrigues](../../Pessoas/P/Pedro%20Rodrigues.md)

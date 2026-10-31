@@ -2,7 +2,7 @@
 
 Nasceu a 27 de Dezembro de 1985. Entrou para os animadores do CAIC em 2003.
 
-Ivo Reis, é um dos animadores do Colégio da Imaculada Conceição.
+Ivo Reis, é um dos animadores do Colégio da Imaculada Conceição. Segundo as listas de animadores do CAIC, até 2008 tinha participado em 3 acampamentos.
 
 ## História dentro do movimento
 

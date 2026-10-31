@@ -1,5 +1,6 @@
 # José Frazão
 
+
 ### Cargos
 
 - 2000/2001 Membro da [Direcção Local do CAIC](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CAIC.md)

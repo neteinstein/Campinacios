@@ -2,7 +2,7 @@
 
 Nasceu a 3 de Setembro de 1984.
 
-Rita Roxo é desde 2002 um das animadoras do Colégio da Imaculada Conceição.
+Rita Roxo é desde 2002 um das animadoras do Colégio da Imaculada Conceição. Segundo as listas de animadores do CAIC, até 2004 tinha participado em 5 acampamentos.
 
 ## História dentro do movimento
 
@@ -10,6 +10,7 @@ Rita Roxo é desde 2002 um das animadoras do Colégio da Imaculada Conceição.
 
 - **Participante**
     - 1995 [Benfeita 95](../../Acampamentos/1995/Benfeita%2095.md)
+    - 1996 Triciclos
     - 2000 [Tranquilo](../../Acampamentos/2000/Tranquilo.md)
 - **Formação:**
     - 2002 [Graal I](../../Acampamentos/2002/Graal%20I.md)

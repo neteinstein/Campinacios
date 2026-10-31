@@ -40,6 +40,18 @@ A agenda anual de 2006/2007, feita para as Direcções Locais e para a Direcçã
 - **Junho e Julho** — a Festa da Família de cada colégio, com os Campinácios; as fichas de inscrição e o dinheiro passam entre os colégios, seguem as cartas para os participantes e tratam-se as autorizações da câmara, da GNR, do delegado de saúde e do proprietário do local; no fim de Julho, a acção de formação do 1.º ano.
 - **Agosto** — os campos.
 
+### A proposta de método de avaliação {#proposta-de-avaliacao}
+
+Nas pastas da Direcção Nacional guarda-se uma «Proposta de método de avaliação nos Campinácios», escrita «p'los animadores» [Ana Simões](../Pessoas/A/Ana%20Sim%C3%B5es.md), [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md), [Rita Simões](../Pessoas/R/Rita%20Sim%C3%B5es.md) e [Rita Roxo](../Pessoas/R/Rita%20Roxo.md) (a última versão é de Fevereiro de 2011). Partia de uma queixa: os erros de campos e de pessoas comentavam-se «nos corredores, nos cafés», com rumores e pouca frontalidade, e a reunião de avaliação com os directores dos colégios era vista como «um momento de graxa». A ideia era educar o movimento para avaliar e ser avaliado, louvando também o que se fazia bem:
+
+- **Durante o ano** — cada Direcção Local mandava aos animadores, no início do ano, um esboço do que ia pedir (reuniões, actividades, encontros, festa de Natal); cada um respondia com a sua disponibilidade, e a meio e no fim do ano era avaliado face ao compromisso que tinha assumido, sem expulsões por pouca presença.
+- **Nos campos** — a direcção e um animador tirado à sorte de um saco avaliavam cada animador, e o resto da direcção e outro animador sorteado avaliavam cada membro da direcção; a avaliação seguia por escrito para a Direcção Nacional, sem resumos, e cada animador conversava sobre ela com alguém de outro colégio e recebia depois o retorno.
+- **Os novos animadores** — avaliados pela Direcção Local e por dois animadores mais velhos sorteados, com critérios iguais nos três colégios, para sermos «um movimento UNO e não três movimentos unidos».
+- **Os campos** — cada direcção de campo reunia-se com a Direcção Nacional antes da reunião com os directores dos colégios, que passava a receber só o resumo.
+- **As Direcções Locais e a Direcção Nacional** — de seis em seis meses, quatro ou cinco animadores sorteados em cada colégio avaliavam-nas anonimamente; as avaliações iam primeiro ao responsável do GRACOS e depois à Direcção Nacional, que antes fazia a sua auto-avaliação.
+
+Propunha ainda formação contínua, com um CIFA de dois em dois anos, e lembrava que a avaliação dos participantes era essencial.
+
 ## Composição por ano
 
 ### 2026/2027

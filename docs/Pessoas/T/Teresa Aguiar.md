@@ -1,5 +1,7 @@
 # Teresa Aguiar
 
+Segundo as listas de animadores do CSJB, até 2002 tinha participado em 3 acampamentos.
+
 ---
 
 | Categorias |

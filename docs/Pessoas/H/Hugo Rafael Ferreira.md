@@ -2,7 +2,7 @@
 
 Nasceu a 12 de Setembro de 1978. Segundo a lista de animadores do CAIC de 2008/2009, animou 10 campos.
 
-Hugo Rafael Ferreira foi de 1996 a 2008 um dos animadores do Colégio da Imaculada Conceição.
+Hugo Rafael Ferreira foi de 1996 a 2008 um dos animadores do Colégio da Imaculada Conceição. Segundo as listas de animadores do CAIC, até 2006 tinha participado em 1 acampamento e animado 10.
 
 ## História dentro do movimento
 

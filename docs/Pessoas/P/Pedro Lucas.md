@@ -1,7 +1,11 @@
 # Pedro Lucas
 
+Pedro Lucas aparece nas listas de animadores do [CSJB](../../Movimento/CSJB.md) de 2005-06 a 2008-09.
+
 ### Acampamentos
 
+- **Participante:**
+    - 2005 Lambretas
 - **Animador**
     - 2006 [Origami](../../Acampamentos/2006/Origami.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2008 [Eureka](../../Acampamentos/2008/Eureka.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)

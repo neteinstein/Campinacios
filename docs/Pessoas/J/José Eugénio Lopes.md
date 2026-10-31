@@ -2,7 +2,7 @@
 
 Nasceu a 3 de Dezembro de 1983.
 
-José Eugénio Lopes mais conhecido por Genito foi de 2001 a 2006 um dos animadores do Colégio da Imaculada Conceição.
+José Eugénio Lopes mais conhecido por Genito foi de 2001 a 2006 um dos animadores do Colégio da Imaculada Conceição. Segundo as listas de animadores do CAIC, até 2005 tinha participado em 5 acampamentos.
 
 ## História dentro do movimento
 

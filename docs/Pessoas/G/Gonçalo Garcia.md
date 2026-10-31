@@ -1,5 +1,7 @@
 # Gonçalo Garcia
 
+Segundo as listas de animadores do CSJB, até 2002 tinha participado em 5 acampamentos.
+
 ### Acampamentos
 
 - **Animador:**

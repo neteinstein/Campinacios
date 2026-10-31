@@ -9,6 +9,8 @@ José Carlos Miranda, é um dos animadores do Colégio da Imaculada Conceição.
 ### Acampamentos
 
 - **Participante:**
+    - 2002 Triciclos
+    - 2003 Trotinetas
     - 2008 [TufarfarAway](../../Acampamentos/2008/TufarfarAway.md)
 - **Formação:**
     - Nenhum

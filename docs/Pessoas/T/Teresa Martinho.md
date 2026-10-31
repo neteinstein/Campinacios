@@ -2,7 +2,7 @@
 
 Nasceu a 15 de Abril de 1976. Segundo a lista de animadores do CAIC de 2008/2009, animou 7 campos.
 
-Teresa Martinho foi uma dos animadoras do Colégio da Imaculada Conceição.
+Teresa Martinho foi uma dos animadoras do Colégio da Imaculada Conceição. Segundo as listas de animadores do CAIC, até 2004 tinha animado 7 acampamentos.
 
 ### Família
 

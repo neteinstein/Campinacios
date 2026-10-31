@@ -1,5 +1,7 @@
 # João Azevedo
 
+Segundo as listas de animadores do CSJB, até 2002 tinha participado em 1 acampamento e animado 1.
+
 ---
 
 | Categorias |

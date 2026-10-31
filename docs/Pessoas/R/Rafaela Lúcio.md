@@ -1,7 +1,11 @@
 # Rafaela Lúcio
 
+Segundo as listas de animadores do CSJB, até 2002 tinha participado em 2 acampamentos.
+
 ### Acampamentos
 
+- **Formação:**
+    - 2002 [Graal I](../../Acampamentos/2002/Graal%20I.md)
 - **Animadora**
     - 2003 [Pimpolhos](../../Acampamentos/2003/Pimpolhos.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2005 [Fófinhos](../../Acampamentos/2005/F%C3%B3finhos.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)

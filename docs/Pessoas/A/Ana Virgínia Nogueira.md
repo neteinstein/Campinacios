@@ -1,6 +1,6 @@
 # Ana Virgínia Nogueira
 
-Ana Virgínia Nogueira aparece na lista de animadores do Colégio S. João de Brito de 2010.
+Ana Virgínia Nogueira aparece na lista de animadores do Colégio S. João de Brito de 2010. Segundo as listas de animadores do CSJB, até 2002 tinha participado em 2 acampamentos e animado 3.
 
 ---
 

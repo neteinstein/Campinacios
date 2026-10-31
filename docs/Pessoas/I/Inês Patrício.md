@@ -2,7 +2,7 @@
 
 Nasceu a 25 de Março de 1985.
 
-Inês Patrício foi de 2003 a 2008 uma das animadoras do Colégio da Imaculada Conceição.
+Inês Patrício foi de 2003 a 2008 uma das animadoras do Colégio da Imaculada Conceição. Segundo as listas de animadores do CAIC, até 2004 tinha participado em 9 acampamentos.
 
 ## História dentro do movimento
 
@@ -10,6 +10,7 @@ Inês Patrício foi de 2003 a 2008 uma das animadoras do Colégio da Imaculada C
 
 - **Participante**
     - 1996 [Caldelas](../../Acampamentos/1996/Caldelas.md)
+    - 1997 Triciclos
     - 1998 [Além](../../Acampamentos/1998/Al%C3%A9m.md)
     - 1999 [Caroço](../../Acampamentos/1999/Caro%C3%A7o.md)
     - 2000 [Tranquilo](../../Acampamentos/2000/Tranquilo.md)

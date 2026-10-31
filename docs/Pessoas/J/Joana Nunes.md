@@ -2,6 +2,8 @@
 
 *Nota: Este artigo é sobre Joana Nunes, animadora de 1999 a 2004. Se procura Joana Antunes (Jocas), da organização do Encontro Nacional 2023, consulte [Joana Antunes](Joana%20Antunes.md).*
 
+Segundo as listas de animadores do CSJB, até 2002 tinha participado em 2 acampamentos.
+
 ### Acampamentos
 
 - **Animadora**

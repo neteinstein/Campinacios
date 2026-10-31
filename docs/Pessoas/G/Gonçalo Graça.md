@@ -1,5 +1,7 @@
 # Gonçalo Graça
 
+Segundo as listas de animadores do CSJB, até 2002 tinha participado em 4 acampamentos e animado 5.
+
 ### Cargos
 
 - 1998/1999 - Coordenador da [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)

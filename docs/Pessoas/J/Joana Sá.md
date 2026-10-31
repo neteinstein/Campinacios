@@ -2,7 +2,7 @@
 
 Nasceu a 22 de Janeiro de 1983.
 
-Joana Sá foi de 2000 a 2005 uma das animadoras do Colégio da Imaculada Conceição.
+Joana Sá foi de 2000 a 2005 uma das animadoras do Colégio da Imaculada Conceição. Segundo as listas de animadores do CAIC, até 2005 tinha participado em 10 acampamentos.
 
 ## História dentro do movimento
 

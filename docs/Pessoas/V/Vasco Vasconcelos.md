@@ -2,7 +2,7 @@
 
 Nasceu a 15 de Março de 1985. Entrou para os animadores do CAIC em 2003.
 
-Vasco Vasconcelos, é um dos animadores do Colégio da Imaculada Conceição.
+Vasco Vasconcelos, é um dos animadores do Colégio da Imaculada Conceição. Segundo as listas de animadores do CAIC, até 2004 tinha participado em 1 acampamento.
 
 ## História dentro do movimento
 

@@ -1,5 +1,7 @@
 # Nuno Carrolo
 
+Segundo as listas de animadores do CSJB, até 2002 tinha participado em 3 acampamentos e animado 7.
+
 ### Acampamentos
 
 - **Animador:**

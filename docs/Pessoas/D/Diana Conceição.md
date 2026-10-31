@@ -1,5 +1,7 @@
 # Diana Conceição
 
+Diana Conceição aparece nas listas de animadores do [CSJB](../../Movimento/CSJB.md) de 2007-08 a 2008-09.
+
 ### Acampamentos
 
 - **Animadora**

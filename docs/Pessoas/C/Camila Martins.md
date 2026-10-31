@@ -1,5 +1,7 @@
 # Camila Martins
 
+Camila Martins aparece nas listas de animadores do [CSJB](../../Movimento/CSJB.md) de 2005-06 a 2008-09.
+
 ### Acampamentos
 
 - **Participante**

@@ -1,5 +1,7 @@
 # Cristovão Andrade
 
+Cristovão Andrade é ex-aluno do [CC](../../Movimento/CC.md).
+
 ### Acampamentos
 
 - **Participante**

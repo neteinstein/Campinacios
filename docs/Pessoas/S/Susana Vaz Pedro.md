@@ -2,7 +2,7 @@
 
 Nasceu a 21 de Setembro de 1984.
 
-Susana Vaz Pedro é desde 2002, uma das animadoras do Colégio da Imaculada Conceição.
+Susana Vaz Pedro é desde 2002, uma das animadoras do Colégio da Imaculada Conceição. Segundo as listas de animadores do CAIC, até 2008 tinha participado em 3 acampamentos e animado 7.
 
 ## História dentro do movimento
 

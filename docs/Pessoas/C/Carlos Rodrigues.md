@@ -2,7 +2,7 @@
 
 Nasceu a 20 de Setembro de 1985.
 
-Carlos Rodrigues, foi de 2003 a 2008 um dos animadores do Colégio da Imaculada Conceição.
+Carlos Rodrigues, foi de 2003 a 2008 um dos animadores do Colégio da Imaculada Conceição. Segundo as listas de animadores do CAIC, até 2004 tinha participado em 4 acampamentos.
 
 ## História dentro do movimento
 
@@ -14,6 +14,8 @@ Carlos Rodrigues, foi de 2003 a 2008 um dos animadores do Colégio da Imaculada 
 ### Acampamentos
 
 - **Participante:**
+    - 1996 Triciclos
+    - 1997 Triciclos
     - 2000 [Tranquilo](../../Acampamentos/2000/Tranquilo.md)
 - **Formação:**
     - 2003 [Graal II](../../Acampamentos/2003/Graal%20II.md)

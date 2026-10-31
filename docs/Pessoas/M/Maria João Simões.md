@@ -22,6 +22,7 @@ Maria João Simões, mais conhecida por Majo, é desde 1996 uma das animadoras d
     - 1991
     - 1992
     - 1993 [Rebordosa](../../Acampamentos/1993/Rebordosa.md)
+    - 1994 Bicicletas
 - **Animadora:**
     - 1996 - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 1997 [GANZA](../../Acampamentos/1997/GANZA.md) - [Tia](../../Cargos/Tio.md)
