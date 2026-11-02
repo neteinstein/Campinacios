@@ -10,7 +10,7 @@
 - [Tio](../../Cargos/Tio.md) - [Pedro Leitão](../../Pessoas/P/Pedro%20Leit%C3%A3o.md)
 - [Tia](../../Cargos/Tio.md) - [Marta Martins](../../Pessoas/M/Marta%20Martins.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Afonso Barrocas](../../Pessoas/A/Afonso%20Barrocas.md), [David Bandeira](../../Pessoas/D/David%20Bandeira.md), [Lourenço Matias](../../Pessoas/L/Louren%C3%A7o%20Matias.md) (Ló) e [Francisca Crujeira](../../Pessoas/F/Francisca%20Crujeira.md)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Francisca Veloso](../../Pessoas/F/Francisca%20Veloso.md) (Tita), Diogo Rêgo, [Maria Solla](../../Pessoas/M/Maria%20Solla.md) e Inês Guimarães
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Francisca Veloso](../../Pessoas/F/Francisca%20Veloso.md) (Tita), [Diogo Rêgo](../../Pessoas/D/Diogo%20R%C3%AAgo.md), [Maria Solla](../../Pessoas/M/Maria%20Solla.md) e [Inês Guimarães](../../Pessoas/I/In%C3%AAs%20Guimar%C3%A3es.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Nelson Faria](../../Pessoas/N/Nelson%20Faria.md) sj
 
 ## Participantes que se tornaram animadores
