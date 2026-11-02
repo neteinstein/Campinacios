@@ -34,7 +34,7 @@ Acampamentos do escalão Lambretas - Alunos do 11º e 12º anos de escolaridade
 - [Maior Evento de Sempre em Portugal, Maior Até que a Mega Feijoada da Ponte Vasco da Gama](../Acampamentos/2023/Maior%20Evento%20de%20Sempre%20em%20Portugal%2C%20Maior%20At%C3%A9%20que%20a%20Mega%20Feijoada%20da%20Ponte%20Vasco%20da%20Gama.md)
 - [Maravilha-te](../Acampamentos/2018/Maravilha-te.md)
 - [Mikelin Descobre a Vida](../Acampamentos/2004/Mikelin%20Descobre%20a%20Vida.md)
-- [Muralha](../Acampamentos/2017/Muralha.md)
+- [Muralha](../Acampamentos/2016/Muralha.md)
 - [Mãos à Obra](../Acampamentos/2014/M%C3%A3os%20%C3%A0%20Obra.md)
 - [Nheca Nheca no Macacão](../Acampamentos/2012/Nheca%20Nheca%20no%20Macac%C3%A3o.md)
 - [Non Nobis](../Acampamentos/2026/Non%20Nobis.md)

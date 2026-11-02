@@ -1220,7 +1220,7 @@
 - [Mostra Garra](Acampamentos/2016/Mostra%20Garra.md)
 - *Motorzinho* → [André Gonçalves](Pessoas/A/Andr%C3%A9%20Gon%C3%A7alves.md)
 - [Mountain Bike](Acampamentos/1998/Mountain%20Bike.md)
-- [Muralha](Acampamentos/2017/Muralha.md)
+- [Muralha](Acampamentos/2016/Muralha.md)
 - *Murtinheira* → [Murtinheira (Vila Nova do Ceira)](Restrito/Locais%20de%20Acampamento/Murtinheira%20%28Vila%20Nova%20do%20Ceira%29.md) 🔒
 - [Murtinheira (Vila Nova do Ceira)](Restrito/Locais%20de%20Acampamento/Murtinheira%20%28Vila%20Nova%20do%20Ceira%29.md) 🔒
 
