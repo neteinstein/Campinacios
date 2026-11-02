@@ -4,6 +4,9 @@
 
 - **Participante:**
     - 2015 [Mergulha](../../Acampamentos/2015/Mergulha.md)
+    - 2016 [TásCá](../../Acampamentos/2016/T%C3%A1sC%C3%A1.md)
+    - 2016 [Do Avesso](../../Acampamentos/2016/Do%20Avesso.md)
+    - 2017 [Salvo Sejas](../../Acampamentos/2017/Salvo%20Sejas.md)
     - 2018 [Descola](../../Acampamentos/2018/Descola%20%282018%29.md)
 - **Animador(a):**
     - 2023 [180 Já Contenta](../../Acampamentos/2023/180%20J%C3%A1%20Contenta.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
