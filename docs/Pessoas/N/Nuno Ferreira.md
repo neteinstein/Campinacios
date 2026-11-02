@@ -12,7 +12,7 @@ Nuno Ferreira é animador do [CSJB](../../Categorias/Animadores%20do%20CSJB.md).
 - **Participante:**
     - 2014 [Pó-Có](../../Acampamentos/2014/P%C3%B3-C%C3%B3.md)
     - 2015 [Conta-me como foi](../../Acampamentos/2015/Conta-me%20como%20foi.md)
-    - 2017 [Muralha](../../Acampamentos/2017/Muralha.md)
+    - 2016 [Muralha](../../Acampamentos/2016/Muralha.md)
 - **Formação:**
     - 2018 [Prosopon](../../Acampamentos/2018/Prosopon.md)
 - **Animador(a):**

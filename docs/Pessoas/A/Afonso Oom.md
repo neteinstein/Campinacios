@@ -4,7 +4,7 @@
 
 - **Animador(a):**
     - 2016 [Expalharmo-nos](../../Acampamentos/2016/Expalharmo-nos.md) - [Director](../../Cargos/Director.md)
-    - 2017 [Muralha](../../Acampamentos/2017/Muralha.md) - [Director](../../Cargos/Director.md)
+    - 2016 [Muralha](../../Acampamentos/2016/Muralha.md) - [Director](../../Cargos/Director.md)
 
 ---
 
