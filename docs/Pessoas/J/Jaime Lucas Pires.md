@@ -21,7 +21,7 @@ Jaime Lucas Pires é animador do CSJB.
     - 2022 [À Grande e à Francesa](../../Acampamentos/2022/%C3%80%20Grande%20e%20%C3%A0%20Francesa.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2023 [Cibicleta Como És](../../Acampamentos/2023/Cibicleta%20Como%20%C3%89s.md) - [Director](../../Cargos/Director.md)
     - 2024 [Caldorado](../../Acampamentos/2024/Caldorado.md) - [Director](../../Cargos/Director.md)
-    - 2025 [Exipto](../../Acampamentos/2025/Exipto.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2025 [Exipto](../../Acampamentos/2025/Exipto.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2026 [Non Nobis](../../Acampamentos/2026/Non%20Nobis.md) - [Director](../../Cargos/Director.md)
 
 ### Família
