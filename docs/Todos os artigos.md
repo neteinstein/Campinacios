@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1421 artigos e, em itálico, os 284 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1420 artigos e, em itálico, os 285 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -811,7 +811,7 @@
 - [João Garcia](Pessoas/J/Jo%C3%A3o%20Garcia.md)
 - [João Ilhão](Pessoas/J/Jo%C3%A3o%20Ilh%C3%A3o.md)
 - [João Madureira](Pessoas/J/Jo%C3%A3o%20Madureira.md)
-- [João Pacheco de Sousa](Pessoas/J/Jo%C3%A3o%20Pacheco%20de%20Sousa.md)
+- *João Pacheco de Sousa* → [João Afonso Sousa](Pessoas/J/Jo%C3%A3o%20Afonso%20Sousa.md)
 - [João Rasteiro](Pessoas/J/Jo%C3%A3o%20Rasteiro.md)
 - *Jocas* → [Joana Antunes](Pessoas/J/Joana%20Antunes.md)
 - *Johnny* → [João Afonso Sousa](Pessoas/J/Jo%C3%A3o%20Afonso%20Sousa.md)
