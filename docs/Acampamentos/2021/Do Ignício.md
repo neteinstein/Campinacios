@@ -8,6 +8,7 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Mariana Cardal](../../Pessoas/M/Mariana%20Cardal.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Johnny Sousa](../../Pessoas/J/Jo%C3%A3o%20Afonso%20Sousa.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Francisco Montellano](../../Pessoas/F/Francisco%20Montellano.md) sj
+- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Manuel Vasconcelos](../../Pessoas/M/Manas%20Vasconcelos.md)
 
 ---
 

@@ -11,6 +11,7 @@
 
 - [Francisco Dioniz Barroso Loureiro](../../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
 - [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
+- [Manas Vasconcelos](../../Pessoas/M/Manas%20Vasconcelos.md)
 
 ---
 

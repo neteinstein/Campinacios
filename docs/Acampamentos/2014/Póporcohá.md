@@ -8,6 +8,10 @@
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - Miguel Bacalhau sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Missé](../../Pessoas/M/Miguel%20Melo.md) sj
 
+## Participantes que se tornaram animadores
+
+- [Manas Vasconcelos](../../Pessoas/M/Manas%20Vasconcelos.md)
+
 ---
 
 | Categorias |
