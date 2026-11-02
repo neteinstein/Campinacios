@@ -21,6 +21,7 @@ Também conhecido por Zé Maria Brito ou Zebra. Faleceu em Abril de 2024.
     - 2010 [Walkabout](../../Acampamentos/2010/Walkabout.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2011 [Olha, Isto Aqui é uma Estátua](../../Acampamentos/2011/Olha%2C%20Isto%20Aqui%20%C3%A9%20uma%20Est%C3%A1tua.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2013 [Fairplay](../../Acampamentos/2013/Fairplay.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+    - 2017 [Dá Tudo Xauzinho](../../Acampamentos/2017/D%C3%A1%20Tudo%20Xauzinho.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
 ---
 

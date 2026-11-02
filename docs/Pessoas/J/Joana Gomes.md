@@ -24,6 +24,7 @@ Joana Gomes aparece nas listas de animadores do [CSJB](../../Movimento/CSJB.md) 
     - 2010 [4º Dto](../../Acampamentos/2010/4%C2%BA%20Dto.md) - [Director](../../Cargos/Director.md)
     - 2011 [Pescanova](../../Acampamentos/2011/Pescanova.md) - [Director](../../Cargos/Director.md)
     - 2015 [Take PaGod](../../Acampamentos/2015/Take%20PaGod.md) - [Tia](../../Cargos/Tio.md)
+    - 2017 [Dá Tudo Xauzinho](../../Acampamentos/2017/D%C3%A1%20Tudo%20Xauzinho.md) - [Tia](../../Cargos/Tio.md)
 
 ### Encontros
 

@@ -2,6 +2,8 @@
 
 ### Acampamentos
 
+- **Participante:**
+    - 2017 [Dá Tudo Xauzinho](../../Acampamentos/2017/D%C3%A1%20Tudo%20Xauzinho.md)
 - **Animadora:**
     - 2023 [Atira-te](../../Acampamentos/2023/Atira-te.md) - [Tia](../../Cargos/Tio.md)
     - 2024 [Caldorado](../../Acampamentos/2024/Caldorado.md) - [Tia](../../Cargos/Tio.md)
