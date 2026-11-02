@@ -1,6 +1,6 @@
 # Faz Sentido
 
-**Faz Sentido** foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) realizado em 2017. O tema do ano foi *Guarda tudo no teu coração*.
+**Faz Sentido** foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) realizado em 2017, de 5 a 14 de agosto. O tema do ano foi *Guarda tudo no teu coração*.
 
 ### Animadores
 
