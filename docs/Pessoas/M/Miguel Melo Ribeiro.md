@@ -4,7 +4,10 @@
 
 ### Acampamentos
 
+- **Formação:**
+    - 2017 [ReComeçar de Novo](../../Acampamentos/2017/ReCome%C3%A7ar%20de%20Novo.md)
 - **Animador(a):**
+    - 2017 [Peru](../../Acampamentos/2017/Peru.md) - [Animador(a) de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2021 [E a Glória Adensa-se](../../Acampamentos/2021/E%20a%20Gl%C3%B3ria%20Adensa-se.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2026 [Ca Ganda Tanga](../../Acampamentos/2026/Ca%20Ganda%20Tanga.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
