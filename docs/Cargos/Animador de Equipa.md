@@ -210,6 +210,7 @@
 - [Isabel Fonseca](../Pessoas/I/Isabel%20Fonseca.md)
 - [Jacinto Bezerra](../Pessoas/J/Jacinto%20Bezerra.md)
 - [Jacinto Lucas Pires](../Pessoas/J/Jacinto%20Lucas%20Pires.md)
+- [Jaime Lucas Pires](../Pessoas/J/Jaime%20Lucas%20Pires.md)
 - [Jéssica Barra](../Pessoas/J/J%C3%A9ssica%20Barra.md)
 - [Joana Almeida](../Pessoas/J/Joana%20Almeida.md)
 - [Joana Antunes](../Pessoas/J/Joana%20Antunes.md)

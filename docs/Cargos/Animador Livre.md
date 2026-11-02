@@ -81,7 +81,6 @@
 - [Daniela Ribeiro](../Pessoas/D/Daniela%20Ribeiro.md)
 - [David Bandeira](../Pessoas/D/David%20Bandeira.md)
 - [Diana Freitas](../Pessoas/D/Diana%20Freitas.md)
-- [Dinis Braga da Cruz](../Pessoas/D/Dinis%20Braga%20da%20Cruz.md)
 - [Diogo Belo](../Pessoas/D/Diogo%20Belo.md)
 - [Diogo Boal Neves](../Pessoas/D/Diogo%20Boal%20Neves.md)
 - [Diogo Cordeiro Ferreira](../Pessoas/D/Diogo%20Cordeiro%20Ferreira.md)
