@@ -9,7 +9,7 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Inês Furtado](../../Pessoas/I/In%C3%AAs%20Furtado.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Paulo Duarte](../../Pessoas/P/Paulo%20Duarte.md) sj
 - [Tia](../../Cargos/Tio.md) - [Mariana Cardal](../../Pessoas/M/Mariana%20Cardal.md)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - Francisco Rodrigues (Pica), [Madalena Pires](../../Pessoas/M/Madalena%20Pires.md), [Teresa Cunha e Sá](../../Pessoas/T/Teresa%20S%C3%A1.md), [Francisca Pimentel](../../Pessoas/F/Francisca%20Pimentel.md), [Fernando Sousa](../../Pessoas/F/Fernando%20Sousa.md), Rafael Moreira, Francisco Costa, [Maria Ramos](../../Pessoas/M/Maria%20Ramos.md) e [Bárbara Cardoso](../../Pessoas/B/B%C3%A1rbara%20Cardoso.md)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - Francisco Rodrigues (Pica), [Madalena Pires](../../Pessoas/M/Madalena%20Pires.md), [Teresa Cunha e Sá](../../Pessoas/T/Teresa%20S%C3%A1.md), [Francisca Pimentel](../../Pessoas/F/Francisca%20Pimentel.md), [Fernando Sousa](../../Pessoas/F/Fernando%20Sousa.md), [Rafael Moreira](../../Pessoas/R/Rafael%20Moreira.md), Francisco Costa, [Maria Ramos](../../Pessoas/M/Maria%20Ramos.md) e [Bárbara Cardoso](../../Pessoas/B/B%C3%A1rbara%20Cardoso.md)
 
 ## Participantes que se tornaram animadores
 
