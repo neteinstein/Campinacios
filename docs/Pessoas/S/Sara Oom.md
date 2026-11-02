@@ -12,6 +12,7 @@
 - **Animador(a):**
     - 2010 [4º Dto](../../Acampamentos/2010/4%C2%BA%20Dto.md)
     - 2012 [Sarcófago](../../Acampamentos/2012/Sarc%C3%B3fago.md) - [Director](../../Cargos/Director.md)
+    - 2016 [Plano B](../../Acampamentos/2016/Plano%20B.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
 
 ---
 
