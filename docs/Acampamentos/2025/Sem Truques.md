@@ -10,8 +10,8 @@ O campo estava planeado para Sequeiros mas, devido ao risco de incêndio, o camp
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Beatriz Mesquita](../../Pessoas/B/Beatriz%20Mesquita.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Tomás Ribeiro](../../Pessoas/T/Tom%C3%A1s%20Ribeiro.md)
 - [Tias](../../Cargos/Tio.md) - Bea Pitxi, [Sofia Silva](../../Pessoas/S/Sofia%20Silva.md) e [Beatriz Picciochi](../../Pessoas/B/Beatriz%20Picciochi.md) (Bea Pitxi)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md), [Teresa Cannas](../../Pessoas/T/Teresa%20Cannas.md), Vera Vallera, [Carolina Morão](../../Pessoas/C/Carolina%20Mor%C3%A3o.md) (Káká), [Vasco Lobo](../../Pessoas/V/Vasco%20Lobo.md) e Leonor David (Nocas)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Francisco Ilhão](../../Pessoas/F/Francisco%20Ilh%C3%A3o.md), [Maria Cunhal](../../Pessoas/M/Maria%20Cunhal.md) (Mawi), [Catarina Gaio](../../Pessoas/C/Catarina%20Gaio.md), João Madureira e [Miguel Poço](../../Pessoas/M/Miguel%20Po%C3%A7o.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md), [Teresa Cannas](../../Pessoas/T/Teresa%20Cannas.md), [Vera Vallera](../../Pessoas/V/Vera%20Vallera.md), [Carolina Morão](../../Pessoas/C/Carolina%20Mor%C3%A3o.md) (Káká), [Vasco Lobo](../../Pessoas/V/Vasco%20Lobo.md) e [Leonor David](../../Pessoas/L/Leonor%20David.md) (Nocas)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Francisco Ilhão](../../Pessoas/F/Francisco%20Ilh%C3%A3o.md), [Maria Cunhal](../../Pessoas/M/Maria%20Cunhal.md) (Mawi), [Catarina Gaio](../../Pessoas/C/Catarina%20Gaio.md), [João Madureira](../../Pessoas/J/Jo%C3%A3o%20Madureira.md) e [Miguel Poço](../../Pessoas/M/Miguel%20Po%C3%A7o.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Francisco Montellano](../../Pessoas/F/Francisco%20Montellano.md) sj
 
 ---

@@ -9,6 +9,7 @@
 - [Sandra Rodrigues](Sandra%20Rodrigues.md)
 - [Sara Amado](Sara%20Amado.md)
 - [Sara Antunes](Sara%20Antunes.md)
+- [Sara Costa](Sara%20Costa.md)
 - [Sara Croca](Sara%20Croca.md)
 - [Sara Fernandes](Sara%20Fernandes.md)
 - [Sara Guimarães](Sara%20Guimar%C3%A3es.md)

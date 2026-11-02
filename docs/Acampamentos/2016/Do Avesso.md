@@ -14,9 +14,11 @@
 ## Participantes que se tornaram animadores
 
 - [Alice Rodrigues](../../Pessoas/A/Alice%20Rodrigues.md)
+- [Diogo Rêgo](../../Pessoas/D/Diogo%20R%C3%AAgo.md)
 - [Francisco Cunha e Carmo](../../Pessoas/F/Francisco%20Cunha%20e%20Carmo.md)
 - [Francisco Sá](../../Pessoas/F/Francisco%20S%C3%A1.md)
 - [Mafalda Machete](../../Pessoas/M/Mafalda%20Machete.md)
+- [Maria Braga da Cruz](../../Pessoas/M/Maria%20Braga%20da%20Cruz.md)
 - [Sebastião Caldas](../../Pessoas/S/Sebasti%C3%A3o%20Caldas.md)
 
 ---
