@@ -46,3 +46,4 @@
 - [Pedro Snow](Pedro%20Snow.md)
 - [Pedro Turras](Pedro%20Turras.md)
 - [Pedro Vicente](Pedro%20Vicente.md)
+- [Pilar Ribeiro Corrêa](Pilar%20Ribeiro%20Corr%C3%AAa.md)
