@@ -9,7 +9,7 @@ Animadores dos Campinácios
 - [Animadores do CSJB](Animadores%20do%20CSJB.md)
 - [Jesuítas](Jesu%C3%ADtas.md)
 
-## Páginas nesta categoria (865)
+## Páginas nesta categoria (868)
 
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Adriana Gil](../Pessoas/A/Adriana%20Gil.md)
@@ -268,6 +268,7 @@ Animadores dos Campinácios
 - [Francisco Caldas](../Pessoas/F/Francisco%20Caldas.md)
 - [Francisco Carneiro](../Pessoas/F/Francisco%20Carneiro.md)
 - [Francisco Carvalho](../Pessoas/F/Francisco%20Carvalho.md)
+- [Francisco Cassiano](../Pessoas/F/Francisco%20Cassiano.md)
 - [Francisco Costa Macedo](../Pessoas/F/Francisco%20Costa%20Macedo.md)
 - [Francisco Cunha e Carmo](../Pessoas/F/Francisco%20Cunha%20e%20Carmo.md)
 - [Francisco Dioniz Barroso Loureiro](../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
@@ -636,6 +637,7 @@ Animadores dos Campinácios
 - [Martim Cunha Ferreira](../Pessoas/M/Martim%20Cunha%20Ferreira.md)
 - [Martim Nunes](../Pessoas/M/Martim%20Nunes.md)
 - [Martinho Lucas Pires](../Pessoas/M/Martinho%20Lucas%20Pires.md)
+- [Matilde Carvalho](../Pessoas/M/Matilde%20Carvalho.md)
 - [Matilde Ferreira](../Pessoas/M/Matilde%20Ferreira.md)
 - [Matilde Pereira](../Pessoas/M/Matilde%20Pereira.md)
 - [Matilde Silva](../Pessoas/M/Matilde%20Silva.md)
@@ -833,6 +835,7 @@ Animadores dos Campinácios
 - [Teresa Sá](../Pessoas/T/Teresa%20S%C3%A1.md)
 - [Teté](../Pessoas/T/Tet%C3%A9.md)
 - [Tiago Abreu](../Pessoas/T/Tiago%20Abreu.md)
+- [Tiago Azevedo](../Pessoas/T/Tiago%20Azevedo.md)
 - [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md)
 - [Tiago Brandão Rodrigues](../Pessoas/T/Tiago%20Brand%C3%A3o%20Rodrigues.md)
 - [Tiago Carneiro](../Pessoas/T/Tiago%20Carneiro.md)

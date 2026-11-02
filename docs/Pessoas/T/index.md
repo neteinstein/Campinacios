@@ -15,6 +15,7 @@
 - [Teresa Santos](Teresa%20Santos.md)
 - [Teté](Tet%C3%A9.md)
 - [Tiago Abreu](Tiago%20Abreu.md)
+- [Tiago Azevedo](Tiago%20Azevedo.md)
 - [Tiago Bahia](Tiago%20Bahia.md)
 - [Tiago Brandão Rodrigues](Tiago%20Brand%C3%A3o%20Rodrigues.md)
 - [Tiago Carneiro](Tiago%20Carneiro.md)

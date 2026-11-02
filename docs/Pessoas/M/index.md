@@ -115,6 +115,7 @@
 - [Martim Cunha Ferreira](Martim%20Cunha%20Ferreira.md)
 - [Martim Nunes](Martim%20Nunes.md)
 - [Martinho Lucas Pires](Martinho%20Lucas%20Pires.md)
+- [Matilde Carvalho](Matilde%20Carvalho.md)
 - [Matilde Ferreira](Matilde%20Ferreira.md)
 - [Matilde Pereira](Matilde%20Pereira.md)
 - [Matilde Silva](Matilde%20Silva.md)
