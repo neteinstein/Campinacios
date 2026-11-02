@@ -5,6 +5,8 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Nuno Mesquita](../../Pessoas/N/Nuno%20Mesquita.md)
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Pedro Namorado Rosa](../../Pessoas/P/Pedro%20Rosa.md)
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [Mariana Salazar](../../Pessoas/M/Mariana%20Salazar.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Heitor Rosa](../../Pessoas/H/Heitor%20Rosa.md) e [Vera Pina](../../Pessoas/V/Vera%20Pina.md)
 
 ## Participantes que se tornaram animadores

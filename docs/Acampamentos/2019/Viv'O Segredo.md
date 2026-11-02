@@ -5,6 +5,8 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Luís Panão](../../Pessoas/L/Lu%C3%ADs%20Pan%C3%A3o.md)
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Eduarda Roxo](../../Pessoas/E/Eduarda%20Roxo.md)
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [Mariana Cardal](../../Pessoas/M/Mariana%20Cardal.md)
 - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Nuno Ferreira](../../Pessoas/N/Nuno%20Ferreira.md) (Broski)
 
 ---

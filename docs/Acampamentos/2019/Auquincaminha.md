@@ -5,6 +5,7 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Pê Fonseca](../../Pessoas/P/Pedro%20Fonseca.md)
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [Teresa Cunha e Sá](../../Pessoas/T/Teresa%20S%C3%A1.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Onofre](../../Pessoas/L/Lu%C3%ADs%20Onofre.md)
 
 ## Participantes que se tornaram animadores

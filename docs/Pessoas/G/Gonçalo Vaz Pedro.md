@@ -30,6 +30,7 @@ Gonçalo Vaz Pedro, é desde 2006, um dos animadores do Colégio da Imaculada Co
     - 2012 [Raio Part'ós Ninjas](../../Acampamentos/2012/Raio%20Part%27%C3%B3s%20Ninjas.md) - [Director](../../Cargos/Director.md)
     - 2014 [Fiat'ársea](../../Acampamentos/2014/Fiat%27%C3%A1rsea.md) - [Director](../../Cargos/Director.md)
     - 2017 [Supera-te](../../Acampamentos/2017/Supera-te.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2019 [SPC](../../Acampamentos/2019/SPC.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
 
 ### Família
 
