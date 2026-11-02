@@ -7,23 +7,37 @@
 - [Director](../../Cargos/Director.md) - [Joana Matos](../../Pessoas/J/Joana%20Matos.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Duarte Pinto](../../Pessoas/D/Duarte%20Pinto.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Maria Líbano Monteiro](../../Pessoas/M/Maria%20L%C3%ADbano%20Monteiro.md)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Sara Moinhos](../../Pessoas/S/Sara%20Moinhos.md), Carlota Tareco, Ana Sá, Zé e Inês
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Sara Moinhos](../../Pessoas/S/Sara%20Moinhos.md), [Carlota Tareco](../../Pessoas/C/Carlota%20Tareco.md), Ana Sá, Zé e Inês
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Carvalho](../../Pessoas/C/Carlos%20Carvalho.md) sj
 
 ## Participantes que se tornaram animadores
 
+- [Ana Isabel Lamego](../../Pessoas/A/Ana%20Isabel%20Lamego.md)
+- [André Francisco Azevedo Oliveira](../../Pessoas/A/Andr%C3%A9%20Francisco%20Azevedo%20Oliveira.md)
+- [Beatriz Braga da Cruz](../../Pessoas/B/Beatriz%20Braga%20da%20Cruz.md)
+- [Beatriz Diniz](../../Pessoas/B/Beatriz%20Diniz.md)
 - [Benedita Turras](../../Pessoas/B/Benedita%20Turras.md)
+- [Catarina Lopes](../../Pessoas/C/Catarina%20Lopes.md)
 - [Eduarda Roxo](../../Pessoas/E/Eduarda%20Roxo.md)
+- [Eduardo Ramos](../../Pessoas/E/Eduardo%20Ramos.md)
+- [Eliana Rodrigues](../../Pessoas/E/Eliana%20Rodrigues.md)
 - [Fernando Bacelar](../../Pessoas/F/Fernando%20Bacelar.md)
 - [Francisca Pimentel](../../Pessoas/F/Francisca%20Pimentel.md)
+- [Frederico Moraes Sarmento](../../Pessoas/F/Frederico%20Moraes%20Sarmento.md)
 - [Isabel Fonseca](../../Pessoas/I/Isabel%20Fonseca.md)
+- [José Davide Pereira de Barros](../../Pessoas/J/Jos%C3%A9%20Davide%20Pereira%20de%20Barros.md)
 - [Laura Leandro](../../Pessoas/L/Laura%20Leandro.md)
+- [Luís Alves](../../Pessoas/L/Lu%C3%ADs%20Alves.md)
+- [Lurdes Francisca Oliveira Pinto](../../Pessoas/L/Lurdes%20Francisca%20Oliveira%20Pinto.md)
 - [Madalena Ramalho](../../Pessoas/M/Madalena%20Ramalho.md)
+- [Manuel Reis](../../Pessoas/M/Manuel%20Reis.md)
 - [Margarida Garcia](../../Pessoas/M/Margarida%20Garcia.md)
 - [Maria Ramos](../../Pessoas/M/Maria%20Ramos.md)
 - [Miguel Melo Ribeiro](../../Pessoas/M/Miguel%20Melo%20Ribeiro.md)
 - [Pedro Rosa](../../Pessoas/P/Pedro%20Rosa.md)
+- [Rafael Moreira](../../Pessoas/R/Rafael%20Moreira.md)
 - [Renato Gonçalves](../../Pessoas/R/Renato%20Gon%C3%A7alves.md)
+- [Sara Costa](../../Pessoas/S/Sara%20Costa.md)
 - [Tiago Vilas Boas](../../Pessoas/T/Tiago%20Vilas%20Boas.md)
 
 ---
