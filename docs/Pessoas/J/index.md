@@ -47,7 +47,6 @@
 - [João Garcia](Jo%C3%A3o%20Garcia.md)
 - [João Ilhão](Jo%C3%A3o%20Ilh%C3%A3o.md)
 - [João Madureira](Jo%C3%A3o%20Madureira.md)
-- [João Pacheco de Sousa](Jo%C3%A3o%20Pacheco%20de%20Sousa.md)
 - [João Rasteiro](Jo%C3%A3o%20Rasteiro.md)
 - [Joaquim Abreu](Joaquim%20Abreu.md)
 - [Joca](Joca.md)

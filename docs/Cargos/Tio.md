@@ -63,7 +63,6 @@
 - [Helena Cunha e Carmo](../Pessoas/H/Helena%20Cunha%20e%20Carmo.md)
 - [Inês Amado](../Pessoas/I/In%C3%AAs%20Amado.md)
 - [Inês Amorim](../Pessoas/I/In%C3%AAs%20Amorim.md)
-- [Inês Costa](../Pessoas/I/In%C3%AAs%20Costa.md)
 - [Inês Fonseca](../Pessoas/I/In%C3%AAs%20Fonseca.md)
 - [Inês Patrício](../Pessoas/I/In%C3%AAs%20Patr%C3%ADcio.md)
 - [Inês Próspero](../Pessoas/I/In%C3%AAs%20Pr%C3%B3spero.md)

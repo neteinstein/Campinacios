@@ -10,6 +10,10 @@ Segundo as listas de animadores do CSJB, até 2002 tinha participado em 3 acampa
     - 2003 [Génesis 2003 d.C.](../../Acampamentos/2003/G%C3%A9nesis%202003%20d.C..md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2004 [Metrópole](../../Acampamentos/2004/Metr%C3%B3pole.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
+### Família
+
+É irmã da [Margarida Valle](../M/Margarida%20Valle.md) e da [Maria da Glória Valle](../M/Maria%20da%20Gl%C3%B3ria%20Valle.md).
+
 ---
 
 | Categorias |

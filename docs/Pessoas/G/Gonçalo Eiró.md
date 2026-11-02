@@ -14,6 +14,10 @@
     - 1993 [Tabuadelas II](../../Acampamentos/1993/Tabuadelas%20II.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 1993 [Ermal](../../Acampamentos/1993/Ermal.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
+### Família
+
+É tio do [Lourenço Eiró](../L/Louren%C3%A7o%20Eir%C3%B3.md) sj.
+
 ---
 
 | Categorias |

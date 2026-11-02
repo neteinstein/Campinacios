@@ -7,6 +7,10 @@
     - 1992 [Verim](../../Acampamentos/1992/Verim.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 1994 [Wally](../../Acampamentos/1994/Wally.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
+### Família
+
+É irmão do [Manuel Matos](../M/Manuel%20Matos.md).
+
 ---
 
 **Outros nomes:** Marcos Barbosa de Matos

@@ -30,7 +30,7 @@ Martinho Lucas Pires aparece nas listas de animadores do [CSJB](../../Movimento/
 
 ### Família
 
-É irmão do Simão Lucas Pires, Rafael Lucas Pires e do Jacinto Lucas Pires.
+É irmão do Simão Lucas Pires, [Rafael Lucas Pires](../R/Rafael%20Lucas%20Pires.md) e do [Jacinto Lucas Pires](../J/Jacinto%20Lucas%20Pires.md).
 
 ---
 

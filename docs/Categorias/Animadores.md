@@ -9,7 +9,7 @@ Animadores dos Campinácios
 - [Animadores do CSJB](Animadores%20do%20CSJB.md)
 - [Jesuítas](Jesu%C3%ADtas.md)
 
-## Páginas nesta categoria (915)
+## Páginas nesta categoria (914)
 
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Adriana Gil](../Pessoas/A/Adriana%20Gil.md)
@@ -439,7 +439,6 @@ Animadores dos Campinácios
 - [João Garcia](../Pessoas/J/Jo%C3%A3o%20Garcia.md)
 - [João Ilhão](../Pessoas/J/Jo%C3%A3o%20Ilh%C3%A3o.md)
 - [João Madureira](../Pessoas/J/Jo%C3%A3o%20Madureira.md)
-- [João Pacheco de Sousa](../Pessoas/J/Jo%C3%A3o%20Pacheco%20de%20Sousa.md)
 - [João Rasteiro](../Pessoas/J/Jo%C3%A3o%20Rasteiro.md)
 - [Joaquim Abreu](../Pessoas/J/Joaquim%20Abreu.md)
 - [Joca](../Pessoas/J/Joca.md)
