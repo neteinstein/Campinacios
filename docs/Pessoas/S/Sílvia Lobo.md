@@ -27,6 +27,8 @@ Frequentou o [CC](../../Movimento/CC.md) de 1994 a 2008. Animadora desde 2008 at
     - 2011 [Pescanova](../../Acampamentos/2011/Pescanova.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2012 [Rebenta a Bolha](../../Acampamentos/2012/Rebenta%20a%20Bolha.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2014 [#SóMeFalt’Aurélia](../../Acampamentos/2014/S%C3%B3MeFalt%E2%80%99Aur%C3%A9lia.md)
+    - 2016 [Do Avesso](../../Acampamentos/2016/Do%20Avesso.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
+    - 2017 [Já Percebi](../../Acampamentos/2017/J%C3%A1%20Percebi.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
 ---
 
