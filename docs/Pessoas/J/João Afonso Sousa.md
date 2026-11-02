@@ -1,7 +1,5 @@
 # João Afonso Sousa
 
-*Nota: Este artigo é sobre João Afonso Sousa (Johnny), animador do CSJB. Se procura João Pacheco de Sousa, animador do Rockstock 2022, consulte [João Pacheco de Sousa](Jo%C3%A3o%20Pacheco%20de%20Sousa.md).*
-
 ### Cargos
 
 - 2021/2022 Membro da [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
@@ -21,11 +19,12 @@
 
 - 2019 [Rockstock 2019](../../Encontros/Rockstock%202019.md) - Equipa de animação
 - 2021 [Encontro Nacional 2021](../../Encontros/Encontro%20Nacional%202021.md) - Organização
+- 2022 [Rockstock 2022](../../Encontros/Rockstock%202022.md) - Equipa de animação
 - 2024 [Encontro Nacional 2024](../../Encontros/Encontro%20Nacional%202024.md) - Director-Adjunto
 
 ---
 
-**Outros nomes:** Johnny · Johnny Sousa
+**Outros nomes:** Johnny · Johnny Sousa · João Pacheco de Sousa
 
 | Categorias |
 | --- |
