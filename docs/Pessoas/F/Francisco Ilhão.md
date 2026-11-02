@@ -6,6 +6,7 @@
     - 2023 [Perc'Urso](../../Acampamentos/2023/Perc%27Urso.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2023 [A Partir](../../Acampamentos/2023/A%20Partir.md) - [Animador(a) de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2024 [Fight Club](../../Acampamentos/2024/Fight%20Club.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
+    - 2025 [Sem Truques](../../Acampamentos/2025/Sem%20Truques.md) - [Animador(a) Livre](../../Cargos/Animador%20Livre.md)
     - 2026 [Ca Ganda Tanga](../../Acampamentos/2026/Ca%20Ganda%20Tanga.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
 ### Encontros
