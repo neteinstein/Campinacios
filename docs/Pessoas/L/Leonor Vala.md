@@ -2,6 +2,8 @@
 
 ### Acampamentos
 
+- **Participante:**
+    - 2017 [Peru](../../Acampamentos/2017/Peru.md)
 - **Animador(a):**
     - 2024 [Com Capricho](../../Acampamentos/2024/Com%20Capricho.md) - [Tia](../../Cargos/Tio.md)
     - 2025 [Repeat a História](../../Acampamentos/2025/Repeat%20a%20Hist%C3%B3ria.md) - [Tia](../../Cargos/Tio.md)
