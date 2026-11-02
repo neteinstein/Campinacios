@@ -1,6 +1,6 @@
 # Muralha
 
-**Muralha** foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) realizado em 2017 em Dornes. O tema do ano foi *Guarda tudo no teu coração*.
+**Muralha** foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) realizado em julho de 2016 em Dornes. O tema do ano foi *Já estavas à minha espera*.
 
 ### Animadores
 
@@ -18,5 +18,5 @@
 | Categorias |
 | --- |
 | [Acampamentos](../../Categorias/Acampamentos.md) |
-| [Acampamentos de 2017](../../Categorias/Acampamentos%20de%202017.md) |
+| [Acampamentos de 2016](../../Categorias/Acampamentos%20de%202016.md) |
 | [Lambretas](../../Categorias/Lambretas.md) |
