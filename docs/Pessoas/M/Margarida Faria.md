@@ -2,6 +2,8 @@
 
 ### Acampamentos
 
+- **Participante:**
+    - 2017 [Supera-te](../../Acampamentos/2017/Supera-te.md)
 - **Animadora:**
     - 2022 [Level Up](../../Acampamentos/2022/Level%20Up.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2024 [Astérix e Obélerdos](../../Acampamentos/2024/Ast%C3%A9rix%20e%20Ob%C3%A9lerdos.md) - [Tia](../../Cargos/Tio.md)
