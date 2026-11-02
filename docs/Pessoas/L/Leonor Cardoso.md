@@ -10,6 +10,8 @@
 ### Acampamentos
 
 - **Participante:**
+    - 2016 [TásCá](../../Acampamentos/2016/T%C3%A1sC%C3%A1.md)
+    - 2017 [Salvo Sejas](../../Acampamentos/2017/Salvo%20Sejas.md)
     - 2018 [Descola](../../Acampamentos/2018/Descola%20%282018%29.md)
 - **Animador(a):**
     - 2019 [XP Fora da Roda](../../Acampamentos/2019/XP%20Fora%20da%20Roda.md)

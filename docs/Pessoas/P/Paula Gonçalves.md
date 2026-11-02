@@ -6,6 +6,8 @@
 
 - **Participante:**
     - 2014 [#SóMeFalt’Aurélia](../../Acampamentos/2014/S%C3%B3MeFalt%E2%80%99Aur%C3%A9lia.md)
+    - 2016 [TásCá](../../Acampamentos/2016/T%C3%A1sC%C3%A1.md)
+    - 2017 [Salvo Sejas](../../Acampamentos/2017/Salvo%20Sejas.md)
     - 2018 [Descola](../../Acampamentos/2018/Descola%20%282018%29.md)
 - **Animador(a):**
     - 2021 [Expresso 3 B](../../Acampamentos/2021/Expresso%203%20B.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
