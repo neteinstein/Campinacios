@@ -4,6 +4,11 @@
 
 Francisco Barroso, conhecido como Dinha, é animador do CC.
 
+### Acampamentos
+
+- **Animador(a):**
+    - 2025 [Repeat a História](../../Acampamentos/2025/Repeat%20a%20Hist%C3%B3ria.md) - [Animador(a) Livre](../../Cargos/Animador%20Livre.md)
+
 ### Encontros
 
 - 2025 [Rockstock 2025](../../Encontros/Rockstock%202025.md) - Equipa de animação

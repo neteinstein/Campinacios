@@ -5,6 +5,8 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Pedro Santos](../../Pessoas/P/Pedro%20Santos.md)
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Gonçalo Vaz Pedro](../../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md)
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [Maria Amorim](../../Pessoas/M/Maria%20Amorim.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Samuel Afonso](../../Pessoas/S/Samuel%20Afonso.md) sj
 
 ## Participantes que se tornaram animadores

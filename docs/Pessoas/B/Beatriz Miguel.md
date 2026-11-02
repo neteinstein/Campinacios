@@ -10,6 +10,8 @@
     - 2023 [Parte de Ti](../../Acampamentos/2023/Parte%20de%20Ti.md)
 - **Animador(a):**
     - 2023 [Pó que Voo](../../Acampamentos/2023/P%C3%B3%20que%20Voo.md) - [Animador(a) de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2025 [Mangueira Nice](../../Acampamentos/2025/Mangueira%20Nice.md) - [Animador(a) Livre](../../Cargos/Animador%20Livre.md)
+    - 2026 [Sande Help](../../Acampamentos/2026/Sande%20Help.md) - [Tio/Tia](../../Cargos/Tio.md)
 
 ### Encontros
 
@@ -17,6 +19,8 @@
 - 2026 [Rockstock 2026](../../Encontros/Rockstock%202026.md) - Equipa de animação
 
 ---
+
+**Outros nomes:** Bea Miguel · Bia Miguel
 
 | Categorias |
 | --- |

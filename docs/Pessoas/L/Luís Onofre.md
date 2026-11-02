@@ -16,6 +16,7 @@
     - 2015 [Ide](../../Acampamentos/2015/Ide.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2015 [Às 10 faz xiu](../../Acampamentos/2015/%C3%80s%2010%20faz%20xiu.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2015 [Someonelfie](../../Acampamentos/2015/Someonelfie.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+    - 2017 [Já Percebi](../../Acampamentos/2017/J%C3%A1%20Percebi.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2018 [Codex 0018](../../Acampamentos/2018/Codex%200018.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2019 [Auquincaminha](../../Acampamentos/2019/Auquincaminha.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2021 [Prega Fundo](../../Acampamentos/2021/Prega%20Fundo.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)

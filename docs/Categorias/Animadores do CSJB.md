@@ -2,7 +2,7 @@
 
 Animadores do Colégio do Colégio São João de Brito
 
-## Páginas nesta categoria (217)
+## Páginas nesta categoria (218)
 
 - [Adriana Gil](../Pessoas/A/Adriana%20Gil.md)
 - [Alex](../Pessoas/A/Alex.md)
@@ -133,6 +133,7 @@ Animadores do Colégio do Colégio São João de Brito
 - [Mafalda Correia](../Pessoas/M/Mafalda%20Correia.md)
 - [Mafalda Neves](../Pessoas/M/Mafalda%20Neves.md)
 - [Mafalda Trigo da Roza](../Pessoas/M/Mafalda%20Trigo%20da%20Roza.md)
+- [Manas Vasconcelos](../Pessoas/M/Manas%20Vasconcelos.md)
 - [Manuel Cordeiro Ferreira](../Pessoas/M/Manuel%20Cordeiro%20Ferreira.md)
 - [Manuel Vilhena](../Pessoas/M/Manuel%20Vilhena.md)
 - [Margarida Matias](../Pessoas/M/Margarida%20Matias.md)

@@ -9,7 +9,9 @@
 ### Acampamentos
 
 - **Animador(a):**
+    - 2017 [Já Dá](../../Acampamentos/2017/J%C3%A1%20D%C3%A1.md)
     - 2018 [Descola (2018)](../../Acampamentos/2018/Descola%20%282018%29.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
+    - 2019 [BEM CHEIO](../../Acampamentos/2019/BEM%20CHEIO.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
 ---
 

@@ -2,6 +2,8 @@
 
 ### Acampamentos
 
+- **Participante:**
+    - 2017 [Salvo Sejas](../../Acampamentos/2017/Salvo%20Sejas.md)
 - **Formação:**
     - 2023 [Parte de Ti](../../Acampamentos/2023/Parte%20de%20Ti.md)
 - **Animador(a):**

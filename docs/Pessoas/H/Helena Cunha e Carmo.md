@@ -4,6 +4,7 @@
 
 - **Animador(a):**
     - 2015 [Sai da ilha](../../Acampamentos/2015/Sai%20da%20ilha.md) - [Tia](../../Cargos/Tio.md)
+    - 2016 [TásCá](../../Acampamentos/2016/T%C3%A1sC%C3%A1.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2019 [Chama de Novo](../../Acampamentos/2019/Chama%20de%20Novo.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
 ---

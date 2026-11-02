@@ -2,7 +2,7 @@
 
 Animadores do Colégio das Caldinhas
 
-## Páginas nesta categoria (178)
+## Páginas nesta categoria (181)
 
 - [Amílcar Sousa](../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
 - [Ana Carolina Bardi](../Pessoas/A/Ana%20Carolina%20Bardi.md)
@@ -72,6 +72,7 @@ Animadores do Colégio das Caldinhas
 - [Francisco Almeida (Kiko)](../Pessoas/F/Francisco%20Almeida%20%28Kiko%29.md)
 - [Francisco Barroso](../Pessoas/F/Francisco%20Barroso.md)
 - [Francisco Carneiro](../Pessoas/F/Francisco%20Carneiro.md)
+- [Francisco Cassiano](../Pessoas/F/Francisco%20Cassiano.md)
 - [Francisco Goiana da Silva](../Pessoas/F/Francisco%20Goiana%20da%20Silva.md)
 - [Gabriel Ponte](../Pessoas/G/Gabriel%20Ponte.md)
 - [Hélder Sousa](../Pessoas/H/H%C3%A9lder%20Sousa.md)
@@ -134,6 +135,7 @@ Animadores do Colégio das Caldinhas
 - [Marta Reis](../Pessoas/M/Marta%20Reis.md)
 - [Marta Santos](../Pessoas/M/Marta%20Santos.md)
 - [Marta Vilela](../Pessoas/M/Marta%20Vilela.md)
+- [Matilde Carvalho](../Pessoas/M/Matilde%20Carvalho.md)
 - [Miguel Areias](../Pessoas/M/Miguel%20Areias.md)
 - [Miguel Machado](../Pessoas/M/Miguel%20Machado.md)
 - [Miguel Melo](../Pessoas/M/Miguel%20Melo.md)
@@ -173,6 +175,7 @@ Animadores do Colégio das Caldinhas
 - [Telma Pinto](../Pessoas/T/Telma%20Pinto.md)
 - [Telmo Teixeira](../Pessoas/T/Telmo%20Teixeira.md)
 - [Teresa Santos](../Pessoas/T/Teresa%20Santos.md)
+- [Tiago Azevedo](../Pessoas/T/Tiago%20Azevedo.md)
 - [Tiago Bahia](../Pessoas/T/Tiago%20Bahia.md)
 - [Tiago Carneiro](../Pessoas/T/Tiago%20Carneiro.md)
 - [Tiago Gonçalves](../Pessoas/T/Tiago%20Gon%C3%A7alves.md)

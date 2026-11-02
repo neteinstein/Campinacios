@@ -5,6 +5,8 @@
 - **Participante:**
     - 2013 [Fairplay](../../Acampamentos/2013/Fairplay.md)
 - **Animador(a):**
+    - 2017 [Já Percebi](../../Acampamentos/2017/J%C3%A1%20Percebi.md)
+    - 2019 [Grito](../../Acampamentos/2019/Grito.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2021 [Quantos Somos](../../Acampamentos/2021/Quantos%20Somos.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
 ### Encontros

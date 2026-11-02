@@ -8,6 +8,8 @@
 
 - 2008 [Entre ASPAS](../../Acampamentos/2008/Entre%20ASPAS.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 - 2009 [Survivor](../../Acampamentos/2009/Survivor.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+- **Animador(a):**
+    - 2017 [Salvo Sejas](../../Acampamentos/2017/Salvo%20Sejas.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
 ---
 

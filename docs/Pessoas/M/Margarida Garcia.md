@@ -2,6 +2,8 @@
 
 ### Acampamentos
 
+- **Formação:**
+    - 2017 [ReComeçar de Novo](../../Acampamentos/2017/ReCome%C3%A7ar%20de%20Novo.md)
 - **Animador(a):**
     - 2017 [Faz Sentido](../../Acampamentos/2017/Faz%20Sentido.md)
     - 2019 [XP Fora da Roda](../../Acampamentos/2019/XP%20Fora%20da%20Roda.md)

@@ -3,6 +3,8 @@
 ### Acampamentos
 
 - **Animador(a):**
+    - 2017 [Salvo Sejas](../../Acampamentos/2017/Salvo%20Sejas.md) - [Animador(a) Livre](../../Cargos/Animador%20Livre.md)
+    - 2019 [Auquincaminha](../../Acampamentos/2019/Auquincaminha.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2021 [Prega Fundo](../../Acampamentos/2021/Prega%20Fundo.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
 ### Encontros

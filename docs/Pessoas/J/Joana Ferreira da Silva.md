@@ -23,6 +23,7 @@ Joana Ferreira da Silva aparece nas listas de animadores do [CSJB](../../Movimen
     - 2005 [Casca de Banana](../../Acampamentos/2005/Casca%20de%20Banana.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2006 [XS](../../Acampamentos/2006/XS.md) - [Directora](../../Cargos/Director.md)
     - 2007 [Diz Que Sim](../../Acampamentos/2007/Diz%20Que%20Sim.md) - [Directora](../../Cargos/Director.md)
+    - 2025 [Não Confundas](../../Acampamentos/2025/N%C3%A3o%20Confundas.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
 ---
 

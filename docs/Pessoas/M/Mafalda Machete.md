@@ -4,6 +4,7 @@
 
 - **Participante:**
     - 2014 [#SóMeFalt’Aurélia](../../Acampamentos/2014/S%C3%B3MeFalt%E2%80%99Aur%C3%A9lia.md)
+    - 2016 [Do Avesso](../../Acampamentos/2016/Do%20Avesso.md)
 - **Animador(a):**
     - 2023 [180 Já Contenta](../../Acampamentos/2023/180%20J%C3%A1%20Contenta.md) - [Animador(a) de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 

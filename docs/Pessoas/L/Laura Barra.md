@@ -3,6 +3,7 @@
 ### Acampamentos
 
 - **Animador(a):**
+    - 2025 [À Brava](../../Acampamentos/2025/%C3%80%20Brava.md) - [Tio/Tia](../../Cargos/Tio.md)
     - 2026 [Xiè-Xiè Kung Fa](../../Acampamentos/2026/Xi%C3%A8-Xi%C3%A8%20Kung%20Fa.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
 ### Encontros

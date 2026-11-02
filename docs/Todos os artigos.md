@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1371 artigos e, em itálico, os 271 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1374 artigos e, em itálico, os 276 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -179,6 +179,7 @@
 - [Baúmerang](Acampamentos/2007/Ba%C3%BAmerang.md)
 - [Baza](Acampamentos/2007/Baza.md)
 - *BDS* → [Bom Dia Senhor](Movimento/Bom%20Dia%20Senhor.md)
+- *Bea Miguel* → [Beatriz Miguel](Pessoas/B/Beatriz%20Miguel.md)
 - [Beatriz Esteves](Pessoas/B/Beatriz%20Esteves.md)
 - [Benedita Rolim](Pessoas/B/Benedita%20Rolim.md)
 - [Benedita Turras](Pessoas/B/Benedita%20Turras.md)
@@ -204,6 +205,7 @@
 - [Bernardo Narciso](Pessoas/B/Bernardo%20Narciso.md)
 - [Bernardo Perloiro](Pessoas/B/Bernardo%20Perloiro.md)
 - *Bernardo Sarmento* → [Bernardo Moraes Sarmento](Pessoas/B/Bernardo%20Moraes%20Sarmento.md)
+- *Bia Miguel* → [Beatriz Miguel](Pessoas/B/Beatriz%20Miguel.md)
 - [Bicicletas 94 I](Acampamentos/1994/Bicicletas%2094%20I.md)
 - [Bicicletas II](Acampamentos/1996/Bicicletas%20II.md)
 - [Bike Just Do It](Acampamentos/2008/Bike%20Just%20Do%20It.md)
@@ -299,6 +301,7 @@
 - [Cátia Silva](Pessoas/C/C%C3%A1tia%20Silva.md)
 - [Chica Aguiar](Pessoas/C/Chica%20Aguiar.md)
 - *Chico Carneiro* → [Francisco Carneiro](Pessoas/F/Francisco%20Carneiro.md)
+- *Chico Cassiano* → [Francisco Cassiano](Pessoas/F/Francisco%20Cassiano.md)
 - *Chumi* → [Maria do Carmo Ribeiro](Pessoas/M/Maria%20do%20Carmo%20Ribeiro.md)
 - [Clara Sampaio](Pessoas/C/Clara%20Sampaio.md)
 - [Cláudia Montenegro](Pessoas/C/Cl%C3%A1udia%20Montenegro.md)
@@ -550,6 +553,7 @@
 - [Francisco Almeida (Quico)](Pessoas/F/Francisco%20Almeida%20(Quico).md)
 - *Francisco Caetano Silva* → [Chico Silva](Pessoas/C/Chico%20Silva.md)
 - [Francisco Caldas](Pessoas/F/Francisco%20Caldas.md)
+- [Francisco Cassiano](Pessoas/F/Francisco%20Cassiano.md)
 - [Francisco Cunha e Carmo](Pessoas/F/Francisco%20Cunha%20e%20Carmo.md)
 - [Fábio Simões](Pessoas/F/F%C3%A1bio%20Sim%C3%B5es.md)
 - [Fábio Teixeira](Pessoas/F/F%C3%A1bio%20Teixeira.md)
@@ -982,6 +986,7 @@
 - [Luís Faria](Pessoas/L/Lu%C3%ADs%20Faria.md)
 - [Luís Ferreira do Amaral](Pessoas/L/Lu%C3%ADs%20Ferreira%20do%20Amaral.md)
 - [Luís Fontes](Pessoas/L/Lu%C3%ADs%20Fontes.md)
+- *Luís Formiga* → [Formiga](Pessoas/F/Formiga.md)
 - [Luís Freire](Pessoas/L/Lu%C3%ADs%20Freire.md)
 - [Luís Monteiro](Pessoas/L/Lu%C3%ADs%20Monteiro.md)
 - [Luís Panão](Pessoas/L/Lu%C3%ADs%20Pan%C3%A3o.md)
@@ -1089,6 +1094,7 @@
 - [Mariana Coelho](Pessoas/M/Mariana%20Coelho.md)
 - [Mariana Cortez](Pessoas/M/Mariana%20Cortez.md)
 - [Marta Martins](Pessoas/M/Marta%20Martins.md)
+- [Matilde Carvalho](Pessoas/M/Matilde%20Carvalho.md)
 - [Matilde Ferreira](Pessoas/M/Matilde%20Ferreira.md)
 - [Matilde Silva](Pessoas/M/Matilde%20Silva.md)
 - *Mawi* → [Maria Cunhal](Pessoas/M/Maria%20Cunhal.md)
@@ -1578,6 +1584,7 @@
 - [Tábeeeim](Acampamentos/2010/T%C3%A1beeeim.md)
 - [Tânia Rodrigues](Pessoas/T/T%C3%A2nia%20Rodrigues.md)
 - [TásCá](Acampamentos/2016/T%C3%A1sC%C3%A1.md)
+- *Teclas* → [Tiago Azevedo](Pessoas/T/Tiago%20Azevedo.md)
 - *Teddy Bear* → [Ricardo Costa](Pessoas/R/Ricardo%20Costa.md)
 - [Telma Pinto](Pessoas/T/Telma%20Pinto.md)
 - [Telmo Teixeira](Pessoas/T/Telmo%20Teixeira.md)
@@ -1601,6 +1608,7 @@
 - [Terra do Nunca](Acampamentos/2005/Terra%20do%20Nunca.md)
 - [Teté](Pessoas/T/Tet%C3%A9.md)
 - [Tiago Abreu](Pessoas/T/Tiago%20Abreu.md)
+- [Tiago Azevedo](Pessoas/T/Tiago%20Azevedo.md)
 - [Tiago Brandão Rodrigues](Pessoas/T/Tiago%20Brand%C3%A3o%20Rodrigues.md)
 - [Tiago Eiró](Pessoas/T/Tiago%20Eir%C3%B3.md)
 - *Tia* → [Tio](Cargos/Tio.md)

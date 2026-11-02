@@ -1,5 +1,10 @@
 # Fernando Sousa
 
+### Acampamentos
+
+- **Animador(a):**
+    - 2017 [Salvo Sejas](../../Acampamentos/2017/Salvo%20Sejas.md) - [Animador(a) Livre](../../Cargos/Animador%20Livre.md)
+
 ### Encontros
 
 - 2022 [Rockstock 2022](../../Encontros/Rockstock%202022.md) - Equipa de animação

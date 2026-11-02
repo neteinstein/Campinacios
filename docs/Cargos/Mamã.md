@@ -61,6 +61,7 @@ Quando tiveres dúvidas do que é ser mamã de acampamento lembra-te como é (ex
 - [Helena Cunha e Carmo](../Pessoas/H/Helena%20Cunha%20e%20Carmo.md)
 - [Helena Pais](../Pessoas/H/Helena%20Pais.md)
 - [Helena Vieira](../Pessoas/H/Helena%20Vieira.md)
+- [Inês Furtado](../Pessoas/I/In%C3%AAs%20Furtado.md)
 - [Isabel Santos](../Pessoas/I/Isabel%20Santos.md)
 - [Janine Silva](../Pessoas/J/Janine%20Silva.md)
 - [Joana Cardim](../Pessoas/J/Joana%20Cardim.md)

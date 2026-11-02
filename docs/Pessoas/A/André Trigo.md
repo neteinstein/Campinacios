@@ -3,6 +3,7 @@
 ### Acampamentos
 
 - **Animador(a):**
+    - 2016 [Plano B](../../Acampamentos/2016/Plano%20B.md) - [Animador(a) Livre](../../Cargos/Animador%20Livre.md)
     - 2017 [Salvo Sejas](../../Acampamentos/2017/Salvo%20Sejas.md) - [Director](../../Cargos/Director.md)
     - 2018 [Vira a Página](../../Acampamentos/2018/Vira%20a%20P%C3%A1gina.md) - [Director](../../Cargos/Director.md)
 

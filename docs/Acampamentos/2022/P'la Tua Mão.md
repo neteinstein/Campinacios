@@ -9,6 +9,7 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Chico Carneiro](../../Pessoas/F/Francisco%20Carneiro.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [António Pamplona](../../Pessoas/A/Ant%C3%B3nio%20Pamplona.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Emanuel Lopes](../../Pessoas/E/Emanuel%20Lopes.md) sj
+- [Animador Livre](../../Cargos/Animador%20Livre.md) - [Manuel Vasconcelos](../../Pessoas/M/Manas%20Vasconcelos.md)
 
 ## Participantes que se tornaram animadores
 

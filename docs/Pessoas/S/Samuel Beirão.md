@@ -3,6 +3,7 @@
 ### Acampamentos
 
 - **Animador:**
+    - 2017 [Já Dá](../../Acampamentos/2017/J%C3%A1%20D%C3%A1.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2022 [EmCena](../../Acampamentos/2022/EmCena.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
 ---
