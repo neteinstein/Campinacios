@@ -7,6 +7,10 @@
 - **Animador:**
     - 1999 [Koalas](../../Acampamentos/1999/Koalas.md) - [Director](../../Cargos/Director.md)
 
+### Família
+
+É irmão do [João Cruz](../J/Jo%C3%A3o%20Cruz.md).
+
 ---
 
 | Categorias |

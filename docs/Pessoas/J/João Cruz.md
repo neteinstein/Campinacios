@@ -11,7 +11,7 @@ João Faleiro Cruz foi um dos animadores do [CSJB](../../Movimento/CSJB.md).
 
 ### Família
 
-É pai do [Manuel Cruz](../M/Manuel%20Cruz.md).
+É pai do [Manuel Cruz](../M/Manuel%20Cruz.md). É irmão do [Filipe Faleiro](../F/Filipe%20Faleiro.md).
 
 ---
 

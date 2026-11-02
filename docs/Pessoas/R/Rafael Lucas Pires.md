@@ -10,7 +10,7 @@
 
 ### Família
 
-É pai do [Vasco Lucas Pires](../V/Vasco%20Lucas%20Pires.md) e do [Jaime Lucas Pires](../J/Jaime%20Lucas%20Pires.md).
+É pai do [Vasco Lucas Pires](../V/Vasco%20Lucas%20Pires.md) e do [Jaime Lucas Pires](../J/Jaime%20Lucas%20Pires.md). É irmão do [Jacinto Lucas Pires](../J/Jacinto%20Lucas%20Pires.md) e do [Martinho Lucas Pires](../M/Martinho%20Lucas%20Pires.md). É casado com a [Margarida Valle](../M/Margarida%20Valle.md).
 
 ---
 

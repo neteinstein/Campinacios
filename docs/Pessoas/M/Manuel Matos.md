@@ -7,6 +7,10 @@ Manuel Matos foi um animador do Colégio das Caldinhas.
 - **Animador:**
     - 2003 [Génesis 2003 d.C.](../../Acampamentos/2003/G%C3%A9nesis%202003%20d.C..md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
+### Família
+
+É irmão do [Marcos Barbosa de Matos](../M/Marcos%20Matos.md).
+
 ---
 
 | Categorias |
