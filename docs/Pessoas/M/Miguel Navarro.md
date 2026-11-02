@@ -8,6 +8,7 @@
 
 - **Animador(a):**
     - 2016 [Troca](../../Acampamentos/2016/Troca.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
+    - 2017 [Salvo Sejas](../../Acampamentos/2017/Salvo%20Sejas.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
 
 ---
 
