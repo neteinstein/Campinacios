@@ -10,6 +10,8 @@
 - [Vasco Themudo](Vasco%20Themudo.md)
 - [Vasco Vasconcelos](Vasco%20Vasconcelos.md)
 - [Vânia Carvalho](V%C3%A2nia%20Carvalho.md)
+- [Vera](Vera.md)
+- [Vera Alves Pereira](Vera%20Alves%20Pereira.md)
 - [Vera Cunha](Vera%20Cunha.md)
 - [Vera Eiró](Vera%20Eir%C3%B3.md)
 - [Vera Pina](Vera%20Pina.md)

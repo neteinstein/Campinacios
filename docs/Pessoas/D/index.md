@@ -25,6 +25,7 @@
 - [Diogo José Oliveira Cerejeira Carneiro](Diogo%20Jos%C3%A9%20Oliveira%20Cerejeira%20Carneiro.md)
 - [Diogo Maria Carvalho](Diogo%20Maria%20Carvalho.md)
 - [Diogo Martins](Diogo%20Martins.md)
+- [Diogo Osorio](Diogo%20Osorio.md)
 - [Diogo Rêgo](Diogo%20R%C3%AAgo.md)
 - [Diogo Reis](Diogo%20Reis.md)
 - [Diogo Romão](Diogo%20Rom%C3%A3o.md)

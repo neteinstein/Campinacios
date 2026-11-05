@@ -2,6 +2,7 @@
 
 - [Eduarda Roxo](Eduarda%20Roxo.md)
 - [Eduarda Vilela](Eduarda%20Vilela.md)
+- [Eduardo](Eduardo.md)
 - [Eduardo Almeida](Eduardo%20Almeida.md)
 - [Eduardo Amaral](Eduardo%20Amaral.md)
 - [Eduardo Apolónio](Eduardo%20Apol%C3%B3nio.md)

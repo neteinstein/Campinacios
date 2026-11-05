@@ -10,6 +10,7 @@
 - [Inês Ferreira](In%C3%AAs%20Ferreira.md)
 - [Inês Fonseca](In%C3%AAs%20Fonseca.md)
 - [Inês Furtado](In%C3%AAs%20Furtado.md)
+- [Inês Gonçalves](In%C3%AAs%20Gon%C3%A7alves.md)
 - [Inês Guimarães](In%C3%AAs%20Guimar%C3%A3es.md)
 - [Inês Maury](In%C3%AAs%20Maury.md)
 - [Inês Oliveira](In%C3%AAs%20Oliveira.md)

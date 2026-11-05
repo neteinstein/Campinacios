@@ -1,6 +1,7 @@
 # T
 
 - [Tachi](Tachi.md)
+- [Tareca](Tareca.md)
 - [Telma Pinto](Telma%20Pinto.md)
 - [Telmo Teixeira](Telmo%20Teixeira.md)
 - [Teresa Aguiar](Teresa%20Aguiar.md)

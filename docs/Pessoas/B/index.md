@@ -2,6 +2,7 @@
 
 - [Bafo](Bafo.md)
 - [Bárbara Cardoso](B%C3%A1rbara%20Cardoso.md)
+- [Bárbara Costa Lima](B%C3%A1rbara%20Costa%20Lima.md)
 - [Bárbara Cruz](B%C3%A1rbara%20Cruz.md)
 - [Beatriz Braga da Cruz](Beatriz%20Braga%20da%20Cruz.md)
 - [Beatriz Diniz](Beatriz%20Diniz.md)

@@ -2,7 +2,7 @@
 
 Jesuítas que animam ou animaram acampamentos de Campinácios
 
-## Páginas nesta categoria (85)
+## Páginas nesta categoria (86)
 
 - ["Para Educar Melhor - Campos de férias inacianos"](../Movimento/Para%20Educar%20Melhor%20-%20Campos%20de%20f%C3%A9rias%20inacianos.md)
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
@@ -45,6 +45,7 @@ Jesuítas que animam ou animaram acampamentos de Campinácios
 - [Frederico Cardoso de Lemos](../Pessoas/F/Frederico%20Cardoso%20de%20Lemos.md)
 - [Gonçalo Eiró](../Pessoas/G/Gon%C3%A7alo%20Eir%C3%B3.md)
 - [Gonçalo Fonseca](../Pessoas/G/Gon%C3%A7alo%20Fonseca.md)
+- [Gonçalo Miller Guerra](../Pessoas/G/Gon%C3%A7alo%20Miller%20Guerra.md)
 - [Gonçalo Pedrosa](../Pessoas/G/Gon%C3%A7alo%20Pedrosa.md)
 - [João Brandão](../Pessoas/J/Jo%C3%A3o%20Brand%C3%A3o.md)
 - [João Carlos Onofre](../Pessoas/J/Jo%C3%A3o%20Carlos%20Onofre.md)

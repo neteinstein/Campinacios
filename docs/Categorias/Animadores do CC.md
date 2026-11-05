@@ -2,7 +2,7 @@
 
 Animadores do Colégio das Caldinhas
 
-## Páginas nesta categoria (181)
+## Páginas nesta categoria (185)
 
 - [Amílcar Sousa](../Pessoas/A/Am%C3%ADlcar%20Sousa.md)
 - [Ana Carolina Bardi](../Pessoas/A/Ana%20Carolina%20Bardi.md)
@@ -60,6 +60,7 @@ Animadores do Colégio das Caldinhas
 - [Diogo José Nunes Carneiro](../Pessoas/D/Diogo%20Jos%C3%A9%20Nunes%20Carneiro.md)
 - [Diogo José Oliveira Cerejeira Carneiro](../Pessoas/D/Diogo%20Jos%C3%A9%20Oliveira%20Cerejeira%20Carneiro.md)
 - [Duarte Dias](../Pessoas/D/Duarte%20Dias.md)
+- [Eduardo](../Pessoas/E/Eduardo.md)
 - [Eduardo Almeida](../Pessoas/E/Eduardo%20Almeida.md)
 - [Eduardo Lima](../Pessoas/E/Eduardo%20Lima.md)
 - [Eduardo Rodrigues](../Pessoas/E/Eduardo%20Rodrigues.md)
@@ -79,6 +80,7 @@ Animadores do Colégio das Caldinhas
 - [Hugo Ferreira](../Pessoas/H/Hugo%20Ferreira.md)
 - [Inês Carvalho](../Pessoas/I/In%C3%AAs%20Carvalho.md)
 - [Inês Furtado](../Pessoas/I/In%C3%AAs%20Furtado.md)
+- [Inês Gonçalves](../Pessoas/I/In%C3%AAs%20Gon%C3%A7alves.md)
 - [Inês Sampaio](../Pessoas/I/In%C3%AAs%20Sampaio.md)
 - [Irina Ramos](../Pessoas/I/Irina%20Ramos.md)
 - [Isabel Girão](../Pessoas/I/Isabel%20Gir%C3%A3o.md)
@@ -123,6 +125,7 @@ Animadores do Colégio das Caldinhas
 - [Magda Martins](../Pessoas/M/Magda%20Martins.md)
 - [Manuel Matos](../Pessoas/M/Manuel%20Matos.md)
 - [Manuel Silva](../Pessoas/M/Manuel%20Silva.md)
+- [Marco Cunha (CC)](../Pessoas/M/Marco%20Cunha%20%28CC%29.md)
 - [Maria Amorim](../Pessoas/M/Maria%20Amorim.md)
 - [Maria Cortês Ferreira](../Pessoas/M/Maria%20Cort%C3%AAs%20Ferreira.md)
 - [Maria Pinheiro Machado](../Pessoas/M/Maria%20Pinheiro%20Machado.md)
@@ -132,6 +135,7 @@ Animadores do Colégio das Caldinhas
 - [Mário Carvalho](../Pessoas/M/M%C3%A1rio%20Carvalho.md)
 - [Mário Magalhães](../Pessoas/M/M%C3%A1rio%20Magalh%C3%A3es.md)
 - [Marta Carneiro](../Pessoas/M/Marta%20Carneiro.md)
+- [Marta Gomes](../Pessoas/M/Marta%20Gomes.md)
 - [Marta Reis](../Pessoas/M/Marta%20Reis.md)
 - [Marta Santos](../Pessoas/M/Marta%20Santos.md)
 - [Marta Vilela](../Pessoas/M/Marta%20Vilela.md)
