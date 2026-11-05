@@ -10,6 +10,13 @@ Este acampamento de Calhambeques foi realizado na [Quinta da Gorda (Ferreira do 
 ## Participantes que se tornaram animadores
 
 - [Gustavo Gapo](../../Pessoas/G/Gustavo%20Gapo.md)
+- [Jacinto Lucas Pires](../../Pessoas/J/Jacinto%20Lucas%20Pires.md)
+- [Marcos Matos](../../Pessoas/M/Marcos%20Matos.md)
+- [Margarida Valle](../../Pessoas/M/Margarida%20Valle.md)
+- [Rafael Lucas Pires](../../Pessoas/R/Rafael%20Lucas%20Pires.md)
+- [Rita Feijó](../../Pessoas/R/Rita%20Feij%C3%B3.md)
+- [Sara Amado](../../Pessoas/S/Sara%20Amado.md)
+- [Tomás Cunha Ferreira](../../Pessoas/T/Tom%C3%A1s%20Cunha%20Ferreira.md)
 
 ---
 

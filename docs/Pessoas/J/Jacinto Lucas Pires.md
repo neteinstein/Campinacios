@@ -2,6 +2,8 @@
 
 ### Acampamentos
 
+- **Participante:**
+    - 1993 [Quinta da Gorda](../../Acampamentos/1993/Quinta%20da%20Gorda.md)
 - **Formação:**
     - 1991 [Cagácios](../../Acampamentos/1991/Cag%C3%A1cios.md)
 - **Animador:**

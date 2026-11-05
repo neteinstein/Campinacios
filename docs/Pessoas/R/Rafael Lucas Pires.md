@@ -2,6 +2,8 @@
 
 ### Acampamentos
 
+- **Participante:**
+    - 1993 [Quinta da Gorda](../../Acampamentos/1993/Quinta%20da%20Gorda.md)
 - **Animador:**
     - 1991 [Constância](../../Acampamentos/1991/Const%C3%A2ncia.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 1991 [Cagácios](../../Acampamentos/1991/Cag%C3%A1cios.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
