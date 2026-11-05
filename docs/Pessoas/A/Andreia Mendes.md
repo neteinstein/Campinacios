@@ -2,6 +2,8 @@
 
 ### Acampamentos
 
+- **Formação:**
+    - 1993 [Faísca](../../Acampamentos/1993/Fa%C3%ADsca.md)
 - **Animadora**
     - 1992 [Agroal](../../Acampamentos/1992/Agroal.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 1997 [Aranha](../../Acampamentos/1997/Aranha.md) - [Mamã](../../Cargos/Mam%C3%A3.md)

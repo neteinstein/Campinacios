@@ -11,6 +11,7 @@
 
 - **Formação:**
     - 1991 [Cagácios](../../Acampamentos/1991/Cag%C3%A1cios.md)
+    - 1993 [Faísca](../../Acampamentos/1993/Fa%C3%ADsca.md)
 - **Animador**
     - 1992 [Fornelos](../../Acampamentos/1992/Fornelos.md) - [Director](../../Cargos/Director.md)
     - 1993 [Tabuadelas II](../../Acampamentos/1993/Tabuadelas%20II.md) - [Director](../../Cargos/Director.md)

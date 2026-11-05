@@ -1,6 +1,7 @@
 # 1993
 
 - [Ermal](Ermal.md) — Bicicletas
+- [Faísca](Fa%C3%ADsca.md) — Formação de Animadores
 - [Porto da Balsa 93](Porto%20da%20Balsa%2093.md) — Lambretas
 - [Quinta da Gorda](Quinta%20da%20Gorda.md) — Calhambeques
 - [Rebordosa](Rebordosa.md) — Triciclos

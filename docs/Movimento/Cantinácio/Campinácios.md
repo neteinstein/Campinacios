@@ -8,7 +8,7 @@ Músicas nascidas nos acampamentos dos [Campinácios](../Campin%C3%A1cios.md) e 
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (84 músicas)
+## Índice (85 músicas)
 
 - [HINO DOS CAMPINÁCIOS](#hino-dos-campinacios) — Hino dos Campinácios (2025)
 - [ABENÇOAI SENHOR 2](#abencoai-senhor-2)
@@ -41,6 +41,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [ESTAVA NO MEIO DO MATO](#estava-no-meio-do-mato)
 - [EU PERDI O DÓ DA MINHA VIOLA](#eu-perdi-o-do-da-minha-viola)
 - [EU SOU O ZÉ](#eu-sou-o-ze)
+- [FAÍSCA](#faisca) — Hino do Campo Faísca (1993)
 - [FALÉSIA](#falesia) — Hino do Campo Falésia (2005)
 - [FAZ AS MALAS](#faz-as-malas) — Musical “Vida de Campo”
 - [FRANGO E A GALINHA](#frango-e-a-galinha)
@@ -994,6 +995,18 @@ Eu sou porreiro, e nunca passo da marca
 Se eu for foleiro, escreve-me uma carta!
 
 Se algum dia te sentires mal (…)
+```
+
+### FAÍSCA {#faisca}
+
+*Hino do Campo [Faísca](../../Acampamentos/1993/Fa%C3%ADsca.md) (1993) — excertos*
+
+```text
+Porque eu sou Faísca, só perde quem não arrisca.
+Já fui pedra por trabalhar,
+Já fui barco perdido no meio do mar,
+Mas algo mudou a minha visão,
+Vou agora com o coração
 ```
 
 ### FALÉSIA {#falesia}

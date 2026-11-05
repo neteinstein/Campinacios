@@ -2,10 +2,11 @@
 
 Animadores do Colégio do Colégio São João de Brito
 
-## Páginas nesta categoria (218)
+## Páginas nesta categoria (223)
 
 - [Adriana Gil](../Pessoas/A/Adriana%20Gil.md)
 - [Alex](../Pessoas/A/Alex.md)
+- [Alexandre Almeida](../Pessoas/A/Alexandre%20Almeida.md)
 - [Ana Martins](../Pessoas/A/Ana%20Martins.md)
 - [Ana Pais](../Pessoas/A/Ana%20Pais.md)
 - [Ana Quaresma](../Pessoas/A/Ana%20Quaresma.md)
@@ -13,6 +14,7 @@ Animadores do Colégio do Colégio São João de Brito
 - [Ana Sancho](../Pessoas/A/Ana%20Sancho.md)
 - [Ana Vacas](../Pessoas/A/Ana%20Vacas.md)
 - [Ana Virgínia Nogueira](../Pessoas/A/Ana%20Virg%C3%ADnia%20Nogueira.md)
+- [André Miranda](../Pessoas/A/Andr%C3%A9%20Miranda.md)
 - [António Amaral](../Pessoas/A/Ant%C3%B3nio%20Amaral.md)
 - [António Andrade](../Pessoas/A/Ant%C3%B3nio%20Andrade.md)
 - [António Leal](../Pessoas/A/Ant%C3%B3nio%20Leal.md)
@@ -66,6 +68,7 @@ Animadores do Colégio do Colégio São João de Brito
 - [Gonçalo Forte Vaz](../Pessoas/G/Gon%C3%A7alo%20Forte%20Vaz.md)
 - [Gonçalo Frade](../Pessoas/G/Gon%C3%A7alo%20Frade.md)
 - [Gonçalo Garcia](../Pessoas/G/Gon%C3%A7alo%20Garcia.md)
+- [Gonçalo Godinho](../Pessoas/G/Gon%C3%A7alo%20Godinho.md)
 - [Gonçalo Graça](../Pessoas/G/Gon%C3%A7alo%20Gra%C3%A7a.md)
 - [Guadalupe Oliveira](../Pessoas/G/Guadalupe%20Oliveira.md)
 - [Guilherme Ribeiro](../Pessoas/G/Guilherme%20Ribeiro.md)
@@ -133,6 +136,7 @@ Animadores do Colégio do Colégio São João de Brito
 - [Mafalda Correia](../Pessoas/M/Mafalda%20Correia.md)
 - [Mafalda Neves](../Pessoas/M/Mafalda%20Neves.md)
 - [Mafalda Trigo da Roza](../Pessoas/M/Mafalda%20Trigo%20da%20Roza.md)
+- [Magda Matos](../Pessoas/M/Magda%20Matos.md)
 - [Manas Vasconcelos](../Pessoas/M/Manas%20Vasconcelos.md)
 - [Manuel Cordeiro Ferreira](../Pessoas/M/Manuel%20Cordeiro%20Ferreira.md)
 - [Manuel Vilhena](../Pessoas/M/Manuel%20Vilhena.md)
@@ -167,6 +171,7 @@ Animadores do Colégio do Colégio São João de Brito
 - [Marta Pereira](../Pessoas/M/Marta%20Pereira.md)
 - [Marta Torres Rodrigues](../Pessoas/M/Marta%20Torres%20Rodrigues.md)
 - [Martim Cunha Ferreira](../Pessoas/M/Martim%20Cunha%20Ferreira.md)
+- [Martim Nunes](../Pessoas/M/Martim%20Nunes.md)
 - [Martinho Lucas Pires](../Pessoas/M/Martinho%20Lucas%20Pires.md)
 - [Matilde Pereira](../Pessoas/M/Matilde%20Pereira.md)
 - [Miguel Leite Martins](../Pessoas/M/Miguel%20Leite%20Martins.md)

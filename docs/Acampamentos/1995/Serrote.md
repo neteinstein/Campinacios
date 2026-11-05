@@ -14,6 +14,7 @@ O Serrote decorreu de 1 a 10 de Agosto de 1995.
 
 - [Eduardo Almeida](../../Pessoas/E/Eduardo%20Almeida.md)
 - [José Pedro Ferreira](../../Pessoas/J/Jos%C3%A9%20Pedro%20Ferreira.md)
+- [Manuel Matos](../../Pessoas/M/Manuel%20Matos.md)
 
 ---
 

@@ -1,5 +1,7 @@
 # Martim Nunes
 
+Martim Nunes é animador do Colégio S. João de Brito.
+
 ### Acampamentos
 
 - **Formação:**
@@ -16,4 +18,5 @@
 | Categorias |
 | --- |
 | [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |
 | [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) |

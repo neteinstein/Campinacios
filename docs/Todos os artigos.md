@@ -1,12 +1,14 @@
 # Todos os artigos
 
-1420 artigos e, em itálico, os 285 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1438 artigos e, em itálico, os 286 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
 - [Adriana Gil](Pessoas/A/Adriana%20Gil.md)
 - [Afonso Borges](Pessoas/A/Afonso%20Borges.md)
 - [Afonso Torres](Pessoas/A/Afonso%20Torres.md)
+- [Alexandre Almeida](Pessoas/A/Alexandre%20Almeida.md)
+- [André Miranda](Pessoas/A/Andr%C3%A9%20Miranda.md)
 - *Agui* → [Gonçalo Aguiar](Pessoas/G/Gon%C3%A7alo%20Aguiar.md)
 - [Alberto Gonçalves](Pessoas/A/Alberto%20Gon%C3%A7alves.md)
 - [Alexandra Couto](Pessoas/A/Alexandra%20Couto.md)
@@ -177,6 +179,7 @@
 - [Baba Yetu](Acampamentos/2010/Baba%20Yetu.md)
 - [Badminton](Acampamentos/2014/Badminton.md)
 - [Bafo](Pessoas/B/Bafo.md)
+- [Bárbara Costa Lima](Pessoas/B/B%C3%A1rbara%20Costa%20Lima.md)
 - *Balhau* → [Guilherme Balhau](Pessoas/G/Guilherme%20Balhau.md)
 - [Bárbara Cardoso](Pessoas/B/B%C3%A1rbara%20Cardoso.md)
 - [Bárbara Cruz](Pessoas/B/B%C3%A1rbara%20Cruz.md)
@@ -413,6 +416,7 @@
 - *Dani* → [Daniela Gonçalves](Pessoas/D/Daniela%20Gon%C3%A7alves.md)
 - [David Bandeira](Pessoas/D/David%20Bandeira.md)
 - [Diana Freitas](Pessoas/D/Diana%20Freitas.md)
+- [Diogo Osorio](Pessoas/D/Diogo%20Osorio.md)
 - *Digas* → [Diogo Vasconcelos](Pessoas/D/Diogo%20Vasconcelos.md)
 - [Diogo Boal Neves](Pessoas/D/Diogo%20Boal%20Neves.md)
 - [Diogo Rêgo](Pessoas/D/Diogo%20R%C3%AAgo.md)
@@ -488,6 +492,7 @@
 - [Edu](Movimento/Desambigua%C3%A7%C3%A3o/Edu.md)
 - [Eduarda Roxo](Pessoas/E/Eduarda%20Roxo.md)
 - [Eduarda Vilela](Pessoas/E/Eduarda%20Vilela.md)
+- [Eduardo](Pessoas/E/Eduardo.md)
 - [Eduardo Almeida](Pessoas/E/Eduardo%20Almeida.md)
 - [Eduardo Amaral](Pessoas/E/Eduardo%20Amaral.md)
 - [Eduardo Apolónio](Pessoas/E/Eduardo%20Apol%C3%B3nio.md)
@@ -555,6 +560,7 @@
 
 - [Faia (Sernancelhe)](Restrito/Locais%20de%20Acampamento/Faia%20%28Sernancelhe%29.md) 🔒
 - [Fairplay](Acampamentos/2013/Fairplay.md)
+- [Faísca](Acampamentos/1993/Fa%C3%ADsca.md)
 - [Falésia](Acampamentos/2005/Fal%C3%A9sia.md)
 - *Fan* → [Francisca Serrano](Pessoas/F/Francisca%20Serrano.md)
 - [Farol](Acampamentos/2003/Farol.md)
@@ -688,7 +694,9 @@
 - [Gonçalo Aguiar](Pessoas/G/Gon%C3%A7alo%20Aguiar.md)
 - [Gonçalo Costa](Pessoas/G/Gon%C3%A7alo%20Costa.md)
 - [Gonçalo Forte Vaz](Pessoas/G/Gon%C3%A7alo%20Forte%20Vaz.md)
+- [Gonçalo Godinho](Pessoas/G/Gon%C3%A7alo%20Godinho.md)
 - [Gonçalo Machado](Pessoas/G/Gon%C3%A7alo%20Machado.md)
+- [Gonçalo Miller Guerra](Pessoas/G/Gon%C3%A7alo%20Miller%20Guerra.md)
 - *Genito* → [José Eugénio Lopes](Pessoas/J/Jos%C3%A9%20Eug%C3%A9nio%20Lopes.md)
 - [Gonçalo Moitinho de Almeida](Pessoas/G/Gon%C3%A7alo%20Moitinho%20de%20Almeida.md)
 - [Guga](Pessoas/G/Guga.md)
@@ -765,6 +773,7 @@
 - [Inês Cruz](Pessoas/I/In%C3%AAs%20Cruz.md)
 - [Inês Ferreira](Pessoas/I/In%C3%AAs%20Ferreira.md)
 - [Inês Fonseca](Pessoas/I/In%C3%AAs%20Fonseca.md)
+- [Inês Gonçalves](Pessoas/I/In%C3%AAs%20Gon%C3%A7alves.md)
 - [Inês Guimarães](Pessoas/I/In%C3%AAs%20Guimar%C3%A3es.md)
 - [Inês Maury](Pessoas/I/In%C3%AAs%20Maury.md)
 - [Inês Oliveira](Pessoas/I/In%C3%AAs%20Oliveira.md)
@@ -805,6 +814,7 @@
 - [Joana Costa (2021)](Pessoas/J/Joana%20Costa%20%282021%29.md)
 - [Joana Gama](Pessoas/J/Joana%20Gama.md)
 - *Joana Marcelino Costa* → [Joana Costa (2021)](Pessoas/J/Joana%20Costa%20%282021%29.md)
+- *Joana Mendes Godinho* → [Joana Godinho](Pessoas/J/Joana%20Godinho.md)
 - [João Coutinho](Pessoas/J/Jo%C3%A3o%20Coutinho.md)
 - [João Faria](Pessoas/J/Jo%C3%A3o%20Faria.md)
 - [João Fernandes](Pessoas/J/Jo%C3%A3o%20Fernandes.md)
@@ -1002,6 +1012,7 @@
 - [Level Up](Acampamentos/2022/Level%20Up.md)
 - [Liberata](Acampamentos/2000/Liberata.md)
 - [Lídia Couto](Pessoas/L/L%C3%ADdia%20Couto.md)
+- [Lígia](Pessoas/L/L%C3%ADgia.md)
 - [Lígia Encarnação](Pessoas/L/L%C3%ADgia%20Encarna%C3%A7%C3%A3o.md)
 - [Lília Santos](Pessoas/L/L%C3%ADlia%20Santos.md)
 - *Licas* → [Leonor Banha da Silva](Pessoas/L/Leonor%20Banha%20da%20Silva.md)
@@ -1055,8 +1066,11 @@
 ## M
 
 - [Mafalda Correia](Pessoas/M/Mafalda%20Correia.md)
+- [Magda Matos](Pessoas/M/Magda%20Matos.md)
 - [Manuel Centeno](Pessoas/M/Manuel%20Centeno.md)
+- [Manuel Mendes de Almeida](Pessoas/M/Manuel%20Mendes%20de%20Almeida.md)
 - [Manuel Reis](Pessoas/M/Manuel%20Reis.md)
+- [Margarida Amorim](Pessoas/M/Margarida%20Amorim.md)
 - [Margarida Farelo](Pessoas/M/Margarida%20Farelo.md)
 - [Maria Barros](Pessoas/M/Maria%20Barros.md)
 - [Maria Braga da Cruz](Pessoas/M/Maria%20Braga%20da%20Cruz.md)
@@ -1140,6 +1154,7 @@
 - *Maria Solla Moniz* → [Maria Solla](Pessoas/M/Maria%20Solla.md)
 - [Mariana Coelho](Pessoas/M/Mariana%20Coelho.md)
 - [Mariana Cortez](Pessoas/M/Mariana%20Cortez.md)
+- [Marta Gomes](Pessoas/M/Marta%20Gomes.md)
 - [Marta Martins](Pessoas/M/Marta%20Martins.md)
 - [Mateus Vicente](Pessoas/M/Mateus%20Vicente.md)
 - [Matilde Carvalho](Pessoas/M/Matilde%20Carvalho.md)
@@ -1636,6 +1651,7 @@
 - [Talithá Kum](Acampamentos/2009/Talith%C3%A1%20Kum.md)
 - [Tábeeeim](Acampamentos/2010/T%C3%A1beeeim.md)
 - [Tânia Rodrigues](Pessoas/T/T%C3%A2nia%20Rodrigues.md)
+- [Tareca](Pessoas/T/Tareca.md)
 - [TásCá](Acampamentos/2016/T%C3%A1sC%C3%A1.md)
 - *Teclas* → [Tiago Azevedo](Pessoas/T/Tiago%20Azevedo.md)
 - *Teddy Bear* → [Ricardo Costa](Pessoas/R/Ricardo%20Costa.md)
@@ -1723,6 +1739,8 @@
 - *Várzea da Ovelha* → [Várzea da Ovelha e Aliviada (Marco de Canaveses)](Restrito/Locais%20de%20Acampamento/V%C3%A1rzea%20da%20Ovelha%20e%20Aliviada%20%28Marco%20de%20Canaveses%29.md) 🔒
 - [Várzea da Ovelha e Aliviada (Marco de Canaveses)](Restrito/Locais%20de%20Acampamento/V%C3%A1rzea%20da%20Ovelha%20e%20Aliviada%20%28Marco%20de%20Canaveses%29.md) 🔒
 - [Vânia Carvalho](Pessoas/V/V%C3%A2nia%20Carvalho.md)
+- [Vera](Pessoas/V/Vera.md)
+- [Vera Alves Pereira](Pessoas/V/Vera%20Alves%20Pereira.md)
 - [Vera Cunha](Pessoas/V/Vera%20Cunha.md)
 - [Vera Eiró](Pessoas/V/Vera%20Eir%C3%B3.md)
 - [Vera Pina](Pessoas/V/Vera%20Pina.md)
@@ -1775,6 +1793,7 @@
 - *Zé Ferreira* → [José Emanuel Ferreira](Pessoas/J/Jos%C3%A9%20Emanuel%20Ferreira.md)
 - *Zé Frazão* → [José Frazão](Pessoas/J/Jos%C3%A9%20Fraz%C3%A3o.md)
 - *Zé Maria Caldeira Ribeiro* → [José Maria Caldeira Ribeiro](Pessoas/J/Jos%C3%A9%20Maria%20Caldeira%20Ribeiro.md)
+- [Zé Martins](Pessoas/Z/Z%C3%A9%20Martins.md)
 - [Zé Reis](Pessoas/Z/Z%C3%A9%20Reis.md)
 - *Zeca* → [José Lima](Pessoas/J/Jos%C3%A9%20Lima.md)
 - [Zé Guedes](Pessoas/Z/Z%C3%A9%20Guedes.md)

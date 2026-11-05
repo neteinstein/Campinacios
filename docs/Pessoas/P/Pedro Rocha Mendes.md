@@ -11,6 +11,7 @@ Pedro Rocha Mendes é ex-aluno do [CSJB](../../Movimento/CSJB.md).
 
 - **Animador:**
     - 1993 [Tabuadelas II](../../Acampamentos/1993/Tabuadelas%20II.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 1993 [Faísca](../../Acampamentos/1993/Fa%C3%ADsca.md)
     - 1994 [Wally](../../Acampamentos/1994/Wally.md) - [Director](../../Cargos/Director.md)
     - 1995 [Hakuna Matata](../../Acampamentos/1995/Hakuna%20Matata.md) - [Director](../../Cargos/Director.md)
     - 1995 [Serrote](../../Acampamentos/1995/Serrote.md) - [Director Adjunto](../../Cargos/Director-Adjunto.md)

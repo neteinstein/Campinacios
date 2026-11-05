@@ -15,6 +15,7 @@
     - 1991 [Constância](../../Acampamentos/1991/Const%C3%A2ncia.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 1992 [Porto da Balsa 92](../../Acampamentos/1992/Porto%20da%20Balsa%2092.md) - [Director](../../Cargos/Director.md)
     - 1993 [Porto da Balsa 93](../../Acampamentos/1993/Porto%20da%20Balsa%2093.md) - [Director](../../Cargos/Director.md)
+    - 1993 [Faísca](../../Acampamentos/1993/Fa%C3%ADsca.md)
     - 1994 [Florinhas](../../Acampamentos/1994/Florinhas.md) - [Director](../../Cargos/Director.md)
 
 ---

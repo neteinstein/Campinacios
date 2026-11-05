@@ -17,6 +17,7 @@
 - [Leonor Vala](Leonor%20Vala.md)
 - [Leonor Veloso](Leonor%20Veloso.md)
 - [Lídia Couto](L%C3%ADdia%20Couto.md)
+- [Lígia](L%C3%ADgia.md)
 - [Lígia Encarnação](L%C3%ADgia%20Encarna%C3%A7%C3%A3o.md)
 - [Liliana](Liliana.md)
 - [Lourenço Barjona](Louren%C3%A7o%20Barjona.md)
