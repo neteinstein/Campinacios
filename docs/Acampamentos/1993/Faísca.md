@@ -26,7 +26,7 @@ O hino deste campo está no [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin
 - [Liliana](../../Pessoas/L/Liliana.md)
 - [Magda Matos](../../Pessoas/M/Magda%20Matos.md)
 - [Magui](../../Pessoas/M/Magui.md)
-- [Marco Cunha (CC)](../../Pessoas/M/Marco%20Cunha%20%28CC%29.md)
+- [Marco Cunha](../../Pessoas/M/Marco%20Cunha.md)
 - [Marco Frazão](../../Pessoas/M/Marco%20Fraz%C3%A3o.md)
 - [Marcos Matos](../../Pessoas/M/Marcos%20Matos.md)
 - [Margarida Valle](../../Pessoas/M/Margarida%20Valle.md)
