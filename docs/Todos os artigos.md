@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1439 artigos e, em itálico, os 286 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1438 artigos e, em itálico, os 286 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -1070,7 +1070,6 @@
 - [Manuel Centeno](Pessoas/M/Manuel%20Centeno.md)
 - [Manuel Mendes de Almeida](Pessoas/M/Manuel%20Mendes%20de%20Almeida.md)
 - [Manuel Reis](Pessoas/M/Manuel%20Reis.md)
-- [Marco Cunha (CC)](Pessoas/M/Marco%20Cunha%20%28CC%29.md)
 - [Margarida Amorim](Pessoas/M/Margarida%20Amorim.md)
 - [Margarida Farelo](Pessoas/M/Margarida%20Farelo.md)
 - [Maria Barros](Pessoas/M/Maria%20Barros.md)

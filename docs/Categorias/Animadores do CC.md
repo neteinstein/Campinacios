@@ -125,7 +125,7 @@ Animadores do Colégio das Caldinhas
 - [Magda Martins](../Pessoas/M/Magda%20Martins.md)
 - [Manuel Matos](../Pessoas/M/Manuel%20Matos.md)
 - [Manuel Silva](../Pessoas/M/Manuel%20Silva.md)
-- [Marco Cunha (CC)](../Pessoas/M/Marco%20Cunha%20%28CC%29.md)
+- [Marco Cunha](../Pessoas/M/Marco%20Cunha.md)
 - [Maria Amorim](../Pessoas/M/Maria%20Amorim.md)
 - [Maria Cortês Ferreira](../Pessoas/M/Maria%20Cort%C3%AAs%20Ferreira.md)
 - [Maria Pinheiro Machado](../Pessoas/M/Maria%20Pinheiro%20Machado.md)

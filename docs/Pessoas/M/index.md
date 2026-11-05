@@ -42,7 +42,6 @@
 - [Marco António](Marco%20Ant%C3%B3nio.md)
 - [Marco Conceição](Marco%20Concei%C3%A7%C3%A3o.md)
 - [Marco Cunha](Marco%20Cunha.md)
-- [Marco Cunha (CC)](Marco%20Cunha%20%28CC%29.md)
 - [Marco Frazão](Marco%20Fraz%C3%A3o.md)
 - [Marcos Matos](Marcos%20Matos.md)
 - [Margarida Amorim](Margarida%20Amorim.md)
