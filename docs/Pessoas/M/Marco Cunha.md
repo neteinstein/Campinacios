@@ -1,5 +1,7 @@
 # Marco Cunha
 
+*Nota: Este artigo é sobre Marco Cunha, capelão em 2004 e 2005. Se procura Marco Cunha, animador do CC, formando no Faísca em 1993, consulte [Marco Cunha (CC)](Marco%20Cunha%20%28CC%29.md).*
+
 ### Acampamentos
 
 - **Animador:**
