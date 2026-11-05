@@ -10,6 +10,7 @@
 ### Acampamentos
 
 - **Animador:**
+    - 1993 [Faísca](../../Acampamentos/1993/Fa%C3%ADsca.md)
     - 1996 [Caldelas](../../Acampamentos/1996/Caldelas.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
 ---

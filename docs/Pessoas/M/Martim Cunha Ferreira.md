@@ -4,6 +4,8 @@ Segundo as listas de animadores do CSJB, até 2002 tinha participado em 4 acampa
 
 ### Acampamentos
 
+- **Formação:**
+    - 1993 [Faísca](../../Acampamentos/1993/Fa%C3%ADsca.md)
 - **Animador:**
     - 1998 [Mountain Bike](../../Acampamentos/1998/Mountain%20Bike.md) - [Director](../../Cargos/Director.md)
     - 2000 [Pirilama](../../Acampamentos/2000/Pirilama.md) - [Director](../../Cargos/Director.md)

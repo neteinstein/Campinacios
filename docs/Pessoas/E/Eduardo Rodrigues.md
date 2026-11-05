@@ -15,6 +15,7 @@ Eduardo Rodrigues, também conhecido por Zinho, é animador do CC.
 
 - **Formação:**
     - 1991 [Cagácios](../../Acampamentos/1991/Cag%C3%A1cios.md)
+    - 1993 [Faísca](../../Acampamentos/1993/Fa%C3%ADsca.md)
 - **Animador**
     - 1992 [Fornelos](../../Acampamentos/1992/Fornelos.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 1993 [Tabuadelas II](../../Acampamentos/1993/Tabuadelas%20II.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)

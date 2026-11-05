@@ -15,6 +15,7 @@
     - 1989 [Ferrugenta](../../Acampamentos/1989/Ferrugenta.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 1992 [Agroal](../../Acampamentos/1992/Agroal.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 1993 [Tabuadelas II](../../Acampamentos/1993/Tabuadelas%20II.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 1993 [Faísca](../../Acampamentos/1993/Fa%C3%ADsca.md)
     - 1994 [Caldiclos](../../Acampamentos/1994/Caldiclos.md) - [Director](../../Cargos/Director.md)
     - 1997 [GANZA](../../Acampamentos/1997/GANZA.md) - [Director](../../Cargos/Director.md)
 
