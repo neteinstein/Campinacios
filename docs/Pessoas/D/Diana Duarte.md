@@ -7,7 +7,7 @@
 ### Acampamentos
 
 - **Animador(a):**
-    - 2017 [Faz Sentido](../../Acampamentos/2017/Faz%20Sentido.md)
+    - 2017 [Faz Sentido](../../Acampamentos/2017/Faz%20Sentido.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
 ---
 
