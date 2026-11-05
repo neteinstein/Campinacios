@@ -56,6 +56,7 @@ Quando tiveres dúvidas do que é ser mamã de acampamento lembra-te como é (ex
 - [Concha Sampaio Soares](../Pessoas/C/Concha%20Sampaio%20Soares.md)
 - [Constança Pereira da Silva](../Pessoas/C/Constan%C3%A7a%20Pereira%20da%20Silva.md)
 - [Cristina Cabeça](../Pessoas/C/Cristina%20Cabe%C3%A7a.md)
+- [Diana Duarte](../Pessoas/D/Diana%20Duarte.md)
 - [Diana Pereira](../Pessoas/D/Diana%20Pereira.md)
 - [Diana Quintela](../Pessoas/D/Diana%20Quintela.md)
 - [Filipa Caldas](../Pessoas/F/Filipa%20Caldas.md)
