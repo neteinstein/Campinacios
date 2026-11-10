@@ -58,7 +58,7 @@ As músicas do Cantinácio de 2019 (3.ª edição) foram juntadas às que já es
 - [Cânticos](Cantin%C3%A1cio/C%C3%A2nticos.md) — 277 cânticos para as eucaristias e orações
 - [Estrangeiras](Cantin%C3%A1cio/Estrangeiras.md) — 226 músicas estrangeiras
 - [Gambozinos](Cantin%C3%A1cio/Gambozinos.md) — 1 música nascida nos acampamentos
-- [Portuguesas](Cantin%C3%A1cio/Portuguesas.md) — 214 músicas portuguesas
+- [Portuguesas](Cantin%C3%A1cio/Portuguesas.md) — 216 músicas portuguesas
 
 ## Musiquitas
 
