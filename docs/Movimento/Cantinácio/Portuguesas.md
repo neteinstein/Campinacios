@@ -8,7 +8,7 @@ Músicas portuguesas (e algumas brasileiras) para cantar à fogueira.
 
 Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 
-## Índice (214 músicas)
+## Índice (216 músicas)
 
 - [A BANDA](#a-banda) — Chico Buarque
 - [A BELA E O MONSTRO](#a-bela-e-o-monstro)
@@ -150,6 +150,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [O EMBUÇADO](#o-embucado)
 - [O HOMEM DO LEME](#o-homem-do-leme) — Xutos e Pontapés
 - [O JOGO](#o-jogo) — Tiago Bettencourt
+- [OLÁ SOLIDÃO](#ola-solidao) — Os Quatro e Meia
 - [OLIVER E BENGI](#oliver-e-bengi)
 - [O NECESSÁRIO](#o-necessario) — O Livro da Selva
 - [Ó OLIVEIRA DA SERRA](#o-oliveira-da-serra) — Popular
@@ -192,6 +193,7 @@ Voltar ao [Cantinácio](../Cantin%C3%A1cio.md).
 - [RUCA](#ruca)
 - [SÃO DIAS QUE PASSAM](#sao-dias-que-passam) — Hélder Ribeiro / Judy Collins
 - [SENTA-TE AÍ](#senta-te-ai) — Rio Grande (João Monge / João Gil)
+- [SENTIR O SOL](#sentir-o-sol) — Os Quatro e Meia
 - [SERÁ AMOR](#sera-amor) — César Mourão e Luana Martau (letra de Miguel Araújo)
 - [SINGUINGAI](#singuingai)
 - [SOL DA CAPARICA](#sol-da-caparica) — Peste e Sida
@@ -7790,6 +7792,82 @@ Lá7* - x02030; Dó* - x32033
 Ré* - xx0233; Sol* - 200033
 ```
 
+### OLÁ SOLIDÃO {#ola-solidao}
+
+*Os Quatro e Meia*
+
+```text
+[Intro] Mim Lá9 Ré7M Sol
+Mim Lá9 Ré7M Sol
+
+Mim
+Eu já fui assim
+Lá9
+Tão focado em mim
+Ré7M
+Sem querer conselhos
+Sol
+De ninguém
+
+Mim
+Fiz das nuvens lar
+Lá9
+Saltei sem olhar
+Ré7M Sol
+Crendo que no fim sairia tudo bem
+
+Mim Sol
+Fiz bandeira de um velho ditado
+Sim
+Melhor só que mal acompanhado
+Lá9
+Nem pensava em apoiar os pés no chão
+
+Mim Sol
+Olá, solidão
+Sim Lá9
+Olá, solidão
+
+Eu tinha um lugar
+Com vista para o mar
+Que ninguém chegou a conhecer
+
+Voei rente ao céu
+Tudo era só meu
+E o que ainda não era iria ser
+
+Olho em volta agora estou sozinho
+Não liguei às placas do caminho
+Nem parei pra perguntar a direção
+
+Olá, solidão
+Olá, solidão
+Olá, solidão
+Olá, solidão
+
+( Mim Sol Sim Lá9 )
+( Mim Sol Sim Lá9 )
+( Mim Sol Sim Lá9 )
+
+Fiz bandeira de um velho ditado
+Melhor só que mal acompanhado
+Nem pensava em apoiar os pés no chão
+
+Olho em volta agora estou sozinho
+Não liguei às placas do caminho
+Nem parei pra perguntar a direção
+
+Olá, solidão
+Olá, solidão
+
+( Mim Sol Sim Lá9 )
+
+Eu já fui assim
+Tão focado em mim
+Sem querer conselhos
+De ninguém
+```
+
 ### OLIVER E BENGI {#oliver-e-bengi}
 
 ```text
@@ -10038,6 +10116,123 @@ Está na hora de ouvires o teu pai
 Puxa para ti essa cadeira
 Cada qual é que escolhe aonde vai
 Hora-a-hora e durante a vida inteira
+```
+
+### SENTIR O SOL {#sentir-o-sol}
+
+*Os Quatro e Meia*
+
+```text
+[Intro] Rém Sol Rém Sol
+
+Rém Sol
+Conto a conta-gotas o tempo que passa
+Rém Sol
+Vejo o sol lá fora fazendo pirraça
+Rém Sol
+Já são quatro e meia está quase na hora
+Rém Sol
+De fechar a loja para dar o fora
+
+Rém
+Saio para a rua,
+Sol
+E no vento morno
+Rém
+Sinto o cheiro a pão
+Sol
+Saindo do forno
+
+Rém
+Ouço as sirenes
+Sol
+Motores e buzinas
+Rém
+Junto à paragem
+Sol
+Conversam as meninas
+
+Rém
+Sabe-me tão bem
+Sentar na esplanada
+Sol
+A olhar o mundo sem pensar em nada
+Rém
+Espreguiçar um pouco
+Beber uma cola
+Sol
+Ver a garotada a jogar à bola
+
+Rém Sol
+Só quero, sentir o sol (sentir o sol)
+Rém Sol
+Sentir o sol
+Rém Sol
+Só quero, sentir o sol (sentir o sol)
+Rém Sol
+Sentir o sol
+
+( Rém Sol Rém Sol )
+
+Homens ao telefone metem-se em sarilhos
+Queixam-se as mulheres, das mulheres dos filhos
+Só os velhos sentados à beira da estrada
+Contrastam com os passos da gente apressada
+
+Eu vejo a turva louca
+Correndo perdida
+Bebendo de um trago do copo da vida
+Do meu lugarzinho
+Onde o mundo abranda
+Onde a pressa some
+E a calma é que manda
+
+Sabe-me tão bem
+Sentar na esplanada
+A olhar o mundo sem pensar em nada
+Espreguiçar um pouco
+Beber uma cola
+Ver a garotada a jogar à bola
+
+Só quero, sentir o sol (sentir o sol)
+Sentir o sol
+Só quero, sentir o sol (sentir o sol)
+Sentir o sol
+
+Sentir o sol, sentir o sol
+(Só quero)
+Sentir o sol, sentir o sol
+(Jogar à bola)
+Sentir o sol, sentir o sol
+(Sentir o sol)
+Sentir o sol, sentir o sol
+Sabe-me tão bem, sentir o sol!
+
+Sabe-me tão bem
+Sentar na esplanada
+A olhar o mundo sem pensar em nada
+Espreguiçar um pouco
+Beber uma cola
+Ver a garotada a jogar à bola
+
+Sabe-me tão bem
+Sentar na esplanada
+A olhar o mundo sem pensar em nada
+Espreguiçar um pouco
+Beber uma cola
+Ver a garotada a jogar à bola
+
+Só quero, sentir o sol (sentir o sol)
+Sentir o sol
+Só quero, sentir o sol (sentir o sol)
+Sentir o sol
+
+Só quero, sentir o sol (sentir o sol)
+Sentir o sol
+Só quero, sentir o sol (sentir o sol)
+Sentir o sol
+Só quero, sentir o sol (sentir o sol)
+Sentir o sol
 ```
 
 ### SERÁ AMOR {#sera-amor}
