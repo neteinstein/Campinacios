@@ -19,10 +19,8 @@
     - 2008 [OrienTu](../../Acampamentos/2008/OrienTu.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2009 [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2011 [Ara](../../Acampamentos/2011/Ara.md) - [Tia](../../Cargos/Tio.md)
-    - 2012 [Raio Part'ós Ninjas](../../Acampamentos/2012/Raio%20Part%27%C3%B3s%20Ninjas.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2014 [Além Pocinhas](../../Acampamentos/2014/Al%C3%A9m%20Pocinhas.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2015 [Someonelfie](../../Acampamentos/2015/Someonelfie.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
-    - 2015 [Jásinto](../../Acampamentos/2015/J%C3%A1sinto.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
 ### Testemunho
 

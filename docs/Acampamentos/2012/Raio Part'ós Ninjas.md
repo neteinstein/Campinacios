@@ -7,7 +7,7 @@
 - [Director](../../Cargos/Director.md) - [Gonçalo Vaz Pedro](../../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Sara Moinhos](../../Pessoas/S/Sara%20Moinhos.md), [Domingos Freire de Andrade](../../Pessoas/D/Domingos%20Freire%20de%20Andrade.md) (Duda), [José Ferreira](../../Pessoas/J/Jos%C3%A9%20Emanuel%20Ferreira.md) e [Vítor Leite](../../Pessoas/V/V%C3%ADtor%20Leite.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Carvalho](../../Pessoas/C/Carlos%20Carvalho.md) sj
-- [Mamã](../../Cargos/Mam%C3%A3.md) - [Ana Reis](../../Pessoas/A/Ana%20Lu%C3%ADsa%20Reis.md)
+- [Mamã](../../Cargos/Mam%C3%A3.md) - Ana Reis
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Rafael Carecho](../../Pessoas/R/Rafael%20Carecho.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [João de Brito](../../Pessoas/J/Jo%C3%A3o%20de%20Brito.md) sj
 - [Tia](../../Cargos/Tio.md) - [Francisca Matos Dias](../../Pessoas/F/Francisca%20Dias.md)
