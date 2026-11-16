@@ -15,7 +15,12 @@
 
 ## Participantes que se tornaram animadores
 
+- [Afonso Barrocas](../../Pessoas/A/Afonso%20Barrocas.md)
+- [António Pereira](../../Pessoas/A/Ant%C3%B3nio%20Pereira.md)
 - [Ariana Couto](../../Pessoas/A/Ariana%20Couto.md)
+- [Catarina Silveira](../../Pessoas/C/Catarina%20Silveira.md)
+- [Eduardo Apolónio](../../Pessoas/E/Eduardo%20Apol%C3%B3nio.md)
+- [Matilde Silva](../../Pessoas/M/Matilde%20Silva.md)
 
 ---
 

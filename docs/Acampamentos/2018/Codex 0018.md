@@ -15,8 +15,12 @@
 
 ## Participantes que se tornaram animadores
 
+- [Afonso Carvalho](../../Pessoas/A/Afonso%20Carvalho.md)
 - [Ana Mendonça](../../Pessoas/A/Ana%20Mendon%C3%A7a.md)
+- [António Neves](../../Pessoas/A/Ant%C3%B3nio%20Neves.md)
 - [Chico Silva](../../Pessoas/C/Chico%20Silva.md)
+- [José Cabelo](../../Pessoas/J/Jos%C3%A9%20Cabelo.md)
+- [Maria Silva](../../Pessoas/M/Maria%20Silva.md)
 
 ---
 

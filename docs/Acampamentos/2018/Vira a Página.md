@@ -15,9 +15,13 @@
 
 ## Participantes que se tornaram animadores
 
+- [Afonso Barrocas](../../Pessoas/A/Afonso%20Barrocas.md)
 - [Ariana Couto](../../Pessoas/A/Ariana%20Couto.md)
+- [Beatriz Miguel](../../Pessoas/B/Beatriz%20Miguel.md)
 - [Carmo Ribeiro Corrêa](../../Pessoas/C/Carmo%20Ribeiro%20Corr%C3%AAa.md)
+- [Diogo Boal Neves](../../Pessoas/D/Diogo%20Boal%20Neves.md)
 - [Fernando Monteiro](../../Pessoas/F/Fernando%20Monteiro.md)
+- [Francisca Crujeira](../../Pessoas/F/Francisca%20Crujeira.md)
 
 ---
 

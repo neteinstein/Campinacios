@@ -155,6 +155,7 @@
 - [Sara Ramalho](../Pessoas/S/Sara%20Ramalho.md)
 - [Sara Rita Sampaio](../Pessoas/S/Sara%20Rita%20Sampaio.md)
 - [Sílvia Alexandra](../Pessoas/S/S%C3%ADlvia%20Alexandra.md)
+- [Sílvia Lobo](../Pessoas/S/S%C3%ADlvia%20Lobo.md)
 - [Sílvia Reis](../Pessoas/S/S%C3%ADlvia%20Reis.md)
 - [Sílvia Sepúlveda](../Pessoas/S/S%C3%ADlvia%20Sep%C3%BAlveda.md)
 - [Sofia Ângelo](../Pessoas/S/Sofia%20%C3%82ngelo.md)

@@ -11,8 +11,10 @@
 
 ## Participantes que se tornaram animadores
 
+- [Alexandre Alípio](../../Pessoas/A/Alexandre%20Al%C3%ADpio.md)
 - [Chico Silva](../../Pessoas/C/Chico%20Silva.md)
 - [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
+- [Tomás Costa](../../Pessoas/T/Tom%C3%A1s%20Costa.md)
 
 ---
 

@@ -17,8 +17,10 @@
 - [Diogo Rêgo](../../Pessoas/D/Diogo%20R%C3%AAgo.md)
 - [Francisco Cunha e Carmo](../../Pessoas/F/Francisco%20Cunha%20e%20Carmo.md)
 - [Francisco Sá](../../Pessoas/F/Francisco%20S%C3%A1.md)
+- [Luís Boavida](../../Pessoas/L/Lu%C3%ADs%20Boavida.md)
 - [Mafalda Machete](../../Pessoas/M/Mafalda%20Machete.md)
 - [Maria Braga da Cruz](../../Pessoas/M/Maria%20Braga%20da%20Cruz.md)
+- [Rafa Silva](../../Pessoas/R/Rafa%20Silva.md)
 - [Sebastião Caldas](../../Pessoas/S/Sebasti%C3%A3o%20Caldas.md)
 
 ---

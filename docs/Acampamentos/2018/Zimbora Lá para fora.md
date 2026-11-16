@@ -13,7 +13,15 @@
 
 ## Participantes que se tornaram animadores
 
+- [António Pereira](../../Pessoas/A/Ant%C3%B3nio%20Pereira.md)
 - [Beatriz Mesquita](../../Pessoas/B/Beatriz%20Mesquita.md)
+- [Catarina Silveira](../../Pessoas/C/Catarina%20Silveira.md)
+- [Dinis Braga da Cruz](../../Pessoas/D/Dinis%20Braga%20da%20Cruz.md)
+- [Flor Freitas](../../Pessoas/F/Flor%20Freitas.md)
+- [Joana Rocha](../../Pessoas/J/Joana%20Rocha.md)
+- [Lourenço Beato](../../Pessoas/L/Louren%C3%A7o%20Beato.md)
+- [Miguel Teixeira](../../Pessoas/M/Miguel%20Teixeira.md)
+- [Teresa Cannas](../../Pessoas/T/Teresa%20Cannas.md)
 
 ---
 

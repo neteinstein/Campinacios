@@ -44,6 +44,7 @@
 - [Filipe Próspero](../Pessoas/F/Filipe%20Pr%C3%B3spero.md)
 - [Formiga](../Pessoas/F/Formiga.md)
 - [Francisca Crujeira](../Pessoas/F/Francisca%20Crujeira.md)
+- [Francisco Caldas](../Pessoas/F/Francisco%20Caldas.md)
 - [Francisco Carneiro](../Pessoas/F/Francisco%20Carneiro.md)
 - [Francisco Costa Macedo](../Pessoas/F/Francisco%20Costa%20Macedo.md)
 - [Francisco Cunha e Carmo](../Pessoas/F/Francisco%20Cunha%20e%20Carmo.md)
