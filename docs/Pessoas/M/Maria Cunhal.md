@@ -5,6 +5,7 @@
 ### Acampamentos
 
 - **Animador(a):**
+    - 2022 [À Grande e à Francesa](../../Acampamentos/2022/%C3%80%20Grande%20e%20%C3%A0%20Francesa.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2023 [Chuva ó Chave](../../Acampamentos/2023/Chuva%20%C3%B3%20Chave.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2024 [Com Capricho](../../Acampamentos/2024/Com%20Capricho.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2025 [Sem Truques](../../Acampamentos/2025/Sem%20Truques.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)

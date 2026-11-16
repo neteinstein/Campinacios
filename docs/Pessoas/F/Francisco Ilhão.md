@@ -3,6 +3,7 @@
 ### Acampamentos
 
 - **Animador(a):**
+    - 2022 [À Grande e à Francesa](../../Acampamentos/2022/%C3%80%20Grande%20e%20%C3%A0%20Francesa.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2023 [Perc'Urso](../../Acampamentos/2023/Perc%27Urso.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2023 [A Partir](../../Acampamentos/2023/A%20Partir.md) - [Animador(a) de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2024 [Fight Club](../../Acampamentos/2024/Fight%20Club.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
