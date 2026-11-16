@@ -51,6 +51,10 @@ Claro que tudo isto aumenta a dificuldade de uma pessoa preencher a vida... não
 
 E por acreditar em tantas coisas e saber que tanta gente também acredita leva-me a acreditar que se alguém visse o mundo de longe, veria que quando se formaram os Campinácios há 20 anos uma luz dourada e duradoura nasceu. Ao longo dos anos muitas lâmpadas com pouca luz juntavam-se e quando se separavam acendiam um bocado mais as lâmpadas que estavam no seu cantinho do mundo... e lâmpada a lâmpada se vai mudando o mundo...
 
+### Família
+
+É irmão do [Domingos Freire de Andrade](../D/Domingos%20Freire%20de%20Andrade.md).
+
 ---
 
 **Outros nomes:** Jonifa

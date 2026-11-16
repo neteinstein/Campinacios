@@ -19,6 +19,10 @@
 - 2019 [Rockstock 2019](../../Encontros/Rockstock%202019.md) - Equipa de animação
 - 2022 [Rockstock 2022](../../Encontros/Rockstock%202022.md) - Equipa de animação
 
+### Família
+
+É irmã da [Rita Fonseca](../R/Rita%20Fonseca.md) e do [Pedro Fonseca](../P/Pedro%20Fonseca.md).
+
 ---
 
 **Outros nomes:** Isab Fonseca

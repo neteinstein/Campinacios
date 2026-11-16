@@ -15,6 +15,10 @@
 
 - 2022 [Rockstock 2022](../../Encontros/Rockstock%202022.md) - Equipa de animação
 
+### Família
+
+É irmã da [Rita Ângelo](../R/Rita%20%C3%82ngelo.md).
+
 ---
 
 | Categorias |

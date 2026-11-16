@@ -7,6 +7,10 @@
     - 2019 [XP Fora da Roda](../../Acampamentos/2019/XP%20Fora%20da%20Roda.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2023 [CRUZZ](../../Acampamentos/2023/CRUZZ.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
+### Família
+
+É irmã da [Alexandra Couto](Alexandra%20Couto.md) e da [Ariana Couto](Ariana%20Couto.md).
+
 ---
 
 | Categorias |

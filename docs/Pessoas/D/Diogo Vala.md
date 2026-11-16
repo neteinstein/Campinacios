@@ -12,6 +12,10 @@
 
 - 2022 [Rockstock 2022](../../Encontros/Rockstock%202022.md) - Equipa de animação
 
+### Família
+
+É irmão da [Leonor Vala](../L/Leonor%20Vala.md).
+
 ---
 
 | Categorias |

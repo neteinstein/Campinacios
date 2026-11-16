@@ -11,6 +11,10 @@
     - 2024 [Fight Club](../../Acampamentos/2024/Fight%20Club.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2025 [PássaPorta](../../Acampamentos/2025/P%C3%A1ssaPorta.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
+### Família
+
+É irmã da [Maria Rocha](../M/Maria%20Rocha.md).
+
 ---
 
 | Categorias |

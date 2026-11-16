@@ -15,6 +15,10 @@
     - 2023 [Perc'Urso](../../Acampamentos/2023/Perc%27Urso.md) - [Director](../../Cargos/Director.md)
     - 2024 [Mestrarte](../../Acampamentos/2024/Mestrarte.md) - [Animador(a) Livre](../../Cargos/Animador%20Livre.md)
 
+### Família
+
+É irmã do [Paulo Gonçalves](Paulo%20Gon%C3%A7alves.md).
+
 ---
 
 | Categorias |

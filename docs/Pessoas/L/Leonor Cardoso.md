@@ -23,6 +23,10 @@
 
 - 2022 [Rockstock 2022](../../Encontros/Rockstock%202022.md) - Equipa de animação
 
+### Família
+
+É irmã do [Tomás Cardoso](../T/Tom%C3%A1s%20Cardoso.md).
+
 ---
 
 | Categorias |

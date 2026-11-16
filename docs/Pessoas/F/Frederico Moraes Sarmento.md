@@ -8,6 +8,10 @@
     - 2017 [Peru](../../Acampamentos/2017/Peru.md) - [Animador(a) de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2022 [À Grande e à Francesa](../../Acampamentos/2022/%C3%80%20Grande%20e%20%C3%A0%20Francesa.md) - [Tio](../../Cargos/Tio.md)
 
+### Família
+
+É irmão do [Bernardo Moraes Sarmento](../B/Bernardo%20Moraes%20Sarmento.md).
+
 ---
 
 **Outros nomes:** Frederico Sarmento

@@ -10,6 +10,10 @@
 
 - 2025 [Rockstock 2025](../../Encontros/Rockstock%202025.md) - Jesuíta
 
+### Família
+
+É sobrinho do [Bernardo Perloiro](../B/Bernardo%20Perloiro.md).
+
 ---
 
 | Categorias |

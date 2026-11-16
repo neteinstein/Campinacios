@@ -11,6 +11,10 @@ Madalena Líbano Monteiro é animadora do [CSJB](../../Categorias/Animadores%20d
 - **Animador(a):**
     - 2022 [Foca-te](../../Acampamentos/2022/Foca-te.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
+### Família
+
+É irmã da [Maria Líbano Monteiro](Maria%20L%C3%ADbano%20Monteiro.md).
+
 ---
 
 | Categorias |

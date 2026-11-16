@@ -15,6 +15,10 @@
 
 - 2023 [Rockstock 2023](../../Encontros/Rockstock%202023.md) - Equipa de animação
 
+### Família
+
+É irmão do [Gonçalo Sá](../G/Gon%C3%A7alo%20S%C3%A1.md).
+
 ---
 
 **Outros nomes:** Kiko Sá

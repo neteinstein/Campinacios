@@ -10,6 +10,10 @@
     - 2016 [Troca](../../Acampamentos/2016/Troca.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2017 [ReComeçar de Novo](../../Acampamentos/2017/ReCome%C3%A7ar%20de%20Novo.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
+### Família
+
+É irmã da [Madalena Líbano Monteiro](Madalena%20L%C3%ADbano%20Monteiro.md).
+
 ---
 
 | Categorias |

@@ -15,6 +15,10 @@
 - 2019 [Rockstock 2019](../../Encontros/Rockstock%202019.md) - Equipa de animação
 - 2022 [Rockstock 2022](../../Encontros/Rockstock%202022.md) - Equipa de animação
 
+### Família
+
+É irmã da [Chica Aguiar](../C/Chica%20Aguiar.md).
+
 ---
 
 **Outros nomes:** Ana Aguiar

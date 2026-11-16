@@ -14,6 +14,10 @@
     - 2015 [Mergulha](../../Acampamentos/2015/Mergulha.md) - [Director](../../Cargos/Director.md)
     - 2016 [Em Tudo](../../Acampamentos/2016/Em%20Tudo.md) - [Director](../../Cargos/Director.md)
 
+### Família
+
+É irmão do [João Freire de Andrade](../J/Jo%C3%A3o%20Freire%20de%20Andrade.md).
+
 ---
 
 **Outros nomes:** Duda

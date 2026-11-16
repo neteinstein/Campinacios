@@ -13,6 +13,10 @@
 
 - 2019 [Rockstock 2019](../../Encontros/Rockstock%202019.md) - Equipa de animação
 
+### Família
+
+É irmão do [António Portugal](../A/Ant%C3%B3nio%20Portugal.md), da [Benedita Vasconcelos](../B/Benedita%20Vasconcelos.md) e do [Manas Vasconcelos](../M/Manas%20Vasconcelos.md).
+
 ---
 
 **Outros nomes:** Digas

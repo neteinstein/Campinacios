@@ -17,6 +17,10 @@
 - 2023 [Encontro Nacional 2023](../../Encontros/Encontro%20Nacional%202023.md) - Direcção de Lambretas
 - 2025 [Encontro Nacional 2025 (35 Anos)](../../Encontros/Encontro%20Nacional%202025%20%2835%20Anos%29.md) - Director
 
+### Família
+
+É irmão do [Francisco Sá](../F/Francisco%20S%C3%A1.md).
+
 ---
 
 | Categorias |

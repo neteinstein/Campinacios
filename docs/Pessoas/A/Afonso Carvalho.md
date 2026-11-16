@@ -16,6 +16,10 @@
 - 2024 [Encontro Nacional 2024](../../Encontros/Encontro%20Nacional%202024.md) - Director de Bicicletas
 - 2025 [Rockstock 2025](../../Encontros/Rockstock%202025.md) - Equipa de animação
 
+### Família
+
+É irmão da [Matilde Carvalho](../M/Matilde%20Carvalho.md).
+
 ---
 
 | Categorias |

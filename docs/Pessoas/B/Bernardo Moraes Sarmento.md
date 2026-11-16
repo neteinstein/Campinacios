@@ -13,6 +13,10 @@
 - 2019 [Rockstock 2019](../../Encontros/Rockstock%202019.md) - Equipa de animação
 - 2023 [Encontro Nacional 2023](../../Encontros/Encontro%20Nacional%202023.md) - Director
 
+### Família
+
+É irmão do [Frederico Moraes Sarmento](../F/Frederico%20Moraes%20Sarmento.md).
+
 ---
 
 **Outros nomes:** Bernardo Morais Sarmento · Bernardo Sarmento

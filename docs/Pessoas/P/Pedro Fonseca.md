@@ -16,6 +16,10 @@
 
 - 2019 [Rockstock 2019](../../Encontros/Rockstock%202019.md) - Equipa de animação
 
+### Família
+
+É irmão da [Rita Fonseca](../R/Rita%20Fonseca.md) e da [Isabel Fonseca](../I/Isabel%20Fonseca.md).
+
 ---
 
 **Outros nomes:** Pê Fonseca

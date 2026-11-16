@@ -13,6 +13,10 @@
 
 - 2023 [Rockstock 2023](../../Encontros/Rockstock%202023.md) - Director-Adjunto
 
+### Família
+
+É irmão da [Inês Costa](../I/In%C3%AAs%20Costa.md).
+
 ---
 
 | Categorias |

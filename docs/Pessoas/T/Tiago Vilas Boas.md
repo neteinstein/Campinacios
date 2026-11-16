@@ -12,6 +12,10 @@
 
 - 2019 [Rockstock 2019](../../Encontros/Rockstock%202019.md) - Equipa de animação
 
+### Família
+
+É casado com a [Francisca Pimentel](../F/Francisca%20Pimentel.md).
+
 ---
 
 **Outros nomes:** Tigas · Tiago Vilas-Boas

@@ -11,6 +11,10 @@
     - 2025 [À Brava](../../Acampamentos/2025/%C3%80%20Brava.md) - [Animador(a) de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2026 [Ca Ganda Tanga](../../Acampamentos/2026/Ca%20Ganda%20Tanga.md) - [Animador(a) de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
+### Família
+
+É irmã do [António Neves](../A/Ant%C3%B3nio%20Neves.md).
+
 ---
 
 | Categorias |

@@ -17,6 +17,10 @@ Filipa Maria Gomes Pereira Lemos Caldas, conhecida por Pipa e também por Caldin
     - 2011 [Olha, Isto Aqui é uma Estátua](../../Acampamentos/2011/Olha%2C%20Isto%20Aqui%20%C3%A9%20uma%20Est%C3%A1tua.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2015 [Ide](../../Acampamentos/2015/Ide.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
+### Família
+
+É irmã do [Bernardo Caldas](../B/Bernardo%20Caldas.md), do [Francisco Caldas](Francisco%20Caldas.md) e do [Sebastião Caldas](../S/Sebasti%C3%A3o%20Caldas.md).
+
 ---
 
 | Categorias |

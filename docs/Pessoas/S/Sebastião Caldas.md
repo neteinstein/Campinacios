@@ -15,6 +15,10 @@
 
 - 2022 [Rockstock 2022](../../Encontros/Rockstock%202022.md) - Equipa de animação
 
+### Família
+
+É irmão do [Bernardo Caldas](../B/Bernardo%20Caldas.md), da [Filipa Caldas](../F/Filipa%20Caldas.md) e do [Francisco Caldas](../F/Francisco%20Caldas.md).
+
 ---
 
 | Categorias |

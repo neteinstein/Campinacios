@@ -15,6 +15,10 @@
 
 - 2025 [Rockstock 2025](../../Encontros/Rockstock%202025.md) - Equipa de animação
 
+### Família
+
+É irmã do [Tomás Costa](../T/Tom%C3%A1s%20Costa.md).
+
 ---
 
 **Outros nomes:** Costinha

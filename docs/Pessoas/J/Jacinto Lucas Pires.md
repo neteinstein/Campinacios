@@ -13,7 +13,7 @@
 
 ### Família
 
-É irmão do [Rafael Lucas Pires](../R/Rafael%20Lucas%20Pires.md) e do [Martinho Lucas Pires](../M/Martinho%20Lucas%20Pires.md).
+É irmão do [Rafael Lucas Pires](../R/Rafael%20Lucas%20Pires.md) e do [Martinho Lucas Pires](../M/Martinho%20Lucas%20Pires.md). É pai do [Tobias Lucas Pires](../T/Tobias%20Lucas%20Pires.md). É casado com a [Sara Amado](../S/Sara%20Amado.md).
 
 ---
 

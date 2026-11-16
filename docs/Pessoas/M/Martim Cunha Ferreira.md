@@ -12,6 +12,10 @@ Segundo as listas de animadores do CSJB, até 2002 tinha participado em 4 acampa
     - 2003 [Graal II](../../Acampamentos/2003/Graal%20II.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2005 [Falésia](../../Acampamentos/2005/Fal%C3%A9sia.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
+### Família
+
+É irmão do [Tomás Cunha Ferreira](../T/Tom%C3%A1s%20Cunha%20Ferreira.md).
+
 ---
 
 | Categorias |

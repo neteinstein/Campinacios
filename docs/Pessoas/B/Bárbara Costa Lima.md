@@ -1,3 +1,7 @@
+### Família
+
+É casada com o [Tomás Cunha Ferreira](../T/Tom%C3%A1s%20Cunha%20Ferreira.md).
+
 # Bárbara Costa Lima
 
 ### Acampamentos

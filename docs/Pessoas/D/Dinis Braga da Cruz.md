@@ -14,6 +14,10 @@
 - 2025 [Rockstock 2025](../../Encontros/Rockstock%202025.md) - Equipa de animação
 - 2026 [Rockstock 2026](../../Encontros/Rockstock%202026.md) - Director
 
+### Família
+
+É irmão da [Beatriz Braga da Cruz](../B/Beatriz%20Braga%20da%20Cruz.md) e da [Maria Braga da Cruz](../M/Maria%20Braga%20da%20Cruz.md).
+
 ---
 
 | Categorias |
