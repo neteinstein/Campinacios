@@ -2,6 +2,8 @@
 
 ### Acampamentos
 
+- **Participante:**
+    - 2024 [Astérix e Obélerdos](../../Acampamentos/2024/Ast%C3%A9rix%20e%20Ob%C3%A9lerdos.md)
 - **Formação:**
     - 2026 [Navalha-me Deus](../../Acampamentos/2026/Navalha-me%20Deus.md)
 - **Animador:**

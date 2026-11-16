@@ -15,7 +15,7 @@
 - **Animadora:**
     - 2022 [Level Up](../../Acampamentos/2022/Level%20Up.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2023 [A Partir](../../Acampamentos/2023/A%20Partir.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
-    - 2024 [Astérix e Obélerdos](../../Acampamentos/2024/Ast%C3%A9rix%20e%20Ob%C3%A9lerdos.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
+    - 2024 [Astérix e Obélerdos](../../Acampamentos/2024/Ast%C3%A9rix%20e%20Ob%C3%A9lerdos.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2025 [Em Frente À'Fera](../../Acampamentos/2025/Em%20Frente%20%C3%80%27Fera.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
     - 2026 [Non Nobis](../../Acampamentos/2026/Non%20Nobis.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
 
