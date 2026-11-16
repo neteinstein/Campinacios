@@ -1,6 +1,6 @@
 # Pó que Voo
 
-**Pó que Voo** foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) realizado de 15 a 21 de Agosto de 2023 em [Maladão](../../Restrito/Locais%20de%20Acampamento/Malad%C3%A3o.md). O tema do ano foi *Maria Levantou-se e Partiu Apressadamente*.
+**Pó que Voo** foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) realizado de 15 a 21 de Agosto de 2023 em [Maladão](../../Restrito/Locais%20de%20Acampamento/Malad%C3%A3o.md). O tema do ano foi *Maria Levantou-se e Partiu Apressadamente*, e o imaginário do acampamento foi uma colmeia de abelhas.
 
 ### Animadores
 

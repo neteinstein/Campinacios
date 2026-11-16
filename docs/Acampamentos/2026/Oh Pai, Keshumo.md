@@ -1,6 +1,6 @@
 # Oh Pai, Keshumo
 
-**Oh Pai, Keshumo** foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) realizado em 2026 em [Sequeiros (Braga)](../../Restrito/Locais%20de%20Acampamento/Sequeiros%20%28Braga%29.md). O tema do ano foi *Escolhe a melhor parte*.
+**Oh Pai, Keshumo** foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) realizado em 2026 em [Sequeiros (Braga)](../../Restrito/Locais%20de%20Acampamento/Sequeiros%20%28Braga%29.md). O tema do ano foi *Escolhe a melhor parte*, e o imaginário do acampamento foi «Como treinar o teu dragão».
 
 ### Animadores
 

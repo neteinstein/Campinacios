@@ -1,6 +1,6 @@
 # Sem Truques
 
-**Sem Truques** foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) realizado em 2025 em Colégio das Caldinhas. O tema do ano foi *Tornai-vos como crianças*.
+**Sem Truques** foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) realizado em 2025 em Colégio das Caldinhas. O tema do ano foi *Tornai-vos como crianças*, e o imaginário do acampamento foi uma convenção de feiticeiros.
 
 O campo estava planeado para Sequeiros mas, devido ao risco de incêndio, o campo anterior ([À Brava](%C3%80%20Brava.md)) teve de mudar para o Colégio das Caldinhas. Assim, este também decorreu normalmente no bosque do Colégio.
 
