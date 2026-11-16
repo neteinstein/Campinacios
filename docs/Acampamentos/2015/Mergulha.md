@@ -15,6 +15,7 @@
 ### Participantes
 
 - [Vasco Lucas Pires](../../Pessoas/V/Vasco%20Lucas%20Pires.md)
+- [Animadores](../../Categorias/Animadores.md) - [Madalena Dantas](../../Pessoas/M/Madalena%20Dantas.md)
 
 ## Participantes que se tornaram animadores
 

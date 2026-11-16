@@ -3,6 +3,7 @@
 ### Acampamentos
 
 - **Participante:**
+    - 2016 [Mostra Garra](../../Acampamentos/2016/Mostra%20Garra.md)
     - 2022 [P'la Tua Mão](../../Acampamentos/2022/P%27la%20Tua%20M%C3%A3o.md)
 - **Formação:**
     - 2023 [Parte de Ti](../../Acampamentos/2023/Parte%20de%20Ti.md)
