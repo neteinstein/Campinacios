@@ -3,6 +3,7 @@
 ### Acampamentos
 
 - **Participante:**
+    - 2012 [Clávis](../../Acampamentos/2012/Cl%C3%A1vis.md)
     - 2017 [Salvo Sejas](../../Acampamentos/2017/Salvo%20Sejas.md)
 - **Animador(a):**
     - 2022 [Isto Só Visto](../../Acampamentos/2022/Isto%20S%C3%B3%20Visto.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)

@@ -16,7 +16,7 @@ O Génesis foi um acampamento de Bicicletas que decorreu de 2 a 11 de Setembro d
 
 - [Ana Paula Sampaio](../../Pessoas/A/Ana%20Paula%20Sampaio.md)
 - [Andreia Gil](../../Pessoas/A/Andreia%20Gil.md)
-- [Duarte Dias](../../Pessoas/D/Duarte%20Dias.md)
+- [Duarte Nuno Dias](../../Pessoas/D/Duarte%20Nuno%20Dias.md)
 - [Gonçalo Vaz Pedro](../../Pessoas/G/Gon%C3%A7alo%20Vaz%20Pedro.md)
 - [Joana Reis](../../Pessoas/J/Joana%20Reis.md)
 - [João Freire de Andrade](../../Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md)

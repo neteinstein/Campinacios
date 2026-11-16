@@ -7,7 +7,7 @@ O TufarfarAway foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) 
 - [Director](../../Cargos/Director.md) - [Ivo Reis](../../Pessoas/I/Ivo%20Reis.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Joana Lima](../../Pessoas/J/Joana%20Lima.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Gonçalo Carvalho](../../Pessoas/G/Gon%C3%A7alo%20Lu%C3%ADs%20Carvalho.md)
-- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Filipe Martins](../../Pessoas/F/Filipe%20Martins.md) sj e [Ricardo Batista](../../Pessoas/R/Ricardo%20Batista.md) sj
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Filipe Martins](../../Pessoas/F/Filipe%20Martins.md) sj e [Ricardo Batista](../../Pessoas/R/Ricardo%20Batista%20Dias.md) sj
 - [Tias](../../Cargos/Tio.md) - [Inês Próspero](../../Pessoas/I/In%C3%AAs%20Pr%C3%B3spero.md) e [Ana Salgado](../../Pessoas/A/Ana%20Salgado.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Marta Carneiro](../../Pessoas/M/Marta%20Carneiro.md), [Andreia Pereira](../../Pessoas/A/Andreia%20Pereira.md), [João Monteiro](../../Pessoas/J/Jo%C3%A3o%20Monteiro.md) e [Manuel Silva](../../Pessoas/M/Manuel%20Silva.md)
 

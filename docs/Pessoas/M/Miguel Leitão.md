@@ -3,12 +3,17 @@
 ### Acampamentos
 
 - **Animador(a):**
+    - 2019 [Viv'O Segredo](../../Acampamentos/2019/Viv%27O%20Segredo.md)
     - 2024 [Mestrarte](../../Acampamentos/2024/Mestrarte.md) - [Animador(a) de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
 ### Encontros
 
 - 2019 [Rockstock 2019](../../Encontros/Rockstock%202019.md) - Equipa de animação
 - 2026 [Rockstock 2026](../../Encontros/Rockstock%202026.md) - Equipa de animação
+
+### Família
+
+É irmão do [Pedro Leitão](../P/Pedro%20Leit%C3%A3o.md).
 
 ---
 

@@ -7,6 +7,10 @@
 - **Animador(a):**
     - 2017 [Já Percebi](../../Acampamentos/2017/J%C3%A1%20Percebi.md)
 
+### Família
+
+É irmã do [Dinis Braga da Cruz](../D/Dinis%20Braga%20da%20Cruz.md) e da [Maria Braga da Cruz](../M/Maria%20Braga%20da%20Cruz.md).
+
 ---
 
 **Outros nomes:** Beatriz Braga Cruz

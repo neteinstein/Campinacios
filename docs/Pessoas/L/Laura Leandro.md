@@ -5,6 +5,7 @@
 - **Participante:**
     - 2010 [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
     - 2013 [Fairplay](../../Acampamentos/2013/Fairplay.md)
+    - 2016 [PáquiPáli](../../Acampamentos/2016/P%C3%A1quiP%C3%A1li.md)
 - **Formação:**
     - 2017 [ReComeçar de Novo](../../Acampamentos/2017/ReCome%C3%A7ar%20de%20Novo.md)
 - **Animador(a):**

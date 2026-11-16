@@ -3,6 +3,7 @@
 ### Acampamentos
 
 - **Animador(a):**
+    - 2016 [Expalharmo-nos](../../Acampamentos/2016/Expalharmo-nos.md)
     - 2017 [Peru](../../Acampamentos/2017/Peru.md) - [Director](../../Cargos/Director.md)
     - 2018 [Agora Vês](../../Acampamentos/2018/Agora%20V%C3%AAs.md) - [Director](../../Cargos/Director.md)
     - 2019 [BEM CHEIO](../../Acampamentos/2019/BEM%20CHEIO.md) - [Director](../../Cargos/Director.md)

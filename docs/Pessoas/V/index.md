@@ -18,7 +18,7 @@
 - [Vera Vallera](Vera%20Vallera.md)
 - [Vicente Goes](Vicente%20Goes.md)
 - [Vicente Neto](Vicente%20Neto.md)
-- [Virgílio](Virg%C3%ADlio.md)
+- [Virgílio Oliveira e Costa](Virg%C3%ADlio%20Oliveira%20e%20Costa.md)
 - [Vítor Fernandes](V%C3%ADtor%20Fernandes.md)
 - [Vítor Lamosa](V%C3%ADtor%20Lamosa.md)
 - [Vítor Leite](V%C3%ADtor%20Leite.md)

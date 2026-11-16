@@ -2,6 +2,8 @@
 
 ### Acampamentos
 
+- **Participante:**
+    - 2018 [Zimbora Lá para fora](../../Acampamentos/2018/Zimbora%20L%C3%A1%20para%20fora.md)
 - **Formação:**
     - 2024 [ParTijolo](../../Acampamentos/2024/ParTijolo.md)
 - **Animador(a):**
@@ -13,6 +15,10 @@
 
 - 2025 [Rockstock 2025](../../Encontros/Rockstock%202025.md) - Equipa de animação
 - 2026 [Rockstock 2026](../../Encontros/Rockstock%202026.md) - Director
+
+### Família
+
+É irmão da [Beatriz Braga da Cruz](../B/Beatriz%20Braga%20da%20Cruz.md) e da [Maria Braga da Cruz](../M/Maria%20Braga%20da%20Cruz.md).
 
 ---
 

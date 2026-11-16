@@ -6,7 +6,7 @@
 
 - [Director](../../Cargos/Director.md) - [Gonçalo Sá](../../Pessoas/G/Gon%C3%A7alo%20S%C3%A1.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Beatriz Maia](../../Pessoas/B/Beatriz%20Maia.md)
-- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Toni](../../Pessoas/T/Toni.md)
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Toni](../../Pessoas/A/Ant%C3%B3nio%20Almeida.md)
 - [Tio](../../Cargos/Tio.md) - [Pedro Leitão](../../Pessoas/P/Pedro%20Leit%C3%A3o.md)
 - [Tia](../../Cargos/Tio.md) - [Marta Martins](../../Pessoas/M/Marta%20Martins.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Afonso Barrocas](../../Pessoas/A/Afonso%20Barrocas.md), [David Bandeira](../../Pessoas/D/David%20Bandeira.md), [Lourenço Matias](../../Pessoas/L/Louren%C3%A7o%20Matias.md) (Ló) e [Francisca Crujeira](../../Pessoas/F/Francisca%20Crujeira.md)

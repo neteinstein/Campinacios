@@ -4,6 +4,8 @@ Matilde Carvalho é, desde 2025, uma das animadoras do Colégio das Caldinhas.
 
 ### Acampamentos
 
+- **Participante:**
+    - 2018 [A Ir e Falta o S](../../Acampamentos/2018/A%20Ir%20e%20Falta%20o%20S.md)
 - **Formação:**
     - 2025 [Não Confundas](../../Acampamentos/2025/N%C3%A3o%20Confundas.md)
 - **Animadora:**

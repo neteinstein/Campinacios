@@ -1,6 +1,6 @@
 # Parte de Ti
 
-**Parte de Ti** foi um acampamento de [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) realizado de 1 a 5 de Abril de 2023 em [Mogofores (Anadia)](../../Restrito/Locais%20de%20Acampamento/Mogofores%20%28Anadia%29.md). O tema do ano foi *Maria Levantou-se e Partiu Apressadamente*.
+**Parte de Ti** foi um acampamento de [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) realizado de 1 a 5 de Abril de 2023 em [Mogofores (Anadia)](../../Restrito/Locais%20de%20Acampamento/Mogofores%20%28Anadia%29.md). O tema do ano foi *Maria Levantou-se e Partiu Apressadamente*, e o imaginário do acampamento foi uma galeria de arte.
 
 ### Animadores
 
@@ -18,6 +18,7 @@
 - [Ariana Couto](../../Pessoas/A/Ariana%20Couto.md)
 - [Beatriz Maia](../../Pessoas/B/Beatriz%20Maia.md)
 - [Beatriz Miguel](../../Pessoas/B/Beatriz%20Miguel.md)
+- [Carmo Ribeiro Corrêa](../../Pessoas/C/Carmo%20Ribeiro%20Corr%C3%AAa.md)
 - [Diogo Boal Neves](../../Pessoas/D/Diogo%20Boal%20Neves.md)
 - [Duarte Farelo](../../Pessoas/D/Duarte%20Farelo.md)
 - [Fernando Monteiro](../../Pessoas/F/Fernando%20Monteiro.md)
@@ -29,7 +30,6 @@
 - [Joana Rocha](../../Pessoas/J/Joana%20Rocha.md)
 - [Madalena Silva](../../Pessoas/M/Madalena%20Silva.md)
 - [Manuel Cardoso](../../Pessoas/M/Manuel%20Cardoso.md)
-- [Maria do Carmo Ribeiro](../../Pessoas/M/Maria%20do%20Carmo%20Ribeiro.md)
 - [Matilde Silva](../../Pessoas/M/Matilde%20Silva.md)
 - [Miguel Teixeira](../../Pessoas/M/Miguel%20Teixeira.md)
 - [Rodrigo Sousa](../../Pessoas/R/Rodrigo%20Sousa.md)

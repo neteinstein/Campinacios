@@ -16,7 +16,7 @@
 - [Manuel Sérvulo Rodrigues](../Pessoas/M/Manuel%20S%C3%A9rvulo%20Rodrigues.md)
 - [Pedro Silva](../Pessoas/P/Pedro%20Silva.md)
 - [Rafael Rebordão](../Pessoas/R/Rafael%20Rebord%C3%A3o.md)
-- [Ricardo Dias](../Pessoas/R/Ricardo%20Dias.md)
+- [Ricardo Batista Dias](../Pessoas/R/Ricardo%20Batista%20Dias.md)
 - [Vasco Teixeira](../Pessoas/V/Vasco%20Teixeira.md)
 
 ---

@@ -10,6 +10,10 @@
     - 2017 [Faz Sentido](../../Acampamentos/2017/Faz%20Sentido.md) - [Director](../../Cargos/Director.md)
     - 2018 [A Ir e Falta o S](../../Acampamentos/2018/A%20Ir%20e%20Falta%20o%20S.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
+### Família
+
+É irmão da [Paula Gonçalves](Paula%20Gon%C3%A7alves.md).
+
 ---
 
 | Categorias |

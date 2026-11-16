@@ -2,6 +2,9 @@
 
 ### Acampamentos
 
+- **Participante:**
+    - 2016 [Do Avesso](../../Acampamentos/2016/Do%20Avesso.md)
+    - 2019 [Grito](../../Acampamentos/2019/Grito.md)
 - **Animador(a):**
     - 2022 [Level Up](../../Acampamentos/2022/Level%20Up.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2023 [CRUZZ](../../Acampamentos/2023/CRUZZ.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)

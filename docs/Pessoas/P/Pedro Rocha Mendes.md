@@ -21,6 +21,7 @@ Pedro Rocha Mendes é ex-aluno do [CSJB](../../Movimento/CSJB.md).
     - 2006 [Origami](../../Acampamentos/2006/Origami.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2010 [PaKasaDele](../../Acampamentos/2010/PaKasaDele.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2016 [Mostra Garra](../../Acampamentos/2016/Mostra%20Garra.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+    - 2019 [Viv'O Segredo](../../Acampamentos/2019/Viv%27O%20Segredo.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
 ---
 

@@ -14,6 +14,10 @@
 - 2023 [Encontro Nacional 2023](../../Encontros/Encontro%20Nacional%202023.md) - Equipa da cozinha
 - 2026 [Encontro Nacional 2026](../../Encontros/Encontro%20Nacional%202026.md) - Mamã
 
+### Família
+
+É irmã da [Sofia Ângelo](../S/Sofia%20%C3%82ngelo.md).
+
 ---
 
 **Outros nomes:** Ritinha Ângelo

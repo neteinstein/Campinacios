@@ -2,6 +2,8 @@
 
 ### Acampamentos
 
+- **Participante:**
+    - 2019 [Grito](../../Acampamentos/2019/Grito.md)
 - **Formação:**
     - 2021 [Prega Fundo](../../Acampamentos/2021/Prega%20Fundo.md)
 - **Animador(a):**

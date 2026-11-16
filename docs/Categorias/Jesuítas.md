@@ -2,7 +2,7 @@
 
 Jesuítas que animam ou animaram acampamentos de Campinácios
 
-## Páginas nesta categoria (86)
+## Páginas nesta categoria (88)
 
 - ["Para Educar Melhor - Campos de férias inacianos"](../Movimento/Para%20Educar%20Melhor%20-%20Campos%20de%20f%C3%A9rias%20inacianos.md)
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
@@ -63,6 +63,7 @@ Jesuítas que animam ou animaram acampamentos de Campinácios
 - [José Maria Brito](../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md)
 - [José Maria Caldeira Ribeiro](../Pessoas/J/Jos%C3%A9%20Maria%20Caldeira%20Ribeiro.md)
 - [José Murteira](../Pessoas/J/Jos%C3%A9%20Murteira.md)
+- [José Venâncio Pina](../Pessoas/J/Jos%C3%A9%20Ven%C3%A2ncio%20Pina.md)
 - [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
 - [Luís Freire](../Pessoas/L/Lu%C3%ADs%20Freire.md)
 - [Luís Onofre](../Pessoas/L/Lu%C3%ADs%20Onofre.md)
@@ -81,7 +82,7 @@ Jesuítas que animam ou animaram acampamentos de Campinácios
 - [Rafael Mourão](../Pessoas/R/Rafael%20Mour%C3%A3o.md)
 - [Rafael Rebordão](../Pessoas/R/Rafael%20Rebord%C3%A3o.md)
 - [Ricardo Barroso](../Pessoas/R/Ricardo%20Barroso.md)
-- [Ricardo Batista](../Pessoas/R/Ricardo%20Batista.md)
+- [Ricardo Batista Dias](../Pessoas/R/Ricardo%20Batista%20Dias.md)
 - [Rui Fernandes](../Pessoas/R/Rui%20Fernandes.md)
 - [Rui Ferreira](../Pessoas/R/Rui%20Ferreira.md)
 - [Rui Ribeiro](../Pessoas/R/Rui%20Ribeiro.md)
@@ -90,6 +91,7 @@ Jesuítas que animam ou animaram acampamentos de Campinácios
 - [Vasco Lucas Pires](../Pessoas/V/Vasco%20Lucas%20Pires.md)
 - [Vasco Teixeira](../Pessoas/V/Vasco%20Teixeira.md)
 - [Vicente Goes](../Pessoas/V/Vicente%20Goes.md)
+- [Virgílio Oliveira e Costa](../Pessoas/V/Virg%C3%ADlio%20Oliveira%20e%20Costa.md)
 
 ---
 

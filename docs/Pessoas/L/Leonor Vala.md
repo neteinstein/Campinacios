@@ -9,6 +9,10 @@
     - 2025 [Repeat a História](../../Acampamentos/2025/Repeat%20a%20Hist%C3%B3ria.md) - [Tia](../../Cargos/Tio.md)
     - 2026 [Ca Ganda Tanga](../../Acampamentos/2026/Ca%20Ganda%20Tanga.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
+### Família
+
+É irmã do [Diogo Vala](../D/Diogo%20Vala.md).
+
 ---
 
 **Outros nomes:** Nonô

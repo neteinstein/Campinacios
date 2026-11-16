@@ -2,6 +2,9 @@
 
 ### Acampamentos
 
+- **Participante:**
+    - 2016 [Expalharmo-nos](../../Acampamentos/2016/Expalharmo-nos.md)
+    - 2018 [Codex 0018](../../Acampamentos/2018/Codex%200018.md)
 - **Animador(a):**
     - 2021 [Vesp'á Luz](../../Acampamentos/2021/Vesp%27%C3%A1%20Luz.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2023 [Pó que Voo](../../Acampamentos/2023/P%C3%B3%20que%20Voo.md) - [Director](../../Cargos/Director.md)
@@ -12,6 +15,10 @@
 ### Encontros
 
 - 2022 [Rockstock 2022](../../Encontros/Rockstock%202022.md) - Equipa de animação
+
+### Família
+
+É irmão da [Francisca Neves](../F/Francisca%20Neves.md).
 
 ---
 

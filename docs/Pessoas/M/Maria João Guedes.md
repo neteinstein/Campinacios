@@ -1,5 +1,7 @@
 # Maria João Guedes
 
+*Nota: Este artigo é sobre Maria João Guedes, animadora desde 2017. Se procura Maria do Carmo Guedes, animadora em 2016, consulte [Maria do Carmo Guedes](../M/Maria%20do%20Carmo%20Guedes.md).*
+
 ### Acampamentos
 
 - **Participante:**

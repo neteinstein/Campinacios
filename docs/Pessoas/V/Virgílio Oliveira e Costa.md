@@ -1,4 +1,4 @@
-# Virgílio
+# Virgílio Oliveira e Costa
 
 ### Acampamentos
 
@@ -7,6 +7,9 @@
 
 ---
 
+**Outros nomes:** Virgílio · Virgílio Costa
+
 | Categorias |
 | --- |
 | [Animadores](../../Categorias/Animadores.md) |
+| [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |

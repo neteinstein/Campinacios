@@ -13,6 +13,7 @@
     - 2009 [Survivor](../../Acampamentos/2009/Survivor.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2010 [PaKasaDele](../../Acampamentos/2010/PaKasaDele.md)
     - 2011 [Pescanova](../../Acampamentos/2011/Pescanova.md)
+    - 2012 [Clávis](../../Acampamentos/2012/Cl%C3%A1vis.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2013 [ÁmenDoing](../../Acampamentos/2013/%C3%81menDoing.md) - [Director](../../Cargos/Director.md)
     - 2014 [Suga](../../Acampamentos/2014/Suga.md) - [Director](../../Cargos/Director.md)
 

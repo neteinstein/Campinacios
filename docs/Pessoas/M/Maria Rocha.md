@@ -6,6 +6,10 @@
 
 - 2019 [Rockstock 2019](../../Encontros/Rockstock%202019.md) - Equipa de animação
 
+### Família
+
+É irmã da [Joana Rocha](../J/Joana%20Rocha.md).
+
 ---
 
 | Categorias |

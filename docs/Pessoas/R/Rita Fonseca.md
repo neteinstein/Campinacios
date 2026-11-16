@@ -12,6 +12,10 @@ Rita Fonseca é antiga aluna do Colégio S. João de Brito, é animadora dos Cam
     - 2015 [Mergulha](../../Acampamentos/2015/Mergulha.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2016 [Plano B](../../Acampamentos/2016/Plano%20B.md) - [Animador(a) Livre](../../Cargos/Animador%20Livre.md)
 
+### Família
+
+É irmã do [Pedro Fonseca](../P/Pedro%20Fonseca.md) e da [Isabel Fonseca](../I/Isabel%20Fonseca.md).
+
 ---
 
 | Categorias |

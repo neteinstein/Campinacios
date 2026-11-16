@@ -6,8 +6,10 @@ Carolina Picciochi, conhecida por Pitxi, é animadora.
 
 - **Participante:**
     - 2018 [Descola](../../Acampamentos/2018/Descola%20%282018%29.md)
+    - 2019 [Grito](../../Acampamentos/2019/Grito.md)
 - **Animadora:**
     - 2021 [Vesp'á Luz](../../Acampamentos/2021/Vesp%27%C3%A1%20Luz.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2022 [P'la Tua Mão](../../Acampamentos/2022/P%27la%20Tua%20M%C3%A3o.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2023 [Chuva ó Chave](../../Acampamentos/2023/Chuva%20%C3%B3%20Chave.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2024 [Barracada](../../Acampamentos/2024/Barracada.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2026 [Navalha-me Deus](../../Acampamentos/2026/Navalha-me%20Deus.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)

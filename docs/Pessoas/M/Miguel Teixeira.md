@@ -2,6 +2,8 @@
 
 ### Acampamentos
 
+- **Participante:**
+    - 2018 [Zimbora Lá para fora](../../Acampamentos/2018/Zimbora%20L%C3%A1%20para%20fora.md)
 - **Formação:**
     - 2023 [Parte de Ti](../../Acampamentos/2023/Parte%20de%20Ti.md)
 - **Animador(a):**

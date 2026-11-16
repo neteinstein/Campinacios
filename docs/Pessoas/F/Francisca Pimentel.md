@@ -12,6 +12,10 @@
 - 2019 [Encontro Nacional 2019](../../Encontros/Encontro%20Nacional%202019.md) - Responsável do serão
 - 2019 [Rockstock 2019](../../Encontros/Rockstock%202019.md) - Equipa de animação
 
+### Família
+
+É casada com o [Tiago Vilas Boas](../T/Tiago%20Vilas%20Boas.md).
+
 ### Cantinácio
 
 Coordenação e assistência do [Cantinácio](../../Movimento/Cantin%C3%A1cio.md) de 2019 (3.ª edição).

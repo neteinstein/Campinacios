@@ -1,6 +1,6 @@
 # Às 10 faz xiu
 
-**Às 10 faz xiu** foi um acampamento de [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) realizado em 2015. O tema do ano foi *Change Your Selfie*.
+**Às 10 faz xiu** foi um acampamento de [Formação de Animadores](../../Categorias/Forma%C3%A7%C3%A3o%20de%20Animadores.md) realizado em 2015 em [Ribeira do Conde (Serpins)](../../Restrito/Locais%20de%20Acampamento/Ribeira%20do%20Conde%20%28Serpins%29.md). O tema do ano foi *Change Your Selfie*.
 
 ### Animadores
 

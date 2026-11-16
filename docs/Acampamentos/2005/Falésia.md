@@ -12,7 +12,7 @@ O hino deste campo foi a música "Falésia" (ver [Cantinácio](../../Movimento/C
 - [Tias](../../Cargos/Tio.md) - [Luísa Gaspar](../../Pessoas/L/Lu%C3%ADsa%20Gaspar.md) , [Soraia Ramos](../../Pessoas/S/Soraia%20Ramos.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [António Santana](../../Pessoas/A/Ant%C3%B3nio%20Sant%27Ana.md) sj , [Martim Cunha Ferreira](../../Pessoas/M/Martim%20Cunha%20Ferreira.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Joaquim Abreu](../../Pessoas/J/Joaquim%20Abreu.md) , [Majo](../../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md) , [Leonardo Carvalho](../../Pessoas/L/Leonardo%20Carvalho.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Sílvio Gonçalves](../../Pessoas/S/S%C3%ADlvio%20Gon%C3%A7alves.md) , [Susana Vaz Pedro](../../Pessoas/S/Susana%20Vaz%20Pedro.md) , [Rita Roxo](../../Pessoas/R/Rita%20Roxo.md) , [Duarte Dias](../../Pessoas/D/Duarte%20Dias.md) , [António Amaral](../../Pessoas/A/Ant%C3%B3nio%20Amaral.md) , [Eduardo Lima](../../Pessoas/E/Eduardo%20Lima.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Sílvio Gonçalves](../../Pessoas/S/S%C3%ADlvio%20Gon%C3%A7alves.md) , [Susana Vaz Pedro](../../Pessoas/S/Susana%20Vaz%20Pedro.md) , [Rita Roxo](../../Pessoas/R/Rita%20Roxo.md) , [Duarte Nuno Dias](../../Pessoas/D/Duarte%20Nuno%20Dias.md) , [António Amaral](../../Pessoas/A/Ant%C3%B3nio%20Amaral.md) , [Eduardo Lima](../../Pessoas/E/Eduardo%20Lima.md)
 
 ## Participantes que se tornaram animadores
 

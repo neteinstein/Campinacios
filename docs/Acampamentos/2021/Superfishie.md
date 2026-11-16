@@ -1,6 +1,6 @@
 # Superfishie
 
-**Superfishie** foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) realizado em 2021. O tema do ano foi *Há uma luz que nunca se apaga*.
+**Superfishie** foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) realizado em 2021. O tema do ano foi *Há uma luz que nunca se apaga*, e o imaginário do acampamento foi uma adaptação da vida de S. Inácio ao fundo do mar.
 
 ### Animadores
 

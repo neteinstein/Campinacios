@@ -2,6 +2,8 @@
 
 ### Acampamentos
 
+- **Participante:**
+    - 2022 [P'la Tua Mão](../../Acampamentos/2022/P%27la%20Tua%20M%C3%A3o.md)
 - **Formação:**
     - 2023 [Parte de Ti](../../Acampamentos/2023/Parte%20de%20Ti.md)
 - **Animador(a):**
@@ -12,6 +14,10 @@
 ### Encontros
 
 - 2025 [Rockstock 2025](../../Encontros/Rockstock%202025.md) - Equipa de animação
+
+### Família
+
+É irmã do [Tomás Costa](../T/Tom%C3%A1s%20Costa.md).
 
 ---
 

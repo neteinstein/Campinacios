@@ -9,7 +9,8 @@
 ### Acampamentos
 
 - **Animador(a):**
-    - 2019 [XP Fora da Roda](../../Acampamentos/2019/XP%20Fora%20da%20Roda.md)
+    - 2019 [XP Fora da Roda](../../Acampamentos/2019/XP%20Fora%20da%20Roda.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2022 [À Grande e à Francesa](../../Acampamentos/2022/%C3%80%20Grande%20e%20%C3%A0%20Francesa.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2023 [CRUZZ](../../Acampamentos/2023/CRUZZ.md) - [Animador(a) de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2023 [Pó que Voo](../../Acampamentos/2023/P%C3%B3%20que%20Voo.md) - [Animador(a) de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 

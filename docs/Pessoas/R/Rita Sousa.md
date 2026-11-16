@@ -12,6 +12,10 @@
 
 - 2022 [Encontro Nacional 2022](../../Encontros/Encontro%20Nacional%202022.md) - Mamã
 
+### Família
+
+É irmã do [Renato Sousa](Renato%20Sousa.md).
+
 ---
 
 | Categorias |

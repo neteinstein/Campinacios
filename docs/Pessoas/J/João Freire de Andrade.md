@@ -25,6 +25,7 @@ João Freire de Andrade é desde 2006 um dos animadores do Colégio São João d
     - 2012 [Sarcófago](../../Acampamentos/2012/Sarc%C3%B3fago.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2013 [Realiza](../../Acampamentos/2013/Realiza.md) - [Director](../../Cargos/Director.md)
     - 2014 [Mãos à Obra](../../Acampamentos/2014/M%C3%A3os%20%C3%A0%20Obra.md) - [Director](../../Cargos/Director.md)
+    - 2016 [Em Tudo](../../Acampamentos/2016/Em%20Tudo.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
 ### Encontros
 
@@ -49,6 +50,10 @@ Acredito que os campinácios me ensinaram que na vida existem coisas que não me
 Claro que tudo isto aumenta a dificuldade de uma pessoa preencher a vida... não por estragar a torneira, mas por aumentar o recipiente, já que tudo isto nos obriga a lutar por uma vida exigente em coerência.
 
 E por acreditar em tantas coisas e saber que tanta gente também acredita leva-me a acreditar que se alguém visse o mundo de longe, veria que quando se formaram os Campinácios há 20 anos uma luz dourada e duradoura nasceu. Ao longo dos anos muitas lâmpadas com pouca luz juntavam-se e quando se separavam acendiam um bocado mais as lâmpadas que estavam no seu cantinho do mundo... e lâmpada a lâmpada se vai mudando o mundo...
+
+### Família
+
+É irmão do [Domingos Freire de Andrade](../D/Domingos%20Freire%20de%20Andrade.md).
 
 ---
 

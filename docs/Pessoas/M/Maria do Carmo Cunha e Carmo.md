@@ -13,6 +13,10 @@
     - 2018 [Descola (2018)](../../Acampamentos/2018/Descola%20%282018%29.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2019 [BEM CHEIO](../../Acampamentos/2019/BEM%20CHEIO.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
+### Família
+
+É irmã da [Helena Cunha e Carmo](../H/Helena%20Cunha%20e%20Carmo.md) e do [Francisco Cunha e Carmo](../F/Francisco%20Cunha%20e%20Carmo.md).
+
 ---
 
 **Outros nomes:** Carmo Cunha e Carmo

@@ -40,6 +40,7 @@
 - [Duarte Dias](Duarte%20Dias.md)
 - [Duarte Farelo](Duarte%20Farelo.md)
 - [Duarte Nifo](Duarte%20Nifo.md)
+- [Duarte Nuno Dias](Duarte%20Nuno%20Dias.md)
 - [Duarte Pinto](Duarte%20Pinto.md)
 - [Duarte Ribeiro](Duarte%20Ribeiro.md)
 - [Duarte Rosado](Duarte%20Rosado.md)

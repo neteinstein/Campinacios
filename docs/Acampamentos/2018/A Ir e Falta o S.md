@@ -15,7 +15,14 @@
 
 ## Participantes que se tornaram animadores
 
+- [Carolina Morão](../../Pessoas/C/Carolina%20Mor%C3%A3o.md)
 - [Daniela Gonçalves](../../Pessoas/D/Daniela%20Gon%C3%A7alves.md)
+- [Francisco Barroso](../../Pessoas/F/Francisco%20Barroso.md)
+- [Martim Nunes](../../Pessoas/M/Martim%20Nunes.md)
+- [Matilde Carvalho](../../Pessoas/M/Matilde%20Carvalho.md)
+- [Pilar Ribeiro Corrêa](../../Pessoas/P/Pilar%20Ribeiro%20Corr%C3%AAa.md)
+- [Rita Ventura](../../Pessoas/R/Rita%20Ventura.md)
+- [Sofia Silva](../../Pessoas/S/Sofia%20Silva.md)
 
 ---
 

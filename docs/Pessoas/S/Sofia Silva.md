@@ -4,6 +4,7 @@
 
 - **Participante:**
     - 2017 [Peru](../../Acampamentos/2017/Peru.md)
+    - 2018 [A Ir e Falta o S](../../Acampamentos/2018/A%20Ir%20e%20Falta%20o%20S.md)
 - **Formação:**
     - 2023 [Parte de Ti](../../Acampamentos/2023/Parte%20de%20Ti.md)
 - **Animador(a):**

@@ -3,9 +3,13 @@
 ### Acampamentos
 
 - **Participante:**
+    - 2012 [Clávis](../../Acampamentos/2012/Cl%C3%A1vis.md)
+    - 2015 [Encontrei-te](../../Acampamentos/2015/Encontrei-te.md)
     - 2018 [Descola](../../Acampamentos/2018/Descola%20%282018%29.md)
+    - 2019 [Grito](../../Acampamentos/2019/Grito.md)
 - **Animador(a):**
     - 2021 [Vesp'á Luz](../../Acampamentos/2021/Vesp%27%C3%A1%20Luz.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2022 [P'la Tua Mão](../../Acampamentos/2022/P%27la%20Tua%20M%C3%A3o.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2023 [Chuva ó Chave](../../Acampamentos/2023/Chuva%20%C3%B3%20Chave.md) - [Director](../../Cargos/Director.md)
     - 2024 [Barracada](../../Acampamentos/2024/Barracada.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2025 [Não Confundas](../../Acampamentos/2025/N%C3%A3o%20Confundas.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)

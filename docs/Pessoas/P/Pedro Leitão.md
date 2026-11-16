@@ -14,6 +14,10 @@
 
 - 2026 [Rockstock 2026](../../Encontros/Rockstock%202026.md) - Equipa de animação
 
+### Família
+
+É irmão do [Miguel Leitão](../M/Miguel%20Leit%C3%A3o.md).
+
 ---
 
 | Categorias |

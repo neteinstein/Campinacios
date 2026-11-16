@@ -9,6 +9,7 @@ Francisca Veloso, conhecida por Tita, é animadora do [CAIC](../../Categorias/An
 - **Formação:**
     - 2019 [SPC](../../Acampamentos/2019/SPC.md)
 - **Animadora:**
+    - 2019 [Viv'O Segredo](../../Acampamentos/2019/Viv%27O%20Segredo.md)
     - 2022 [Isto Só Visto](../../Acampamentos/2022/Isto%20S%C3%B3%20Visto.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2023 [Atira-te](../../Acampamentos/2023/Atira-te.md) - [Director](../../Cargos/Director.md)
     - 2024 [ParTijolo](../../Acampamentos/2024/ParTijolo.md) - [Director](../../Cargos/Director.md)

@@ -2,6 +2,10 @@
 
 ### Acampamentos
 
+- **Participante:**
+    - 2018 [Codex 0018](../../Acampamentos/2018/Codex%200018.md)
+- **Formação:**
+    - 2022 [Antestreia](../../Acampamentos/2022/Antestreia.md)
 - **Animador:**
     - 2023 [Cibicleta Como És](../../Acampamentos/2023/Cibicleta%20Como%20%C3%89s.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2024 [Caldorado](../../Acampamentos/2024/Caldorado.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)

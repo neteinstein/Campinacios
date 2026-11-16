@@ -1,6 +1,6 @@
 # Astérix e Obélerdos
 
-**Astérix e Obélerdos** foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) realizado de 26 de Julho a 2 de Agosto de 2024 em [Dornelas (Braga)](../../Restrito/Locais%20de%20Acampamento/Dornelas%20%28Braga%29.md). O tema do ano foi *Fica connosco*.
+**Astérix e Obélerdos** foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) realizado de 26 de Julho a 2 de Agosto de 2024 em [Dornelas (Braga)](../../Restrito/Locais%20de%20Acampamento/Dornelas%20%28Braga%29.md). O tema do ano foi *Fica connosco*, e o imaginário do acampamento foi Astérix e Obélix.
 
 ### Animadores
 
@@ -8,15 +8,20 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Maria João Guedes](../../Pessoas/M/Maria%20Jo%C3%A3o%20Guedes.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Manuel Costa](../../Pessoas/M/Manuel%20Costa.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [António Santos Lourenço](../../Pessoas/A/Ant%C3%B3nio%20Santos%20Louren%C3%A7o.md) sj
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Maria Solla](../../Pessoas/M/Maria%20Solla.md) e [Rodrigo Sousa](../../Pessoas/R/Rodrigo%20Sousa.md)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Maria Solla](../../Pessoas/M/Maria%20Solla.md), [Rodrigo Sousa](../../Pessoas/R/Rodrigo%20Sousa.md), [Ana de Martins Aguiar](../../Pessoas/A/Ana%20de%20Martins%20Aguiar.md), [António Almeida](../../Pessoas/A/Ant%C3%B3nio%20Almeida.md) (Toni), [Carmo Madeira](../../Pessoas/C/Carmo%20Madeira.md), [António Falacho](../../Pessoas/A/Ant%C3%B3nio%20Falacho.md) e [Gonçalo Moitinho de Almeida](../../Pessoas/G/Gon%C3%A7alo%20Moitinho%20de%20Almeida.md)
 - [Tio](../../Cargos/Tio.md) - [Diogo Boal Neves](../../Pessoas/D/Diogo%20Boal%20Neves.md)
 - [Tia](../../Cargos/Tio.md) - [Margarida Faria](../../Pessoas/M/Margarida%20Faria.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Ana de Martins Aguiar](../../Pessoas/A/Ana%20de%20Martins%20Aguiar.md), [António Almeida](../../Pessoas/A/Ant%C3%B3nio%20Almeida.md), [Carmo Madeira](../../Pessoas/C/Carmo%20Madeira.md), [António Falacho](../../Pessoas/A/Ant%C3%B3nio%20Falacho.md) e [Gonçalo Moitinho de Almeida](../../Pessoas/G/Gon%C3%A7alo%20Moitinho%20de%20Almeida.md)
 
 ## Participantes que se tornaram animadores
 
+- [Carolina Morão](../../Pessoas/C/Carolina%20Mor%C3%A3o.md)
 - [Daniela Gonçalves](../../Pessoas/D/Daniela%20Gon%C3%A7alves.md)
+- [João Madureira](../../Pessoas/J/Jo%C3%A3o%20Madureira.md)
+- [Leonor David](../../Pessoas/L/Leonor%20David.md)
+- [Luís Faria](../../Pessoas/L/Lu%C3%ADs%20Faria.md)
 - [Miguel Poço](../../Pessoas/M/Miguel%20Po%C3%A7o.md)
+- [Pablo Fernandes](../../Pessoas/P/Pablo%20Fernandes.md)
+- [Pedro Oliveira](../../Pessoas/P/Pedro%20Oliveira.md)
 
 ---
 

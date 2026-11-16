@@ -21,6 +21,10 @@
 - 2025 [Rockstock 2025](../../Encontros/Rockstock%202025.md) - Equipa de animação
 - 2026 [Rockstock 2026](../../Encontros/Rockstock%202026.md) - Equipa de animação
 
+### Família
+
+É irmão do [António Portugal](../A/Ant%C3%B3nio%20Portugal.md), da [Benedita Vasconcelos](../B/Benedita%20Vasconcelos.md) e do [Diogo Vasconcelos](../D/Diogo%20Vasconcelos.md).
+
 ---
 
 **Outros nomes:** Manuel Vasconcelos

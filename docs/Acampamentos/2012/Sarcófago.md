@@ -9,13 +9,14 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Jonifa](../../Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md)
 - [Tio](../../Cargos/Tio.md) - [Vasco Neves](../../Pessoas/V/Vasco%20Neves.md)
 - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Diogo Belo](../../Pessoas/D/Diogo%20Belo.md)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Martinho Lucas Pires](../../Pessoas/M/Martinho%20Lucas%20Pires.md), [Duarte Dias](../../Pessoas/D/Duarte%20Dias.md) e [António Pimenta](../../Pessoas/A/Ant%C3%B3nio%20Pimenta.md)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Martinho Lucas Pires](../../Pessoas/M/Martinho%20Lucas%20Pires.md), [Duarte Nuno Dias](../../Pessoas/D/Duarte%20Nuno%20Dias.md) e [António Pimenta](../../Pessoas/A/Ant%C3%B3nio%20Pimenta.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [João Goulão](../../Pessoas/J/Jo%C3%A3o%20Goul%C3%A3o.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Francisco Cortês Ferreira](../../Pessoas/F/Francisco%20Cort%C3%AAs%20Ferreira.md) sj
 
 ### Participantes
 
 - [Vasco Lucas Pires](../../Pessoas/V/Vasco%20Lucas%20Pires.md)
+- [Animadores](../../Categorias/Animadores.md) - [Madalena Pires](../../Pessoas/M/Madalena%20Pires.md)
 
 ## Participantes que se tornaram animadores
 

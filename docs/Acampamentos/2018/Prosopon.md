@@ -10,6 +10,7 @@
 
 ## Participantes que se tornaram animadores
 
+- [Carmo Castello-Branco Ribeiro](../../Pessoas/C/Carmo%20Castello-Branco%20Ribeiro.md)
 - [Joana Ferreira (CC)](../../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
 - [Nuno Ferreira](../../Pessoas/N/Nuno%20Ferreira.md)
 

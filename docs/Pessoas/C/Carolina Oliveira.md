@@ -3,6 +3,7 @@
 ### Acampamentos
 
 - **Animador(a):**
+    - 2016 [PáquiPáli](../../Acampamentos/2016/P%C3%A1quiP%C3%A1li.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2017 [Supera-te](../../Acampamentos/2017/Supera-te.md) - [Tia](../../Cargos/Tio.md)
     - 2018 [A Ir e Falta o S](../../Acampamentos/2018/A%20Ir%20e%20Falta%20o%20S.md) - [Tia](../../Cargos/Tio.md)
     - 2019 [SimBasta](../../Acampamentos/2019/SimBasta.md) - [Mamã](../../Cargos/Mam%C3%A3.md)

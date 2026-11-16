@@ -46,7 +46,7 @@ Lourenço Eiró foi um dos fundadores dos [Campinácios](../../Movimento/Campin%
 
 ### Família
 
-É sobrinho do [Gonçalo Eiró](../G/Gon%C3%A7alo%20Eir%C3%B3.md) sj.
+É sobrinho do [Gonçalo Eiró](../G/Gon%C3%A7alo%20Eir%C3%B3.md) sj. É irmão do [Tiago Eiró](../T/Tiago%20Eir%C3%B3.md).
 
 ---
 

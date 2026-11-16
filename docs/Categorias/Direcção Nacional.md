@@ -124,7 +124,7 @@ Propunha ainda formação contínua, com um CIFA de dois em dois anos, e lembrav
 | **Coordenador Adjunto** | [Jaime Lucas Pires](../Pessoas/J/Jaime%20Lucas%20Pires.md) |
 | **DL-CC** | [Tiago Vidal](../Pessoas/T/Tiago%20Vidal.md) (Coordenador da DL) e [Afonso Espregueira](../Pessoas/A/Afonso%20Espregueira.md) sj |
 | **DL-CAIC** | [Leonor Cardoso](../Pessoas/L/Leonor%20Cardoso.md) (Coordenadora da DL) |
-| **DL-CSJB** | [Carmo Ribeiro Corrêa (Chumi)](../Pessoas/M/Maria%20do%20Carmo%20Ribeiro.md) (Coordenadora da DL) e [Filipe Lima](../Pessoas/F/Filipe%20Lima.md) sj |
+| **DL-CSJB** | [Carmo Castello-Branco Ribeiro (Chumi)](../Pessoas/C/Carmo%20Castello-Branco%20Ribeiro.md) (Coordenadora da DL) e [Filipe Lima](../Pessoas/F/Filipe%20Lima.md) sj |
 
 </div>
 
@@ -208,7 +208,7 @@ Propunha ainda formação contínua, com um CIFA de dois em dois anos, e lembrav
 | **Coordenadora Nacional** | [Sílvia Lobo](../Pessoas/S/S%C3%ADlvia%20Lobo.md) |
 | **DL-CC** | [Sofia Pinelas](../Pessoas/A/Ana%20Sofia%20Pinelas.md) (Coordenadora da DL) e [Samuel Afonso](../Pessoas/S/Samuel%20Afonso.md) sj |
 | **DL-CAIC** | [Carlos Miranda](../Pessoas/C/Carlos%20Miranda.md) sj |
-| **DL-CSJB** | [Afonso Oom](../Pessoas/A/Afonso%20Oom.md) (Coordenador da DL) e [Ricardo Batista](../Pessoas/R/Ricardo%20Batista.md) sj |
+| **DL-CSJB** | [Afonso Oom](../Pessoas/A/Afonso%20Oom.md) (Coordenador da DL) e [Ricardo Batista Dias](../Pessoas/R/Ricardo%20Batista%20Dias.md) sj |
 
 </div>
 

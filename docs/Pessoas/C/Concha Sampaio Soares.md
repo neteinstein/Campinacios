@@ -8,7 +8,13 @@
     - 2023 [Perc'Urso](../../Acampamentos/2023/Perc%27Urso.md) - [Tia](../../Cargos/Tio.md)
     - 2024 [Barracada](../../Acampamentos/2024/Barracada.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
+### Encontros
+
+- 2022 [Rockstock 2022](../../Encontros/Rockstock%202022.md) - Equipa de animação
+
 ---
+
+**Outros nomes:** Constança Sampaio Soares
 
 | Categorias |
 | --- |

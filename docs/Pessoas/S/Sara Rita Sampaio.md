@@ -14,7 +14,7 @@
 - **Animadora:**
     - 2010 [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2011 [Pescanova](../../Acampamentos/2011/Pescanova.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
-    - 2012 [Clávis](../../Acampamentos/2012/Cl%C3%A1vis.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
+    - 2012 [Clávis](../../Acampamentos/2012/Cl%C3%A1vis.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2013 [Camp & Nácios, S.A](../../Acampamentos/2013/Camp%20%26%20N%C3%A1cios%2C%20S.A.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2014 [Sentido](../../Acampamentos/2014/Sentido.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
     - 2015 [Take PaGod](../../Acampamentos/2015/Take%20PaGod.md) - [Mamã](../../Cargos/Mam%C3%A3.md)

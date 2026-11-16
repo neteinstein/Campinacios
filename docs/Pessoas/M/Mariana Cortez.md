@@ -2,6 +2,8 @@
 
 ### Acampamentos
 
+- **Participante:**
+    - 2019 [Viv'O Segredo](../../Acampamentos/2019/Viv%27O%20Segredo.md)
 - **Formação:**
     - 2026 [Navalha-me Deus](../../Acampamentos/2026/Navalha-me%20Deus.md)
 - **Animadora:**

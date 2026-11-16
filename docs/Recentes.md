@@ -60,7 +60,7 @@ As 100 páginas alteradas há menos tempo, com a data da última alteração, o 
 | [Magda Martins](Pessoas/M/Magda%20Martins.md) | 03/10/2026 | [#227](https://github.com/neteinstein/Campinacios/pull/227) |  |
 | [Vítor Fernandes](Pessoas/V/V%C3%ADtor%20Fernandes.md) | 03/10/2026 | [#227](https://github.com/neteinstein/Campinacios/pull/227) |  |
 | [Ana Paula Sampaio](Pessoas/A/Ana%20Paula%20Sampaio.md) | 03/10/2026 | [#227](https://github.com/neteinstein/Campinacios/pull/227) |  |
-| [Duarte Dias](Pessoas/D/Duarte%20Dias.md) | 03/10/2026 | [#227](https://github.com/neteinstein/Campinacios/pull/227) |  |
+| [Duarte Nuno Dias](Pessoas/D/Duarte%20Nuno%20Dias.md) | 03/10/2026 | [#227](https://github.com/neteinstein/Campinacios/pull/227) |  |
 | [Francisca Dias](Pessoas/F/Francisca%20Dias.md) | 03/10/2026 | [#227](https://github.com/neteinstein/Campinacios/pull/227) |  |
 | [João Pedro Gomes](Pessoas/J/Jo%C3%A3o%20Pedro%20Gomes.md) | 03/10/2026 | [#227](https://github.com/neteinstein/Campinacios/pull/227) |  |
 | [Joaquim Abreu](Pessoas/J/Joaquim%20Abreu.md) | 03/10/2026 | [#227](https://github.com/neteinstein/Campinacios/pull/227) |  |

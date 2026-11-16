@@ -17,7 +17,7 @@ Ivo Reis, é um dos animadores do Colégio da Imaculada Conceição. Segundo as 
     - 2007 [Baza](../../Acampamentos/2007/Baza.md) - [Director](../../Cargos/Director.md)
     - 2008 [TufarfarAway](../../Acampamentos/2008/TufarfarAway.md) - [Director](../../Cargos/Director.md)
     - 2010 [Baba Yetu](../../Acampamentos/2010/Baba%20Yetu.md) - [Director](../../Cargos/Director.md)
-    - 2012 [Clávis](../../Acampamentos/2012/Cl%C3%A1vis.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
+    - 2012 [Clávis](../../Acampamentos/2012/Cl%C3%A1vis.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
 ### Encontros
 

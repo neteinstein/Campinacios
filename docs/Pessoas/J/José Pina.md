@@ -1,5 +1,7 @@
 # José Pina
 
+*Nota: Este artigo é sobre José Pina, capelão em 1997 e 1998. Se procura José Venâncio Pina, o Padre Pina, capelão em 2000, consulte [José Venâncio Pina](../J/Jos%C3%A9%20Ven%C3%A2ncio%20Pina.md).*
+
 ### Acampamentos
 
 - **Animador:**
