@@ -126,6 +126,7 @@
 - [João Vila Chã](Jo%C3%A3o%20Vila%20Ch%C3%A3.md)
 - [João de Almeida Graça](Jo%C3%A3o%20de%20Almeida%20Gra%C3%A7a.md)
 - [João de Brito](Jo%C3%A3o%20de%20Brito.md)
+- [José Venâncio Pina](Jos%C3%A9%20Ven%C3%A2ncio%20Pina.md)
 - [Juliana Costa](Juliana%20Costa.md)
 - [Juliana Fernandes](Juliana%20Fernandes.md)
 - [Juliana Silva](Juliana%20Silva.md)

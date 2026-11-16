@@ -1,7 +1,6 @@
 # P
 
 - [Pablo Fernandes](Pablo%20Fernandes.md)
-- [Padre Pina](Padre%20Pina.md)
 - [Panão](Pan%C3%A3o.md)
 - [Patrícia Cabaço](Patr%C3%ADcia%20Caba%C3%A7o.md)
 - [Patrícia Costa](Patr%C3%ADcia%20Costa.md)

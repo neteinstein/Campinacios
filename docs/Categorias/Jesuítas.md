@@ -2,7 +2,7 @@
 
 Jesuítas que animam ou animaram acampamentos de Campinácios
 
-## Páginas nesta categoria (86)
+## Páginas nesta categoria (87)
 
 - ["Para Educar Melhor - Campos de férias inacianos"](../Movimento/Para%20Educar%20Melhor%20-%20Campos%20de%20f%C3%A9rias%20inacianos.md)
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
@@ -63,6 +63,7 @@ Jesuítas que animam ou animaram acampamentos de Campinácios
 - [José Maria Brito](../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md)
 - [José Maria Caldeira Ribeiro](../Pessoas/J/Jos%C3%A9%20Maria%20Caldeira%20Ribeiro.md)
 - [José Murteira](../Pessoas/J/Jos%C3%A9%20Murteira.md)
+- [José Venâncio Pina](../Pessoas/J/Jos%C3%A9%20Ven%C3%A2ncio%20Pina.md)
 - [Lourenço Eiró](../Pessoas/L/Louren%C3%A7o%20Eir%C3%B3.md)
 - [Luís Freire](../Pessoas/L/Lu%C3%ADs%20Freire.md)
 - [Luís Onofre](../Pessoas/L/Lu%C3%ADs%20Onofre.md)

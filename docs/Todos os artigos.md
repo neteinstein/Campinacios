@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1434 artigos e, em itálico, os 293 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1434 artigos e, em itálico, os 294 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -966,6 +966,7 @@
 - [José Rui Sampaio](Pessoas/J/Jos%C3%A9%20Rui%20Sampaio.md)
 - *José Silva* → [José da Silva Almeida](Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
 - *José Silva Almeida* → [José da Silva Almeida](Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md)
+- [José Venâncio Pina](Pessoas/J/Jos%C3%A9%20Ven%C3%A2ncio%20Pina.md)
 - *JPC* → [João Pedro Carlos](Pessoas/J/Jo%C3%A3o%20Pedro%20Carlos.md)
 - [Juliana Costa](Pessoas/J/Juliana%20Costa.md)
 - [Juliana Fernandes](Pessoas/J/Juliana%20Fernandes.md)
@@ -1339,10 +1340,10 @@
 ## P
 
 - ["Para Educar Melhor - Campos de férias inacianos"](Movimento/Para%20Educar%20Melhor%20-%20Campos%20de%20f%C3%A9rias%20inacianos.md)
+- *Padre Pina* → [José Venâncio Pina](Pessoas/J/Jos%C3%A9%20Ven%C3%A2ncio%20Pina.md)
 - [Patrícia Marques](Pessoas/P/Patr%C3%ADcia%20Marques.md)
 - [P'la Tua Mão](Acampamentos/2022/P%27la%20Tua%20M%C3%A3o.md)
 - [Pablo Fernandes](Pessoas/P/Pablo%20Fernandes.md)
-- [Padre Pina](Pessoas/P/Padre%20Pina.md)
 - [Paim](Acampamentos/1999/Paim.md)
 - [PaKasaDele](Acampamentos/2010/PaKasaDele.md)
 - [Panão](Pessoas/P/Pan%C3%A3o.md)

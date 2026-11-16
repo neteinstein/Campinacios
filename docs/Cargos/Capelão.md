@@ -82,7 +82,7 @@
 - [Miguel Melo Ribeiro](../Pessoas/M/Miguel%20Melo%20Ribeiro.md)
 - [Nelson Faria](../Pessoas/N/Nelson%20Faria.md)
 - [Nuno Branco](../Pessoas/N/Nuno%20Branco.md)
-- [Padre Pina](../Pessoas/P/Padre%20Pina.md)
+- [José Venâncio Pina](../Pessoas/J/Jos%C3%A9%20Ven%C3%A2ncio%20Pina.md)
 - [Paulo Duarte](../Pessoas/P/Paulo%20Duarte.md)
 - [Pedro Cameira](../Pessoas/P/Pedro%20Cameira.md)
 - [Pedro Luz](../Pessoas/P/Pedro%20Luz.md)
