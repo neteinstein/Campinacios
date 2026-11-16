@@ -10,6 +10,7 @@
     - 2014 [Suga](../../Acampamentos/2014/Suga.md)
     - 2015 [Sai da ilha](../../Acampamentos/2015/Sai%20da%20ilha.md) - [Director](../../Cargos/Director.md)
     - 2016 [PáquiPáli](../../Acampamentos/2016/P%C3%A1quiP%C3%A1li.md) - [Director](../../Cargos/Director.md)
+    - 2018 [Vaivém](../../Acampamentos/2018/Vaiv%C3%A9m.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
 
 ---
 

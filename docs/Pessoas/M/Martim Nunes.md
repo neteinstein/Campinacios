@@ -4,6 +4,8 @@ Martim Nunes é animador do Colégio S. João de Brito.
 
 ### Acampamentos
 
+- **Participante:**
+    - 2018 [A Ir e Falta o S](../../Acampamentos/2018/A%20Ir%20e%20Falta%20o%20S.md)
 - **Formação:**
     - 2024 [ParTijolo](../../Acampamentos/2024/ParTijolo.md)
 - **Animador(a):**

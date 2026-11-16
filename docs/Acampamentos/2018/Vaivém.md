@@ -6,6 +6,9 @@
 
 - [Director](../../Cargos/Director.md) - [Luís Panão](../../Pessoas/L/Lu%C3%ADs%20Pan%C3%A3o.md)
 - [Tio](../../Cargos/Tio.md) - [Ricardo Costa](../../Pessoas/R/Ricardo%20Costa.md)
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [Diana Duarte](../../Pessoas/D/Diana%20Duarte.md)
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Paulo Duarte](../../Pessoas/P/Paulo%20Duarte.md) sj
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Rafael Carecho](../../Pessoas/R/Rafael%20Carecho.md)
 
 ## Participantes que se tornaram animadores
 
