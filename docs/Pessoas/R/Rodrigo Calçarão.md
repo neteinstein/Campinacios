@@ -3,6 +3,7 @@
 ### Acampamentos
 
 - **Participante:**
+    - 2012 [Clávis](../../Acampamentos/2012/Cl%C3%A1vis.md)
     - 2014 [#SóMeFalt’Aurélia](../../Acampamentos/2014/S%C3%B3MeFalt%E2%80%99Aur%C3%A9lia.md)
     - 2018 [Descola](../../Acampamentos/2018/Descola%20%282018%29.md)
 - **Animador(a):**

@@ -3,6 +3,7 @@
 ### Acampamentos
 
 - **Participante:**
+    - 2012 [Clávis](../../Acampamentos/2012/Cl%C3%A1vis.md)
     - 2018 [Descola](../../Acampamentos/2018/Descola%20%282018%29.md)
 - **Animador(a):**
     - 2021 [Vesp'á Luz](../../Acampamentos/2021/Vesp%27%C3%A1%20Luz.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
