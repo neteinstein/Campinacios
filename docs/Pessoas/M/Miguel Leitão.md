@@ -3,6 +3,7 @@
 ### Acampamentos
 
 - **Animador(a):**
+    - 2019 [Viv'O Segredo](../../Acampamentos/2019/Viv%27O%20Segredo.md)
     - 2024 [Mestrarte](../../Acampamentos/2024/Mestrarte.md) - [Animador(a) de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
 ### Encontros

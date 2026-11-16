@@ -4,6 +4,7 @@
 
 - **Animador(a):**
     - 2017 [Já Percebi](../../Acampamentos/2017/J%C3%A1%20Percebi.md)
+    - 2019 [Viv'O Segredo](../../Acampamentos/2019/Viv%27O%20Segredo.md)
     - 2022 [Level Up](../../Acampamentos/2022/Level%20Up.md) - [Tio](../../Cargos/Tio.md)
     - 2023 [180 Já Contenta](../../Acampamentos/2023/180%20J%C3%A1%20Contenta.md) - [Tio](../../Cargos/Tio.md)
     - 2024 [ParTijolo](../../Acampamentos/2024/ParTijolo.md) - [Tio](../../Cargos/Tio.md)
