@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1438 artigos e, em itálico, os 286 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1432 artigos e, em itálico, os 293 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -323,7 +323,7 @@
 - *Chumi* → [Maria do Carmo Ribeiro](Pessoas/M/Maria%20do%20Carmo%20Ribeiro.md)
 - [Clara Sampaio](Pessoas/C/Clara%20Sampaio.md)
 - [Cláudia Montenegro](Pessoas/C/Cl%C3%A1udia%20Montenegro.md)
-- [Constança Sampaio Soares](Pessoas/C/Constan%C3%A7a%20Sampaio%20Soares.md)
+- *Constança Sampaio Soares* → [Concha Sampaio Soares](Pessoas/C/Concha%20Sampaio%20Soares.md)
 - *Costinha* → [Inês Costa](Pessoas/I/In%C3%AAs%20Costa.md)
 - [Cristina Rebordão](Pessoas/C/Cristina%20Rebord%C3%A3o.md)
 - *Caramela* → [Joana Martins](Pessoas/J/Joana%20Martins.md)
@@ -978,8 +978,8 @@
 - *Kika* → [Francisca Captivo](Pessoas/F/Francisca%20Captivo.md)
 - *Kiko* → [Francisco Goiana da Silva](Pessoas/F/Francisco%20Goiana%20da%20Silva.md)
 - [Kiko Alves da Silva](Pessoas/K/Kiko%20Alves%20da%20Silva.md)
-- [Kiko Carmo](Pessoas/K/Kiko%20Carmo.md)
-- [Kiko Gomes](Pessoas/K/Kiko%20Gomes.md)
+- *Kiko Carmo* → [Francisco Cunha e Carmo](Pessoas/F/Francisco%20Cunha%20e%20Carmo.md)
+- *Kiko Gomes* → [Francisco Gomes](Pessoas/F/Francisco%20Gomes.md)
 - *Kiko Sá* → [Francisco Sá](Pessoas/F/Francisco%20S%C3%A1.md)
 - *Kitó* → [Cristóvão Teixeira](Pessoas/C/Crist%C3%B3v%C3%A3o%20Teixeira.md)
 - [Koalas](Acampamentos/1999/Koalas.md)
@@ -1164,6 +1164,7 @@
 - *Migalha* → [Miguel Melo Ribeiro](Pessoas/M/Miguel%20Melo%20Ribeiro.md)
 - [Miguel Caetano Nunes](Pessoas/M/Miguel%20Caetano%20Nunes.md)
 - [Miguel Leitão](Pessoas/M/Miguel%20Leit%C3%A3o.md)
+- *Miguel Moraes* → [Miguel Morais](Pessoas/M/Miguel%20Morais.md)
 - [Miguel Poço](Pessoas/M/Miguel%20Po%C3%A7o.md)
 - *Mimas* → [Mariana Rato](Pessoas/M/Mariana%20Rato.md)
 - *Mocamfe* → [MOCAMFE](Movimento/MOCAMFE.md)
@@ -1269,7 +1270,6 @@
 - [Miguel Monteiro Martins](Pessoas/M/Miguel%20Monteiro%20Martins.md)
 - [Miguel Navarro](Pessoas/M/Miguel%20Navarro.md)
 - *Miguel Rodrigues* → [João Miguel Rodrigues](Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md)
-- [Miguel Moraes](Pessoas/M/Miguel%20Moraes.md)
 - [Miguel Morais](Pessoas/M/Miguel%20Morais.md)
 - [Miguel Nogueira](Pessoas/M/Miguel%20Nogueira.md)
 - [Miguel Nogueira Rodrigues](Pessoas/M/Miguel%20Nogueira%20Rodrigues.md)
@@ -1499,9 +1499,10 @@
 - *Ricado César das Neves* → [Ricardo Neves](Pessoas/R/Ricardo%20Neves.md)
 - [Ricardo Amado](Pessoas/R/Ricardo%20Amado.md)
 - [Ricardo Barroso](Pessoas/R/Ricardo%20Barroso.md)
-- [Ricardo Batista](Pessoas/R/Ricardo%20Batista.md)
+- *Ricardo Batista* → [Ricardo Batista Dias](Pessoas/R/Ricardo%20Batista%20Dias.md)
+- [Ricardo Batista Dias](Pessoas/R/Ricardo%20Batista%20Dias.md)
 - [Ricardo Costa](Pessoas/R/Ricardo%20Costa.md)
-- [Ricardo Dias](Pessoas/R/Ricardo%20Dias.md)
+- *Ricardo Dias* → [Ricardo Batista Dias](Pessoas/R/Ricardo%20Batista%20Dias.md)
 - [Ricardo Lopes](Pessoas/R/Ricardo%20Lopes.md)
 - [Ricardo Neves](Pessoas/R/Ricardo%20Neves.md)
 - [Ricardo Oliveira](Pessoas/R/Ricardo%20Oliveira.md)
@@ -1708,7 +1709,7 @@
 - [Tomás Cunha Ferreira](Pessoas/T/Tom%C3%A1s%20Cunha%20Ferreira.md)
 - [Tomás Ribeiro](Pessoas/T/Tom%C3%A1s%20Ribeiro.md)
 - [Tomás Silva](Pessoas/T/Tom%C3%A1s%20Silva.md)
-- [Toni](Pessoas/T/Toni.md)
+- *Toni* → [António Almeida](Pessoas/A/Ant%C3%B3nio%20Almeida.md)
 - [Torneira](Acampamentos/1997/Torneira.md)
 - *Toy* → [António Matias](Pessoas/A/Ant%C3%B3nio%20Matias.md)
 - [Tranquilo](Acampamentos/2000/Tranquilo.md)

@@ -208,7 +208,7 @@ Propunha ainda formação contínua, com um CIFA de dois em dois anos, e lembrav
 | **Coordenadora Nacional** | [Sílvia Lobo](../Pessoas/S/S%C3%ADlvia%20Lobo.md) |
 | **DL-CC** | [Sofia Pinelas](../Pessoas/A/Ana%20Sofia%20Pinelas.md) (Coordenadora da DL) e [Samuel Afonso](../Pessoas/S/Samuel%20Afonso.md) sj |
 | **DL-CAIC** | [Carlos Miranda](../Pessoas/C/Carlos%20Miranda.md) sj |
-| **DL-CSJB** | [Afonso Oom](../Pessoas/A/Afonso%20Oom.md) (Coordenador da DL) e [Ricardo Batista](../Pessoas/R/Ricardo%20Batista.md) sj |
+| **DL-CSJB** | [Afonso Oom](../Pessoas/A/Afonso%20Oom.md) (Coordenador da DL) e [Ricardo Batista Dias](../Pessoas/R/Ricardo%20Batista%20Dias.md) sj |
 
 </div>
 

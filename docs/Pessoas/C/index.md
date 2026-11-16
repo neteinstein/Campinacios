@@ -54,7 +54,6 @@
 - [Concha Líbano Monteiro](Concha%20L%C3%ADbano%20Monteiro.md)
 - [Concha Sampaio Soares](Concha%20Sampaio%20Soares.md)
 - [Constança Pereira da Silva](Constan%C3%A7a%20Pereira%20da%20Silva.md)
-- [Constança Sampaio Soares](Constan%C3%A7a%20Sampaio%20Soares.md)
 - [Cristiana Leite](Cristiana%20Leite.md)
 - [Cristina Cabeça](Cristina%20Cabe%C3%A7a.md)
 - [Cristina Lopo Monteiro](Cristina%20Lopo%20Monteiro.md)

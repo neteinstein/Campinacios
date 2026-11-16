@@ -236,7 +236,6 @@
 - [Miguel Melo](../Pessoas/M/Miguel%20Melo.md)
 - [Miguel Melo Ribeiro](../Pessoas/M/Miguel%20Melo%20Ribeiro.md)
 - [Miguel Monteiro Martins](../Pessoas/M/Miguel%20Monteiro%20Martins.md)
-- [Miguel Moraes](../Pessoas/M/Miguel%20Moraes.md)
 - [Miguel Morais](../Pessoas/M/Miguel%20Morais.md)
 - [Miguel Poço](../Pessoas/M/Miguel%20Po%C3%A7o.md)
 - [Militão](../Pessoas/M/Milit%C3%A3o.md)

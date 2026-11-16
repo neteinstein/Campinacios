@@ -18,7 +18,7 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 | **2019/2020** | — | [Vasco Teixeira](../Pessoas/V/Vasco%20Teixeira.md) sj | — |
 | **2018/2019** | [Pedro Santos](../Pessoas/P/Pedro%20Santos.md) | [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md) sj | — |
 | **2017/2018** | [Pedro Santos](../Pessoas/P/Pedro%20Santos.md) | [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md) sj | [Pedro Mendonça](../Pessoas/P/Pedro%20Mendon%C3%A7a.md), [Francisco Maia](../Pessoas/F/Francisco%20Maia.md), [Maria Líbano Monteiro](../Pessoas/M/Maria%20L%C3%ADbano%20Monteiro.md) |
-| **2016/2017** | [Afonso Oom](../Pessoas/A/Afonso%20Oom.md) | [Ricardo Batista](../Pessoas/R/Ricardo%20Batista.md) sj | [Helena Cunha e Carmo](../Pessoas/H/Helena%20Cunha%20e%20Carmo.md) |
+| **2016/2017** | [Afonso Oom](../Pessoas/A/Afonso%20Oom.md) | [Ricardo Batista Dias](../Pessoas/R/Ricardo%20Batista%20Dias.md) sj | [Helena Cunha e Carmo](../Pessoas/H/Helena%20Cunha%20e%20Carmo.md) |
 | **2015/2016** | [João Cativo](../Pessoas/J/Jo%C3%A3o%20Captivo.md) | [António Pamplona](../Pessoas/A/Ant%C3%B3nio%20Pamplona.md) sj | — |
 | **2014/2015** | [João Cativo](../Pessoas/J/Jo%C3%A3o%20Captivo.md) | [António Pamplona](../Pessoas/A/Ant%C3%B3nio%20Pamplona.md) sj | — |
 | **2013/2014** | [João Eiró](../Pessoas/J/Jo%C3%A3o%20Eir%C3%B3.md) | [João Brandão](../Pessoas/J/Jo%C3%A3o%20Brand%C3%A3o.md) sj | [Vasco Neves](../Pessoas/V/Vasco%20Neves.md), [João Cativo](../Pessoas/J/Jo%C3%A3o%20Captivo.md), [Domingos Freire de Andrade](../Pessoas/D/Domingos%20Freire%20de%20Andrade.md) (Duda) |
@@ -103,7 +103,7 @@ Orgão responsável pela dinamização de actividades e coordenação de animado
 - [Pedro Mendonça](../Pessoas/P/Pedro%20Mendon%C3%A7a.md)
 - [Pedro Santos](../Pessoas/P/Pedro%20Santos.md)
 - [Pedro Snow](../Pessoas/P/Pedro%20Snow.md)
-- [Ricardo Batista](../Pessoas/R/Ricardo%20Batista.md)
+- [Ricardo Batista Dias](../Pessoas/R/Ricardo%20Batista%20Dias.md)
 - [Ricardo Neves](../Pessoas/R/Ricardo%20Neves.md)
 - [Rodrigo Queiroz e Melo](../Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md)
 - [Sofia Ângelo](../Pessoas/S/Sofia%20%C3%82ngelo.md)

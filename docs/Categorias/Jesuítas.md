@@ -81,7 +81,7 @@ Jesuítas que animam ou animaram acampamentos de Campinácios
 - [Rafael Mourão](../Pessoas/R/Rafael%20Mour%C3%A3o.md)
 - [Rafael Rebordão](../Pessoas/R/Rafael%20Rebord%C3%A3o.md)
 - [Ricardo Barroso](../Pessoas/R/Ricardo%20Barroso.md)
-- [Ricardo Batista](../Pessoas/R/Ricardo%20Batista.md)
+- [Ricardo Batista Dias](../Pessoas/R/Ricardo%20Batista%20Dias.md)
 - [Rui Fernandes](../Pessoas/R/Rui%20Fernandes.md)
 - [Rui Ferreira](../Pessoas/R/Rui%20Ferreira.md)
 - [Rui Ribeiro](../Pessoas/R/Rui%20Ribeiro.md)
