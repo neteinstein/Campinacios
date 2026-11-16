@@ -3,6 +3,7 @@
 ### Acampamentos
 
 - **Animador(a):**
+    - 2016 [Expalharmo-nos](../../Acampamentos/2016/Expalharmo-nos.md)
     - 2017 [Já Dá](../../Acampamentos/2017/J%C3%A1%20D%C3%A1.md)
 
 ### Encontros
