@@ -25,6 +25,7 @@ João Freire de Andrade é desde 2006 um dos animadores do Colégio São João d
     - 2012 [Sarcófago](../../Acampamentos/2012/Sarc%C3%B3fago.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2013 [Realiza](../../Acampamentos/2013/Realiza.md) - [Director](../../Cargos/Director.md)
     - 2014 [Mãos à Obra](../../Acampamentos/2014/M%C3%A3os%20%C3%A0%20Obra.md) - [Director](../../Cargos/Director.md)
+    - 2016 [Em Tudo](../../Acampamentos/2016/Em%20Tudo.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
 ### Encontros
 
