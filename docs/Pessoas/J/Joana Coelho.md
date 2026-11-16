@@ -6,6 +6,7 @@
     - 2010 [4º Dto](../../Acampamentos/2010/4%C2%BA%20Dto.md)
 - **Animador(a):**
     - 2015 [Someonelfie](../../Acampamentos/2015/Someonelfie.md) - [Tia](../../Cargos/Tio.md)
+    - 2016 [Quemtesegura](../../Acampamentos/2016/Quemtesegura.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2017 [Já Dá](../../Acampamentos/2017/J%C3%A1%20D%C3%A1.md) - [Director](../../Cargos/Director.md)
     - 2018 [Descola (2018)](../../Acampamentos/2018/Descola%20%282018%29.md) - [Director](../../Cargos/Director.md)
 
