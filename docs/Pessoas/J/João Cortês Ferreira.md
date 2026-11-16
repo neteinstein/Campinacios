@@ -14,6 +14,7 @@
     - 2009 [Caminho](../../Acampamentos/2009/Caminho.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2010 [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2011 [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md)
+    - 2014 [Além Pocinhas](../../Acampamentos/2014/Al%C3%A9m%20Pocinhas.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
 ### Encontros
 

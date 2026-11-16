@@ -9,7 +9,7 @@ Animadores dos Campinácios
 - [Animadores do CSJB](Animadores%20do%20CSJB.md)
 - [Jesuítas](Jesu%C3%ADtas.md)
 
-## Páginas nesta categoria (924)
+## Páginas nesta categoria (925)
 
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Adriana Gil](../Pessoas/A/Adriana%20Gil.md)
@@ -601,6 +601,7 @@ Animadores dos Campinácios
 - [Manuel Vilhena](../Pessoas/M/Manuel%20Vilhena.md)
 - [Marcelo Vieira](../Pessoas/M/Marcelo%20Vieira.md)
 - [Marco António](../Pessoas/M/Marco%20Ant%C3%B3nio.md)
+- [Marco Conceição](../Pessoas/M/Marco%20Concei%C3%A7%C3%A3o.md)
 - [Marco Cunha](../Pessoas/M/Marco%20Cunha.md)
 - [Marco Frazão](../Pessoas/M/Marco%20Fraz%C3%A3o.md)
 - [Marcos Matos](../Pessoas/M/Marcos%20Matos.md)
