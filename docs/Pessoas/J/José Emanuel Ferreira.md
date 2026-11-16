@@ -12,6 +12,7 @@
 - **Animador:**
     - 2009 [Vi-O](../../Acampamentos/2009/Vi-O.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2011 [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md)
+    - 2012 [Raio Part'ós Ninjas](../../Acampamentos/2012/Raio%20Part%27%C3%B3s%20Ninjas.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2015 [Someonelfie](../../Acampamentos/2015/Someonelfie.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
 
 ### Encontros

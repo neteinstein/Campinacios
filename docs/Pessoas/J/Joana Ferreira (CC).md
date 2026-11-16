@@ -8,6 +8,7 @@ Joana Ferreira é animadora do [CC](../../Movimento/CC.md) desde 2018.
 
 - **Participante:**
     - 2010 [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md)
+    - 2012 [Raio Part'ós Ninjas](../../Acampamentos/2012/Raio%20Part%27%C3%B3s%20Ninjas.md)
     - 2014 [Além Pocinhas](../../Acampamentos/2014/Al%C3%A9m%20Pocinhas.md)
     - 2015 [Jásinto](../../Acampamentos/2015/J%C3%A1sinto.md)
 - **Formação:**

@@ -5,6 +5,7 @@
 - **Participante:**
     - 2010 [PaKasaDele](../../Acampamentos/2010/PaKasaDele.md)
 - **Animador(a):**
+    - 2012 [Raio Part'ós Ninjas](../../Acampamentos/2012/Raio%20Part%27%C3%B3s%20Ninjas.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2013 [Fairplay](../../Acampamentos/2013/Fairplay.md) - [Director](../../Cargos/Director.md)
     - 2014 [Suga](../../Acampamentos/2014/Suga.md)
     - 2015 [Sai da ilha](../../Acampamentos/2015/Sai%20da%20ilha.md) - [Director](../../Cargos/Director.md)
