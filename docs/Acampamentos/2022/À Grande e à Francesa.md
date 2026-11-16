@@ -14,6 +14,12 @@
 - [Tia](../../Cargos/Tio.md) - [Mariana Cardim](../../Pessoas/M/Mariana%20Cardim.md)
 - [Tio](../../Cargos/Tio.md) - [Frederico Moraes Sarmento](../../Pessoas/F/Frederico%20Moraes%20Sarmento.md)
 
+## Participantes que se tornaram animadores
+
+- [Francisco Barroso](../../Pessoas/F/Francisco%20Barroso.md)
+- [Manuel Centeno](../../Pessoas/M/Manuel%20Centeno.md)
+- [Pablo Fernandes](../../Pessoas/P/Pablo%20Fernandes.md)
+
 ---
 
 | Categorias |

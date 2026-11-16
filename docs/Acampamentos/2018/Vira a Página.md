@@ -9,6 +9,7 @@
 ## Participantes que se tornaram animadores
 
 - [Ariana Couto](../../Pessoas/A/Ariana%20Couto.md)
+- [Carmo Ribeiro Corrêa](../../Pessoas/C/Carmo%20Ribeiro%20Corr%C3%AAa.md)
 - [Fernando Monteiro](../../Pessoas/F/Fernando%20Monteiro.md)
 
 ---

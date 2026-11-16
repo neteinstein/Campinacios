@@ -9,7 +9,7 @@ Animadores dos Campinácios
 - [Animadores do CSJB](Animadores%20do%20CSJB.md)
 - [Jesuítas](Jesu%C3%ADtas.md)
 
-## Páginas nesta categoria (925)
+## Páginas nesta categoria (926)
 
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Adriana Gil](../Pessoas/A/Adriana%20Gil.md)
@@ -159,7 +159,9 @@ Animadores dos Campinácios
 - [Carlos Ruiz](../Pessoas/C/Carlos%20Ruiz.md)
 - [Carlota Tareco](../Pessoas/C/Carlota%20Tareco.md)
 - [Carminho Simões de Almeida](../Pessoas/C/Carminho%20Sim%C3%B5es%20de%20Almeida.md)
+- [Carmo Castello-Branco Ribeiro](../Pessoas/C/Carmo%20Castello-Branco%20Ribeiro.md)
 - [Carmo Madeira](../Pessoas/C/Carmo%20Madeira.md)
+- [Carmo Ribeiro Corrêa](../Pessoas/C/Carmo%20Ribeiro%20Corr%C3%AAa.md)
 - [Carolina Carvalho](../Pessoas/C/Carolina%20Carvalho.md)
 - [Carolina Dias](../Pessoas/C/Carolina%20Dias.md)
 - [Carolina Morão](../Pessoas/C/Carolina%20Mor%C3%A3o.md)
@@ -632,7 +634,6 @@ Animadores dos Campinácios
 - [Maria Cunha](../Pessoas/M/Maria%20Cunha.md)
 - [Maria Cunhal](../Pessoas/M/Maria%20Cunhal.md)
 - [Maria do Carmo Guedes](../Pessoas/M/Maria%20do%20Carmo%20Guedes.md)
-- [Maria do Carmo Ribeiro](../Pessoas/M/Maria%20do%20Carmo%20Ribeiro.md)
 - [Maria Dória](../Pessoas/M/Maria%20D%C3%B3ria.md)
 - [Maria Fernandes](../Pessoas/M/Maria%20Fernandes.md)
 - [Maria Fontes](../Pessoas/M/Maria%20Fontes.md)

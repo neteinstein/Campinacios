@@ -17,8 +17,11 @@ O hino deste campo está no [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin
 
 ## Participantes que se tornaram animadores
 
+- [Alexandre Alípio](../../Pessoas/A/Alexandre%20Al%C3%ADpio.md)
+- [Catarina Gaio](../../Pessoas/C/Catarina%20Gaio.md)
 - [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
 - [Leonor Banha da Silva](../../Pessoas/L/Leonor%20Banha%20da%20Silva.md)
+- [Rodrigo Calçarão](../../Pessoas/R/Rodrigo%20Cal%C3%A7ar%C3%A3o.md)
 
 ---
 

@@ -14,7 +14,9 @@
 
 ## Participantes que se tornaram animadores
 
+- [António Pereira](../../Pessoas/A/Ant%C3%B3nio%20Pereira.md)
 - [Fernando Monteiro](../../Pessoas/F/Fernando%20Monteiro.md)
+- [Inês Costa](../../Pessoas/I/In%C3%AAs%20Costa.md)
 
 ---
 

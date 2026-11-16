@@ -124,7 +124,7 @@ Propunha ainda formação contínua, com um CIFA de dois em dois anos, e lembrav
 | **Coordenador Adjunto** | [Jaime Lucas Pires](../Pessoas/J/Jaime%20Lucas%20Pires.md) |
 | **DL-CC** | [Tiago Vidal](../Pessoas/T/Tiago%20Vidal.md) (Coordenador da DL) e [Afonso Espregueira](../Pessoas/A/Afonso%20Espregueira.md) sj |
 | **DL-CAIC** | [Leonor Cardoso](../Pessoas/L/Leonor%20Cardoso.md) (Coordenadora da DL) |
-| **DL-CSJB** | [Carmo Ribeiro Corrêa (Chumi)](../Pessoas/M/Maria%20do%20Carmo%20Ribeiro.md) (Coordenadora da DL) e [Filipe Lima](../Pessoas/F/Filipe%20Lima.md) sj |
+| **DL-CSJB** | [Carmo Castello-Branco Ribeiro (Chumi)](../Pessoas/C/Carmo%20Castello-Branco%20Ribeiro.md) (Coordenadora da DL) e [Filipe Lima](../Pessoas/F/Filipe%20Lima.md) sj |
 
 </div>
 

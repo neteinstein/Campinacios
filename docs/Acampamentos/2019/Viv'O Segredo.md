@@ -11,6 +11,11 @@
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Pedro Rocha Mendes](../../Pessoas/P/Pedro%20Rocha%20Mendes.md) sj
 - [Animadores](../../Categorias/Animadores.md) - Bernardo, Manuel Santos (Maninhas), Joana, Marques, [Kika](../../Pessoas/F/Francisca%20Captivo.md), [Miguel Leitão](../../Pessoas/M/Miguel%20Leit%C3%A3o.md), [Renato Sousa](../../Pessoas/R/Renato%20Sousa.md), [Francisca Veloso](../../Pessoas/F/Francisca%20Veloso.md) (Tita), [Diogo Vasconcelos](../../Pessoas/D/Diogo%20Vasconcelos.md) (Digas), [João Fernandes](../../Pessoas/J/Jo%C3%A3o%20Fernandes.md) (Fer) e Marta
 
+## Participantes que se tornaram animadores
+
+- [Ana Isabel Martins](../../Pessoas/A/Ana%20Isabel%20Martins.md)
+- [Mariana Cortez](../../Pessoas/M/Mariana%20Cortez.md)
+
 ---
 
 | Categorias |

@@ -14,8 +14,14 @@
 
 ## Participantes que se tornaram animadores
 
+- [Carolina Morão](../../Pessoas/C/Carolina%20Mor%C3%A3o.md)
 - [Daniela Gonçalves](../../Pessoas/D/Daniela%20Gon%C3%A7alves.md)
+- [João Madureira](../../Pessoas/J/Jo%C3%A3o%20Madureira.md)
+- [Leonor David](../../Pessoas/L/Leonor%20David.md)
+- [Luís Faria](../../Pessoas/L/Lu%C3%ADs%20Faria.md)
 - [Miguel Poço](../../Pessoas/M/Miguel%20Po%C3%A7o.md)
+- [Pablo Fernandes](../../Pessoas/P/Pablo%20Fernandes.md)
+- [Pedro Oliveira](../../Pessoas/P/Pedro%20Oliveira.md)
 
 ---
 

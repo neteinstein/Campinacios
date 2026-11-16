@@ -13,12 +13,12 @@
 
 ## Participantes que se tornaram animadores
 
+- [Carmo Castello-Branco Ribeiro](../../Pessoas/C/Carmo%20Castello-Branco%20Ribeiro.md)
 - [Catarina Gaio](../../Pessoas/C/Catarina%20Gaio.md)
 - [Diogo Vala](../../Pessoas/D/Diogo%20Vala.md)
 - [Francisco Sá](../../Pessoas/F/Francisco%20S%C3%A1.md)
 - [Francisco Seabra](../../Pessoas/F/Francisco%20Seabra.md)
 - [Leonor Cardoso](../../Pessoas/L/Leonor%20Cardoso.md)
-- [Maria do Carmo Ribeiro](../../Pessoas/M/Maria%20do%20Carmo%20Ribeiro.md)
 - [Paula Gonçalves](../../Pessoas/P/Paula%20Gon%C3%A7alves.md)
 - [Sofia Castilho](../../Pessoas/S/Sofia%20Castilho.md)
 - [Tomás Cardoso](../../Pessoas/T/Tom%C3%A1s%20Cardoso.md)

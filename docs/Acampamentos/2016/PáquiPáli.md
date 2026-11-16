@@ -13,6 +13,15 @@
 - [Tia](../../Cargos/Tio.md) - Luísa Ribeiro
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [António Portugal](../../Pessoas/A/Ant%C3%B3nio%20Portugal.md), [Maria do Carmo Guedes](../../Pessoas/M/Maria%20do%20Carmo%20Guedes.md), Marcos Barroso, [Carolina Oliveira](../../Pessoas/C/Carolina%20Oliveira.md), Tomás Carneiro e [Francisco Costa](../../Pessoas/F/Francisco%20Costa.md)
 
+## Participantes que se tornaram animadores
+
+- [Benedita Turras](../../Pessoas/B/Benedita%20Turras.md)
+- [Isabel Fonseca](../../Pessoas/I/Isabel%20Fonseca.md)
+- [Laura Leandro](../../Pessoas/L/Laura%20Leandro.md)
+- [Margarida Garcia](../../Pessoas/M/Margarida%20Garcia.md)
+- [Maria Vieira](../../Pessoas/M/Maria%20Vieira.md)
+- [Pedro Rosa](../../Pessoas/P/Pedro%20Rosa.md)
+
 ---
 
 | Categorias |

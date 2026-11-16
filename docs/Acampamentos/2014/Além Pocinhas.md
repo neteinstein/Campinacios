@@ -11,6 +11,10 @@
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - Francisco Camacho, [Carlota Tareco](../../Pessoas/C/Carlota%20Tareco.md), [Marco Conceição](../../Pessoas/M/Marco%20Concei%C3%A7%C3%A3o.md), [João Cortês](../../Pessoas/J/Jo%C3%A3o%20Cort%C3%AAs%20Ferreira.md) e [Nuno Santos](../../Pessoas/N/Nuno%20Santos.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [João Coutinho](../../Pessoas/J/Jo%C3%A3o%20Coutinho.md), Maria Alva, [Teresa Esteves da Fonseca](../../Pessoas/T/Teresa%20Fonseca.md) e [Francisco Costa](../../Pessoas/F/Francisco%20Costa.md)
 
+## Participantes que se tornaram animadores
+
+- [Joana Ferreira (CC)](../../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
+
 ---
 
 | Categorias |

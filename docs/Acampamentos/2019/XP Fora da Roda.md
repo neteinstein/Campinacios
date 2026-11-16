@@ -13,6 +13,10 @@
 - [Tia](../../Cargos/Tio.md) - [Maria Ramos](../../Pessoas/M/Maria%20Ramos.md)
 - [Tia](../../Cargos/Tio.md) - [Margarida Garcia](../../Pessoas/M/Margarida%20Garcia.md) (Guida)
 
+## Participantes que se tornaram animadores
+
+- [Francisco Cassiano](../../Pessoas/F/Francisco%20Cassiano.md)
+
 ---
 
 | Categorias |

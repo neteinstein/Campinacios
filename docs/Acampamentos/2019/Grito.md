@@ -13,10 +13,16 @@
 
 ## Participantes que se tornaram animadores
 
+- [Alexandre Alípio](../../Pessoas/A/Alexandre%20Al%C3%ADpio.md)
+- [António Falacho](../../Pessoas/A/Ant%C3%B3nio%20Falacho.md)
 - [Chico Silva](../../Pessoas/C/Chico%20Silva.md)
+- [David Bandeira](../../Pessoas/D/David%20Bandeira.md)
 - [Francisco Carneiro](../../Pessoas/F/Francisco%20Carneiro.md)
 - [Francisco Dioniz Barroso Loureiro](../../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
 - [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
+- [Joana Antunes](../../Pessoas/J/Joana%20Antunes.md)
+- [Rafaela Mano](../../Pessoas/R/Rafaela%20Mano.md)
+- [Sebastião Caldas](../../Pessoas/S/Sebasti%C3%A3o%20Caldas.md)
 
 ---
 

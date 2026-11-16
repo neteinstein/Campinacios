@@ -14,6 +14,10 @@
 - [Tia](../../Cargos/Tio.md) - Mariana Val
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Inês Lucena, [Teresa Esteves da Fonseca](../../Pessoas/T/Teresa%20Fonseca.md), Marta Cardoso, Rodrigo Ferreira Gomes e Madalena
 
+## Participantes que se tornaram animadores
+
+- [Joana Ferreira (CC)](../../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
+
 ---
 
 **Outros nomes:** Rais parta os ninja · Raios Part'os Ninja

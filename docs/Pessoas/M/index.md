@@ -71,7 +71,6 @@
 - [Maria Cunha](Maria%20Cunha.md)
 - [Maria Cunhal](Maria%20Cunhal.md)
 - [Maria do Carmo Guedes](Maria%20do%20Carmo%20Guedes.md)
-- [Maria do Carmo Ribeiro](Maria%20do%20Carmo%20Ribeiro.md)
 - [Maria Dória](Maria%20D%C3%B3ria.md)
 - [Maria Fernandes](Maria%20Fernandes.md)
 - [Maria Fontes](Maria%20Fontes.md)

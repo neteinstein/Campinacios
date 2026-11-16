@@ -13,6 +13,10 @@
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - Afonso Cardal, Fernando Rodrigues e [Carlota Tareco](../../Pessoas/C/Carlota%20Tareco.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Teresa Cunha e Sá](../../Pessoas/T/Teresa%20S%C3%A1.md), Miguel Botelho, Francisca Costa, [Mafalda Costa](../../Pessoas/M/Mafalda%20Costa.md) e João Mendes
 
+## Participantes que se tornaram animadores
+
+- [Joana Ferreira (CC)](../../Pessoas/J/Joana%20Ferreira%20%28CC%29.md)
+
 ---
 
 | Categorias |

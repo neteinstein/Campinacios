@@ -12,9 +12,17 @@
 
 ## Participantes que se tornaram animadores
 
+- [Afonso Carvalho](../../Pessoas/A/Afonso%20Carvalho.md)
 - [André Vale](../../Pessoas/A/Andr%C3%A9%20Vale.md)
+- [Carmo Madeira](../../Pessoas/C/Carmo%20Madeira.md)
 - [Carolina Dias](../../Pessoas/C/Carolina%20Dias.md)
+- [Francisco Ilhão](../../Pessoas/F/Francisco%20Ilh%C3%A3o.md)
+- [José Cabelo](../../Pessoas/J/Jos%C3%A9%20Cabelo.md)
+- [Maria Carvalho](../../Pessoas/M/Maria%20Carvalho.md)
+- [Maria Coimbra](../../Pessoas/M/Maria%20Coimbra.md)
+- [Maria Cunhal](../../Pessoas/M/Maria%20Cunhal.md)
 - [Maria Solla](../../Pessoas/M/Maria%20Solla.md)
+- [Rita Centeno](../../Pessoas/R/Rita%20Centeno.md)
 
 ---
 

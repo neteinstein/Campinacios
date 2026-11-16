@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1434 artigos e, em itálico, os 297 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1435 artigos e, em itálico, os 297 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -297,9 +297,11 @@
 - [Carlos Miranda](Pessoas/C/Carlos%20Miranda.md)
 - [Carlos Pereira da Silva](Pessoas/C/Carlos%20Pereira%20da%20Silva.md)
 - [Carlota Tareco](Pessoas/C/Carlota%20Tareco.md)
-- *Carmo Castelo Branco* → [Maria do Carmo Ribeiro](Pessoas/M/Maria%20do%20Carmo%20Ribeiro.md)
+- [Carmo Castello-Branco Ribeiro](Pessoas/C/Carmo%20Castello-Branco%20Ribeiro.md)
+- *Carmo Castelo Branco* → [Carmo Castello-Branco Ribeiro](Pessoas/C/Carmo%20Castello-Branco%20Ribeiro.md)
 - *Carmo Cunha e Carmo* → [Maria do Carmo Cunha e Carmo](Pessoas/M/Maria%20do%20Carmo%20Cunha%20e%20Carmo.md)
 - [Carmo Madeira](Pessoas/C/Carmo%20Madeira.md)
+- [Carmo Ribeiro Corrêa](Pessoas/C/Carmo%20Ribeiro%20Corr%C3%AAa.md)
 - *Carol* → [Carolina Dias](Pessoas/C/Carolina%20Dias.md)
 - *Carol Dias* → [Carolina Dias](Pessoas/C/Carolina%20Dias.md)
 - [Carolina Dias](Pessoas/C/Carolina%20Dias.md)
@@ -320,7 +322,7 @@
 - [Chica Aguiar](Pessoas/C/Chica%20Aguiar.md)
 - *Chico Carneiro* → [Francisco Carneiro](Pessoas/F/Francisco%20Carneiro.md)
 - *Chico Cassiano* → [Francisco Cassiano](Pessoas/F/Francisco%20Cassiano.md)
-- *Chumi* → [Maria do Carmo Ribeiro](Pessoas/M/Maria%20do%20Carmo%20Ribeiro.md)
+- *Chumi* → [Carmo Castello-Branco Ribeiro](Pessoas/C/Carmo%20Castello-Branco%20Ribeiro.md)
 - [Clara Sampaio](Pessoas/C/Clara%20Sampaio.md)
 - [Cláudia Montenegro](Pessoas/C/Cl%C3%A1udia%20Montenegro.md)
 - *Constança Sampaio Soares* → [Concha Sampaio Soares](Pessoas/C/Concha%20Sampaio%20Soares.md)
@@ -341,7 +343,6 @@
 - [Carlos Rodrigues](Pessoas/C/Carlos%20Rodrigues.md)
 - [Carlos Ruiz](Pessoas/C/Carlos%20Ruiz.md)
 - [Carminho Simões de Almeida](Pessoas/C/Carminho%20Sim%C3%B5es%20de%20Almeida.md)
-- *Carmo Ribeiro Corrêa* → [Maria do Carmo Ribeiro](Pessoas/M/Maria%20do%20Carmo%20Ribeiro.md)
 - [Caroço](Acampamentos/1999/Caro%C3%A7o.md)
 - *Carolina Bardi* → [Ana Carolina Bardi](Pessoas/A/Ana%20Carolina%20Bardi.md)
 - [Carolina Carvalho](Pessoas/C/Carolina%20Carvalho.md)
@@ -1129,8 +1130,8 @@
 - [Maria Carvalho](Pessoas/M/Maria%20Carvalho.md)
 - [Maria Cunhal](Pessoas/M/Maria%20Cunhal.md)
 - [Maria do Carmo Guedes](Pessoas/M/Maria%20do%20Carmo%20Guedes.md)
-- [Maria do Carmo Ribeiro](Pessoas/M/Maria%20do%20Carmo%20Ribeiro.md)
-- *Maria do Carmo Castel Branco* → [Maria do Carmo Ribeiro](Pessoas/M/Maria%20do%20Carmo%20Ribeiro.md)
+- *Maria do Carmo Castel Branco* → [Carmo Castello-Branco Ribeiro](Pessoas/C/Carmo%20Castello-Branco%20Ribeiro.md)
+- *Maria do Carmo Ribeiro* → [Carmo Castello-Branco Ribeiro](Pessoas/C/Carmo%20Castello-Branco%20Ribeiro.md)
 - [Maria Dória](Pessoas/M/Maria%20D%C3%B3ria.md)
 - *Majo* → [Maria João Simões](Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
 - *Majó* → [Maria João Simões](Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
