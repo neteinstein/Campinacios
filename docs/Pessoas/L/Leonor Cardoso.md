@@ -14,7 +14,7 @@
     - 2017 [Salvo Sejas](../../Acampamentos/2017/Salvo%20Sejas.md)
     - 2018 [Descola](../../Acampamentos/2018/Descola%20%282018%29.md)
 - **Animador(a):**
-    - 2019 [XP Fora da Roda](../../Acampamentos/2019/XP%20Fora%20da%20Roda.md)
+    - 2019 [XP Fora da Roda](../../Acampamentos/2019/XP%20Fora%20da%20Roda.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2021 [Superfishie](../../Acampamentos/2021/Superfishie.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2023 [De Todas as Fôrmas](../../Acampamentos/2023/De%20Todas%20as%20F%C3%B4rmas.md) - [Animador(a) de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2023 [180 Já Contenta](../../Acampamentos/2023/180%20J%C3%A1%20Contenta.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
