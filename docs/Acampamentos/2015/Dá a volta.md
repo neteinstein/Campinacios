@@ -1,6 +1,6 @@
 # Dá a volta
 
-**Dá a volta** foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) realizado em 2015. O tema do ano foi *Change Your Selfie*.
+**Dá a volta** foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) realizado em 2015 em [Ribeira do Conde (Serpins)](../../Restrito/Locais%20de%20Acampamento/Ribeira%20do%20Conde%20%28Serpins%29.md). O tema do ano foi *Change Your Selfie*.
 
 ### Animadores
 
