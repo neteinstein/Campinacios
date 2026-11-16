@@ -4,6 +4,7 @@
 
 - **Animador(a):**
     - 2017 [Faz Sentido](../../Acampamentos/2017/Faz%20Sentido.md)
+    - 2018 [Maravilha-te](../../Acampamentos/2018/Maravilha-te.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2019 [SimBasta](../../Acampamentos/2019/SimBasta.md) - [Director](../../Cargos/Director.md)
     - 2022 [Limpo Pó](../../Acampamentos/2022/Limpo%20P%C3%B3.md) - [Director](../../Cargos/Director.md)
 
