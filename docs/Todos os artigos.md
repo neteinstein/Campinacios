@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1434 artigos e, em itálico, os 296 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1434 artigos e, em itálico, os 297 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -490,6 +490,7 @@
 - [E Agora?](Acampamentos/2013/E%20Agora.md)
 - [Ed mais 10](Acampamentos/2010/Ed%20mais%2010.md)
 - [Edu](Movimento/Desambigua%C3%A7%C3%A3o/Edu.md)
+- *Edu Carvalho* → [Eduardo Carvalho](Pessoas/E/Eduardo%20Carvalho.md)
 - [Eduarda Roxo](Pessoas/E/Eduarda%20Roxo.md)
 - [Eduarda Vilela](Pessoas/E/Eduarda%20Vilela.md)
 - [Eduardo](Pessoas/E/Eduardo.md)
