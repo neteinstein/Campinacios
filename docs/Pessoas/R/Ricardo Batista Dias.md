@@ -6,6 +6,7 @@
     - 2008 [TufarfarAway](../../Acampamentos/2008/TufarfarAway.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2010 [Walkabout](../../Acampamentos/2010/Walkabout.md) - [Capelinho](../../Cargos/Capelinho.md)
     - 2016 [PáquiPáli](../../Acampamentos/2016/P%C3%A1quiP%C3%A1li.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+    - 2019 [Grito](../../Acampamentos/2019/Grito.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
 ---
 

@@ -4,6 +4,7 @@
 
 - **Participante:**
     - 2017 [Dá Tudo Xauzinho](../../Acampamentos/2017/D%C3%A1%20Tudo%20Xauzinho.md)
+    - 2019 [Grito](../../Acampamentos/2019/Grito.md)
 - **Animador(a):**
     - 2023 [Atira-te](../../Acampamentos/2023/Atira-te.md) - [Animador(a) de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2023 [180 Já Contenta](../../Acampamentos/2023/180%20J%C3%A1%20Contenta.md) - [Animador(a) Livre](../../Cargos/Animador%20Livre.md)

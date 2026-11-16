@@ -5,6 +5,7 @@
 - **Participante:**
     - 2012 [Clávis](../../Acampamentos/2012/Cl%C3%A1vis.md)
     - 2018 [Descola](../../Acampamentos/2018/Descola%20%282018%29.md)
+    - 2019 [Grito](../../Acampamentos/2019/Grito.md)
 - **Animador(a):**
     - 2021 [Vesp'á Luz](../../Acampamentos/2021/Vesp%27%C3%A1%20Luz.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2022 [P'la Tua Mão](../../Acampamentos/2022/P%27la%20Tua%20M%C3%A3o.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)

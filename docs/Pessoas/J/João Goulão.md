@@ -13,6 +13,7 @@
     - 2009 [Lembras-te?](../../Acampamentos/2009/Lembras-te.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2010 [Ed mais 10](../../Acampamentos/2010/Ed%20mais%2010.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
     - 2012 [Sarcófago](../../Acampamentos/2012/Sarc%C3%B3fago.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
+    - 2019 [Grito](../../Acampamentos/2019/Grito.md) - [Capelão](../../Cargos/Capel%C3%A3o.md)
 
 ---
 
