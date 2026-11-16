@@ -8,6 +8,7 @@
     - 2013 [Fairplay](../../Acampamentos/2013/Fairplay.md)
     - 2014 [#SóMeFalt’Aurélia](../../Acampamentos/2014/S%C3%B3MeFalt%E2%80%99Aur%C3%A9lia.md) - [Director](../../Cargos/Director.md)
     - 2015 [Mergulha](../../Acampamentos/2015/Mergulha.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
+    - 2016 [PáquiPáli](../../Acampamentos/2016/P%C3%A1quiP%C3%A1li.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
 
 ---
 

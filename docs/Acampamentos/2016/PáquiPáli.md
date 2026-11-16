@@ -1,10 +1,17 @@
 # PáquiPáli
 
-**PáquiPáli** foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) realizado em 2016. O tema do ano foi *Já estavas à minha espera*.
+**PáquiPáli** foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) realizado em 2016, de 17 a 26 de agosto, em Serpins. O tema do ano foi *Já estavas à minha espera*.
 
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Rafael Carecho](../../Pessoas/R/Rafael%20Carecho.md)
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Paulo Duarte](../../Pessoas/P/Paulo%20Duarte.md) sj
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Ricardo Batista Dias](../../Pessoas/R/Ricardo%20Batista%20Dias.md) sj
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [Madalena Saraiva](../../Pessoas/M/Madalena%20Saraiva.md)
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Miguel Falcão Ramos](../../Pessoas/M/Miguel%20Falc%C3%A3o%20Ramos.md)
+- [Tia](../../Cargos/Tio.md) - Catarina Cardoso
+- [Tia](../../Cargos/Tio.md) - Luísa Ribeiro
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [António Portugal](../../Pessoas/A/Ant%C3%B3nio%20Portugal.md), [Maria do Carmo Guedes](../../Pessoas/M/Maria%20do%20Carmo%20Guedes.md), Marcos Barroso, [Carolina Oliveira](../../Pessoas/C/Carolina%20Oliveira.md), Tomás Carneiro e [Francisco Costa](../../Pessoas/F/Francisco%20Costa.md)
 
 ---
 
