@@ -9,7 +9,7 @@ O Origami foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) que
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Sílvio Gonçalves](../../Pessoas/S/S%C3%ADlvio%20Gon%C3%A7alves.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Perrú](../../Pessoas/P/Pedro%20Rocha%20Mendes.md) sj
 - [Tios](../../Cargos/Tio.md) - [Joana Ferreira](../../Pessoas/J/Joana%20Ferreira.md) e [Telmo Teixeira](../../Pessoas/T/Telmo%20Teixeira.md)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Duarte Dias](../../Pessoas/D/Duarte%20Dias.md), [Rita Luís](../../Pessoas/R/Rita%20Lu%C3%ADs.md) e [João Quintela](../../Pessoas/J/Jo%C3%A3o%20Quintela.md)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Duarte Nuno Dias](../../Pessoas/D/Duarte%20Nuno%20Dias.md), [Rita Luís](../../Pessoas/R/Rita%20Lu%C3%ADs.md) e [João Quintela](../../Pessoas/J/Jo%C3%A3o%20Quintela.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Eduardo Lima](../../Pessoas/E/Eduardo%20Lima.md), [Susana Vaz Pedro](../../Pessoas/S/Susana%20Vaz%20Pedro.md), [Joaquim Abreu](../../Pessoas/J/Joaquim%20Abreu.md), [Vítor Leite](../../Pessoas/V/V%C3%ADtor%20Leite.md), [Sofia Amaral](../../Pessoas/S/Sofia%20Amaral.md), [Mafalda Pereira](../../Pessoas/M/Mafalda%20Pereira.md) e [Pedro Lucas](../../Pessoas/P/Pedro%20Lucas.md)
 
 ---

@@ -63,7 +63,7 @@ O encontro, da responsabilidade da [Direcção Nacional](../Categorias/Direc%C3%
 ### INA
 
 - [Carlos Miguel Albuquerque](../Pessoas/C/Carlos%20Miguel%20Albuquerque.md)
-- [Duarte Dias](../Pessoas/D/Duarte%20Dias.md)
+- [Duarte Nuno Dias](../Pessoas/D/Duarte%20Nuno%20Dias.md)
 - [Vítor Fernandes](../Pessoas/V/V%C3%ADtor%20Fernandes.md)
 - [Joaquim Abreu](../Pessoas/J/Joaquim%20Abreu.md)
 - [Miguel Machado](../Pessoas/M/Miguel%20Machado.md)

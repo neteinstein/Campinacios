@@ -20,6 +20,7 @@
 - [Carolina Picciochi](../../Pessoas/C/Carolina%20Picciochi.md)
 - [Chico Silva](../../Pessoas/C/Chico%20Silva.md)
 - [David Bandeira](../../Pessoas/D/David%20Bandeira.md)
+- [Duarte Dias](../../Pessoas/D/Duarte%20Dias.md)
 - [Francisco Carneiro](../../Pessoas/F/Francisco%20Carneiro.md)
 - [Francisco Dioniz Barroso Loureiro](../../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
 - [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)

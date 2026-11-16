@@ -11,7 +11,7 @@ O Entre ASPAS decorreu entre os dias 5 a 14 de Agosto de 2008 na [Quinta da Mata
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Paulo Duarte](../../Pessoas/P/Paulo%20Duarte.md) sj e [Missé](../../Pessoas/M/Miguel%20Melo.md) sj
 - [Tias](../../Cargos/Tio.md) - [Juliana Fernandes](../../Pessoas/J/Juliana%20Fernandes.md) e [Patrícia Lima](../../Pessoas/P/Patr%C3%ADcia%20Lima.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [António Amaral](../../Pessoas/A/Ant%C3%B3nio%20Amaral.md) e [Vasco Vasconcelos](../../Pessoas/V/Vasco%20Vasconcelos.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Ana Martins](../../Pessoas/A/Ana%20Martins.md), [Inês Amorim](../../Pessoas/I/In%C3%AAs%20Amorim.md), [Mariana Franco](../../Pessoas/M/Mariana%20Franco.md), [Rita Luís](../../Pessoas/R/Rita%20Lu%C3%ADs.md), [Diogo Costa](../../Pessoas/D/Diogo%20Costa.md) e [Duarte Dias](../../Pessoas/D/Duarte%20Dias.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Ana Martins](../../Pessoas/A/Ana%20Martins.md), [Inês Amorim](../../Pessoas/I/In%C3%AAs%20Amorim.md), [Mariana Franco](../../Pessoas/M/Mariana%20Franco.md), [Rita Luís](../../Pessoas/R/Rita%20Lu%C3%ADs.md), [Diogo Costa](../../Pessoas/D/Diogo%20Costa.md) e [Duarte Nuno Dias](../../Pessoas/D/Duarte%20Nuno%20Dias.md)
 
 ## Participantes que se tornaram animadores
 

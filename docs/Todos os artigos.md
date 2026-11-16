@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1435 artigos e, em itálico, os 297 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1436 artigos e, em itálico, os 297 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -426,7 +426,9 @@
 - [Diogo Vasconcelos](Pessoas/D/Diogo%20Vasconcelos.md)
 - [Dornelas (Braga)](Restrito/Locais%20de%20Acampamento/Dornelas%20%28Braga%29.md) 🔒
 - *Dré* → [André Teixeira](Pessoas/A/Andr%C3%A9%20Teixeira.md)
+- [Duarte Dias](Pessoas/D/Duarte%20Dias.md)
 - [Duarte Farelo](Pessoas/D/Duarte%20Farelo.md)
+- [Duarte Nuno Dias](Pessoas/D/Duarte%20Nuno%20Dias.md)
 - [Duarte Pinto](Pessoas/D/Duarte%20Pinto.md)
 - [Duarte Ribeiro](Pessoas/D/Duarte%20Ribeiro.md)
 - [Duarte Soares](Pessoas/D/Duarte%20Soares.md)
@@ -480,7 +482,6 @@
 - [Domingos Freitas](Pessoas/D/Domingos%20Freitas.md)
 - [Domingos Perloiro](Pessoas/D/Domingos%20Perloiro.md)
 - [Du](Pessoas/D/Du.md)
-- [Duarte Dias](Pessoas/D/Duarte%20Dias.md)
 - [Duarte Nifo](Pessoas/D/Duarte%20Nifo.md)
 - [Duarte Rosado](Pessoas/D/Duarte%20Rosado.md)
 - *Dudu Ribeiro* → [Duarte Ribeiro](Pessoas/D/Duarte%20Ribeiro.md)

@@ -94,7 +94,7 @@
 - [Diogo Rêgo](../Pessoas/D/Diogo%20R%C3%AAgo.md)
 - [Diogo Romão](../Pessoas/D/Diogo%20Rom%C3%A3o.md)
 - [Domingos Freire de Andrade](../Pessoas/D/Domingos%20Freire%20de%20Andrade.md)
-- [Duarte Dias](../Pessoas/D/Duarte%20Dias.md)
+- [Duarte Nuno Dias](../Pessoas/D/Duarte%20Nuno%20Dias.md)
 - [Duarte Pinto](../Pessoas/D/Duarte%20Pinto.md)
 - [Duarte Soares](../Pessoas/D/Duarte%20Soares.md)
 - [Eduardo Almeida](../Pessoas/E/Eduardo%20Almeida.md)

@@ -9,7 +9,7 @@ Animadores dos Campinácios
 - [Animadores do CSJB](Animadores%20do%20CSJB.md)
 - [Jesuítas](Jesu%C3%ADtas.md)
 
-## Páginas nesta categoria (926)
+## Páginas nesta categoria (927)
 
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
 - [Adriana Gil](../Pessoas/A/Adriana%20Gil.md)
@@ -235,6 +235,7 @@ Animadores dos Campinácios
 - [Du](../Pessoas/D/Du.md)
 - [Duarte Dias](../Pessoas/D/Duarte%20Dias.md)
 - [Duarte Farelo](../Pessoas/D/Duarte%20Farelo.md)
+- [Duarte Nuno Dias](../Pessoas/D/Duarte%20Nuno%20Dias.md)
 - [Duarte Pinto](../Pessoas/D/Duarte%20Pinto.md)
 - [Duarte Ribeiro](../Pessoas/D/Duarte%20Ribeiro.md)
 - [Duarte Soares](../Pessoas/D/Duarte%20Soares.md)

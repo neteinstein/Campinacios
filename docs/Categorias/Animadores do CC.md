@@ -59,7 +59,7 @@ Animadores do Colégio das Caldinhas
 - [Diogo Costa](../Pessoas/D/Diogo%20Costa.md)
 - [Diogo José Nunes Carneiro](../Pessoas/D/Diogo%20Jos%C3%A9%20Nunes%20Carneiro.md)
 - [Diogo José Oliveira Cerejeira Carneiro](../Pessoas/D/Diogo%20Jos%C3%A9%20Oliveira%20Cerejeira%20Carneiro.md)
-- [Duarte Dias](../Pessoas/D/Duarte%20Dias.md)
+- [Duarte Nuno Dias](../Pessoas/D/Duarte%20Nuno%20Dias.md)
 - [Eduardo](../Pessoas/E/Eduardo.md)
 - [Eduardo Almeida](../Pessoas/E/Eduardo%20Almeida.md)
 - [Eduardo Lima](../Pessoas/E/Eduardo%20Lima.md)
