@@ -3,6 +3,7 @@
 ### Acampamentos
 
 - **Animador(a):**
+    - 2015 [Jásinto](../../Acampamentos/2015/J%C3%A1sinto.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2017 [Salvo Sejas](../../Acampamentos/2017/Salvo%20Sejas.md) - [Animador(a) Livre](../../Cargos/Animador%20Livre.md)
     - 2019 [Auquincaminha](../../Acampamentos/2019/Auquincaminha.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2021 [Prega Fundo](../../Acampamentos/2021/Prega%20Fundo.md) - [Mamã](../../Cargos/Mam%C3%A3.md)

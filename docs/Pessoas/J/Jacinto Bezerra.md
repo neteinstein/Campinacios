@@ -25,6 +25,7 @@ Jacinto Bezerra, é animador do CC desde 2003.
     - 2009 [Talithá Kum](../../Acampamentos/2009/Talith%C3%A1%20Kum.md) - [Director Adjunto](../../Cargos/Director-Adjunto.md)
     - 2010 [Walkabout](../../Acampamentos/2010/Walkabout.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2011 [Pedra Sobre Pedra](../../Acampamentos/2011/Pedra%20Sobre%20Pedra.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
+    - 2015 [Jásinto](../../Acampamentos/2015/J%C3%A1sinto.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
 
 ### Encontros
 

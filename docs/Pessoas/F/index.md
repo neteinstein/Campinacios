@@ -45,6 +45,7 @@
 - [Francisco Carvalho](Francisco%20Carvalho.md)
 - [Francisco Cassiano](Francisco%20Cassiano.md)
 - [Francisco Cortês Ferreira](Francisco%20Cort%C3%AAs%20Ferreira.md)
+- [Francisco Costa](Francisco%20Costa.md)
 - [Francisco Costa Macedo](Francisco%20Costa%20Macedo.md)
 - [Francisco Cunha e Carmo](Francisco%20Cunha%20e%20Carmo.md)
 - [Francisco Dioniz Barroso Loureiro](Francisco%20Dioniz%20Barroso%20Loureiro.md)

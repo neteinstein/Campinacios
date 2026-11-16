@@ -20,6 +20,7 @@
     - 2009 [Iháquesermais](../../Acampamentos/2009/Ih%C3%A1quesermais.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2011 [Ara](../../Acampamentos/2011/Ara.md) - [Tia](../../Cargos/Tio.md)
     - 2015 [Someonelfie](../../Acampamentos/2015/Someonelfie.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
+    - 2015 [Jásinto](../../Acampamentos/2015/J%C3%A1sinto.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
 ### Testemunho
 

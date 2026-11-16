@@ -1,5 +1,7 @@
 # Francisco Costa Macedo
 
+*Nota: Este artigo é sobre Francisco Costa Macedo, animador em 1991, 1993 e 1994. Se procura Francisco Costa, animador a partir de 2014, consulte [Francisco Costa](../F/Francisco%20Costa.md).*
+
 Francisco Costa Macedo foi um animador do CSJB. Foi também jesuíta.
 
 ## Família

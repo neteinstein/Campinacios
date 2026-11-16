@@ -3,6 +3,7 @@
 ### Acampamentos
 
 - **Animadora**
+    - 2015 [Jásinto](../../Acampamentos/2015/J%C3%A1sinto.md) - [Tia](../../Cargos/Tio.md)
     - 2017 [Dá Tudo Xauzinho](../../Acampamentos/2017/D%C3%A1%20Tudo%20Xauzinho.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
 
 ---

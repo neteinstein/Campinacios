@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1432 artigos e, em itálico, os 293 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1434 artigos e, em itálico, os 293 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -584,6 +584,7 @@
 - *Francisco Caetano Silva* → [Chico Silva](Pessoas/C/Chico%20Silva.md)
 - [Francisco Caldas](Pessoas/F/Francisco%20Caldas.md)
 - [Francisco Cassiano](Pessoas/F/Francisco%20Cassiano.md)
+- [Francisco Costa](Pessoas/F/Francisco%20Costa.md)
 - [Francisco Cunha e Carmo](Pessoas/F/Francisco%20Cunha%20e%20Carmo.md)
 - [Fábio Simões](Pessoas/F/F%C3%A1bio%20Sim%C3%B5es.md)
 - [Fábio Teixeira](Pessoas/F/F%C3%A1bio%20Teixeira.md)
@@ -1125,6 +1126,7 @@
 - [Maria Amorosa Lopes](Pessoas/M/Maria%20Amorosa%20Lopes.md)
 - [Maria Carvalho](Pessoas/M/Maria%20Carvalho.md)
 - [Maria Cunhal](Pessoas/M/Maria%20Cunhal.md)
+- [Maria do Carmo Guedes](Pessoas/M/Maria%20do%20Carmo%20Guedes.md)
 - [Maria do Carmo Ribeiro](Pessoas/M/Maria%20do%20Carmo%20Ribeiro.md)
 - *Maria do Carmo Castel Branco* → [Maria do Carmo Ribeiro](Pessoas/M/Maria%20do%20Carmo%20Ribeiro.md)
 - [Maria Dória](Pessoas/M/Maria%20D%C3%B3ria.md)
