@@ -2,6 +2,8 @@
 
 ### Acampamentos
 
+- **Formação:**
+    - 2022 [Antestreia](../../Acampamentos/2022/Antestreia.md)
 - **Animador(a):**
     - 2022 [À Grande e à Francesa](../../Acampamentos/2022/%C3%80%20Grande%20e%20%C3%A0%20Francesa.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2023 [Cibicleta Como És](../../Acampamentos/2023/Cibicleta%20Como%20%C3%89s.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)

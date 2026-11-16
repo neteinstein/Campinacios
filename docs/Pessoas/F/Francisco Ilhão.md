@@ -2,6 +2,8 @@
 
 ### Acampamentos
 
+- **Formação:**
+    - 2022 [Antestreia](../../Acampamentos/2022/Antestreia.md)
 - **Animador(a):**
     - 2022 [À Grande e à Francesa](../../Acampamentos/2022/%C3%80%20Grande%20e%20%C3%A0%20Francesa.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2023 [Perc'Urso](../../Acampamentos/2023/Perc%27Urso.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)

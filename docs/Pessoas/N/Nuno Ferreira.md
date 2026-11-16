@@ -19,7 +19,7 @@ Nuno Ferreira é animador do [CSJB](../../Categorias/Animadores%20do%20CSJB.md).
     - 2018 [Zimbora Lá para fora](../../Acampamentos/2018/Zimbora%20L%C3%A1%20para%20fora.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2019 [Viv'O Segredo](../../Acampamentos/2019/Viv%27O%20Segredo.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2021 [Expresso 3 B](../../Acampamentos/2021/Expresso%203%20B.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
-    - 2022 [Antestreia](../../Acampamentos/2022/Antestreia.md)
+    - 2022 [Antestreia](../../Acampamentos/2022/Antestreia.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2023 [A Partir](../../Acampamentos/2023/A%20Partir.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2023 [180 Já Contenta](../../Acampamentos/2023/180%20J%C3%A1%20Contenta.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2024 [Barracada](../../Acampamentos/2024/Barracada.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
