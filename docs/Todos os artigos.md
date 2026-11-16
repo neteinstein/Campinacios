@@ -1,6 +1,6 @@
 # Todos os artigos
 
-1434 artigos e, em itálico, os 294 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
+1434 artigos e, em itálico, os 296 nomes alternativos que apontam para eles, como na página especial "Todas as páginas" da wiki. As páginas marcadas com 🔒 são restritas.
 
 ## A
 
@@ -1762,7 +1762,9 @@
 - *Vila Verde* → [Vila Verde (Braga)](Restrito/Locais%20de%20Acampamento/Vila%20Verde%20%28Braga%29.md) 🔒
 - [Vila Verde (Braga)](Restrito/Locais%20de%20Acampamento/Vila%20Verde%20%28Braga%29.md) 🔒
 - [Vira a Página](Acampamentos/2018/Vira%20a%20P%C3%A1gina.md)
-- [Virgílio](Pessoas/V/Virg%C3%ADlio.md)
+- *Virgílio* → [Virgílio Oliveira e Costa](Pessoas/V/Virg%C3%ADlio%20Oliveira%20e%20Costa.md)
+- *Virgílio Costa* → [Virgílio Oliveira e Costa](Pessoas/V/Virg%C3%ADlio%20Oliveira%20e%20Costa.md)
+- [Virgílio Oliveira e Costa](Pessoas/V/Virg%C3%ADlio%20Oliveira%20e%20Costa.md)
 - *Vitor Fernandes* → [Vítor Fernandes](Pessoas/V/V%C3%ADtor%20Fernandes.md)
 - [Vítor Lamosa](Pessoas/V/V%C3%ADtor%20Lamosa.md)
 - *Vitor Leite* → [Vítor Leite](Pessoas/V/V%C3%ADtor%20Leite.md)

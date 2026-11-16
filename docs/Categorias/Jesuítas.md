@@ -2,7 +2,7 @@
 
 Jesuítas que animam ou animaram acampamentos de Campinácios
 
-## Páginas nesta categoria (87)
+## Páginas nesta categoria (88)
 
 - ["Para Educar Melhor - Campos de férias inacianos"](../Movimento/Para%20Educar%20Melhor%20-%20Campos%20de%20f%C3%A9rias%20inacianos.md)
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
@@ -91,6 +91,7 @@ Jesuítas que animam ou animaram acampamentos de Campinácios
 - [Vasco Lucas Pires](../Pessoas/V/Vasco%20Lucas%20Pires.md)
 - [Vasco Teixeira](../Pessoas/V/Vasco%20Teixeira.md)
 - [Vicente Goes](../Pessoas/V/Vicente%20Goes.md)
+- [Virgílio Oliveira e Costa](../Pessoas/V/Virg%C3%ADlio%20Oliveira%20e%20Costa.md)
 
 ---
 

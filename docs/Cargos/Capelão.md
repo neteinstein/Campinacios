@@ -101,7 +101,7 @@
 - [Vasco Teixeira](../Pessoas/V/Vasco%20Teixeira.md)
 - [Vasco Themudo](../Pessoas/V/Vasco%20Themudo.md)
 - [Vicente Goes](../Pessoas/V/Vicente%20Goes.md)
-- [Virgílio](../Pessoas/V/Virg%C3%ADlio.md)
+- [Virgílio Oliveira e Costa](../Pessoas/V/Virg%C3%ADlio%20Oliveira%20e%20Costa.md)
 - [Zeca Lima](../Pessoas/Z/Zeca%20Lima.md)
 
 ---
