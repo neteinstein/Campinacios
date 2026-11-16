@@ -2,6 +2,8 @@
 
 ### Acampamentos
 
+- **Participante:**
+    - 2022 [EmCena](../../Acampamentos/2022/EmCena.md)
 - **Formação:**
     - 2023 [Parte de Ti](../../Acampamentos/2023/Parte%20de%20Ti.md)
 - **Animador(a):**

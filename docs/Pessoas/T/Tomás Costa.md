@@ -3,6 +3,7 @@
 ### Acampamentos
 
 - **Participante:**
+    - 2015 [Encontrei-te](../../Acampamentos/2015/Encontrei-te.md)
     - 2016 [TásCá](../../Acampamentos/2016/T%C3%A1sC%C3%A1.md)
     - 2018 [Descola](../../Acampamentos/2018/Descola%20%282018%29.md)
 - **Animador(a):**

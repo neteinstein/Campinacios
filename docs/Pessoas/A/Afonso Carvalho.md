@@ -2,6 +2,8 @@
 
 ### Acampamentos
 
+- **Participante:**
+    - 2018 [Codex 0018](../../Acampamentos/2018/Codex%200018.md)
 - **Formação:**
     - 2022 [Antestreia](../../Acampamentos/2022/Antestreia.md)
 - **Animador(a):**

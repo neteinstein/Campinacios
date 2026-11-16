@@ -15,6 +15,7 @@
     - 2012 [Raio Part'ós Ninjas](../../Acampamentos/2012/Raio%20Part%27%C3%B3s%20Ninjas.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2015 [Someonelfie](../../Acampamentos/2015/Someonelfie.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2016 [Quemtesegura](../../Acampamentos/2016/Quemtesegura.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
+    - 2018 [Codex 0018](../../Acampamentos/2018/Codex%200018.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
 ### Encontros
 

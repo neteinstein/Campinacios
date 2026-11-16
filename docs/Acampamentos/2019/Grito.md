@@ -10,6 +10,7 @@
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Heitor Rosa](../../Pessoas/H/Heitor%20Rosa.md) e [Vera Pina](../../Pessoas/V/Vera%20Pina.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [João Goulão](../../Pessoas/J/Jo%C3%A3o%20Goul%C3%A3o.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Ricardo Batista Dias](../../Pessoas/R/Ricardo%20Batista%20Dias.md) sj
+- [Animadores](../../Categorias/Animadores.md) - Teresa Calheiros de Sá e [Francisco Caldas](../../Pessoas/F/Francisco%20Caldas.md)
 
 ## Participantes que se tornaram animadores
 

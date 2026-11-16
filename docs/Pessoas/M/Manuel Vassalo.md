@@ -6,6 +6,8 @@
 
 ### Acampamentos
 
+- **Participante:**
+    - 2019 [Grito](../../Acampamentos/2019/Grito.md)
 - **Animador(a):**
     - 2022 [Antestreia](../../Acampamentos/2022/Antestreia.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2023 [Perc'Urso](../../Acampamentos/2023/Perc%27Urso.md) - [Animador(a) de Equipa](../../Cargos/Animador%20de%20Equipa.md)
