@@ -22,6 +22,7 @@
 - ... **[João Paulo Moinhos](Pessoas/J/Jo%C3%A3o%20Paulo%20Moinhos.md)** foi Coordenador da [Direcção Local do CC](Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CC.md) e membro da [Direcção Nacional](Categorias/Direc%C3%A7%C3%A3o%20Nacional.md) durante nove anos seguidos (2001 a 2010), o mandato mais longo de que há registo?
 - ... **[Ana Paula Sampaio](Pessoas/A/Ana%20Paula%20Sampaio.md)** é a pessoa que ocupou mais cargos diferentes em acampamentos (seis, entre 2007 e 2013): [Animadora de Equipa](Cargos/Animador%20de%20Equipa.md), [Directora-Adjunta](Cargos/Director-Adjunto.md), [Directora](Cargos/Director.md), [Mamã](Cargos/Mam%C3%A3.md), [Capelinha](Cargos/Capelinho.md) e [Animadora Livre](Cargos/Animador%20Livre.md)?
 - ... em **2020** foi o único ano, desde 1989, sem acampamentos, por causa da pandemia? O tema do ano foi *Viver Agradecido* e houve apenas actividades nos colégios.
+- ... só existiram dois acampamentos com o nome **Descola**? O primeiro foi em [2004](Acampamentos/2004/Descola.md), de Bicicletas, e o segundo em [2018](Acampamentos/2018/Descola%20%282018%29.md), de Lambretas.
 
 **Recordes por cargo:**
 
