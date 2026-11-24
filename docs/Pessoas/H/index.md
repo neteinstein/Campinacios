@@ -14,4 +14,5 @@
 - [Hugo Ferreira](Hugo%20Ferreira.md)
 - [Hugo Pereira](Hugo%20Pereira.md)
 - [Hugo Rafael Ferreira](Hugo%20Rafael%20Ferreira.md)
+- [Hugo Reis](Hugo%20Reis.md)
 - [Hugo Silva](Hugo%20Silva.md)

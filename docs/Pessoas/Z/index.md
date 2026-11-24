@@ -4,5 +4,6 @@
 - [Zé Martins](Z%C3%A9%20Martins.md)
 - [Zé Pedro Carneiro](Z%C3%A9%20Pedro%20Carneiro.md)
 - [Zé Reis](Z%C3%A9%20Reis.md)
+- [Zé Rui Santos](Z%C3%A9%20Rui%20Santos.md)
 - [Zeca Lima](Zeca%20Lima.md)
 - [Zélia Ferreira](Z%C3%A9lia%20Ferreira.md)

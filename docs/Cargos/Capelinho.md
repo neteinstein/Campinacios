@@ -13,10 +13,12 @@
 - [Diogo Martins](../Pessoas/D/Diogo%20Martins.md)
 - [Filipe Noronha](../Pessoas/F/Filipe%20Noronha.md)
 - [Gonçalo Machado](../Pessoas/G/Gon%C3%A7alo%20Machado.md)
+- [Luís Palha](../Pessoas/L/Lu%C3%ADs%20Palha.md)
 - [Manuel Sérvulo Rodrigues](../Pessoas/M/Manuel%20S%C3%A9rvulo%20Rodrigues.md)
 - [Pedro Silva](../Pessoas/P/Pedro%20Silva.md)
 - [Rafael Rebordão](../Pessoas/R/Rafael%20Rebord%C3%A3o.md)
 - [Ricardo Batista Dias](../Pessoas/R/Ricardo%20Batista%20Dias.md)
+- [Rui Silva](../Pessoas/R/Rui%20Silva.md)
 - [Vasco Teixeira](../Pessoas/V/Vasco%20Teixeira.md)
 
 ---
