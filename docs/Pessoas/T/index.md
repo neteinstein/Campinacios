@@ -1,10 +1,10 @@
 # T
 
 - [Tachi](Tachi.md)
-- [Tareca](Tareca.md)
 - [Telma Pinto](Telma%20Pinto.md)
 - [Telmo Teixeira](Telmo%20Teixeira.md)
 - [Teresa Aguiar](Teresa%20Aguiar.md)
+- [Teresa Calheiros de Sá](Teresa%20Calheiros%20de%20S%C3%A1.md)
 - [Teresa Cannas](Teresa%20Cannas.md)
 - [Teresa Cardoso](Teresa%20Cardoso.md)
 - [Teresa Cortês Ferreira](Teresa%20Cort%C3%AAs%20Ferreira.md)

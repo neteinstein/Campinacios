@@ -7,8 +7,8 @@ O **Re-Vela-Vida** foi um acampamento de [Lambretas](../../Categorias/Lambretas.
 - [Director](../../Cargos/Director.md) - [Afonso Barrocas](../../Pessoas/A/Afonso%20Barrocas.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Bea Mesquita](../../Pessoas/B/Beatriz%20Mesquita.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Rui Duarte](../../Pessoas/R/Rui%20Duarte.md)
-- [Tias](../../Cargos/Tio.md) - Luísa Faria (Lu) e Cata Silveira
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Rita Caeiro, [Jéssica Barra](../../Pessoas/J/J%C3%A9ssica%20Barra.md), Maria Dias Rodrigues, Inês Guimarães, [Diogo Rêgo](../../Pessoas/D/Diogo%20R%C3%AAgo.md), [Lourenço Matias](../../Pessoas/L/Louren%C3%A7o%20Matias.md) (Ló) e [António Almeida](../../Pessoas/A/Ant%C3%B3nio%20Almeida.md) (Toni)
+- [Tias](../../Cargos/Tio.md) - [Luísa Faria](../../Pessoas/L/Lu%C3%ADsa%20Faria.md) (Lu) e [Cata Silveira](../../Pessoas/C/Catarina%20Silveira.md)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Rita Caeiro](../../Pessoas/R/Rita%20Caeiro.md), [Jéssica Barra](../../Pessoas/J/J%C3%A9ssica%20Barra.md), [Maria Dias Rodrigues](../../Pessoas/M/Maria%20Dias%20Rodrigues.md), [Inês Guimarães](../../Pessoas/I/In%C3%AAs%20Guimar%C3%A3es.md), [Diogo Rêgo](../../Pessoas/D/Diogo%20R%C3%AAgo.md), [Lourenço Matias](../../Pessoas/L/Louren%C3%A7o%20Matias.md) (Ló) e [António Almeida](../../Pessoas/A/Ant%C3%B3nio%20Almeida.md) (Toni)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Carvalho](../../Pessoas/C/Carlos%20Carvalho.md) sj
 - [Capelinho](../../Cargos/Capelinho.md) - [Diogo Martins](../../Pessoas/D/Diogo%20Martins.md) nsj
 

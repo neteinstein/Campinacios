@@ -2,6 +2,8 @@
 
 ### Acampamentos
 
+- **Participante:**
+    - 2019 [Grito](../../Acampamentos/2019/Grito.md)
 - **Animador(a):**
     - 2025 [PássaPorta](../../Acampamentos/2025/P%C3%A1ssaPorta.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2026 [Ca Ganda Tanga](../../Acampamentos/2026/Ca%20Ganda%20Tanga.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)

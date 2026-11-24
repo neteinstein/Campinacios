@@ -4,6 +4,8 @@ Segundo as listas de animadores do CSJB, até 2002 tinha participado em 4 acampa
 
 ### Acampamentos
 
+- **Participante:**
+    - 1989 [Mimosas 89](../../Acampamentos/1989/Mimosas%2089.md)
 - **Formação:**
     - 1993 [Faísca](../../Acampamentos/1993/Fa%C3%ADsca.md)
 - **Animador:**

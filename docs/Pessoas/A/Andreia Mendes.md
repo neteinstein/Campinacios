@@ -6,11 +6,15 @@
     - 1993 [Faísca](../../Acampamentos/1993/Fa%C3%ADsca.md)
 - **Animadora**
     - 1992 [Agroal](../../Acampamentos/1992/Agroal.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 1993 [Tabuadelas II](../../Acampamentos/1993/Tabuadelas%20II.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 1994 [Vila do Bispo II/94](../../Acampamentos/1994/Vila%20do%20Bispo%20II-94.md) - [Tia](../../Cargos/Tio.md)
     - 1997 [Aranha](../../Acampamentos/1997/Aranha.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 1998 [Calinadas](../../Acampamentos/1998/Calinadas.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
     - 1999 [Gipsy Kings](../../Acampamentos/1999/Gipsy%20Kings.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
 ---
+
+**Outros nomes:** Andreia
 
 | Categorias |
 | --- |

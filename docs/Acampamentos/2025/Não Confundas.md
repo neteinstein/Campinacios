@@ -14,8 +14,10 @@
 ## Participantes que se tornaram animadores
 
 - [Daniela Gonçalves](../../Pessoas/D/Daniela%20Gon%C3%A7alves.md)
+- [Maria Dias Rodrigues](../../Pessoas/M/Maria%20Dias%20Rodrigues.md)
 - [Matilde Carvalho](../../Pessoas/M/Matilde%20Carvalho.md)
 - [Miguel Poço](../../Pessoas/M/Miguel%20Po%C3%A7o.md)
+- [Pilar Ribeiro Corrêa](../../Pessoas/P/Pilar%20Ribeiro%20Corr%C3%AAa.md)
 - [Tiago Azevedo](../../Pessoas/T/Tiago%20Azevedo.md)
 - [Zé Guedes](../../Pessoas/Z/Z%C3%A9%20Guedes.md)
 

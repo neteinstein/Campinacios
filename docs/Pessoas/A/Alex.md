@@ -4,6 +4,8 @@ Alex (Alexandre Ferreira) aparece na lista de animadores do Colégio S. João de
 
 ### Acampamentos
 
+- **Formação:**
+    - 1993 [Faísca](../../Acampamentos/1993/Fa%C3%ADsca.md)
 - **Animador:**
     - 1993 [Tabuadelas II](../../Acampamentos/1993/Tabuadelas%20II.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2001 [Waaassuuup](../../Acampamentos/2001/Waaassuuup.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)

@@ -8,7 +8,7 @@
 - [Tia](../../Cargos/Tio.md) - [Ana Catarina Gil](../../Pessoas/A/Ana%20Catarina%20Gil.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - Ana Garcia Brito
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Miguel Santos](../../Pessoas/M/Miguel%20Santos.md)
-- [Capelão](../../Cargos/Capel%C3%A3o.md) - Fernando Ribeiro sj
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Fernando Ribeiro](../../Pessoas/F/Fernando%20Ribeiro.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [João Freire de Andrade](../../Pessoas/J/Jo%C3%A3o%20Freire%20de%20Andrade.md) (Jonifa)
 
 ---

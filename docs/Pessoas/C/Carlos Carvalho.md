@@ -6,6 +6,7 @@
 - 2008/2010  -  Membro da [Direcção Nacional](../../Categorias/Direc%C3%A7%C3%A3o%20Nacional.md)
 - 2015/2016 a 2018/2019 - [Assistente Nacional](../../Categorias/Assistentes%20Nacionais.md)
 - 2017/2018 a 2018/2019 - Assistente Local da [Direcção Local do CSJB](../../Categorias/Direc%C3%A7%C3%A3o%20Local%20do%20CSJB.md)
+- 2020/2021 a 2022/2023 - Director Pedagógico do INA ([CC](../../Movimento/CC.md))
 
 ### Acampamentos
 

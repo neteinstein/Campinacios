@@ -1,6 +1,6 @@
 # Vasco Lucas Pires
 
-Vasco Lucas Pires é do [CSJB](../../Movimento/CSJB.md).
+Vasco Lucas Pires é ex-aluno do [CSJB](../../Movimento/CSJB.md).
 
 ### Cargos
 

@@ -17,6 +17,7 @@ Este acampamento de [Trotinetas](../../Categorias/Trotinetas.md) decorreu de 20 
 - [André Gonçalves](../../Pessoas/A/Andr%C3%A9%20Gon%C3%A7alves.md)
 - [Diana Gapo](../../Pessoas/D/Diana%20Gapo.md)
 - [Eduardo Almeida](../../Pessoas/E/Eduardo%20Almeida.md)
+- [José Luís Silva](../../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Silva.md)
 - [Rui Junqueira](../../Pessoas/R/Rui%20Junqueira.md)
 
 ---

@@ -11,6 +11,7 @@ Francisco Barroso, conhecido como Dinha, é animador do CC.
     - 2022 [À Grande e à Francesa](../../Acampamentos/2022/%C3%80%20Grande%20e%20%C3%A0%20Francesa.md)
 - **Animador(a):**
     - 2025 [Repeat a História](../../Acampamentos/2025/Repeat%20a%20Hist%C3%B3ria.md) - [Animador(a) Livre](../../Cargos/Animador%20Livre.md)
+    - 2026 [Xiè-Xiè Kung Fa](../../Acampamentos/2026/Xi%C3%A8-Xi%C3%A8%20Kung%20Fa.md) - [Animador(a) Livre](../../Cargos/Animador%20Livre.md)
 
 ### Encontros
 

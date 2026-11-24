@@ -16,6 +16,8 @@
 ## Participantes que se tornaram animadores
 
 - [Francisco Cassiano](../../Pessoas/F/Francisco%20Cassiano.md)
+- [Leonor Dias](../../Pessoas/L/Leonor%20Dias.md)
+- [Sofia Antunes](../../Pessoas/S/Sofia%20Antunes.md)
 
 ---
 

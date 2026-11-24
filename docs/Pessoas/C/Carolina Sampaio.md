@@ -1,9 +1,9 @@
-# Vera
+# Carolina Sampaio
 
 ### Acampamentos
 
 - **Formação:**
-    - 1993 [Faísca](../../Acampamentos/1993/Fa%C3%ADsca.md)
+    - 2026 [Navalha-me Deus](../../Acampamentos/2026/Navalha-me%20Deus.md)
 
 ---
 

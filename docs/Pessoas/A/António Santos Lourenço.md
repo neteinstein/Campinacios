@@ -1,5 +1,7 @@
 # António Santos Lourenço
 
+António Santos Lourenço é ex-aluno do [CSJB](../../Movimento/CSJB.md).
+
 ### Acampamentos
 
 - **Animador:**

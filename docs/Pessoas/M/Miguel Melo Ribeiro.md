@@ -1,5 +1,7 @@
 # Miguel Melo Ribeiro
 
+Miguel Melo Ribeiro é ex-aluno do [CSJB](../../Movimento/CSJB.md).
+
 *Nota: Este artigo é sobre Miguel Melo Ribeiro (Migalha), animador do CSJB e jesuíta. Se procura Miguel Pedro Melo (Missé), animador do CC desde 2005, consulte [Miguel Melo](Miguel%20Melo.md).*
 
 ### Acampamentos

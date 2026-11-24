@@ -10,7 +10,7 @@
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [António Pamplona](../../Pessoas/A/Ant%C3%B3nio%20Pamplona.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Emanuel Lopes](../../Pessoas/E/Emanuel%20Lopes.md) sj
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Manuel Vasconcelos](../../Pessoas/M/Manas%20Vasconcelos.md), [Alexandre Alípio](../../Pessoas/A/Alexandre%20Al%C3%ADpio.md), [Carolina Picciochi](../../Pessoas/C/Carolina%20Picciochi.md) e [Isabel Ferraz](../../Pessoas/I/Isabel%20Ferraz.md)
-- [Tia](../../Cargos/Tio.md) - Bárbara Pimenta
+- [Tia](../../Cargos/Tio.md) - [Bárbara Pimenta](../../Pessoas/B/B%C3%A1rbara%20Pimenta.md)
 
 ## Participantes que se tornaram animadores
 

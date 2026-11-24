@@ -1,5 +1,7 @@
 # Teresa Sá
 
+*Nota: Este artigo é sobre Teresa Sá (Teresa Cunha e Sá), Mamã do Auquincaminha e do Prega Fundo. Se procura Teresa Calheiros de Sá, animadora do CAIC, consulte [Teresa Calheiros de Sá](Teresa%20Calheiros%20de%20S%C3%A1.md).*
+
 ### Acampamentos
 
 - **Animador(a):**

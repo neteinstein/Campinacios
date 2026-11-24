@@ -18,6 +18,8 @@
 - [Carolina Morão](../../Pessoas/C/Carolina%20Mor%C3%A3o.md)
 - [Daniela Gonçalves](../../Pessoas/D/Daniela%20Gon%C3%A7alves.md)
 - [Francisco Barroso](../../Pessoas/F/Francisco%20Barroso.md)
+- [Leonor Dias](../../Pessoas/L/Leonor%20Dias.md)
+- [Maria Dias Rodrigues](../../Pessoas/M/Maria%20Dias%20Rodrigues.md)
 - [Martim Nunes](../../Pessoas/M/Martim%20Nunes.md)
 - [Matilde Carvalho](../../Pessoas/M/Matilde%20Carvalho.md)
 - [Pilar Ribeiro Corrêa](../../Pessoas/P/Pilar%20Ribeiro%20Corr%C3%AAa.md)

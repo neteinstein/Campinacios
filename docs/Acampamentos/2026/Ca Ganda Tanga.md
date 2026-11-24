@@ -8,7 +8,7 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Leonor Vala](../../Pessoas/L/Leonor%20Vala.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Francisca Crujeira](../../Pessoas/F/Francisca%20Crujeira.md)
 - [Tias](../../Cargos/Tio.md) - [Mariana Ramalho](../../Pessoas/M/Mariana%20Ramalho.md) e [Rita Ventura](../../Pessoas/R/Rita%20Ventura.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Francisca Neves](../../Pessoas/F/Francisca%20Neves.md), [Pablo Fernandes](../../Pessoas/P/Pablo%20Fernandes.md), [Matilde Pereira](../../Pessoas/M/Matilde%20Pereira.md) (Matchi), [Sofia Silva](../../Pessoas/S/Sofia%20Silva.md), [Matilde Carvalho](../../Pessoas/M/Matilde%20Carvalho.md), Sofia Antunes e Diogo Simões Pereira (Didas)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Francisca Neves](../../Pessoas/F/Francisca%20Neves.md), [Pablo Fernandes](../../Pessoas/P/Pablo%20Fernandes.md), [Matilde Pereira](../../Pessoas/M/Matilde%20Pereira.md) (Matchi), [Sofia Silva](../../Pessoas/S/Sofia%20Silva.md), [Matilde Carvalho](../../Pessoas/M/Matilde%20Carvalho.md), [Sofia Antunes](../../Pessoas/S/Sofia%20Antunes.md) e [Diogo Simões Pereira](../../Pessoas/D/Diogo%20Sim%C3%B5es%20Pereira.md) (Didas)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Francisco Ilhão](../../Pessoas/F/Francisco%20Ilh%C3%A3o.md), [Duarte Soares](../../Pessoas/D/Duarte%20Soares.md), [Ariana Couto](../../Pessoas/A/Ariana%20Couto.md) e [António Neves](../../Pessoas/A/Ant%C3%B3nio%20Neves.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Miguel Melo Ribeiro](../../Pessoas/M/Miguel%20Melo%20Ribeiro.md) sj
 

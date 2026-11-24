@@ -2,7 +2,7 @@
 
 Páginas de desambiguação
 
-## Páginas nesta categoria (11)
+## Páginas nesta categoria (12)
 
 - [Diogo Carneiro](../Movimento/Desambigua%C3%A7%C3%A3o/Diogo%20Carneiro.md)
 - [Edu](../Movimento/Desambigua%C3%A7%C3%A3o/Edu.md)
@@ -11,6 +11,7 @@ Páginas de desambiguação
 - [Francisco Silva](../Movimento/Desambigua%C3%A7%C3%A3o/Francisco%20Silva.md)
 - [Gonçalo Carvalho](../Movimento/Desambigua%C3%A7%C3%A3o/Gon%C3%A7alo%20Carvalho.md)
 - [Joana Ferreira](../Movimento/Desambigua%C3%A7%C3%A3o/Joana%20Ferreira.md)
+- [Joana Silva](../Movimento/Desambigua%C3%A7%C3%A3o/Joana%20Silva.md)
 - [José Fernandes](../Movimento/Desambigua%C3%A7%C3%A3o/Jos%C3%A9%20Fernandes.md)
 - [José Ferreira](../Movimento/Desambigua%C3%A7%C3%A3o/Jos%C3%A9%20Ferreira.md)
 - [Miguel Martins](../Movimento/Desambigua%C3%A7%C3%A3o/Miguel%20Martins.md)

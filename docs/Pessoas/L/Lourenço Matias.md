@@ -8,8 +8,8 @@
     - 2024 [ParTijolo](../../Acampamentos/2024/ParTijolo.md)
 - **Animador(a):**
     - 2024 [Com Capricho](../../Acampamentos/2024/Com%20Capricho.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
-    - 2025 [Em Frente À'Fera](../../Acampamentos/2025/Em%20Frente%20%C3%80%27Fera.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
-    - 2026 [Re-Vela-Vida](../../Acampamentos/2026/Re-Vela-Vida.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2025 [Em Frente À'Fera](../../Acampamentos/2025/Em%20Frente%20%C3%80%27Fera.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2026 [Re-Vela-Vida](../../Acampamentos/2026/Re-Vela-Vida.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
 ### Encontros
 

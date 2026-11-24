@@ -10,6 +10,7 @@
 
 - **Animador**
     - 1989 [Pedreira](../../Acampamentos/1989/Pedreira.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 1989 [Mimosas 89](../../Acampamentos/1989/Mimosas%2089.md)
     - 1990 [Caldas de S.Paulo](../../Acampamentos/1990/Caldas%20de%20S.Paulo.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 1990 [Alfa](../../Acampamentos/1990/Alfa.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 1993 [Rebordosa](../../Acampamentos/1993/Rebordosa.md) - [Director](../../Cargos/Director.md)

@@ -9,6 +9,7 @@
 - **Animador(a):**
     - 2024 [À Mesa](../../Acampamentos/2024/%C3%80%20Mesa.md) - [Animador(a) Livre](../../Cargos/Animador%20Livre.md)
     - 2025 [Sem Truques](../../Acampamentos/2025/Sem%20Truques.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
+    - 2026 [Sande Help](../../Acampamentos/2026/Sande%20Help.md) - [Animador(a) Livre](../../Cargos/Animador%20Livre.md)
 
 ---
 

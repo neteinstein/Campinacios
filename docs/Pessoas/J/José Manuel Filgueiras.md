@@ -20,6 +20,7 @@ José Manuel Filgueiras foi um dos animadores do Colégio das Caldinhas
     - Nenhum
 - **Animador:**
     - 1992 [Verim](../../Acampamentos/1992/Verim.md) - [Director](../../Cargos/Director.md)
+    - 1993 [Faísca](../../Acampamentos/1993/Fa%C3%ADsca.md)
     - 1994 [Lambretas 94](../../Acampamentos/1994/Lambretas%2094.md) - [Director](../../Cargos/Director.md)
     - 1995 [Parada](../../Acampamentos/1995/Parada.md) - [Director](../../Cargos/Director.md)
 

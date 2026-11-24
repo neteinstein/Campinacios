@@ -1,5 +1,9 @@
 # António Valério
 
+### Cargos
+
+- 2022/2026 - Director Geral do [Colégio das Caldinhas](../../Movimento/CC.md)
+
 ### Acampamentos
 
 - **Animador**
