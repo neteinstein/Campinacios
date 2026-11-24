@@ -5,12 +5,12 @@ O Waaassuuup foi um acampamento de Bicicletas que decorreu de 4 a 13 de Agosto d
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Tiago Figueira](../../Pessoas/T/Tiago%20Figueira.md)
-- [Mamã](../../Cargos/Mam%C3%A3.md) - Kiki
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [Kiki](../../Pessoas/M/Maria%20Cristina%20Leal.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Gonçalo Belo](../../Pessoas/G/Gon%C3%A7alo%20Belo.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Hermínio Vitorino](../../Pessoas/H/Herm%C3%ADnio%20Vitorino.md) sj
 - [Tios](../../Cargos/Tio.md) - [Joana Ferreira](../../Pessoas/J/Joana%20Ferreira.md) e [Ricardo Lopes](../../Pessoas/R/Ricardo%20Lopes.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [João Regueiras](../../Pessoas/J/Jo%C3%A3o%20Regueiras.md), [Gonçalo Frade](../../Pessoas/G/Gon%C3%A7alo%20Frade.md) e [Alex](../../Pessoas/A/Alex.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Bé](../../Pessoas/B/B%C3%A9.md), Simão, [Joana Nunes](../../Pessoas/J/Joana%20Nunes.md), [Rita Reis](../../Pessoas/R/Rita%20Reis.md), [João Coimbra](../../Pessoas/J/Jo%C3%A3o%20Coimbra.md) e [Marta Carneiro](../../Pessoas/M/Marta%20Carneiro.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Bé](../../Pessoas/B/B%C3%A9.md), [Simão](../../Pessoas/S/Sim%C3%A3o%20Nabais.md), [Joana Nunes](../../Pessoas/J/Joana%20Nunes.md), [Rita Reis](../../Pessoas/R/Rita%20Reis.md), [João Coimbra](../../Pessoas/J/Jo%C3%A3o%20Coimbra.md) e [Marta Carneiro](../../Pessoas/M/Marta%20Carneiro.md)
 
 ## Participantes que se tornaram animadores
 

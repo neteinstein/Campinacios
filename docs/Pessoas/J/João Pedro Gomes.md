@@ -13,6 +13,7 @@
     - 2009 [Incrível](../../Acampamentos/2009/Incr%C3%ADvel.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 2010 [Tábeeeim](../../Acampamentos/2010/T%C3%A1beeeim.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 2011 [Pescanova](../../Acampamentos/2011/Pescanova.md)
+    - 2016 [Plano B](../../Acampamentos/2016/Plano%20B.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
 ### Família
 
@@ -20,7 +21,7 @@
 
 ---
 
-**Outros nomes:** Che · Ché · João Amorim Gomes
+**Outros nomes:** Che · Ché · João Amorim Gomes · João Gomes
 
 | Categorias |
 | --- |

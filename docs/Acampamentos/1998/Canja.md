@@ -4,7 +4,7 @@
 
 - [Director](../../Cargos/Director.md) - [Luís Godinho](../../Pessoas/L/Lu%C3%ADs%20Godinho.md)
 - [Animadora Livre](../../Cargos/Animador%20Livre.md) - [Rita Maria Fernandes](../../Pessoas/R/Rita%20Maria%20Fernandes.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Maria João Costa, [António Leal](../../Pessoas/A/Ant%C3%B3nio%20Leal.md) e [Rita Reis](../../Pessoas/R/Rita%20Reis.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Maria João Costa](../../Pessoas/M/Maria%20Jo%C3%A3o%20Costa.md), [António Leal](../../Pessoas/A/Ant%C3%B3nio%20Leal.md) e [Rita Reis](../../Pessoas/R/Rita%20Reis.md)
 
 ## Participantes que se tornaram animadores
 

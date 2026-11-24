@@ -7,8 +7,8 @@
 - [Director](../../Cargos/Director.md) - [Rafaela Azevedo](../../Pessoas/R/Rafaela%20Azevedo.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Sofia Ângelo](../../Pessoas/S/Sofia%20%C3%82ngelo.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Johnny Sousa](../../Pessoas/J/Jo%C3%A3o%20Afonso%20Sousa.md)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Jaime Lucas Pires](../../Pessoas/J/Jaime%20Lucas%20Pires.md), António Jarmela, [Francisco Ilhão](../../Pessoas/F/Francisco%20Ilh%C3%A3o.md) e [Sara Guimarães](../../Pessoas/S/Sara%20Guimar%C3%A3es.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md), [Afonso Carvalho](../../Pessoas/A/Afonso%20Carvalho.md), [Benedita Rolim](../../Pessoas/B/Benedita%20Rolim.md), Carolina Simões, [Maria Cunhal](../../Pessoas/M/Maria%20Cunhal.md) (Mawi) e [Joana Silva](../../Pessoas/J/Joana%20Branco%20da%20Silva.md)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Jaime Lucas Pires](../../Pessoas/J/Jaime%20Lucas%20Pires.md), [António Jarmela](../../Pessoas/A/Ant%C3%B3nio%20Jarmela.md), [Francisco Ilhão](../../Pessoas/F/Francisco%20Ilh%C3%A3o.md) e [Sara Guimarães](../../Pessoas/S/Sara%20Guimar%C3%A3es.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md), [Afonso Carvalho](../../Pessoas/A/Afonso%20Carvalho.md), [Benedita Rolim](../../Pessoas/B/Benedita%20Rolim.md), [Carolina Simões](../../Pessoas/C/Carolina%20Sim%C3%B5es.md), [Maria Cunhal](../../Pessoas/M/Maria%20Cunhal.md) (Mawi) e [Joana Silva](../../Pessoas/J/Joana%20Branco%20da%20Silva.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Rui Fernandes](../../Pessoas/R/Rui%20Fernandes.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Gonçalo Pedrosa](../../Pessoas/G/Gon%C3%A7alo%20Pedrosa.md) sj
 - [Tia](../../Cargos/Tio.md) - [Mariana Cardim](../../Pessoas/M/Mariana%20Cardim.md)

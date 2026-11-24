@@ -1,5 +1,7 @@
 # Teresa Martinho
 
+*Nota: Este artigo é sobre Teresa Martinho, dos campos de 1994 a 1996. Se procura Teresa Martins, do Tribal (1992), consulte [Teresa Martins](Teresa%20Martins.md).*
+
 Nasceu a 15 de Abril de 1976. Segundo a lista de animadores do CAIC de 2008/2009, animou 7 campos.
 
 Teresa Martinho foi uma dos animadoras do Colégio da Imaculada Conceição. Segundo as listas de animadores do CAIC, até 2004 tinha animado 7 acampamentos.

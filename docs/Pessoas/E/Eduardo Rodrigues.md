@@ -22,8 +22,11 @@ Eduardo Rodrigues, também conhecido por Zinho, é animador do CC.
     - 1994 [Vila do Bispo II/94](../../Acampamentos/1994/Vila%20do%20Bispo%20II-94.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 1995 [Serrote](../../Acampamentos/1995/Serrote.md) - [Director](../../Cargos/Director.md)
     - 1997 [Torneira](../../Acampamentos/1997/Torneira.md) - [Director](../../Cargos/Director.md)
+    - 2001 [Shampum de Pessêgo](../../Acampamentos/2001/Shampum%20de%20Pess%C3%AAgo.md)
 
 ---
+
+**Outros nomes:** Zinho
 
 | Categorias |
 | --- |

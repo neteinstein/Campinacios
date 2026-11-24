@@ -80,7 +80,7 @@ O [Manual de Instruções](Cantin%C3%A1cio/Manual%20de%20Instru%C3%A7%C3%B5es.md
 
 ## Gravações {#gravacoes}
 
-Aqui ficam, para efeitos nostálgicos, as faixas do CD *Campinácios Unplugged*, gravado ao vivo no [Encontro Nacional 2004](../Encontros/Encontro%20Nacional%202004.md#cd-campinacios-unplugged): [João Monteiro](../Pessoas/J/Jo%C3%A3o%20Monteiro.md) (cantor e produtor), Rui Pinto (gravação) e [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) (edição).
+Aqui ficam, para efeitos nostálgicos, as faixas do CD *Campinácios Unplugged*, gravado ao vivo no [Encontro Nacional 2004](../Encontros/Encontro%20Nacional%202004.md#cd-campinacios-unplugged): [João Monteiro](../Pessoas/J/Jo%C3%A3o%20Monteiro.md) (cantor e produtor), [Miguel Pedro sj](../Pessoas/M/Miguel%20Melo.md) (cantor), Rui Pinto (gravação) e [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md) (edição).
 
 [![Capa do CD Campinácios Unplugged, de 2004: o logótipo dos Campinácios num tambor, quatro fotografias de acampamentos, silhuetas de músicos com guitarra e microfone e o título «Campinácios»](../assets/imagens/Campin%C3%A1cios%20Unplugged%20%28capa%29.jpg){ width="440" }](../assets/imagens/Campin%C3%A1cios%20Unplugged%20%28capa%29.jpg)
 [![Contracapa e capa do CD feitas pelo Zé Aves em Março de 2004: à esquerda, sobre a cara de boneco do Encontro Nacional 2004, «"campinácios unplugged" — gravado ao vivo pelo Prof. Rui Pinto — Encontro Nacional do CAIC — 20 de Março de 2004»; à direita, o logótipo sobre uma fotografia desfocada do encontro e «campinácios live in caic»](../assets/imagens/Campin%C3%A1cios%20Unplugged%20%28capa%20e%20contracapa%29.jpg){ width="440" }](../assets/imagens/Campin%C3%A1cios%20Unplugged%20%28capa%20e%20contracapa%29.jpg)

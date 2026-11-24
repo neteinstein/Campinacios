@@ -9,7 +9,7 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Jerónimo Gama](../../Pessoas/J/Jer%C3%B3nimo%20Gama.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Maria Fontes](../../Pessoas/M/Maria%20Fontes.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Francisco Campos](../../Pessoas/F/Francisco%20Campos.md) sj
-- [Animadores](../../Categorias/Animadores.md) - Ana Amado e [Pedro Rosa](../../Pessoas/P/Pedro%20Rosa.md)
+- [Animadores](../../Categorias/Animadores.md) - [Ana Amado](../../Pessoas/A/Ana%20Amado.md) e [Pedro Rosa](../../Pessoas/P/Pedro%20Rosa.md)
 
 ## Participantes que se tornaram animadores
 

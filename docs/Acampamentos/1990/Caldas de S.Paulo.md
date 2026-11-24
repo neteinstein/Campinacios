@@ -5,7 +5,7 @@ Acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que decorreu de 8 a 
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Zé Lopes](../../Pessoas/J/Jos%C3%A9%20Manuel%20Lopes.md) sj
-- [Mamã](../../Cargos/Mam%C3%A3.md) - Maria João Pinheiro
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [Maria João Pinheiro](../../Pessoas/M/Maria%20Jo%C3%A3o%20Pinheiro.md)
 - [Director Adjunto](../../Cargos/Director-Adjunto.md) - [José Marques](../../Pessoas/J/Jos%C3%A9%20Marques.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Manuel Paiva](../../Pessoas/M/Manuel%20Paiva.md) sj
 - [Tio](../../Cargos/Tio.md) - [João Pessoa](../../Pessoas/J/Jo%C3%A3o%20Pessoa.md)

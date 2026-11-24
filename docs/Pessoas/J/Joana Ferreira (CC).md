@@ -14,6 +14,7 @@ Joana Ferreira é animadora do [CC](../../Movimento/CC.md) desde 2018.
 - **Formação:**
     - 2018 [Prosopon](../../Acampamentos/2018/Prosopon.md)
 - **Animadora:**
+    - 2015 [Sai da ilha](../../Acampamentos/2015/Sai%20da%20ilha.md)
     - 2018 [Descola (2018)](../../Acampamentos/2018/Descola%20%282018%29.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
     - 2019 [Chama de Novo](../../Acampamentos/2019/Chama%20de%20Novo.md) - [Directora-Adjunta](../../Cargos/Director-Adjunto.md)
     - 2021 [Sobe d'Andar](../../Acampamentos/2021/Sobe%20d%27Andar.md) - [Directora](../../Cargos/Director.md)

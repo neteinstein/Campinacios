@@ -1,5 +1,7 @@
 # Pedro Rodrigues
 
+*Nota: Este artigo é sobre Pedro Rodrigues, dos campos de 2004 a 2005. Se procura Pedro Rodrigues (Barril), do Fiat'ársea (2014), consulte [Pedro Rodrigues (Barril)](Pedro%20Rodrigues%20%28Barril%29.md).*
+
 Nasceu a 9 de Abril de 1986.
 
 Pedro Rodrigues foi de 2004 a 2006 um dos animadores do Colégio da Imaculada Conceição.

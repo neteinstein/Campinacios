@@ -9,7 +9,7 @@ O Fornelos foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) qu
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [António Sérgio](../../Pessoas/A/Ant%C3%B3nio%20S%C3%A9rgio.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Gonçalo Eiró](../../Pessoas/G/Gon%C3%A7alo%20Eir%C3%B3.md) sj
 - [Tias](../../Cargos/Tio.md) - [Lídia Couto](../../Pessoas/L/L%C3%ADdia%20Couto.md) e Nini
-- [Animadores](../../Categorias/Animadores.md) - [Marta Vilela](../../Pessoas/M/Marta%20Vilela.md), Joana Silva, [Ana Bela](../../Pessoas/A/Ana%20Bela.md), Horácio, [Pedro Castro](../../Pessoas/P/Pedro%20Castro.md), [Michael](../../Pessoas/M/Michael.md), [Zinho](../../Pessoas/E/Eduardo%20Rodrigues.md), [Jorge Moreira](../../Pessoas/J/Jorge%20Moreira.md) sj e Rui Pedro
+- [Animadores](../../Categorias/Animadores.md) - [Marta Vilela](../../Pessoas/M/Marta%20Vilela.md), [Joana Silva](../../Pessoas/J/Joana%20Santos%20Silva.md), [Ana Bela](../../Pessoas/A/Ana%20Bela.md), Horácio, [Pedro Castro](../../Pessoas/P/Pedro%20Castro.md), [Michael](../../Pessoas/M/Michael.md), [Zinho](../../Pessoas/E/Eduardo%20Rodrigues.md), [Jorge Moreira](../../Pessoas/J/Jorge%20Moreira.md) sj e Rui Pedro
 
 ## Participantes que se tornaram animadores
 

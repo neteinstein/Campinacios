@@ -6,7 +6,7 @@
 
 - [Director](../../Cargos/Director.md) - [Afonso Oom](../../Pessoas/A/Afonso%20Oom.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Francisco Goiana da Silva](../../Pessoas/F/Francisco%20Goiana%20da%20Silva.md)
-- [Mamã](../../Cargos/Mam%C3%A3.md) - Helena Carmo
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [Helena Carmo](../../Pessoas/H/Helena%20Cunha%20e%20Carmo.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [João de Brito](../../Pessoas/J/Jo%C3%A3o%20de%20Brito.md) sj
 
 ## Participantes que se tornaram animadores

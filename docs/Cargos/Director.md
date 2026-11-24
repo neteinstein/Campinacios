@@ -138,6 +138,7 @@ Ver também o [Manual do Director](../Movimento/Manual%20do%20Director.md), com 
 - [Miguel Santos](../Pessoas/M/Miguel%20Santos.md)
 - [Miguel Teixeira](../Pessoas/M/Miguel%20Teixeira.md)
 - [Nuno Mesquita](../Pessoas/N/Nuno%20Mesquita.md)
+- [Nuno Miguel Antunes](../Pessoas/N/Nuno%20Miguel%20Antunes.md)
 - [Paula Gonçalves](../Pessoas/P/Paula%20Gon%C3%A7alves.md)
 - [Paulo Cardoso](../Pessoas/P/Paulo%20Cardoso.md)
 - [Paulo Gonçalves](../Pessoas/P/Paulo%20Gon%C3%A7alves.md)

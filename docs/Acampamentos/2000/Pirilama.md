@@ -7,9 +7,9 @@ O Pirilama foi um acampamento de [Triciclos](../../Categorias/Triciclos.md) que 
 - [Director](../../Cargos/Director.md) - [Martim Cunha Ferreira](../../Pessoas/M/Martim%20Cunha%20Ferreira.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Joana Osório](../../Pessoas/J/Joana%20Os%C3%B3rio.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Bafo](../../Pessoas/B/Bafo.md)
-- [Tia](../../Cargos/Tio.md) - Joana Santos
+- [Tia](../../Cargos/Tio.md) - [Joana Santos](../../Pessoas/J/Joana%20Santos.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Gonçalo Forte Vaz](../../Pessoas/G/Gon%C3%A7alo%20Forte%20Vaz.md), [Frederico Ferreira](../../Pessoas/F/Frederico%20Ferreira.md) e [Pedro Pinheiro](../../Pessoas/P/Pedro%20Pinheiro.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [João Rosa](../../Pessoas/J/Jo%C3%A3o%20Rosa.md), [Margarida Matias](../../Pessoas/M/Margarida%20Matias.md), Inês Ferreira, [Rui Junqueira](../../Pessoas/R/Rui%20Junqueira.md), [Juliana Silva](../../Pessoas/J/Juliana%20Silva.md) e Maria Cunha Ferreira
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [João Rosa](../../Pessoas/J/Jo%C3%A3o%20Rosa.md), [Margarida Matias](../../Pessoas/M/Margarida%20Matias.md), [Inês Ferreira](../../Pessoas/I/In%C3%AAs%20Ferreira%20%282000%29.md), [Rui Junqueira](../../Pessoas/R/Rui%20Junqueira.md), [Juliana Silva](../../Pessoas/J/Juliana%20Silva.md) e [Maria Cunha Ferreira](../../Pessoas/M/Maria%20Cunha%20Ferreira.md)
 
 ## Participantes que se tornaram animadores
 

@@ -5,11 +5,11 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Renato Lobo](../../Pessoas/R/Renato%20Lobo.md)
-- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - Henrique Amaral
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Henrique Amaral](../../Pessoas/H/Henrique%20Mota%20Amaral.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Sílvia Lobo](../../Pessoas/S/S%C3%ADlvia%20Lobo.md)
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - [Nuno Mesquita](../../Pessoas/N/Nuno%20Mesquita.md)
-- [Capelão](../../Cargos/Capel%C3%A3o.md) - Samuel Beirão sj
-- [Capelão](../../Cargos/Capel%C3%A3o.md) - Samuel Afonso sj
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Samuel Beirão](../../Pessoas/S/Samuel%20Beir%C3%A3o.md) sj
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [Samuel Afonso](../../Pessoas/S/Samuel%20Afonso.md) sj
 
 ## Participantes que se tornaram animadores
 

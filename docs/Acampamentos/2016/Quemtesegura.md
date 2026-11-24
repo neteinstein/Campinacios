@@ -9,8 +9,8 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Joana Coelho](../../Pessoas/J/Joana%20Coelho.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [José Ferreira](../../Pessoas/J/Jos%C3%A9%20Emanuel%20Ferreira.md)
 - [Tia](../../Cargos/Tio.md) - [Sofia Fernandes](../../Pessoas/S/Sofia%20Fernandes.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Tiago Silva](../../Pessoas/T/Tiago%20Silva.md), Mariana Cunha, Ana Sá, [Francisco Gomes](../../Pessoas/F/Francisco%20Gomes.md), [Madalena Pires](../../Pessoas/M/Madalena%20Pires.md), Carminho, Joaquim Garcia (Joca) e [Maria Barros](../../Pessoas/M/Maria%20Barros.md)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Pedro Fonseca](../../Pessoas/P/Pedro%20Fonseca.md) (Pê), Beatriz Borges e Virgílio Gouveia (Gigi)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Tiago Silva](../../Pessoas/T/Tiago%20Silva.md), [Mariana Cunha](../../Pessoas/M/Mariana%20Cunha.md), [Ana Sá](../../Pessoas/A/Ana%20S%C3%A1.md), [Francisco Gomes](../../Pessoas/F/Francisco%20Gomes.md), [Madalena Pires](../../Pessoas/M/Madalena%20Pires.md), Carminho, [Joaquim Garcia](../../Pessoas/J/Joaquim%20Garcia.md) (Joca) e [Maria Barros](../../Pessoas/M/Maria%20Barros.md)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Pedro Fonseca](../../Pessoas/P/Pedro%20Fonseca.md) (Pê), [Beatriz Borges](../../Pessoas/B/Beatriz%20Borges.md) e [Virgílio Gouveia](../../Pessoas/V/Virg%C3%ADlio%20Gouveia.md) (Gigi)
 
 ---
 

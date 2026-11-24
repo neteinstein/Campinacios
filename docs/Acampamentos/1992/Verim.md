@@ -8,7 +8,7 @@ Acampamento de [Lambretas](../../Categorias/Lambretas.md) que decorreu em [Verim
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Rosinha Dias Costa](../../Pessoas/R/Rosinha%20Dias%20Costa.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Miguel Nogueira](../../Pessoas/M/Miguel%20Nogueira.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Proença](../../Pessoas/L/Lu%C3%ADs%20Proen%C3%A7a.md) sj
-- [Tia](../../Cargos/Tio.md) - Manuela Silva
+- [Tia](../../Cargos/Tio.md) - [Manuela Silva](../../Pessoas/M/Manuela%20Santos%20Silva.md)
 - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Marcos Matos](../../Pessoas/M/Marcos%20Matos.md)
 
 ---

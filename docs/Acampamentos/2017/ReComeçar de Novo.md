@@ -7,7 +7,7 @@
 - [Director](../../Cargos/Director.md) - [Joana Matos](../../Pessoas/J/Joana%20Matos.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Duarte Pinto](../../Pessoas/D/Duarte%20Pinto.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Maria Líbano Monteiro](../../Pessoas/M/Maria%20L%C3%ADbano%20Monteiro.md)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Sara Moinhos](../../Pessoas/S/Sara%20Moinhos.md), [Carlota Tareco](../../Pessoas/C/Carlota%20Tareco.md), Ana Sá, Zé e Inês
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Sara Moinhos](../../Pessoas/S/Sara%20Moinhos.md), [Carlota Tareco](../../Pessoas/C/Carlota%20Tareco.md), [Ana Sá](../../Pessoas/A/Ana%20S%C3%A1.md), Zé e Inês
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Carvalho](../../Pessoas/C/Carlos%20Carvalho.md) sj
 
 ## Participantes que se tornaram animadores

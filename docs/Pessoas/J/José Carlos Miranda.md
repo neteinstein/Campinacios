@@ -2,6 +2,8 @@
 
 *Nota: Este artigo é sobre José Carlos Miranda, animador do CAIC. Se procura Carlos Miranda, jesuíta e Assistente Nacional, consulte [Carlos Miranda](../C/Carlos%20Miranda.md).*
 
+*Nota: Este artigo é sobre José Carlos Miranda, do TufarfarAway (2008). Se procura José Miranda, do Ferrugenta (1989), consulte [José Miranda](Jos%C3%A9%20Miranda.md).*
+
 José Carlos Miranda, é um dos animadores do Colégio da Imaculada Conceição.
 
 ## História dentro do movimento

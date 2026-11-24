@@ -5,7 +5,7 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Renato Lobo](../../Pessoas/R/Renato%20Lobo.md)
-- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - Paulo Cardoso
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Paulo Cardoso](../../Pessoas/P/Paulo%20Cardoso.md)
 - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Nuno Mesquita](../../Pessoas/N/Nuno%20Mesquita.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Missé](../../Pessoas/M/Miguel%20Melo.md) sj
 

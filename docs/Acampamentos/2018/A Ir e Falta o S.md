@@ -9,9 +9,9 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [João Miguel Rodrigues](../../Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Francisco Cortez](../../Pessoas/F/Francisco%20Cort%C3%AAs%20Ferreira.md) sj
 - [Tia](../../Cargos/Tio.md) - [Carolina Oliveira](../../Pessoas/C/Carolina%20Oliveira.md)
-- [Tio](../../Cargos/Tio.md) - Frederico Moraes Sarmento
+- [Tio](../../Cargos/Tio.md) - [Frederico Moraes Sarmento](../../Pessoas/F/Frederico%20Moraes%20Sarmento.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Sara Rita Sampaio](../../Pessoas/S/Sara%20Rita%20Sampaio.md), [Paulo Gonçalves](../../Pessoas/P/Paulo%20Gon%C3%A7alves.md), [Tiago Silva](../../Pessoas/T/Tiago%20Silva.md) e [Pedro Dias](../../Pessoas/P/Pedro%20Dias.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Maria Inês Andrade, Francisca Coutinho, [Catarina Silva](../../Pessoas/C/Catarina%20Silva.md), [Anita Couto](../../Pessoas/A/Anita%20Couto.md), Carolina Simões (Pipoca) e Gonçalo Silva
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Maria Inês Andrade](../../Pessoas/M/Maria%20In%C3%AAs%20Andrade.md), [Francisca Coutinho](../../Pessoas/F/Francisca%20Coutinho.md), [Catarina Silva](../../Pessoas/C/Catarina%20Silva.md), [Anita Couto](../../Pessoas/A/Anita%20Couto.md), [Carolina Simões](../../Pessoas/C/Carolina%20Sim%C3%B5es.md) (Pipoca) e [Gonçalo Silva](../../Pessoas/G/Gon%C3%A7alo%20Silva.md)
 
 ## Participantes que se tornaram animadores
 

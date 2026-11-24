@@ -1,5 +1,7 @@
 # Lúcia Ribeiro
 
+*Nota: Este artigo é sobre Lúcia Ribeiro, dos campos de 2004 a 2011. Se procura Luísa Ribeiro, do PáquiPáli (2016), consulte [Luísa Ribeiro](Lu%C3%ADsa%20Ribeiro.md).*
+
 ### Acampamentos
 
 - **Participante:**

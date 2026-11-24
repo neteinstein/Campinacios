@@ -8,7 +8,7 @@ Este acampamento de [Lambretas](../../Categorias/Lambretas.md) decorreu de 27 de
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Catarina Godinho](../../Pessoas/C/Catarina%20Godinho.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Carlos Carneiro](../../Pessoas/C/Carlos%20Carneiro.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Luís Proença](../../Pessoas/L/Lu%C3%ADs%20Proen%C3%A7a.md) sj
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Joana Silva, [Jorge Neves](../../Pessoas/J/Jorge%20Neves.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Joana Silva](../../Pessoas/J/Joana%20Santos%20Silva.md), [Jorge Neves](../../Pessoas/J/Jorge%20Neves.md)
 
 ## Participantes que se tornaram animadores
 

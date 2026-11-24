@@ -1,5 +1,7 @@
 # Ana Reis Sá
 
+*Nota: Este artigo é sobre Ana Reis Sá, dos campos de 2006 a 2013. Se procura Ana Sá, dos campos de 2016 a 2017, consulte [Ana Sá](Ana%20S%C3%A1.md).*
+
 ### Acampamentos
 
 - **Participante:**

@@ -1,5 +1,7 @@
 # Pedro Dias
 
+*Nota: Este artigo é sobre Pedro Dias, dos campos de 2015 a 2022. Se procura Pedro Dias (capelão), do Eureka (2008), consulte [Pedro Dias (capelão)](Pedro%20Dias%20%28capel%C3%A3o%29.md).*
+
 ### Acampamentos
 
 - **Animador(a):**

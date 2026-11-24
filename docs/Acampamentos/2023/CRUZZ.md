@@ -8,7 +8,7 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Mariana Cardal](../../Pessoas/M/Mariana%20Cardal.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Tomás Costa](../../Pessoas/T/Tom%C3%A1s%20Costa.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Anita Couto](../../Pessoas/A/Anita%20Couto.md), [Joana Branco da Silva](../../Pessoas/J/Joana%20Branco%20da%20Silva.md), [Leonor Silva](../../Pessoas/L/Leonor%20Silva.md), [Bernardo Moraes Sarmento](../../Pessoas/B/Bernardo%20Moraes%20Sarmento.md), [Luís Boavida](../../Pessoas/L/Lu%C3%ADs%20Boavida.md) e [Isabel Ferraz](../../Pessoas/I/Isabel%20Ferraz.md)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - Gonçalo Pinto, [Rodrigo Sousa](../../Pessoas/R/Rodrigo%20Sousa.md), [Inês Costa](../../Pessoas/I/In%C3%AAs%20Costa.md) (Costinha) e Benjamim Lucas Pires
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Gonçalo Pinto](../../Pessoas/G/Gon%C3%A7alo%20Pinto.md), [Rodrigo Sousa](../../Pessoas/R/Rodrigo%20Sousa.md), [Inês Costa](../../Pessoas/I/In%C3%AAs%20Costa.md) (Costinha) e [Benjamim Lucas Pires](../../Pessoas/B/Benjamim%20Lucas%20Pires.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Carvalho](../../Pessoas/C/Carlos%20Carvalho.md) sj
 
 ---

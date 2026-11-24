@@ -1,5 +1,7 @@
 # Mafalda Pereira
 
+*Nota: Este artigo é sobre Mafalda Pereira, dos campos de 1997 a 2008. Se procura Mafalda Ferreira, dos campos de 2016 a 2025, consulte [Mafalda Ferreira](Mafalda%20Ferreira.md).*
+
 ### Acampamentos
 
 - **Participante**
