@@ -5,7 +5,7 @@ O **Mimosas 89** foi um acampamento realizado em 1989 na casa das Mimosas, em Tr
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Carlos Azevedo Mendes](../../Pessoas/C/Carlos%20Azevedo%20Mendes.md) sj
-- [Capelão](../../Cargos/Capel%C3%A3o.md) - [João Muñoz](../../Pessoas/J/Jo%C3%A3o%20Mu%C3%B1oz.md) sj
+- [Capelão](../../Cargos/Capel%C3%A3o.md) - [João Muñoz](../../Pessoas/J/Jo%C3%A3o%20Mu%C3%B1oz.md)
 - [Animadores](../../Categorias/Animadores.md) - [Concha Líbano Monteiro](../../Pessoas/C/Concha%20L%C3%ADbano%20Monteiro.md), Luís Cabral, [Rodrigo Queiroz e Melo](../../Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md), [Carlos Ruiz](../../Pessoas/C/Carlos%20Ruiz.md), [Miguel Braga](../../Pessoas/M/Miguel%20Braga.md), Mafalda Clara, Rita Sobral, Gil D'Orey, [Cristina Cabeça](../../Pessoas/C/Cristina%20Cabe%C3%A7a.md) e Sofia Thenaisie
 
 ## Participantes que se tornaram animadores
