@@ -7,6 +7,7 @@
     - 2018 [Zimbora Lá para fora](../../Acampamentos/2018/Zimbora%20L%C3%A1%20para%20fora.md)
 - **Animadora:**
     - 2025 [PássaPorta](../../Acampamentos/2025/P%C3%A1ssaPorta.md) - [Tia](../../Cargos/Tio.md)
+    - 2026 [Re-Vela-Vida](../../Acampamentos/2026/Re-Vela-Vida.md) - [Tia](../../Cargos/Tio.md)
 
 ---
 
