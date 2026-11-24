@@ -10,21 +10,24 @@
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Heitor Rosa](../../Pessoas/H/Heitor%20Rosa.md) e [Vera Pina](../../Pessoas/V/Vera%20Pina.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [João Goulão](../../Pessoas/J/Jo%C3%A3o%20Goul%C3%A3o.md) sj
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Ricardo Batista Dias](../../Pessoas/R/Ricardo%20Batista%20Dias.md) sj
-- [Animadores](../../Categorias/Animadores.md) - Teresa Calheiros de Sá e [Francisco Caldas](../../Pessoas/F/Francisco%20Caldas.md)
+- [Animadores](../../Categorias/Animadores.md) - [Teresa Calheiros de Sá](../../Pessoas/T/Teresa%20Calheiros%20de%20S%C3%A1.md) e [Francisco Caldas](../../Pessoas/F/Francisco%20Caldas.md)
 
 ## Participantes que se tornaram animadores
 
 - [Alexandre Alípio](../../Pessoas/A/Alexandre%20Al%C3%ADpio.md)
 - [António Almeida](../../Pessoas/A/Ant%C3%B3nio%20Almeida.md)
 - [António Falacho](../../Pessoas/A/Ant%C3%B3nio%20Falacho.md)
+- [Bárbara Pimenta](../../Pessoas/B/B%C3%A1rbara%20Pimenta.md)
 - [Carolina Picciochi](../../Pessoas/C/Carolina%20Picciochi.md)
 - [Chico Silva](../../Pessoas/C/Chico%20Silva.md)
 - [David Bandeira](../../Pessoas/D/David%20Bandeira.md)
 - [Duarte Dias](../../Pessoas/D/Duarte%20Dias.md)
+- [Duarte Soares](../../Pessoas/D/Duarte%20Soares.md)
 - [Francisco Carneiro](../../Pessoas/F/Francisco%20Carneiro.md)
 - [Francisco Dioniz Barroso Loureiro](../../Pessoas/F/Francisco%20Dioniz%20Barroso%20Loureiro.md)
 - [Guilherme Balhau](../../Pessoas/G/Guilherme%20Balhau.md)
 - [Joana Antunes](../../Pessoas/J/Joana%20Antunes.md)
+- [Kiko Alves da Silva](../../Pessoas/K/Kiko%20Alves%20da%20Silva.md)
 - [Luís Boavida](../../Pessoas/L/Lu%C3%ADs%20Boavida.md)
 - [Manuel Vassalo](../../Pessoas/M/Manuel%20Vassalo.md)
 - [Rafaela Mano](../../Pessoas/R/Rafaela%20Mano.md)

@@ -9,7 +9,7 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Ana Margarida Fernandes](../../Pessoas/A/Ana%20Margarida%20Fernandes.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Samuel Beirão](../../Pessoas/S/Samuel%20Beir%C3%A3o.md) sj
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - [Nuno Mesquita](../../Pessoas/N/Nuno%20Mesquita.md)
-- [Animadores](../../Categorias/Animadores.md) - [Renato Gonçalves](../../Pessoas/R/Renato%20Gon%C3%A7alves.md), [André Oliveira](../../Pessoas/A/Andr%C3%A9%20Francisco%20Azevedo%20Oliveira.md), [Isabel Fonseca](../../Pessoas/I/Isabel%20Fonseca.md), Teresa Calheiros de Sá, [Manuel Reis](../../Pessoas/M/Manuel%20Reis.md), [Maria do Carmo Cunha e Carmo](../../Pessoas/M/Maria%20do%20Carmo%20Cunha%20e%20Carmo.md), [Diogo Salgueiro](../../Pessoas/D/Diogo%20Salgueiro.md), [Filipa Castilho](../../Pessoas/F/Filipa%20Castilho.md), [Francisco Caldas](../../Pessoas/F/Francisco%20Caldas.md) (Xixo) e [Maria Barros](../../Pessoas/M/Maria%20Barros.md)
+- [Animadores](../../Categorias/Animadores.md) - [Renato Gonçalves](../../Pessoas/R/Renato%20Gon%C3%A7alves.md), [André Oliveira](../../Pessoas/A/Andr%C3%A9%20Francisco%20Azevedo%20Oliveira.md), [Isabel Fonseca](../../Pessoas/I/Isabel%20Fonseca.md), [Teresa Calheiros de Sá](../../Pessoas/T/Teresa%20Calheiros%20de%20S%C3%A1.md), [Manuel Reis](../../Pessoas/M/Manuel%20Reis.md), [Maria do Carmo Cunha e Carmo](../../Pessoas/M/Maria%20do%20Carmo%20Cunha%20e%20Carmo.md), [Diogo Salgueiro](../../Pessoas/D/Diogo%20Salgueiro.md), [Filipa Castilho](../../Pessoas/F/Filipa%20Castilho.md), [Francisco Caldas](../../Pessoas/F/Francisco%20Caldas.md) (Xixo) e [Maria Barros](../../Pessoas/M/Maria%20Barros.md)
 
 ## Participantes que se tornaram animadores
 
