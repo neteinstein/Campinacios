@@ -1,5 +1,7 @@
 # Francisco Cortês Ferreira
 
+Francisco Cortês Ferreira é ex-aluno do [CC](../../Movimento/CC.md).
+
 ### Acampamentos
 
 - **Animador:**
