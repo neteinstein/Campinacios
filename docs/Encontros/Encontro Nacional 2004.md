@@ -7,7 +7,7 @@ O Encontro Nacional 2004 realizou-se no CAIC, a 20 e 21 de Março de 2004, e tev
 
 ## CD «Campinácios Unplugged» {#cd-campinacios-unplugged}
 
-No encontro gravou-se ao vivo um CD com «as nossas músicas», o *Campinácios Unplugged*. O cantor e produtor foi o [João Monteiro](../Pessoas/J/Jo%C3%A3o%20Monteiro.md), a gravação ficou a cargo do professor Rui Pinto e a edição foi do [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md). O CD foi posto à venda em Setembro de 2004, nas secretarias dos colégios, e a página dos Campinácios tinha a capa e a contracapa para descarregar, além de um vídeo do encontro. As faixas podem ouvir-se no [Cantinácio](../Movimento/Cantin%C3%A1cio.md#gravacoes), em «Gravações».
+No encontro gravou-se ao vivo um CD com «as nossas músicas», o *Campinácios Unplugged*. O cantor e produtor foi o [João Monteiro](../Pessoas/J/Jo%C3%A3o%20Monteiro.md), também cantou o [Miguel Pedro Melo sj](../Pessoas/M/Miguel%20Melo.md), a gravação ficou a cargo do professor Rui Pinto e a edição foi do [Pedro Vicente](../Pessoas/P/Pedro%20Vicente.md). O CD foi posto à venda em Setembro de 2004, nas secretarias dos colégios, e a página dos Campinácios tinha a capa e a contracapa para descarregar, além de um vídeo do encontro. As faixas podem ouvir-se no [Cantinácio](../Movimento/Cantin%C3%A1cio.md#gravacoes), em «Gravações».
 
 1. [Canoa](../Movimento/Cantin%C3%A1cio/Portuguesas.md#canoa)
 2. [Everybody bate palmas](../Movimento/Cantin%C3%A1cio/Aplausos.md#everybody-bate-palmas)
