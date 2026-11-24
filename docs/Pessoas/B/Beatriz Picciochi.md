@@ -7,7 +7,7 @@
 ### Acampamentos
 
 - **Animadora:**
-    - 2023 [De Todas as Fôrmas](../../Acampamentos/2023/De%20Todas%20as%20F%C3%B4rmas.md) - [Animadora de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2023 [De Todas as Fôrmas](../../Acampamentos/2023/De%20Todas%20as%20F%C3%B4rmas.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
     - 2023 [180 Já Contenta](../../Acampamentos/2023/180%20J%C3%A1%20Contenta.md) - [Tia](../../Cargos/Tio.md)
     - 2024 [Mestrarte](../../Acampamentos/2024/Mestrarte.md) - [Tia](../../Cargos/Tio.md)
     - 2025 [Sem Truques](../../Acampamentos/2025/Sem%20Truques.md) - [Tia](../../Cargos/Tio.md)

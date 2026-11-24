@@ -3,7 +3,7 @@
 ### Acampamentos
 
 - **Animador(a):**
-    - 2026 [Re-Vela-Vida](../../Acampamentos/2026/Re-Vela-Vida.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2026 [Re-Vela-Vida](../../Acampamentos/2026/Re-Vela-Vida.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
 ### Encontros
 
