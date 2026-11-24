@@ -5,8 +5,11 @@ Jesuíta, natural de Ribeira de Maria Afonso – Dois Portos – Torres Vedras. 
 ### Cargos
 
 - 1966/1968 - Subdirector do [CSJB](../../Movimento/CSJB.md#historia)
-- 1968/1986 - Director do [CSJB](../../Movimento/CSJB.md#historia)
-- 1991 Coordenador do [CIFA II](../../Acampamentos/1991/CIFA%20II.md)
+- 1968/1986 - Director Pedagógico do [CSJB](../../Movimento/CSJB.md#historia)
+- 1987/1993 - Reitor do INA ([CC](../../Movimento/CC.md))
+- 1991 - Coordenador do [CIFA II](../../Acampamentos/1991/CIFA%20II.md)
+- 1999/2005 - Director Geral do [CC](../../Movimento/CC.md)
+- 2011/2017 - Director Geral do [CAIC](../../Movimento/CAIC.md)
 
 ---
 
