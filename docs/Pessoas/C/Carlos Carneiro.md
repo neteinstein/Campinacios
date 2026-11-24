@@ -1,5 +1,9 @@
 # Carlos Carneiro
 
+### Cargos
+
+- 2019/2022 - Director Geral do [Colégio das Caldinhas](../../Movimento/CC.md)
+
 ### Acampamentos
 
 - **Animador:**
@@ -12,3 +16,4 @@
 | Categorias |
 | --- |
 | [Animadores](../../Categorias/Animadores.md) |
+| [Jesuítas](../../Categorias/Jesu%C3%ADtas.md) |
