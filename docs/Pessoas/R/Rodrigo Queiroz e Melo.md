@@ -12,6 +12,7 @@
 ### Acampamentos
 
 - **Animador**
+    - 1989 [Mimosas 89](../../Acampamentos/1989/Mimosas%2089.md)
     - 1991 [Constância](../../Acampamentos/1991/Const%C3%A2ncia.md) - [Director-Adjunto](../../Cargos/Director-Adjunto.md)
     - 1992 [Porto da Balsa 92](../../Acampamentos/1992/Porto%20da%20Balsa%2092.md) - [Director](../../Cargos/Director.md)
     - 1993 [Porto da Balsa 93](../../Acampamentos/1993/Porto%20da%20Balsa%2093.md) - [Director](../../Cargos/Director.md)

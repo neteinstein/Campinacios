@@ -12,6 +12,7 @@
     - 1991 [Cagácios](../../Acampamentos/1991/Cag%C3%A1cios.md)
 - **Animadora**
     - 1989 [Ferrugenta](../../Acampamentos/1989/Ferrugenta.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
+    - 1989 [Mimosas 89](../../Acampamentos/1989/Mimosas%2089.md)
     - 1994 [Florinhas](../../Acampamentos/1994/Florinhas.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
 ### Família
