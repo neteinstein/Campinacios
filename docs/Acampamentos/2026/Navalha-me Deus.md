@@ -18,10 +18,23 @@ Ana Isabel Martins, Beatriz Sobral, Leonor Dias, Margarida Ferreira, Gabriel Pon
 ## Participantes que se tornaram animadores
 
 - [Ana Isabel Martins](../../Pessoas/A/Ana%20Isabel%20Martins.md)
+- [Beatriz Bettencourt](../../Pessoas/B/Beatriz%20Bettencourt.md)
+- [Beatriz Sobral](../../Pessoas/B/Beatriz%20Sobral.md)
+- [Carolina Sampaio](../../Pessoas/C/Carolina%20Sampaio.md)
 - [Gabriel Ponte](../../Pessoas/G/Gabriel%20Ponte.md)
+- [José Matias](../../Pessoas/J/Jos%C3%A9%20Matias.md)
+- [Leonor Dias](../../Pessoas/L/Leonor%20Dias.md)
+- [Lourenço Martins](../../Pessoas/L/Louren%C3%A7o%20Martins.md)
+- [Luís Monteiro](../../Pessoas/L/Lu%C3%ADs%20Monteiro.md)
+- [Madalena Lopes](../../Pessoas/M/Madalena%20Lopes.md)
 - [Madalena Vale](../../Pessoas/M/Madalena%20Vale.md)
+- [Manuel Varela](../../Pessoas/M/Manuel%20Varela.md)
+- [Margarida Ferreira](../../Pessoas/M/Margarida%20Ferreira.md)
+- [Margarida Francisco](../../Pessoas/M/Margarida%20Francisco.md)
 - [Mariana Cortez](../../Pessoas/M/Mariana%20Cortez.md)
 - [Pedro Oliveira](../../Pessoas/P/Pedro%20Oliveira.md)
+- [Rita Caeiro](../../Pessoas/R/Rita%20Caeiro.md)
+- [Sofia Antunes](../../Pessoas/S/Sofia%20Antunes.md)
 
 ---
 
