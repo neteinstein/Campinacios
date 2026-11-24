@@ -7,9 +7,9 @@
 - [Director](../../Cargos/Director.md) - [Lourenço Barjona (Loura)](../../Pessoas/L/Louren%C3%A7o%20Barjona.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Carminho Simões de Almeida](../../Pessoas/C/Carminho%20Sim%C3%B5es%20de%20Almeida.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [André Vale](../../Pessoas/A/Andr%C3%A9%20Vale.md)
-- [Tias](../../Cargos/Tio.md) - Joana Rocha e [Bia Miguel](../../Pessoas/B/Beatriz%20Miguel.md)
+- [Tias](../../Cargos/Tio.md) - [Joana Rocha](../../Pessoas/J/Joana%20Rocha.md) e [Bia Miguel](../../Pessoas/B/Beatriz%20Miguel.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Nuno Ferreira](../../Pessoas/N/Nuno%20Ferreira.md) (Broski), [Vera Vallera](../../Pessoas/V/Vera%20Vallera.md), [Maria Carvalho](../../Pessoas/M/Maria%20Carvalho.md), [Bruna Honório](../../Pessoas/B/Bruna%20Hon%C3%B3rio.md), [Gabriel Ponte](../../Pessoas/G/Gabriel%20Ponte.md) e [Chico Cassiano](../../Pessoas/F/Francisco%20Cassiano.md)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - Ribeiro, Pêras, [Maria Silva](../../Pessoas/M/Maria%20Silva.md) (Malú) e [Afonso Torres](../../Pessoas/A/Afonso%20Torres.md)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Ribeiro](../../Pessoas/T/Tom%C3%A1s%20Ribeiro.md), [Pêras](../../Pessoas/A/Ant%C3%B3nio%20Pereira.md), [Maria Silva](../../Pessoas/M/Maria%20Silva.md) (Malú) e [Afonso Torres](../../Pessoas/A/Afonso%20Torres.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Vicente Goes](../../Pessoas/V/Vicente%20Goes.md) sj
 
 ---

@@ -12,11 +12,13 @@
     - 2023 [180 Já Contenta](../../Acampamentos/2023/180%20J%C3%A1%20Contenta.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2024 [Fight Club](../../Acampamentos/2024/Fight%20Club.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2025 [PássaPorta](../../Acampamentos/2025/P%C3%A1ssaPorta.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2026 [Sande Help](../../Acampamentos/2026/Sande%20Help.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
 ---
 
-**Outros nomes:** Pêras
+**Outros nomes:** Pêras · António Morais Pereira
 
 | Categorias |
 | --- |
 | [Animadores](../../Categorias/Animadores.md) |
+| [Animadores do CSJB](../../Categorias/Animadores%20do%20CSJB.md) |
