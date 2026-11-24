@@ -6,6 +6,7 @@
 
 - **Animador(a):**
     - 2016 [PáquiPáli](../../Acampamentos/2016/P%C3%A1quiP%C3%A1li.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2017 [Supera-te](../../Acampamentos/2017/Supera-te.md) - [Animador(a) de Equipa](../../Cargos/Animador%20de%20Equipa.md)
 
 ---
 

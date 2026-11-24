@@ -9,7 +9,7 @@
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Paulo Gonçalves](../../Pessoas/P/Paulo%20Gon%C3%A7alves.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Carlos Miranda](../../Pessoas/C/Carlos%20Miranda.md) sj
 - [Tia](../../Cargos/Tio.md) - [Helena Cunha e Carmo](../../Pessoas/H/Helena%20Cunha%20e%20Carmo.md)
-- [Animadores](../../Categorias/Animadores.md) - Joana Ferreira, [Pedro Dias](../../Pessoas/P/Pedro%20Dias.md), Margarida Carneiro e Luís Machado
+- [Animadores](../../Categorias/Animadores.md) - [Joana Ferreira](../../Pessoas/J/Joana%20Ferreira%20%28CC%29.md), [Pedro Dias](../../Pessoas/P/Pedro%20Dias.md), [Margarida Carneiro](../../Pessoas/M/Margarida%20Carneiro.md) e [Luís Machado](../../Pessoas/L/Lu%C3%ADs%20Machado.md)
 
 ---
 

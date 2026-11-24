@@ -2,6 +2,8 @@
 
 *Nota: Este artigo é sobre Maria Cunhal. Se procura Maria Cunha, animador(a) do CSJB, consulte [Maria Cunha](Maria%20Cunha.md).*
 
+*Nota: Este artigo é sobre Maria Cunhal, dos campos de 2022 a 2025. Se procura Mariana Cunha, do Quemtesegura (2016), consulte [Mariana Cunha](Mariana%20Cunha.md).*
+
 ### Acampamentos
 
 - **Formação:**

@@ -4,7 +4,7 @@ Foi neste campo que foi composta a música "O André e a Cecília" por Manel Mat
 
 ### Animadores
 
-- [Director](../../Cargos/Director.md) - Nuno Antunes
+- [Director](../../Cargos/Director.md) - [Nuno Antunes](../../Pessoas/N/Nuno%20Miguel%20Antunes.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [José Maria Brito](../../Pessoas/J/Jos%C3%A9%20Maria%20Brito.md)
 
 ### Participantes

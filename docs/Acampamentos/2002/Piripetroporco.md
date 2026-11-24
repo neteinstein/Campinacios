@@ -9,7 +9,7 @@ O Piripetroporco foi um acampamento de Trotinetas que decorreu de 4 a 13 de Agos
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Manuel Vilhena](../../Pessoas/M/Manuel%20Vilhena.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Perrú](../../Pessoas/P/Pedro%20Rocha%20Mendes.md) sj
 - [Tias](../../Cargos/Tio.md) - [Sónia Ferreira](../../Pessoas/S/S%C3%B3nia%20Ferreira.md) e [Irina Ramos](../../Pessoas/I/Irina%20Ramos.md)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - Simão, [Constança Cordeiro Ferreira](../../Pessoas/C/Constan%C3%A7a%20Pereira%20da%20Silva.md) e [Nuno Carrolo](../../Pessoas/N/Nuno%20Carrolo.md)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Simão](../../Pessoas/S/Sim%C3%A3o%20Nabais.md), [Constança Cordeiro Ferreira](../../Pessoas/C/Constan%C3%A7a%20Pereira%20da%20Silva.md) e [Nuno Carrolo](../../Pessoas/N/Nuno%20Carrolo.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Joana Cardoso](../../Pessoas/J/Joana%20Cardoso.md), [Diogo Carneiro](../../Pessoas/D/Diogo%20Jos%C3%A9%20Oliveira%20Cerejeira%20Carneiro.md), [Marta Carneiro](../../Pessoas/M/Marta%20Carneiro.md), [Joana Silva](../../Pessoas/J/Joana%20Ferreira%20da%20Silva.md), [Tiago Monteiro](../../Pessoas/T/Tiago%20Monteiro.md) e [Filipa Granado](../../Pessoas/F/Filipa%20Granado.md)
 
 ## Participantes que se tornaram animadores

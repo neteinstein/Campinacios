@@ -8,8 +8,8 @@ Este acampamento de Bicicletas realizou em [Santa Margarida](../../Restrito/Loca
 - [Mamã](../../Cargos/Mam%C3%A3.md) - Marina
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [José Venâncio Pina](../../Pessoas/J/Jos%C3%A9%20Ven%C3%A2ncio%20Pina.md) sj
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Tiago Figueira](../../Pessoas/T/Tiago%20Figueira.md)
-- [Tias](../../Cargos/Tio.md) - Linda Araújo e [Ana Curto](../../Pessoas/A/Ana%20Curto.md)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Gonçalo Frade](../../Pessoas/G/Gon%C3%A7alo%20Frade.md) , Simão , [Militão](../../Pessoas/M/Milit%C3%A3o.md)
+- [Tias](../../Cargos/Tio.md) - [Linda Araújo](../../Pessoas/L/Linda%20Ara%C3%BAjo.md) e [Ana Curto](../../Pessoas/A/Ana%20Curto.md)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Gonçalo Frade](../../Pessoas/G/Gon%C3%A7alo%20Frade.md) , [Simão](../../Pessoas/S/Sim%C3%A3o%20Nabais.md) , [Militão](../../Pessoas/M/Milit%C3%A3o.md)
 - [Animadores de equipa](../../Cargos/Animador%20de%20Equipa.md) - Filipa , Maria João ,
 
 ## Participantes que se tornaram animadores

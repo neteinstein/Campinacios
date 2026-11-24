@@ -1,5 +1,7 @@
 # Maria Cortês Ferreira
 
+*Nota: Este artigo é sobre Maria Cortês Ferreira, dos campos de 1998 a 2012. Se procura Maria Cunha Ferreira, do Pirilama (2000), consulte [Maria Cunha Ferreira](Maria%20Cunha%20Ferreira.md).*
+
 Maria Mendes Cortês Ferreira, nascida a 6 de Março de 1985, é desde 2003 animadora do Colégio das Caldinhas.
 
 ## História dentro do movimento

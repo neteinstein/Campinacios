@@ -9,7 +9,7 @@ Não se chegou a realizar nestes moldes por falta de adesão dos Colégios espan
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Carlos Ruiz](../../Pessoas/C/Carlos%20Ruiz.md)
-- [Mamã](../../Cargos/Mam%C3%A3.md) - Maria Regina Briz
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [Maria Regina Briz](../../Pessoas/M/Maria%20Regina%20Briz.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [José Araújo](../../Pessoas/J/Jos%C3%A9%20Ara%C3%BAjo.md) sj
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Gustavo Gapo](../../Pessoas/G/Gustavo%20Gapo.md)
 

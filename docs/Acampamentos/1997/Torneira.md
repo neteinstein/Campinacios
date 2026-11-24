@@ -5,7 +5,7 @@ O Torneira foi um acampamento de [Trotinetas](../../Categorias/Trotinetas.md) qu
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Eduardo Rodrigues](../../Pessoas/E/Eduardo%20Rodrigues.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Andreia Magalhães](../../Pessoas/A/Andreia%20Magalh%C3%A3es.md), Marina Freitas, [José Luís Silva](../../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Silva.md) e [Margarida Valle](../../Pessoas/M/Margarida%20Valle.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Andreia Magalhães](../../Pessoas/A/Andreia%20Magalh%C3%A3es.md), [Marina Freitas](../../Pessoas/M/Marina%20Freitas.md), [José Luís Silva](../../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Silva.md) e [Margarida Valle](../../Pessoas/M/Margarida%20Valle.md)
 - [Animadores](../../Categorias/Animadores.md) - [Luís Godinho](../../Pessoas/L/Lu%C3%ADs%20Godinho.md)
 
 ## Participantes que se tornaram animadores

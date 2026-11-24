@@ -4,10 +4,10 @@
 
 - [Director](../../Cargos/Director.md) - [José da Silva Almeida](../../Pessoas/J/Jos%C3%A9%20da%20Silva%20Almeida.md) sj
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Majó](../../Pessoas/M/Maria%20Jo%C3%A3o%20Sim%C3%B5es.md)
-- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - João Ruela
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [João Ruela](../../Pessoas/J/Jo%C3%A3o%20Branco.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Tojú](../../Pessoas/A/Ant%C3%B3nio%20J%C3%BAlio%20Trigueiros.md) sj
 - [Tias](../../Cargos/Tio.md) - [Ana Geão](../../Pessoas/A/Ana%20Ge%C3%A3o.md) e [Ana Curto](../../Pessoas/A/Ana%20Curto.md)
-- [Animadores](../../Categorias/Animadores.md) - João Graça , Zinho , Linda Araújo , [Isabel Fernandes Melo](../../Pessoas/I/Isabel%20Fernandes%20Melo.md) , João Reis (Joninhas) , [Cristina Costa](../../Pessoas/C/Cristina%20Costa.md) , [António Andrade](../../Pessoas/A/Ant%C3%B3nio%20Andrade.md)
+- [Animadores](../../Categorias/Animadores.md) - [João Graça](../../Pessoas/J/Jo%C3%A3o%20de%20Almeida%20Gra%C3%A7a.md) , [Zinho](../../Pessoas/E/Eduardo%20Rodrigues.md) , [Linda Araújo](../../Pessoas/L/Linda%20Ara%C3%BAjo.md) , [Isabel Fernandes Melo](../../Pessoas/I/Isabel%20Fernandes%20Melo.md) , [João Reis](../../Pessoas/J/Jo%C3%A3o%20Reis.md) (Joninhas) , [Cristina Costa](../../Pessoas/C/Cristina%20Costa.md) , [António Andrade](../../Pessoas/A/Ant%C3%B3nio%20Andrade.md)
 
 ## Testemunho de um participante {#testemunho}
 

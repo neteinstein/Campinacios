@@ -5,7 +5,7 @@ O Fibrovital decorreu em [Quinta da Gorda (Ferreira do Zêzere)](../../Restrito/
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Gustavo Gapo](../../Pessoas/G/Gustavo%20Gapo.md)
-- [Mamã](../../Cargos/Mam%C3%A3.md) - Maggie Sampaio
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [Maggie Sampaio](../../Pessoas/A/Ana%20Sampaio%20%28Maggie%29.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [António Pedro](../../Pessoas/A/Ant%C3%B3nio%20Pedro.md)
 - [Tia](../../Cargos/Tio.md) - [Clara Sampaio](../../Pessoas/C/Clara%20Sampaio.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - Pedro, [João Currais](../../Pessoas/J/Jo%C3%A3o%20Currais.md), Zé

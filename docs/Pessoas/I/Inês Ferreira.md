@@ -2,6 +2,8 @@
 
 *Nota: Este artigo é sobre Inês Ferreira (Sisky), do Caldorado (2024). Se procura Inês Serra Ferreira, animadora do Alvoco II (1999), consulte [Inês Serra Ferreira](In%C3%AAs%20Serra%20Ferreira.md).*
 
+*Nota: Este artigo é sobre Inês Ferreira, dos campos de 2023 a 2025. Se procura Inês Ferreira (2000), dos campos de 2000 a 2007, consulte [Inês Ferreira (2000)](In%C3%AAs%20Ferreira%20%282000%29.md).*
+
 ### Acampamentos
 
 - **Animador(a):**

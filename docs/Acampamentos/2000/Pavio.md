@@ -8,7 +8,7 @@ O Pavio foi um acampamento de [Lambretas](../../Categorias/Lambretas.md) que dec
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Rita Antunes](../../Pessoas/R/Rita%20Antunes.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [José Rui Sampaio](../../Pessoas/J/Jos%C3%A9%20Rui%20Sampaio.md)
 - [Tia](../../Cargos/Tio.md) - [Marta Santos](../../Pessoas/M/Marta%20Santos.md)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Gabriela Poças](../../Pessoas/G/Gabriela%20Po%C3%A7as.md), [Guida](../../Pessoas/M/Margarida%20Rodrigues.md), [Sofia Azevedo Cardoso](../../Pessoas/S/Sofia%20Azevedo%20Cardoso.md) e Tiago Cunha Ferreira
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Gabriela Poças](../../Pessoas/G/Gabriela%20Po%C3%A7as.md), [Guida](../../Pessoas/M/Margarida%20Rodrigues.md), [Sofia Azevedo Cardoso](../../Pessoas/S/Sofia%20Azevedo%20Cardoso.md) e [Tiago Cunha Ferreira](../../Pessoas/T/Tiago%20Cunha%20Ferreira.md)
 
 ## Participantes que se tornaram animadores
 

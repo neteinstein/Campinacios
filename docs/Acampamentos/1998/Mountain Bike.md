@@ -3,7 +3,7 @@
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Martim Cunha Ferreira](../../Pessoas/M/Martim%20Cunha%20Ferreira.md)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - Chico Maria e Zé Rui Santos
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Chico Maria](../../Pessoas/F/Francisco%20Maria.md) e [Zé Rui Santos](../../Pessoas/Z/Z%C3%A9%20Rui%20Santos.md)
 
 Foi neste campo que foi composta a música "Poema Lindo" por Chico Maria (ver [Cantinácio](../../Movimento/Cantin%C3%A1cio/Campin%C3%A1cios.md#poema-lindo)).
 

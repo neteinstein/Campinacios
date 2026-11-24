@@ -5,7 +5,7 @@ O Caldelas foi um acampamento de Triciclos que se realizou em [Fonte de Nena](..
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Pedro Rebordão](../../Pessoas/P/Pedro%20Rebord%C3%A3o.md)
-- [Mamã](../../Cargos/Mam%C3%A3.md) - Regina Briz
+- [Mamã](../../Cargos/Mam%C3%A3.md) - [Regina Briz](../../Pessoas/M/Maria%20Regina%20Briz.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Abel Bandeira](../../Pessoas/A/Abel%20Bandeira.md) sj
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - [Perrú](../../Pessoas/P/Pedro%20Rocha%20Mendes.md) sj
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [José Luís Fernandes](../../Pessoas/J/Jos%C3%A9%20Lu%C3%ADs%20Fernandes.md), [Francisco Maria](../../Pessoas/F/Francisco%20Maria.md) (Chico Maria), [Constança Cordeiro Ferreira](../../Pessoas/C/Constan%C3%A7a%20Pereira%20da%20Silva.md), [Ricardo Rodrigues](../../Pessoas/R/Ricardo%20Rodrigues.md) e [Rita Maria Fernandes](../../Pessoas/R/Rita%20Maria%20Fernandes.md)

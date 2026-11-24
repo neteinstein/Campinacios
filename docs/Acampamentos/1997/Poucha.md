@@ -2,7 +2,7 @@
 
 ### Animadores
 
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Sérgio Carvalho](../../Pessoas/S/S%C3%A9rgio%20Carvalho.md), [Telma Pinto](../../Pessoas/T/Telma%20Pinto.md), Joana Santos Silva, [Cristina](../../Pessoas/M/Maria%20Cristina%20Sousa%20Costa.md) e [Rita Maria Fernandes](../../Pessoas/R/Rita%20Maria%20Fernandes.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Sérgio Carvalho](../../Pessoas/S/S%C3%A9rgio%20Carvalho.md), [Telma Pinto](../../Pessoas/T/Telma%20Pinto.md), [Joana Santos Silva](../../Pessoas/J/Joana%20Santos%20Silva.md), [Cristina](../../Pessoas/M/Maria%20Cristina%20Sousa%20Costa.md) e [Rita Maria Fernandes](../../Pessoas/R/Rita%20Maria%20Fernandes.md)
 
 ## Participantes que se tornaram animadores
 

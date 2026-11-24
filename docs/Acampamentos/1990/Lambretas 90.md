@@ -5,7 +5,7 @@ Este acampamento de [Lambretas](../../Categorias/Lambretas.md) decorreu de 19 a 
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [José Murteira](../../Pessoas/J/Jos%C3%A9%20Murteira.md) sj
-- [Tia](../../Cargos/Tio.md) - Manuela Santos Silva
+- [Tia](../../Cargos/Tio.md) - [Manuela Santos Silva](../../Pessoas/M/Manuela%20Santos%20Silva.md)
 
 ## Participantes que se tornaram animadores
 

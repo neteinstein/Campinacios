@@ -10,8 +10,8 @@
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Mariana Cardal](../../Pessoas/M/Mariana%20Cardal.md)
 - [Tia](../../Cargos/Tio.md) - [Maria Vieira](../../Pessoas/M/Maria%20Vieira.md)
 - [Tia](../../Cargos/Tio.md) - [Sílvia Lobo](../../Pessoas/S/S%C3%ADlvia%20Lobo.md)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - Virgílio Gouveia, [Duarte Pinto](../../Pessoas/D/Duarte%20Pinto.md) e [Francisco Gomes](../../Pessoas/F/Francisco%20Gomes.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Eliana Rodrigues](../../Pessoas/E/Eliana%20Rodrigues.md), [Inês Silva](../../Pessoas/I/In%C3%AAs%20Silva.md), Luís Machado, Mafalda Nave, Marta Silva, [Janine Silva](../../Pessoas/J/Janine%20Silva.md) e Francisco Bettencourt
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Virgílio Gouveia](../../Pessoas/V/Virg%C3%ADlio%20Gouveia.md), [Duarte Pinto](../../Pessoas/D/Duarte%20Pinto.md) e [Francisco Gomes](../../Pessoas/F/Francisco%20Gomes.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Eliana Rodrigues](../../Pessoas/E/Eliana%20Rodrigues.md), [Inês Silva](../../Pessoas/I/In%C3%AAs%20Silva.md), [Luís Machado](../../Pessoas/L/Lu%C3%ADs%20Machado.md), [Mafalda Nave](../../Pessoas/M/Mafalda%20Nave.md), [Marta Silva](../../Pessoas/M/Marta%20Silva.md), [Janine Silva](../../Pessoas/J/Janine%20Silva.md) e [Francisco Bettencourt](../../Pessoas/F/Francisco%20Bettencourt.md)
 
 ## Participantes que se tornaram animadores
 

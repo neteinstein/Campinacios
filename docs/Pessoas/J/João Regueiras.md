@@ -11,6 +11,7 @@ João Regueiras é animador do CC.
     - 1999 [Gipsy Kings](../../Acampamentos/1999/Gipsy%20Kings.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2001 [Waaassuuup](../../Acampamentos/2001/Waaassuuup.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
     - 2004 [Mikelin Descobre a Vida](../../Acampamentos/2004/Mikelin%20Descobre%20a%20Vida.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2015 [Ide](../../Acampamentos/2015/Ide.md) - [Animadora Livre](../../Cargos/Animador%20Livre.md)
 
 ### Testemunho
 
@@ -59,6 +60,8 @@ Há paletes de coisas que nos marcaram (e marcam!) e fizeram (e fazem!) volt
 A vontade de partilhar. A natureza. O Pai. Os outros. O teu sorriso enfarruscado. A sensação de liberdade. Uns olhos lindos de morrer. Aquele rapaz que me olhou de maneira diferente. Umas tranças pretas a espreitarem por baixo de um chapéu de palha. A sorna de rabo pró ar a escrever ao Amigo Secreto. A telenovela. A Missa de Campo. A Mamã. A Alvorada. Os BDS (Bom dia Senhor). As pinhas a estourarem na fogueira. O assalto ao castelo. O pôr-do-sol com os pés dentro de água. A caminhada. As bolachas escondidas no fundo da tenda. Descascar batatas para trinta e seis galfarros. A noite de gala e todas as partidas que os animadores prepararam e nos pregaram.
 
 ---
+
+**Outros nomes:** João Maria Regueiras
 
 | Categorias |
 | --- |

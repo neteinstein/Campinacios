@@ -6,6 +6,7 @@
 
 - [Joana Silva](../../Pessoas/J/Joana%20Silva.md), que esteve na Formação de Animadores do Faísca em 1993.
 - [Joana Ferreira da Silva](../../Pessoas/J/Joana%20Ferreira%20da%20Silva.md), animadora de 2002 a 2007, também conhecida como Joana Silva.
+- [Joana Santos Silva](../../Pessoas/J/Joana%20Santos%20Silva.md), animadora de 1992 a 1997 (Agroal, Fornelos, Tabuadelas II, Lambretas 94, Antas, Poucha), também conhecida como Joana Silva.
 - [Joana Branco da Silva](../../Pessoas/J/Joana%20Branco%20da%20Silva.md), Delegada SPC da Direcção Nacional em 2024/2025.
 
 ---

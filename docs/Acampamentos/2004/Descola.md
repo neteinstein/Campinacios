@@ -11,7 +11,7 @@ Descola foi um acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que s
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Eduardo Almeida](../../Pessoas/E/Eduardo%20Almeida.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Rui Ribeiro](../../Pessoas/R/Rui%20Ribeiro.md) sj
 - [Tias](../../Cargos/Tio.md) - [Du](../../Pessoas/D/Du.md) e [Carla Junqueira](../../Pessoas/C/Carla%20Junqueira.md)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Zepa](../../Pessoas/J/Jos%C3%A9%20Pedro%20Ferreira.md) e Simão
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Zepa](../../Pessoas/J/Jos%C3%A9%20Pedro%20Ferreira.md) e [Simão](../../Pessoas/S/Sim%C3%A3o%20Nabais.md)
 - [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Andreia Pereira](../../Pessoas/A/Andreia%20Pereira.md), [Rita Simões](../../Pessoas/R/Rita%20Sim%C3%B5es.md), [Sara Croca](../../Pessoas/S/Sara%20Croca.md), [Manuel Cordeiro Ferreira](../../Pessoas/M/Manuel%20Cordeiro%20Ferreira.md), [Mafalda Junqueira](../../Pessoas/M/Mafalda%20Junqueira.md) e [Jacinto Bezerra](../../Pessoas/J/Jacinto%20Bezerra.md)
 
 ## Participantes que se tornaram animadores

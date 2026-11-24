@@ -9,9 +9,9 @@
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Ricardo Batista Dias](../../Pessoas/R/Ricardo%20Batista%20Dias.md) sj
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Madalena Saraiva](../../Pessoas/M/Madalena%20Saraiva.md)
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Miguel Falcão Ramos](../../Pessoas/M/Miguel%20Falc%C3%A3o%20Ramos.md)
-- [Tia](../../Cargos/Tio.md) - Catarina Cardoso
-- [Tia](../../Cargos/Tio.md) - Luísa Ribeiro
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [António Portugal](../../Pessoas/A/Ant%C3%B3nio%20Portugal.md), [Maria do Carmo Guedes](../../Pessoas/M/Maria%20do%20Carmo%20Guedes.md), Marcos Barroso, [Carolina Oliveira](../../Pessoas/C/Carolina%20Oliveira.md), Tomás Carneiro e [Francisco Costa](../../Pessoas/F/Francisco%20Costa.md)
+- [Tia](../../Cargos/Tio.md) - [Catarina Cardoso](../../Pessoas/C/Catarina%20Cardoso.md)
+- [Tia](../../Cargos/Tio.md) - [Luísa Ribeiro](../../Pessoas/L/Lu%C3%ADsa%20Ribeiro.md)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [António Portugal](../../Pessoas/A/Ant%C3%B3nio%20Portugal.md), [Maria do Carmo Guedes](../../Pessoas/M/Maria%20do%20Carmo%20Guedes.md), [Marcos Barroso](../../Pessoas/M/Marcos%20Barroso.md), [Carolina Oliveira](../../Pessoas/C/Carolina%20Oliveira.md), [Tomás Carneiro](../../Pessoas/T/Tom%C3%A1s%20Carneiro.md) e [Francisco Costa](../../Pessoas/F/Francisco%20Costa.md)
 
 ## Participantes que se tornaram animadores
 

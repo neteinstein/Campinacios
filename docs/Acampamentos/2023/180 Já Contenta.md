@@ -10,7 +10,7 @@
 - [Tios](../../Cargos/Tio.md) - [Renato Sousa](../../Pessoas/R/Renato%20Sousa.md) e [Beatriz Picciochi](../../Pessoas/B/Beatriz%20Picciochi.md)
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Laura Leandro](../../Pessoas/L/Laura%20Leandro.md), [David Bandeira](../../Pessoas/D/David%20Bandeira.md), [Leonor Cardoso](../../Pessoas/L/Leonor%20Cardoso.md) e [António Pereira](../../Pessoas/A/Ant%C3%B3nio%20Pereira.md) (Pêras)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Diogo Couceiro](../../Pessoas/D/Diogo%20Couceiro.md) sj
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Nuno Ferreira](../../Pessoas/N/Nuno%20Ferreira.md) (Broski), [Luís Boavida](../../Pessoas/L/Lu%C3%ADs%20Boavida.md), [Mafalda Machete](../../Pessoas/M/Mafalda%20Machete.md), Laura Barjona, [Diana Freitas](../../Pessoas/D/Diana%20Freitas.md) e [Duarte Farelo](../../Pessoas/D/Duarte%20Farelo.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Nuno Ferreira](../../Pessoas/N/Nuno%20Ferreira.md) (Broski), [Luís Boavida](../../Pessoas/L/Lu%C3%ADs%20Boavida.md), [Mafalda Machete](../../Pessoas/M/Mafalda%20Machete.md), [Laura Barjona](../../Pessoas/L/Laura%20Barjona.md), [Diana Freitas](../../Pessoas/D/Diana%20Freitas.md) e [Duarte Farelo](../../Pessoas/D/Duarte%20Farelo.md)
 
 ---
 

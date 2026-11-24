@@ -6,9 +6,12 @@ Segundo as listas de animadores do CSJB, até 2002 tinha participado em 5 acampa
 
 - **Animadora:**
     - 2000 [Tem Bicho Zweitausend](../../Acampamentos/2000/Tem%20Bicho%20Zweitausend.md) - [Tia](../../Cargos/Tio.md)
+    - 2001 [Waaassuuup](../../Acampamentos/2001/Waaassuuup.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
     - 2002 [Ninja Por Não Estar](../../Acampamentos/2002/Ninja%20Por%20N%C3%A3o%20Estar.md) - [Mamã](../../Cargos/Mam%C3%A3.md)
 
 ---
+
+**Outros nomes:** Kiki
 
 | Categorias |
 | --- |

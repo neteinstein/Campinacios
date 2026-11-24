@@ -2,6 +2,8 @@
 
 *Nota: Este artigo é sobre Maria Silva (Malú), Coordenadora Adjunta da Direcção Nacional em 2023/2024. Se procura Maria Ana Silva, animadora do Tábeeeim (2010), consulte [Maria Ana Silva](Maria%20Ana%20Silva.md).*
 
+*Nota: Este artigo é sobre Maria Silva, dos campos de 2018 a 2026. Se procura Marta Silva, do Vira a Página (2018), consulte [Marta Silva](Marta%20Silva.md).*
+
 ### Acampamentos
 
 - **Participante:**

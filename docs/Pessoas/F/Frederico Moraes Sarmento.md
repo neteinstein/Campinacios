@@ -6,7 +6,9 @@
     - 2017 [ReComeçar de Novo](../../Acampamentos/2017/ReCome%C3%A7ar%20de%20Novo.md)
 - **Animador(a):**
     - 2017 [Peru](../../Acampamentos/2017/Peru.md) - [Animador(a) de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 2018 [A Ir e Falta o S](../../Acampamentos/2018/A%20Ir%20e%20Falta%20o%20S.md) - [Tio](../../Cargos/Tio.md)
     - 2022 [À Grande e à Francesa](../../Acampamentos/2022/%C3%80%20Grande%20e%20%C3%A0%20Francesa.md) - [Tio](../../Cargos/Tio.md)
+    - 2023 [Parte de Ti](../../Acampamentos/2023/Parte%20de%20Ti.md) - [Tio](../../Cargos/Tio.md)
 
 ### Família
 
@@ -14,7 +16,7 @@
 
 ---
 
-**Outros nomes:** Frederico Sarmento
+**Outros nomes:** Frederico Sarmento · Frederico Morais Sarmento
 
 | Categorias |
 | --- |

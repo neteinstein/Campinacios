@@ -9,8 +9,8 @@ O Tem Bicho Zweitausend foi um acampamento de Trotinetas que decorreu entre 19 e
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Diana Gapo](../../Pessoas/D/Diana%20Gapo.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Virgílio Oliveira e Costa](../../Pessoas/V/Virg%C3%ADlio%20Oliveira%20e%20Costa.md) sj
 - [Tias](../../Cargos/Tio.md) - [Ana Geão](../../Pessoas/A/Ana%20Ge%C3%A3o.md) e [Kiki](../../Pessoas/M/Maria%20Cristina%20Leal.md)
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Diogo Romão](../../Pessoas/D/Diogo%20Rom%C3%A3o.md), [Gonçalo Frade](../../Pessoas/G/Gon%C3%A7alo%20Frade.md) e Pedro Teixeira
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Ana Vacas](../../Pessoas/A/Ana%20Vacas.md), [Joana Nunes](../../Pessoas/J/Joana%20Nunes.md), [Joana Saraiva](../../Pessoas/J/Joana%20Saraiva.md), [João Coimbra](../../Pessoas/J/Jo%C3%A3o%20Coimbra.md), [Marta Carneiro](../../Pessoas/M/Marta%20Carneiro.md) e Nuno Antunes
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Diogo Romão](../../Pessoas/D/Diogo%20Rom%C3%A3o.md), [Gonçalo Frade](../../Pessoas/G/Gon%C3%A7alo%20Frade.md) e [Pedro Teixeira](../../Pessoas/P/Pedro%20Teixeira.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Ana Vacas](../../Pessoas/A/Ana%20Vacas.md), [Joana Nunes](../../Pessoas/J/Joana%20Nunes.md), [Joana Saraiva](../../Pessoas/J/Joana%20Saraiva.md), [João Coimbra](../../Pessoas/J/Jo%C3%A3o%20Coimbra.md), [Marta Carneiro](../../Pessoas/M/Marta%20Carneiro.md) e [Nuno Antunes](../../Pessoas/N/Nuno%20Miguel%20Antunes.md)
 
 ### Curiosidade
 

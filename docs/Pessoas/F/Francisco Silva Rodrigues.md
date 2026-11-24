@@ -26,6 +26,7 @@ Francisco Rodrigues, também conhecido por Pica é animador do Colégio São Jo�
     - 2008 [Eureka](../../Acampamentos/2008/Eureka.md) - [Director Adjunto](../../Cargos/Director-Adjunto.md)
     - 2008 [Era Uma Vez...](../../Acampamentos/2008/Era%20Uma%20Vez....md) - [Director Adjunto](../../Cargos/Director-Adjunto.md)
     - 2009 [Bublix](../../Acampamentos/2009/Bublix.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
+    - 2017 [Salvo Sejas](../../Acampamentos/2017/Salvo%20Sejas.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
 ### Encontros
 

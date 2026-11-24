@@ -1,5 +1,7 @@
 # João Paulo Moinhos
 
+*Nota: Este artigo é sobre João Paulo Moinhos, dos campos de 2001 a 2002. Se procura João Moinhos, do Codex 0018 (2018), consulte [João Moinhos](Jo%C3%A3o%20Moinhos.md).*
+
 João Paulo Moinhos, nascido a 6 de Maio de 1963, é o elemento há mais tempo na Direcção dos Campinácios.
 
 ### Cargos

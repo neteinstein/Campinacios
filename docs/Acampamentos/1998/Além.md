@@ -5,7 +5,7 @@
 - [Director](../../Cargos/Director.md) - [Sérgio Carvalho](../../Pessoas/S/S%C3%A9rgio%20Carvalho.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [José Lima](../../Pessoas/J/Jos%C3%A9%20Lima.md) sj e [Domingos Freitas](../../Pessoas/D/Domingos%20Freitas.md)
 - [Animador Livre](../../Cargos/Animador%20Livre.md) - [Ricardo Rodrigues](../../Pessoas/R/Ricardo%20Rodrigues.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Telma Pinto](../../Pessoas/T/Telma%20Pinto.md),[Francisco Maria](../../Pessoas/F/Francisco%20Maria.md), João Ruela, Francisco(Quico), [Joana Saraiva](../../Pessoas/J/Joana%20Saraiva.md),
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Telma Pinto](../../Pessoas/T/Telma%20Pinto.md),[Francisco Maria](../../Pessoas/F/Francisco%20Maria.md), [João Ruela](../../Pessoas/J/Jo%C3%A3o%20Branco.md), Francisco(Quico), [Joana Saraiva](../../Pessoas/J/Joana%20Saraiva.md),
 - [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [Carlos Ruiz](../../Pessoas/C/Carlos%20Ruiz.md)
 
 ## Participantes que se tornaram animadores

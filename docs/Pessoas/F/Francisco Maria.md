@@ -9,6 +9,7 @@
 - **Animador**
     - 1996 [Caldelas](../../Acampamentos/1996/Caldelas.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 1998 [Além](../../Acampamentos/1998/Al%C3%A9m.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
+    - 1998 [Mountain Bike](../../Acampamentos/1998/Mountain%20Bike.md) - [Animador Livre](../../Cargos/Animador%20Livre.md)
 
 ---
 

@@ -6,12 +6,12 @@
 
 - [Director](../../Cargos/Director.md) - [João Miguel Rodrigues](../../Pessoas/J/Jo%C3%A3o%20Miguel%20Rodrigues.md)
 - [Mamã](../../Cargos/Mam%C3%A3.md) - [Maria Amorim](../../Pessoas/M/Maria%20Amorim.md)
-- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - João Coutinho
+- [Director-Adjunto](../../Cargos/Director-Adjunto.md) - [João Coutinho](../../Pessoas/J/Jo%C3%A3o%20Coutinho.md)
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [Pedro Rocha Mendes](../../Pessoas/P/Pedro%20Rocha%20Mendes.md) sj (Perrú)
 - [Tia](../../Cargos/Tio.md) - [Sara Rita Sampaio](../../Pessoas/S/Sara%20Rita%20Sampaio.md)
-- [Tia](../../Cargos/Tio.md) - Luísa Esteves da Fonseca
-- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Francisco Maia](../../Pessoas/F/Francisco%20Maia.md), [Sebastião Veloso](../../Pessoas/S/Sebasti%C3%A3o%20Veloso.md) (Pião), Manuel Maria Costa e [Ricardo Costa](../../Pessoas/R/Ricardo%20Costa.md) (Teddy Bear)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - Mafalda Ferreira, Francisca Coutinho, Maria Inês Andrade, Maria Luís Couto (Marilú), [Maria Fontes](../../Pessoas/M/Maria%20Fontes.md) e [Pedro Amado](../../Pessoas/P/Pedro%20Amado.md)
+- [Tia](../../Cargos/Tio.md) - [Luísa Esteves da Fonseca](../../Pessoas/L/Lu%C3%ADsa%20Esteves%20da%20Fonseca.md)
+- [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Francisco Maia](../../Pessoas/F/Francisco%20Maia.md), [Sebastião Veloso](../../Pessoas/S/Sebasti%C3%A3o%20Veloso.md) (Pião), [Manuel Maria Costa](../../Pessoas/M/Manuel%20Maria%20Costa.md) e [Ricardo Costa](../../Pessoas/R/Ricardo%20Costa.md) (Teddy Bear)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Mafalda Ferreira](../../Pessoas/M/Mafalda%20Ferreira.md), [Francisca Coutinho](../../Pessoas/F/Francisca%20Coutinho.md), [Maria Inês Andrade](../../Pessoas/M/Maria%20In%C3%AAs%20Andrade.md), [Maria Luís Couto](../../Pessoas/M/Maria%20Lu%C3%ADs%20Couto.md) (Marilú), [Maria Fontes](../../Pessoas/M/Maria%20Fontes.md) e [Pedro Amado](../../Pessoas/P/Pedro%20Amado.md)
 
 ## Participantes que se tornaram animadores
 
