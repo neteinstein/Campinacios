@@ -25,6 +25,7 @@
 - [Simão Alves da Silva](Sim%C3%A3o%20Alves%20da%20Silva.md)
 - [Sofia Amaral](Sofia%20Amaral.md)
 - [Sofia Ângelo](Sofia%20%C3%82ngelo.md)
+- [Sofia Antunes](Sofia%20Antunes.md)
 - [Sofia Azevedo Cardoso](Sofia%20Azevedo%20Cardoso.md)
 - [Sofia Castilho](Sofia%20Castilho.md)
 - [Sofia Fernandes](Sofia%20Fernandes.md)

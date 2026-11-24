@@ -2,7 +2,7 @@
 
 Jesuítas que animam ou animaram acampamentos de Campinácios
 
-## Páginas nesta categoria (88)
+## Páginas nesta categoria (91)
 
 - ["Para Educar Melhor - Campos de férias inacianos"](../Movimento/Para%20Educar%20Melhor%20-%20Campos%20de%20f%C3%A9rias%20inacianos.md)
 - [Abel Bandeira](../Pessoas/A/Abel%20Bandeira.md)
@@ -18,6 +18,7 @@ Jesuítas que animam ou animaram acampamentos de Campinácios
 - [António Valério](../Pessoas/A/Ant%C3%B3nio%20Val%C3%A9rio.md)
 - [Bruno Nobre](../Pessoas/B/Bruno%20Nobre.md)
 - [Carlos Azevedo Mendes](../Pessoas/C/Carlos%20Azevedo%20Mendes.md)
+- [Carlos Carneiro](../Pessoas/C/Carlos%20Carneiro.md)
 - [Carlos Carvalho](../Pessoas/C/Carlos%20Carvalho.md)
 - [Carlos Miranda](../Pessoas/C/Carlos%20Miranda.md)
 - [Cristovão Andrade](../Pessoas/C/Cristov%C3%A3o%20Andrade.md)
@@ -32,6 +33,7 @@ Jesuítas que animam ou animaram acampamentos de Campinácios
 - [Eduardo Amaral](../Pessoas/E/Eduardo%20Amaral.md)
 - [Eduardo Carvalho](../Pessoas/E/Eduardo%20Carvalho.md)
 - [Emanuel Lopes](../Pessoas/E/Emanuel%20Lopes.md)
+- [Fernando Ribeiro](../Pessoas/F/Fernando%20Ribeiro.md)
 - [Filipe Lima](../Pessoas/F/Filipe%20Lima.md)
 - [Filipe Martins](../Pessoas/F/Filipe%20Martins.md)
 - [Filipe Noronha](../Pessoas/F/Filipe%20Noronha.md)
@@ -53,6 +55,7 @@ Jesuítas que animam ou animaram acampamentos de Campinácios
 - [João Goulão](../Pessoas/J/Jo%C3%A3o%20Goul%C3%A3o.md)
 - [João Ilhão](../Pessoas/J/Jo%C3%A3o%20Ilh%C3%A3o.md)
 - [João Manuel Silva](../Pessoas/J/Jo%C3%A3o%20Manuel%20Silva.md)
+- [João Muñoz](../Pessoas/J/Jo%C3%A3o%20Mu%C3%B1oz.md)
 - [Jorge Manuel Sena](../Pessoas/J/Jorge%20Manuel%20Sena.md)
 - [José Araújo](../Pessoas/J/Jos%C3%A9%20Ara%C3%BAjo.md)
 - [José Carlos Belchior](../Pessoas/J/Jos%C3%A9%20Carlos%20Belchior.md)

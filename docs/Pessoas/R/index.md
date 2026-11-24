@@ -27,6 +27,7 @@
 - [Ricardo Rodrigues](Ricardo%20Rodrigues.md)
 - [Ricardo Simões](Ricardo%20Sim%C3%B5es.md)
 - [Rita Antunes](Rita%20Antunes.md)
+- [Rita Caeiro](Rita%20Caeiro.md)
 - [Rita Carvalho](Rita%20Carvalho.md)
 - [Rita Centeno](Rita%20Centeno.md)
 - [Rita Coelho](Rita%20Coelho.md)

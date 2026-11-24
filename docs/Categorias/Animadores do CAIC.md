@@ -2,7 +2,7 @@
 
 Animadores do Colégio da Imaculada Conceição
 
-## Páginas nesta categoria (113)
+## Páginas nesta categoria (114)
 
 - [Alexandra Silva](../Pessoas/A/Alexandra%20Silva.md)
 - [Ana Carolina Santos](../Pessoas/A/Ana%20Carolina%20Santos.md)
@@ -112,6 +112,7 @@ Animadores do Colégio da Imaculada Conceição
 - [Sofia Amaral](../Pessoas/S/Sofia%20Amaral.md)
 - [Susana Carvalho](../Pessoas/S/Susana%20Carvalho.md)
 - [Susana Vaz Pedro](../Pessoas/S/Susana%20Vaz%20Pedro.md)
+- [Teresa Calheiros de Sá](../Pessoas/T/Teresa%20Calheiros%20de%20S%C3%A1.md)
 - [Teresa Martinho](../Pessoas/T/Teresa%20Martinho.md)
 - [Tiago Madeira](../Pessoas/T/Tiago%20Madeira.md)
 - [Tiago Pimenta](../Pessoas/T/Tiago%20Pimenta.md)

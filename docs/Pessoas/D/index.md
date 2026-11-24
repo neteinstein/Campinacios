@@ -30,6 +30,7 @@
 - [Diogo Reis](Diogo%20Reis.md)
 - [Diogo Romão](Diogo%20Rom%C3%A3o.md)
 - [Diogo Salgueiro](Diogo%20Salgueiro.md)
+- [Diogo Simões Pereira](Diogo%20Sim%C3%B5es%20Pereira.md)
 - [Diogo Torcato](Diogo%20Torcato.md)
 - [Diogo Vala](Diogo%20Vala.md)
 - [Diogo Vasconcelos](Diogo%20Vasconcelos.md)
