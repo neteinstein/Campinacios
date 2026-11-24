@@ -10,7 +10,11 @@ O Tribal foi o primeiro acampamento de [Triciclos](../../Categorias/Triciclos.md
 - [Capelão](../../Cargos/Capel%C3%A3o.md) - [José Araújo](../../Pessoas/J/Jos%C3%A9%20Ara%C3%BAjo.md) sj
 - [Tia](../../Cargos/Tio.md) - Teresa Martins
 - [Animadores Livres](../../Cargos/Animador%20Livre.md) - [Filipe Condado](../../Pessoas/F/Filipe%20Condado.md) e [Ana Pina](../../Pessoas/A/Ana%20Pina.md)
-- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Margarida Valle](../../Pessoas/M/Margarida%20Valle.md), [Sara Amado](../../Pessoas/S/Sara%20Amado.md), [Magui](../../Pessoas/M/Magui.md), [Raquel Filgueiras](../../Pessoas/R/Raquel%20Filgueiras.md), [Jacinto Lucas Pires](../../Pessoas/J/Jacinto%20Lucas%20Pires.md) e [João Cruz](../../Pessoas/J/Jo%C3%A3o%20Cruz.md)
+- [Animadores de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Margarida Valle](../../Pessoas/M/Margarida%20Valle.md), [Sara Amado](../../Pessoas/S/Sara%20Amado.md), [Magui](../../Pessoas/M/Magui.md), [Raquel Filgueiras](../../Pessoas/R/Raquel%20Filgueiras.md), [Jacinto Lucas Pires](../../Pessoas/J/Jacinto%20Lucas%20Pires.md), [João Cruz](../../Pessoas/J/Jo%C3%A3o%20Cruz.md) e [Joana Moraes](../../Pessoas/J/Joana%20Moraes.md)
+
+## Participantes que se tornaram animadores
+
+- [Gonçalo Forte Vaz](../../Pessoas/G/Gon%C3%A7alo%20Forte%20Vaz.md)
 
 ---
 

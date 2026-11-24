@@ -1,8 +1,8 @@
 # Joana Ferreira da Silva
 
-Joana Silva ou,depois de casada, Joana Viana Lopes.
+*Nota: Este artigo é sobre Joana Ferreira da Silva, animadora de 2002 a 2007. Há outras pessoas chamadas Joana Silva: ver [Joana Silva](../../Movimento/Desambigua%C3%A7%C3%A3o/Joana%20Silva.md).*
 
-*Nota: Este artigo é sobre Joana Ferreira da Silva, animadora de 2002 a 2007. Se procura Joana Branco da Silva, Delegada SPC da Direcção Nacional em 2024/2025, consulte [Joana Branco da Silva](Joana%20Branco%20da%20Silva.md).*
+Joana Silva ou,depois de casada, Joana Viana Lopes.
 
 Joana Ferreira da Silva aparece nas listas de animadores do [CSJB](../../Movimento/CSJB.md) de 2006-07.
 

@@ -1,4 +1,4 @@
-# Vera
+# Cristina Pegado
 
 ### Acampamentos
 

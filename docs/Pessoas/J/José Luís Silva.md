@@ -12,6 +12,7 @@
 - **Participante**
     - 1992 [Agroal](../../Acampamentos/1992/Agroal.md)
     - 1993 [Tabuadelas II](../../Acampamentos/1993/Tabuadelas%20II.md)
+    - 1994 [Wally](../../Acampamentos/1994/Wally.md)
 - **Animador**
     - 1997 [Torneira](../../Acampamentos/1997/Torneira.md) - [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md)
     - 1999 [Caroço](../../Acampamentos/1999/Caro%C3%A7o.md) - [Director](../../Cargos/Director.md)

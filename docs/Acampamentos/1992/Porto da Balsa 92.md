@@ -5,6 +5,7 @@ Acampamento de [Bicicletas](../../Categorias/Bicicletas.md) que decorreu em [Por
 ### Animadores
 
 - [Director](../../Cargos/Director.md) - [Rodrigo Queiroz e Melo](../../Pessoas/R/Rodrigo%20Queiroz%20e%20Melo.md)
+- [Animador de Equipa](../../Cargos/Animador%20de%20Equipa.md) - [Rafael Lucas Pires](../../Pessoas/R/Rafael%20Lucas%20Pires.md)
 
 ## Participantes que se tornaram animadores
 
