@@ -1,5 +1,7 @@
 # Luís Faria
 
+*Nota: Este artigo é sobre Luís Faria, animador do CSJB. Se procura Luísa Faria (Lu), consulte [Luísa Faria](Lu%C3%ADsa%20Faria.md).*
+
 Luís Faria aparece na lista de animadores do Colégio S. João de Brito de 2010.
 
 ### Acampamentos
